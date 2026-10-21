@@ -3,12 +3,12 @@ import { Link } from '../lib/router'
 import type { Route } from '../types'
 
 const base =
-  'inline-flex items-center rounded-full border px-3.5 py-1.5 text-sm font-medium transition-colors duration-150 ease-out'
+  'inline-flex items-center border px-3 py-1.5 text-sm font-medium transition-colors duration-150 ease-out'
 
 const tones = {
-  idle: 'border-line bg-cream text-ink-soft hover:border-gold-soft hover:bg-gold-wash',
-  active: 'border-ink bg-ink text-cream',
-  gold: 'border-gold/40 bg-gold-wash text-ink',
+  idle: 'border-line bg-paper text-ink-soft hover:border-ink hover:text-ink',
+  active: 'border-ink bg-ink text-paper',
+  accent: 'border-cinnabar/35 bg-cinnabar-wash text-ink',
 } as const
 
 export function Chip({

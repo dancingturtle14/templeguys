@@ -1,54 +1,13 @@
-# TempleGuys design system
+# Threshold Atlas
 
-## Intent
-Editorial travel magazine × calm sacred places. Premium, quiet, content-first — built for high organic PV reading sessions, not startup-gradient chrome.
+## Design philosophy
 
-## Palette
-| Token | Hex | Role |
-| --- | --- | --- |
-| `cream` | `#F7F3EB` | Page background |
-| `cream-deep` | `#EFE6D8` | Soft bands / panels |
-| `parchment` | `#E8DFD0` | Image placeholders |
-| `ink` | `#1C1917` | Primary text, dark UI |
-| `ink-soft` | `#44403C` | Body secondary |
-| `ink-muted` | `#78716C` | Meta / captions |
-| `gold` | `#9A7B4F` | Single accent |
-| `gold-soft` | `#C4A574` | Soft accent / icons on dark |
-| `gold-wash` | `#F0E6D4` | Accent chips / note panels |
-| `line` | `#D6CBB8` | Borders |
+Threshold Atlas treats every surface as a quiet map of arrival. Space is measured the way a surveyor measures land: generous margins, deliberate gutters, and edges that feel cut rather than rounded. Forms stay planar — paper against paper — so depth comes from overlap, scale contrast, and photographic crop, never from glow, glass, or soft floating cards. Negative space is load-bearing; emptiness is not unfinished, it is the pause before a doorway.
 
-One accent per view (gold). No purple, no glow, no multicolor gradients on UI chrome. Image-load fallbacks may use a warm stone wash.
+Color is mineral and archival. Warm paper grounds the field; deep ink carries language; a single restrained cinnabar accent marks wayfinding the way a cartographer marks a capital — sparingly, never as decoration. Materials read as stone, parchment, and oxidized metal rather than screens and gradients. Hue relationships are fixed with painstaking attention so the palette feels inevitable, the product of deep expertise rather than trend sampling.
 
-## Typography
-- **Display:** Fraunces (optical size) — headings, brand, section titles
-- **Body / UI:** Source Sans 3
-- Headings use `text-balance`; paragraphs use `text-pretty`
-- No custom letter-spacing
+Scale and rhythm follow atlas grammar: a monumental title beside a small coordinate label; a full-bleed photograph interrupted by a thin rule and a caption in a whisper weight. Vertical cadence is uneven on purpose — long reading columns, then a sudden wide band of image, then a narrow index. Hierarchy is spatial before it is chromatic: the largest quiet thing wins; accent color arrives last, as a pin on the map.
 
-## Layout & IA
-```
-/                     Home — hero, featured, region/religion chips, how-it-works
-/explore              Directory — search + region + tradition filters
-/region/:slug         Region landing (unique H1, filtered set)
-/religion/:slug       Tradition landing (unique H1, filtered set)
-/temple/:id           Detail — hero, quick facts, visit guide, related
-/about                About, respect note, photo credits
-```
+Composition favors asymmetry and magazine tension. Alignments lock to a strict column system, yet focal images may break the grid like a fold-out plate. Visual hierarchy is built through crop, weight, and proximity — meticulously crafted so each spread feels labored over with care, master-level execution rather than template assembly. Text is sparse on decorative surfaces and essential in guides: short labels, strong titles, readable body. Information lives in structure first; words confirm what the layout already shows.
 
-Source of truth: `src/data/temples.json`.
-
-## UX patterns
-- Mobile-first; sticky header with blur
-- Cards: warm border, soft shadow, 4:3 cover crop
-- Detail pages: sticky aside with ad slot + on-this-page
-- Filters prefer pretty URLs (`/region/...`, `/religion/...`) when a single facet is active
-- `content-visibility: auto` on below-fold cards/sections
-- Hero LCP image uses `fetchpriority="high"`; others `loading="lazy"`
-- `min-h-dvh` / `h-dvh` (never `h-screen`)
-- Respects `prefers-reduced-motion`
-
-## Ads (future)
-`AdSlot` components reserve dashed placeholders with `/* ADSENSE_SLOT */` comments. No AdSense scripts in v1.
-
-## Soft CTA
-Footer only: discreet link to `hktemplegifts.com`. No hard sell in guides.
+Every artifact should appear as though countless hours of craftsmanship refined it — the work of someone at the absolute top of their field. Hairlines, type pairing, and image edges receive the same painstaking attention as the destination itself. Threshold Atlas is not loud sacred kitsch; it is the quiet competence of a well-made guidebook left open on a stone ledge.

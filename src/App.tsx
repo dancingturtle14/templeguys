@@ -32,8 +32,8 @@ export default function App() {
       page = (
         <ExplorePage
           initialRegion={route.slug}
-          heading={`Temples in ${regionLabel(route.slug)}`}
-          intro={`Visit guides for key temples and sacred sites across ${regionLabel(route.slug)}.`}
+          heading={`Sacred places in ${regionLabel(route.slug)}`}
+          intro={`Visit guides for key temples, shrines, and houses of worship across ${regionLabel(route.slug)}.`}
         />
       )
       break
@@ -41,8 +41,8 @@ export default function App() {
       page = (
         <ExplorePage
           initialReligion={route.slug}
-          heading={`${religionLabel(route.slug)} temples & sacred sites`}
-          intro={`Browse ${religionLabel(route.slug).toLowerCase()} places of worship with practical visit guidance.`}
+          heading={`${religionLabel(route.slug)} places of worship`}
+          intro={`Browse ${religionLabel(route.slug).toLowerCase()} sacred sites with practical visit guidance.`}
         />
       )
       break

@@ -37,7 +37,6 @@ export function ExplorePage({
     const nextReligion = next.religion
     const nextQ = next.q?.trim() || undefined
 
-    // Prefer pretty landing URLs when a single facet is set and search is empty
     if (!nextQ && nextRegion && !nextReligion) {
       navigate({ name: 'region', slug: nextRegion })
       return
@@ -57,23 +56,23 @@ export function ExplorePage({
   const title =
     heading ??
     (region
-      ? `Temples in ${regionLabel(region)}`
+      ? `Sacred places in ${regionLabel(region)}`
       : religion
-        ? `${religionLabel(religion)} temples & sacred sites`
-        : 'Explore temples')
+        ? `${religionLabel(religion)} places of worship`
+        : 'Explore sacred places')
 
   return (
     <div className="mx-auto max-w-6xl px-4 py-10 sm:px-6 lg:px-8">
-      <header className="max-w-2xl">
-        <p className="text-sm font-semibold text-gold">Directory</p>
-        <h1 className="mt-2 font-display text-4xl text-balance">{title}</h1>
-        <p className="mt-3 text-pretty text-ink-soft">
+      <header className="max-w-2xl border-b border-line pb-8">
+        <p className="text-[0.7rem] font-semibold uppercase text-cinnabar">Directory</p>
+        <h1 className="mt-3 font-display text-4xl text-balance sm:text-5xl">{title}</h1>
+        <p className="mt-4 text-pretty text-ink-soft">
           {intro ??
-            'Search and filter the world’s key temples. Every card opens a full visit guide.'}
+            'Search and filter temples, churches, mosques, shrines, and pilgrimage sites. Every entry opens a full visit guide.'}
         </p>
       </header>
 
-      <div className="mt-8 space-y-4 rounded-2xl border border-line bg-cream-deep/40 p-4 sm:p-5">
+      <div className="mt-8 space-y-5 border border-line bg-paper-deep/50 p-4 sm:p-6">
         <label className="block">
           <span className="text-sm font-medium text-ink-soft">Search</span>
           <input
@@ -85,7 +84,7 @@ export function ExplorePage({
               pushFilters({ q: value, region, religion })
             }}
             placeholder="Name, city, country…"
-            className="mt-1.5 w-full rounded-xl border border-line bg-cream px-3.5 py-2.5 text-ink outline-none placeholder:text-ink-muted focus:border-gold"
+            className="mt-1.5 w-full border border-line bg-paper px-3.5 py-2.5 text-ink outline-none placeholder:text-ink-muted focus:border-cinnabar"
           />
         </label>
 
@@ -129,18 +128,18 @@ export function ExplorePage({
         </div>
       </div>
 
-      <p className="mt-6 text-sm text-ink-muted">
-        <span className="tabular-nums font-medium text-ink">{results.length}</span> temple
+      <p className="mt-8 text-sm text-ink-muted">
+        <span className="tabular-nums font-medium text-ink">{results.length}</span> place
         {results.length === 1 ? '' : 's'}
       </p>
 
       {results.length === 0 ? (
-        <div className="mt-8 rounded-2xl border border-line bg-cream p-8 text-center">
-          <p className="font-display text-xl">No temples match</p>
+        <div className="mt-8 border border-line bg-paper p-10 text-center">
+          <p className="font-display text-2xl">No places match</p>
           <p className="mt-2 text-ink-soft">Clear filters or try another search term.</p>
           <button
             type="button"
-            className="mt-4 rounded-full bg-ink px-4 py-2 text-sm font-semibold text-cream"
+            className="mt-5 bg-ink px-4 py-2 text-sm font-semibold text-paper"
             onClick={() => {
               setQ('')
               navigate({ name: 'explore' })

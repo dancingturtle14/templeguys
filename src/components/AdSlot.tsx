@@ -2,7 +2,7 @@
 export function AdSlot({ label = 'Advertisement' }: { label?: string }) {
   return (
     <aside
-      className="rounded-xl border border-dashed border-line bg-cream-deep/60 px-4 py-6 text-center"
+      className="border border-dashed border-line bg-paper-deep/70 px-4 py-6 text-center"
       aria-label="Advertisement placeholder"
       data-ad-slot="reserved"
     >

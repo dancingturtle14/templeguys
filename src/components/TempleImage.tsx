@@ -1,7 +1,6 @@
 import { useState } from 'react'
 
-const fallback =
-  'linear-gradient(145deg, #efe6d8 0%, #d6cbb8 45%, #9a7b4f 100%)'
+const fallback = 'linear-gradient(160deg, #e7e0d2 0%, #d4cbba 50%, #3f3a34 100%)'
 
 export function TempleImage({
   src,
@@ -18,11 +17,15 @@ export function TempleImage({
 }) {
   const [failed, setFailed] = useState(false)
   const ratio =
-    aspect === 'hero' ? 'aspect-[16/10] md:aspect-[21/9]' : aspect === 'square' ? 'aspect-square' : 'aspect-[4/3]'
+    aspect === 'hero'
+      ? 'aspect-[16/10] md:aspect-[21/9]'
+      : aspect === 'square'
+        ? 'aspect-square'
+        : 'aspect-[4/3]'
 
   return (
     <div
-      className={`relative overflow-hidden bg-parchment ${ratio} ${className}`}
+      className={`relative overflow-hidden bg-stone ${ratio} ${className}`}
       style={failed ? { backgroundImage: fallback } : undefined}
     >
       {!failed && (
@@ -40,9 +43,9 @@ export function TempleImage({
       )}
       {failed && (
         <div className="absolute inset-0 flex items-end p-4">
-          <svg viewBox="0 0 120 80" className="h-16 w-24 text-ink/25" aria-hidden="true">
-            <path fill="currentColor" d="M60 8 L92 40 H78 V68 H42 V40 H28 Z" />
-            <rect x="52" y="48" width="16" height="20" fill="#f7f3eb" opacity="0.5" />
+          <svg viewBox="0 0 32 32" className="size-10 text-ink/20" aria-hidden="true">
+            <path fill="currentColor" d="M8 26V10h4v16H8zm12 0V10h4v16h-4z" />
+            <rect x="14" y="6" width="4" height="4" fill="#9C3B2E" opacity="0.5" />
           </svg>
         </div>
       )}

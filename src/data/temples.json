@@ -16,8 +16,8 @@
       "buddhist"
     ],
     "summary": "The largest religious monument on Earth — a 12th-century Khmer masterpiece rising from the jungle near Siem Reap.",
-    "heroImage": "https://images.unsplash.com/photo-1540611025311-01df3cef54b5?auto=format&fit=crop&w=1600&q=80",
-    "heroCredit": "Unsplash",
+    "heroImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Ankor_Wat_temple.jpg/1280px-Ankor_Wat_temple.jpg",
+    "heroCredit": "Wikimedia Commons",
     "featured": true,
     "quickFacts": {
       "founded": "Early 12th century",
@@ -25,32 +25,84 @@
       "unesco": "Angkor (1992)",
       "typicalVisit": "3–5 hours"
     },
-    "visitGuide": {
-      "practical": {
-        "hours": "Angkor Archaeological Park generally opens around sunrise; ticket booths and temple access hours vary by site — verify before visit.",
-        "tickets": "1-, 3-, and 7-day Angkor Passes required. Buy only from official counters or the authorised online channel.",
-        "dress": "Cover shoulders and knees. Hats off inside shrine spaces. Comfortable shoes for uneven stone.",
-        "duration": "Half day for the main complex; multi-day for the wider park."
-      },
-      "etiquette": [
-        "Do not climb on restricted towers or bas-reliefs.",
-        "Keep voices low near active worship spaces.",
-        "Ask before photographing people at prayer.",
-        "Drones are restricted — check current park rules."
-      ],
-      "gettingThere": "Fly into Siem Reap (SAI). Tuk-tuks and licensed guides are the usual way into the park; hire for the day rather than hopping ad hoc.",
-      "bestTime": "November–February (cooler, drier). Sunrise at the reflecting pools is popular — arrive early and leave room for quieter mid-morning exploration.",
-      "notes": [
-        "Verify opening hours and ticket rules before visit — they change seasonally.",
-        "Bring water, sun protection, and cash for small vendors.",
-        "Many towers have steep, uneven steps; skip if mobility is limited."
-      ]
-    },
     "related": [
       "borobudur",
       "wat-arun",
       "wat-phra-kaew"
-    ]
+    ],
+    "overview": {
+      "body": [
+        "Angkor Wat is the centrepiece of the Angkor Archaeological Park near Siem Reap — a 12th-century Khmer temple-mountain dedicated first to Vishnu, later embraced as a Buddhist sanctuary. Its five lotus towers, moat, and kilometres of bas-reliefs make it one of the world’s most recognisable sacred monuments.",
+        "A visit rewards slow walking: galleries of the Hindu epics, quiet courtyards, and the long causeway at dawn. Plan it as part of a multi-day Angkor Pass rather than a single rushed hour."
+      ],
+      "highlights": [
+        "Largest religious monument complex on Earth",
+        "UNESCO World Heritage (Angkor, 1992)",
+        "Sunrise reflecting pools + bas-relief galleries",
+        "Best with a licensed guide on a multi-day pass"
+      ]
+    },
+    "visit": {
+      "intro": "The Angkor Pass covers Angkor Wat and 50+ temples in the park. Hours and booth rules shift seasonally — confirm before you go.",
+      "hours": "Park access commonly from around sunrise; individual temples may open/close on staggered schedules. Ticket booths and online purchase windows differ from temple opening times — verify the day before.",
+      "tickets": "1-, 3-, and 7-day Angkor Passes are required for foreigners. Buy only via Angkor Enterprise (official site, app, kiosk, or counter). Third-party “cheap” passes are often invalid.",
+      "dress": "Cover shoulders and knees. Hats off in shrine spaces. Sturdy shoes for uneven laterite and steep steps.",
+      "duration": "Half day for the main Angkor Wat circuit; 2–3 days for the wider park without rushing.",
+      "access": "Long causeway and galleries involve stairs and uneven stone. Upper towers are often restricted; skip climbs if mobility is limited.",
+      "tips": [
+        "Carry water, sun protection, and small cash for vendors.",
+        "Keep your pass visible — checks are frequent.",
+        "Hire a tuk-tuk or car for the day rather than hopping ad hoc."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://www.angkorenterprise.gov.kh/en",
+      "ticketsLabel": "Buy Angkor Pass (official)",
+      "ticketsNote": "Official Angkor Enterprise — check current 1/3/7-day prices on the site before paying. Avoid unofficial resellers."
+    },
+    "etiquette": {
+      "intro": "Angkor Wat is both a monument and a living place of devotion. Treat towers, monks, and worshippers with care.",
+      "bullets": [
+        "Do not climb on restricted towers, lintels, or bas-reliefs.",
+        "Keep voices low near active shrines and monks.",
+        "Ask before photographing people at prayer.",
+        "Drones are restricted — check current park rules before packing one.",
+        "Dress codes are enforced at many towers; carry a light scarf or wrap."
+      ]
+    },
+    "gettingThere": {
+      "intro": "Most visitors base in Siem Reap and enter the park by tuk-tuk, car, or bicycle with a pass.",
+      "paragraphs": [
+        "Fly into Siem Reap–Angkor International Airport (SAI). From central Siem Reap, Angkor Wat is roughly 20–30 minutes by tuk-tuk depending on traffic and which gate you use.",
+        "Licensed guides and fixed-price day drivers are widely available; agree the circuit (Angkor Wat + Angkor Thom + Ta Prohm is the classic first day) before you leave town."
+      ],
+      "bullets": [
+        "Nearest hub: Siem Reap (SAI airport + town hotels)",
+        "Typical last mile: tuk-tuk or private car with Angkor Pass",
+        "Cycling is possible for nearby temples if you are fit and heat-aware"
+      ]
+    },
+    "bestTime": {
+      "intro": "Cooler, drier months are kinder for long stone walks; sunrise is beautiful and crowded.",
+      "paragraphs": [
+        "November–February is the classic high season: clearer skies and cooler mornings. March–May bring heat; June–October bring rain and lush vegetation with fewer crowds on some days.",
+        "Sunrise at the reflecting pools is iconic — arrive early, then linger for quieter mid-morning galleries after tour groups move on."
+      ],
+      "bullets": [
+        "Best overall: November–February",
+        "Hottest: April–May — start at dawn",
+        "Festivals and public holidays increase crowds — verify local calendars"
+      ]
+    },
+    "notes": {
+      "intro": "注意事項 · Verify before visit — park rules and ticket systems change.",
+      "bullets": [
+        "Confirm opening hours and pass rules the day before — seasonal changes are common.",
+        "Many towers have steep, uneven steps without handrails.",
+        "Heat exhaustion is real: shade, water, and a midday rest help.",
+        "Respect rope barriers and restoration zones — they protect fragile stone.",
+        "SanctaWay notes are guides, not permits; follow on-site staff."
+      ]
+    }
   },
   {
     "id": "borobudur",
@@ -76,30 +128,83 @@
       "unesco": "Borobudur Temple Compounds (1991)",
       "typicalVisit": "2–3 hours"
     },
-    "visitGuide": {
-      "practical": {
-        "hours": "Daytime access is standard; sunrise tickets are sold separately when offered — verify before visit.",
-        "tickets": "Official Borobudur tickets via authorised operators; international and domestic rates differ.",
-        "dress": "Modest clothing. Temple cloth (sarong) may be required for upper levels — usually provided with entry.",
-        "duration": "2–3 hours including museum and grounds."
-      },
-      "etiquette": [
-        "Walk clockwise on the galleries when following traditional practice.",
-        "Do not sit or stand on Buddha statues or stupas.",
-        "Follow staff directions on which tiers are open."
-      ],
-      "gettingThere": "About 40–60 minutes from Yogyakarta by car. Organised tours and private drivers are common.",
-      "bestTime": "Dry season (roughly April–October). Sunrise is atmospheric but crowded; mid-morning light is excellent for reliefs.",
-      "notes": [
-        "Capacity limits may apply on upper terraces — book ahead when required.",
-        "Verify before visit: access rules have tightened in recent years."
-      ]
-    },
     "related": [
       "angkor-wat",
       "todai-ji",
       "po-lin"
-    ]
+    ],
+    "overview": {
+      "body": [
+        "Borobudur is a 9th-century Mahayana Buddhist monument in Central Java — concentric terraces of stone reliefs ascending toward a silent stupa summit.",
+        "Access rules have tightened: courtyard tickets and temple-climb tickets differ, and upper levels may require timed entry."
+      ],
+      "highlights": [
+        "UNESCO Borobudur Temple Compounds (1991)",
+        "Relief galleries best walked clockwise",
+        "Sunrise tickets sold separately when offered",
+        "Pair with Yogyakarta as a base"
+      ]
+    },
+    "visit": {
+      "intro": "Choose the right ticket type: grounds-only versus climbing the structure. Capacity limits apply.",
+      "hours": "Daytime access is standard; sunrise programmes are separate when offered — verify before visit.",
+      "tickets": "Official tickets via Borobudur Park operators; international and domestic rates differ. Temple-climb tickets often include a guide and wristband.",
+      "dress": "Modest clothing. Temple cloth (sarong) may be required for upper levels — usually provided with climb tickets.",
+      "duration": "2–3 hours including museum and grounds; longer with sunrise.",
+      "access": "Many steps and uneven stone. Upper terraces may close or limit numbers.",
+      "tips": [
+        "Book climb slots ahead in peak season.",
+        "Footwear rules on the structure — follow staff.",
+        "Combine with Prambanan only if you have a full day and energy."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://ticket.borobudurpark.com/en/",
+      "ticketsLabel": "Buy tickets (official)",
+      "ticketsNote": "Official Borobudur Park ticketing. Compare courtyard vs temple-climb options and current prices on the site."
+    },
+    "etiquette": {
+      "intro": "Respectful behaviour keeps Borobudur welcoming for worshippers and visitors alike.",
+      "bullets": [
+        "Walk clockwise on the galleries when following traditional practice.",
+        "Do not sit or stand on Buddha statues or stupas.",
+        "Follow staff directions on which tiers are open.",
+        "Follow posted signs even when others ignore them.",
+        "If unsure, ask a steward or attendant quietly."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Borobudur.",
+      "paragraphs": [
+        "About 40–60 minutes from Yogyakarta by car. Organised tours and private drivers are common.",
+        "Build buffer time for security lines, prayer schedules, and weather. Last-mile options matter as much as the airport."
+      ],
+      "bullets": [
+        "Country / area: Indonesia",
+        "Prefer official taxis, licensed guides, or public transit over unmarked offers.",
+        "Confirm return transport before sunset at remote sites."
+      ]
+    },
+    "bestTime": {
+      "intro": "When Borobudur is most pleasant — and when it is busiest.",
+      "paragraphs": [
+        "Dry season (roughly April–October). Sunrise is atmospheric but crowded; mid-morning light is excellent for reliefs.",
+        "Major feast days are meaningful but crowded. For quieter visits, aim for weekday openings outside peak pilgrimage seasons."
+      ],
+      "bullets": [
+        "Check local holidays and liturgical calendars",
+        "Heat, rain, and altitude can matter as much as tickets",
+        "Sunrise/sunset slots fill first at iconic viewpoints"
+      ]
+    },
+    "notes": {
+      "intro": "注意事項 · Verify before visit",
+      "bullets": [
+        "Capacity limits may apply on upper terraces — book ahead when required.",
+        "Verify before visit: access rules have tightened in recent years.",
+        "Rules, fees, and closures change without long notice — recheck official sources within a week of travel.",
+        "SanctaWay is informational; it does not sell tickets or grant access."
+      ]
+    }
   },
   {
     "id": "meiji-shrine",
@@ -125,31 +230,84 @@
       "unesco": "—",
       "typicalVisit": "1–2 hours"
     },
-    "visitGuide": {
-      "practical": {
-        "hours": "Sunrise to sunset typically; exact times shift with the season — verify before visit.",
-        "tickets": "Shrine grounds are free. Inner gardens and special exhibitions may have fees.",
-        "dress": "Modest, tidy attire. Remove hats when approaching the main hall.",
-        "duration": "1–2 hours for paths, purification, and the main hall."
-      },
-      "etiquette": [
-        "Bow once before passing under a torii; walk to the side, not the centre path reserved for deities.",
-        "Purify hands and mouth at the temizuya before approaching.",
-        "At the hall: toss a coin, bow twice, clap twice, bow once (common practice — follow posted guidance).",
-        "No eating, drinking, or loud phone calls on the sacred paths."
-      ],
-      "gettingThere": "JR Harajuku Station or Metro Meiji-jingumae. Follow signs into the forested approach.",
-      "bestTime": "Early morning for quiet. Weekends and New Year are extremely busy. Autumn foliage is beautiful.",
-      "notes": [
-        "Photography is usually fine outdoors; respect signs near the main sanctuary.",
-        "Wedding processions are common — give them space."
-      ]
-    },
     "related": [
       "todai-ji",
       "po-lin",
       "wat-arun"
-    ]
+    ],
+    "overview": {
+      "body": [
+        "Meiji Jingū is a Shinto shrine set in a man-made forest in central Tokyo, dedicated to Emperor Meiji and Empress Shōken.",
+        "Grounds are free. Inner garden tickets and special exhibitions are separate when offered."
+      ],
+      "highlights": [
+        "Free shrine grounds",
+        "Forest approach from Harajuku",
+        "Temizuya purification etiquette",
+        "Weddings and festivals common"
+      ]
+    },
+    "visit": {
+      "intro": "No ticket for the main grounds. Check garden fees if you want the iris garden.",
+      "hours": "Sunrise to sunset typically; exact times shift with the season — verify before visit.",
+      "tickets": "Shrine grounds free. Inner gardens / exhibitions may charge.",
+      "dress": "Modest, tidy attire. Hats off approaching the main hall.",
+      "duration": "1–2 hours for paths, purification, and the main hall.",
+      "access": "Gravel paths are mostly flat; distances add up. Wheelchair routes exist — ask at entrances.",
+      "tips": [
+        "Walk beside the centre path under torii, not down the middle.",
+        "Purify at the temizuya before the hall.",
+        "New Year and weekends are extremely busy."
+      ],
+      "entryType": "free",
+      "ticketsUrl": null,
+      "ticketsLabel": null,
+      "ticketsNote": "Free entry to shrine grounds. Garden tickets sold separately when open."
+    },
+    "etiquette": {
+      "intro": "Respectful behaviour keeps Meiji Jingū welcoming for worshippers and visitors alike.",
+      "bullets": [
+        "Bow once before passing under a torii; walk to the side, not the centre path reserved for deities.",
+        "Purify hands and mouth at the temizuya before approaching.",
+        "At the hall: toss a coin, bow twice, clap twice, bow once (common practice — follow posted guidance).",
+        "No eating, drinking, or loud phone calls on the sacred paths.",
+        "Follow posted signs even when others ignore them.",
+        "If unsure, ask a steward or attendant quietly."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Meiji Jingū.",
+      "paragraphs": [
+        "JR Harajuku Station or Metro Meiji-jingumae. Follow signs into the forested approach.",
+        "Build buffer time for security lines, prayer schedules, and weather. Last-mile options matter as much as the airport."
+      ],
+      "bullets": [
+        "Country / area: Japan",
+        "Prefer official taxis, licensed guides, or public transit over unmarked offers.",
+        "Confirm return transport before sunset at remote sites."
+      ]
+    },
+    "bestTime": {
+      "intro": "When Meiji Jingū is most pleasant — and when it is busiest.",
+      "paragraphs": [
+        "Early morning for quiet. Weekends and New Year are extremely busy. Autumn foliage is beautiful.",
+        "Major feast days are meaningful but crowded. For quieter visits, aim for weekday openings outside peak pilgrimage seasons."
+      ],
+      "bullets": [
+        "Check local holidays and liturgical calendars",
+        "Heat, rain, and altitude can matter as much as tickets",
+        "Sunrise/sunset slots fill first at iconic viewpoints"
+      ]
+    },
+    "notes": {
+      "intro": "注意事項 · Verify before visit",
+      "bullets": [
+        "Photography is usually fine outdoors; respect signs near the main sanctuary.",
+        "Wedding processions are common — give them space.",
+        "Rules, fees, and closures change without long notice — recheck official sources within a week of travel.",
+        "SanctaWay is informational; it does not sell tickets or grant access."
+      ]
+    }
   },
   {
     "id": "todai-ji",
@@ -175,30 +333,83 @@
       "unesco": "Historic Monuments of Ancient Nara (1998)",
       "typicalVisit": "1.5–2 hours"
     },
-    "visitGuide": {
-      "practical": {
-        "hours": "Typically 7:30–17:30 (seasonal variation) — verify before visit.",
-        "tickets": "Separate tickets for Daibutsuden (Great Buddha Hall) and some sub-temples.",
-        "dress": "Casual modest dress is fine. Remove hats indoors.",
-        "duration": "1.5–2 hours including park approach."
-      },
-      "etiquette": [
-        "Speak quietly inside the Great Buddha Hall.",
-        "Do not feed deer human junk food; use official crackers if you choose to feed them.",
-        "Watch belongings — deer will nuzzle bags."
-      ],
-      "gettingThere": "JR or Kintetsu Nara Station, then 20–30 minutes on foot through Nara Park, or a short bus ride.",
-      "bestTime": "Weekday mornings. Cherry blossom and autumn colour seasons are peak.",
-      "notes": [
-        "The hall is a reconstruction (18th century) of an earlier, even larger structure.",
-        "Combine with Kasuga Taisha and Kōfuku-ji for a full Nara day."
-      ]
-    },
     "related": [
       "meiji-shrine",
       "borobudur",
       "po-lin"
-    ]
+    ],
+    "overview": {
+      "body": [
+        "Tōdai-ji in Nara houses the Great Buddha (Daibutsu) in one of Japan’s most monumental wooden halls, approached through Nara Park’s free-roaming deer.",
+        "Separate tickets cover the Great Buddha Hall and some sub-temples. Combine with Kasuga Taisha for a full day."
+      ],
+      "highlights": [
+        "UNESCO Historic Monuments of Ancient Nara",
+        "Daibutsuden Great Buddha",
+        "Deer in Nara Park on the approach",
+        "Weekday mornings are calmer"
+      ]
+    },
+    "visit": {
+      "intro": "Buy Daibutsuden tickets at the hall; some sub-temples charge separately.",
+      "hours": "Typically 7:30–17:30 with seasonal variation — verify before visit.",
+      "tickets": "Separate tickets for Daibutsuden and some sub-temples. Check the official site for current fees.",
+      "dress": "Casual modest dress is fine. Remove hats indoors.",
+      "duration": "1.5–2 hours including park approach.",
+      "access": "Park paths are mostly flat; hall interiors have steps in places.",
+      "tips": [
+        "Use official deer crackers only if feeding.",
+        "Speak quietly inside the Great Buddha Hall.",
+        "Watch bags — deer will nuzzle them."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://www.todaiji.or.jp/",
+      "ticketsLabel": "Check tickets (official site)",
+      "ticketsNote": "Official Tōdai-ji site for hours and fee guidance. Buy hall tickets on site unless otherwise stated."
+    },
+    "etiquette": {
+      "intro": "Respectful behaviour keeps Tōdai-ji welcoming for worshippers and visitors alike.",
+      "bullets": [
+        "Speak quietly inside the Great Buddha Hall.",
+        "Do not feed deer human junk food; use official crackers if you choose to feed them.",
+        "Watch belongings — deer will nuzzle bags.",
+        "Follow posted signs even when others ignore them.",
+        "If unsure, ask a steward or attendant quietly."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Tōdai-ji.",
+      "paragraphs": [
+        "JR or Kintetsu Nara Station, then 20–30 minutes on foot through Nara Park, or a short bus ride.",
+        "Build buffer time for security lines, prayer schedules, and weather. Last-mile options matter as much as the airport."
+      ],
+      "bullets": [
+        "Country / area: Japan",
+        "Prefer official taxis, licensed guides, or public transit over unmarked offers.",
+        "Confirm return transport before sunset at remote sites."
+      ]
+    },
+    "bestTime": {
+      "intro": "When Tōdai-ji is most pleasant — and when it is busiest.",
+      "paragraphs": [
+        "Weekday mornings. Cherry blossom and autumn colour seasons are peak.",
+        "Major feast days are meaningful but crowded. For quieter visits, aim for weekday openings outside peak pilgrimage seasons."
+      ],
+      "bullets": [
+        "Check local holidays and liturgical calendars",
+        "Heat, rain, and altitude can matter as much as tickets",
+        "Sunrise/sunset slots fill first at iconic viewpoints"
+      ]
+    },
+    "notes": {
+      "intro": "注意事項 · Verify before visit",
+      "bullets": [
+        "The hall is a reconstruction (18th century) of an earlier, even larger structure.",
+        "Combine with Kasuga Taisha and Kōfuku-ji for a full Nara day.",
+        "Rules, fees, and closures change without long notice — recheck official sources within a week of travel.",
+        "SanctaWay is informational; it does not sell tickets or grant access."
+      ]
+    }
   },
   {
     "id": "wat-arun",
@@ -224,30 +435,83 @@
       "unesco": "—",
       "typicalVisit": "1–1.5 hours"
     },
-    "visitGuide": {
-      "practical": {
-        "hours": "Typically morning to early evening — verify before visit.",
-        "tickets": "Modest entry fee for the grounds; river ferry is separate.",
-        "dress": "Cover shoulders and knees. Sarongs often available to rent or buy at the gate.",
-        "duration": "45–90 minutes."
-      },
-      "etiquette": [
-        "Climb carefully — stairs are steep and narrow.",
-        "Do not point feet at Buddha images.",
-        "Remove shoes where indicated."
-      ],
-      "gettingThere": "Cross the Chao Phraya by ferry from Tha Tien (near Wat Pho). River boats and taxis also serve the west bank.",
-      "bestTime": "Late afternoon into dusk for soft light on the prang; sunrise lives up to the name if you start early.",
-      "notes": [
-        "Combine with Wat Pho and the Grand Palace across the river.",
-        "Verify before visit: upper-terrace access may close for conservation."
-      ]
-    },
     "related": [
       "wat-phra-kaew",
       "angkor-wat",
       "po-lin"
-    ]
+    ],
+    "overview": {
+      "body": [
+        "Wat Arun — the Temple of Dawn — rises in porcelain-encrusted prangs on Bangkok’s Chao Phraya west bank, glowing at sunrise and after dark.",
+        "Cross by ferry from Tha Tien. Stairs on the central prang are steep; upper access may close for conservation."
+      ],
+      "highlights": [
+        "River ferry approach from Tha Tien",
+        "Porcelain prang at dusk",
+        "Modest entry fee",
+        "Pair with Wat Pho & Grand Palace"
+      ]
+    },
+    "visit": {
+      "intro": "Modest entry fee on site; ferry is separate. Check whether upper terraces are open.",
+      "hours": "Typically morning to early evening — verify before visit.",
+      "tickets": "Modest entry fee for the grounds; river ferry is separate.",
+      "dress": "Cover shoulders and knees. Sarongs often available at the gate.",
+      "duration": "45–90 minutes.",
+      "access": "Steep, narrow stairs — not suitable for all visitors.",
+      "tips": [
+        "Climb carefully and hold the rail.",
+        "Late afternoon light on the prang is excellent.",
+        "Verify upper-terrace access before planning photos."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://www.watarunbangkok.com/",
+      "ticketsLabel": "Check entry info",
+      "ticketsNote": "Check the temple site for hours. Entry is usually paid on site; ferry is separate."
+    },
+    "etiquette": {
+      "intro": "Respectful behaviour keeps Wat Arun welcoming for worshippers and visitors alike.",
+      "bullets": [
+        "Climb carefully — stairs are steep and narrow.",
+        "Do not point feet at Buddha images.",
+        "Remove shoes where indicated.",
+        "Follow posted signs even when others ignore them.",
+        "If unsure, ask a steward or attendant quietly."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Wat Arun.",
+      "paragraphs": [
+        "Cross the Chao Phraya by ferry from Tha Tien (near Wat Pho). River boats and taxis also serve the west bank.",
+        "Build buffer time for security lines, prayer schedules, and weather. Last-mile options matter as much as the airport."
+      ],
+      "bullets": [
+        "Country / area: Thailand",
+        "Prefer official taxis, licensed guides, or public transit over unmarked offers.",
+        "Confirm return transport before sunset at remote sites."
+      ]
+    },
+    "bestTime": {
+      "intro": "When Wat Arun is most pleasant — and when it is busiest.",
+      "paragraphs": [
+        "Late afternoon into dusk for soft light on the prang; sunrise lives up to the name if you start early.",
+        "Major feast days are meaningful but crowded. For quieter visits, aim for weekday openings outside peak pilgrimage seasons."
+      ],
+      "bullets": [
+        "Check local holidays and liturgical calendars",
+        "Heat, rain, and altitude can matter as much as tickets",
+        "Sunrise/sunset slots fill first at iconic viewpoints"
+      ]
+    },
+    "notes": {
+      "intro": "注意事項 · Verify before visit",
+      "bullets": [
+        "Combine with Wat Pho and the Grand Palace across the river.",
+        "Verify before visit: upper-terrace access may close for conservation.",
+        "Rules, fees, and closures change without long notice — recheck official sources within a week of travel.",
+        "SanctaWay is informational; it does not sell tickets or grant access."
+      ]
+    }
   },
   {
     "id": "wat-phra-kaew",
@@ -273,30 +537,83 @@
       "unesco": "—",
       "typicalVisit": "2–3 hours (with Grand Palace)"
     },
-    "visitGuide": {
-      "practical": {
-        "hours": "Usually daytime only; last entry earlier than closing — verify before visit.",
-        "tickets": "Combined Grand Palace ticket; keep your ticket for museum sections.",
-        "dress": "Strict: covered shoulders, long trousers or skirts covering knees, closed or neat sandals. No torn clothing.",
-        "duration": "2–3 hours for palace and temple grounds."
-      },
-      "etiquette": [
-        "No photography inside the ordination hall of the Emerald Buddha.",
-        "Speak quietly; this is an active royal and religious site.",
-        "Sit with feet tucked away from the Buddha image."
-      ],
-      "gettingThere": "BTS to Saphan Taksin then river boat, or MRT + taxi/tuk-tuk to the Grand Palace. Arrive early to avoid peak queues.",
-      "bestTime": "Open immediately at opening time on a weekday. Avoid major royal ceremonies when access may shift.",
-      "notes": [
-        "Dress-code checks are real — bring a scarf or light trousers.",
-        "Verify before visit: schedules change around royal and national events."
-      ]
-    },
     "related": [
       "wat-arun",
       "angkor-wat",
       "golden-temple"
-    ]
+    ],
+    "overview": {
+      "body": [
+        "Wat Phra Kaew — the Temple of the Emerald Buddha — sits within Bangkok’s Grand Palace and is Thailand’s most sacred Buddhist temple complex for many Thai people.",
+        "Dress code is strict and enforced. Plan a morning visit and combine thoughtfully with Wat Pho and the river."
+      ],
+      "highlights": [
+        "Emerald Buddha hall (no interior photos)",
+        "Combined Grand Palace ticket",
+        "Strict modest dress",
+        "Arrive at opening to shorten queues"
+      ]
+    },
+    "visit": {
+      "intro": "Buy the combined Grand Palace ticket and pass dress checks before entry.",
+      "hours": "Usually daytime only; last entry earlier than closing — verify before visit.",
+      "tickets": "Combined Grand Palace ticket via official channels; keep it for museum sections.",
+      "dress": "Covered shoulders, long trousers/skirts past knees, neat footwear. No torn clothing.",
+      "duration": "2–3 hours for palace and temple grounds.",
+      "access": "Lots of walking on hot stone courtyards — shade and water help.",
+      "tips": [
+        "Bring a scarf or light trousers for dress code.",
+        "No photography inside the Emerald Buddha hall.",
+        "Ignore touts selling fake “closed today” stories."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://www.royalgrandpalace.th/",
+      "ticketsLabel": "Buy / check Grand Palace tickets",
+      "ticketsNote": "Prefer the official Grand Palace site. Verify live hours around royal ceremonies."
+    },
+    "etiquette": {
+      "intro": "Respectful behaviour keeps Temple of the Emerald Buddha welcoming for worshippers and visitors alike.",
+      "bullets": [
+        "No photography inside the ordination hall of the Emerald Buddha.",
+        "Speak quietly; this is an active royal and religious site.",
+        "Sit with feet tucked away from the Buddha image.",
+        "Follow posted signs even when others ignore them.",
+        "If unsure, ask a steward or attendant quietly."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Temple of the Emerald Buddha.",
+      "paragraphs": [
+        "BTS to Saphan Taksin then river boat, or MRT + taxi/tuk-tuk to the Grand Palace. Arrive early to avoid peak queues.",
+        "Build buffer time for security lines, prayer schedules, and weather. Last-mile options matter as much as the airport."
+      ],
+      "bullets": [
+        "Country / area: Thailand",
+        "Prefer official taxis, licensed guides, or public transit over unmarked offers.",
+        "Confirm return transport before sunset at remote sites."
+      ]
+    },
+    "bestTime": {
+      "intro": "When Temple of the Emerald Buddha is most pleasant — and when it is busiest.",
+      "paragraphs": [
+        "Open immediately at opening time on a weekday. Avoid major royal ceremonies when access may shift.",
+        "Major feast days are meaningful but crowded. For quieter visits, aim for weekday openings outside peak pilgrimage seasons."
+      ],
+      "bullets": [
+        "Check local holidays and liturgical calendars",
+        "Heat, rain, and altitude can matter as much as tickets",
+        "Sunrise/sunset slots fill first at iconic viewpoints"
+      ]
+    },
+    "notes": {
+      "intro": "注意事項 · Verify before visit",
+      "bullets": [
+        "Dress-code checks are real — bring a scarf or light trousers.",
+        "Verify before visit: schedules change around royal and national events.",
+        "Rules, fees, and closures change without long notice — recheck official sources within a week of travel.",
+        "SanctaWay is informational; it does not sell tickets or grant access."
+      ]
+    }
   },
   {
     "id": "golden-temple",
@@ -322,31 +639,84 @@
       "unesco": "—",
       "typicalVisit": "2–4 hours"
     },
-    "visitGuide": {
-      "practical": {
-        "hours": "Open virtually around the clock for devotees; visitor patterns peak morning and evening — verify before visit.",
-        "tickets": "Free entry. Donations welcome. Langar (community kitchen) is free to all.",
-        "dress": "Cover your head (scarves provided). Remove shoes. Wash feet at the entrance pools. Modest clothing.",
-        "duration": "2–4 hours including langar and parikrama."
-      },
-      "etiquette": [
-        "Head covering is mandatory for everyone.",
-        "No alcohol, tobacco, or intoxicants on the complex.",
-        "Photography rules vary by zone — follow signs and sewadars’ guidance.",
-        "Sit on the floor in langar; accept food respectfully."
-      ],
-      "gettingThere": "Amritsar airport or railway station, then auto-rickshaw or taxi to the walled old city. Expect security screening.",
-      "bestTime": "Early morning or late evening for golden light on the sarovar. Major gurpurabs are deeply moving but extremely crowded.",
-      "notes": [
-        "Security is thorough — travel light.",
-        "The experience is spiritual first, touristic second — move with humility."
-      ]
-    },
     "related": [
       "potala",
       "angkor-wat",
       "wat-phra-kaew"
-    ]
+    ],
+    "overview": {
+      "body": [
+        "Harmandir Sahib — the Golden Temple — is the holiest gurdwara of Sikhism: a gold-clad sanctum in the Amrit Sarovar, open to everyone who enters with respect.",
+        "The visit is spiritual first. Cover your head, remove shoes, and consider joining langar, the community kitchen that feeds all."
+      ],
+      "highlights": [
+        "Free entry for all",
+        "Head covering mandatory",
+        "Langar open to visitors",
+        "Evening reflections on the sarovar"
+      ]
+    },
+    "visit": {
+      "intro": "No ticket required. Security screening is thorough — travel light.",
+      "hours": "Open virtually around the clock for devotees; visitor peaks morning and evening — verify before visit.",
+      "tickets": "Free entry. Donations welcome. Langar is free.",
+      "dress": "Cover your head (scarves provided). Remove shoes. Wash feet at entrance pools. Modest clothing.",
+      "duration": "2–4 hours including langar and parikrama.",
+      "access": "Marble paths can be wet and crowded. Ask about accessible routes at entrances.",
+      "tips": [
+        "Use the cloakroom for shoes and bags.",
+        "Accept prasad and langar respectfully.",
+        "Keep phones silent near the sanctum."
+      ],
+      "entryType": "free",
+      "ticketsUrl": null,
+      "ticketsLabel": null,
+      "ticketsNote": "Free entry. Donations welcome; no booking required."
+    },
+    "etiquette": {
+      "intro": "Respectful behaviour keeps Golden Temple welcoming for worshippers and visitors alike.",
+      "bullets": [
+        "Head covering is mandatory for everyone.",
+        "No alcohol, tobacco, or intoxicants on the complex.",
+        "Photography rules vary by zone — follow signs and sewadars’ guidance.",
+        "Sit on the floor in langar; accept food respectfully.",
+        "Follow posted signs even when others ignore them.",
+        "If unsure, ask a steward or attendant quietly."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Golden Temple.",
+      "paragraphs": [
+        "Amritsar airport or railway station, then auto-rickshaw or taxi to the walled old city. Expect security screening.",
+        "Build buffer time for security lines, prayer schedules, and weather. Last-mile options matter as much as the airport."
+      ],
+      "bullets": [
+        "Country / area: India",
+        "Prefer official taxis, licensed guides, or public transit over unmarked offers.",
+        "Confirm return transport before sunset at remote sites."
+      ]
+    },
+    "bestTime": {
+      "intro": "When Golden Temple is most pleasant — and when it is busiest.",
+      "paragraphs": [
+        "Early morning or late evening for golden light on the sarovar. Major gurpurabs are deeply moving but extremely crowded.",
+        "Major feast days are meaningful but crowded. For quieter visits, aim for weekday openings outside peak pilgrimage seasons."
+      ],
+      "bullets": [
+        "Check local holidays and liturgical calendars",
+        "Heat, rain, and altitude can matter as much as tickets",
+        "Sunrise/sunset slots fill first at iconic viewpoints"
+      ]
+    },
+    "notes": {
+      "intro": "注意事項 · Verify before visit",
+      "bullets": [
+        "Security is thorough — travel light.",
+        "The experience is spiritual first, touristic second — move with humility.",
+        "Rules, fees, and closures change without long notice — recheck official sources within a week of travel.",
+        "SanctaWay is informational; it does not sell tickets or grant access."
+      ]
+    }
   },
   {
     "id": "potala",
@@ -372,31 +742,84 @@
       "unesco": "Historic Ensemble of the Potala Palace (1994)",
       "typicalVisit": "1–2 hours (timed entry)"
     },
-    "visitGuide": {
-      "practical": {
-        "hours": "Daytime timed tickets; daily visitor caps apply — verify before visit.",
-        "tickets": "Advance booking is typically essential in peak season. Bring passport.",
-        "dress": "Modest layers. Lhasa is high altitude — prepare for sun and chill.",
-        "duration": "About 1 hour inside once entered; allow more for the climb and security."
-      },
-      "etiquette": [
-        "Follow one-way routes; do not touch murals or statues.",
-        "Speak quietly in chapels.",
-        "Photography is restricted or banned in many rooms — obey signs."
-      ],
-      "gettingThere": "Fly into Lhasa (LXA) with required permits for many foreign visitors. Local guides and operators handle logistics — confirm current entry rules.",
-      "bestTime": "May–October for milder weather. Acclimatise to altitude before intensive sightseeing.",
-      "notes": [
-        "Altitude sickness is real — rest on arrival day.",
-        "Verify before visit: ticket systems and permit rules change frequently.",
-        "Pair with Jokhang Temple and Barkhor for context."
-      ]
-    },
     "related": [
       "golden-temple",
       "borobudur",
       "todai-ji"
-    ]
+    ],
+    "overview": {
+      "body": [
+        "The Potala Palace crowns Lhasa — white and red walls above the city, a landmark of Tibetan Buddhism and a UNESCO historic ensemble.",
+        "Timed tickets, daily caps, and altitude make planning essential. Many foreign visitors need permits arranged via licensed operators."
+      ],
+      "highlights": [
+        "UNESCO Historic Ensemble of the Potala Palace",
+        "Timed entry + visitor caps",
+        "High altitude — acclimatise first",
+        "Pair with Jokhang & Barkhor"
+      ]
+    },
+    "visit": {
+      "intro": "Advance timed tickets are typically essential in peak season. Confirm permits for foreign visitors.",
+      "hours": "Daytime timed tickets; daily visitor caps apply — verify before visit.",
+      "tickets": "Advance booking is typically essential in peak season. Bring passport. Systems change — use licensed operators when required.",
+      "dress": "Modest layers. Prepare for sun and chill at altitude.",
+      "duration": "About 1 hour inside once entered; allow more for the climb and security.",
+      "access": "Many stairs; altitude amplifies effort. Photography restricted in many rooms.",
+      "tips": [
+        "Rest on arrival day in Lhasa before intensive sightseeing.",
+        "Follow one-way routes; do not touch murals.",
+        "Recheck permit and ticket rules before travel."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": null,
+      "ticketsLabel": null,
+      "ticketsNote": "No single public global e-ticket. Arrange via current official/licensed channels; rules change frequently."
+    },
+    "etiquette": {
+      "intro": "Respectful behaviour keeps Potala welcoming for worshippers and visitors alike.",
+      "bullets": [
+        "Follow one-way routes; do not touch murals or statues.",
+        "Speak quietly in chapels.",
+        "Photography is restricted or banned in many rooms — obey signs.",
+        "Follow posted signs even when others ignore them.",
+        "If unsure, ask a steward or attendant quietly."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Potala.",
+      "paragraphs": [
+        "Fly into Lhasa (LXA) with required permits for many foreign visitors. Local guides and operators handle logistics — confirm current entry rules.",
+        "Build buffer time for security lines, prayer schedules, and weather. Last-mile options matter as much as the airport."
+      ],
+      "bullets": [
+        "Country / area: China",
+        "Prefer official taxis, licensed guides, or public transit over unmarked offers.",
+        "Confirm return transport before sunset at remote sites."
+      ]
+    },
+    "bestTime": {
+      "intro": "When Potala is most pleasant — and when it is busiest.",
+      "paragraphs": [
+        "May–October for milder weather. Acclimatise to altitude before intensive sightseeing.",
+        "Major feast days are meaningful but crowded. For quieter visits, aim for weekday openings outside peak pilgrimage seasons."
+      ],
+      "bullets": [
+        "Check local holidays and liturgical calendars",
+        "Heat, rain, and altitude can matter as much as tickets",
+        "Sunrise/sunset slots fill first at iconic viewpoints"
+      ]
+    },
+    "notes": {
+      "intro": "注意事項 · Verify before visit",
+      "bullets": [
+        "Altitude sickness is real — rest on arrival day.",
+        "Verify before visit: ticket systems and permit rules change frequently.",
+        "Pair with Jokhang Temple and Barkhor for context.",
+        "Rules, fees, and closures change without long notice — recheck official sources within a week of travel.",
+        "SanctaWay is informational; it does not sell tickets or grant access."
+      ]
+    }
   },
   {
     "id": "po-lin",
@@ -422,30 +845,83 @@
       "unesco": "—",
       "typicalVisit": "Half day"
     },
-    "visitGuide": {
-      "practical": {
-        "hours": "Monastery and Buddha viewing generally daytime; cable car hours vary — verify before visit.",
-        "tickets": "Ngong Ping 360 cable car tickets; monastery grounds typically free; museum/Buddha podium may have fees.",
-        "dress": "Modest clothing for monastery halls. Comfortable shoes for stairs to the Buddha.",
-        "duration": "Half day including cable car."
-      },
-      "etiquette": [
-        "Remove shoes where posted in temple halls.",
-        "Keep voices low; this remains an active monastery.",
-        "Do not climb on statues or offerings."
-      ],
-      "gettingThere": "MTR to Tung Chung, then Ngong Ping 360 cable car or bus. Allow buffer for cable-car queues and weather delays.",
-      "bestTime": "Weekday mornings. Clear days for views; fog is common and atmospheric but hides the skyline.",
-      "notes": [
-        "Vegetarian meals are available near the monastery.",
-        "Combine with Tai O fishing village if time allows."
-      ]
-    },
     "related": [
       "meiji-shrine",
       "wat-arun",
       "todai-ji"
-    ]
+    ],
+    "overview": {
+      "body": [
+        "Po Lin Monastery and the Tian Tan Buddha (Big Buddha) crown Ngong Ping on Lantau Island — reached by the Ngong Ping 360 cable car or by bus.",
+        "The monastery remains active; the Buddha podium and museums may have separate fees. Weather fog is common and atmospheric."
+      ],
+      "highlights": [
+        "Tian Tan Buddha + monastery halls",
+        "Ngong Ping 360 cable car approach",
+        "Vegetarian dining nearby",
+        "Half-day trip from central Hong Kong"
+      ]
+    },
+    "visit": {
+      "intro": "Monastery grounds are typically free; budget for the cable car and optional museum/Buddha podium fees.",
+      "hours": "Daytime for Buddha viewing; cable car hours vary with weather — verify before visit.",
+      "tickets": "Ngong Ping 360 tickets via the official webstore. Monastery entry is usually free; some exhibitions charge.",
+      "dress": "Modest clothing in halls. Comfortable shoes for stairs to the Buddha.",
+      "duration": "Half day including cable car.",
+      "access": "Many stairs to the Buddha. Cable car is weather-dependent; buses are the backup.",
+      "tips": [
+        "Book cable car slots on clear weekdays.",
+        "Carry a light jacket — Ngong Ping is cooler and windier.",
+        "Combine with Tai O if time allows."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://webstore.np360.com.hk/en/",
+      "ticketsLabel": "Buy Ngong Ping 360 tickets",
+      "ticketsNote": "Official NP360 webstore for the cable car. Monastery grounds are typically free."
+    },
+    "etiquette": {
+      "intro": "Respectful behaviour keeps Po Lin Monastery welcoming for worshippers and visitors alike.",
+      "bullets": [
+        "Remove shoes where posted in temple halls.",
+        "Keep voices low; this remains an active monastery.",
+        "Do not climb on statues or offerings.",
+        "Follow posted signs even when others ignore them.",
+        "If unsure, ask a steward or attendant quietly."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Po Lin Monastery.",
+      "paragraphs": [
+        "MTR to Tung Chung, then Ngong Ping 360 cable car or bus. Allow buffer for cable-car queues and weather delays.",
+        "Build buffer time for security lines, prayer schedules, and weather. Last-mile options matter as much as the airport."
+      ],
+      "bullets": [
+        "Country / area: Hong Kong",
+        "Prefer official taxis, licensed guides, or public transit over unmarked offers.",
+        "Confirm return transport before sunset at remote sites."
+      ]
+    },
+    "bestTime": {
+      "intro": "When Po Lin Monastery is most pleasant — and when it is busiest.",
+      "paragraphs": [
+        "Weekday mornings. Clear days for views; fog is common and atmospheric but hides the skyline.",
+        "Major feast days are meaningful but crowded. For quieter visits, aim for weekday openings outside peak pilgrimage seasons."
+      ],
+      "bullets": [
+        "Check local holidays and liturgical calendars",
+        "Heat, rain, and altitude can matter as much as tickets",
+        "Sunrise/sunset slots fill first at iconic viewpoints"
+      ]
+    },
+    "notes": {
+      "intro": "注意事項 · Verify before visit",
+      "bullets": [
+        "Vegetarian meals are available near the monastery.",
+        "Combine with Tai O fishing village if time allows.",
+        "Rules, fees, and closures change without long notice — recheck official sources within a week of travel.",
+        "SanctaWay is informational; it does not sell tickets or grant access."
+      ]
+    }
   },
   {
     "id": "dome-of-the-rock",
@@ -471,32 +947,85 @@
       "unesco": "Old City of Jerusalem (1981)",
       "typicalVisit": "1–2 hours (when accessible)"
     },
-    "visitGuide": {
-      "practical": {
-        "hours": "Non-Muslim visiting hours are limited and change often — verify before visit with official sources on the day.",
-        "tickets": "Entry rules differ for worshippers and visitors; expect security checks. Bring passport.",
-        "dress": "Very modest: covered arms and legs; women may need a headscarf. Shoes off in prayer spaces if entered.",
-        "duration": "1–2 hours when open to visitors."
-      },
-      "etiquette": [
-        "This is an active sacred site for Muslims — behave with utmost respect.",
-        "Follow police and Waqf instructions without argument.",
-        "Do not bring religious artefacts of other faiths onto the compound.",
-        "Photography rules can be strict — ask if unsure."
-      ],
-      "gettingThere": "Access points in Jerusalem’s Old City are controlled. Queues form early on open days.",
-      "bestTime": "Only when official visiting windows are open. Avoid prayer rush times as a tourist.",
-      "notes": [
-        "Access for non-Muslims is frequently adjusted for security and religious calendar — always verify same-day.",
-        "SanctaWay presents factual visit guidance only; the site’s religious and political significance deserves humility.",
-        "Interior access to the Dome and Al-Aqsa is often reserved for Muslim worshippers."
-      ]
-    },
     "related": [
       "holy-sepulchre",
       "hagia-sophia",
       "lalibela"
-    ]
+    ],
+    "overview": {
+      "body": [
+        "The Dome of the Rock and Al-Aqsa Mosque stand on the Haram al-Sharif / Temple Mount plateau in Jerusalem — among Islam’s holiest sites.",
+        "Visit with care. Non-Muslim access windows change often for security and religious calendar reasons."
+      ],
+      "highlights": [
+        "UNESCO Old City of Jerusalem",
+        "Access rules change frequently",
+        "Strict modest dress",
+        "Interior often reserved for Muslim worshippers"
+      ]
+    },
+    "visit": {
+      "intro": "No standard tourist ticket. Verify same-day visiting windows from official sources.",
+      "hours": "Non-Muslim visiting hours are limited and change often — verify before visit with official sources on the day.",
+      "tickets": "Entry rules differ for worshippers and visitors; expect security checks. Bring passport.",
+      "dress": "Very modest: covered arms and legs; women may need a headscarf. Shoes off in prayer spaces if entered.",
+      "duration": "1–2 hours when open to visitors.",
+      "access": "Controlled gates and queues. Follow police and Waqf instructions without argument.",
+      "tips": [
+        "Do not bring religious artefacts of other faiths onto the compound.",
+        "Avoid prayer rush times as a tourist.",
+        "Interior access to the Dome and Al-Aqsa is often reserved for Muslim worshippers."
+      ],
+      "entryType": "free",
+      "ticketsUrl": null,
+      "ticketsLabel": null,
+      "ticketsNote": "No ticket booking. Access for non-Muslims is frequently adjusted — always verify same-day."
+    },
+    "etiquette": {
+      "intro": "Respectful behaviour keeps Haram al-Sharif welcoming for worshippers and visitors alike.",
+      "bullets": [
+        "This is an active sacred site for Muslims — behave with utmost respect.",
+        "Follow police and Waqf instructions without argument.",
+        "Do not bring religious artefacts of other faiths onto the compound.",
+        "Photography rules can be strict — ask if unsure.",
+        "Follow posted signs even when others ignore them.",
+        "If unsure, ask a steward or attendant quietly."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Haram al-Sharif.",
+      "paragraphs": [
+        "Access points in Jerusalem’s Old City are controlled. Queues form early on open days.",
+        "Build buffer time for security lines, prayer schedules, and weather. Last-mile options matter as much as the airport."
+      ],
+      "bullets": [
+        "Country / area: Jerusalem",
+        "Prefer official taxis, licensed guides, or public transit over unmarked offers.",
+        "Confirm return transport before sunset at remote sites."
+      ]
+    },
+    "bestTime": {
+      "intro": "When Haram al-Sharif is most pleasant — and when it is busiest.",
+      "paragraphs": [
+        "Only when official visiting windows are open. Avoid prayer rush times as a tourist.",
+        "Major feast days are meaningful but crowded. For quieter visits, aim for weekday openings outside peak pilgrimage seasons."
+      ],
+      "bullets": [
+        "Check local holidays and liturgical calendars",
+        "Heat, rain, and altitude can matter as much as tickets",
+        "Sunrise/sunset slots fill first at iconic viewpoints"
+      ]
+    },
+    "notes": {
+      "intro": "注意事項 · Verify before visit",
+      "bullets": [
+        "Access for non-Muslims is frequently adjusted for security and religious calendar — always verify same-day.",
+        "SanctaWay presents factual visit guidance only; the site’s religious and political significance deserves humility.",
+        "Interior access to the Dome and Al-Aqsa is often reserved for Muslim worshippers.",
+        "Rules, fees, and closures change without long notice — recheck official sources within a week of travel.",
+        "SanctaWay is informational; it does not sell tickets or grant access."
+      ]
+    }
   },
   {
     "id": "hagia-sophia",
@@ -524,30 +1053,83 @@
       "unesco": "Historic Areas of Istanbul (1985)",
       "typicalVisit": "1–2 hours"
     },
-    "visitGuide": {
-      "practical": {
-        "hours": "Open as a mosque with visitor windows outside prayer times — verify before visit.",
-        "tickets": "Entry arrangements have changed with status; check the current official ticket or free-entry policy.",
-        "dress": "Mosque dress code: covered shoulders and knees; women should cover hair. Shoes off on carpeted areas.",
-        "duration": "1–2 hours."
-      },
-      "etiquette": [
-        "Remain quiet during prayer.",
-        "Stay on visitor paths; do not enter restricted prayer zones when asked.",
-        "No flash photography toward worshippers."
-      ],
-      "gettingThere": "Tram T1 to Sultanahmet. The building faces the Hippodrome and Blue Mosque.",
-      "bestTime": "Weekday mornings between prayer times. Pair with the Blue Mosque and Topkapı for a Sultanahmet day.",
-      "notes": [
-        "Status and visitor rules have changed in recent years — verify same-week guidance.",
-        "Upper galleries may have separate access or closures."
-      ]
-    },
     "related": [
       "dome-of-the-rock",
       "holy-sepulchre",
       "sagrada-familia"
-    ]
+    ],
+    "overview": {
+      "body": [
+        "Hagia Sophia (Ayasofya) has been church, mosque, museum, and mosque again — Justinian’s 6th-century dome still defines Istanbul’s skyline.",
+        "Visitor rules for non-worshippers have changed in recent years. Confirm ticket channels and prayer-time closures before you queue."
+      ],
+      "highlights": [
+        "UNESCO Historic Areas of Istanbul",
+        "Active mosque with visitor routes",
+        "Dress code enforced",
+        "Pair with Sultanahmet / Blue Mosque"
+      ]
+    },
+    "visit": {
+      "intro": "Foreign visitors typically need a ticket for the visiting area; schedules pause around Friday prayer.",
+      "hours": "Visitor windows outside prayer times — verify same-week guidance.",
+      "tickets": "Check DEM Museums / official visitor ticketing for current foreign-visitor prices. Children and worship-area rules differ.",
+      "dress": "Covered shoulders and knees; women should cover hair. Shoes off on carpeted prayer areas if entered.",
+      "duration": "1–2 hours.",
+      "access": "Ramps and galleries may be challenging for limited mobility — ask staff.",
+      "tips": [
+        "Avoid Friday midday as a casual tourist.",
+        "Bring a scarf; rentals may be available on site.",
+        "No flash toward worshippers."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://booking.demmuseums.com/",
+      "ticketsLabel": "Check visitor tickets",
+      "ticketsNote": "Common official partner channel for foreign visitor tickets. Reconfirm prices and entry gates before purchase."
+    },
+    "etiquette": {
+      "intro": "Respectful behaviour keeps Ayasofya welcoming for worshippers and visitors alike.",
+      "bullets": [
+        "Remain quiet during prayer.",
+        "Stay on visitor paths; do not enter restricted prayer zones when asked.",
+        "No flash photography toward worshippers.",
+        "Follow posted signs even when others ignore them.",
+        "If unsure, ask a steward or attendant quietly."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Ayasofya.",
+      "paragraphs": [
+        "Tram T1 to Sultanahmet. The building faces the Hippodrome and Blue Mosque.",
+        "Build buffer time for security lines, prayer schedules, and weather. Last-mile options matter as much as the airport."
+      ],
+      "bullets": [
+        "Country / area: Türkiye",
+        "Prefer official taxis, licensed guides, or public transit over unmarked offers.",
+        "Confirm return transport before sunset at remote sites."
+      ]
+    },
+    "bestTime": {
+      "intro": "When Ayasofya is most pleasant — and when it is busiest.",
+      "paragraphs": [
+        "Weekday mornings between prayer times. Pair with the Blue Mosque and Topkapı for a Sultanahmet day.",
+        "Major feast days are meaningful but crowded. For quieter visits, aim for weekday openings outside peak pilgrimage seasons."
+      ],
+      "bullets": [
+        "Check local holidays and liturgical calendars",
+        "Heat, rain, and altitude can matter as much as tickets",
+        "Sunrise/sunset slots fill first at iconic viewpoints"
+      ]
+    },
+    "notes": {
+      "intro": "注意事項 · Verify before visit",
+      "bullets": [
+        "Status and visitor rules have changed in recent years — verify same-week guidance.",
+        "Upper galleries may have separate access or closures.",
+        "Rules, fees, and closures change without long notice — recheck official sources within a week of travel.",
+        "SanctaWay is informational; it does not sell tickets or grant access."
+      ]
+    }
   },
   {
     "id": "holy-sepulchre",
@@ -573,30 +1155,83 @@
       "unesco": "Old City of Jerusalem (1981)",
       "typicalVisit": "1–2 hours"
     },
-    "visitGuide": {
-      "practical": {
-        "hours": "Long daily hours; last entry for the Tomb queue can close earlier — verify before visit.",
-        "tickets": "Free entry. Expect queues for the Aedicule (Tomb).",
-        "dress": "Modest clothing covering shoulders and knees. Remove hats in some chapels.",
-        "duration": "1–2 hours; longer if waiting for the Tomb."
-      },
-      "etiquette": [
-        "This is an active place of pilgrimage — keep voices low.",
-        "Do not push in processions or candle lines.",
-        "Photography is generally allowed but avoid flash on icons and during liturgy."
-      ],
-      "gettingThere": "Christian Quarter of Jerusalem’s Old City. Multiple gates; follow pilgrim signage.",
-      "bestTime": "Early morning on weekdays. Holy Week and Orthodox Easter are profound but intensely crowded.",
-      "notes": [
-        "Different chapels belong to different communities — follow local caretakers’ directions.",
-        "Stone of Anointing near the entrance is a focus of devotion — be patient."
-      ]
-    },
     "related": [
       "dome-of-the-rock",
       "st-peters",
       "lalibela"
-    ]
+    ],
+    "overview": {
+      "body": [
+        "The Church of the Holy Sepulchre in Jerusalem’s Christian Quarter traditionally marks the sites of the Crucifixion and the Tomb, shared by several Christian communities.",
+        "Entry is free. Queues for the Aedicule can be long; move with patience during liturgy."
+      ],
+      "highlights": [
+        "Free entry",
+        "Shared by multiple denominations",
+        "Aedicule (Tomb) queues",
+        "Peak at Holy Week / Easter"
+      ]
+    },
+    "visit": {
+      "intro": "Free entry. Allow extra time if you hope to enter the Tomb.",
+      "hours": "Long daily hours; last entry for the Tomb queue can close earlier — verify before visit.",
+      "tickets": "Free entry. Expect queues for the Aedicule (Tomb).",
+      "dress": "Modest clothing covering shoulders and knees. Remove hats in some chapels.",
+      "duration": "1–2 hours; longer if waiting for the Tomb.",
+      "access": "Crowded stone floors; uneven levels between chapels.",
+      "tips": [
+        "Early weekday mornings are calmer.",
+        "Do not push in processions or candle lines.",
+        "Follow caretakers — different chapels belong to different communities."
+      ],
+      "entryType": "free",
+      "ticketsUrl": null,
+      "ticketsLabel": null,
+      "ticketsNote": "Free entry. No booking required."
+    },
+    "etiquette": {
+      "intro": "Respectful behaviour keeps Holy Sepulchre welcoming for worshippers and visitors alike.",
+      "bullets": [
+        "This is an active place of pilgrimage — keep voices low.",
+        "Do not push in processions or candle lines.",
+        "Photography is generally allowed but avoid flash on icons and during liturgy.",
+        "Follow posted signs even when others ignore them.",
+        "If unsure, ask a steward or attendant quietly."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Holy Sepulchre.",
+      "paragraphs": [
+        "Christian Quarter of Jerusalem’s Old City. Multiple gates; follow pilgrim signage.",
+        "Build buffer time for security lines, prayer schedules, and weather. Last-mile options matter as much as the airport."
+      ],
+      "bullets": [
+        "Country / area: Jerusalem",
+        "Prefer official taxis, licensed guides, or public transit over unmarked offers.",
+        "Confirm return transport before sunset at remote sites."
+      ]
+    },
+    "bestTime": {
+      "intro": "When Holy Sepulchre is most pleasant — and when it is busiest.",
+      "paragraphs": [
+        "Early morning on weekdays. Holy Week and Orthodox Easter are profound but intensely crowded.",
+        "Major feast days are meaningful but crowded. For quieter visits, aim for weekday openings outside peak pilgrimage seasons."
+      ],
+      "bullets": [
+        "Check local holidays and liturgical calendars",
+        "Heat, rain, and altitude can matter as much as tickets",
+        "Sunrise/sunset slots fill first at iconic viewpoints"
+      ]
+    },
+    "notes": {
+      "intro": "注意事項 · Verify before visit",
+      "bullets": [
+        "Different chapels belong to different communities — follow local caretakers’ directions.",
+        "Stone of Anointing near the entrance is a focus of devotion — be patient.",
+        "Rules, fees, and closures change without long notice — recheck official sources within a week of travel.",
+        "SanctaWay is informational; it does not sell tickets or grant access."
+      ]
+    }
   },
   {
     "id": "sagrada-familia",
@@ -622,30 +1257,83 @@
       "unesco": "Works of Antoni Gaudí (2005)",
       "typicalVisit": "1.5–2.5 hours"
     },
-    "visitGuide": {
-      "practical": {
-        "hours": "Long daytime hours; last entry ~30–60 minutes before close — verify before visit.",
-        "tickets": "Timed-entry tickets are essential; buy only from the official website. Tower tickets are separate.",
-        "dress": "Shoulders and thighs covered for basilica entry.",
-        "duration": "90–150 minutes; more with towers."
-      },
-      "etiquette": [
-        "This is a functioning church — keep voices respectful.",
-        "No large bags; security screening applies.",
-        "Follow stewards during Mass times."
-      ],
-      "gettingThere": "Metro L2/L5 Sagrada Família. Arrive 15 minutes before your timed slot.",
-      "bestTime": "Morning for softer façade light; late afternoon for warmer interior colour through the stained glass.",
-      "notes": [
-        "Construction continues — some façades and towers may be scaffolded.",
-        "Audio guides are excellent for first visits."
-      ]
-    },
     "related": [
       "notre-dame",
       "st-peters",
       "hagia-sophia"
-    ]
+    ],
+    "overview": {
+      "body": [
+        "Barcelona’s Sagrada Família is Antoni Gaudí’s unfinished basilica — a forest of stone and stained glass still rising after more than a century.",
+        "Timed tickets are essential. Buy only through official channels."
+      ],
+      "highlights": [
+        "UNESCO Works of Antoni Gaudí",
+        "Timed entry required",
+        "Nativity & Passion façades + luminous nave",
+        "Construction ongoing — scaffolding is normal"
+      ]
+    },
+    "visit": {
+      "intro": "Book a timed slot. Same-day walk-ups are unreliable.",
+      "hours": "Long daytime hours; last entry earlier than closing — verify before visit.",
+      "tickets": "Individual, tower, and guided options via the official site/app. Tickets are nominative — bring photo ID.",
+      "dress": "Shoulders and thighs covered for basilica entry.",
+      "duration": "90–150 minutes; more with towers.",
+      "access": "Security screening; large bags restricted. Tower climbs involve narrow stairs.",
+      "tips": [
+        "Download the official app for the audioguide.",
+        "Arrive 15 minutes before your slot.",
+        "Quiet hour policies may require earphones."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://sagradafamilia.org/en/tickets",
+      "ticketsLabel": "Buy tickets (official)",
+      "ticketsNote": "Official Sagrada Família ticketing. Check live availability — temporary closures are announced on the site."
+    },
+    "etiquette": {
+      "intro": "Respectful behaviour keeps Sagrada Família welcoming for worshippers and visitors alike.",
+      "bullets": [
+        "This is a functioning church — keep voices respectful.",
+        "No large bags; security screening applies.",
+        "Follow stewards during Mass times.",
+        "Follow posted signs even when others ignore them.",
+        "If unsure, ask a steward or attendant quietly."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Sagrada Família.",
+      "paragraphs": [
+        "Metro L2/L5 Sagrada Família. Arrive 15 minutes before your timed slot.",
+        "Build buffer time for security lines, prayer schedules, and weather. Last-mile options matter as much as the airport."
+      ],
+      "bullets": [
+        "Country / area: Spain",
+        "Prefer official taxis, licensed guides, or public transit over unmarked offers.",
+        "Confirm return transport before sunset at remote sites."
+      ]
+    },
+    "bestTime": {
+      "intro": "When Sagrada Família is most pleasant — and when it is busiest.",
+      "paragraphs": [
+        "Morning for softer façade light; late afternoon for warmer interior colour through the stained glass.",
+        "Major feast days are meaningful but crowded. For quieter visits, aim for weekday openings outside peak pilgrimage seasons."
+      ],
+      "bullets": [
+        "Check local holidays and liturgical calendars",
+        "Heat, rain, and altitude can matter as much as tickets",
+        "Sunrise/sunset slots fill first at iconic viewpoints"
+      ]
+    },
+    "notes": {
+      "intro": "注意事項 · Verify before visit",
+      "bullets": [
+        "Construction continues — some façades and towers may be scaffolded.",
+        "Audio guides are excellent for first visits.",
+        "Rules, fees, and closures change without long notice — recheck official sources within a week of travel.",
+        "SanctaWay is informational; it does not sell tickets or grant access."
+      ]
+    }
   },
   {
     "id": "notre-dame",
@@ -671,30 +1359,83 @@
       "unesco": "Paris, Banks of the Seine (1991)",
       "typicalVisit": "1–2 hours"
     },
-    "visitGuide": {
-      "practical": {
-        "hours": "Reopening schedules and reservation systems evolve — verify before visit on the official cathedral site.",
-        "tickets": "Nave entry policies may include free entry with timed reservation; towers/treasury may differ.",
-        "dress": "Modest attire appropriate for a cathedral.",
-        "duration": "1–2 hours."
-      },
-      "etiquette": [
-        "Silence phones; speak softly.",
-        "Do not obstruct liturgy or prayer areas.",
-        "Follow stewards around restored and restricted zones."
-      ],
-      "gettingThere": "Cité or Saint-Michel Métro; walk onto Île de la Cité. Security queues are common.",
-      "bestTime": "Weekday mornings. Evening exterior views from the Left Bank are classic.",
-      "notes": [
-        "Status note: post-2019 restoration reopened the cathedral to worship and visitors; some exterior and related works may continue — verify current access.",
-        "Book ahead if reservations are required."
-      ]
-    },
     "related": [
       "sagrada-familia",
       "st-peters",
       "holy-sepulchre"
-    ]
+    ],
+    "overview": {
+      "body": [
+        "Notre-Dame de Paris stands on the Île de la Cité as the Gothic heart of the city. After the 2019 fire, the cathedral has reopened to worship and visitors.",
+        "Entry to the nave is free. Optional free timed reservations help reduce queues — ignore paid third-party “skip-the-line” offers."
+      ],
+      "highlights": [
+        "UNESCO Paris, Banks of the Seine",
+        "Free nave entry (reserve optional)",
+        "Security queues common",
+        "Towers may have separate ticketing"
+      ]
+    },
+    "visit": {
+      "intro": "Free entry with optional free reservation. Towers/treasury rules differ.",
+      "hours": "Daily schedules evolve — verify on the official cathedral site before visit.",
+      "tickets": "Nave: free. Free timed reservation recommended via the official portal. Do not buy fake paid tickets from third parties.",
+      "dress": "Modest attire appropriate for a cathedral.",
+      "duration": "1–2 hours.",
+      "access": "Security screening; expect standing queues. Ask stewards about accessible routes.",
+      "tips": [
+        "Reserve on the official portal close to your visit day.",
+        "Arrive early on weekends.",
+        "Check tower reservation separately if offered."
+      ],
+      "entryType": "free",
+      "ticketsUrl": "https://resa.notredamedeparis.fr/en/reservationindividuelle/tickets",
+      "ticketsLabel": "Reserve free entry (official)",
+      "ticketsNote": "Official Notre-Dame free reservation. Entry itself is free — beware paid resellers."
+    },
+    "etiquette": {
+      "intro": "Respectful behaviour keeps Notre-Dame welcoming for worshippers and visitors alike.",
+      "bullets": [
+        "Silence phones; speak softly.",
+        "Do not obstruct liturgy or prayer areas.",
+        "Follow stewards around restored and restricted zones.",
+        "Follow posted signs even when others ignore them.",
+        "If unsure, ask a steward or attendant quietly."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Notre-Dame.",
+      "paragraphs": [
+        "Cité or Saint-Michel Métro; walk onto Île de la Cité. Security queues are common.",
+        "Build buffer time for security lines, prayer schedules, and weather. Last-mile options matter as much as the airport."
+      ],
+      "bullets": [
+        "Country / area: France",
+        "Prefer official taxis, licensed guides, or public transit over unmarked offers.",
+        "Confirm return transport before sunset at remote sites."
+      ]
+    },
+    "bestTime": {
+      "intro": "When Notre-Dame is most pleasant — and when it is busiest.",
+      "paragraphs": [
+        "Weekday mornings. Evening exterior views from the Left Bank are classic.",
+        "Major feast days are meaningful but crowded. For quieter visits, aim for weekday openings outside peak pilgrimage seasons."
+      ],
+      "bullets": [
+        "Check local holidays and liturgical calendars",
+        "Heat, rain, and altitude can matter as much as tickets",
+        "Sunrise/sunset slots fill first at iconic viewpoints"
+      ]
+    },
+    "notes": {
+      "intro": "注意事項 · Verify before visit",
+      "bullets": [
+        "Status note: post-2019 restoration reopened the cathedral to worship and visitors; some exterior and related works may continue — verify current access.",
+        "Book ahead if reservations are required.",
+        "Rules, fees, and closures change without long notice — recheck official sources within a week of travel.",
+        "SanctaWay is informational; it does not sell tickets or grant access."
+      ]
+    }
   },
   {
     "id": "st-peters",
@@ -720,30 +1461,83 @@
       "unesco": "Vatican City (1984)",
       "typicalVisit": "2–3 hours"
     },
-    "visitGuide": {
-      "practical": {
-        "hours": "Morning to late afternoon typically; closes during major papal events — verify before visit.",
-        "tickets": "Basilica entry is generally free; cupola climb and sacristy/treasury have fees. Security is airport-style.",
-        "dress": "Strict: no bare shoulders or knees. Shawls help. No hats for men inside.",
-        "duration": "2–3 hours including dome."
-      },
-      "etiquette": [
-        "Maintain silence near chapels and the Baldachin.",
-        "Kneeling and prayer take priority over photos.",
-        "No drones; follow Swiss Guard and security directions."
-      ],
-      "gettingThere": "Metro Ottaviano or Cipro, then walk. Combine carefully with Vatican Museums (separate tickets, long queues).",
-      "bestTime": "Early weekday morning. Papal audiences and major feast days transform access.",
-      "notes": [
-        "Climb the dome for the classic Rome view — steep stairs at the end.",
-        "Verify before visit around Easter, Christmas, and conclave-related periods."
-      ]
-    },
     "related": [
       "sagrada-familia",
       "notre-dame",
       "guadalupe"
-    ]
+    ],
+    "overview": {
+      "body": [
+        "St. Peter’s Basilica in Vatican City is the great church of Catholicism — Michelangelo’s dome over the traditional tomb of Saint Peter, framed by Bernini’s colonnade.",
+        "Basilica entry is generally free; expect airport-style security. The cupola climb and Vatican Museums are separate paid experiences."
+      ],
+      "highlights": [
+        "UNESCO Vatican City",
+        "Free basilica entry (security queue)",
+        "Optional dome climb (paid)",
+        "Strict dress code"
+      ]
+    },
+    "visit": {
+      "intro": "No ticket for the basilica nave; budget time for security and optional dome tickets.",
+      "hours": "Morning to late afternoon typically; closes for major papal events — verify before visit.",
+      "tickets": "Basilica: generally free. Cupola and museums: paid via official Vatican channels.",
+      "dress": "No bare shoulders or knees. Shawls help. Hats off for men inside.",
+      "duration": "2–3 hours including dome.",
+      "access": "Long security lines; dome has many stairs at the end.",
+      "tips": [
+        "Arrive at opening on weekdays.",
+        "Combine Museums carefully — separate queue and ticket.",
+        "Check papal audience schedules."
+      ],
+      "entryType": "free",
+      "ticketsUrl": "https://www.vatican.va/content/vatican/en.html",
+      "ticketsLabel": "Check Vatican visit info",
+      "ticketsNote": "Basilica entry is generally free. Use official Vatican pages for cupola/museum tickets when needed."
+    },
+    "etiquette": {
+      "intro": "Respectful behaviour keeps St. Peter’s welcoming for worshippers and visitors alike.",
+      "bullets": [
+        "Maintain silence near chapels and the Baldachin.",
+        "Kneeling and prayer take priority over photos.",
+        "No drones; follow Swiss Guard and security directions.",
+        "Follow posted signs even when others ignore them.",
+        "If unsure, ask a steward or attendant quietly."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach St. Peter’s.",
+      "paragraphs": [
+        "Metro Ottaviano or Cipro, then walk. Combine carefully with Vatican Museums (separate tickets, long queues).",
+        "Build buffer time for security lines, prayer schedules, and weather. Last-mile options matter as much as the airport."
+      ],
+      "bullets": [
+        "Country / area: Vatican City",
+        "Prefer official taxis, licensed guides, or public transit over unmarked offers.",
+        "Confirm return transport before sunset at remote sites."
+      ]
+    },
+    "bestTime": {
+      "intro": "When St. Peter’s is most pleasant — and when it is busiest.",
+      "paragraphs": [
+        "Early weekday morning. Papal audiences and major feast days transform access.",
+        "Major feast days are meaningful but crowded. For quieter visits, aim for weekday openings outside peak pilgrimage seasons."
+      ],
+      "bullets": [
+        "Check local holidays and liturgical calendars",
+        "Heat, rain, and altitude can matter as much as tickets",
+        "Sunrise/sunset slots fill first at iconic viewpoints"
+      ]
+    },
+    "notes": {
+      "intro": "注意事項 · Verify before visit",
+      "bullets": [
+        "Climb the dome for the classic Rome view — steep stairs at the end.",
+        "Verify before visit around Easter, Christmas, and conclave-related periods.",
+        "Rules, fees, and closures change without long notice — recheck official sources within a week of travel.",
+        "SanctaWay is informational; it does not sell tickets or grant access."
+      ]
+    }
   },
   {
     "id": "guadalupe",
@@ -769,30 +1563,83 @@
       "unesco": "—",
       "typicalVisit": "2–3 hours"
     },
-    "visitGuide": {
-      "practical": {
-        "hours": "Long daily hours for pilgrims — verify before visit.",
-        "tickets": "Free entry to the basilicas. Museum sections may charge.",
-        "dress": "Modest clothing. Expect large pilgrim crowds.",
-        "duration": "2–3 hours for both basilicas and plaza."
-      },
-      "etiquette": [
-        "This is a living pilgrimage site — move patiently.",
-        "Do not block the moving walkway under the tilma display.",
-        "Ask before photographing individuals at prayer."
-      ],
-      "gettingThere": "Mexico City Metro La Villa-Basílica. The complex is well signed from the station.",
-      "bestTime": "Weekday mornings. 12 December (feast day) is extraordinary and extremely crowded.",
-      "notes": [
-        "Visit both the modern circular basilica and the historic church on the hill.",
-        "Vendors and pilgrim stalls surround the plaza — keep valuables secure."
-      ]
-    },
     "related": [
       "st-peters",
       "lalibela",
       "sagrada-familia"
-    ]
+    ],
+    "overview": {
+      "body": [
+        "The Basilica of Our Lady of Guadalupe in Mexico City is among the world’s most visited Marian shrines — old and new basilicas beneath Tepeyac hill.",
+        "Entry is free. 12 December (feast day) is extraordinary and extremely crowded."
+      ],
+      "highlights": [
+        "Free entry",
+        "Modern + historic basilicas",
+        "Tilma display (moving walkway)",
+        "Metro La Villa-Basílica"
+      ]
+    },
+    "visit": {
+      "intro": "Free entry to the basilicas. Museum sections may charge.",
+      "hours": "Long daily hours for pilgrims — verify before visit.",
+      "tickets": "Free entry to the basilicas. Museum sections may charge.",
+      "dress": "Modest clothing. Expect large pilgrim crowds.",
+      "duration": "2–3 hours for both basilicas and plaza.",
+      "access": "Large plaza; ask about accessible routes into the new basilica.",
+      "tips": [
+        "Do not block the moving walkway under the tilma display.",
+        "Weekday mornings are calmer than feast days.",
+        "Keep valuables secure among plaza vendors."
+      ],
+      "entryType": "free",
+      "ticketsUrl": null,
+      "ticketsLabel": null,
+      "ticketsNote": "Free entry. No booking required for the main basilicas."
+    },
+    "etiquette": {
+      "intro": "Respectful behaviour keeps Basílica de Guadalupe welcoming for worshippers and visitors alike.",
+      "bullets": [
+        "This is a living pilgrimage site — move patiently.",
+        "Do not block the moving walkway under the tilma display.",
+        "Ask before photographing individuals at prayer.",
+        "Follow posted signs even when others ignore them.",
+        "If unsure, ask a steward or attendant quietly."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Basílica de Guadalupe.",
+      "paragraphs": [
+        "Mexico City Metro La Villa-Basílica. The complex is well signed from the station.",
+        "Build buffer time for security lines, prayer schedules, and weather. Last-mile options matter as much as the airport."
+      ],
+      "bullets": [
+        "Country / area: Mexico",
+        "Prefer official taxis, licensed guides, or public transit over unmarked offers.",
+        "Confirm return transport before sunset at remote sites."
+      ]
+    },
+    "bestTime": {
+      "intro": "When Basílica de Guadalupe is most pleasant — and when it is busiest.",
+      "paragraphs": [
+        "Weekday mornings. 12 December (feast day) is extraordinary and extremely crowded.",
+        "Major feast days are meaningful but crowded. For quieter visits, aim for weekday openings outside peak pilgrimage seasons."
+      ],
+      "bullets": [
+        "Check local holidays and liturgical calendars",
+        "Heat, rain, and altitude can matter as much as tickets",
+        "Sunrise/sunset slots fill first at iconic viewpoints"
+      ]
+    },
+    "notes": {
+      "intro": "注意事項 · Verify before visit",
+      "bullets": [
+        "Visit both the modern circular basilica and the historic church on the hill.",
+        "Vendors and pilgrim stalls surround the plaza — keep valuables secure.",
+        "Rules, fees, and closures change without long notice — recheck official sources within a week of travel.",
+        "SanctaWay is informational; it does not sell tickets or grant access."
+      ]
+    }
   },
   {
     "id": "lalibela",
@@ -818,30 +1665,83 @@
       "unesco": "Rock-Hewn Churches, Lalibela (1978)",
       "typicalVisit": "Full day"
     },
-    "visitGuide": {
-      "practical": {
-        "hours": "Daytime access for visitors; liturgy schedules differ — verify before visit.",
-        "tickets": "Multi-day visitor tickets sold locally; hire a licensed guide for context and navigation.",
-        "dress": "Cover shoulders and knees. Women often cover hair in churches. Remove shoes at thresholds.",
-        "duration": "One full day for both clusters of churches."
-      },
-      "etiquette": [
-        "Remove shoes before entering each church.",
-        "Ask before photographing priests, pilgrims, or interiors.",
-        "Step carefully — rock paths can be uneven and steep."
-      ],
-      "gettingThere": "Fly into Lalibela (LLI) from Addis Ababa. Town is walkable between church clusters with a guide.",
-      "bestTime": "Dry season (roughly October–March). Timkat (Epiphany) is spectacular and crowded.",
-      "notes": [
-        "Altitude and sun are strong — pace yourself and hydrate.",
-        "Some protective shelters cover churches — they alter photos but protect the stone.",
-        "Verify before visit: ticket prices and photography rules change."
-      ]
-    },
     "related": [
       "holy-sepulchre",
       "guadalupe",
       "st-peters"
-    ]
+    ],
+    "overview": {
+      "body": [
+        "Lalibela’s rock-hewn churches are Ethiopia’s ‘New Jerusalem’ — medieval sanctuaries carved from living volcanic rock, still used by Ethiopian Orthodox Christians.",
+        "A licensed guide helps with tunnel routes, shoe etiquette, and the two church clusters. Tickets are typically multi-day and sold locally."
+      ],
+      "highlights": [
+        "UNESCO Rock-Hewn Churches (1978)",
+        "Active Orthodox liturgy",
+        "Uneven rock paths — sturdy shoes",
+        "Timkat season is profound and crowded"
+      ]
+    },
+    "visit": {
+      "intro": "Buy the local visitor ticket and hire a licensed guide for context and safe routing.",
+      "hours": "Daytime visitor access; liturgy schedules differ — verify before visit.",
+      "tickets": "Multi-day visitor tickets sold locally; photography rules may add fees. Guides are strongly recommended.",
+      "dress": "Cover shoulders and knees. Women often cover hair. Remove shoes at each threshold.",
+      "duration": "One full day for both clusters.",
+      "access": "Steep rock trenches, tunnels, and uneven steps. Not easy with limited mobility.",
+      "tips": [
+        "Carry socks for cold stone floors.",
+        "Ask before photographing clergy or pilgrims.",
+        "Hydrate — altitude and sun are strong."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": null,
+      "ticketsLabel": null,
+      "ticketsNote": "Tickets are sold locally (often multi-day). No single global e-ticket — confirm prices on arrival in Lalibela."
+    },
+    "etiquette": {
+      "intro": "Respectful behaviour keeps Lalibela welcoming for worshippers and visitors alike.",
+      "bullets": [
+        "Remove shoes before entering each church.",
+        "Ask before photographing priests, pilgrims, or interiors.",
+        "Step carefully — rock paths can be uneven and steep.",
+        "Follow posted signs even when others ignore them.",
+        "If unsure, ask a steward or attendant quietly."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Lalibela.",
+      "paragraphs": [
+        "Fly into Lalibela (LLI) from Addis Ababa. Town is walkable between church clusters with a guide.",
+        "Build buffer time for security lines, prayer schedules, and weather. Last-mile options matter as much as the airport."
+      ],
+      "bullets": [
+        "Country / area: Ethiopia",
+        "Prefer official taxis, licensed guides, or public transit over unmarked offers.",
+        "Confirm return transport before sunset at remote sites."
+      ]
+    },
+    "bestTime": {
+      "intro": "When Lalibela is most pleasant — and when it is busiest.",
+      "paragraphs": [
+        "Dry season (roughly October–March). Timkat (Epiphany) is spectacular and crowded.",
+        "Major feast days are meaningful but crowded. For quieter visits, aim for weekday openings outside peak pilgrimage seasons."
+      ],
+      "bullets": [
+        "Check local holidays and liturgical calendars",
+        "Heat, rain, and altitude can matter as much as tickets",
+        "Sunrise/sunset slots fill first at iconic viewpoints"
+      ]
+    },
+    "notes": {
+      "intro": "注意事項 · Verify before visit",
+      "bullets": [
+        "Altitude and sun are strong — pace yourself and hydrate.",
+        "Some protective shelters cover churches — they alter photos but protect the stone.",
+        "Verify before visit: ticket prices and photography rules change.",
+        "Rules, fees, and closures change without long notice — recheck official sources within a week of travel.",
+        "SanctaWay is informational; it does not sell tickets or grant access."
+      ]
+    }
   }
 ]

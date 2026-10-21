@@ -26,7 +26,7 @@ export default function App() {
       )
       break
     case 'temple':
-      page = <TempleDetailPage id={route.id} />
+      page = <TempleDetailPage id={route.id} chapter={route.chapter ?? 'overview'} />
       break
     case 'region':
       page = (

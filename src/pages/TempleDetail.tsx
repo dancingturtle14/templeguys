@@ -1,11 +1,179 @@
 import { AdSlot } from '../components/AdSlot'
 import { Breadcrumb } from '../components/Breadcrumb'
 import { TempleCard } from '../components/TempleCard'
+import { TempleChapterNav } from '../components/TempleChapterNav'
+import { TempleChapterPager } from '../components/TempleChapterPager'
 import { TempleImage } from '../components/TempleImage'
+import { TicketsCta } from '../components/TicketsCta'
+import { TEMPLE_CHAPTERS } from '../lib/chapters'
 import { Link } from '../lib/router'
 import { getTemple, temples } from '../lib/temples'
+import type { Temple, TempleChapter } from '../types'
 
-export function TempleDetailPage({ id }: { id: string }) {
+function ChapterHeading({ title, lede }: { title: string; lede?: string }) {
+  return (
+    <header className="border-b border-line pb-4">
+      <h2 className="font-display text-3xl sm:text-4xl">{title}</h2>
+      {lede ? <p className="mt-2 max-w-2xl text-ink-soft">{lede}</p> : null}
+    </header>
+  )
+}
+
+function BulletList({ items, accent = false }: { items: string[]; accent?: boolean }) {
+  return (
+    <ul className={accent ? 'mt-5 space-y-3 border-l-2 border-cinnabar/40 pl-5' : 'mt-5 space-y-2'}>
+      {items.map((item) => (
+        <li key={item} className="text-pretty text-ink-soft">
+          {accent ? item : `— ${item}`}
+        </li>
+      ))}
+    </ul>
+  )
+}
+
+function OverviewChapter({ temple }: { temple: Temple }) {
+  return (
+    <div className="space-y-8">
+      <ChapterHeading title="Overview" lede={temple.summary} />
+      <div className="space-y-4">
+        {temple.overview.body.map((p) => (
+          <p key={p.slice(0, 48)} className="max-w-2xl text-pretty text-ink-soft">
+            {p}
+          </p>
+        ))}
+      </div>
+      <div>
+        <h3 className="font-display text-2xl">Highlights</h3>
+        <BulletList items={temple.overview.highlights} accent />
+      </div>
+      <div className="grid gap-3 sm:grid-cols-2">
+        {TEMPLE_CHAPTERS.filter((c) => c.id !== 'overview').map((c) => (
+          <Link
+            key={c.id}
+            to={{ name: 'temple', id: temple.id, chapter: c.id }}
+            className="border border-line bg-paper px-4 py-3 no-underline hover:border-ink"
+          >
+            <span className="text-[0.65rem] font-semibold uppercase tracking-wide text-cinnabar">
+              Chapter
+            </span>
+            <span className="mt-1 block font-display text-xl text-ink">{c.label} →</span>
+          </Link>
+        ))}
+      </div>
+    </div>
+  )
+}
+
+function VisitChapter({ temple }: { temple: Temple }) {
+  const v = temple.visit
+  return (
+    <div className="space-y-8">
+      <ChapterHeading title="Visit" lede={v.intro} />
+      <TicketsCta visit={v} />
+      <div className="divide-y divide-line border border-line">
+        {(
+          [
+            ['Hours', v.hours],
+            ['Tickets', v.tickets],
+            ['Dress', v.dress],
+            ['Duration', v.duration],
+            ['Access', v.access],
+          ] as const
+        ).map(([title, body]) => (
+          <div key={title} className="grid gap-2 p-5 sm:grid-cols-[7rem_1fr] sm:gap-6">
+            <h3 className="font-display text-xl text-ink">{title}</h3>
+            <p className="text-pretty text-ink-soft">{body}</p>
+          </div>
+        ))}
+      </div>
+      <div>
+        <h3 className="font-display text-2xl">Tips</h3>
+        <BulletList items={v.tips} accent />
+      </div>
+    </div>
+  )
+}
+
+function EtiquetteChapter({ temple }: { temple: Temple }) {
+  const e = temple.etiquette
+  return (
+    <div className="space-y-8">
+      <ChapterHeading title="Etiquette" lede={e.intro} />
+      <BulletList items={e.bullets} accent />
+    </div>
+  )
+}
+
+function GettingThereChapter({ temple }: { temple: Temple }) {
+  const g = temple.gettingThere
+  return (
+    <div className="space-y-8">
+      <ChapterHeading title="Getting there" lede={g.intro} />
+      <div className="space-y-4">
+        {g.paragraphs.map((p) => (
+          <p key={p.slice(0, 48)} className="max-w-2xl text-pretty text-ink-soft">
+            {p}
+          </p>
+        ))}
+      </div>
+      <BulletList items={g.bullets} />
+    </div>
+  )
+}
+
+function BestTimeChapter({ temple }: { temple: Temple }) {
+  const b = temple.bestTime
+  return (
+    <div className="space-y-8">
+      <ChapterHeading title="Best time" lede={b.intro} />
+      <div className="space-y-4">
+        {b.paragraphs.map((p) => (
+          <p key={p.slice(0, 48)} className="max-w-2xl text-pretty text-ink-soft">
+            {p}
+          </p>
+        ))}
+      </div>
+      <BulletList items={b.bullets} accent />
+    </div>
+  )
+}
+
+function NotesChapter({ temple }: { temple: Temple }) {
+  const n = temple.notes
+  return (
+    <div className="space-y-8">
+      <ChapterHeading title="Notes · 注意事項" lede={n.intro} />
+      <div className="border border-cinnabar/25 bg-cinnabar-wash/60 p-6 sm:p-8">
+        <BulletList items={n.bullets} />
+      </div>
+    </div>
+  )
+}
+
+function renderChapter(temple: Temple, chapter: TempleChapter) {
+  switch (chapter) {
+    case 'visit':
+      return <VisitChapter temple={temple} />
+    case 'etiquette':
+      return <EtiquetteChapter temple={temple} />
+    case 'getting-there':
+      return <GettingThereChapter temple={temple} />
+    case 'best-time':
+      return <BestTimeChapter temple={temple} />
+    case 'notes':
+      return <NotesChapter temple={temple} />
+    default:
+      return <OverviewChapter temple={temple} />
+  }
+}
+
+export function TempleDetailPage({
+  id,
+  chapter = 'overview',
+}: {
+  id: string
+  chapter?: TempleChapter
+}) {
   const temple = getTemple(id)
   if (!temple) {
     return (
@@ -27,7 +195,7 @@ export function TempleDetailPage({ id }: { id: string }) {
     ? related
     : temples.filter((t) => t.id !== temple.id && t.regionSlug === temple.regionSlug).slice(0, 3)
 
-  const g = temple.visitGuide
+  const chapterMeta = TEMPLE_CHAPTERS.find((c) => c.id === chapter) ?? TEMPLE_CHAPTERS[0]
 
   return (
     <article>
@@ -38,7 +206,11 @@ export function TempleDetailPage({ id }: { id: string }) {
               { label: 'Home', to: { name: 'home' } },
               { label: 'Explore', to: { name: 'explore' } },
               { label: temple.region, to: { name: 'region', slug: temple.regionSlug } },
-              { label: temple.shortName },
+              {
+                label: temple.shortName,
+                to: chapter === 'overview' ? undefined : { name: 'temple', id: temple.id },
+              },
+              ...(chapter === 'overview' ? [] : [{ label: chapterMeta.short }]),
             ]}
           />
         </div>
@@ -73,7 +245,6 @@ export function TempleDetailPage({ id }: { id: string }) {
               {temple.name}
             </h1>
             <p className="mt-3 text-lg text-ink-soft">{temple.location}</p>
-            <p className="mt-5 max-w-2xl text-pretty text-ink-soft">{temple.summary}</p>
           </header>
 
           <aside className="border border-line bg-paper-deep/40 p-5 lg:col-span-4 lg:self-start">
@@ -94,78 +265,40 @@ export function TempleDetailPage({ id }: { id: string }) {
           </aside>
         </div>
 
-        <div className="mt-14 grid gap-12 lg:grid-cols-[1fr_260px]">
-          <div className="space-y-12">
-            <section>
-              <div className="border-b border-line pb-3">
-                <h2 className="font-display text-3xl">Visit guide</h2>
-                <p className="mt-1 text-sm text-ink-muted">Practical details for the day you go.</p>
-              </div>
-
-              <div className="mt-6 divide-y divide-line border border-line">
-                {(
-                  [
-                    ['Hours', g.practical.hours],
-                    ['Tickets', g.practical.tickets],
-                    ['Dress', g.practical.dress],
-                    ['Duration', g.practical.duration],
-                  ] as const
-                ).map(([title, body]) => (
-                  <div key={title} className="grid gap-2 p-5 sm:grid-cols-[7rem_1fr] sm:gap-6">
-                    <h3 className="font-display text-xl text-ink">{title}</h3>
-                    <p className="text-pretty text-ink-soft">{body}</p>
-                  </div>
-                ))}
-              </div>
-            </section>
-
-            <section className="cv-auto">
-              <h2 className="font-display text-3xl">Etiquette</h2>
-              <ul className="mt-5 space-y-3 border-l-2 border-cinnabar/40 pl-5">
-                {g.etiquette.map((item) => (
-                  <li key={item} className="text-pretty text-ink-soft">
-                    {item}
-                  </li>
-                ))}
-              </ul>
-            </section>
-
-            <section className="cv-auto grid gap-10 sm:grid-cols-2">
-              <div>
-                <h2 className="font-display text-3xl">Getting there</h2>
-                <p className="mt-4 text-pretty text-ink-soft">{g.gettingThere}</p>
-              </div>
-              <div>
-                <h2 className="font-display text-3xl">Best time</h2>
-                <p className="mt-4 text-pretty text-ink-soft">{g.bestTime}</p>
-              </div>
-            </section>
-
-            <section className="cv-auto border border-cinnabar/25 bg-cinnabar-wash/60 p-6 sm:p-8">
-              <h2 className="font-display text-3xl">Notes · 注意事項</h2>
-              <ul className="mt-4 space-y-2">
-                {g.notes.map((item) => (
-                  <li key={item} className="text-pretty text-ink-soft">
-                    — {item}
-                  </li>
-                ))}
-              </ul>
-            </section>
+        {/* Mobile chapter strip */}
+        <div className="mt-8 -mx-4 overflow-x-auto border-y border-line bg-paper px-4 py-2 lg:hidden">
+          <div className="flex min-w-max gap-1">
+            {TEMPLE_CHAPTERS.map((c) => {
+              const active = c.id === chapter
+              return (
+                <Link
+                  key={c.id}
+                  to={{ name: 'temple', id: temple.id, chapter: c.id }}
+                  className={
+                    active
+                      ? 'whitespace-nowrap border border-cinnabar bg-cinnabar-wash px-3 py-1.5 text-xs font-semibold no-underline'
+                      : 'whitespace-nowrap border border-transparent px-3 py-1.5 text-xs text-ink-soft no-underline'
+                  }
+                >
+                  {c.short}
+                </Link>
+              )
+            })}
           </div>
+        </div>
 
-          <aside className="space-y-6 lg:sticky lg:top-20 lg:self-start">
-            <div className="border border-line bg-paper p-5">
-              <p className="text-[0.65rem] font-semibold uppercase text-cinnabar">On this page</p>
-              <ul className="mt-3 space-y-2 text-sm text-ink-soft">
-                <li>Visit guide</li>
-                <li>Etiquette</li>
-                <li>Getting there</li>
-                <li>Best time</li>
-                <li>Notes</li>
-              </ul>
+        <div className="mt-10 grid gap-10 lg:grid-cols-[240px_1fr]">
+          <aside className="hidden lg:block">
+            <div className="sticky top-20 space-y-6">
+              <TempleChapterNav templeId={temple.id} chapter={chapter} />
+              <AdSlot label="Place sidebar" />
             </div>
-            <AdSlot label="Place sidebar" />
           </aside>
+
+          <div>
+            {renderChapter(temple, chapter)}
+            <TempleChapterPager templeId={temple.id} chapter={chapter} />
+          </div>
         </div>
 
         <section className="mt-16 border-t border-line pt-10">

@@ -9,7 +9,7 @@ import {
   type MouseEvent,
   type AnchorHTMLAttributes,
 } from 'react'
-import type { Route } from '../types'
+import type { Route, TempleChapter } from '../types'
 
 /** Vite BASE_URL, e.g. `/templeguys/` on Pages or `/` locally with default. */
 function getBase(): string {
@@ -36,6 +36,14 @@ function withBase(path: string): string {
   return base.replace(/\/+$/, '') + pathname + search
 }
 
+const CHAPTERS = new Set<string>([
+  'visit',
+  'etiquette',
+  'getting-there',
+  'best-time',
+  'notes',
+])
+
 function parsePath(pathname: string, search: string): Route {
   const path = stripBase(pathname).replace(/\/+$/, '') || '/'
   const params = new URLSearchParams(search)
@@ -51,8 +59,19 @@ function parsePath(pathname: string, search: string): Route {
   }
   if (path === '/about') return { name: 'about' }
 
+  const templeChapter = path.match(/^\/temple\/([^/]+)\/([^/]+)$/)
+  if (templeChapter && CHAPTERS.has(templeChapter[2])) {
+    return {
+      name: 'temple',
+      id: decodeURIComponent(templeChapter[1]),
+      chapter: templeChapter[2] as TempleChapter,
+    }
+  }
+
   const temple = path.match(/^\/temple\/([^/]+)$/)
-  if (temple) return { name: 'temple', id: decodeURIComponent(temple[1]) }
+  if (temple) {
+    return { name: 'temple', id: decodeURIComponent(temple[1]), chapter: 'overview' }
+  }
 
   const region = path.match(/^\/region\/([^/]+)$/)
   if (region) return { name: 'region', slug: decodeURIComponent(region[1]) }
@@ -78,9 +97,11 @@ function routeToUrl(route: Route): string {
       path = qs ? `/explore?${qs}` : '/explore'
       break
     }
-    case 'temple':
-      path = `/temple/${route.id}`
+    case 'temple': {
+      const ch = route.chapter && route.chapter !== 'overview' ? `/${route.chapter}` : ''
+      path = `/temple/${route.id}${ch}`
       break
+    }
     case 'region':
       path = `/region/${route.slug}`
       break

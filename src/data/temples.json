@@ -1,0 +1,847 @@
+[
+  {
+    "id": "angkor-wat",
+    "name": "Angkor Wat",
+    "shortName": "Angkor Wat",
+    "location": "Siem Reap, Cambodia",
+    "country": "Cambodia",
+    "region": "Southeast Asia",
+    "regionSlug": "southeast-asia",
+    "religions": [
+      "Hindu",
+      "Buddhist"
+    ],
+    "religionSlugs": [
+      "hindu",
+      "buddhist"
+    ],
+    "summary": "The largest religious monument on Earth — a 12th-century Khmer masterpiece rising from the jungle near Siem Reap.",
+    "heroImage": "https://images.unsplash.com/photo-1540611025311-01df3cef54b5?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Early 12th century",
+      "patron": "King Suryavarman II",
+      "unesco": "Angkor (1992)",
+      "typicalVisit": "3–5 hours"
+    },
+    "visitGuide": {
+      "practical": {
+        "hours": "Angkor Archaeological Park generally opens around sunrise; ticket booths and temple access hours vary by site — verify before visit.",
+        "tickets": "1-, 3-, and 7-day Angkor Passes required. Buy only from official counters or the authorised online channel.",
+        "dress": "Cover shoulders and knees. Hats off inside shrine spaces. Comfortable shoes for uneven stone.",
+        "duration": "Half day for the main complex; multi-day for the wider park."
+      },
+      "etiquette": [
+        "Do not climb on restricted towers or bas-reliefs.",
+        "Keep voices low near active worship spaces.",
+        "Ask before photographing people at prayer.",
+        "Drones are restricted — check current park rules."
+      ],
+      "gettingThere": "Fly into Siem Reap (SAI). Tuk-tuks and licensed guides are the usual way into the park; hire for the day rather than hopping ad hoc.",
+      "bestTime": "November–February (cooler, drier). Sunrise at the reflecting pools is popular — arrive early and leave room for quieter mid-morning exploration.",
+      "notes": [
+        "Verify opening hours and ticket rules before visit — they change seasonally.",
+        "Bring water, sun protection, and cash for small vendors.",
+        "Many towers have steep, uneven steps; skip if mobility is limited."
+      ]
+    },
+    "related": [
+      "borobudur",
+      "wat-arun",
+      "wat-phra-kaew"
+    ]
+  },
+  {
+    "id": "borobudur",
+    "name": "Borobudur",
+    "shortName": "Borobudur",
+    "location": "Magelang, Central Java, Indonesia",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "regionSlug": "southeast-asia",
+    "religions": [
+      "Buddhist"
+    ],
+    "religionSlugs": [
+      "buddhist"
+    ],
+    "summary": "A vast 9th-century Mahayana Buddhist stupa-temple — terraces of stone reliefs ascending toward a silent, misty summit.",
+    "heroImage": "https://images.unsplash.com/photo-1596402184320-417e7178b2cd?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "8th–9th century",
+      "patron": "Sailendra dynasty",
+      "unesco": "Borobudur Temple Compounds (1991)",
+      "typicalVisit": "2–3 hours"
+    },
+    "visitGuide": {
+      "practical": {
+        "hours": "Daytime access is standard; sunrise tickets are sold separately when offered — verify before visit.",
+        "tickets": "Official Borobudur tickets via authorised operators; international and domestic rates differ.",
+        "dress": "Modest clothing. Temple cloth (sarong) may be required for upper levels — usually provided with entry.",
+        "duration": "2–3 hours including museum and grounds."
+      },
+      "etiquette": [
+        "Walk clockwise on the galleries when following traditional practice.",
+        "Do not sit or stand on Buddha statues or stupas.",
+        "Follow staff directions on which tiers are open."
+      ],
+      "gettingThere": "About 40–60 minutes from Yogyakarta by car. Organised tours and private drivers are common.",
+      "bestTime": "Dry season (roughly April–October). Sunrise is atmospheric but crowded; mid-morning light is excellent for reliefs.",
+      "notes": [
+        "Capacity limits may apply on upper terraces — book ahead when required.",
+        "Verify before visit: access rules have tightened in recent years."
+      ]
+    },
+    "related": [
+      "angkor-wat",
+      "todai-ji",
+      "po-lin"
+    ]
+  },
+  {
+    "id": "meiji-shrine",
+    "name": "Meiji Shrine",
+    "shortName": "Meiji Jingū",
+    "location": "Shibuya, Tokyo, Japan",
+    "country": "Japan",
+    "region": "East Asia",
+    "regionSlug": "east-asia",
+    "religions": [
+      "Shinto"
+    ],
+    "religionSlugs": [
+      "shinto"
+    ],
+    "summary": "A forest sanctuary in central Tokyo dedicated to Emperor Meiji and Empress Shōken — quiet paths, towering torii, living tradition.",
+    "heroImage": "https://images.unsplash.com/photo-1524413840807-0c3cb6fa808d?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "1920 (enshrinement)",
+      "patron": "Public dedication",
+      "unesco": "—",
+      "typicalVisit": "1–2 hours"
+    },
+    "visitGuide": {
+      "practical": {
+        "hours": "Sunrise to sunset typically; exact times shift with the season — verify before visit.",
+        "tickets": "Shrine grounds are free. Inner gardens and special exhibitions may have fees.",
+        "dress": "Modest, tidy attire. Remove hats when approaching the main hall.",
+        "duration": "1–2 hours for paths, purification, and the main hall."
+      },
+      "etiquette": [
+        "Bow once before passing under a torii; walk to the side, not the centre path reserved for deities.",
+        "Purify hands and mouth at the temizuya before approaching.",
+        "At the hall: toss a coin, bow twice, clap twice, bow once (common practice — follow posted guidance).",
+        "No eating, drinking, or loud phone calls on the sacred paths."
+      ],
+      "gettingThere": "JR Harajuku Station or Metro Meiji-jingumae. Follow signs into the forested approach.",
+      "bestTime": "Early morning for quiet. Weekends and New Year are extremely busy. Autumn foliage is beautiful.",
+      "notes": [
+        "Photography is usually fine outdoors; respect signs near the main sanctuary.",
+        "Wedding processions are common — give them space."
+      ]
+    },
+    "related": [
+      "todai-ji",
+      "po-lin",
+      "wat-arun"
+    ]
+  },
+  {
+    "id": "todai-ji",
+    "name": "Tōdai-ji",
+    "shortName": "Tōdai-ji",
+    "location": "Nara, Japan",
+    "country": "Japan",
+    "region": "East Asia",
+    "regionSlug": "east-asia",
+    "religions": [
+      "Buddhist"
+    ],
+    "religionSlugs": [
+      "buddhist"
+    ],
+    "summary": "Home of the Great Buddha of Nara — one of Japan’s most monumental wooden halls, set among free-roaming deer.",
+    "heroImage": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": false,
+    "quickFacts": {
+      "founded": "8th century",
+      "patron": "Emperor Shōmu",
+      "unesco": "Historic Monuments of Ancient Nara (1998)",
+      "typicalVisit": "1.5–2 hours"
+    },
+    "visitGuide": {
+      "practical": {
+        "hours": "Typically 7:30–17:30 (seasonal variation) — verify before visit.",
+        "tickets": "Separate tickets for Daibutsuden (Great Buddha Hall) and some sub-temples.",
+        "dress": "Casual modest dress is fine. Remove hats indoors.",
+        "duration": "1.5–2 hours including park approach."
+      },
+      "etiquette": [
+        "Speak quietly inside the Great Buddha Hall.",
+        "Do not feed deer human junk food; use official crackers if you choose to feed them.",
+        "Watch belongings — deer will nuzzle bags."
+      ],
+      "gettingThere": "JR or Kintetsu Nara Station, then 20–30 minutes on foot through Nara Park, or a short bus ride.",
+      "bestTime": "Weekday mornings. Cherry blossom and autumn colour seasons are peak.",
+      "notes": [
+        "The hall is a reconstruction (18th century) of an earlier, even larger structure.",
+        "Combine with Kasuga Taisha and Kōfuku-ji for a full Nara day."
+      ]
+    },
+    "related": [
+      "meiji-shrine",
+      "borobudur",
+      "po-lin"
+    ]
+  },
+  {
+    "id": "wat-arun",
+    "name": "Wat Arun",
+    "shortName": "Wat Arun",
+    "location": "Bangkok, Thailand",
+    "country": "Thailand",
+    "region": "Southeast Asia",
+    "regionSlug": "southeast-asia",
+    "religions": [
+      "Buddhist"
+    ],
+    "religionSlugs": [
+      "buddhist"
+    ],
+    "summary": "The Temple of Dawn — a porcelain-encrusted prang on the Chao Phraya, glowing at sunrise and after dark.",
+    "heroImage": "https://images.unsplash.com/photo-1528181304800-259b08848526?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Ayutthaya period; major works later",
+      "patron": "Various Thai monarchs",
+      "unesco": "—",
+      "typicalVisit": "1–1.5 hours"
+    },
+    "visitGuide": {
+      "practical": {
+        "hours": "Typically morning to early evening — verify before visit.",
+        "tickets": "Modest entry fee for the grounds; river ferry is separate.",
+        "dress": "Cover shoulders and knees. Sarongs often available to rent or buy at the gate.",
+        "duration": "45–90 minutes."
+      },
+      "etiquette": [
+        "Climb carefully — stairs are steep and narrow.",
+        "Do not point feet at Buddha images.",
+        "Remove shoes where indicated."
+      ],
+      "gettingThere": "Cross the Chao Phraya by ferry from Tha Tien (near Wat Pho). River boats and taxis also serve the west bank.",
+      "bestTime": "Late afternoon into dusk for soft light on the prang; sunrise lives up to the name if you start early.",
+      "notes": [
+        "Combine with Wat Pho and the Grand Palace across the river.",
+        "Verify before visit: upper-terrace access may close for conservation."
+      ]
+    },
+    "related": [
+      "wat-phra-kaew",
+      "angkor-wat",
+      "po-lin"
+    ]
+  },
+  {
+    "id": "wat-phra-kaew",
+    "name": "Wat Phra Kaew",
+    "shortName": "Temple of the Emerald Buddha",
+    "location": "Bangkok, Thailand",
+    "country": "Thailand",
+    "region": "Southeast Asia",
+    "regionSlug": "southeast-asia",
+    "religions": [
+      "Buddhist"
+    ],
+    "religionSlugs": [
+      "buddhist"
+    ],
+    "summary": "Thailand’s most sacred Buddhist temple, within the Grand Palace complex, home to the Emerald Buddha.",
+    "heroImage": "https://images.unsplash.com/photo-1508009603885-50cf7c579365?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": false,
+    "quickFacts": {
+      "founded": "1782",
+      "patron": "King Rama I",
+      "unesco": "—",
+      "typicalVisit": "2–3 hours (with Grand Palace)"
+    },
+    "visitGuide": {
+      "practical": {
+        "hours": "Usually daytime only; last entry earlier than closing — verify before visit.",
+        "tickets": "Combined Grand Palace ticket; keep your ticket for museum sections.",
+        "dress": "Strict: covered shoulders, long trousers or skirts covering knees, closed or neat sandals. No torn clothing.",
+        "duration": "2–3 hours for palace and temple grounds."
+      },
+      "etiquette": [
+        "No photography inside the ordination hall of the Emerald Buddha.",
+        "Speak quietly; this is an active royal and religious site.",
+        "Sit with feet tucked away from the Buddha image."
+      ],
+      "gettingThere": "BTS to Saphan Taksin then river boat, or MRT + taxi/tuk-tuk to the Grand Palace. Arrive early to avoid peak queues.",
+      "bestTime": "Open immediately at opening time on a weekday. Avoid major royal ceremonies when access may shift.",
+      "notes": [
+        "Dress-code checks are real — bring a scarf or light trousers.",
+        "Verify before visit: schedules change around royal and national events."
+      ]
+    },
+    "related": [
+      "wat-arun",
+      "angkor-wat",
+      "golden-temple"
+    ]
+  },
+  {
+    "id": "golden-temple",
+    "name": "Harmandir Sahib (Golden Temple)",
+    "shortName": "Golden Temple",
+    "location": "Amritsar, Punjab, India",
+    "country": "India",
+    "region": "South Asia",
+    "regionSlug": "south-asia",
+    "religions": [
+      "Sikh"
+    ],
+    "religionSlugs": [
+      "sikh"
+    ],
+    "summary": "The holiest gurdwara of Sikhism — a gold-clad sanctuary in a sacred pool, open to all who come with respect.",
+    "heroImage": "https://images.unsplash.com/photo-1589308078059-be1415eab4c3?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Late 16th century (sanctum)",
+      "patron": "Sikh Gurus; community",
+      "unesco": "—",
+      "typicalVisit": "2–4 hours"
+    },
+    "visitGuide": {
+      "practical": {
+        "hours": "Open virtually around the clock for devotees; visitor patterns peak morning and evening — verify before visit.",
+        "tickets": "Free entry. Donations welcome. Langar (community kitchen) is free to all.",
+        "dress": "Cover your head (scarves provided). Remove shoes. Wash feet at the entrance pools. Modest clothing.",
+        "duration": "2–4 hours including langar and parikrama."
+      },
+      "etiquette": [
+        "Head covering is mandatory for everyone.",
+        "No alcohol, tobacco, or intoxicants on the complex.",
+        "Photography rules vary by zone — follow signs and sewadars’ guidance.",
+        "Sit on the floor in langar; accept food respectfully."
+      ],
+      "gettingThere": "Amritsar airport or railway station, then auto-rickshaw or taxi to the walled old city. Expect security screening.",
+      "bestTime": "Early morning or late evening for golden light on the sarovar. Major gurpurabs are deeply moving but extremely crowded.",
+      "notes": [
+        "Security is thorough — travel light.",
+        "The experience is spiritual first, touristic second — move with humility."
+      ]
+    },
+    "related": [
+      "potala",
+      "angkor-wat",
+      "wat-phra-kaew"
+    ]
+  },
+  {
+    "id": "potala",
+    "name": "Potala Palace",
+    "shortName": "Potala",
+    "location": "Lhasa, Tibet Autonomous Region, China",
+    "country": "China",
+    "region": "East Asia",
+    "regionSlug": "east-asia",
+    "religions": [
+      "Buddhist"
+    ],
+    "religionSlugs": [
+      "buddhist"
+    ],
+    "summary": "The iconic hilltop palace-monastery of Lhasa — white and red walls above the city, a landmark of Tibetan Buddhism.",
+    "heroImage": "https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": false,
+    "quickFacts": {
+      "founded": "17th century (present form)",
+      "patron": "5th Dalai Lama era",
+      "unesco": "Historic Ensemble of the Potala Palace (1994)",
+      "typicalVisit": "1–2 hours (timed entry)"
+    },
+    "visitGuide": {
+      "practical": {
+        "hours": "Daytime timed tickets; daily visitor caps apply — verify before visit.",
+        "tickets": "Advance booking is typically essential in peak season. Bring passport.",
+        "dress": "Modest layers. Lhasa is high altitude — prepare for sun and chill.",
+        "duration": "About 1 hour inside once entered; allow more for the climb and security."
+      },
+      "etiquette": [
+        "Follow one-way routes; do not touch murals or statues.",
+        "Speak quietly in chapels.",
+        "Photography is restricted or banned in many rooms — obey signs."
+      ],
+      "gettingThere": "Fly into Lhasa (LXA) with required permits for many foreign visitors. Local guides and operators handle logistics — confirm current entry rules.",
+      "bestTime": "May–October for milder weather. Acclimatise to altitude before intensive sightseeing.",
+      "notes": [
+        "Altitude sickness is real — rest on arrival day.",
+        "Verify before visit: ticket systems and permit rules change frequently.",
+        "Pair with Jokhang Temple and Barkhor for context."
+      ]
+    },
+    "related": [
+      "golden-temple",
+      "borobudur",
+      "todai-ji"
+    ]
+  },
+  {
+    "id": "po-lin",
+    "name": "Po Lin Monastery & Tian Tan Buddha",
+    "shortName": "Po Lin Monastery",
+    "location": "Lantau Island, Hong Kong",
+    "country": "Hong Kong",
+    "region": "East Asia",
+    "regionSlug": "east-asia",
+    "religions": [
+      "Buddhist"
+    ],
+    "religionSlugs": [
+      "buddhist"
+    ],
+    "summary": "Hong Kong’s hillside monastery and the monumental Big Buddha — reached by cable car over green islands and sea.",
+    "heroImage": "https://images.unsplash.com/photo-1513415564515-763d91423bdd?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "1906 (monastery); Buddha 1993",
+      "patron": "Buddhist community",
+      "unesco": "—",
+      "typicalVisit": "Half day"
+    },
+    "visitGuide": {
+      "practical": {
+        "hours": "Monastery and Buddha viewing generally daytime; cable car hours vary — verify before visit.",
+        "tickets": "Ngong Ping 360 cable car tickets; monastery grounds typically free; museum/Buddha podium may have fees.",
+        "dress": "Modest clothing for monastery halls. Comfortable shoes for stairs to the Buddha.",
+        "duration": "Half day including cable car."
+      },
+      "etiquette": [
+        "Remove shoes where posted in temple halls.",
+        "Keep voices low; this remains an active monastery.",
+        "Do not climb on statues or offerings."
+      ],
+      "gettingThere": "MTR to Tung Chung, then Ngong Ping 360 cable car or bus. Allow buffer for cable-car queues and weather delays.",
+      "bestTime": "Weekday mornings. Clear days for views; fog is common and atmospheric but hides the skyline.",
+      "notes": [
+        "Vegetarian meals are available near the monastery.",
+        "Combine with Tai O fishing village if time allows."
+      ]
+    },
+    "related": [
+      "meiji-shrine",
+      "wat-arun",
+      "todai-ji"
+    ]
+  },
+  {
+    "id": "dome-of-the-rock",
+    "name": "Dome of the Rock & Al-Aqsa Compound",
+    "shortName": "Haram al-Sharif",
+    "location": "Jerusalem",
+    "country": "Jerusalem",
+    "region": "Middle East",
+    "regionSlug": "middle-east",
+    "religions": [
+      "Islamic"
+    ],
+    "religionSlugs": [
+      "islamic"
+    ],
+    "summary": "One of Islam’s holiest sites — the golden Dome of the Rock and Al-Aqsa Mosque on the Haram al-Sharif / Temple Mount plateau. Visit with care and current access rules.",
+    "heroImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/16-04-04-Felsendom-Tempelberg-Jerusalem-RalfR-WAT_6385.jpg/1280px-16-04-04-Felsendom-Tempelberg-Jerusalem-RalfR-WAT_6385.jpg",
+    "heroCredit": "Wikimedia Commons",
+    "featured": false,
+    "quickFacts": {
+      "founded": "Late 7th century (Dome)",
+      "patron": "Umayyad caliphate (historical)",
+      "unesco": "Old City of Jerusalem (1981)",
+      "typicalVisit": "1–2 hours (when accessible)"
+    },
+    "visitGuide": {
+      "practical": {
+        "hours": "Non-Muslim visiting hours are limited and change often — verify before visit with official sources on the day.",
+        "tickets": "Entry rules differ for worshippers and visitors; expect security checks. Bring passport.",
+        "dress": "Very modest: covered arms and legs; women may need a headscarf. Shoes off in prayer spaces if entered.",
+        "duration": "1–2 hours when open to visitors."
+      },
+      "etiquette": [
+        "This is an active sacred site for Muslims — behave with utmost respect.",
+        "Follow police and Waqf instructions without argument.",
+        "Do not bring religious artefacts of other faiths onto the compound.",
+        "Photography rules can be strict — ask if unsure."
+      ],
+      "gettingThere": "Access points in Jerusalem’s Old City are controlled. Queues form early on open days.",
+      "bestTime": "Only when official visiting windows are open. Avoid prayer rush times as a tourist.",
+      "notes": [
+        "Access for non-Muslims is frequently adjusted for security and religious calendar — always verify same-day.",
+        "TempleGuys presents factual visit guidance only; the site’s religious and political significance deserves humility.",
+        "Interior access to the Dome and Al-Aqsa is often reserved for Muslim worshippers."
+      ]
+    },
+    "related": [
+      "holy-sepulchre",
+      "hagia-sophia",
+      "lalibela"
+    ]
+  },
+  {
+    "id": "hagia-sophia",
+    "name": "Hagia Sophia",
+    "shortName": "Ayasofya",
+    "location": "Istanbul, Türkiye",
+    "country": "Türkiye",
+    "region": "Middle East",
+    "regionSlug": "middle-east",
+    "religions": [
+      "Islamic",
+      "Christian"
+    ],
+    "religionSlugs": [
+      "islamic",
+      "christian"
+    ],
+    "summary": "Justinian’s 6th-century great church, later mosque, museum, and mosque again — a hinge of Byzantine and Ottoman sacred architecture.",
+    "heroImage": "https://images.unsplash.com/photo-1752926269883-78794047bac5?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "537 CE (present building)",
+      "patron": "Emperor Justinian I",
+      "unesco": "Historic Areas of Istanbul (1985)",
+      "typicalVisit": "1–2 hours"
+    },
+    "visitGuide": {
+      "practical": {
+        "hours": "Open as a mosque with visitor windows outside prayer times — verify before visit.",
+        "tickets": "Entry arrangements have changed with status; check the current official ticket or free-entry policy.",
+        "dress": "Mosque dress code: covered shoulders and knees; women should cover hair. Shoes off on carpeted areas.",
+        "duration": "1–2 hours."
+      },
+      "etiquette": [
+        "Remain quiet during prayer.",
+        "Stay on visitor paths; do not enter restricted prayer zones when asked.",
+        "No flash photography toward worshippers."
+      ],
+      "gettingThere": "Tram T1 to Sultanahmet. The building faces the Hippodrome and Blue Mosque.",
+      "bestTime": "Weekday mornings between prayer times. Pair with the Blue Mosque and Topkapı for a Sultanahmet day.",
+      "notes": [
+        "Status and visitor rules have changed in recent years — verify same-week guidance.",
+        "Upper galleries may have separate access or closures."
+      ]
+    },
+    "related": [
+      "dome-of-the-rock",
+      "holy-sepulchre",
+      "sagrada-familia"
+    ]
+  },
+  {
+    "id": "holy-sepulchre",
+    "name": "Church of the Holy Sepulchre",
+    "shortName": "Holy Sepulchre",
+    "location": "Jerusalem",
+    "country": "Jerusalem",
+    "region": "Middle East",
+    "regionSlug": "middle-east",
+    "religions": [
+      "Christian"
+    ],
+    "religionSlugs": [
+      "christian"
+    ],
+    "summary": "Christianity’s most venerated church — traditionally the sites of the Crucifixion and the Tomb, shared by several denominations.",
+    "heroImage": "https://images.unsplash.com/photo-1569949381669-ecf31ae8e613?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": false,
+    "quickFacts": {
+      "founded": "4th century origins; many rebuilds",
+      "patron": "Constantinian foundation (historical)",
+      "unesco": "Old City of Jerusalem (1981)",
+      "typicalVisit": "1–2 hours"
+    },
+    "visitGuide": {
+      "practical": {
+        "hours": "Long daily hours; last entry for the Tomb queue can close earlier — verify before visit.",
+        "tickets": "Free entry. Expect queues for the Aedicule (Tomb).",
+        "dress": "Modest clothing covering shoulders and knees. Remove hats in some chapels.",
+        "duration": "1–2 hours; longer if waiting for the Tomb."
+      },
+      "etiquette": [
+        "This is an active place of pilgrimage — keep voices low.",
+        "Do not push in processions or candle lines.",
+        "Photography is generally allowed but avoid flash on icons and during liturgy."
+      ],
+      "gettingThere": "Christian Quarter of Jerusalem’s Old City. Multiple gates; follow pilgrim signage.",
+      "bestTime": "Early morning on weekdays. Holy Week and Orthodox Easter are profound but intensely crowded.",
+      "notes": [
+        "Different chapels belong to different communities — follow local caretakers’ directions.",
+        "Stone of Anointing near the entrance is a focus of devotion — be patient."
+      ]
+    },
+    "related": [
+      "dome-of-the-rock",
+      "st-peters",
+      "lalibela"
+    ]
+  },
+  {
+    "id": "sagrada-familia",
+    "name": "Sagrada Família",
+    "shortName": "Sagrada Família",
+    "location": "Barcelona, Spain",
+    "country": "Spain",
+    "region": "Europe",
+    "regionSlug": "europe",
+    "religions": [
+      "Christian"
+    ],
+    "religionSlugs": [
+      "christian"
+    ],
+    "summary": "Gaudí’s unfinished basilica — stone forests of light, still rising after more than a century of work.",
+    "heroImage": "https://images.unsplash.com/photo-1583422409516-2895a77efded?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "1882 (construction ongoing)",
+      "patron": "Private & public patronage; Gaudí",
+      "unesco": "Works of Antoni Gaudí (2005)",
+      "typicalVisit": "1.5–2.5 hours"
+    },
+    "visitGuide": {
+      "practical": {
+        "hours": "Long daytime hours; last entry ~30–60 minutes before close — verify before visit.",
+        "tickets": "Timed-entry tickets are essential; buy only from the official website. Tower tickets are separate.",
+        "dress": "Shoulders and thighs covered for basilica entry.",
+        "duration": "90–150 minutes; more with towers."
+      },
+      "etiquette": [
+        "This is a functioning church — keep voices respectful.",
+        "No large bags; security screening applies.",
+        "Follow stewards during Mass times."
+      ],
+      "gettingThere": "Metro L2/L5 Sagrada Família. Arrive 15 minutes before your timed slot.",
+      "bestTime": "Morning for softer façade light; late afternoon for warmer interior colour through the stained glass.",
+      "notes": [
+        "Construction continues — some façades and towers may be scaffolded.",
+        "Audio guides are excellent for first visits."
+      ]
+    },
+    "related": [
+      "notre-dame",
+      "st-peters",
+      "hagia-sophia"
+    ]
+  },
+  {
+    "id": "notre-dame",
+    "name": "Notre-Dame de Paris",
+    "shortName": "Notre-Dame",
+    "location": "Paris, France",
+    "country": "France",
+    "region": "Europe",
+    "regionSlug": "europe",
+    "religions": [
+      "Christian"
+    ],
+    "religionSlugs": [
+      "christian"
+    ],
+    "summary": "The Gothic heart of Paris on the Île de la Cité — restored and reopened after the 2019 fire, with ongoing works to note.",
+    "heroImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Cath%C3%A9drale_Notre_Dame%2C_Paris_30_September_2015.jpg/1280px-Cath%C3%A9drale_Notre_Dame%2C_Paris_30_September_2015.jpg",
+    "heroCredit": "Wikimedia Commons",
+    "featured": false,
+    "quickFacts": {
+      "founded": "1163 onward",
+      "patron": "Medieval Paris / French state",
+      "unesco": "Paris, Banks of the Seine (1991)",
+      "typicalVisit": "1–2 hours"
+    },
+    "visitGuide": {
+      "practical": {
+        "hours": "Reopening schedules and reservation systems evolve — verify before visit on the official cathedral site.",
+        "tickets": "Nave entry policies may include free entry with timed reservation; towers/treasury may differ.",
+        "dress": "Modest attire appropriate for a cathedral.",
+        "duration": "1–2 hours."
+      },
+      "etiquette": [
+        "Silence phones; speak softly.",
+        "Do not obstruct liturgy or prayer areas.",
+        "Follow stewards around restored and restricted zones."
+      ],
+      "gettingThere": "Cité or Saint-Michel Métro; walk onto Île de la Cité. Security queues are common.",
+      "bestTime": "Weekday mornings. Evening exterior views from the Left Bank are classic.",
+      "notes": [
+        "Status note: post-2019 restoration reopened the cathedral to worship and visitors; some exterior and related works may continue — verify current access.",
+        "Book ahead if reservations are required."
+      ]
+    },
+    "related": [
+      "sagrada-familia",
+      "st-peters",
+      "holy-sepulchre"
+    ]
+  },
+  {
+    "id": "st-peters",
+    "name": "St. Peter’s Basilica",
+    "shortName": "St. Peter’s",
+    "location": "Vatican City",
+    "country": "Vatican City",
+    "region": "Europe",
+    "regionSlug": "europe",
+    "religions": [
+      "Christian"
+    ],
+    "religionSlugs": [
+      "christian"
+    ],
+    "summary": "The great basilica of Catholicism — Michelangelo’s dome over the alleged tomb of Saint Peter, facing the colonnades of Bernini.",
+    "heroImage": "https://images.unsplash.com/photo-1531572753322-ad063cecc140?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Present basilica 1506–1626",
+      "patron": "Papacy",
+      "unesco": "Vatican City (1984)",
+      "typicalVisit": "2–3 hours"
+    },
+    "visitGuide": {
+      "practical": {
+        "hours": "Morning to late afternoon typically; closes during major papal events — verify before visit.",
+        "tickets": "Basilica entry is generally free; cupola climb and sacristy/treasury have fees. Security is airport-style.",
+        "dress": "Strict: no bare shoulders or knees. Shawls help. No hats for men inside.",
+        "duration": "2–3 hours including dome."
+      },
+      "etiquette": [
+        "Maintain silence near chapels and the Baldachin.",
+        "Kneeling and prayer take priority over photos.",
+        "No drones; follow Swiss Guard and security directions."
+      ],
+      "gettingThere": "Metro Ottaviano or Cipro, then walk. Combine carefully with Vatican Museums (separate tickets, long queues).",
+      "bestTime": "Early weekday morning. Papal audiences and major feast days transform access.",
+      "notes": [
+        "Climb the dome for the classic Rome view — steep stairs at the end.",
+        "Verify before visit around Easter, Christmas, and conclave-related periods."
+      ]
+    },
+    "related": [
+      "sagrada-familia",
+      "notre-dame",
+      "guadalupe"
+    ]
+  },
+  {
+    "id": "guadalupe",
+    "name": "Basilica of Our Lady of Guadalupe",
+    "shortName": "Basílica de Guadalupe",
+    "location": "Mexico City, Mexico",
+    "country": "Mexico",
+    "region": "Americas",
+    "regionSlug": "americas",
+    "religions": [
+      "Christian"
+    ],
+    "religionSlugs": [
+      "christian"
+    ],
+    "summary": "The most visited Marian shrine in the world — old and new basilicas beneath Tepeyac hill, centre of Guadalupe devotion.",
+    "heroImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/View_from_the_street_-_New_Basilica_of_Our_Lady_of_Guadalupe_-_Mexico_2024.jpg/1280px-View_from_the_street_-_New_Basilica_of_Our_Lady_of_Guadalupe_-_Mexico_2024.jpg",
+    "heroCredit": "Wikimedia Commons",
+    "featured": false,
+    "quickFacts": {
+      "founded": "Modern basilica 1976; shrine tradition older",
+      "patron": "Catholic Church / Mexican faithful",
+      "unesco": "—",
+      "typicalVisit": "2–3 hours"
+    },
+    "visitGuide": {
+      "practical": {
+        "hours": "Long daily hours for pilgrims — verify before visit.",
+        "tickets": "Free entry to the basilicas. Museum sections may charge.",
+        "dress": "Modest clothing. Expect large pilgrim crowds.",
+        "duration": "2–3 hours for both basilicas and plaza."
+      },
+      "etiquette": [
+        "This is a living pilgrimage site — move patiently.",
+        "Do not block the moving walkway under the tilma display.",
+        "Ask before photographing individuals at prayer."
+      ],
+      "gettingThere": "Mexico City Metro La Villa-Basílica. The complex is well signed from the station.",
+      "bestTime": "Weekday mornings. 12 December (feast day) is extraordinary and extremely crowded.",
+      "notes": [
+        "Visit both the modern circular basilica and the historic church on the hill.",
+        "Vendors and pilgrim stalls surround the plaza — keep valuables secure."
+      ]
+    },
+    "related": [
+      "st-peters",
+      "lalibela",
+      "sagrada-familia"
+    ]
+  },
+  {
+    "id": "lalibela",
+    "name": "Rock-Hewn Churches of Lalibela",
+    "shortName": "Lalibela",
+    "location": "Lalibela, Ethiopia",
+    "country": "Ethiopia",
+    "region": "Africa",
+    "regionSlug": "africa",
+    "religions": [
+      "Christian"
+    ],
+    "religionSlugs": [
+      "christian"
+    ],
+    "summary": "A constellation of medieval churches carved from living rock — Ethiopia’s ‘New Jerusalem’ still in active Orthodox use.",
+    "heroImage": "https://images.unsplash.com/photo-1523805009345-7448845a9e53?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "12th–13th century (tradition)",
+      "patron": "King Lalibela (tradition)",
+      "unesco": "Rock-Hewn Churches, Lalibela (1978)",
+      "typicalVisit": "Full day"
+    },
+    "visitGuide": {
+      "practical": {
+        "hours": "Daytime access for visitors; liturgy schedules differ — verify before visit.",
+        "tickets": "Multi-day visitor tickets sold locally; hire a licensed guide for context and navigation.",
+        "dress": "Cover shoulders and knees. Women often cover hair in churches. Remove shoes at thresholds.",
+        "duration": "One full day for both clusters of churches."
+      },
+      "etiquette": [
+        "Remove shoes before entering each church.",
+        "Ask before photographing priests, pilgrims, or interiors.",
+        "Step carefully — rock paths can be uneven and steep."
+      ],
+      "gettingThere": "Fly into Lalibela (LLI) from Addis Ababa. Town is walkable between church clusters with a guide.",
+      "bestTime": "Dry season (roughly October–March). Timkat (Epiphany) is spectacular and crowded.",
+      "notes": [
+        "Altitude and sun are strong — pace yourself and hydrate.",
+        "Some protective shelters cover churches — they alter photos but protect the stone.",
+        "Verify before visit: ticket prices and photography rules change."
+      ]
+    },
+    "related": [
+      "holy-sepulchre",
+      "guadalupe",
+      "st-peters"
+    ]
+  }
+]

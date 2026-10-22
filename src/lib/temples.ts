@@ -24,7 +24,6 @@ export const religions = [
   { slug: 'jewish', label: 'Jewish' },
   { slug: 'bahai', label: 'Baháʼí' },
   { slug: 'maya', label: 'Maya' },
-  { slug: 'chinese', label: 'Chinese traditional' },
 ] as const
 
 export function getTemple(id: string) {

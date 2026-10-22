@@ -44,7 +44,7 @@ const CHAPTERS = new Set<string>([
   'notes',
 ])
 
-function parsePath(pathname: string, search: string): Route {
+export function parsePath(pathname: string, search: string): Route {
   const path = stripBase(pathname).replace(/\/+$/, '') || '/'
   const params = new URLSearchParams(search)
 
@@ -125,10 +125,18 @@ type RouterCtx = {
 
 const Ctx = createContext<RouterCtx | null>(null)
 
-export function RouterProvider({ children }: { children: ReactNode }) {
-  const [route, setRoute] = useState<Route>(() =>
-    parsePath(window.location.pathname, window.location.search),
-  )
+export function RouterProvider({
+  children,
+  location,
+}: {
+  children: ReactNode
+  /** Set during prerender so the first render does not touch `window`. */
+  location?: { pathname: string; search: string }
+}) {
+  const [route, setRoute] = useState<Route>(() => {
+    if (location) return parsePath(location.pathname, location.search)
+    return parsePath(window.location.pathname, window.location.search)
+  })
 
   useEffect(() => {
     const onPop = () => setRoute(parsePath(window.location.pathname, window.location.search))

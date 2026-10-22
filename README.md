@@ -32,4 +32,8 @@ npm run preview
 - Mood board: [design/moodboard-threshold-atlas.png](./design/moodboard-threshold-atlas.png)
 
 ## GitHub Pages
-`vite.config.ts` sets `base: '/'` (apex). `public/CNAME` → `sanctaway.com`. Build copies `dist/index.html` → `dist/404.html` for SPA deep-link fallback.
+`vite.config.ts` sets `base: '/'` (apex). `public/CNAME` → `sanctaway.com`.
+
+`npm run build` prerenders every URL in `public/sitemap.xml` to `dist/<path>/index.html` with the visit-guide body, title, and meta description. `dist/404.html` stays a copy of the empty Vite shell so unknown paths still boot the client app.
+
+Publish the `dist/` folder to GitHub Pages after that build. The prerendered files are what crawlers should receive for `/temple/<slug>` and the other sitemap paths.

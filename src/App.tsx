@@ -1,6 +1,7 @@
 import type { ReactNode } from 'react'
 import { Layout } from './components/Layout'
 import { metaForRoute, useDocumentMeta } from './lib/documentMeta'
+import { jsonLdForRoute } from './lib/jsonLd'
 import { useRouter } from './lib/router'
 import { regionLabel, religionLabel } from './lib/temples'
 import { AboutPage } from './pages/About'
@@ -13,7 +14,14 @@ function DocumentHead() {
   const { route } = useRouter()
   const { title, description } = metaForRoute(route)
   useDocumentMeta(title, description)
-  return null
+  const jsonLd = jsonLdForRoute(route)
+  if (!jsonLd) return null
+  return (
+    <script
+      type="application/ld+json"
+      dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+    />
+  )
 }
 
 export default function App() {

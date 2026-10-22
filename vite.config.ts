@@ -3,7 +3,7 @@ import tailwindcss from '@tailwindcss/vite'
 import { defineConfig } from 'vite'
 
 export default defineConfig({
-  base: '/templeguys/',
+  base: '/',
   plugins: [react(), tailwindcss()],
   preview: {
     // Deep links (/temple/..., /region/...) need SPA fallback in preview

@@ -3,7 +3,7 @@
 Quiet pilgrimage atlas — visit guides for temples, churches, mosques, shrines, and sacred places worldwide.
 
 **Domain:** sanctaway.com (production later)  
-**QA:** https://dancingturtle14.github.io/templeguys/
+**Live:** https://sanctaway.com (GitHub Pages + custom domain)
 
 ## Quick start
 
@@ -32,4 +32,4 @@ npm run preview
 - Mood board: [design/moodboard-threshold-atlas.png](./design/moodboard-threshold-atlas.png)
 
 ## GitHub Pages
-`vite.config.ts` sets `base: '/templeguys/'`. Build copies `dist/index.html` → `dist/404.html` for SPA deep-link fallback.
+`vite.config.ts` sets `base: '/'` (apex). `public/CNAME` → `sanctaway.com`. Build copies `dist/index.html` → `dist/404.html` for SPA deep-link fallback.

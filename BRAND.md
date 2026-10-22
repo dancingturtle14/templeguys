@@ -2,7 +2,7 @@
 
 **Positioning:** A quiet pilgrimage atlas — visit guides for temples, churches, mosques, shrines, and sacred places worldwide. Religion-neutral. Practical first. Respectful always.
 
-**Domain:** sanctaway.com (production later). QA: GitHub Pages under `/templeguys/`.
+**Domain:** sanctaway.com (GitHub Pages custom domain).
 
 ## Voice
 

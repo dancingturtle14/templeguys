@@ -11,7 +11,7 @@ import {
 } from 'react'
 import type { Route, TempleChapter } from '../types'
 
-/** Vite BASE_URL, e.g. `/templeguys/` on Pages or `/` locally with default. */
+/** Vite BASE_URL, e.g. `/` on apex domain or project Pages path. */
 function getBase(): string {
   return import.meta.env.BASE_URL || '/'
 }

@@ -27,8 +27,8 @@
     },
     "related": [
       "borobudur",
-      "wat-phra-kaew",
-      "shwedagon"
+      "prambanan",
+      "wat-phra-kaew"
     ],
     "overview": {
       "body": [
@@ -141,9 +141,9 @@
       "typicalVisit": "2–3 hours"
     },
     "related": [
+      "prambanan",
       "angkor-wat",
-      "shwedagon",
-      "mahabodhi"
+      "shwedagon"
     ],
     "overview": {
       "body": [
@@ -484,9 +484,9 @@
       "typicalVisit": "1–1.5 hours"
     },
     "related": [
+      "wat-pho",
       "wat-phra-kaew",
-      "angkor-wat",
-      "chi-lin"
+      "shwedagon"
     ],
     "overview": {
       "body": [
@@ -598,9 +598,9 @@
       "typicalVisit": "2–3 hours (with Grand Palace)"
     },
     "related": [
+      "wat-pho",
       "wat-arun",
-      "angkor-wat",
-      "golden-temple"
+      "angkor-wat"
     ],
     "overview": {
       "body": [
@@ -1057,9 +1057,9 @@
       "typicalVisit": "1–2 hours (when accessible)"
     },
     "related": [
-      "western-wall",
       "holy-sepulchre",
-      "hagia-sophia"
+      "western-wall",
+      "church-of-the-nativity"
     ],
     "overview": {
       "body": [
@@ -1174,7 +1174,7 @@
     },
     "related": [
       "blue-mosque",
-      "dome-of-the-rock",
+      "hassan-ii-mosque",
       "mezquita-cordoba"
     ],
     "overview": {
@@ -1288,9 +1288,9 @@
       "typicalVisit": "1–2 hours"
     },
     "related": [
+      "church-of-the-nativity",
       "western-wall",
-      "dome-of-the-rock",
-      "st-peters"
+      "dome-of-the-rock"
     ],
     "overview": {
       "body": [
@@ -1517,7 +1517,7 @@
       "typicalVisit": "1–2 hours"
     },
     "related": [
-      "sagrada-familia",
+      "chartres",
       "santiago-de-compostela",
       "westminster-abbey"
     ],
@@ -2547,8 +2547,8 @@
     },
     "related": [
       "holy-sepulchre",
-      "dome-of-the-rock",
-      "blue-mosque"
+      "church-of-the-nativity",
+      "dome-of-the-rock"
     ],
     "overview": {
       "body": [
@@ -2661,9 +2661,9 @@
       "typicalVisit": "2–4 hours"
     },
     "related": [
+      "lumbini",
       "borobudur",
-      "temple-of-the-tooth",
-      "kashi-vishwanath"
+      "temple-of-the-tooth"
     ],
     "overview": {
       "body": [
@@ -3000,8 +3000,8 @@
       "typicalVisit": "30–60 minutes (plus queue / prayer pauses)"
     },
     "related": [
+      "hassan-ii-mosque",
       "hagia-sophia",
-      "dome-of-the-rock",
       "mezquita-cordoba"
     ],
     "overview": {
@@ -3113,9 +3113,9 @@
       "typicalVisit": "1.5–3 hours"
     },
     "related": [
-      "santiago-de-compostela",
+      "chartres",
       "notre-dame",
-      "mont-saint-michel"
+      "santiago-de-compostela"
     ],
     "overview": {
       "body": [
@@ -3228,9 +3228,9 @@
       "typicalVisit": "Half day to full day (shuttle + village + abbey)"
     },
     "related": [
-      "westminster-abbey",
-      "notre-dame",
-      "santiago-de-compostela"
+      "stonehenge",
+      "santiago-de-compostela",
+      "notre-dame"
     ],
     "overview": {
       "body": [
@@ -3573,9 +3573,9 @@
       "typicalVisit": "2–4 hours on site (plus road time from Mérida or Cancún)"
     },
     "related": [
-      "guadalupe",
-      "temple-of-heaven",
-      "machu-picchu"
+      "petra",
+      "machu-picchu",
+      "stonehenge"
     ],
     "overview": {
       "body": [
@@ -3689,9 +3689,9 @@
       "typicalVisit": "1.5–3 hours on the platform (plus Yangon traffic)"
     },
     "related": [
+      "wat-pho",
       "borobudur",
-      "mahabodhi",
-      "angkor-wat"
+      "mahabodhi"
     ],
     "overview": {
       "body": [
@@ -3804,9 +3804,9 @@
       "typicalVisit": "Half to full day (2–3+ hour hike each way + monastery time)"
     },
     "related": [
-      "potala",
+      "lumbini",
       "mahabodhi",
-      "borobudur"
+      "potala"
     ],
     "overview": {
       "body": [
@@ -3919,9 +3919,9 @@
       "typicalVisit": "Full day from Cusco/Sacred Valley; 2–4 hours on circuit (plus train/bus)"
     },
     "related": [
+      "petra",
       "chichen-itza",
-      "guadalupe",
-      "temple-of-heaven"
+      "stonehenge"
     ],
     "overview": {
       "body": [
@@ -4034,9 +4034,9 @@
       "typicalVisit": "1–2 hours basilica; half day with museum / Portico / rooftops"
     },
     "related": [
-      "mont-saint-michel",
+      "chartres",
       "notre-dame",
-      "westminster-abbey"
+      "mont-saint-michel"
     ],
     "overview": {
       "body": [
@@ -4266,9 +4266,9 @@
       "typicalVisit": "1.5–2.5 hours timed visit (+ patio)"
     },
     "related": [
+      "hassan-ii-mosque",
       "hagia-sophia",
-      "blue-mosque",
-      "sagrada-familia"
+      "blue-mosque"
     ],
     "overview": {
       "body": [
@@ -4583,6 +4583,926 @@
         "No invented fares; ferry and ropeway are separate.",
         "SanctaWay is informational; it does not sell Miyajima tickets.",
         "Hero image is a placeholder (Unsplash) pending visual pass."
+      ]
+    }
+  },
+  {
+    "id": "prambanan",
+    "name": "Prambanan Temple Compounds",
+    "shortName": "Prambanan",
+    "location": "Yogyakarta / Sleman, Central Java, Indonesia",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "regionSlug": "southeast-asia",
+    "religions": [
+      "Hindu"
+    ],
+    "religionSlugs": [
+      "hindu"
+    ],
+    "summary": "UNESCO Hindu temple compounds near Yogyakarta — Indonesia’s largest Hindu temple complex and the classic Java pair with Borobudur, ticketed through official park portals.",
+    "heroImage": "https://images.unsplash.com/photo-1584810359583-96fc3448beaa?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash (placeholder — visual pass later)",
+    "featured": true,
+    "quickFacts": {
+      "founded": "9th-century Central Javanese Hindu temple compounds; restored after earthquakes",
+      "patron": "Hindu candi landscape (Shiva / Vishnu / Brahma complex)",
+      "unesco": "UNESCO World Heritage (Prambanan Temple Compounds)",
+      "typicalVisit": "2–4 hours on compound paths (plus Yogyakarta road time)"
+    },
+    "related": [
+      "borobudur",
+      "angkor-wat",
+      "wat-phra-kaew"
+    ],
+    "overview": {
+      "body": [
+        "Prambanan rises from the Yogyakarta plain as Indonesia’s largest Hindu temple compound — tall candi towers dedicated to Shiva, Vishnu, and Brahma, ringed by smaller shrines and the nearby Sewu complex. It is the classic sacred-site pair with Borobudur for visitors basing in Central Java.",
+        "Treat the compounds as a living heritage landscape, not a climb-anything photo park. Marked paths link Prambanan with Lumbung, Bubrah, and Sewu; some interiors may stay closed after earthquake-era restoration. Stay off restricted stone and follow site signs.",
+        "Tickets are sold through official Taman Wisata Candi / InJourney Destination channels — ticket.borobudurpark.com and ticket.injourneydestination.id (Prambanan Temple product). A typical ticket covers Prambanan + Lumbung + Bubrah + Sewu + museum; confirm inclusions at booking. Domestic and foreign tiers differ. Do not invent IDR fares; avoid street resellers.",
+        "Cooler dawn light favours the towers; midday heat on open stone is intense. The Ramayana Ballet, when scheduled, is a separate evening ticketed show — not included in the compound ticket.",
+        "Base in Yogyakarta for road or train access (often 30–45 minutes). Same-day combos with Ratu Boko or Borobudur are common only if energy, heat, and tickets allow — do not race both monuments as a checklist."
+      ],
+      "highlights": [
+        "UNESCO Hindu compounds — Prambanan + Sewu cluster",
+        "Official park ticketing only — verify live IDR; no invented fares",
+        "Ticket often covers Prambanan, Lumbung, Bubrah, Sewu + museum — confirm inclusions",
+        "Dawn light; little shade on stone paths",
+        "Classic Java pair with Borobudur — plan energy honestly"
+      ]
+    },
+    "visit": {
+      "intro": "Paid compound ticket via official park portals; modest dress; hot open stone.",
+      "hours": "Courtyard commonly opens from early morning (often cited around 06:30 WIB) — verify on official park notices the week you go. Last entry is earlier than close. Ramayana Ballet evenings are separate when scheduled.",
+      "tickets": "Buy through Taman Wisata Candi / InJourney Destination official portals: ticket.borobudurpark.com and ticket.injourneydestination.id (Prambanan Temple product). Confirm what the ticket includes (typically Prambanan + Lumbung + Bubrah + Sewu + museum). Domestic vs foreign tiers. Do not invent IDR fares; do not buy from street resellers.",
+      "dress": "Modest clothing for temple compounds. Comfortable footwear for gravel and uneven stone. No climbing restricted candi. Respect worship or offerings when present.",
+      "duration": "2–4 hours for a respectful circuit of the main Prambanan courts and Sewu; add Yogyakarta traffic both ways. Same-day Borobudur only if you have energy and separate tickets.",
+      "access": "Hot sun and limited shade on open stone. Earthquake restoration means some interiors may be closed — follow signs and staff. Paths between compounds involve walking; plan water and sun protection.",
+      "tips": [
+        "Book only on official park / InJourney portals — keep confirmation.",
+        "Confirm ticket inclusions (Sewu / museum) before you assume a combo.",
+        "Arrive for cooler dawn light; midday stone radiates heat.",
+        "Stay on marked paths; do not climb restricted structures.",
+        "Carry water and sun protection — shade is scarce.",
+        "Ramayana Ballet is a separate evening product when scheduled.",
+        "Pair with Borobudur only if road time and energy allow."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://ticket.borobudurpark.com/",
+      "ticketsLabel": "Official Borobudur Park / Prambanan ticketing",
+      "ticketsNote": "Also check ticket.injourneydestination.id for Prambanan Temple. Confirm live IDR rates and inclusions — do not invent fares or use street resellers."
+    },
+    "etiquette": {
+      "intro": "Hindu heritage landscape — modest, on marked paths, quiet near worship.",
+      "bullets": [
+        "Dress modestly; cover shoulders and knees when possible.",
+        "Stay on marked paths; no climbing restricted candi.",
+        "Do not touch or move offerings.",
+        "Quiet photography — ask before photographing worshippers.",
+        "Follow staff directions around restoration closures.",
+        "No disruptive group posing that blocks paths.",
+        "Treat Sewu and satellite compounds with the same respect as the main towers."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Prambanan from Yogyakarta.",
+      "paragraphs": [
+        "From Yogyakarta, common options are TransJogja / Prambanan bus services, train to Brambanan / Prambanan station, taxi, Grab, or a tour van. Road time is often about 30–45 minutes depending on traffic.",
+        "On site, expect walking between Prambanan, Lumbung, Bubrah, and Sewu. Same-day Ratu Boko combos are popular but add heat and ticket complexity — plan deliberately.",
+        "If you also visit Borobudur, treat them as two major days or a carefully paced long day with separate tickets and recovery time. Do not rely on informal roadside ticket sellers."
+      ],
+      "bullets": [
+        "Yogyakarta base → bus, train, taxi, or tour van (~30–45 min)",
+        "Walk between Prambanan and Sewu cluster on marked paths",
+        "Official park tickets only — no street resellers",
+        "Budget heat, water, and Yogyakarta traffic both ways"
+      ]
+    },
+    "bestTime": {
+      "intro": "Cooler dawn light; heat builds fast on open stone.",
+      "paragraphs": [
+        "Early morning gives softer light on the towers and kinder temperatures. Midday is harsh with little shade. Late afternoon can be beautiful but verify last entry.",
+        "Ramayana Ballet evenings (when scheduled) are a separate experience after compound hours — confirm show dates on official channels rather than assuming nightly performances."
+      ],
+      "bullets": [
+        "Dawn / early morning for light and cooler stone",
+        "Avoid racing midday without water and sun cover",
+        "Ballet nights are separate ticketed events when offered",
+        "Festival or school-holiday peaks: expect denser paths"
+      ]
+    },
+    "notes": {
+      "intro": "注意事項 · Verify before visit",
+      "bullets": [
+        "No invented IDR fares — confirm on official park portals.",
+        "Some interiors may be closed after earthquake restoration — follow signs.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual pass."
+      ]
+    }
+  },
+  {
+    "id": "lumbini",
+    "name": "Lumbini (Maya Devi Temple)",
+    "shortName": "Lumbini",
+    "location": "Lumbini, Rupandehi, Nepal",
+    "country": "Nepal",
+    "region": "South Asia",
+    "regionSlug": "south-asia",
+    "religions": [
+      "Buddhist"
+    ],
+    "religionSlugs": [
+      "buddhist"
+    ],
+    "summary": "UNESCO birthplace of the Buddha — Maya Devi Temple and Sacred Garden at the heart of the Lumbini Master Plan, with conservation entry via Lumbini Development Trust channels.",
+    "heroImage": "https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash (placeholder — visual pass later)",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Sacred birthplace site with Ashokan-era associations; modern Master Plan monastic zone",
+      "patron": "Buddhist pilgrimage (Maya Devi / Sacred Garden)",
+      "unesco": "UNESCO World Heritage (Lumbini, the Birthplace of the Lord Buddha)",
+      "typicalVisit": "Half day to full day (Sacred Garden + monastic zone walking)"
+    },
+    "related": [
+      "mahabodhi",
+      "paro-taktsang",
+      "borobudur"
+    ],
+    "overview": {
+      "body": [
+        "Lumbini is the UNESCO-recognised birthplace of the Buddha — centred on the Maya Devi Temple, the Marker Stone, and the Sacred Garden, with a wide monastic zone laid out under the Lumbini Master Plan. It is core Buddhist pilgrimage geography, not a quick photo stop.",
+        "Inside the Sacred Garden, shoes come off before temple premises; food and drinks stay outside; voices drop around the Marker Stone and Ashokan pillar. Meditation zones expect quiet.",
+        "Conservation / entry fees are collected through the Lumbini Development Trust (LDT). Official information: lumbinidevtrust.gov.np; e-ticket paths have historically used tickets.lumbinidevtrust.gov.np (cash / QR / online). Nationality tiers apply; camera or filming fees may be separate. Verify live NPR rates — do not invent fares.",
+        "Cooler mornings favour Marker Stone queues; Vesak and major Buddhist festivals densify the garden. The monastic zone is a long walk or cycle — plan half a day or more rather than a rushed hour.",
+        "Access usually means flying into Bhairahawa (Siddharthnagar) then road to Lumbini, or a long bus/road journey from Kathmandu or Pokhara. Recheck Nepal travel advisories and monsoon flooding risk for the Sacred Garden."
+      ],
+      "highlights": [
+        "UNESCO birthplace — Maya Devi Temple & Sacred Garden",
+        "LDT conservation / entry fee — verify live NPR; no invented fares",
+        "Shoes off; quiet at Marker Stone and Ashokan pillar",
+        "Monastic zone needs half-day+ walking or cycling",
+        "Recheck Nepal travel advisories and monsoon conditions"
+      ]
+    },
+    "visit": {
+      "intro": "LDT conservation entry; barefoot / modest in Sacred Garden; plan monastic-zone distance.",
+      "hours": "Maya Devi Temple / Sacred Garden typically open daytime hours — verify on Lumbini Development Trust notices the week you go. Festival days may alter access patterns.",
+      "tickets": "Lumbini Development Trust (LDT) conservation / entry fee. Official site: lumbinidevtrust.gov.np; e-ticket path historically at tickets.lumbinidevtrust.gov.np (cash / QR / online). Nationality tiers; camera / filming fees can be separate. Verify live NPR rates — do not invent fares.",
+      "dress": "Modest dress. Remove shoes before temple premises in the Sacred Garden. Leave food and drinks outside. Light layers help for morning cool and midday heat.",
+      "duration": "Half day for Sacred Garden focus; full day if you walk or cycle the monastic zone thoughtfully.",
+      "access": "Sacred Garden can flood in monsoon. Monastic zone distances are long — plan transport or cycling. Drones need multi-agency permission per LDT notes. Recheck Nepal travel advisories.",
+      "tips": [
+        "Confirm LDT entry and any camera fees on official channels before arrival.",
+        "Remove shoes and keep food/drinks out of temple premises.",
+        "Quiet around Marker Stone, Ashokan pillar, and meditation zones.",
+        "Budget half a day+ if you want monastic-zone temples beyond the garden.",
+        "Monsoon: watch flooding and path conditions in the Sacred Garden.",
+        "Do not assume drone permission — LDT notes multi-agency rules.",
+        "Recheck Nepal travel advisories the week you travel."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://www.lumbinidevtrust.gov.np/",
+      "ticketsLabel": "Lumbini Development Trust — official site",
+      "ticketsNote": "Conservation / entry via LDT; e-ticket historically at tickets.lumbinidevtrust.gov.np. Verify live NPR rates and payment methods — do not invent fares."
+    },
+    "etiquette": {
+      "intro": "Living Buddhist pilgrimage garden — barefoot premises, quiet, no picnic culture inside.",
+      "bullets": [
+        "Remove shoes before temple premises.",
+        "Modest dress; shoulders and knees covered when possible.",
+        "Leave food and drinks outside sacred premises.",
+        "Low voices at Marker Stone, Ashokan pillar, and meditation zones.",
+        "Do not step on or lean across sacred markers for photos.",
+        "Ask before photographing people in prayer.",
+        "Follow LDT and monastic-zone staff directions."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Lumbini.",
+      "paragraphs": [
+        "Many international visitors fly into Bhairahawa (Siddharthnagar / Gautam Buddha International) and continue by road to Lumbini. Others take long bus or road journeys from Kathmandu or Pokhara — budget a full travel day.",
+        "Inside the Master Plan zone, walk, cycle, or use local transport between the Maya Devi Sacred Garden and the far monastic zone. Distances add up quickly in heat.",
+        "Plan Sacred Garden time first, then decide how far into the monastic zone your energy allows. Do not treat Lumbini as a one-hour checklist stop between other Nepal destinations."
+      ],
+      "bullets": [
+        "Fly Bhairahawa then road, or long road/bus from Kathmandu / Pokhara",
+        "Walk / cycle / local transport inside the Master Plan zone",
+        "Sacred Garden first; monastic zone is a longer circuit",
+        "Recheck advisories and monsoon flooding risk"
+      ]
+    },
+    "bestTime": {
+      "intro": "Cooler mornings; festival peaks denser; monsoon needs path honesty.",
+      "paragraphs": [
+        "Morning light and cooler air help at the Marker Stone and garden paths. Midday heat and tour groups slow the circuit. Vesak and major Buddhist festivals bring denser pilgrimage — beautiful and crowded.",
+        "Monsoon months can flood parts of the Sacred Garden. Shoulder dry seasons are often kinder for walking the monastic zone, but verify local conditions rather than assuming a perfect window."
+      ],
+      "bullets": [
+        "Morning for cooler Marker Stone visits",
+        "Festival peaks: expect denser queues and slower movement",
+        "Monsoon: check flooding and path conditions",
+        "Half-day minimum if monastic zone is on your plan"
+      ]
+    },
+    "notes": {
+      "intro": "注意事項 · Verify before visit",
+      "bullets": [
+        "No invented NPR fares — confirm with Lumbini Development Trust.",
+        "Recheck Nepal travel advisories independently before planning.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual pass."
+      ]
+    }
+  },
+  {
+    "id": "hassan-ii-mosque",
+    "name": "Hassan II Mosque",
+    "shortName": "Hassan II Mosque",
+    "location": "Casablanca, Morocco",
+    "country": "Morocco",
+    "region": "Africa",
+    "regionSlug": "africa",
+    "religions": [
+      "Islamic"
+    ],
+    "religionSlugs": [
+      "islamic"
+    ],
+    "summary": "Atlantic-front mega-mosque in Casablanca with one of the world’s tallest minarets — Morocco’s highest-profile mosque open to scheduled guided tourist visits via Fondation Mosquée Hassan II.",
+    "heroImage": "https://images.unsplash.com/photo-1553913861-1e5aa0625b43?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash (placeholder — visual pass later)",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Late 20th-century royal mosque complex on the Casablanca Corniche",
+      "patron": "Islamic Friday mosque / guided visitor circuit (FMH2)",
+      "unesco": "— (major national landmark; not claimed here as World Heritage)",
+      "typicalVisit": "Guided visit slot (~1 hour class) plus security and ticket-line buffer"
+    },
+    "related": [
+      "blue-mosque",
+      "hagia-sophia",
+      "mezquita-cordoba"
+    ],
+    "overview": {
+      "body": [
+        "Hassan II Mosque stands on Casablanca’s Atlantic Corniche — a vast modern mosque with a soaring minaret and a prayer hall open to the ocean horizon. For visitors it is Morocco’s most prominent mosque that runs paid guided tourist circuits on published schedules.",
+        "Tourist access is guided visit slots only — not free roam. Fondation de la Mosquée Hassan II (FMH2) publishes seasonal morning and afternoon windows; Friday schedules are shorter; Ramadan hours change. Book and arrive with security and ticket-line buffer.",
+        "Dress codes are enforced: cover shoulders, torso, and below the knees; no shorts or sleeveless tops; remove shoes (bags are typically provided). Silence with the guide group; video cameras and noisy devices are restricted inside per FMH2 rules.",
+        "Official tickets and visit info: fmh2.ma (Paid Guided Tour / Visites payantes). On-site and foundation channels; VIP private visits by reservation. Do not invent MAD fares — verify on fmh2.ma the week you go.",
+        "Typical tour stages include the prayer hall, minaret hall areas as directed, and ablution hall. Hammam or other facilities are separate offerings. The Corniche is windy — plan layers and a clear return ride in Casablanca traffic."
+      ],
+      "highlights": [
+        "Atlantic mega-mosque — guided tourist slots only",
+        "FMH2 official paid guided tours — verify live MAD; no invented fares",
+        "Strict dress + shoes off; Friday / Ramadan hours differ",
+        "Security and ticket-line buffer required",
+        "Corniche wind and Casablanca traffic — plan both ways"
+      ]
+    },
+    "visit": {
+      "intro": "Paid FMH2 guided visit only; strict dress; shoes off; not free roam.",
+      "hours": "Seasonal guided morning/afternoon windows published by FMH2. Friday schedules are shorter; Ramadan hours change. Confirm same-week slots on fmh2.ma before you travel.",
+      "tickets": "Fondation de la Mosquée Hassan II (FMH2) — fmh2.ma Paid Guided Tour / Visites payantes. On-site / foundation channels; VIP private visits by reservation. Verify live MAD rates — do not invent fares.",
+      "dress": "Cover shoulders, torso, and below the knees. No shorts or sleeveless tops. Remove shoes (bags usually provided). Bring a scarf or wrap if you are unsure your outfit meets staff standards.",
+      "duration": "Plan about an hour for the guided circuit class of visit, plus security screening and ticket-line buffer on both sides.",
+      "access": "Active mosque — tourist circuit is scheduled around worship. Follow the guide; do not wander off the tour path. Windy Corniche approaches; expect security checks.",
+      "tips": [
+        "Confirm same-week hours and slots on fmh2.ma — Friday and Ramadan differ.",
+        "Arrive early for security and ticket lines.",
+        "Dress to cover shoulders, torso, and below knees before you reach the door.",
+        "Remove shoes when instructed; keep the provided bag with you.",
+        "No video cameras / noisy devices inside where FMH2 rules forbid them.",
+        "Stay with your guide group — this is not a free-roam visit.",
+        "Hammam and other facilities are separate products when offered."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://www.fmh2.ma/",
+      "ticketsLabel": "Fondation Mosquée Hassan II — official site (guided visits)",
+      "ticketsNote": "Paid guided tourist visits only. Verify live MAD rates and seasonal hours on fmh2.ma — do not invent fares."
+    },
+    "etiquette": {
+      "intro": "Active mosque on a guided tourist circuit — modest, silent, shoes off.",
+      "bullets": [
+        "Cover shoulders, torso, and below the knees.",
+        "Remove shoes when required; use provided bags.",
+        "Silence with the guide group inside prayer spaces.",
+        "No video where FMH2 rules prohibit it.",
+        "Do not leave the tour path or enter closed zones.",
+        "Respect worshippers and prayer times that reshape the schedule.",
+        "No casual posing that treats the mihrab as a backdrop prop."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Hassan II Mosque in Casablanca.",
+      "paragraphs": [
+        "The mosque sits on the seaside Corniche / Boulevard Sidi Mohammed Ben Abdallah area. Most visitors use city taxi, tram plus walk, or a short walk if already on the Corniche — confirm drop-off with your driver for the visitor entrance in use that day.",
+        "Build buffer for security screening and ticket lines before your guided slot. Casablanca traffic can erase a tight connection from the medina, airport, or train station.",
+        "After the visit, plan your return ride before you exit into wind and evening crowds. Do not assume informal street ticket sellers are valid FMH2 channels."
+      ],
+      "bullets": [
+        "Taxi / tram / walk to the Corniche mosque complex",
+        "Buffer for security + ticket line before your slot",
+        "Confirm visitor entrance with staff or FMH2 notices",
+        "Windy Atlantic front — layers help"
+      ]
+    },
+    "bestTime": {
+      "intro": "Book published guided windows; early slots for cooler Atlantic light.",
+      "paragraphs": [
+        "Early guided slots often mean cooler air and softer Atlantic light on the façade. Midday heat and denser groups are harder. Friday and Ramadan reshape what is offered — never assume weekday patterns.",
+        "Confirm the exact visit window the same week on fmh2.ma. Ocean wind can make evenings cooler than inland Casablanca — dress for both mosque rules and weather."
+      ],
+      "bullets": [
+        "Prefer early published guided slots when available",
+        "Recheck Friday and Ramadan hours every time",
+        "Ocean wind: layers under modest cover",
+        "No free-roam “golden hour wander” — slots only"
+      ]
+    },
+    "notes": {
+      "intro": "注意事項 · Verify before visit",
+      "bullets": [
+        "Guided tourist visits only — not an open free-roam mosque tour.",
+        "No invented MAD fares — confirm on fmh2.ma.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual pass."
+      ]
+    }
+  },
+  {
+    "id": "church-of-the-nativity",
+    "name": "Church of the Nativity",
+    "shortName": "Church of the Nativity",
+    "location": "Bethlehem, West Bank",
+    "country": "Palestine",
+    "region": "Middle East",
+    "regionSlug": "middle-east",
+    "religions": [
+      "Christian"
+    ],
+    "religionSlugs": [
+      "christian"
+    ],
+    "summary": "UNESCO basilica on Manger Square — traditional birthplace of Jesus and a primary Holy Land pilgrimage stop under shared Christian custodianship; Grotto queues are the real time cost.",
+    "heroImage": "https://images.unsplash.com/photo-1559666126-84f02923c0f4?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash (placeholder — visual pass later)",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Constantinian origins with Justinianic and later rebuilds; living shared custodianship",
+      "patron": "Christian basilica / Nativity Grotto (Greek Orthodox, Catholic, Armenian custodianship)",
+      "unesco": "UNESCO World Heritage (Birthplace of Jesus: Church of the Nativity and the Pilgrimage Route, Bethlehem)",
+      "typicalVisit": "1–3+ hours depending on Grotto queue (plus crossing / Bethlehem access time)"
+    },
+    "related": [
+      "holy-sepulchre",
+      "western-wall",
+      "dome-of-the-rock"
+    ],
+    "overview": {
+      "body": [
+        "The Church of the Nativity stands on Manger Square in Bethlehem as the traditional birthplace of Jesus — a UNESCO basilica entered through the low Door of Humility and descending to the Grotto that draws Holy Land pilgrims year-round.",
+        "Treat it as a living shared Christian sanctuary under Greek Orthodox, Catholic, and Armenian custodianship — not a conquered attraction. Modest dress is enforced; quiet in the basilica and Grotto matters; do not block liturgy for photos.",
+        "Basilica / Grotto entry is typically free. There is no reliable official advance e-ticket as a primary CTA. Hours and practical notices appear via Bethlehem Municipality (bethlehem-city.org) and Custodia Terrae Sanctae schedules. Third-party “skip the line” products are not SanctaWay’s primary CTA. Do not invent ILS or USD fares.",
+        "The Grotto queue is the real time cost. The Grotto often closes Sunday morning for Mass; Christmas cycles across Latin, Orthodox, and Armenian calendars are extreme peaks. Earliest weekday visits beat coach waves.",
+        "From Jerusalem, access is commonly by Palestinian bus, licensed taxi, or guided day tour into Bethlehem (Area A access rules matter — Israeli rental cars are often not insured for Area A). Recheck security and crossing conditions the same week. St Catherine’s (Franciscan) and the Milk Grotto nearby are separate stops."
+      ],
+      "highlights": [
+        "UNESCO Nativity basilica on Manger Square",
+        "Typically free entry — no invented fares; no scalper “skip line” as primary CTA",
+        "Grotto queue is the time cost; Sunday morning Mass often closes Grotto",
+        "Shared Orthodox / Catholic / Armenian custodianship",
+        "Honest West Bank / Area A access context — recheck same week"
+      ]
+    },
+    "visit": {
+      "intro": "Typically free basilica/Grotto; modest dress; Grotto queue is the visit.",
+      "hours": "Seasonal long hours listed by Bethlehem Municipality / Custodia Terrae Sanctae (summer vs winter windows differ). Grotto often closed Sunday morning for Mass. Christmas calendar peaks are extreme — verify the week you go.",
+      "tickets": "Basilica / Grotto entry typically free — no reliable official advance e-ticket as primary CTA. Hours and practical notes: Bethlehem Municipality (bethlehem-city.org) and Custodia Terrae Sanctae schedules. Third-party “skip line” tours are not SanctaWay’s primary CTA. Do not invent ILS/USD fares.",
+      "dress": "Modest dress enforced — cover shoulders and knees. Quiet in basilica and Grotto. Enter through the Door of Humility without treating the duck as a joke pose.",
+      "duration": "1–3+ hours depending on Grotto queue length; add Jerusalem–Bethlehem crossing and walk time from Manger Square.",
+      "access": "Area A access rules matter for how you arrive from Jerusalem. Walk from Manger Square. Recheck security / crossing conditions same week. St Catherine’s adjacent; Milk Grotto nearby separately.",
+      "tips": [
+        "Aim for earliest weekday arrival before coach waves.",
+        "Expect Grotto queue time to dominate the visit.",
+        "Sunday morning: Grotto often closed for Mass — plan around liturgy.",
+        "Modest dress; quiet; do not block worship for photos.",
+        "Use municipality / Custodia hour lists — not street ticket sellers.",
+        "Recheck crossing and security conditions the same week.",
+        "Door of Humility: duck respectfully, do not stage a comedy photo first."
+      ],
+      "entryType": "free",
+      "ticketsUrl": "https://www.bethlehem-city.org/",
+      "ticketsLabel": "Bethlehem Municipality — practical / hours context",
+      "ticketsNote": "Basilica/Grotto typically free. Confirm seasonal hours via municipality and Custodia Terrae Sanctae lists. No invented fares; third-party skip-line is not the primary CTA."
+    },
+    "etiquette": {
+      "intro": "Living shared Christian sanctuary — modest, quiet, liturgy first.",
+      "bullets": [
+        "Cover shoulders and knees; follow staff on dress.",
+        "Silence in basilica and Grotto.",
+        "Do not block liturgy, processions, or prayer for photos.",
+        "Respect shared Orthodox, Catholic, and Armenian custodianship.",
+        "Enter the Door of Humility without joke posing as the main act.",
+        "No flash on worshippers or icons where restricted.",
+        "Yield to pilgrims who are there to pray, not tour."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach the Church of the Nativity.",
+      "paragraphs": [
+        "From Jerusalem, common patterns are Palestinian bus services, licensed taxis, or guided day tours into Bethlehem. Area A access rules matter — many Israeli rental cars are not insured for Area A. State that as logistics, not politics.",
+        "Once in Bethlehem, walk to Manger Square and the basilica. Build buffer for checkpoints and variable crossing times the same week you travel.",
+        "Combine thoughtfully with Holy Sepulchre and other Jerusalem/Bethlehem stops rather than racing the Grotto. Security conditions change — reconfirm locally before you set out."
+      ],
+      "bullets": [
+        "Jerusalem → Palestinian bus / licensed taxi / guided day tour",
+        "Area A insurance / access rules — plan the vehicle honestly",
+        "Walk from Manger Square to the basilica",
+        "Recheck crossing conditions the same week"
+      ]
+    },
+    "bestTime": {
+      "intro": "Earliest weekdays beat coaches; Christmas calendars are extreme peaks.",
+      "paragraphs": [
+        "Earliest weekday mornings usually mean shorter Grotto waits. Midday coach waves stretch queues. Sunday morning Mass often closes the Grotto — plan worship around that honesty.",
+        "Latin, Orthodox, and Armenian Christmas cycles create dense pilgrimage peaks. Beautiful and crowded — only go then if you intend a pilgrimage pace, not a speed run."
+      ],
+      "bullets": [
+        "Earliest weekday for shorter Grotto lines",
+        "Sunday morning: expect Grotto closure for Mass",
+        "Christmas calendar peaks: pilgrimage pace only",
+        "Always recheck hours the day before"
+      ]
+    },
+    "notes": {
+      "intro": "注意事項 · Verify before visit",
+      "bullets": [
+        "Typically free — ignore street sellers of “official tickets.”",
+        "Recheck security and crossing conditions independently the same week.",
+        "SanctaWay is informational; it does not grant access or advise politics.",
+        "Hero image is an Unsplash placeholder pending visual pass."
+      ]
+    }
+  },
+  {
+    "id": "chartres",
+    "name": "Chartres Cathedral (Notre-Dame de Chartres)",
+    "shortName": "Chartres Cathedral",
+    "location": "Chartres, France",
+    "country": "France",
+    "region": "Europe",
+    "regionSlug": "europe",
+    "religions": [
+      "Christian"
+    ],
+    "religionSlugs": [
+      "christian"
+    ],
+    "summary": "UNESCO High Gothic masterpiece west of Paris — stained glass, labyrinth, and Marian pilgrimage cathedral with free nave entry and separate CMN tickets for towers / treasury.",
+    "heroImage": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash (placeholder — visual pass later)",
+    "featured": true,
+    "quickFacts": {
+      "founded": "High Gothic cathedral largely 12th–13th centuries on earlier sacred site",
+      "patron": "Marian pilgrimage cathedral (Notre-Dame de Chartres)",
+      "unesco": "UNESCO World Heritage (Chartres Cathedral)",
+      "typicalVisit": "1.5–3 hours (nave + glass; add towers/treasury if open)"
+    },
+    "related": [
+      "notre-dame",
+      "santiago-de-compostela",
+      "westminster-abbey"
+    ],
+    "overview": {
+      "body": [
+        "Chartres Cathedral — Notre-Dame de Chartres — is a UNESCO High Gothic landmark west of Paris, famous for its blue stained glass, sculpted portals, and a floor labyrinth still used in prayer. It remains an active Marian pilgrimage cathedral, not a museum shell.",
+        "Cathedral nave entry is free during long daily hours (verify cathedrale-chartres.org — commonly cited around 08:30–19:30). There is no tourist circulation in nave and transepts during Mass. Travel light; silence near the altar.",
+        "Treasury, guided visits, and towers are separate products through Centre des monuments nationaux billetterie (tickets.monuments-nationaux.fr) and site info at chartres-cathedrale.fr. Videoguides for larger groups are often required — verify. Do not invent EUR fares.",
+        "Midweek morning light through the glass is the classic visit window. The labyrinth is sometimes a prayer path — do not treat it only as a photo prop when it is in use.",
+        "From Paris, take a direct train from Montparnasse to Chartres (~1 hour), then about a 10-minute walk to the cathedral. Historic centre parking is for public car parks (Cathédrale / Cœur de Ville), not cathedral-door drop-offs."
+      ],
+      "highlights": [
+        "UNESCO High Gothic — glass, labyrinth, Marian pilgrimage",
+        "Nave free; towers/treasury via CMN — verify live EUR",
+        "No tourist circulation during Mass",
+        "Paris Montparnasse train ~1 hr + short walk",
+        "Labyrinth: prayer path first, photo second"
+      ]
+    },
+    "visit": {
+      "intro": "Free nave; separate CMN tickets for towers/treasury; active cathedral rules.",
+      "hours": "Nave commonly open long daily hours (often cited ~08:30–19:30) — verify on cathedrale-chartres.org. No tourist circulation in nave/transepts during Mass. Treasury and towers have shorter day windows.",
+      "tickets": "Cathedral entry free. Treasury / guided visits / towers via Centre des monuments nationaux billetterie (tickets.monuments-nationaux.fr) and site info at chartres-cathedrale.fr. Videoguides for groups of 10+ often required — verify. Do not invent EUR fares.",
+      "dress": "Modest, respectful clothing for an active pilgrimage cathedral. No suitcase tourism in the nave. Quiet near the altar and during prayer.",
+      "duration": "1.5–3 hours for nave, glass, and exterior; add time if towers or treasury are open and ticketed separately.",
+      "access": "Pedestrian historic centre. Bag checks are not always available — travel light. Crypt / tower access can change with weather and ceremonies.",
+      "tips": [
+        "Verify nave hours and Mass times the day you go.",
+        "Nave is free — ignore third-party “cathedral entry” scalpers.",
+        "Book towers/treasury only on CMN / official channels when you want them.",
+        "Midweek morning for kinder glass light and quieter nave.",
+        "Respect the labyrinth when it is in use for prayer.",
+        "Travel light — suitcase tourism does not belong in the nave.",
+        "Train from Paris Montparnasse; walk the last ~10 minutes."
+      ],
+      "entryType": "free",
+      "ticketsUrl": "https://www.tickets.monuments-nationaux.fr/",
+      "ticketsLabel": "Centre des monuments nationaux — towers / treasury billetterie",
+      "ticketsNote": "Nave free. Towers/treasury/guided visits are separate CMN products — verify live EUR. Also check cathedrale-chartres.org / chartres-cathedrale.fr for hours."
+    },
+    "etiquette": {
+      "intro": "Active Marian pilgrimage cathedral — silence, no suitcase tourism, labyrinth respect.",
+      "bullets": [
+        "Silence near the altar and during Mass.",
+        "No tourist circulation in nave/transepts while liturgy is underway.",
+        "Respect the labyrinth as prayer when in use — not only a photo prop.",
+        "No loud group guides without authorised arrangements.",
+        "Travel light; leave large luggage outside the visit plan.",
+        "Do not touch glass, sculpture, or barriers.",
+        "Yield space to pilgrims and local worshippers."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Chartres Cathedral from Paris.",
+      "paragraphs": [
+        "Direct trains run from Paris Montparnasse to Chartres in about an hour. From the station, it is roughly a 10-minute walk through the historic centre to the cathedral.",
+        "If you drive, use public car parks such as Cathédrale or Cœur de Ville — the centre is pedestrian-oriented and not built for cathedral-door drop-offs.",
+        "Plan the visit as a half-day from Paris rather than a rushed one-hour tick. Glass and exterior sculpture reward slower looking; towers need separate timing when open."
+      ],
+      "bullets": [
+        "Train: Paris Montparnasse → Chartres (~1 hr)",
+        "~10 min walk from station to cathedral",
+        "Public car parks — not door-side drop-off",
+        "Half-day pace from Paris is more honest than a sprint"
+      ]
+    },
+    "bestTime": {
+      "intro": "Midweek morning glass light; avoid Mass circulation blocks.",
+      "paragraphs": [
+        "Midweek mornings often give the best stained-glass light and quieter aisles. Weekends and school holidays densify the nave. Always check Mass times so you are not surprised by circulation pauses.",
+        "Tower and treasury windows are shorter than nave hours and can close for weather or ceremonies — confirm the same day if those are must-sees."
+      ],
+      "bullets": [
+        "Midweek morning for glass light",
+        "Check Mass times before you plan photography circuits",
+        "Towers/treasury: shorter windows — verify same day",
+        "Winter light is different but still worth the glass"
+      ]
+    },
+    "notes": {
+      "intro": "注意事項 · Verify before visit",
+      "bullets": [
+        "Nave free — do not buy fake “entry tickets.”",
+        "No invented EUR fares for towers/treasury — use CMN billetterie.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual pass."
+      ]
+    }
+  },
+  {
+    "id": "stonehenge",
+    "name": "Stonehenge",
+    "shortName": "Stonehenge",
+    "location": "Wiltshire, England, United Kingdom",
+    "country": "United Kingdom",
+    "region": "Europe",
+    "regionSlug": "europe",
+    "religions": [
+      "Prehistoric"
+    ],
+    "religionSlugs": [
+      "prehistoric"
+    ],
+    "summary": "UNESCO prehistoric stone circle on Salisbury Plain — timed English Heritage visits from the visitor centre, framed as ceremonial sacred landscape rather than a selfie park.",
+    "heroImage": "https://images.unsplash.com/photo-1599839575945-a9bdd9580a1f?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash (placeholder — visual pass later)",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Neolithic / Bronze Age ceremonial monument on Salisbury Plain",
+      "patron": "Prehistoric ceremonial / sacred landscape (English Heritage stewardship)",
+      "unesco": "UNESCO World Heritage (Stonehenge, Avebury and Associated Sites)",
+      "typicalVisit": "2–3 hours (visitor centre + shuttle + stone circuit)"
+    },
+    "related": [
+      "machu-picchu",
+      "chichen-itza",
+      "mont-saint-michel"
+    ],
+    "overview": {
+      "body": [
+        "Stonehenge is the UNESCO prehistoric stone circle on Salisbury Plain — a ceremonial landscape whose meaning remains debated, stewarded today by English Heritage with timed visitor access from a modern visitor centre west of Amesbury.",
+        "Threshold Atlas framing: treat it as sacred / ceremonial landscape, not a “weird rocks selfie park.” Standard tickets keep visitors behind ropes; no climbing stones. Solstice and equinox regimes differ from the ordinary day visit.",
+        "Tickets are English Heritage only — english-heritage.org.uk/visit/places/stonehenge/ and bookings.english-heritage.org.uk. Membership and overseas visitor passes may apply. Inner-circle / special access are separate products when offered. Do not invent GBP fares; avoid unofficial resellers.",
+        "The visitor centre museum and reconstructed Neolithic houses are part of the visit; a shuttle runs from the centre to the stones. A303 roadside views are not a substitute for entry. Weather exposure on the plain is real — dress for wind and rain.",
+        "Common access: train to Salisbury then Stonehenge Tour bus or taxi; or car to visitor-centre parking. There is no casual roadside pull-up to the circle. Combine carefully with Salisbury Cathedral as a separate stop."
+      ],
+      "highlights": [
+        "UNESCO ceremonial stone circle — timed EH visits",
+        "English Heritage booking only — verify live GBP; no resellers",
+        "Visitor centre + shuttle + rope-line circuit",
+        "Solstice/equinox rules differ from standard days",
+        "Plain weather exposure — dress honestly"
+      ]
+    },
+    "visit": {
+      "intro": "Timed English Heritage tickets; shuttle from visitor centre; stay behind ropes.",
+      "hours": "Timed day visits; last entry earlier than close — verify English Heritage opening times. Solstice / equinox special access regimes differ from the standard rope-line visit. Book well ahead in summer.",
+      "tickets": "English Heritage only — english-heritage.org.uk/visit/places/stonehenge/ and bookings.english-heritage.org.uk. Membership / overseas visitor passes may apply. Inner-circle / special access are separate when offered. Do not invent GBP fares; warn against unofficial resellers.",
+      "dress": "Outdoor plain clothing — wind, rain, and sun are all common. Comfortable shoes for visitor-centre paths and the stone circuit. No costume disruption at ceremony times.",
+      "duration": "2–3 hours including visitor centre exhibits, shuttle, and time at the stones; more if you linger in the museum or Neolithic houses.",
+      "access": "Arrive at the visitor centre, not a casual roadside stop at the circle. Shuttle to the stones. Standard tickets stay behind ropes. Wheelchair / assisted access — check EH guidance for current shuttle and path notes.",
+      "tips": [
+        "Book timed tickets on English Heritage channels only.",
+        "Arrive via visitor centre + shuttle — A303 views are not entry.",
+        "Stay behind ropes on standard tickets; never climb stones.",
+        "Dress for exposed plain weather year-round.",
+        "Summer and school holidays: book well ahead.",
+        "Solstice/equinox: read EH special-access rules separately.",
+        "Salisbury Cathedral is a separate visit — do not crush both into a rushed hour."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://www.english-heritage.org.uk/visit/places/stonehenge/",
+      "ticketsLabel": "English Heritage — Stonehenge (official)",
+      "ticketsNote": "Book at bookings.english-heritage.org.uk. Verify live GBP rates — do not invent fares or use unofficial resellers. Special access products are separate when offered."
+    },
+    "etiquette": {
+      "intro": "Ceremonial sacred landscape — ropes, quiet at ceremony times, no climbing.",
+      "bullets": [
+        "Stay behind ropes on standard tickets.",
+        "Never climb or lean on the stones.",
+        "Quiet respect at public ceremony times when access opens.",
+        "No digging, offerings left as litter, or drone freelancing against EH rules.",
+        "Follow steward instructions at the rope line.",
+        "Do not block paths for staged photo shoots.",
+        "Frame the site as ceremonial landscape, not a joke prop."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Stonehenge.",
+      "paragraphs": [
+        "English Heritage’s visitor centre west of Amesbury is the arrival point; a shuttle continues to the stones. There is no casual roadside pull-up that replaces a ticketed visit.",
+        "Common patterns: train to Salisbury, then the Stonehenge Tour bus or a taxi; or drive to visitor-centre parking. Build time for shuttle queues in peak season.",
+        "Pairing with Salisbury Cathedral works as a same-day cultural loop only if you leave honest time for both — they are separate sites with separate rules."
+      ],
+      "bullets": [
+        "Visitor centre first, then shuttle to the stones",
+        "Salisbury train + tour bus / taxi, or car to EH parking",
+        "No casual roadside substitute for entry",
+        "Peak shuttle queues — arrive for your timed slot"
+      ]
+    },
+    "bestTime": {
+      "intro": "Timed tickets year-round; summer books out; solstice is a different regime.",
+      "paragraphs": [
+        "Book timed entry especially for summer and weekends. Shoulder seasons can mean kinder light and shorter queues, but weather on the plain is always a factor.",
+        "Solstice and equinox access is not the same product as a standard day ticket — read English Heritage notices separately if that is your goal."
+      ],
+      "bullets": [
+        "Book ahead for summer / weekends",
+        "Shoulder seasons: often quieter, still weather-exposed",
+        "Solstice/equinox: separate rules and crowds",
+        "Last entry is earlier than advertised close — check EH"
+      ]
+    },
+    "notes": {
+      "intro": "注意事項 · Verify before visit",
+      "bullets": [
+        "English Heritage channels only — no unofficial resellers.",
+        "No invented GBP fares — confirm on EH booking pages.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual pass."
+      ]
+    }
+  },
+  {
+    "id": "wat-pho",
+    "name": "Wat Pho (Wat Phra Chetuphon)",
+    "shortName": "Wat Pho",
+    "location": "Bangkok, Thailand",
+    "country": "Thailand",
+    "region": "Southeast Asia",
+    "regionSlug": "southeast-asia",
+    "religions": [
+      "Buddhist"
+    ],
+    "religionSlugs": [
+      "buddhist"
+    ],
+    "summary": "Bangkok’s Wat Pho — home of the giant Reclining Buddha and a classic Thai temple–massage school pairing next to the Grand Palace axis, with admission via official watpho channels.",
+    "heroImage": "https://images.unsplash.com/photo-1528181304800-259b08848526?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash (placeholder — visual pass later)",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Ayutthaya-era origins; Bangkok-period expansion as a major royal monastery",
+      "patron": "Theravada Buddhist royal monastery (Reclining Buddha)",
+      "unesco": "— (major national sacred landmark; not claimed here as World Heritage)",
+      "typicalVisit": "1.5–3 hours (Reclining Buddha + grounds; massage school separate)"
+    },
+    "related": [
+      "wat-arun",
+      "wat-phra-kaew",
+      "shwedagon"
+    ],
+    "overview": {
+      "body": [
+        "Wat Pho (Wat Phra Chetuphon) sits next to Bangkok’s Grand Palace axis as one of the city’s great royal monasteries — famous for the enormous Reclining Buddha and for the temple-linked school of traditional Thai massage.",
+        "Treat vihara halls as living worship space. Cover shoulders and knees; shoes off in ordination halls; no climbing Buddha images; keep respectful distance from monks. The massage school is a temple-linked service — behave as guests, not spa-mall customers inside sacred zones.",
+        "Temple admission is sold at the gates. Official site: watpho.com. An online booking domain (watphobooking.com) has existed but availability can be intermittent — verify live, do not invent THB fares, and do not claim always-on e-tickets. Thai and foreign tiers have historically differed.",
+        "Early morning beats tour groups at the Reclining Buddha hall. Mother-of-pearl inlay on the feet is a highlight worth slow looking. Combine with Wat Phra Kaew / Grand Palace the same day only if you budget security, dress checks, and heat honestly.",
+        "Access: Chao Phraya river boat to Tha Tien then a short walk is classic; MRT/bus plus walk also works. Do not expect reliable temple-door vehicle drop-off in peak traffic."
+      ],
+      "highlights": [
+        "Giant Reclining Buddha + royal monastery grounds",
+        "Gate admission via watpho.com channels — verify live THB",
+        "Massage school separate queues/fees — guest behaviour",
+        "Early morning beats coach waves",
+        "Pair carefully with Grand Palace / Wat Phra Kaew heat + security"
+      ]
+    },
+    "visit": {
+      "intro": "Paid gate admission; modest dress; shoes off in halls; massage school separate.",
+      "hours": "Long daily hours listed on watpho.com Plan Your Visit (commonly morning to evening — verify). Early morning is best for the Reclining Buddha hall before tour groups peak.",
+      "tickets": "Temple admission at gates; official site watpho.com. Online booking at watphobooking.com may exist but can be intermittent — verify live. Do not invent THB fares or assume always-on e-tickets. Thai / foreign tiers historically differ.",
+      "dress": "Cover shoulders and knees. Shoes off in ordination halls. No beachwear. Rentals sometimes available nearby if you arrive underdressed — do not rely on that as a plan.",
+      "duration": "1.5–3 hours for Reclining Buddha and a respectful grounds circuit; massage school time is extra with its own queue.",
+      "access": "River boat to Tha Tien + walk, or MRT/bus + walk. Peak traffic makes door-side drop-off unreliable. Heat and sun between halls are intense — water and shade breaks help.",
+      "tips": [
+        "Check watpho.com hours the day you go.",
+        "Arrive early for the Reclining Buddha hall.",
+        "Cover shoulders and knees; shoes off in halls.",
+        "Do not invent THB or trust random street ticket sellers.",
+        "Massage school has separate queues and fees — ask staff.",
+        "Same-day Grand Palace / Wat Phra Kaew: budget security + heat.",
+        "Chao Phraya boat to Tha Tien is often kinder than fighting road traffic."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://www.watpho.com/",
+      "ticketsLabel": "Wat Pho — official site (Plan Your Visit)",
+      "ticketsNote": "Admission at gates; online booking domain may be intermittent — verify live. Do not invent THB fares."
+    },
+    "etiquette": {
+      "intro": "Living Thai royal monastery — modest, shoes off, monks first.",
+      "bullets": [
+        "Cover shoulders and knees.",
+        "Shoes off in ordination halls and where signed.",
+        "Never climb or sit on Buddha images.",
+        "Respectful distance from monks; women follow posted guidance.",
+        "Quiet in the Reclining Buddha hall.",
+        "Massage school: guest behaviour, not mall energy inside vihara zones.",
+        "No blocking prayer paths for group photos."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Wat Pho in Bangkok.",
+      "paragraphs": [
+        "Wat Pho sits beside the Grand Palace / Sanam Luang axis. A classic approach is the Chao Phraya river boat to Tha Tien pier, then a short walk to the temple gates.",
+        "MRT, bus, taxi, or Grab plus a final walk also work — but do not expect easy temple-door drop-off in peak Bangkok traffic. Build walking time and heat breaks.",
+        "If you combine with Wat Phra Kaew / Grand Palace, treat dress code, security screening, and midday heat as first-class constraints, not afterthoughts."
+      ],
+      "bullets": [
+        "Chao Phraya boat → Tha Tien → short walk",
+        "MRT/bus/taxi + walk; avoid assuming door drop-off",
+        "Same-day Grand Palace: security + dress + heat buffer",
+        "Carry water between outdoor courtyards"
+      ]
+    },
+    "bestTime": {
+      "intro": "Early morning for the Reclining Buddha; heat builds fast.",
+      "paragraphs": [
+        "Early morning is the kindest window for the Reclining Buddha hall and for outdoor courtyards. Midday heat and coach groups make the visit harder.",
+        "Evening light can be beautiful on outer chedis when hours allow — still verify last admission and hall closures on watpho.com rather than assuming late free roam."
+      ],
+      "bullets": [
+        "Early morning beats tour groups",
+        "Midday: heat + denser halls",
+        "Confirm last admission on watpho.com",
+        "Massage school: separate timing from hall visits"
+      ]
+    },
+    "notes": {
+      "intro": "注意事項 · Verify before visit",
+      "bullets": [
+        "No invented THB fares — confirm at gates / watpho.com.",
+        "Online booking availability can be intermittent — verify live.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual pass."
+      ]
+    }
+  },
+  {
+    "id": "petra",
+    "name": "Petra (Al-Khazneh sacred landscape)",
+    "shortName": "Petra",
+    "location": "Wadi Musa / Ma’an Governorate, Jordan",
+    "country": "Jordan",
+    "region": "Middle East",
+    "regionSlug": "middle-east",
+    "religions": [
+      "Nabataean"
+    ],
+    "religionSlugs": [
+      "nabataean"
+    ],
+    "summary": "Rose-red Nabataean capital and UNESCO World Heritage landscape in Jordan — Al-Khazneh beyond the Siq, ticketed via PDTRA PetraPass / visitpetra.jo channels.",
+    "heroImage": "https://images.unsplash.com/photo-1587595431973-160d0d94add1?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash (placeholder — visual pass later)",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Nabataean capital flourishing by the 1st century BCE–CE; later Roman and later layers",
+      "patron": "Nabataean sacred / funerary landscape (PDTRA stewardship)",
+      "unesco": "UNESCO World Heritage (Petra)",
+      "typicalVisit": "Full walking day (Siq + Basin); add Monastery or night products separately"
+    },
+    "related": [
+      "machu-picchu",
+      "chichen-itza",
+      "angkor-wat"
+    ],
+    "overview": {
+      "body": [
+        "Petra is Jordan’s rose-red Nabataean capital — a UNESCO sacred and funerary landscape reached on foot through the Siq to the iconic Al-Khazneh façade, then onward into the Basin and optional climbs such as the Monastery.",
+        "Frame it as Nabataean sacred landscape and living host community terrain, not a “lost city treasure hunt.” Stay on marked trails; do not climb monuments; bargain respectfully with regulated horse and donkey handlers.",
+        "Official tickets: PDTRA PetraPass online ticketing at petrapass.pdtra.gov.jo; information and fee pages on visitpetra.jo. Buy online or at the Wadi Musa Visitor Center; passport/ID must match; tickets are typically date-bound and non-transferable. Jordan Pass is a separate government product that may include Petra — verify inclusions. Do not invent JOD fares.",
+        "Seasonal site hours appear on visitpetra.jo (summer often opens earlier). Dawn into the Siq beats heat. Petra by Night and trail products are separate timed tickets when scheduled.",
+        "Most visitors overnight in Wadi Musa after flying into Amman or Aqaba. Expect a long walking day, serious sun exposure, and water discipline. Flash floods are rare but real in wet weather. Little Petra and back trails are extras, not free add-ons to assume."
+      ],
+      "highlights": [
+        "UNESCO Nabataean landscape — Siq to Al-Khazneh",
+        "PDTRA PetraPass / visitpetra.jo — verify live JOD; no invented fares",
+        "Long walking day; dawn Siq before heat",
+        "Night / trail products are separate timed tickets",
+        "Jordan Pass may bundle Petra — verify inclusions"
+      ]
+    },
+    "visit": {
+      "intro": "Paid PDTRA tickets; long walk through Siq; marked trails only.",
+      "hours": "Seasonal site hours on visitpetra.jo (summer often earlier open). Last entry rules apply. Petra by Night and special trails are separate timed products when scheduled — verify.",
+      "tickets": "PDTRA PetraPass — petrapass.pdtra.gov.jo; info/fees on visitpetra.jo. Buy online or at Wadi Musa Visitor Center; passport/ID match; typically date-bound / non-transferable. Jordan Pass may include Petra — verify inclusions. Do not invent JOD fares.",
+      "dress": "Sun-protective, modest outdoor clothing and broken-in walking shoes. Layers for dawn cool and Basin heat. No climbing monuments in any outfit.",
+      "duration": "Full day for Siq + Basin highlights; add hours for the Monastery climb. Multi-day tickets exist as official products when you need them — confirm on visitpetra.jo.",
+      "access": "Walk from Visitor Center through Siq (horses/buggies optional and regulated — clarify at gate). Long distances, stairs, and sand/stone underfoot. Wet weather: flash-flood awareness. Mobility: read PDTRA guidance; this is a demanding landscape visit.",
+      "tips": [
+        "Buy on PetraPass / visitpetra.jo or the official Visitor Center only.",
+        "Start at dawn for cooler Siq walking and softer Khazneh light.",
+        "Carry more water than you think; sun on the Basin is intense.",
+        "Stay on marked trails; never climb façades.",
+        "Horse/donkey/buggy: use regulated offers and agree terms clearly.",
+        "Petra by Night is a separate ticket when scheduled.",
+        "Jordan Pass: verify whether your pass actually includes your Petra day count."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://petrapass.pdtra.gov.jo/",
+      "ticketsLabel": "PDTRA PetraPass — official online ticketing",
+      "ticketsNote": "Also see visitpetra.jo for hours and fees. Verify live JOD rates — do not invent fares. Jordan Pass inclusions must be checked separately."
+    },
+    "etiquette": {
+      "intro": "Nabataean sacred / funerary landscape — marked trails, no climbing, fair local deals.",
+      "bullets": [
+        "Stay on marked trails.",
+        "Do not climb monuments or carve surfaces.",
+        "Respectful bargaining with horse/donkey handlers — regulated services.",
+        "No litter in the Siq or Basin.",
+        "Quiet at tombs and sacred façades — not a treasure-hunt shout zone.",
+        "Follow PDTRA and site-steward directions.",
+        "Drones and off-trail scrambling only where explicitly permitted."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Petra.",
+      "paragraphs": [
+        "Fly into Amman or Aqaba, then continue by road to Wadi Musa, the modern town at Petra’s door. Most visitors overnight in Wadi Musa to start early.",
+        "From the Visitor Center, walk (or use regulated horse/buggy segments) through the Siq to Al-Khazneh. Clarify animal transport rules and prices at the gate — do not invent informal side deals as official policy.",
+        "Jordan Pass is an optional government bundle that may include Petra entry — confirm date rules and day-count inclusions before you skip buying a standalone PetraPass."
+      ],
+      "bullets": [
+        "Amman or Aqaba → road to Wadi Musa",
+        "Visitor Center → Siq walk (optional regulated horse/buggy)",
+        "Overnight Wadi Musa common for dawn starts",
+        "Jordan Pass optional — verify Petra inclusions"
+      ]
+    },
+    "bestTime": {
+      "intro": "Dawn Siq before heat; summer is harsh; night products are separate.",
+      "paragraphs": [
+        "Dawn entry into the Siq is the classic comfort and light window. Midday Basin heat is punishing in summer. Shoulder seasons are often kinder for long walks.",
+        "Petra by Night and special trail tickets run on published schedules only — never assume nightly access. Wet weather needs flash-flood caution even when rare."
+      ],
+      "bullets": [
+        "Dawn for Siq comfort and Khazneh light",
+        "Summer: start early, carry serious water",
+        "Night/trail products: separate timed tickets only",
+        "Wet weather: respect flash-flood guidance"
+      ]
+    },
+    "notes": {
+      "intro": "注意事項 · Verify before visit",
+      "bullets": [
+        "No invented JOD fares — confirm on PetraPass / visitpetra.jo.",
+        "Jordan Pass inclusions change — verify before you travel.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual pass."
       ]
     }
   }

@@ -25,9 +25,9 @@ export function AboutPage() {
       <section className="mt-14 border-t border-line pt-10">
         <h2 className="font-display text-3xl">Photo credits</h2>
         <p className="mt-4 text-pretty text-ink-soft">
-          Hero photography uses Unsplash source URLs for prototype atmosphere. Replace with licensed
-          or owned images before production launch. Fallback silhouettes appear if a remote image
-          fails to load.
+          Each place page credits its hero photograph. Newer guides use Wikimedia Commons.
+          Some earlier pages still carry prototype Unsplash images, named in the credit line,
+          until they are replaced. Fallback silhouettes appear if a remote image fails to load.
         </p>
       </section>
 

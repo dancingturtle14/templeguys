@@ -28,7 +28,7 @@
     "related": [
       "borobudur",
       "wat-phra-kaew",
-      "wat-arun"
+      "shwedagon"
     ],
     "overview": {
       "body": [
@@ -142,7 +142,7 @@
     },
     "related": [
       "angkor-wat",
-      "todai-ji",
+      "shwedagon",
       "mahabodhi"
     ],
     "overview": {
@@ -258,7 +258,7 @@
     "related": [
       "fushimi-inari",
       "todai-ji",
-      "po-lin"
+      "itsukushima"
     ],
     "overview": {
       "body": [
@@ -372,7 +372,7 @@
     "related": [
       "meiji-shrine",
       "fushimi-inari",
-      "borobudur"
+      "kiyomizu-dera"
     ],
     "overview": {
       "body": [
@@ -714,7 +714,7 @@
     "related": [
       "kashi-vishwanath",
       "mahabodhi",
-      "potala"
+      "temple-of-the-tooth"
     ],
     "overview": {
       "body": [
@@ -828,7 +828,7 @@
     },
     "related": [
       "golden-temple",
-      "temple-of-heaven",
+      "paro-taktsang",
       "borobudur"
     ],
     "overview": {
@@ -1175,7 +1175,7 @@
     "related": [
       "blue-mosque",
       "dome-of-the-rock",
-      "st-peters"
+      "mezquita-cordoba"
     ],
     "overview": {
       "body": [
@@ -1403,7 +1403,7 @@
     },
     "related": [
       "notre-dame",
-      "st-peters",
+      "mezquita-cordoba",
       "mont-saint-michel"
     ],
     "overview": {
@@ -1518,7 +1518,7 @@
     },
     "related": [
       "sagrada-familia",
-      "st-peters",
+      "santiago-de-compostela",
       "westminster-abbey"
     ],
     "overview": {
@@ -1749,7 +1749,7 @@
     "related": [
       "chichen-itza",
       "st-peters",
-      "lotus-temple"
+      "machu-picchu"
     ],
     "overview": {
       "body": [
@@ -2662,7 +2662,7 @@
     },
     "related": [
       "borobudur",
-      "todai-ji",
+      "temple-of-the-tooth",
       "kashi-vishwanath"
     ],
     "overview": {
@@ -2889,7 +2889,7 @@
     "related": [
       "meiji-shrine",
       "todai-ji",
-      "chi-lin"
+      "kiyomizu-dera"
     ],
     "overview": {
       "body": [
@@ -3002,7 +3002,7 @@
     "related": [
       "hagia-sophia",
       "dome-of-the-rock",
-      "western-wall"
+      "mezquita-cordoba"
     ],
     "overview": {
       "body": [
@@ -3113,7 +3113,7 @@
       "typicalVisit": "1.5–3 hours"
     },
     "related": [
-      "st-peters",
+      "santiago-de-compostela",
       "notre-dame",
       "mont-saint-michel"
     ],
@@ -3230,7 +3230,7 @@
     "related": [
       "westminster-abbey",
       "notre-dame",
-      "sagrada-familia"
+      "santiago-de-compostela"
     ],
     "overview": {
       "body": [
@@ -3344,7 +3344,7 @@
     },
     "related": [
       "potala",
-      "chi-lin",
+      "machu-picchu",
       "meiji-shrine"
     ],
     "overview": {
@@ -3575,7 +3575,7 @@
     "related": [
       "guadalupe",
       "temple-of-heaven",
-      "angkor-wat"
+      "machu-picchu"
     ],
     "overview": {
       "body": [
@@ -3661,6 +3661,928 @@
         "SanctaWay is informational; it does not sell tickets or grant access.",
         "Tradition slug `maya` denotes Maya sacred-historical context, not a living ticketed “religion product.”",
         "Unsplash hero is a placeholder."
+      ]
+    }
+  },
+  {
+    "id": "shwedagon",
+    "name": "Shwedagon Pagoda",
+    "shortName": "Shwedagon",
+    "location": "Yangon, Myanmar",
+    "country": "Myanmar",
+    "region": "Southeast Asia",
+    "regionSlug": "southeast-asia",
+    "religions": [
+      "Buddhist"
+    ],
+    "religionSlugs": [
+      "buddhist"
+    ],
+    "summary": "Myanmar’s national pagoda — a vast gilded stupa and pilgrimage platform above Yangon, visited barefoot after gate admission sold by temple channels.",
+    "heroImage": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&w=1920&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Traditional foundation legends centuries deep; present gilded stupa complex evolved over successive rebuilds",
+      "patron": "Buddhist stupa / pilgrimage platform (Shwedagon)",
+      "unesco": "— (national sacred landmark; not used here as a World Heritage claim)",
+      "typicalVisit": "1.5–3 hours on the platform (plus Yangon traffic)"
+    },
+    "related": [
+      "borobudur",
+      "mahabodhi",
+      "angkor-wat"
+    ],
+    "overview": {
+      "body": [
+        "Shwedagon Pagoda is Myanmar’s most visited sacred landmark — a towering gilded stupa rising above Yangon, ringed by shrines, planetary posts, and a marble platform where devotees walk barefoot through the day and into the evening lights.",
+        "Treat it as a living pilgrimage site, not a photo-only rooftop. Four covered stair approaches (and elevators at some gates — confirm on site) lead up to the platform; shoes and socks come off at the entrance. Quiet around worshippers matters more than catching every angle of the spire.",
+        "Foreign visitor admission is sold at temple entrances under Board of Trustees / Shwedagon Pagoda channels. Official announcements and visitor notices appear on shwedagonpagoda.org.mm — do not invent fares or assume a casual e-ticket path. Rates and lunar-day schedules change; verify at the gate or on the official site before you travel.",
+        "Hours are commonly cited around 04:00–22:00 with last admission earlier; some lunar observances may extend access — reconfirm. Dawn and golden hour favour soft light on the gold; after dark the illuminated stupa is the classic Yangon pilgrimage image.",
+        "Practical honesty: recheck Myanmar travel advisories before planning. Heat on bare marble is intense; wrap or skirt rentals are often available near the gates; donate only through labelled boxes or the trustees office — never to random solicitors on the stairs."
+      ],
+      "highlights": [
+        "National Buddhist pilgrimage platform — barefoot on marble",
+        "Gate admission via temple / Board of Trustees channels — verify live; no invented fares",
+        "Typically long daily hours; lunar days may differ",
+        "Four stair approaches; elevators at some entrances — confirm on site",
+        "Recheck Myanmar travel advisories before you go"
+      ]
+    },
+    "visit": {
+      "intro": "Paid gate admission for most foreign visitors; barefoot platform; verify hours and advisories.",
+      "hours": "Commonly about 04:00–22:00 with last admission earlier; special lunar days may run longer or 24h — confirm on shwedagonpagoda.org.mm or at the gate. Dawn and evening illumination are the classic windows.",
+      "tickets": "Foreigner admission is sold at temple entrances (Board of Trustees / Shwedagon Pagoda channels). Official notices: shwedagonpagoda.org.mm. Tickets are generally not a reliable casual online purchase — verify on the official site or at the gate. Do not invent MMK fares or third-party “e-ticket” URLs.",
+      "dress": "Modest clothing covering shoulders and knees. Barefoot on the platform — remove shoes and socks at the gate. Light fabric helps in heat; many visitors rent a wrap or longyi nearby if needed.",
+      "duration": "1.5–3 hours on the platform for a respectful circuit of the main stupa, planetary posts, and evening light; add Yangon traffic both ways.",
+      "access": "Covered stair approaches from multiple gates; elevators exist at some entrances — ask staff which gate fits mobility needs. Marble can be hot and slippery when wet. Expect security screening.",
+      "tips": [
+        "Remove shoes and socks before stepping onto the platform.",
+        "Carry water; bare marble radiates heat midday.",
+        "Buy admission only at official temple entrances — keep any receipt.",
+        "Donate via labelled boxes / trustees office, not informal stair solicitors.",
+        "Quiet around worshippers; avoid flash on people in prayer.",
+        "Recheck Myanmar travel advisories and local notices the week you go.",
+        "Golden hour and evening lights are worth planning around traffic."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://www.shwedagonpagoda.org.mm/",
+      "ticketsLabel": "Shwedagon Pagoda — official site (Board of Trustees notices)",
+      "ticketsNote": "Admission sold at temple gates. Confirm live rates and hours on the official site — do not invent fares or rely on third-party e-ticket sellers."
+    },
+    "etiquette": {
+      "intro": "Living Buddhist pilgrimage platform — modest, barefoot, quiet.",
+      "bullets": [
+        "Shoulders and knees covered; no beachwear.",
+        "Barefoot on the entire upper platform.",
+        "Keep voices low around shrines and seated devotees.",
+        "Do not point feet at Buddha images or climb barriers for photos.",
+        "Ask before photographing people in prayer.",
+        "Follow staff directions at planetary posts and crowded corners.",
+        "No disruptive group posing that blocks worship paths."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Shwedagon Pagoda.",
+      "paragraphs": [
+        "In Yangon, most visitors take a taxi or Grab to the Shwedagon area along Kabar Aye Pagoda Road / U Wisara Road approaches. Confirm which gate your driver will use — North and South gates are common drop-offs for foreign visitors.",
+        "From the gate, climb one of the four covered stair approaches to the platform, or use an elevator entrance when available and staff-directed. Allow extra time in Yangon peak traffic; the last stretch is on foot.",
+        "Combine thoughtfully with other Yangon stops rather than racing the platform. Evening visits need a planned return ride — ride-hail availability varies by night and neighbourhood."
+      ],
+      "bullets": [
+        "Taxi / Grab to North or South gate area",
+        "Four stair approaches; elevators at some gates — ask on site",
+        "Budget Yangon traffic both ways",
+        "Shoes off at the entrance before the platform"
+      ]
+    },
+    "bestTime": {
+      "intro": "Cooler light at dawn; gilded drama after dark.",
+      "paragraphs": [
+        "Early morning is kinder for heat and quieter for prayer. Midday marble is harsh on bare feet. Sunset into evening lights is the classic illuminated-stupa window — arrive before last admission.",
+        "Lunar observance days and major Buddhist festivals draw denser crowds and may alter hours. Check official notices rather than assuming a standard schedule."
+      ],
+      "bullets": [
+        "Dawn for softer light and cooler marble",
+        "Evening for illuminated stupa — watch last admission",
+        "Avoid assuming 24h access except where officially stated for lunar days",
+        "Festival peaks: expect denser security and slower stairs"
+      ]
+    },
+    "notes": {
+      "intro": "注意事項 · Verify before visit",
+      "bullets": [
+        "Recheck Myanmar travel advisories independently before planning.",
+        "No invented admission fares — confirm at gate / official site.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is a placeholder (Unsplash) pending visual pass."
+      ]
+    }
+  },
+  {
+    "id": "paro-taktsang",
+    "name": "Paro Taktsang (Tiger’s Nest)",
+    "shortName": "Tiger’s Nest",
+    "location": "Paro Valley, Bhutan",
+    "country": "Bhutan",
+    "region": "South Asia",
+    "regionSlug": "south-asia",
+    "religions": [
+      "Buddhist"
+    ],
+    "religionSlugs": [
+      "buddhist"
+    ],
+    "summary": "Bhutan’s cliff monastery above Paro — a steep pilgrimage hike to Taktsang under Bhutan tourism rules, with monument entry via Department of Tourism channels.",
+    "heroImage": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?auto=format&fit=crop&w=1920&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Cliff hermitage tradition linked to Guru Rinpoche; present monastery buildings rebuilt after fire (1998) on the historic site",
+      "patron": "Vajrayana Buddhist monastery (Taktsang Palphug)",
+      "unesco": "—",
+      "typicalVisit": "Half to full day (2–3+ hour hike each way + monastery time)"
+    },
+    "related": [
+      "potala",
+      "mahabodhi",
+      "borobudur"
+    ],
+    "overview": {
+      "body": [
+        "Paro Taktsang — the Tiger’s Nest — clings to a cliff face above the Paro valley and is Bhutan’s most recognisable sacred landmark. The pilgrimage is the hike as much as the shrine: switchbacks through pine forest to a café viewpoint, then a final descent and climb of stairs into the monastery compound.",
+        "Foreign visitors generally travel under Bhutan’s tourism framework (Sustainable Development Fee / licensed operator context for many passports). This is not framed here as casual DIY walk-up tourism; plan through lawful channels and confirm what your itinerary includes.",
+        "Monument entry for Taktsang is listed under Bhutan Department of Tourism monument fee schedules. Tickets are commonly handled at the Ramthangka trailhead counter and/or via official online monument booking when that channel is open — verify live Nu rates; do not invent figures. The SDF is separate from site entry.",
+        "Start early. Ticket windows often favour a morning entry window and may stop same-day admissions by early afternoon — confirm the day’s rule before you leave Paro. Clear mornings give the famous cliff views; monsoon mud and fog can close or slow the upper path.",
+        "Fitness and altitude matter. Ponies are sometimes available only to the café level — not into the monastery. The last stair stretch is steep; weather can shut upper access. Dress modestly for temple rooms; shoes off inside; photography rules inside are strict — follow monks and guides."
+      ],
+      "highlights": [
+        "Iconic Himalayan cliff monastery above Paro",
+        "Hike ~2–3+ hours up; ponies (if any) stop before the monastery",
+        "Monument fees via Bhutan tourism / Ramthangka channels — verify live rates",
+        "Foreign travel often under SDF + licensed operator rules",
+        "Start early; same-day entry windows can close mid-afternoon"
+      ]
+    },
+    "visit": {
+      "intro": "Steep pilgrimage hike + monument ticket; plan under Bhutan tourism rules.",
+      "hours": "Start early from Ramthangka. Ticket counters typically favour morning entry; same-day admission often closes by early afternoon — verify the day’s window before hiking. Monastery rooms follow on-site monastic schedules.",
+      "tickets": "Monument entry via Bhutan Department of Tourism monument fee schedule (Taktsang listed). Purchase commonly at the Ramthangka counter and/or official online monument booking when available. Verify live Nu rates — do not invent figures. SDF / tourism levy is separate from site entry.",
+      "dress": "Modest clothing for monastery entry (shoulders and knees covered). Sturdy shoes for the trail; remove shoes in temple rooms. No hats inside shrine spaces. Layers for cool cliff wind.",
+      "duration": "Plan a half to full day: 2–3+ hours up, time in the monastery, 1.5–2.5 hours down. Add buffer for weather and altitude.",
+      "access": "Steep earthen and stone trail; exposed cliff sections; final stair flights. Not suitable as a casual stroll. Upper access can close in bad weather. Discuss mobility limits honestly with your operator before booking.",
+      "tips": [
+        "Begin at first light for cooler hiking and better entry odds.",
+        "Confirm monument ticket and SDF / operator requirements before travel.",
+        "Carry water and a light rain layer — weather flips fast on the cliff.",
+        "Ponies (when available) stop at café level — you still walk the final stairs.",
+        "No photography inside temple rooms unless explicitly allowed.",
+        "Descend carefully — tired knees on wet stone are the usual injury pattern.",
+        "Respect closure calls from guides or site staff without argument."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": null,
+      "ticketsLabel": "Bhutan Department of Tourism — monument entry (Taktsang / Ramthangka)",
+      "ticketsNote": "Verify live Nu monument fees and any online booking channel via official Bhutan tourism sources. SDF is separate. Do not invent fares."
+    },
+    "etiquette": {
+      "intro": "Active Himalayan monastery on a cliff path — modest, quiet, photo-disciplined.",
+      "bullets": [
+        "Dress modestly before entering temple rooms.",
+        "Shoes off; hats off inside shrines.",
+        "Follow monks’ and guides’ photography rules strictly.",
+        "Keep voices low on cliff paths and in courtyards.",
+        "Do not lean on barriers or climb restricted ledges for photos.",
+        "Stay on the marked trail — shortcuts damage paths and risk falls.",
+        "Offerings only through proper channels inside the monastery."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Paro Taktsang.",
+      "paragraphs": [
+        "From Paro town, drive to Ramthangka trailhead parking at the base of the hike. Most foreign visitors arrive with a licensed Bhutan itinerary; confirm whether monument tickets, guide, and transport are bundled.",
+        "The trail rises through forest to a café / viewpoint, then drops and climbs again into the monastery. There is no road to the cliff temples for ordinary visitors.",
+        "Allow a full morning minimum. Afternoon starts risk closed ticket windows and harder heat or storm build-up. Return to Paro before dark unless your operator plans otherwise."
+      ],
+      "bullets": [
+        "Drive Paro → Ramthangka trailhead",
+        "Hike only from the trailhead — no casual vehicle drop at the monastery",
+        "Foreign visitors: confirm SDF / licensed operator context",
+        "Start early for tickets, light, and safer descent"
+      ]
+    },
+    "bestTime": {
+      "intro": "Clear mornings; treat monsoon mud as a real closer.",
+      "paragraphs": [
+        "Dry, clear mornings give the postcard cliff view and safer footing. Cloud and rain erase the vista and make the final stairs treacherous.",
+        "Peak tourism seasons fill the trail; shoulder weeks can be kinder if your Bhutan itinerary allows flexibility. Always defer to same-day weather calls from guides."
+      ],
+      "bullets": [
+        "Best: early clear mornings",
+        "Avoid late starts that miss ticket windows",
+        "Monsoon: expect mud, fog, and possible upper closures",
+        "Altitude + stairs: pace yourself even if fit"
+      ]
+    },
+    "notes": {
+      "intro": "注意事項 · Verify before visit",
+      "bullets": [
+        "Bhutan entry and SDF rules are separate from Taktsang monument fees — verify both.",
+        "No invented Nu fares in this guide.",
+        "SanctaWay is informational; it does not sell tickets or arrange Bhutan visas/tours.",
+        "Hero image is a placeholder (Unsplash) pending visual pass."
+      ]
+    }
+  },
+  {
+    "id": "machu-picchu",
+    "name": "Machu Picchu (Llaqta Machupicchu)",
+    "shortName": "Machu Picchu",
+    "location": "Urubamba Province, Cusco Region, Peru",
+    "country": "Peru",
+    "region": "Americas",
+    "regionSlug": "americas",
+    "religions": [
+      "Inca"
+    ],
+    "religionSlugs": [
+      "inca"
+    ],
+    "summary": "UNESCO Inca citadel and sacred landscape above the Urubamba — timed circuit entry via Ministerio de Cultura Tu Boleto, reached by train to Aguas Calientes then bus (or permitted trek).",
+    "heroImage": "https://images.unsplash.com/photo-1526392060635-9d6019884377?auto=format&fit=crop&w=1920&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Inca citadel / estate landscape (15th century context); rediscovered for global tourism in the early 20th century",
+      "patron": "Inca / Andean sacred landscape (llaqta) — archaeological sanctuary today",
+      "unesco": "Historic Sanctuary of Machu Picchu (World Heritage)",
+      "typicalVisit": "Full day from Cusco/Sacred Valley; 2–4 hours on circuit (plus train/bus)"
+    },
+    "related": [
+      "chichen-itza",
+      "guadalupe",
+      "temple-of-heaven"
+    ],
+    "overview": {
+      "body": [
+        "Machu Picchu is the Inca llaqta set on a saddle above the Urubamba — stone terraces, temples, and living sacred landscape managed today as a capacity-capped archaeological sanctuary. Visit it as a protected sacred place, not a free-roam scramble.",
+        "Entry is by timed circuit. Tickets are issued through Peru’s Ministerio de Cultura Tu Boleto system (tuboleto.cultura.pe), also linked from machupicchu.gob.pe. Your circuit, date, and ID must match — street resellers are a known risk; buy only through official channels and never invent fare figures from blogs.",
+        "Most visitors train to Machu Picchu Pueblo (Aguas Calientes), then ride the shuttle bus up to the citadel gate. Inca Trail and alternative treks require separate permits and operators. Huayna Picchu and Machu Picchu Mountain are extra capped tickets when those routes are open.",
+        "Altitude, stairs, and weather shape the day more than Instagram angles. Stay on marked circuits; do not climb banned stones; keep a respectful tone toward Andean sacred landscape — this is not a conquistador photo set.",
+        "Book well ahead for dry-season dawn slots (roughly May–September peaks). Passport name match on tickets, separate bus tickets, and overnighting in Aguas Calientes are the usual logistics that trip up first-timers."
+      ],
+      "highlights": [
+        "UNESCO Inca citadel — timed circuits only",
+        "Official tickets: tuboleto.cultura.pe (Ministerio de Cultura)",
+        "Train to Aguas Calientes + bus up (or permitted trek)",
+        "Passport must match ticket; ignore street resellers",
+        "Huayna Picchu / MP Mountain are separate capped tickets when open"
+      ]
+    },
+    "visit": {
+      "intro": "Timed, ticketed sanctuary visit. Official Tu Boleto only; circuits are mandatory.",
+      "hours": "Entry by timed circuit slot — confirm your ticket’s window. Site flows and last-entry rules change with capacity and weather. Dry-season mornings are the most competitive; verify the day’s board and your circuit map before queuing.",
+      "tickets": "Buy via Ministerio de Cultura — Tu Boleto (tuboleto.cultura.pe / Llaqta Machupicchu), also linked from machupicchu.gob.pe. Circuit + date + personal ID on the ticket. Never invent PEN fares; warn against street and chat-app resellers. Bus tickets Cusco/Aguas Calientes↔citadel are separate products.",
+      "dress": "Layered outdoor clothing for cool mornings and strong sun; sturdy closed-toe shoes for stone stairs. Rain shell in shoulder/wet months. Treat dress as respectful outdoor pilgrimage gear, not beachwear.",
+      "duration": "2–4 hours on your assigned circuit; full travel day from Cusco often 12+ hours door-to-door unless you overnight in Aguas Calientes.",
+      "access": "Stone stairs, uneven terraces, altitude. Circuits vary in difficulty — read your ticket’s circuit description. Wheelchair / limited-mobility access is constrained; research current sanctuary notices before promising a route.",
+      "tips": [
+        "Book Tu Boleto official slots early — dawn circuits sell out.",
+        "Passport name must match the ticket exactly.",
+        "Buy bus tickets separately; queues build before first buses.",
+        "Stay on your marked circuit — stewards enforce capacity rules.",
+        "Carry water and sun protection; shade is limited on terraces.",
+        "Huayna Picchu / Machu Picchu Mountain need their own capped tickets when open.",
+        "Ignore street “sold out but I have tickets” sellers."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://tuboleto.cultura.pe/",
+      "ticketsLabel": "Ministerio de Cultura — Tu Boleto (Llaqta Machupicchu)",
+      "ticketsNote": "Official timed-circuit tickets only. Confirm live PEN rates on Tu Boleto. Bus and trek permits are separate. No SanctaWay fare quotes."
+    },
+    "etiquette": {
+      "intro": "Sacred Inca landscape under strict archaeological protection.",
+      "bullets": [
+        "Stay on marked circuits; no off-path scrambling.",
+        "Do not climb banned stones or sit on restricted walls.",
+        "No drones or professional kits without authorisation.",
+        "Pack out trash; no food in restricted zones if posted.",
+        "Keep voices respectful — this is sanctuary space, not a theme park.",
+        "Follow stewards during capacity and weather closures.",
+        "Avoid “conquistador” or mock-ritual posing on sacred structures."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Machu Picchu.",
+      "paragraphs": [
+        "Common pattern: travel from Cusco or the Sacred Valley by train to Machu Picchu Pueblo (Aguas Calientes), then take the shuttle bus up the switchbacks to the citadel gate. Overnighting in Aguas Calientes shortens the morning rush for early circuits.",
+        "Inca Trail and alternative treks require advance permits and authorised operators — they are not walk-up day hikes. Confirm what your permit covers versus the citadel entry ticket itself.",
+        "From the gate, follow your assigned circuit. Return buses and trains fill late afternoon — hold buffer time so you are not stranded after the last service."
+      ],
+      "bullets": [
+        "Train → Aguas Calientes → bus to citadel (most visitors)",
+        "Treks only with valid permits / operators",
+        "Ticket circuit ID + passport at control points",
+        "Altitude: pace stairs; hydrate"
+      ]
+    },
+    "bestTime": {
+      "intro": "Dry-season mornings are magical and crowded; book ahead.",
+      "paragraphs": [
+        "Roughly May–September offers drier trails and clearer ridge views — and the hardest ticket competition. Shoulder weeks can balance weather and crowds if slots remain.",
+        "Within the day, earliest circuits beat heat and tour-bus density. Afternoon fog and rain can erase the classic postcard view even in the dry season."
+      ],
+      "bullets": [
+        "Book dry-season dawn slots months ahead when possible",
+        "Rainy months: expect mud, fog, and slick stairs",
+        "Check circuit map before you fantasise about every terrace",
+        "Weather closures happen — build itinerary slack"
+      ]
+    },
+    "notes": {
+      "intro": "注意事項 · Verify before visit",
+      "bullets": [
+        "Only Tu Boleto / official Cultura channels for citadel tickets.",
+        "No invented fares; bus and mountain add-ons are separate.",
+        "SanctaWay is informational; it does not sell Machu Picchu tickets.",
+        "Hero image is a placeholder (Unsplash) pending visual pass."
+      ]
+    }
+  },
+  {
+    "id": "santiago-de-compostela",
+    "name": "Cathedral of Santiago de Compostela",
+    "shortName": "Santiago Cathedral",
+    "location": "Santiago de Compostela, Galicia, Spain",
+    "country": "Spain",
+    "region": "Europe",
+    "regionSlug": "europe",
+    "religions": [
+      "Christian"
+    ],
+    "religionSlugs": [
+      "christian"
+    ],
+    "summary": "Western Christianity’s great pilgrimage cathedral — endpoint of the Camino; basilica and Apostle’s tomb typically free, with museum / Portico / roof visits booked via official cathedral channels.",
+    "heroImage": "https://images.unsplash.com/photo-1464790719320-974ddd396c7f?auto=format&fit=crop&w=1920&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Medieval pilgrimage cathedral on the shrine of Saint James; major Romanesque and later fabric",
+      "patron": "Saint James the Greater (Santiago Apóstol)",
+      "unesco": "Santiago de Compostela (Old Town) World Heritage; Camino routes also inscribed",
+      "typicalVisit": "1–2 hours basilica; half day with museum / Portico / rooftops"
+    },
+    "related": [
+      "mont-saint-michel",
+      "notre-dame",
+      "westminster-abbey"
+    ],
+    "overview": {
+      "body": [
+        "The Cathedral of Santiago de Compostela is the spiritual endpoint of the Camino de Santiago — a living Catholic cathedral above the shrine of the Apostle James. Pilgrims still arrive dusty into Praza do Obradoiro; tourists join them under the baroque façade and Romanesque heart of the building.",
+        "Important split: access to the basilica and the Apostle’s tomb is typically free. Museum spaces, the Portico of Glory visit, rooftops / towers, and some night programmes are ticketed through official cathedral booking at visitas.catedraldesantiago.es and museum channels. Do not invent package prices.",
+        "Tourist circulation usually enters via Porta de Praterías rather than walking straight through the Obradoiro main façade as if it were a theme-park gate. Hours for the basilica are long on most days — verify on catedraldesantiago.es — while museum windows are shorter. Pilgrim’s Mass has its own schedule; do not tour through liturgy.",
+        "Camino backpacks are not welcome inside; use lockers. Silence near the altar matters. The Portico of Glory is not a touchable prop. Partial accessibility exists — check current cathedral notices if mobility is limited.",
+        "The Compostela credential and Pilgrim Office process are separate from cathedral tickets. Rooftop and guided visits are timed; book official slots rather than scalper “skip the Camino” packages."
+      ],
+      "highlights": [
+        "Endpoint of the Camino — living pilgrimage cathedral",
+        "Basilica / tomb typically free; museum & Portico & roofs ticketed",
+        "Official booking: visitas.catedraldesantiago.es",
+        "Enter tourist flow via Porta de Praterías (usual pattern)",
+        "No touring during Mass; backpacks to lockers"
+      ]
+    },
+    "visit": {
+      "intro": "Free basilica for prayer and respectful visit; pay only for official museum / Portico / roof products.",
+      "hours": "Basilica and Apostle’s tomb: typically long daily hours — verify catedraldesantiago.es. Museum spaces: shorter daytime windows. Pilgrim’s Mass schedule is separate. Avoid circulating as a tourist group during liturgy.",
+      "tickets": "Basilica / tomb: typically free. Museum, Portico of Glory, roofs / tower, night visits: book via visitas.catedraldesantiago.es / cathedral museum channels. Confirm live € rates on official pages — do not invent packages. Compostela / Pilgrim Office is a separate process.",
+      "dress": "Modest clothing suitable for an active cathedral (shoulders covered preferred). Comfortable shoes for stone floors. Large Camino packs stay outside or in lockers.",
+      "duration": "45–90 minutes for basilica and tomb; 2–4 hours if you add museum, Portico, or rooftop visits.",
+      "access": "Stone floors, steps, and uneven historic fabric. Some assisted routes exist — check cathedral accessibility notices. Rooftop visits are guided/timed and physically demanding.",
+      "tips": [
+        "Use Porta de Praterías for the usual tourist entry pattern.",
+        "Book Portico / museum / roof slots only on official visitas.catedraldesantiago.es.",
+        "Do not walk tour routes during Mass.",
+        "Leave large backpacks in lockers — they are banned inside.",
+        "Do not touch the Portico of Glory.",
+        "Pilgrim credential / Compostela is separate from cathedral tickets.",
+        "Verify same-week hours around major feast days."
+      ],
+      "entryType": "free",
+      "ticketsUrl": "https://visitas.catedraldesantiago.es/",
+      "ticketsLabel": "Catedral de Santiago — official visits booking",
+      "ticketsNote": "Basilica/tomb typically free. Paid museum/Portico/roof products only via official booking. Confirm live rates — no invented fares."
+    },
+    "etiquette": {
+      "intro": "Active cathedral and pilgrimage shrine — prayer first, tourism second.",
+      "bullets": [
+        "Silence near the altar and tomb.",
+        "No tourist circulating during liturgy.",
+        "No touching Portico of Glory sculptures.",
+        "Large backpacks banned — use lockers.",
+        "Follow stewards on one-way museum/roof routes.",
+        "Dress respectfully for a working church.",
+        "Photography: obey posted signs; no flash on artworks where banned."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach the cathedral.",
+      "paragraphs": [
+        "On foot, Camino routes funnel into the old town and Praza do Obradoiro. Day visitors arrive by train or bus to Santiago de Compostela, then walk uphill into the historic core.",
+        "Inside the old town, expect pedestrian streets and crowds at peak pilgrimage hours. Taxi drop-offs are at the edge of the restricted centre — budget a short walk.",
+        "If you are finishing the Camino, separate Pilgrim Office queues from cathedral visit time so you are not rushing the shrine with a full pack."
+      ],
+      "bullets": [
+        "Camino arrival into Obradoiro / old town",
+        "Train/bus to Santiago + walk to the cathedral",
+        "Tourist entry often via Porta de Praterías",
+        "Lockers for packs before entering"
+      ]
+    },
+    "bestTime": {
+      "intro": "Quiet prayer hours beat midday tour surges.",
+      "paragraphs": [
+        "Early morning or evening outside Mass times is kinder for a contemplative visit. Midday in high Camino season is dense with groups.",
+        "Holy Years and major feast peaks transform the city — wonderful for pilgrims, hard for rushed sightseeing. Rooftop slots need advance booking in peak months."
+      ],
+      "bullets": [
+        "Best calm: early doors outside liturgy",
+        "Check Mass times before planning photo circuits",
+        "Holy Year / feast peaks: expect heavy queues",
+        "Roof/Portico: book official timed slots"
+      ]
+    },
+    "notes": {
+      "intro": "注意事項 · Verify before visit",
+      "bullets": [
+        "Confirm basilica hours and paid-visit products on official cathedral sites.",
+        "No invented € fares for museum/Portico/roofs.",
+        "SanctaWay is informational; it does not sell cathedral tickets.",
+        "Hero image is a placeholder (Unsplash) pending visual pass."
+      ]
+    }
+  },
+  {
+    "id": "kiyomizu-dera",
+    "name": "Kiyomizu-dera",
+    "shortName": "Kiyomizu-dera",
+    "location": "Higashiyama, Kyoto, Japan",
+    "country": "Japan",
+    "region": "East Asia",
+    "regionSlug": "east-asia",
+    "religions": [
+      "Buddhist"
+    ],
+    "religionSlugs": [
+      "buddhist"
+    ],
+    "summary": "Kyoto’s hillside Kannon temple with the wooden stage overlooking the city — UNESCO Historic Monuments of Ancient Kyoto; day admission at the gate via official kiyomizudera.or.jp notices.",
+    "heroImage": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?auto=format&fit=crop&w=1920&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Traditionally 778; present stage and halls rebuilt across centuries (major Edo-period reconstruction)",
+      "patron": "Kannon (Deizu Kannon / Kiyomizu faith)",
+      "unesco": "Historic Monuments of Ancient Kyoto (World Heritage component)",
+      "typicalVisit": "1.5–2.5 hours (plus Higashiyama approach crowds)"
+    },
+    "related": [
+      "fushimi-inari",
+      "todai-ji",
+      "meiji-shrine"
+    ],
+    "overview": {
+      "body": [
+        "Kiyomizu-dera sits on the Higashiyama hillside east of central Kyoto — a Kannon temple whose wooden stage cantilevered over the valley is one of Japan’s most visited sacred viewpoints. It belongs to the UNESCO Historic Monuments of Ancient Kyoto set.",
+        "Reach it on foot up Kiyomizu-zaka or Chawan-zaka after a city bus to Kiyomizu-michi / Gojo-zaka. There is no sensible on-site parking plan for ordinary visitors. Mapping apps sometimes suggest wrong slopes — follow Nio-mon / Chawan-zaka approaches staff recommend.",
+        "The temple typically opens at 06:00; closing is seasonal (often around 18:00, later in summer). Special night-viewing windows (cherry season, Obon, autumn) are announced yearly on kiyomizudera.or.jp — verify rather than assuming every evening is lit.",
+        "Gate admission is ordinarily purchased on the day at the window; standard entry generally needs no advance booking, and cash is often expected. Special night viewing and Tainai-meguri extras are separate — confirm on the official site. Do not invent yen fares here.",
+        "On the grounds: quiet on the stage and at Otowa waterfall; three streams traditionally linked to different wishes — observe local etiquette rather than blocking the line for posed shots. Combine carefully with Sannenzaka crowds."
+      ],
+      "highlights": [
+        "UNESCO Kyoto hillside Kannon temple + wooden stage",
+        "Opens 06:00; seasonal closing — night viewing only when announced",
+        "Day tickets at the gate (kiyomizudera.or.jp) — usually no advance booking",
+        "Bus to Kiyomizu-michi / Gojo-zaka, then uphill walk",
+        "Do not invent yen fares — verify official admission page"
+      ]
+    },
+    "visit": {
+      "intro": "Day gate admission on site; early open beats Higashiyama crowds.",
+      "hours": "Typically opens 06:00; closing seasonal (often ~18:00; summer later). Special night-viewing periods are announced yearly — verify on kiyomizudera.or.jp Visit / Location pages. Last entry is before closing.",
+      "tickets": "Gate admission purchased on the day. Official information: kiyomizudera.or.jp (Visit / Location / FAQ). Standard entry generally no advance booking; cash often expected at the window. Night viewing and Tainai-meguri are extras — verify on the official site. Do not invent yen fares.",
+      "dress": "Comfortable shoes for slopes and temple steps. Modest, respectful clothing. Weather layers — hillside wind and rain are common.",
+      "duration": "1.5–2.5 hours on temple grounds; add approach time through Higashiyama streets.",
+      "access": "Uphill pedestrian approaches; stairs and wooden stage. Wheelchair users: check the official map for emergency-road / Chawan-zaka notes — not every terrace is step-free.",
+      "tips": [
+        "Arrive near opening (06:00) to beat tour-bus waves.",
+        "Take city bus to Kiyomizu-michi or Gojo-zaka, then walk up.",
+        "Follow Nio-mon / Chawan-zaka — ignore wrong mapping shortcuts.",
+        "Cash ready for the day gate; confirm any night-viewing ticket rules on the official site.",
+        "Quiet on the stage; do not block Otowa waterfall queues for poses.",
+        "Combine with Sannenzaka only if you accept dense souvenir streets.",
+        "Verify seasonal night viewing before promising evening photos."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://www.kiyomizudera.or.jp/",
+      "ticketsLabel": "Kiyomizu-dera — official site (Visit / admission)",
+      "ticketsNote": "Day admission at the gate. Confirm live yen rates and night-viewing extras on the official site — no invented fares."
+    },
+    "etiquette": {
+      "intro": "Active Japanese Buddhist temple with heavy tourist flow — keep worship space usable.",
+      "bullets": [
+        "Speak quietly on the stage and in halls.",
+        "Do not block Otowa waterfall for group photos.",
+        "Follow one-way flow where marked.",
+        "No climbing railings or going off-path under the stage.",
+        "Respect worshippers at Kannon halls.",
+        "Tripods and drones only where explicitly allowed.",
+        "Pack out trash from Higashiyama streets."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Kiyomizu-dera.",
+      "paragraphs": [
+        "From Kyoto Station, take a city bus toward Higashiyama and alight at Kiyomizu-michi or Gojo-zaka, then walk uphill via Kiyomizu-zaka or Chawan-zaka. Buses are crowded in peak seasons — build slack.",
+        "There is no practical private-car plan for first-time visitors; parking near the slopes is limited and congested. Taxis can drop near the lower approaches, but you still walk up.",
+        "Wheelchair or limited-mobility visitors should consult the official access map (emergency road / Chawan-zaka notes) before assuming stage access equals full precinct access."
+      ],
+      "bullets": [
+        "Kyoto Station → city bus → Kiyomizu-michi / Gojo-zaka",
+        "Uphill walk on Kiyomizu-zaka or Chawan-zaka",
+        "No reliance on on-site parking",
+        "Early start avoids the worst Higashiyama queues"
+      ]
+    },
+    "bestTime": {
+      "intro": "First light on the stage; night viewing only when officially scheduled.",
+      "paragraphs": [
+        "Early morning is the crowd hack. Cherry blossom and autumn colour peaks are beautiful and intensely packed — arrive at opening or consider a verified night-viewing date instead of midday.",
+        "Summer closings run later; winter evenings are earlier. Never assume night illumination without checking that year’s official announcement."
+      ],
+      "bullets": [
+        "Best: arrive at 06:00 opening",
+        "Sakura / koyo: expect dense approaches",
+        "Night viewing: only on announced dates",
+        "Rain: wooden stage is slippery — slow down"
+      ]
+    },
+    "notes": {
+      "intro": "注意事項 · Verify before visit",
+      "bullets": [
+        "Confirm hours and any night-viewing tickets on kiyomizudera.or.jp.",
+        "No invented yen admission figures.",
+        "SanctaWay is informational; it does not sell temple tickets.",
+        "Hero image is a placeholder (Unsplash) pending visual pass."
+      ]
+    }
+  },
+  {
+    "id": "mezquita-cordoba",
+    "name": "Mosque-Cathedral of Córdoba",
+    "shortName": "Mezquita-Catedral",
+    "location": "Córdoba, Andalusia, Spain",
+    "country": "Spain",
+    "region": "Europe",
+    "regionSlug": "europe",
+    "religions": [
+      "Islamic",
+      "Christian"
+    ],
+    "religionSlugs": [
+      "islamic",
+      "christian"
+    ],
+    "summary": "UNESCO hypostyle mosque later consecrated as a Catholic cathedral — timed tourist entry via the Cabildo’s official portal ticket.mezquita-catedraldecordoba.es.",
+    "heroImage": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?auto=format&fit=crop&w=1920&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Umayyad Friday mosque begun 8th century; consecrated as cathedral after 1236; continuous fabric across centuries",
+      "patron": "Layered sacred monument — Islamic architectural heritage; active Catholic cathedral (Cabildo)",
+      "unesco": "Historic Centre of Córdoba (World Heritage); Mosque-Cathedral is the core monument",
+      "typicalVisit": "1.5–2.5 hours timed visit (+ patio)"
+    },
+    "related": [
+      "hagia-sophia",
+      "blue-mosque",
+      "sagrada-familia"
+    ],
+    "overview": {
+      "body": [
+        "The Mosque-Cathedral of Córdoba is one of Europe’s densest layered sacred monuments: an Umayyad hypostyle hall of repeating arches, a mihrab of extraordinary craft, and a Catholic cathedral inserted into the prayer hall after the Christian conquest — all still an active place of worship under the Cabildo.",
+        "SanctaWay frames the visit honestly: honour both the Islamic architectural achievement and the living Christian cathedral. This is not a “reconquista glory” selfie set, nor a ruined mosque theme park.",
+        "Tourist visits use timed entry sold on the official portal ticket.mezquita-catedraldecordoba.es. Hours split across morning and afternoon patterns and can pause for liturgy — recheck the same week, especially around feast days. Early weekday slots are usually quieter.",
+        "Inside: the forest of columns, the mihrab zone, Capilla Mayor, and the Patio de los Naranjos. Official audio guides and guided options exist through Cabildo channels — prefer those over aggressive street sellers.",
+        "Dress modestly, keep silence, and do not push tourist flow during Mass. Summer heat in the patio is real; carry water and plan shade between timed entries."
+      ],
+      "highlights": [
+        "UNESCO layered mosque-cathedral — hypostyle + Capilla Mayor",
+        "Official timed tickets: ticket.mezquita-catedraldecordoba.es",
+        "Active Catholic worship — no touring through Mass",
+        "Honest dual-heritage framing (no fake conquest glory copy)",
+        "Early weekday slots beat coach waves"
+      ]
+    },
+    "visit": {
+      "intro": "Timed paid tourist visit via Cabildo official portal; liturgy can block circulation.",
+      "hours": "Tourist visit windows are published on the official ticket site and can split morning/afternoon; liturgy blocks apply. Recheck same-week for feast days. Early weekday entries are usually calmer.",
+      "tickets": "Book timed entry at ticket.mezquita-catedraldecordoba.es (Cabildo). Free early-morning resident/special windows may exist — verify on official pages; do not invent them as a tourist guarantee. No third-party “skip line” as primary CTA. Confirm live € rates on the official portal.",
+      "dress": "Modest clothing suitable for an active cathedral (shoulders covered; avoid beachwear). Comfortable shoes for stone floors. Summer: sun hat for the orange-tree patio.",
+      "duration": "1.5–2.5 hours for hypostyle, mihrab views, Capilla Mayor, and patio.",
+      "access": "Historic stone floors; some uneven sections. Accessibility information is published by the Cabildo — check before promising full circuit access. Patio is outdoor and hot in summer.",
+      "tips": [
+        "Book only on ticket.mezquita-catedraldecordoba.es.",
+        "Arrive in your timed window; late arrivals risk denied entry.",
+        "Do not circulate as tourists during Mass.",
+        "Use official audio/guide options rather than street pitches.",
+        "Carry water for the Patio de los Naranjos in summer.",
+        "Recheck feast-day schedules the week you go.",
+        "Photograph respectfully — no climbing or touching historic fabric."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://ticket.mezquita-catedraldecordoba.es/",
+      "ticketsLabel": "Mezquita-Catedral de Córdoba — official tickets (Cabildo)",
+      "ticketsNote": "Timed tourist entry via official Cabildo portal only. Confirm live € rates. Ignore scalper skip-line apps as your primary plan."
+    },
+    "etiquette": {
+      "intro": "Dual identity — mosque architecture, active Catholic cathedral.",
+      "bullets": [
+        "Modest dress; shoulders covered.",
+        "Silence in prayer and chapel zones.",
+        "No tourist flow during Mass or reserved liturgy.",
+        "Do not touch columns, mihrab screens, or altar fabric.",
+        "Follow one-way routes and stewards.",
+        "Speak of both heritages with respect — no triumphalist posing.",
+        "Drones and pro kits only with authorisation."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach the Mosque-Cathedral.",
+      "paragraphs": [
+        "Córdoba’s historic centre is compact and walkable. From Córdoba train station, take a bus, taxi, or long walk into the old town toward the Mosque-Cathedral; allow time for narrow lanes and peak crowds.",
+        "Once in the Judería / cathedral district, follow signs to the official entrance for your ticketed slot. Busy lanes clog in late morning — build a buffer before your timed entry.",
+        "Day trips from Seville or Málaga are common; confirm return trains before lingering in the patio after your visit window."
+      ],
+      "bullets": [
+        "Train to Córdoba → bus/taxi/walk to old town",
+        "Timed entry: arrive early for security and lanes",
+        "Historic centre is largely pedestrian",
+        "Summer: shade and water between stops"
+      ]
+    },
+    "bestTime": {
+      "intro": "Early weekday timed slots; feast days need a fresh check.",
+      "paragraphs": [
+        "Morning openings before coach groups densify are the calmest. Summer afternoons combine heat and fatigue in the patio.",
+        "Holy Week and major Marian or cathedral feasts can alter tourist hours — always re-read the official ticket calendar the week of travel."
+      ],
+      "bullets": [
+        "Best: early weekday timed entry",
+        "Avoid assuming continuous all-day access",
+        "Feast weeks: verify liturgy blocks",
+        "Golden light in the patio is lovely — still keep your slot time"
+      ]
+    },
+    "notes": {
+      "intro": "注意事項 · Verify before visit",
+      "bullets": [
+        "Official tickets only via Cabildo portal.",
+        "No invented € fares or fake free-entry promises for tourists.",
+        "SanctaWay is informational; it does not sell Mezquita tickets.",
+        "Hero image is a placeholder (Unsplash) pending visual pass."
+      ]
+    }
+  },
+  {
+    "id": "temple-of-the-tooth",
+    "name": "Temple of the Tooth (Sri Dalada Maligawa)",
+    "shortName": "Temple of the Tooth",
+    "location": "Kandy, Sri Lanka",
+    "country": "Sri Lanka",
+    "region": "South Asia",
+    "regionSlug": "south-asia",
+    "religions": [
+      "Buddhist"
+    ],
+    "religionSlugs": [
+      "buddhist"
+    ],
+    "summary": "Sri Lanka’s foremost living Buddhist shrine — the Buddha’s tooth relic in Kandy; tickets and museum access via sridaladamaligawa.lk channels after security screening.",
+    "heroImage": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=1920&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Tooth relic tradition central to Sinhala Buddhist kingship; Kandy shrine complex developed as the kingdom’s sacred heart",
+      "patron": "Buddha’s tooth relic (Sri Dalada); living Theravada shrine",
+      "unesco": "Sacred City of Kandy (World Heritage)",
+      "typicalVisit": "1.5–3 hours (longer at puja peaks / Perahera season)"
+    },
+    "related": [
+      "mahabodhi",
+      "borobudur",
+      "golden-temple"
+    ],
+    "overview": {
+      "body": [
+        "Sri Dalada Maligawa — the Temple of the Tooth — stands by Kandy Lake as Sri Lanka’s foremost living Buddhist shrine, housing the relic of the Buddha’s tooth. It is the pilgrimage heart of Kandy and a core monument of the Sacred City of Kandy World Heritage listing.",
+        "Expect security screening, shoe removal, and modest dress (shoulders and knees covered — no shorts or sleeveless tops). Quiet in shrine rooms; follow staff queues for relic-viewing periods when the casket is presented during puja.",
+        "Tickets for the temple / museum complex are handled through official channels at sridaladamaligawa.lk. Foreign tickets are typically sold at official machines or counters; a museum e-ticket path has historically existed under the temple domain — verify what is live. Do not invent LKR fares. Confirm whether your ticket bundles Dalada, Buddhist, or tusker museum spaces.",
+        "Hours are long on most days — commonly early morning into evening — but always verify on the official site. Puja times are denser with devotees; Esala Perahera season is an extreme crowd peak needing separate planning.",
+        "Leave bulky bags at reception when required. Heat and humidity are constant. A calm loop of Kandy Lake pairs well after the shrine if you still have energy."
+      ],
+      "highlights": [
+        "Living tooth-relic shrine — Sacred City of Kandy",
+        "Official info & tickets: sridaladamaligawa.lk",
+        "Modest dress; shoes off; security screening",
+        "Puja / relic viewing denser than quiet midday hours",
+        "Esala Perahera = separate crowd plan"
+      ]
+    },
+    "visit": {
+      "intro": "Ticketed living shrine visit; dress code and security are non-negotiable.",
+      "hours": "Long daily hours are common (early morning to evening) — verify sridaladamaligawa.lk. Puja schedules concentrate devotees; Perahera nights transform the city. Last entry follows on-site rules.",
+      "tickets": "Temple / museum complex via sridaladamaligawa.lk. Foreign tickets typically at official machines/counters; museum e-ticket paths may exist under the temple domain (historically ibm.sridaladamaligawa.lk) — verify live. Confirm what your ticket covers (Dalada / Buddhist / tusker museums). Do not invent LKR fares.",
+      "dress": "Cover shoulders and knees; no shorts or sleeveless tops. Remove shoes before shrine floors. Light, modest fabric helps in humidity.",
+      "duration": "1.5–3 hours depending on puja timing and museum rooms; longer in Perahera season queues.",
+      "access": "Security screening at entry; stairs and crowded corridors in peak puja. Bulky bags often left at reception. Ask staff about step-free options if mobility is limited.",
+      "tips": [
+        "Check dress before you queue — wraps are sometimes sold nearby if needed.",
+        "Buy only at official temple machines/counters or verified temple-domain e-ticket paths.",
+        "Time a visit around puja if you want relic-viewing atmosphere — or avoid peak puja for calmer rooms.",
+        "Leave large bags at reception when instructed.",
+        "Shoes off; keep socks if marble is hot.",
+        "Perahera season: book lodging and timing separately — streets close.",
+        "Combine with a Kandy Lake walk after, not as a rushed photo stop only."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://sridaladamaligawa.lk/",
+      "ticketsLabel": "Sri Dalada Maligawa — official site",
+      "ticketsNote": "Confirm live LKR rates and what museum spaces your ticket includes on official temple channels. No invented fares."
+    },
+    "etiquette": {
+      "intro": "Foremost living Buddhist shrine of Sri Lanka — modest, quiet, queue-disciplined.",
+      "bullets": [
+        "Shoulders and knees covered at all times inside.",
+        "Shoes off in shrine areas.",
+        "Silence in relic and shrine rooms.",
+        "Follow queues for puja / relic viewing without cutting.",
+        "No flash photography where banned; ask before photographing devotees.",
+        "No shorts, sleeveless tops, or beachwear.",
+        "Obey security screening without argument."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach the Temple of the Tooth.",
+      "paragraphs": [
+        "In Kandy, the temple complex sits by the lake in the city centre. Walk or take a short tuk-tuk from most central hotels; allow time for security lines.",
+        "From other Sri Lankan cities, trains and buses into Kandy are standard; the station-to-temple transfer is short but traffic around the lake loops can stall.",
+        "During Esala Perahera, road closures and crowd control change every approach — follow police and temple notices rather than map apps alone."
+      ],
+      "bullets": [
+        "Kandy Lake / city-centre walk or tuk-tuk",
+        "Security screening at entry",
+        "Perahera: expect closures and heavy crowds",
+        "Keep valuables minimal through screening"
+      ]
+    },
+    "bestTime": {
+      "intro": "Puja atmosphere vs quieter rooms — choose intentionally; Perahera is its own season.",
+      "paragraphs": [
+        "Ordinary days: early morning or later evening can be cooler; midday humidity is heavy. Puja times are spiritually dense and physically crowded.",
+        "Esala Perahera is extraordinary and exhausting — plan lodging, viewing spots, and temple visits as separate logistics, not one spontaneous evening."
+      ],
+      "bullets": [
+        "Cooler: early morning entries",
+        "Puja peaks: arrive early for queues",
+        "Perahera: dedicated crowd plan required",
+        "Verify hours on sridaladamaligawa.lk before you go"
+      ]
+    },
+    "notes": {
+      "intro": "注意事項 · Verify before visit",
+      "bullets": [
+        "Confirm ticket coverage and LKR rates on official temple channels.",
+        "No invented fares or scalper CTAs.",
+        "SanctaWay is informational; it does not sell Dalada tickets.",
+        "Hero image is a placeholder (Unsplash) pending visual pass."
+      ]
+    }
+  },
+  {
+    "id": "itsukushima",
+    "name": "Itsukushima Shrine",
+    "shortName": "Itsukushima",
+    "location": "Miyajima (Itsukushima), Hiroshima Prefecture, Japan",
+    "country": "Japan",
+    "region": "East Asia",
+    "regionSlug": "east-asia",
+    "religions": [
+      "Shinto"
+    ],
+    "religionSlugs": [
+      "shinto"
+    ],
+    "summary": "UNESCO “floating” torii and seaside Shinto shrine on Miyajima — shrine admission at the entrance via itsukushimajinja.jp; ferry is separate; tide timing shapes the classic view.",
+    "heroImage": "https://images.unsplash.com/photo-1524413840807-0c3cb6fa808d?auto=format&fit=crop&w=1920&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Shrine tradition centuries deep; present seaside halls and great torii rebuilt across eras",
+      "patron": "Itsukushima kami (Ichikishima-hime and associated deities); Shinto shrine complex",
+      "unesco": "Itsukushima Shinto Shrine (World Heritage)",
+      "typicalVisit": "2–4 hours on Miyajima (shrine + shore); half day+ with Mt Misen"
+    },
+    "related": [
+      "fushimi-inari",
+      "meiji-shrine",
+      "todai-ji"
+    ],
+    "overview": {
+      "body": [
+        "Itsukushima Shrine on Miyajima is Japan’s most photographed seaside Shinto landmark — vermilion corridors and a great torii that appears to float at high tide, set against the World Heritage shrine complex at the water’s edge.",
+        "Reach Miyajima by JR to Miyajimaguchi then ferry (or other boat services), then walk about 10–15 minutes to the shrine. Ferry fares are separate from shrine admission. Tide timing matters: high tide for the floating torii; low tide exposes mudflat approaches — both are legitimate visits, different photos.",
+        "Shrine hours are seasonal — verify on itsukushimajinja.jp. Treasure Hall and Senjōkaku have separate, often shorter windows. Shrine admission (and optional Treasure Hall combo) is sold at the entrance; quote only “verify on the official admission page” for yen amounts.",
+        "This is an active Shinto shrine: purify at the temizuya, keep quiet in halls, and never climb the torii or sacred fences for photos. Deer on the island are wild — do not feed them.",
+        "Typhoon and high-wave days can close boardwalks. The ropeway to Mt Misen is a separate ticketed experience. Day trips from Hiroshima are the common pattern; overnighting on Miyajima softens dawn and dusk light."
+      ],
+      "highlights": [
+        "UNESCO seaside Shinto shrine + great torii",
+        "Admission at entrance — itsukushimajinja.jp",
+        "Ferry separate (JR / private operators)",
+        "Tide timing changes the torii view",
+        "Active shrine etiquette; no climbing the torii"
+      ]
+    },
+    "visit": {
+      "intro": "Ticketed shrine visit on Miyajima; ferry and Mt Misen are separate.",
+      "hours": "Shrine hours seasonal — verify itsukushimajinja.jp. Treasure Hall / Senjōkaku often shorter. Last entry follows on-site rules. Boardwalks may close in typhoon / high-wave conditions.",
+      "tickets": "Shrine admission (+ optional Treasure Hall combo) sold at the entrance. Official admission page: itsukushimajinja.jp. Ferry is separate (JR West / private operators). Mt Misen ropeway is a separate ticketed experience. Do not invent yen fares — verify on the official admission page.",
+      "dress": "Comfortable walking shoes for shore paths and shrine boards. Modest, respectful clothing for an active shrine. Rain layer for Seto weather swings.",
+      "duration": "1–2 hours for shrine + torii shore; 3–5 hours if you add ropeway / Mt Misen; full day if you linger for tide change.",
+      "access": "Boardwalks over water; some steps. Tide and wave conditions affect shore access near the torii. Check official notices for closures. Ropeway has its own access rules.",
+      "tips": [
+        "Check tide tables if you care about the floating torii photo.",
+        "Buy shrine admission at the official entrance — verify yen on itsukushimajinja.jp.",
+        "Purify at the temizuya; keep quiet in halls.",
+        "Never climb the torii or sacred fences.",
+        "Do not feed Miyajima’s deer.",
+        "Ferry and ropeway tickets are separate products.",
+        "Watch typhoon / high-wave closure notices before you sail."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://www.itsukushimajinja.jp/",
+      "ticketsLabel": "Itsukushima Shrine — official site (admission)",
+      "ticketsNote": "Shrine admission at entrance; confirm live yen on the official admission page. Ferry and Mt Misen ropeway are separate."
+    },
+    "etiquette": {
+      "intro": "Active seaside Shinto shrine — purify, quiet, no stunt photos on the torii.",
+      "bullets": [
+        "Purify hands/mouth at the temizuya before entering.",
+        "Quiet voices in shrine halls and corridors.",
+        "No climbing the great torii or sacred fences.",
+        "Do not feed or chase deer.",
+        "Follow one-way flow on crowded boardwalks.",
+        "Obey closure ropes in high waves.",
+        "Tripods only where staff allow — do not block worshippers."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Itsukushima Shrine.",
+      "paragraphs": [
+        "From Hiroshima, take JR to Miyajimaguchi Station, then the ferry to Miyajima. Walk roughly 10–15 minutes along the shore to the shrine. Direct boat services from Hiroshima also exist seasonally — confirm operators.",
+        "JR West ferry often packages with rail passes for eligible travellers; private ferries run alongside. Either way, shrine admission is still separate at the entrance.",
+        "On the island, expect pedestrian crowds near the torii shore. For Mt Misen, continue to the ropeway base — that ticket is not included with shrine admission."
+      ],
+      "bullets": [
+        "JR → Miyajimaguchi → ferry → walk to shrine",
+        "Ferry ≠ shrine ticket",
+        "Tide check for floating-torii photos",
+        "Day-trip from Hiroshima is standard"
+      ]
+    },
+    "bestTime": {
+      "intro": "High tide + soft light; typhoon days cancel the postcard.",
+      "paragraphs": [
+        "Sunset near high tide is the classic combination, but ferry return times matter — do not miss the last boat. Early morning on weekdays is calmer for the corridors.",
+        "Cherry blossom and autumn peaks pack the island. Midsummer heat and winter wind each need different layers. Always recheck wave warnings."
+      ],
+      "bullets": [
+        "High tide for floating torii; low tide for mudflat walk-up photos",
+        "Weekday mornings quieter in the shrine",
+        "Confirm last ferry before sunset plans",
+        "Typhoon / high-wave: boardwalks may close"
+      ]
+    },
+    "notes": {
+      "intro": "注意事項 · Verify before visit",
+      "bullets": [
+        "Confirm shrine hours and yen admission on itsukushimajinja.jp.",
+        "No invented fares; ferry and ropeway are separate.",
+        "SanctaWay is informational; it does not sell Miyajima tickets.",
+        "Hero image is a placeholder (Unsplash) pending visual pass."
       ]
     }
   }

@@ -1743,5 +1743,525 @@
         "SanctaWay is informational; it does not sell tickets or grant access."
       ]
     }
+  },
+  {
+    "id": "wong-tai-sin",
+    "name": "Wong Tai Sin Temple",
+    "shortName": "Wong Tai Sin",
+    "location": "Wong Tai Sin, Kowloon, Hong Kong",
+    "country": "Hong Kong",
+    "region": "East Asia",
+    "regionSlug": "east-asia",
+    "religions": [
+      "Taoist"
+    ],
+    "religionSlugs": [
+      "taoist"
+    ],
+    "summary": "Kowloon’s busy Sik Sik Yuen temple — incense, kau chim, and courtyard halls a short walk from the MTR.",
+    "heroImage": "https://images.unsplash.com/photo-1508804185872-d7aad8140ce7?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash (prototype placeholder — replace before production)",
+    "featured": true,
+    "quickFacts": {
+      "founded": "1921 (Sik Sik Yuen Wong Tai Sin Temple in Hong Kong)",
+      "patron": "Wong Tai Sin (Taoist deity)",
+      "unesco": "—",
+      "typicalVisit": "1–2 hours"
+    },
+    "related": [
+      "chi-lin",
+      "man-mo",
+      "po-lin",
+      "che-kung"
+    ],
+    "overview": {
+      "body": [
+        "Wong Tai Sin Temple (Sik Sik Yuen) sits in northern Kowloon beside the MTR station that shares its name. It is one of Hong Kong’s most visited working temples — courtyards, pavilions, and a steady stream of worshippers seeking guidance.",
+        "The complex includes the main temple halls, Good Wish Garden, and the optional Taisui Yuenchen Hall. Architecture mixes traditional Chinese forms with a lively urban setting; expect incense smoke and queues on lunar first and fifteenth days."
+      ],
+      "highlights": [
+        "Active Taoist worship and kau chim (fortune sticks)",
+        "Courtyard halls and Good Wish Garden",
+        "Three-minute walk from Wong Tai Sin MTR Exit B2",
+        "Optional Taisui Yuenchen Hall (separate admission)"
+      ]
+    },
+    "visit": {
+      "intro": "Main temple grounds are free; some halls and religious services have separate fees — check Sik Sik Yuen before you go.",
+      "hours": "Temple typically 7:30am–4:30pm daily; on the 1st and 15th of the lunar month often open later (commonly to 9:00pm). Good Wish Garden and Taisui Yuenchen Hall usually 8:00am–4:30pm — verify on the official site before visit.",
+      "tickets": "Main temple: free. Taisui Yuenchen Hall: HK$100 per person (half-price for seniors 65+ and people with disabilities) per Sik Sik Yuen; prayer/service fees may apply separately. Donations support the Yuen’s charitable work.",
+      "dress": "Modest clothing preferred in halls. Comfortable shoes for courtyard walking.",
+      "duration": "1–2 hours for the main grounds; longer if joining queues or visiting optional halls.",
+      "access": "Mostly level courtyards from the MTR approach. Some steps into halls. Contact the temple for disability assistance needs.",
+      "tips": [
+        "Exit B2 at Wong Tai Sin MTR — about a 3-minute walk.",
+        "Lunar 1st/15th and festival days are meaningfully busier and may run later hours.",
+        "Incense and kau chim stalls are common; follow posted rules and attendants.",
+        "Recheck https://www.wongtaisintemple.org.hk/ within a week of travel."
+      ],
+      "entryType": "free",
+      "ticketsUrl": "https://www.wongtaisintemple.org.hk/en/about-wong-tai-sin",
+      "ticketsLabel": "Sik Sik Yuen — hours & admission FAQ",
+      "ticketsNote": "Main grounds free. Optional Taisui Yuenchen Hall fee listed on the official FAQ (HK$100 as published; verify current rate)."
+    },
+    "etiquette": {
+      "intro": "This is an active place of worship — keep the pace of devotees in mind.",
+      "bullets": [
+        "Keep voices low in halls; do not block prayer queues.",
+        "Follow posted rules for incense, photography, and kau chim.",
+        "Do not touch offerings, statues, or ritual objects.",
+        "Ask before photographing people at prayer.",
+        "If unsure, ask a steward quietly."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Wong Tai Sin Temple.",
+      "paragraphs": [
+        "Take the MTR Kwun Tong Line to Wong Tai Sin Station, Exit B2, then walk about three minutes to the temple gate.",
+        "Taxis and buses also serve the district; the rail exit is the simplest for first-time visitors."
+      ],
+      "bullets": [
+        "Address (official): 2 Chuk Yuen Village, Wong Tai Sin, Kowloon",
+        "Prefer MTR over unmarked offers near the gate",
+        "Allow extra time on lunar 1st/15th and Chinese New Year periods"
+      ]
+    },
+    "bestTime": {
+      "intro": "When the temple is calmer — and when it fills.",
+      "paragraphs": [
+        "Weekday mid-mornings are usually quieter than weekends and lunar festival peaks.",
+        "The 1st and 15th of each lunar month, and major Taoist festival days, bring dense crowds and longer stays — meaningful for worship, harder for a quick photo stop."
+      ],
+      "bullets": [
+        "Avoid peak lunar festival hours if you want space to move",
+        "Summer heat and incense smoke can feel intense in courtyards — carry water",
+        "Recheck hours before lunar new year visits"
+      ]
+    },
+    "notes": {
+      "intro": "注意事項 · Verify before visit",
+      "bullets": [
+        "Hours and optional hall fees can change — use Sik Sik Yuen’s official site as source of truth.",
+        "Typhoon and rainstorm signals may affect opening; check local weather alerts.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Combine with nearby Chi Lin Nunnery / Nan Lian Garden if you have a half-day in Kowloon."
+      ]
+    }
+  },
+  {
+    "id": "chi-lin",
+    "name": "Chi Lin Nunnery & Nan Lian Garden",
+    "shortName": "Chi Lin Nunnery",
+    "location": "Diamond Hill, Kowloon, Hong Kong",
+    "country": "Hong Kong",
+    "region": "East Asia",
+    "regionSlug": "east-asia",
+    "religions": [
+      "Buddhist"
+    ],
+    "religionSlugs": [
+      "buddhist"
+    ],
+    "summary": "Diamond Hill’s Tang-style timber nunnery paired with the classical Nan Lian Garden — quiet courtyards a short walk from the MTR.",
+    "heroImage": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash (prototype placeholder — replace before production)",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Nunnery 1934; Tang-style halls rebuilt 1990s; Nan Lian Garden opened 2006",
+      "patron": "Buddhist nunnery community",
+      "unesco": "—",
+      "typicalVisit": "2–3 hours"
+    },
+    "related": [
+      "wong-tai-sin",
+      "po-lin",
+      "ten-thousand-buddhas",
+      "todai-ji"
+    ],
+    "overview": {
+      "body": [
+        "Chi Lin Nunnery and the neighbouring Nan Lian Garden form one of Hong Kong’s calmest urban sacred landscapes. The nunnery’s timber halls follow Tang-dynasty building methods; across a short link, Nan Lian Garden offers Tang-style pavilions, rockeries, and ponds managed with Leisure and Cultural Services Department partners.",
+        "Both sites are typically free to enter and draw visitors for quiet walking rather than spectacle. Weather closures apply under tropical cyclone and black rainstorm signals — confirm before you set out."
+      ],
+      "highlights": [
+        "Tang-style timber halls at Chi Lin Nunnery",
+        "Nan Lian Garden ponds, pavilions, and rockeries",
+        "Vegetarian dining and tea options in/near the garden (book where required)",
+        "Easy pairing with Wong Tai Sin Temple on the same Kowloon day"
+      ]
+    },
+    "visit": {
+      "intro": "Nunnery and garden entry are typically free. Separate venues (teahouse, vegetarian restaurant, galleries) keep their own hours and may need bookings.",
+      "hours": "Chi Lin Nunnery: typically 9:00am–4:30pm daily (closes under Tropical Cyclone Signal No. 3+ or Black Rainstorm — verify reopening rules on chilin.org). Nan Lian Garden: typically 7:00am–9:00pm daily (closes under Signal No. 8+). Recheck official pages before visit.",
+      "tickets": "General entry to the nunnery and Nan Lian Garden is free. Meals, tea, and some indoor venues are separate — book vegetarian dining ahead when busy.",
+      "dress": "Modest clothing in halls. Comfortable shoes for garden paths; limited shade in places.",
+      "duration": "2–3 hours for nunnery plus a leisurely garden loop.",
+      "access": "Paths are generally wide and step-aware compared with hillside temples; some thresholds and bridges remain. Check on-site for step-free routes.",
+      "tips": [
+        "MTR Diamond Hill — follow signs toward Chi Lin Drive / Nan Lian Garden.",
+        "Visit the nunnery first if you arrive after 9:00am; the garden opens earlier.",
+        "Bring sun protection — parts of the garden have little shade.",
+        "Official contacts: Chi Lin (chilin.org) and LCSD Nan Lian Garden pages."
+      ],
+      "entryType": "free",
+      "ticketsUrl": "https://en.chilin.org/news-en/contact-zp.html",
+      "ticketsLabel": "Chi Lin / Nan Lian — official hours & weather closures",
+      "ticketsNote": "Entry typically free. Hours and typhoon closures per Chi Lin and LCSD notices — verify before travel."
+    },
+    "etiquette": {
+      "intro": "Chi Lin remains a working nunnery — treat halls as places of practice, not only scenery.",
+      "bullets": [
+        "Keep voices low; silence phones in halls.",
+        "Do not enter roped-off or monastic-only areas.",
+        "Follow photography signs; avoid photographing people at prayer.",
+        "Stay on paths in the garden; do not climb rockeries or railings.",
+        "Dispose of litter in bins — the garden is carefully maintained."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Chi Lin Nunnery and Nan Lian Garden.",
+      "paragraphs": [
+        "Take the MTR to Diamond Hill Station and follow pedestrian signs to Chi Lin Drive (nunnery) and Fung Tak Road / Nan Lian Garden. The two sites sit next to each other and are often visited as one outing.",
+        "Wong Tai Sin Temple is a short onward hop on the same rail corridor if you are building a Kowloon temple half-day."
+      ],
+      "bullets": [
+        "Nunnery address (official): 5 Chi Lin Drive, Diamond Hill, Kowloon",
+        "Nan Lian Garden address (LCSD): 60 Fung Tak Road, Diamond Hill, Kowloon",
+        "Prefer MTR and signed footbridges over unmarked rides at the gate"
+      ]
+    },
+    "bestTime": {
+      "intro": "Light, heat, and weather shape this pair more than tickets.",
+      "paragraphs": [
+        "Weekday mornings offer softer light on timber halls and quieter paths. Weekends and public holidays draw more garden strollers.",
+        "Typhoon and black rainstorm signals can close one or both sites — always check before leaving the hotel."
+      ],
+      "bullets": [
+        "Arrive near nunnery opening for calmer halls",
+        "Late afternoon in the garden can be pleasant outside peak summer",
+        "Summer heat: carry water and sun cover"
+      ]
+    },
+    "notes": {
+      "intro": "注意事項 · Verify before visit",
+      "bullets": [
+        "Hours and weather closures differ between nunnery and garden — read both notices.",
+        "Vegetarian restaurant and teahouse hours are separate from garden admission.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero images in this draft are Unsplash placeholders — replace with credited production photography."
+      ]
+    }
+  },
+  {
+    "id": "man-mo",
+    "name": "Man Mo Temple (Sheung Wan)",
+    "shortName": "Man Mo Temple",
+    "location": "Sheung Wan, Hong Kong Island",
+    "country": "Hong Kong",
+    "region": "East Asia",
+    "regionSlug": "east-asia",
+    "religions": [
+      "Taoist"
+    ],
+    "religionSlugs": [
+      "taoist"
+    ],
+    "summary": "Hollywood Road’s historic temple to the civil and martial deities — incense coils under a low timber roof in Sheung Wan.",
+    "heroImage": "https://images.unsplash.com/photo-1518684079-3c830dcef090?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash (prototype placeholder — replace before production)",
+    "featured": true,
+    "quickFacts": {
+      "founded": "1847; managed by Tung Wah since 1908",
+      "patron": "Man Cheong (God of Literature) & Mo Tai / Kwan Tai (God of War)",
+      "unesco": "—",
+      "typicalVisit": "30–60 minutes"
+    },
+    "related": [
+      "wong-tai-sin",
+      "che-kung",
+      "po-lin",
+      "chi-lin"
+    ],
+    "overview": {
+      "body": [
+        "Man Mo Temple on Hollywood Road is among Hong Kong Island’s oldest surviving Chinese temples, built by local residents in 1847 and managed by Tung Wah Group of Hospitals since 1908. It honours Man Cheong and Mo Tai — the literary and martial deities — and still serves as a working place of worship.",
+        "Inside, large incense coils hang above a compact, atmospheric hall. The surrounding Sheung Wan streets mix antique shops and steep lanes; the visit is short but dense with local religious practice."
+      ],
+      "highlights": [
+        "1847 temple under Tung Wah management",
+        "Incense coils and historic temple furnishings",
+        "Compact stop on a Sheung Wan / Mid-Levels walk",
+        "Free entry; active worship continues daily"
+      ]
+    },
+    "visit": {
+      "intro": "Entry is free. The temple is small — expect brief visits and respect ongoing worship.",
+      "hours": "Typically 8:00am–6:00pm daily; on lunar 1st and 15th and festival days often 7:00am–6:00pm (Tung Wah / TWGHs published hours) — verify before visit.",
+      "tickets": "Free admission. Incense and offerings are available for purchase on site for worshippers; no ticket is required to enter.",
+      "dress": "Modest clothing. The hall is compact — backpacks can feel bulky in crowds.",
+      "duration": "30–60 minutes including nearby Hollywood Road.",
+      "access": "Steps and a raised threshold; space inside is limited. TWGHs asks visitors needing assistance to phone ahead (see official temple page).",
+      "tips": [
+        "Address: 124–126 Hollywood Road, Sheung Wan.",
+        "Combine with the surrounding heritage streets rather than treating it as a half-day destination.",
+        "Smoke from incense can be strong — step outside if needed.",
+        "Official reference: Tung Wah Man Mo Temple pages."
+      ],
+      "entryType": "free",
+      "ticketsUrl": "https://temples.tungwahcsd.org/twghs-man-mo-temple?_lang=en",
+      "ticketsLabel": "TWGHs Man Mo Temple — hours & contacts",
+      "ticketsNote": "Free entry. Hours per Tung Wah listings — reconfirm before travel."
+    },
+    "etiquette": {
+      "intro": "A working temple on a busy tourist street — give worshippers priority.",
+      "bullets": [
+        "Do not block the altar or incense queues for photos.",
+        "Keep voices low; remove hats in the hall if customary signs request it.",
+        "Ask before photographing people at prayer.",
+        "Do not touch plaques, bells, or ritual furnishings.",
+        "Follow staff guidance — space is limited."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Man Mo Temple.",
+      "paragraphs": [
+        "Walk from Sheung Wan or Central MTR along Hollywood Road, or take a tram/bus to the Sheung Wan corridor and continue on foot. The temple sits mid-block at 124–126 Hollywood Road.",
+        "Steep side streets connect toward Mid-Levels; wear shoes with grip if you continue uphill after the visit."
+      ],
+      "bullets": [
+        "District: Central & Western, Hong Kong Island",
+        "Nearest rail: Sheung Wan MTR (then walk)",
+        "Phone ahead for accessibility help per TWGHs notice"
+      ]
+    },
+    "bestTime": {
+      "intro": "Short visits work best outside festival peaks.",
+      "paragraphs": [
+        "Weekday mornings are usually easier for a quiet look at the coils and altars.",
+        "Lunar festival days and deity birthdays bring more worshippers — rewarding if you want atmosphere, slower if you want photos without crowds."
+      ],
+      "bullets": [
+        "Avoid lunchtime tour-group surges when possible",
+        "Incense smoke is heavier when many coils are lit",
+        "Pair with a cooler-season Sheung Wan walk"
+      ]
+    },
+    "notes": {
+      "intro": "注意事項 · Verify before visit",
+      "bullets": [
+        "This entry covers the Sheung Wan Hollywood Road Man Mo Temple managed by Tung Wah — not other Man Mo temples elsewhere.",
+        "Rules and hours can change; use TWGHs pages as source of truth.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "No gift hard-sell in this guide — soft HKTG link remains site footer only."
+      ]
+    }
+  },
+  {
+    "id": "che-kung",
+    "name": "Che Kung Temple (Sha Tin)",
+    "shortName": "Che Kung Temple",
+    "location": "Sha Tin, New Territories, Hong Kong",
+    "country": "Hong Kong",
+    "region": "East Asia",
+    "regionSlug": "east-asia",
+    "religions": [
+      "Taoist"
+    ],
+    "religionSlugs": [
+      "taoist"
+    ],
+    "summary": "Sha Tin’s temple to General Che — wind wheels, incense, and dense crowds on the second day of Chinese New Year.",
+    "heroImage": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash (prototype placeholder — replace before production)",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Origins late Ming; renovated 1890; present main temple built 1994 (CTC)",
+      "patron": "Che Kung (General Che), Song-dynasty general in local tradition",
+      "unesco": "—",
+      "typicalVisit": "45–90 minutes"
+    },
+    "related": [
+      "ten-thousand-buddhas",
+      "wong-tai-sin",
+      "man-mo",
+      "po-lin"
+    ],
+    "overview": {
+      "body": [
+        "Che Kung Temple in Sha Tin honours Che Kung (General Che), remembered in local tradition as a Song-dynasty general associated with loyalty and protection from epidemic. The Chinese Temples Committee notes origins at the end of the Ming dynasty, a renovation in 1890, and construction of the present larger temple in 1994 in front of the older hall.",
+        "It remains a working temple: incense, oracle sticks, and the large fan-bladed wind wheels that worshippers turn for good fortune. The busiest moment of the year is usually the second day of the first lunar month."
+      ],
+      "highlights": [
+        "Wind wheels and active Taoist / folk worship",
+        "Direct access via Che Kung Temple MTR station",
+        "Chinese New Year peak (2nd day of 1st lunar month)",
+        "Easy half-day pairing with Ten Thousand Buddhas Monastery"
+      ]
+    },
+    "visit": {
+      "intro": "Entry is free. Festival days — especially early Chinese New Year — require crowd patience, not tickets.",
+      "hours": "Typically 8:00am–6:00pm daily (Chinese Temples Committee listing) — verify before visit, especially around lunar festivals.",
+      "tickets": "Free admission. Incense and ritual items may be purchased for worship; no ticket gate for general entry.",
+      "dress": "Modest clothing. Comfortable shoes; courtyards can be crowded.",
+      "duration": "45–90 minutes outside peak festival; longer in queues at Chinese New Year.",
+      "access": "Generally level temple courts from the MTR approach; expect congestion rather than long climbs. Confirm step-free details on site if needed.",
+      "tips": [
+        "MTR Tuen Ma Line: Che Kung Temple Station, or walk from Tai Wai along Che Kung Miu Road (~10 minutes per CTC).",
+        "Four Che Kung festival dates yearly; the 2nd day of the 1st lunar month is the densest.",
+        "Turn wind wheels only as local custom and posted guidance allow — do not force past worshippers.",
+        "Official reference: Chinese Temples Committee Che Kung Temple (Sha Tin) page."
+      ],
+      "entryType": "free",
+      "ticketsUrl": "https://www.ctc.org.hk/en/temple/%e6%b2%99%e7%94%b0%e8%bb%8a%e5%85%ac%e5%bb%9f/",
+      "ticketsLabel": "Chinese Temples Committee — Che Kung Temple, Sha Tin",
+      "ticketsNote": "Free entry. Hours and festival notes per CTC — reconfirm before travel."
+    },
+    "etiquette": {
+      "intro": "Respect the tempo of worship — especially when wind wheels and drums draw queues.",
+      "bullets": [
+        "Do not push to the front of offering or wheel lines.",
+        "Keep voices low inside halls.",
+        "Ask before photographing people at prayer.",
+        "Follow attendants during festival crowd control.",
+        "Leave ritual objects and offerings untouched."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Che Kung Temple.",
+      "paragraphs": [
+        "The simplest approach is MTR to Che Kung Temple Station (Tuen Ma Line), then a short walk to the temple on Che Kung Miu Road. CTC also notes a roughly ten-minute walk from Tai Wai along Che Kung Miu Road.",
+        "Ten Thousand Buddhas Monastery is a separate hillside stop near Sha Tin Station — plan walking time if combining both."
+      ],
+      "bullets": [
+        "Address: Che Kung Miu Road, Sha Tin, New Territories",
+        "Tel (CTC listing): 2603 4049",
+        "Prefer rail; festival traffic can stall roads"
+      ]
+    },
+    "bestTime": {
+      "intro": "Ordinary weekdays versus lunar new year are different visits.",
+      "paragraphs": [
+        "For a calmer look at the halls and wheels, choose a weekday outside the first lunar month rush.",
+        "If you specifically want the festival atmosphere, go early on the 2nd day of the 1st lunar month and expect dense crowds — CTC flags this as the busiest date."
+      ],
+      "bullets": [
+        "Other Che Kung festival dates: 27th of 3rd lunar month; 6th of 6th; 16th of 8th (CTC)",
+        "Summer heat in open courts — carry water",
+        "Pair with Ten Thousand Buddhas only if you have energy for stairs later"
+      ]
+    },
+    "notes": {
+      "intro": "注意事項 · Verify before visit",
+      "bullets": [
+        "Festival crowd plans change yearly — check transport notices before Chinese New Year.",
+        "Hours can shift for maintenance; use CTC as source of truth.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Do not invent fares — general entry remains free as of CTC listings used for this draft."
+      ]
+    }
+  },
+  {
+    "id": "ten-thousand-buddhas",
+    "name": "Ten Thousand Buddhas Monastery",
+    "shortName": "Ten Thousand Buddhas",
+    "location": "Sha Tin, New Territories, Hong Kong",
+    "country": "Hong Kong",
+    "region": "East Asia",
+    "regionSlug": "east-asia",
+    "religions": [
+      "Buddhist"
+    ],
+    "religionSlugs": [
+      "buddhist"
+    ],
+    "summary": "Sha Tin hillside monastery reached by a long stair lined with golden Buddha statues — free entry, steep approach.",
+    "heroImage": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash (prototype placeholder — replace before production)",
+    "featured": true,
+    "quickFacts": {
+      "founded": "1950s (founded by Yuet Kai; complex developed mid-20th century)",
+      "patron": "Buddhist monastic community (Yuet Kai lineage)",
+      "unesco": "—",
+      "typicalVisit": "2–2.5 hours (including climb)"
+    },
+    "related": [
+      "che-kung",
+      "po-lin",
+      "chi-lin",
+      "borobudur"
+    ],
+    "overview": {
+      "body": [
+        "Ten Thousand Buddhas Monastery (Man Fat Tsz) rises above Pai Tau Village in Sha Tin. The signature approach is a long outdoor staircase lined with golden Buddha figures in varied poses — a slow climb rather than a flat courtyard visit.",
+        "At the top, halls, a pagoda, and terraces overlook the new town. Entry is commonly free; donations are appreciated. The stairs make this a poor choice for visitors with significant mobility limits — plan accordingly."
+      ],
+      "highlights": [
+        "Hundreds of golden Buddha statues along the ascent",
+        "Hilltop halls and pagoda views over Sha Tin",
+        "Free entry; donations welcome",
+        "Pair with Che Kung Temple for a Sha Tin sacred half-day"
+      ]
+    },
+    "visit": {
+      "intro": "No ticket gate in normal operation — budget time and fitness for the stairs, not admission fees.",
+      "hours": "Commonly cited as about 9:00am–5:30pm daily — verify on-site or via current visitor notices before travel; last entry may be earlier than closing.",
+      "tickets": "Entry is typically free; donations welcome. Small stalls may sell incense, drinks, or snacks — prices are separate from admission.",
+      "dress": "Modest clothing in halls. Closed-toe shoes with grip for uneven steps; avoid smooth soles in rain.",
+      "duration": "2–2.5 hours round trip including the climb for most visitors.",
+      "access": "Steep staircase approach (several hundred steps). Handrails exist on much of the route but steps can be uneven and slippery when wet. Not recommended for visitors with significant mobility or knee difficulties.",
+      "tips": [
+        "MTR East Rail to Sha Tin Station, then walk toward Pai Tau Village and follow signs to the monastery staircase.",
+        "Carry water; shade is limited on parts of the climb.",
+        "Descend carefully — wet stone is slick.",
+        "Hours are less formally published than CTC/TWGHs temples — treat times as verify-before-visit."
+      ],
+      "entryType": "donation",
+      "ticketsUrl": null,
+      "ticketsLabel": null,
+      "ticketsNote": "No reliable official e-ticket page; entry typically free with optional donations. Verify hours on arrival or recent local notices."
+    },
+    "etiquette": {
+      "intro": "Treat the staircase statues and hilltop halls as part of a living monastery landscape.",
+      "bullets": [
+        "Do not climb on statues or block the stair for long photo sessions.",
+        "Keep right when possible so climbers can pass.",
+        "Voices low in halls; follow any no-photo signs.",
+        "Ask before photographing people at prayer.",
+        "Pack out rubbish if bins are full."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Ten Thousand Buddhas Monastery.",
+      "paragraphs": [
+        "Ride the MTR East Rail Line to Sha Tin Station, exit toward Pai Tau, and walk about 10–15 minutes to the base of the monastery stairs. The climb itself often takes 20–30 minutes depending on fitness and stops for photos.",
+        "Che Kung Temple is nearby on the same Sha Tin / Tai Wai corridor but is a separate stop — do not assume a single continuous footpath without checking a map."
+      ],
+      "bullets": [
+        "Area: Pai Tau Village hillside, Sha Tin, New Territories",
+        "No cable car — stairs are the main approach",
+        "Start earlier in the day so you are not descending at dusk"
+      ]
+    },
+    "bestTime": {
+      "intro": "Cooler air and clear mornings make the climb kinder.",
+      "paragraphs": [
+        "Weekday mornings are usually less congested on the stairs. Weekends and holidays can create two-way bottlenecks.",
+        "October–April is generally more comfortable than peak summer humidity; after rain, expect slippery steps."
+      ],
+      "bullets": [
+        "Avoid midday summer heat on the exposed stair",
+        "Carry water and sun protection year-round",
+        "Skip the climb during typhoon or black rainstorm signals"
+      ]
+    },
+    "notes": {
+      "intro": "注意事項 · Verify before visit",
+      "bullets": [
+        "Hours here are intentionally verify-oriented — confirm locally; do not treat draft times as guaranteed.",
+        "Mobility: this site is stair-first; choose Chi Lin / Wong Tai Sin for flatter alternatives.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Founded/complex dates vary slightly across secondary sources — prefer cautious wording over false precision."
+      ]
+    }
   }
 ]

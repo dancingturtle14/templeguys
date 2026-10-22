@@ -1,5 +1,6 @@
 import type { ReactNode } from 'react'
 import { Layout } from './components/Layout'
+import { metaForRoute, useDocumentMeta } from './lib/documentMeta'
 import { useRouter } from './lib/router'
 import { regionLabel, religionLabel } from './lib/temples'
 import { AboutPage } from './pages/About'
@@ -7,6 +8,13 @@ import { ExplorePage } from './pages/Explore'
 import { HomePage } from './pages/Home'
 import { NotFoundPage } from './pages/NotFound'
 import { TempleDetailPage } from './pages/TempleDetail'
+
+function DocumentHead() {
+  const { route } = useRouter()
+  const { title, description } = metaForRoute(route)
+  useDocumentMeta(title, description)
+  return null
+}
 
 export default function App() {
   const { route } = useRouter()
@@ -53,5 +61,10 @@ export default function App() {
       page = <NotFoundPage />
   }
 
-  return <Layout>{page}</Layout>
+  return (
+    <Layout>
+      <DocumentHead />
+      {page}
+    </Layout>
+  )
 }

@@ -20,6 +20,7 @@ export const religions = [
   { slug: 'sikh', label: 'Sikh' },
   { slug: 'islamic', label: 'Islamic' },
   { slug: 'christian', label: 'Christian' },
+  { slug: 'taoist', label: 'Taoist' },
 ] as const
 
 export function getTemple(id: string) {

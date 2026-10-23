@@ -28,7 +28,7 @@
     "related": [
       "borobudur",
       "prambanan",
-      "wat-phra-kaew"
+      "bagan"
     ],
     "overview": {
       "body": [
@@ -372,7 +372,7 @@
     "related": [
       "meiji-shrine",
       "fushimi-inari",
-      "kiyomizu-dera"
+      "bulguksa"
     ],
     "overview": {
       "body": [
@@ -4843,7 +4843,7 @@
     "related": [
       "blue-mosque",
       "hagia-sophia",
-      "taj-mahal"
+      "kairouan"
     ],
     "overview": {
       "body": [
@@ -5073,7 +5073,7 @@
     "related": [
       "cologne-cathedral",
       "notre-dame",
-      "milan-duomo"
+      "lourdes"
     ],
     "overview": {
       "body": [
@@ -5188,7 +5188,7 @@
     "related": [
       "acropolis-parthenon",
       "machu-picchu",
-      "chichen-itza"
+      "gobekli-tepe"
     ],
     "overview": {
       "body": [
@@ -5647,7 +5647,7 @@
     "related": [
       "kashi-vishwanath",
       "golden-temple",
-      "ellora"
+      "tirupati"
     ],
     "overview": {
       "body": [
@@ -5875,7 +5875,7 @@
     "related": [
       "stonehenge",
       "petra",
-      "meteora"
+      "delphi"
     ],
     "overview": {
       "body": [
@@ -6787,7 +6787,7 @@
     "related": [
       "chichen-itza",
       "teotihuacan",
-      "machu-picchu"
+      "palenque"
     ],
     "overview": {
       "body": [
@@ -7327,6 +7327,915 @@
       "bullets": [
         "Confirm hours, fees, and liturgy rules on direzionemuseiroma.cultura.gov.it / Musei Italiani.",
         "Fee remodelled 1 July 2026 — verify live EUR; do not invent fares.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "gobekli-tepe",
+    "name": "Göbekli Tepe, Şanlıurfa",
+    "shortName": "Göbekli Tepe",
+    "location": "Dağeteği, northeast of Şanlıurfa",
+    "country": "Türkiye",
+    "region": "Middle East",
+    "regionSlug": "middle-east",
+    "religions": [
+      "Prehistoric"
+    ],
+    "religionSlugs": [
+      "prehistoric"
+    ],
+    "summary": "UNESCO Neolithic ceremonial precinct (~9600 BCE T-pillars) — world’s highest-demand “oldest temple” archaeology draw. Official: muze.gov.tr (Göbeklitepe Örenyeri); combined site + animation ticket often sold at the gişe. Do not invent TRY/EUR fares.",
+    "heroImage": "https://images.unsplash.com/photo-1564507592333-c60657eea523?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Monumental enclosures from roughly the 10th millennium BCE; UNESCO inscribed 2018",
+      "patron": "Neolithic ceremonial landscape (T-pillar enclosures; early organised ritual architecture)",
+      "unesco": "UNESCO World Heritage — Göbekli Tepe",
+      "typicalVisit": "Half day on site; add Şanlıurfa Archaeological Museum for excavated sculptures"
+    },
+    "related": [
+      "stonehenge",
+      "petra",
+      "acropolis-parthenon"
+    ],
+    "overview": {
+      "body": [
+        "Göbekli Tepe above Şanlıurfa is a UNESCO Neolithic ceremonial precinct whose T-shaped limestone pillars and animal reliefs make it the world’s highest-demand “oldest temple” archaeology day — Threshold Atlas frames it as an early ceremonial landscape, not an alien-temple meme.",
+        "Visitors walk sheltered boardwalks over excavated enclosures; many iconic sculptures sit in Şanlıurfa Archaeological Museum, so pairing museum + örenyeri is the honest full context day. Stay on marked routes; do not climb pillars.",
+        "Official information and product pages: Republic of Türkiye Ministry of Culture and Tourism / DoSIM via muze.gov.tr (Göbeklitepe Örenyeri). Related notices: dosim.ktb.gov.tr. A combined archaeological-site + Göbeklitepe Animation Area ticket is commonly sold at the gişe (web product pages may say buy at the counter). MuseumPass Türkiye inclusion when live — verify. Do not invent TRY or EUR fares.",
+        "Hours commonly list 08:30–17:30 with earlier gişe close on the muze.gov.tr page; seasonal extensions (e.g. summer longer days through published DoSIM notices) change — verify live before travel. Open daily when published. Midday plateau heat in summer is severe.",
+        "Taş Tepeler context (tastepeler.org) is informational, not a ticket booth. Coach waves mid-morning are common; shelter roofs limit some photo angles."
+      ],
+      "highlights": [
+        "UNESCO Neolithic T-pillar ceremonial landscape",
+        "Official muze.gov.tr / DoSIM — buy at gişe when e-product says so",
+        "Pair Şanlıurfa Archaeological Museum for excavated sculptures",
+        "Boardwalks only — no climbing pillars",
+        "Verify seasonal hours; summer heat is severe"
+      ]
+    },
+    "visit": {
+      "intro": "DoSIM / muze.gov.tr archaeological site; verify seasonal hours and gişe products.",
+      "hours": "Commonly listed 08:30–17:30 (gişe earlier) on muze.gov.tr; seasonal summer extensions published by DoSIM / museum directorate (e. of g. longer evening close) — verify live. Open daily when published. Cooler months easier on the plateau.",
+      "tickets": "Official: muze.gov.tr (Göbeklitepe Örenyeri / combined site + animation product). Related: dosim.ktb.gov.tr. Combined ticket often sold at the gişe even when listed online. MuseumPass Türkiye when included — verify. Do not invent TRY/EUR. No third-party “skip line” as primary CTA.",
+      "dress": "Archaeological ceremonial precinct — sturdy shoes for boardwalks; sun hat and water in summer. No ritual dress code, but stay on marked routes.",
+      "duration": "2–3 hours on site for enclosures and visitor paths; half to full day if adding Şanlıurfa Archaeological Museum and Animation Area.",
+      "access": "~15–20 km northeast of Şanlıurfa (taxi / tour / dolmuş). Sheltered walkways; limited shade outside shelters. Mobility: boardwalk slopes and heat matter — plan honestly.",
+      "tips": [
+        "Confirm hours and ticket product on muze.gov.tr / dosim.ktb.gov.tr before you go.",
+        "Expect to buy the combined site + animation ticket at the gişe when the web page says so.",
+        "Visit Şanlıurfa Archaeological Museum — many sculptures are there, not only on site.",
+        "Stay on boardwalks; never climb T-pillars.",
+        "Summer midday heat on the plateau is severe — water, hat, early entry.",
+        "tastepeler.org is context, not a ticket counter.",
+        "Coach groups peak mid-morning — arrive early if you want quieter enclosures."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://muze.gov.tr/muze-detay?distId=SGT&sectionId=SGT01",
+      "ticketsLabel": "muze.gov.tr — Göbeklitepe Örenyeri (official)",
+      "ticketsNote": "Combined site + animation ticket often sold at the gişe. MuseumPass when live. Do not invent TRY/EUR. Verify seasonal hours on dosim.ktb.gov.tr notices."
+    },
+    "etiquette": {
+      "intro": "Early ceremonial landscape — heritage boardwalks, not a meme climb.",
+      "bullets": [
+        "Stay on boardwalks and marked routes under shelters.",
+        "Do not climb, touch, or lean on T-pillars or reliefs.",
+        "Quiet near active excavation / conservation zones when signed.",
+        "Pack out rubbish; plateau wind scatters litter.",
+        "Threshold Atlas tone: Neolithic ceremonial precinct, not alien temple park."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Göbekli Tepe.",
+      "paragraphs": [
+        "Fly or bus into Şanlıurfa, then continue ~15–20 km northeast to the site by taxi, organised tour, or local dolmuş when running. Build in museum time in the city if you want the excavated sculpture context.",
+        "On site, follow visitor boardwalks through sheltered enclosure views. The Animation Area is a related on-site product when included in the combined ticket — confirm at the gişe.",
+        "Return to Şanlıurfa for museums, food, and lodging — the plateau is not a full overnight base for most visitors."
+      ],
+      "bullets": [
+        "Şanlıurfa hub → taxi / tour / dolmuş to site",
+        "~15–20 km NE of the city",
+        "Boardwalk circuits on site",
+        "Museum in Şanlıurfa for excavated finds"
+      ]
+    },
+    "bestTime": {
+      "intro": "Cooler months and early morning beat plateau heat.",
+      "paragraphs": [
+        "Spring and autumn are the friendliest for walking the plateau. Summer midday heat is severe; winter can be cold and windy but clearer for photography.",
+        "Early entry reduces coach density. Verify any seasonal hour extensions on DoSIM notices rather than assuming year-round 17:30 close."
+      ],
+      "bullets": [
+        "Spring / autumn preferred",
+        "Early morning for heat and coaches",
+        "Verify summer hour extensions live",
+        "Pair museum when sculptures on-site feel sparse"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm hours and gişe products on muze.gov.tr / dosim.ktb.gov.tr — seasonal notices change.",
+        "Do not invent TRY/EUR fares; buy official products only.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "delphi",
+    "name": "Delphi Archaeological Site & Museum, Phocis",
+    "shortName": "Delphi",
+    "location": "Delphi, Mount Parnassus foothills",
+    "country": "Greece",
+    "region": "Europe",
+    "regionSlug": "europe",
+    "religions": [
+      "Ancient Greek"
+    ],
+    "religionSlugs": [
+      "ancient-greek"
+    ],
+    "summary": "UNESCO pan-Hellenic sanctuary of Apollo — oracle / navel of the Earth plus museum. Official TAP e-tickets: etickets.tap.gr / hhticket.gr (combined site + museum common). Timed museum slots when published. Do not invent EUR; warn scalper skip-line CTAs.",
+    "heroImage": "https://images.unsplash.com/photo-1555993539-1732b0258235?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Pan-Hellenic sanctuary flourishing from the Archaic period; oracle of Apollo",
+      "patron": "Apollo (Pythia / oracle); Athena Pronaia sanctuary downhill",
+      "unesco": "UNESCO World Heritage — Archaeological Site of Delphi",
+      "typicalVisit": "Half to full day for sanctuary + museum; add Pronaia / Castalia walking time"
+    },
+    "related": [
+      "acropolis-parthenon",
+      "meteora",
+      "pantheon-rome"
+    ],
+    "overview": {
+      "body": [
+        "Delphi on the slopes of Mount Parnassus is the UNESCO pan-Hellenic sanctuary of Apollo — the ancient Greek world’s oracle and “navel of the Earth,” peer to the Acropolis as a classical sacred mega day.",
+        "Frame the visit as oracle / pan-Hellenic sacred centre, not an Instagram amphitheatre climb. The Sacred Way, Temple of Apollo terrace, theatre, stadium, Castalia, gymnasium, and Athena Pronaia / Tholos downhill form one long walking landscape; the Archaeological Museum sits adjacent.",
+        "Official tickets: Hellenic Ministry TAP e-tickets via etickets.tap.gr and hhticket.gr. Combined archaeological site + Archaeological Museum of Delphi is the common product; timed entry applies to the museum slot when published. Info: culture.gov.gr / archaeologicalmuseums.gr. Do not invent EUR fares. Warn third-party “skip the line” as primary CTA.",
+        "Seasonal hours: summer long days taper through September–October; winter shorter. Museum often shorter on Tuesdays — verify live. Last entry is earlier than published close.",
+        "The Sacred Way is steep — mobility planning must be honest. Do not conflate modern Delphi village churches with the ancient sanctuary ticket."
+      ],
+      "highlights": [
+        "UNESCO Apollo sanctuary + museum",
+        "Official TAP: etickets.tap.gr / hhticket.gr",
+        "Combined site + museum; timed museum slot when live",
+        "Steep Sacred Way — plan mobility",
+        "Seasonal hour taper — verify culture.gov.gr"
+      ]
+    },
+    "visit": {
+      "intro": "TAP e-tickets for combined sanctuary + museum; verify seasonal hours.",
+      "hours": "Seasonal Hellenic MoC hours — summer commonly long (tapering Sep–Oct); winter shorter (e.g. ~08:30–15:30 windows when published). Museum often shorter Tue. Last entry earlier than close — verify archaeologicalmuseums.gr / culture.gov.gr live.",
+      "tickets": "Official TAP e-tickets: etickets.tap.gr and hhticket.gr. Combined site + Archaeological Museum of Delphi common; select museum timed slot when required. Valid for site + museum per product rules (commonly one day after first entry — confirm at purchase). Do not invent EUR. Avoid scalper “skip line” primary CTAs.",
+      "dress": "Comfortable closed shoes for marble and steep paths; sun protection in summer. No climbing on blocks or monuments.",
+      "duration": "3–5 hours for sanctuary + museum; add walking time for Pronaia / Castalia / gymnasium. Same-day Arachova food stop is common.",
+      "access": "Steep Sacred Way and terraces — limited wheelchair access on the hillside; museum is the accessible highlight when lifts/ramps are available. Verify museum accessibility notes live.",
+      "tips": [
+        "Buy only on etickets.tap.gr / hhticket.gr — ignore scalper skip-line sites.",
+        "Museum timed slot ≠ site arrival time — read the ticket text.",
+        "Tuesday museum hours are often shorter — plan accordingly.",
+        "Wear shoes for steep marble; heat on exposed terraces is intense in summer.",
+        "Allow time for Athena Pronaia / Tholos downhill — separate walking segment.",
+        "KTEL bus from Athens (~3 hr) or drive via Arachova; short walk/shuttle from modern village.",
+        "Do not invent EUR fares; confirm live on official platforms."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://etickets.tap.gr/",
+      "ticketsLabel": "TAP e-tickets — Delphi site + museum (official)",
+      "ticketsNote": "Also hhticket.gr. Combined site + museum common; timed museum slot when published. Do not invent EUR. No scalper skip-line as primary CTA."
+    },
+    "etiquette": {
+      "intro": "UNESCO classical sanctuary — oracle landscape, not a climbing gym.",
+      "bullets": [
+        "Do not climb temple blocks, theatre seats when restricted, or walls.",
+        "Quiet on the temple terrace — sacred archaeology tone.",
+        "Stay on visitor paths; protect marble and inscriptions.",
+        "No drones without permit.",
+        "Threshold Atlas tone: pan-Hellenic oracle centre, not amphitheatre playground."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Delphi.",
+      "paragraphs": [
+        "KTEL bus from Athens is commonly about three hours; driving via Arachova is the other standard approach. Modern Delphi village sits a short walk or shuttle from the sanctuary gate.",
+        "On site, the Sacred Way climbs past treasuries to the Temple of Apollo, theatre, and stadium. Athena Pronaia / Tholos and Castalia add downhill walking across the modern road — budget time.",
+        "Present TAP tickets and ID as required. Museum is adjacent — use your timed slot for the museum and walk the site within product validity."
+      ],
+      "bullets": [
+        "Athens KTEL ~3 hr or drive via Arachova",
+        "Short walk / shuttle from modern village",
+        "Steep Sacred Way + Pronaia downhill segment",
+        "Museum adjacent — honour timed slot"
+      ]
+    },
+    "bestTime": {
+      "intro": "Spring and autumn for hiking light; summer marble heat is intense.",
+      "paragraphs": [
+        "Spring and autumn offer the best walking temperatures on the hillside. Summer marble heat is intense; winter hours are shorter but quieter.",
+        "Arrive early for softer light on the temple terrace and thinner coach density. Verify the live seasonal hour taper rather than assuming peak-summer close times year-round."
+      ],
+      "bullets": [
+        "Spring / autumn preferred",
+        "Early entry for heat and coaches",
+        "Verify Tue museum hours",
+        "Seasonal hour taper Sep–Oct"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm hours and TAP products on etickets.tap.gr / archaeologicalmuseums.gr / culture.gov.gr.",
+        "Do not invent EUR; avoid scalper skip-line CTAs.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "bagan",
+    "name": "Bagan Archaeological Zone, Myanmar",
+    "shortName": "Bagan",
+    "location": "Nyaung-U / Old Bagan / New Bagan, Mandalay Region",
+    "country": "Myanmar",
+    "region": "Southeast Asia",
+    "regionSlug": "southeast-asia",
+    "religions": [
+      "Buddhist"
+    ],
+    "religionSlugs": [
+      "buddhist"
+    ],
+    "summary": "UNESCO temple plain (~thousands of stupas/temples) — SE Asia’s other Angkor-scale sacred landscape. Zone fee collected at airport / checkpoints (Department of Archaeology); keep receipt. No climbing temples — use designated viewpoints. tourism.gov.mm context. Do not invent MMK; re-check travel advisories.",
+    "heroImage": "https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Imperial Bagan florescence roughly 11th–13th centuries CE; vast surviving temple plain",
+      "patron": "Theravada Buddhist sacred landscape (stupas, temples, living monastery fabric)",
+      "unesco": "UNESCO World Heritage — Bagan",
+      "typicalVisit": "2–3 days for zone circuits; dawn/dusk from designated viewpoints only"
+    },
+    "related": [
+      "shwedagon",
+      "angkor-wat",
+      "borobudur"
+    ],
+    "overview": {
+      "body": [
+        "Bagan’s archaeological zone is a UNESCO Buddhist temple plain of thousands of stupas and temples along the Ayeyarwady — Southeast Asia’s other Angkor-scale sacred landscape, still thin in SanctaWay’s Thai / Khmer / Javanese set.",
+        "Frame it as a living pilgrimage plain, not a “temple safari rooftop.” Shoulders and knees covered; shoes and socks off inside temples; no touching murals; no climbing stupas or temples — use designated viewing mounds and authorised viewpoints only.",
+        "Official zone fee is collected by the Department of Archaeology and National Museum (Bagan branch) at Nyaung-U Airport, road checkpoints, and designated counters — keep the receipt (checked at major temples). Tourism context: tourism.gov.mm. Third-party “Bagan tickets” are usually tours or hotels, not the zone fee. Do not invent MMK fares; quote verify-on-arrival.",
+        "Temples are generally daylight access. Cool dry season (roughly Nov–Feb) is preferred; March–May extreme heat. Balloon rides are separate commercial products when operating — they are not the zone ticket.",
+        "Soft blockers: re-check Myanmar travel advisories, visa, and insurance at write/visit time. Post-quake closures and fencing of some temples — follow caretaker signs."
+      ],
+      "highlights": [
+        "UNESCO Buddhist temple plain — Angkor-scale peer",
+        "Zone fee on arrival at airport / checkpoints — keep receipt",
+        "No climbing — designated viewpoints only",
+        "Living Buddhist dress and shoe-off etiquette",
+        "Re-check advisories / visa; do not invent MMK"
+      ]
+    },
+    "visit": {
+      "intro": "Archaeological zone fee on arrival; daylight temple circuits; no climbing.",
+      "hours": "Temples generally daylight access; specific monuments may fence or close earlier — follow caretaker signs. Dawn/dusk photography from designated viewing mounds only.",
+      "tickets": "Bagan Archaeological Zone fee collected by Department of Archaeology at Nyaung-U Airport / road checkpoints / designated counters — keep receipt for temple checks. Context: tourism.gov.mm. Third-party “Bagan tickets” are usually tours/hotels, not the zone fee. Do not invent MMK; verify-on-arrival. Balloon ≠ zone ticket.",
+      "dress": "Living Buddhist sacred landscape — shoulders and knees covered; shoes + socks off inside temples; no touching murals or climbing structures.",
+      "duration": "Two to three days for Old Bagan / Nyaung-U / New Bagan circuits by e-bike or car. One rushed day only samples a fraction.",
+      "access": "E-bike / e-scooter / horse cart / car+driver inside the zone. Dust, heat, and battery range matter. Some temples fenced after quake damage — obey signs.",
+      "tips": [
+        "Buy/keep the official zone receipt at airport or checkpoint — checked at major temples.",
+        "Do not invent MMK; ignore third-party “zone tickets” that are actually tours.",
+        "Never climb stupas/temples — use designated viewing mounds only.",
+        "Re-check Myanmar travel advisories, visa, and insurance before booking.",
+        "Nov–Feb cooler; Mar–May extreme heat — water, hat, early starts.",
+        "E-bike battery + dust: carry water and a dust mask/scarf.",
+        "Balloon rides are separate commercial products when operating."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://tourism.gov.mm/",
+      "ticketsLabel": "tourism.gov.mm — Myanmar tourism context (zone fee on arrival)",
+      "ticketsNote": "Zone fee collected at airport/checkpoints by Department of Archaeology — keep receipt. No invent MMK. Third-party “tickets” usually tours. Balloon ≠ zone fee. Re-check advisories."
+    },
+    "etiquette": {
+      "intro": "Living Buddhist pilgrimage plain — not a rooftop temple safari.",
+      "bullets": [
+        "Shoulders and knees covered in temple precincts.",
+        "Shoes and socks off inside temples.",
+        "No climbing stupas or temples — monument protection ban.",
+        "No touching murals or sacred images.",
+        "Quiet around monks and active worship.",
+        "Threshold Atlas tone: pilgrimage plain, not Instagram rooftop."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Bagan.",
+      "paragraphs": [
+        "Fly into Nyaung-U (NYU) when services run, then continue into the archaeological zone. Old Bagan, Nyaung-U, and New Bagan are the usual bases.",
+        "Inside the zone, e-bike / e-scooter, horse cart, or car with driver are the standard ways to link temple clusters. Distances look short on a map but add up in heat and dust.",
+        "Present your zone-fee receipt when asked at major temples. Balloon operators, if flying, are separate commercial bookings."
+      ],
+      "bullets": [
+        "Fly NYU when available → zone bases",
+        "E-bike / cart / car inside the plain",
+        "Keep zone-fee receipt for checks",
+        "Balloon = separate commercial product"
+      ]
+    },
+    "bestTime": {
+      "intro": "Cool dry season Nov–Feb; dawn/dusk from designated viewpoints.",
+      "paragraphs": [
+        "November–February is the preferred cool dry window. March–May heat is extreme. Monsoon mud and storms complicate e-bike days.",
+        "Dawn and dusk light from designated viewing mounds is the photographic peak — never from banned rooftops."
+      ],
+      "bullets": [
+        "Nov–Feb preferred",
+        "Mar–May extreme heat",
+        "Designated viewpoints only for dawn/dusk",
+        "Follow post-quake fencing signs"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Re-check Myanmar travel advisories, visa, and insurance before any booking.",
+        "Zone fee verify-on-arrival — do not invent MMK; keep receipt.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "bulguksa",
+    "name": "Bulguksa Temple, Gyeongju",
+    "shortName": "Bulguksa",
+    "location": "Gyeongju, Gyeongsangbuk-do (Seokguram axis)",
+    "country": "South Korea",
+    "region": "East Asia",
+    "regionSlug": "east-asia",
+    "religions": [
+      "Buddhist"
+    ],
+    "religionSlugs": [
+      "buddhist"
+    ],
+    "summary": "UNESCO Silla flagship temple (Jogye Order) — Korea’s highest-demand temple visit; pair Seokguram same day with separate logistics. Cultural-heritage admission free since 2023 (eng.bulguksa.or.kr); parking paid. Do not invent KRW; third-party “tickets” are tours.",
+    "heroImage": "https://images.unsplash.com/photo-1517154428100-da0a3d3e4a1b?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Silla temple tradition; major rebuilds through centuries; UNESCO with Seokguram",
+      "patron": "Jogye Order Korean Buddhism — Buddha halls and twin pagodas (Dabotap / Seokgatap)",
+      "unesco": "UNESCO World Heritage — Seokguram Grotto and Bulguksa Temple",
+      "typicalVisit": "2–3 hours Bulguksa; add Seokguram transit for a same-day pair"
+    },
+    "related": [
+      "todai-ji",
+      "kinkaku-ji",
+      "senso-ji"
+    ],
+    "overview": {
+      "body": [
+        "Bulguksa in Gyeongju is the UNESCO Silla flagship of Korean Buddhist architecture — Korea’s highest-demand temple visit and the clearest East Asia gap-closer against SanctaWay’s Japan-heavy set.",
+        "Frame it as an active Jogye Order temple plus cultural-heritage landscape: quiet in halls, respectful photography, no pets. Seokguram Grotto (~11 km / shuttle or bus uphill) is the classic same-day pair with separate entry logistics and often no photos of the principal Buddha when posted.",
+        "Official hours and fee pages (bulguksa.or.kr / eng.bulguksa.or.kr) state cultural-heritage admission is free since the 2023 cultural-property law change. Parking is paid. Seokguram likewise lists free admission on its official hours page — verify live; do not invent KRW. Third-party “Bulguksa tickets” are tours.",
+        "Seasonal last-entry windows commonly open 09:00 with last entry ~17:00–18:00 by month — verify eng.bulguksa.or.kr. Cherry blossom and autumn foliage peaks; winter early dusk.",
+        "Stone staircases on the Dabotap–Seokgatap axis reward slow looking. Gyeongju’s historic areas are a multi-day city — not a one-temple dash."
+      ],
+      "highlights": [
+        "UNESCO Silla flagship — Korea gap-closer",
+        "Admission free since 2023 — eng.bulguksa.or.kr",
+        "Seokguram same-day pair, separate logistics",
+        "Seasonal last-entry windows — verify live",
+        "Parking paid; ignore third-party “tickets”"
+      ]
+    },
+    "visit": {
+      "intro": "Free cultural-heritage admission; verify seasonal last entry on eng.bulguksa.or.kr.",
+      "hours": "Seasonal last-entry windows commonly: Nov–Jan 09:00–17:00; Feb & Oct 09:00–17:30; Mar–Sep 09:00–18:00 — verify eng.bulguksa.or.kr. Open year-round; pets not admitted.",
+      "tickets": "Temple cultural-heritage admission free per official hours/fee page since 2023. Parking is paid (verify live KRW on site pages — do not invent). Official: bulguksa.or.kr / eng.bulguksa.or.kr. Seokguram free admission on its official page but separate logistics. Third-party “Bulguksa tickets” = tours.",
+      "dress": "Active temple — modest, quiet dress; remove hats in halls when customary; follow photography signs (especially Seokguram interior).",
+      "duration": "2–3 hours at Bulguksa; half day or more if pairing Seokguram with shuttle/bus transit.",
+      "access": "Stone staircases between gates, bridges, and pagoda axis. Seokguram is uphill ~11 km — shuttle or bus, not a casual add-on walk from the parking lot alone.",
+      "tips": [
+        "Confirm free admission and last entry on eng.bulguksa.or.kr before you go.",
+        "Ignore third-party “admission tickets” — they are tours.",
+        "Plan Seokguram as a separate transit block the same day.",
+        "Follow Seokguram photo rules for the principal Buddha when posted.",
+        "Cherry blossom / autumn foliage = peak crowds.",
+        "Gyeongju rewards multi-day historic-area time — not a one-stop dash.",
+        "Parking is paid even when temple admission is free."
+      ],
+      "entryType": "free",
+      "ticketsUrl": "http://eng.bulguksa.or.kr/bbs/content.php?co_id=application",
+      "ticketsLabel": "Bulguksa — official hours & fee (free admission)",
+      "ticketsNote": "Cultural-heritage admission free since 2023 per official page. Parking paid. Seokguram separate. Third-party “tickets” are tours. Do not invent KRW."
+    },
+    "etiquette": {
+      "intro": "Active Jogye Order UNESCO temple — quiet halls, living practice.",
+      "bullets": [
+        "Quiet in Buddha halls; no pets.",
+        "Respect photography signs; Seokguram interior rules when posted.",
+        "No climbing pagodas or restricted stonework.",
+        "Modest dress; remove hats in halls when customary.",
+        "Threshold Atlas tone: living Korean Buddhist heritage, not a school-trip photo set only."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Bulguksa.",
+      "paragraphs": [
+        "KTX or train to Gyeongju, then city bus 10 / 11 to the Bulguksa stop, or taxi. From Busan / Seoul the rail + bus combo is standard.",
+        "Seokguram is roughly 11 km uphill — use the shuttle or bus; treat it as a same-day pair with its own last-entry clock.",
+        "On site, walk the gate–bridge–pagoda–hall circuit slowly; temple museum time is optional."
+      ],
+      "bullets": [
+        "Rail to Gyeongju → bus 10/11 or taxi",
+        "Seokguram ~11 km uphill shuttle/bus",
+        "Stone staircase circuits on site",
+        "Multi-day Gyeongju historic areas nearby"
+      ]
+    },
+    "bestTime": {
+      "intro": "Cherry blossom and autumn foliage peaks; winter early dusk.",
+      "paragraphs": [
+        "Spring blossoms and autumn colour are the beauty peaks — and the densest crowds. Summer is hot on stone stairs; winter last entry is earliest.",
+        "Weekday mornings are quieter. Confirm last entry by month on the official EN hours page."
+      ],
+      "bullets": [
+        "Spring / autumn peak beauty + crowds",
+        "Winter earliest last entry",
+        "Weekday mornings quieter",
+        "Verify monthly last-entry window"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm free admission and seasonal hours on eng.bulguksa.or.kr.",
+        "Seokguram is a separate logistics stop — verify its hours too.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "kairouan",
+    "name": "Great Mosque of Kairouan (Mosque of Uqba), Tunisia",
+    "shortName": "Great Mosque of Kairouan",
+    "location": "Medina of Kairouan",
+    "country": "Tunisia",
+    "region": "Africa",
+    "regionSlug": "africa",
+    "religions": [
+      "Islamic"
+    ],
+    "religionSlugs": [
+      "islamic"
+    ],
+    "summary": "UNESCO Maghreb pilgrimage mosque — living courtyard tourism with clear non-Muslim rules (courtyard typical; prayer hall generally closed to non-Muslims). Official AMVPPC: patrimoinedetunisie.com.tn. On-site ticket common. Do not invent TND; Friday/Ramadan hours shrink.",
+    "heroImage": "https://images.unsplash.com/photo-1564760055775-d63b17a55c44?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Founded 7th century CE; Aghlabid and later rebuilds — Maghreb prototype mosque",
+      "patron": "Islam — Great Mosque of Kairouan (Mosque of Uqba)",
+      "unesco": "UNESCO World Heritage — Kairouan",
+      "typicalVisit": "1–2 hours mosque precinct; add Medina / Aghlabid Basins as separate stops"
+    },
+    "related": [
+      "hassan-ii-mosque",
+      "mezquita-cordoba",
+      "blue-mosque"
+    ],
+    "overview": {
+      "body": [
+        "The Great Mosque of Kairouan (Mosque of Uqba) is UNESCO Maghreb’s defining pilgrimage mosque — a living courtyard and hypostyle landmark that extends SanctaWay’s Islamic set beyond Hassan II / Mezquita without Djenné’s security trap.",
+        "Frame the visit honestly: non-Muslims typically access the courtyard; the prayer hall is generally closed to non-Muslims. Modest dress (shoulders/knees; women often need head covering when required); shoes off in permitted zones; quiet.",
+        "Official heritage ticket network: Tunisia AMVPPC — patrimoinedetunisie.com.tn (Great Mosque of Kairouan). On-site ticket is common. Tourism framing: discovertunisia.com. Do not invent TND fares. No third-party skip-line as primary CTA.",
+        "Visitor windows are commonly morning-heavy (e.g. ~07:30/08:00–14:00; Friday shorter / noon cutoff) — verify patrimoinedetunisie.com.tn. Ramadan and Friday hours shrink.",
+        "Aghlabid Basins and Medina fabric are related but separate stops. Djenné is not a substitute day-trip — different country and security class."
+      ],
+      "highlights": [
+        "UNESCO Maghreb Great Mosque — living pilgrimage mosque",
+        "Non-Muslims: courtyard typical; prayer hall generally closed",
+        "Official AMVPPC: patrimoinedetunisie.com.tn",
+        "Morning-heavy hours; Friday/Ramadan shorter",
+        "Do not invent TND; modest dress required"
+      ]
+    },
+    "visit": {
+      "intro": "AMVPPC heritage ticket; courtyard vs prayer-hall access stated honestly.",
+      "hours": "AMVPPC visitor windows commonly morning-heavy (examples ~07:30/08:00–14:00; Friday often ends by noon) — verify patrimoinedetunisie.com.tn live. Ramadan hours shrink further.",
+      "tickets": "Official AMVPPC / Patrimoine de Tunisie: patrimoinedetunisie.com.tn. On-site ticket common. Do not invent TND. Tourism framing discovertunisia.com. No third-party skip-line primary CTA.",
+      "dress": "Modest dress — shoulders and knees covered; women often need head covering when required. Shoes off in permitted zones. Quiet.",
+      "duration": "1–2 hours for courtyard and exterior circuits; add Medina walking and Aghlabid Basins as separate time.",
+      "access": "Medina walk to mosque precinct from louage drop-offs. Midday heat in the medina is intense. Courtyard access ≠ prayer-hall roaming for non-Muslims.",
+      "tips": [
+        "Verify hours on patrimoinedetunisie.com.tn — Friday and Ramadan cutoffs matter.",
+        "Expect courtyard-only access if you are not Muslim — state this honestly in your plan.",
+        "Dress modestly; bring a scarf if required for women visitors.",
+        "Do not invent TND; buy the official on-site / AMVPPC product.",
+        "Louage from Tunis / Sousse / Monastir ~1.5–2 hr.",
+        "Aghlabid Basins are a separate stop — not inside the mosque ticket.",
+        "Djenné is not a Tunisia day-trip substitute."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://www.patrimoinedetunisie.com.tn/en/monuments/the-great-mosque-of-kairouan/overview/",
+      "ticketsLabel": "AMVPPC — Great Mosque of Kairouan (official)",
+      "ticketsNote": "On-site / AMVPPC heritage ticket. Non-Muslims: courtyard typical; prayer hall generally closed. Do not invent TND. Verify Friday/Ramadan hours."
+    },
+    "etiquette": {
+      "intro": "Living Great Mosque — modest dress, quiet courtyard, honest access limits.",
+      "bullets": [
+        "Shoulders and knees covered; head covering when required.",
+        "Shoes off in permitted zones.",
+        "Quiet voices; no disruptive photography poses.",
+        "Do not attempt prayer-hall entry if closed to non-Muslims.",
+        "Respect Friday prayer schedules — visitor windows shrink.",
+        "Threshold Atlas tone: Maghreb pilgrimage mosque, not casual photo set."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Kairouan.",
+      "paragraphs": [
+        "Louage or organised tour from Tunis, Sousse, or Monastir is commonly 1.5–2 hours. Drop near the Medina and walk to the mosque precinct.",
+        "Inside the Medina, follow signs to the Great Mosque; heat and uneven lanes matter midday.",
+        "Combine with Medina crafts and Aghlabid Basins only if you budget separate walking time — they are not one ticket."
+      ],
+      "bullets": [
+        "Louage / tour from Tunis–Sousse–Monastir",
+        "Medina walk to mosque precinct",
+        "Morning visitor windows preferred",
+        "Basins / Medina = separate stops"
+      ]
+    },
+    "bestTime": {
+      "intro": "Morning visitor windows; avoid assuming full-day access.",
+      "paragraphs": [
+        "Aim for opening — windows are morning-heavy and Friday cuts early. Summer medina heat is severe by midday.",
+        "Ramadan changes visitor access — verify AMVPPC before you travel."
+      ],
+      "bullets": [
+        "Arrive at opening",
+        "Friday shorter / noon cutoff common",
+        "Verify Ramadan hours",
+        "Midday medina heat"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm hours and ticket on patrimoinedetunisie.com.tn.",
+        "Non-Muslim courtyard vs prayer-hall access — state honestly; do not invent TND.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "lourdes",
+    "name": "Sanctuary of Our Lady of Lourdes",
+    "shortName": "Lourdes",
+    "location": "Lourdes, Hautes-Pyrénées",
+    "country": "France",
+    "region": "Europe",
+    "regionSlug": "europe",
+    "religions": [
+      "Christian"
+    ],
+    "religionSlugs": [
+      "christian"
+    ],
+    "summary": "Global Marian pilgrimage capital — Grotto of Massabielle, baths, processions. Sanctuary entry free (lourdes-france.com); paid museum/cinema add-ons optional. Pastoral ministries ≠ tourist attractions. Do not invent EUR or medical-cure claims.",
+    "heroImage": "https://images.unsplash.com/photo-1519904981063-b0cf448d479e?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Apparitions to Bernadette Soubirous 1858; sanctuary grew into global Marian pilgrimage centre",
+      "patron": "Our Lady of Lourdes — Marian Catholic pilgrimage",
+      "unesco": "Not a UNESCO World Heritage property — major Marian pilgrimage sanctuary",
+      "typicalVisit": "Half day to multi-day pilgrimage; evening torchlight processions in season"
+    },
+    "related": [
+      "chartres",
+      "mont-saint-michel",
+      "guadalupe"
+    ],
+    "overview": {
+      "body": [
+        "The Sanctuary of Our Lady of Lourdes is the global Marian pilgrimage capital — Grotto of Massabielle, basilicas, baths, and torchlight processions that fill the Christian set’s shrine-pilgrimage gap beyond cathedral tourism.",
+        "Frame the visit as pilgrimage hospitality, not a miracle theme park. Silence at the Grotto; baths, confession, and Eucharist are pastoral ministries, not tourist attractions. Do not invent medical-cure claims.",
+        "Sanctuary entry is free — no gate ticket. Official: lourdes-france.com (Sanctuaire Notre-Dame de Lourdes). Paid products (museum / cinema / some guided offers) are optional add-ons — do not invent EUR. Third-party “Lourdes tickets” are usually transport, hotels, or tours.",
+        "Grounds are generally open long hours year-round; Grotto windows commonly long (seasonal — verify lourdes-france.com). Peak pilgrimage summer and feast periods (e.g. 11 Feb, 15 Aug / Assumption); winter quieter but cold and wet.",
+        "Accessibility for malades / hospitalité is a core ministry — state respectfully. Distinguish commercial town from sanctuary domain; spring water from taps is free."
+      ],
+      "highlights": [
+        "Global Marian pilgrimage capital — Grotto of Massabielle",
+        "Sanctuary entry free — lourdes-france.com",
+        "Pastoral baths / liturgy ≠ tourist products",
+        "Long grotto hours; peak summer + feast days",
+        "No invented EUR or medical-cure claims"
+      ]
+    },
+    "visit": {
+      "intro": "Free sanctuary; verify grotto and liturgy hours on lourdes-france.com.",
+      "hours": "Sanctuary grounds generally open long hours year-round. Grotto commonly Apr–Nov ~06:00–01:00 and Nov–Apr ~07:00–22:00 free access when published — verify lourdes-france.com. Liturgies and processions follow seasonal calendars.",
+      "tickets": "Sanctuary entry free — no gate ticket. Official: lourdes-france.com. Optional paid museum / cinema / guided offers exist — verify live EUR; do not invent. Third-party “Lourdes tickets” = transport/hotels/tours.",
+      "dress": "Active Marian pilgrimage sanctuary — modest dress; silence at the Grotto; respectful behaviour during processions and liturgy.",
+      "duration": "Half day for Grotto + basilicas; multi-day for full pilgrimage rhythm (baths, processions, liturgies).",
+      "access": "Town slopes to the Gave de Pau and Grotto. Accessibility for pilgrims with illness/disability is a core ministry — use official hospitalité / accessibility contacts on lourdes-france.com.",
+      "tips": [
+        "Use lourdes-france.com only for sanctuary info — ignore fake “admission tickets.”",
+        "Sanctuary is free; optional museum/cinema are separate paid add-ons.",
+        "Silence at the Grotto; baths are pastoral, not a tourist queue stunt.",
+        "Do not invent medical-cure claims in any itinerary copy.",
+        "Torchlight Marian procession is an evening peak in season — check calendar.",
+        "Distinguish commercial town shops from sanctuary domain.",
+        "Spring water from taps is free — no ticket."
+      ],
+      "entryType": "free",
+      "ticketsUrl": "https://www.lourdes-france.com/en/",
+      "ticketsLabel": "Sanctuary of Our Lady of Lourdes — official (free entry)",
+      "ticketsNote": "No gate ticket. Optional museum/cinema paid add-ons — verify live. Third-party “tickets” are tours/transport. Do not invent EUR or cure claims."
+    },
+    "etiquette": {
+      "intro": "Active Marian pilgrimage — hospitality and silence, not theme-park miracles.",
+      "bullets": [
+        "Modest dress; silence at the Grotto.",
+        "Respect baths, confession, and Eucharist as pastoral ministries.",
+        "No blocking processions for photos.",
+        "Do not invent or advertise medical cures.",
+        "Follow hospitalité guidance for accessibility and malades.",
+        "Threshold Atlas tone: pilgrimage hospitality, not miracle park."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Lourdes.",
+      "paragraphs": [
+        "Train, coach, or fly into Tarbes–Lourdes–Pyrénées (LDE), then shuttle or walk into the sanctuary domain. The town slopes down to the Gave de Pau and the Grotto of Massabielle.",
+        "On site, follow sanctuary maps for Grotto, basilicas, and procession routes. Evening torchlight processions are seasonal peaks.",
+        "Commercial lodging and shops sit outside or beside the domain — plan which side of the boundary you need."
+      ],
+      "bullets": [
+        "Train / coach / LDE airport + shuttle",
+        "Town slopes to Grotto / Gave",
+        "Evening processions in season",
+        "Town vs sanctuary domain distinction"
+      ]
+    },
+    "bestTime": {
+      "intro": "Peak pilgrimage summer and Marian feasts; winter quieter.",
+      "paragraphs": [
+        "Summer and major Marian dates (including 11 February and Assumption period) are the densest pilgrimage windows. Winter is quieter but cold and wet.",
+        "Early morning at the Grotto is often calmer before day-pilgrim waves."
+      ],
+      "bullets": [
+        "Summer + feast peaks",
+        "Winter quieter / colder",
+        "Early Grotto calmer",
+        "Check procession calendar"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm grotto and liturgy hours on lourdes-france.com.",
+        "Free sanctuary — never invent a gate ticket or medical-cure claims.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "tirupati",
+    "name": "Tirumala Venkateswara Temple, Tirupati",
+    "shortName": "Tirupati (Tirumala)",
+    "location": "Tirumala hill shrine, Tirupati, Andhra Pradesh",
+    "country": "India",
+    "region": "South Asia",
+    "regionSlug": "south-asia",
+    "religions": [
+      "Hindu"
+    ],
+    "religionSlugs": [
+      "hindu"
+    ],
+    "summary": "One of the world’s highest-volume living Hindu pilgrimage temples (TTD). Official: tirumala.org; bookings ttdevasthanams.ap.gov.in (+ official TTD app). Sarva / Special Entry Darshan / sevas / accommodation — each has rules. Do not invent INR; hard-warn fake TTD clones and WhatsApp agents.",
+    "heroImage": "https://images.unsplash.com/photo-1582510003544-4d00bcefc3bf?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Ancient Vaishnava hill shrine; administered by Tirumala Tirupati Devasthanams (TTD)",
+      "patron": "Lord Venkateswara (Vishnu) — Tirumala pilgrimage",
+      "unesco": "Not a UNESCO World Heritage property — mega living Hindu pilgrimage temple",
+      "typicalVisit": "Darshan-centred day; multi-hour queues normal even on “quieter” weekdays"
+    },
+    "related": [
+      "meenakshi",
+      "kashi-vishwanath",
+      "golden-temple"
+    ],
+    "overview": {
+      "body": [
+        "Tirumala Venkateswara Temple above Tirupati is one of the world’s highest-volume living Hindu pilgrimage temples — a TTD-run darshan mega that peers Kashi / Meenakshi demand still missing from the catalog.",
+        "Frame the visit as darshan first, not casual temple-hop sightseeing. Queue complexes (Vaikuntham and related) dominate time math. Traditional dress is strongly preferred / enforced in queues (follow current TTD dress code); leather and phones may be restricted in sanctum/queue zones when posted.",
+        "Official information: tirumala.org. Bookings: ttdevasthanams.ap.gov.in and the official TTD app. Products include Sarva Darshan, Special Entry Darshan, sevas, and accommodation — each with its own rules and ID matching. Do not invent INR fares. Hard-warn fake TTD clone sites and WhatsApp “agents.”",
+        "Temple operates long darshan windows (often ~18–20 hour cycles on peak days) — verify tirumala.org day schedules. Festivals such as Brahmotsavam transform queues. Weekdays are relatively thinner than weekends/holidays — still expect multi-hour waits.",
+        "Soft blockers: online booking accounts, ID matching, break darshan vs paid special entry. Hair-tonsure halls are optional. Ghat road traffic is real. Non-devotee framing must stay honest — pilgrimage infrastructure, not a casual hop."
+      ],
+      "highlights": [
+        "World-scale living Vaishnava pilgrimage (TTD)",
+        "Official tirumala.org + ttdevasthanams.ap.gov.in only",
+        "Sarva / Special Entry / sevas — separate products",
+        "Dress code + multi-hour queue honesty",
+        "Hard-warn fake TTD clones / WhatsApp agents"
+      ]
+    },
+    "visit": {
+      "intro": "TTD-only darshan products; verify schedules on tirumala.org.",
+      "hours": "Long darshan windows vary by day and festival — often spanning most of a 24-hour cycle on peak days. Verify the live day schedule on tirumala.org. Festivals transform queue length.",
+      "tickets": "Tirumala Tirupati Devasthanams only — tirumala.org for info; bookings on ttdevasthanams.ap.gov.in (+ official TTD app). Sarva Darshan / Special Entry Darshan / sevas / accommodation each have rules. Do not invent INR. Hard-warn fake clones and WhatsApp agents.",
+      "dress": "Traditional dress strongly preferred / enforced in queues — men commonly dhoti/pyjama + shirt; women sari / churidar with dupatta — follow current TTD dress code. No leather in sanctum zones when posted; phones often restricted in queue.",
+      "duration": "Plan a full day minimum for darshan logistics; overnight Tirumala / Tirupati stays common when queues run long.",
+      "access": "Fly Tirupati (TIR) or Renigunta rail; APSRTC / taxi up the ghat to Tirumala. Queue complexes dominate walking time more than temple-hall sightseeing.",
+      "tips": [
+        "Book only on ttdevasthanams.ap.gov.in or the official TTD app — never WhatsApp agents.",
+        "Match booking name/ID exactly; carry the same ID to the queue.",
+        "Read current TTD dress code before you travel — enforcement is real.",
+        "Sarva Darshan can still mean multi-hour waits on “quiet” weekdays.",
+        "Special Entry Darshan and sevas are separate products with their own rules.",
+        "Do not invent INR fares; ignore clone sites that mimic TTD branding.",
+        "Ghat traffic and festival days transform the whole timetable."
+      ],
+      "entryType": "mixed",
+      "ticketsUrl": "https://ttdevasthanams.ap.gov.in/",
+      "ticketsLabel": "TTD official bookings — ttdevasthanams.ap.gov.in",
+      "ticketsNote": "Info: tirumala.org. Official app also. Fake TTD clones and WhatsApp agents exist — use Devasthanams domains only. Do not invent INR. Dress code enforced."
+    },
+    "etiquette": {
+      "intro": "Living Vaishnava pilgrimage — darshan first, queue discipline, dress code.",
+      "bullets": [
+        "Follow current TTD dress code in queues and temple zones.",
+        "No leather in sanctum zones when posted.",
+        "Phones restricted in queue / sanctum when signed.",
+        "Quiet and orderly in Vaikuntham complexes.",
+        "Respect seva and darshan rules — no cutting queues.",
+        "Threshold Atlas tone: pilgrimage infrastructure, not casual temple hop."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How pilgrims usually reach Tirumala.",
+      "paragraphs": [
+        "Fly into Tirupati (TIR) or arrive by rail at Renigunta / Tirupati, then APSRTC bus or taxi up the ghat road to Tirumala hill shrine.",
+        "On the hill, queue complexes and reporting times dominate the day more than free wandering. Accommodation may be TTD or private — book official products carefully.",
+        "Carry booking print/QR and matching ID through every checkpoint."
+      ],
+      "bullets": [
+        "TIR flight or Renigunta / Tirupati rail",
+        "Ghat road bus / taxi to Tirumala",
+        "Queue complexes = main time sink",
+        "Booking + matching ID at every gate"
+      ]
+    },
+    "bestTime": {
+      "intro": "Weekdays relatively thinner; festivals transform queues.",
+      "paragraphs": [
+        "Weekdays outside major festivals are relatively thinner — still expect long waits. Brahmotsavam and other festivals transform density and product availability.",
+        "Night and early-morning darshan windows exist on many schedules — verify the live day board on tirumala.org."
+      ],
+      "bullets": [
+        "Weekdays relatively thinner",
+        "Festivals = extreme queues",
+        "Verify live day schedule",
+        "Book special products early when needed"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm schedules and products on tirumala.org / ttdevasthanams.ap.gov.in only.",
+        "Hard-warn fake TTD clones and WhatsApp agents; do not invent INR.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "palenque",
+    "name": "Palenque Archaeological Zone, Chiapas",
+    "shortName": "Palenque",
+    "location": "Near Palenque town, Chiapas",
+    "country": "Mexico",
+    "region": "Americas",
+    "regionSlug": "americas",
+    "religions": [
+      "Maya"
+    ],
+    "religionSlugs": [
+      "maya"
+    ],
+    "summary": "UNESCO Classic Maya rainforest city — Temple of the Inscriptions / Cross Group / Palace. Official INAH zone (+ often separate CONANP park fee). E-boletos when offered via INAH venta channels. Do not invent MXN; never invent “enter Pakal’s tomb” access.",
+    "heroImage": "https://images.unsplash.com/photo-1518638150340-f706e86654de?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Classic Maya florescence; major 7th-century monuments under Pakal and successors",
+      "patron": "Maya sacred city landscape (Temple of the Inscriptions, Cross Group, Palace)",
+      "unesco": "UNESCO World Heritage — Pre-Hispanic City and National Park of Palenque",
+      "typicalVisit": "Half to full day for Palace / Inscriptions / Cross Group; jungle stairs and humidity"
+    },
+    "related": [
+      "tikal",
+      "chichen-itza",
+      "teotihuacan"
+    ],
+    "overview": {
+      "body": [
+        "Palenque in Chiapas is a UNESCO Classic Maya city set in rainforest and national-park fabric — Temple of the Inscriptions, Cross Group, and Palace deepen SanctaWay’s Americas Maya set beyond Chichén Itzá and Tikal.",
+        "Frame it as Classic Maya ritual landscape, not a lost-city playground. Stay on authorised paths; no climbing closed temples; no drones without permit. Interior access to the Temple of the Inscriptions / Pakal tomb changes — never invent “you can enter the tomb.”",
+        "Official tickets: INAH zone ticket (CATVI / on-site) and often a separate CONANP national-park fee — both may apply. E-boletos when offered via INAH venta channels (ventadeboletosenlinea.inah.gob.mx when the product is live). Museum on-site may be bundled or separate — confirm live. Do not invent MXN; nationality / Sunday policies can change density.",
+        "INAH zone commonly 08:00–17:00 with earlier last entry — verify inah.gob.mx / lugares.inah.gob.mx / palenque.inah.gob.mx. Early entry for cooler air and wildlife; rainy-season trails muddy.",
+        "Soft blockers: state the two-fee stack clearly; mosquito and rain prep; Bonampak / Yaxchilán are separate long days."
+      ],
+      "highlights": [
+        "UNESCO Classic Maya rainforest city",
+        "INAH zone + often CONANP park fee stack",
+        "Official INAH venta / on-site CATVI — verify live",
+        "Never invent tomb/interior access",
+        "Jungle stairs, humidity, early entry best"
+      ]
+    },
+    "visit": {
+      "intro": "INAH + often CONANP fees; verify hours on INAH pages; no invented tomb access.",
+      "hours": "INAH zone commonly 08:00–17:00 (last entry earlier, often ~16:00) — verify inah.gob.mx / lugares.inah.gob.mx. Park-related windows may differ slightly — confirm live.",
+      "tickets": "INAH archaeological-zone ticket (CATVI / on-site) + often separate CONANP national-park fee. E-boletos when the product is live on ventadeboletosenlinea.inah.gob.mx. Museum may be bundled or separate. Do not invent MXN. Nationality / Sunday policies can change — verify.",
+      "dress": "Light long sleeves for sun and insects; sturdy closed shoes for jungle stairs; rain layer in wet season. Sacred archaeology — no climbing closed temples.",
+      "duration": "3–5 hours for Palace, Temple of the Inscriptions exterior circuits, and Cross Group; full day if museum + slow rainforest walking.",
+      "access": "Stairs and humidity between complexes; roots and mud in rainy season. Wheelchair access is limited — plan honestly. Interior tomb access rules change — never assume entry.",
+      "tips": [
+        "Budget for INAH + possible CONANP park fee — two-fee stack is common.",
+        "Buy official INAH products only; verify whether e-boletos are live for Palenque.",
+        "Do not invent MXN or “guaranteed Pakal tomb entry.”",
+        "Enter at opening for cooler air and fewer coaches.",
+        "Mosquito repellent, water, and rain prep year-round.",
+        "Bonampak / Yaxchilán are separate long expedition days.",
+        "No drones without permit; stay on authorised paths."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://www.inah.gob.mx/zonas/zona-arqueologica-palenque",
+      "ticketsLabel": "INAH — Zona Arqueológica Palenque (official)",
+      "ticketsNote": "INAH zone ticket + often CONANP park fee. E-boletos when product live on ventadeboletosenlinea.inah.gob.mx. Do not invent MXN or tomb access. Verify hours live."
+    },
+    "etiquette": {
+      "intro": "Maya sacred city in rainforest / national park — heritage paths only.",
+      "bullets": [
+        "Stay on authorised paths; protect roots and monuments.",
+        "Do not climb closed or roped-off temples.",
+        "No drones without permit.",
+        "Quiet near wildlife; pack out rubbish.",
+        "Never force closed interiors (including tomb access myths).",
+        "Threshold Atlas tone: Classic Maya ritual landscape, not lost-city playground."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Palenque.",
+      "paragraphs": [
+        "Fly Villahermosa (VSA) or Palenque (PQM) when services run; ADO / colectivo to Palenque town; then combi or taxi to the park gate and INAH zone.",
+        "On site, jungle paths and stairs link the Palace, Temple of the Inscriptions, and Cross Group. Humidity makes midday hard — start early.",
+        "Carry both fee receipts when the park fee is collected separately from the INAH boleto."
+      ],
+      "bullets": [
+        "VSA / PQM flight or long bus → Palenque town",
+        "Combi / taxi to park + INAH gate",
+        "Jungle stairs between major groups",
+        "Keep INAH (+ CONANP) receipts"
+      ]
+    },
+    "bestTime": {
+      "intro": "Early entry; dry months ease muddy trails.",
+      "paragraphs": [
+        "Early morning is cooler with better wildlife chances. Dry months ease mud; rainy season is lush but slippery and mosquito-heavy.",
+        "Midday humidity under the canopy is draining even in shade."
+      ],
+      "bullets": [
+        "Enter at opening",
+        "Dry months friendlier underfoot",
+        "Rainy season = mud + mosquitoes",
+        "Verify live last-entry time"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm hours and fee stack on inah.gob.mx / CONANP notices.",
+        "Do not invent MXN or Pakal tomb interior access.",
         "SanctaWay is informational; it does not sell tickets or grant access.",
         "Hero image is an Unsplash placeholder pending visual / Commons pass."
       ]

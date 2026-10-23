@@ -143,7 +143,7 @@
     "related": [
       "prambanan",
       "angkor-wat",
-      "shwedagon"
+      "ellora"
     ],
     "overview": {
       "body": [
@@ -714,7 +714,7 @@
     "related": [
       "meenakshi",
       "kashi-vishwanath",
-      "mahabodhi"
+      "taj-mahal"
     ],
     "overview": {
       "body": [
@@ -1175,7 +1175,7 @@
     "related": [
       "blue-mosque",
       "hassan-ii-mosque",
-      "mezquita-cordoba"
+      "pantheon-rome"
     ],
     "overview": {
       "body": [
@@ -1634,7 +1634,7 @@
     "related": [
       "milan-duomo",
       "sagrada-familia",
-      "notre-dame"
+      "pantheon-rome"
     ],
     "overview": {
       "body": [
@@ -1863,7 +1863,7 @@
     "related": [
       "holy-sepulchre",
       "st-peters",
-      "guadalupe"
+      "st-catherines-sinai"
     ],
     "overview": {
       "body": [
@@ -2548,7 +2548,7 @@
     "related": [
       "holy-sepulchre",
       "church-of-the-nativity",
-      "dome-of-the-rock"
+      "bahai-gardens-haifa"
     ],
     "overview": {
       "body": [
@@ -3230,7 +3230,7 @@
     "related": [
       "stonehenge",
       "santiago-de-compostela",
-      "notre-dame"
+      "meteora"
     ],
     "overview": {
       "body": [
@@ -3460,7 +3460,7 @@
     "related": [
       "mahabodhi",
       "kashi-vishwanath",
-      "st-peters"
+      "bahai-gardens-haifa"
     ],
     "overview": {
       "body": [
@@ -3575,7 +3575,7 @@
     "related": [
       "teotihuacan",
       "machu-picchu",
-      "petra"
+      "tikal"
     ],
     "overview": {
       "body": [
@@ -4151,7 +4151,7 @@
     "related": [
       "senso-ji",
       "fushimi-inari",
-      "meiji-shrine"
+      "kinkaku-ji"
     ],
     "overview": {
       "body": [
@@ -4843,7 +4843,7 @@
     "related": [
       "blue-mosque",
       "hagia-sophia",
-      "mezquita-cordoba"
+      "taj-mahal"
     ],
     "overview": {
       "body": [
@@ -4958,7 +4958,7 @@
     "related": [
       "holy-sepulchre",
       "western-wall",
-      "dome-of-the-rock"
+      "st-catherines-sinai"
     ],
     "overview": {
       "body": [
@@ -5533,7 +5533,7 @@
     "related": [
       "fushimi-inari",
       "kiyomizu-dera",
-      "meiji-shrine"
+      "kinkaku-ji"
     ],
     "overview": {
       "body": [
@@ -5647,7 +5647,7 @@
     "related": [
       "kashi-vishwanath",
       "golden-temple",
-      "prambanan"
+      "ellora"
     ],
     "overview": {
       "body": [
@@ -5875,7 +5875,7 @@
     "related": [
       "stonehenge",
       "petra",
-      "chartres"
+      "meteora"
     ],
     "overview": {
       "body": [
@@ -6217,7 +6217,7 @@
     "related": [
       "chichen-itza",
       "machu-picchu",
-      "petra"
+      "tikal"
     ],
     "overview": {
       "body": [
@@ -6413,6 +6413,920 @@
       "bullets": [
         "No invented EGP fares — confirm on egymonuments.com.",
         "Sun Alignment access/pricing: verify live when offered.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "bahai-gardens-haifa",
+    "name": "Baháʼí Gardens (Terraces of the Shrine of the Báb), Haifa",
+    "shortName": "Baháʼí Gardens Haifa",
+    "location": "Mount Carmel, Haifa",
+    "country": "Israel",
+    "region": "Middle East",
+    "regionSlug": "middle-east",
+    "religions": [
+      "Baháʼí"
+    ],
+    "religionSlugs": [
+      "bahai"
+    ],
+    "summary": "UNESCO Baháʼí Holy Places on Mount Carmel — free sacred-garden terraces; shrine vs viewpoint hours differ. Official: ganbahai.org.il (third-party \"tickets\" are tours, not admission).",
+    "heroImage": "https://images.unsplash.com/photo-1570939274717-7eda259b50ed?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Shrine of the Báb completed 1909; terraces completed 2001 as UNESCO Baháʼí Holy Places axis",
+      "patron": "The Báb — resting place of the Prophet-Herald of the Baháʼí Faith",
+      "unesco": "UNESCO World Heritage — Baháʼí Holy Places in Haifa and the Western Galilee",
+      "typicalVisit": "1–3 hours (viewpoint entrances); longer if combining guided terrace tour by reservation"
+    },
+    "related": [
+      "lotus-temple",
+      "western-wall",
+      "dome-of-the-rock"
+    ],
+    "overview": {
+      "body": [
+        "The Baháʼí Gardens in Haifa are nineteen landscaped terraces ascending the northern slope of Mount Carmel, centred on the golden-domed Shrine of the Báb — among Israel's highest everyday sacred-garden tourism draws and part of the UNESCO Baháʼí Holy Places.",
+        "Frame the visit as a living Baháʼí Holy Place gifted to humanity, not an Instagram staircase. Self-guided public access is segmented by entrance: Upper Terraces at 61 Yefe Nof (Louis Promenade viewpoint), Main Entrance at 80 Hatzionut (closest shrine / inner-garden window), and German Colony Plaza at 21 Hagefen. Walking the full terrace stair as a casual through-hike is not how tourist access is organised.",
+        "Entry and official guided tours are free. Official information: ganbahai.org.il (visit-us-haifa). Large-group and guided bookings: booking.ganbahai.org.il. Products sold as \"Baháʼí Gardens tickets\" online are typically third-party tours — not gate admission.",
+        "Self-guided viewpoints commonly open 09:00–17:00 daily. At the Main Entrance, the Shrine of the Báb and inner gardens commonly open 09:00–12:00, with outer gardens longer to 17:00 — verify ganbahai.org.il. Closed on Baháʼí Holy Days and Yom Kippur; check the site's upcoming-closures notice before you travel.",
+        "Dress covers shoulders and knees (no torn clothing). Quiet; water bottle OK; no other food/drink, chewing gum, or smoking; no weapons or animals. Pebbled paths can be slippery — sensible shoes. Wheelchair assistance needs advance call/email per the official FAQ (commonly ≥7 business days)."
+      ],
+      "highlights": [
+        "UNESCO Baháʼí Holy Places — Mount Carmel terrace axis",
+        "Free entry and free guided tours — ganbahai.org.il",
+        "Shrine / inner gardens shorter than outer viewpoints — plan the Main Entrance morning window",
+        "Segmented entrances; not a casual full-stair through-hike",
+        "Modest dress; living Holy Place etiquette"
+      ]
+    },
+    "visit": {
+      "intro": "Free Baháʼí Holy Place; verify segmented hours on ganbahai.org.il.",
+      "hours": "Self-guided viewpoints commonly 09:00–17:00 (Upper Terraces 61 Yefe Nof; German Colony Plaza 21 Hagefen). Main Entrance 80 Hatzionut: Shrine of the Báb + inner gardens commonly 09:00–12:00; outer gardens commonly 09:00–17:00. Guided terrace tours by reservation only. Closed Baháʼí Holy Days and Yom Kippur — verify ganbahai.org.il.",
+      "tickets": "Entrance is free; official guided tours are also free. Official info: ganbahai.org.il/visit-us-haifa. Guided / group booking: booking.ganbahai.org.il. Warn: third-party \"Baháʼí Gardens tickets\" are tours, not admission. Do not invent ILS fares.",
+      "dress": "Clothing that covers shoulders and reaches the knees, with no tears — living Holy Place standard per ganbahai.org.il. Quiet; no food/drink beyond a water bottle; no gum or smoking.",
+      "duration": "1–2 hours for a single viewpoint entrance; allow half a morning if aiming for the shrine window at Hatzionut. Guided terrace tours are separate reserved products — check booking.ganbahai.org.il.",
+      "access": "Three public entrances at different elevations — plan transport between levels (local bus / Carmelit / taxi). Upper Terraces are viewpoint-only with stairs; Main Entrance has more paved area. Wheelchair assistance: call/email ahead per official FAQ.",
+      "tips": [
+        "Use ganbahai.org.il only — ignore third-party \"admission tickets.\"",
+        "If you want the shrine / inner gardens, aim for the Main Entrance morning window (commonly ends at noon).",
+        "Check upcoming closures (Baháʼí Holy Days, Yom Kippur) before travel.",
+        "Book guided terrace tours ahead — reservation only; groups often need lead time.",
+        "Wear sensible shoes — pebbled paths can be slippery.",
+        "Do not treat the terraces as a full-day stair workout; access is segmented.",
+        "Bahjí / 'Akko (Shrine of Bahá'u'lláh) is a related but separate visit with its own hours."
+      ],
+      "entryType": "free",
+      "ticketsUrl": "https://ganbahai.org.il/visit-us-haifa/",
+      "ticketsLabel": "Baháʼí Gardens Haifa — official visit info (free)",
+      "ticketsNote": "No gate ticket. Guided tours free by reservation (booking.ganbahai.org.il). Third-party \"tickets\" are tours — not admission. Do not invent ILS."
+    },
+    "etiquette": {
+      "intro": "Living Baháʼí Holy Place — quiet gift-to-humanity sacred garden, not a photo staircase.",
+      "bullets": [
+        "Shoulders and knees covered; no torn clothing.",
+        "Quiet voice; no blocking paths for poses.",
+        "Water bottle only — no other food, drink, gum, or smoking.",
+        "No weapons or animals.",
+        "Respect shrine hours; do not invent \"guaranteed inner access\" beyond posted windows.",
+        "Threshold Atlas tone: sacred garden, not theme-park terraces."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach the Haifa terraces.",
+      "paragraphs": [
+        "Haifa is reachable by train, bus, or car from Tel Aviv / elsewhere in Israel. The gardens sit on Mount Carmel's northern slope with three public visitor points at different elevations — plan which entrance you need before you go.",
+        "Upper Terraces: 61 Yefe Nof (Louis Promenade). Main Entrance / shrine area: 80 Hatzionut Ave. German Colony Plaza viewpoint: 21 Hagefen. Local bus, Carmelit funicular, taxi, or walks between levels — the site is not organised as one continuous tourist through-hike.",
+        "Street parking near Yefe Nof is limited; Main Entrance parking is also limited. If you need wheelchair assistance, contact the accessibility contacts on ganbahai.org.il several business days ahead."
+      ],
+      "bullets": [
+        "Pick entrance by goal: viewpoint vs shrine morning window",
+        "Yefe Nof 61 · Hatzionut 80 · Hagefen 21",
+        "Bus / Carmelit / taxi between levels",
+        "Accessibility: advance notice per official FAQ"
+      ]
+    },
+    "bestTime": {
+      "intro": "Morning for shrine access; late afternoon light on terraces.",
+      "paragraphs": [
+        "If the Shrine of the Báb and inner gardens matter, prioritise the Main Entrance morning window (commonly 09:00–12:00). Outer viewpoints stay open longer into the afternoon.",
+        "Late afternoon light on the terrace axis is popular for views toward the bay. Avoid Baháʼí Holy Days and Yom Kippur — the gardens close. Summer heat on Mount Carmel is real; winter rain makes pebbled paths slick."
+      ],
+      "bullets": [
+        "Shrine / inner gardens: morning Main Entrance window",
+        "Viewpoints: 09:00–17:00 self-guided",
+        "Check holy-day closures on ganbahai.org.il",
+        "Sensible shoes for pebbled paths"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm hours and closures on ganbahai.org.il — schedules change for holy days and special notices.",
+        "Free entry; third-party \"tickets\" are tours, not admission.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "meteora",
+    "name": "Meteora Monasteries, Thessaly",
+    "shortName": "Meteora",
+    "location": "Kalambaka / Kastraki, Thessaly",
+    "country": "Greece",
+    "region": "Europe",
+    "regionSlug": "europe",
+    "religions": [
+      "Christian"
+    ],
+    "religionSlugs": [
+      "christian"
+    ],
+    "summary": "UNESCO Mixed cliff monasteries — six active Orthodox houses; cash admission per gate, rotating closed days. Official Great Meteoron: meteoromonastery.gr. No combined online pass.",
+    "heroImage": "https://images.unsplash.com/photo-1478144592103-25e218a04891?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Hermit settlement from medieval centuries; Great Meteoron traditionally 14th c.; six active houses today",
+      "patron": "Eastern Orthodox monastic communities (Great Meteoron, Varlaam, Rousanou, St Nicholas Anapafsas, Holy Trinity, St Stephen)",
+      "unesco": "UNESCO Mixed World Heritage — Meteora",
+      "typicalVisit": "Half to full day for 2–3 houses; full circuit is ambitious in one day"
+    },
+    "related": [
+      "acropolis-parthenon",
+      "mont-saint-michel",
+      "paro-taktsang"
+    ],
+    "overview": {
+      "body": [
+        "Meteora is Greece's iconic \"between heaven and earth\" pilgrimage-tourism landscape — sandstone pillars crowned by Eastern Orthodox monasteries above Kalambaka and Kastraki in Thessaly. It is a UNESCO Mixed World Heritage site with six active houses open to visitors on rotating schedules.",
+        "Plan by the closed-day matrix, not alphabet. The six active monasteries are Great Meteoron, Varlaam, Rousanou, St Nicholas Anapafsas, Holy Trinity, and St Stephen. Each sets its own seasonal hours and weekly closed day — verify live the morning of your visit.",
+        "There is no combined online monastery pass. Admission is typically paid cash at each gate — commonly cited figures circulate online, but verify on site and do not invent EUR. Official Great Meteoron site: meteoromonastery.gr. National tourism overview: visitgreece.gr. Tours are separate from gate admission; \"skip-the-line Meteora tickets\" are not a primary official CTA.",
+        "These are living Orthodox monasteries. Modest dress is required (men: no shorts/sleeveless; women: skirts preferred / follow posted rules at each house). Silence in the katholikon; no drones or disrespectful cliff posing.",
+        "St Stephen has bridge access with fewer stairs; Holy Trinity and others involve steep climbs. Build a realistic day around two or three houses. Kalambaka is the logistics base for trains, buses, taxis, and hire cars on the monastery circuit road."
+      ],
+      "highlights": [
+        "UNESCO Mixed — six active cliff monasteries",
+        "Cash per gate; no single e-pass — verify closed days live",
+        "Great Meteoron official: meteoromonastery.gr",
+        "Modest Orthodox dress; living monastic houses",
+        "2–3 houses per day is honest pacing"
+      ]
+    },
+    "visit": {
+      "intro": "Active Orthodox monasteries; cash per house; verify each closed day.",
+      "hours": "Each monastery sets seasonal hours and a weekly closed day (e.g. Great Meteoron often closed Tue in summer; winter closures can be broader — verify meteoromonastery.gr and on-site notices). Do not assume all six are open the same day. Spring/autumn are kinder for hiking; winter mist is photogenic but trails slippery.",
+      "tickets": "No combined online monastery pass. Admission typically cash at each gate — verify live EUR on site; do not invent fares. Official Great Meteoron: meteoromonastery.gr. Tours ≠ gate admission. Warn against \"skip-the-line Meteora tickets\" as primary CTA.",
+      "dress": "Active Orthodox monasteries — modest dress. Men: no shorts or sleeveless tops. Women: skirts preferred at some houses; follow posted rules at the gate. Cover shoulders; silence in churches.",
+      "duration": "Half day for two houses; full day for three with travel between. A six-house sweep in one day is usually rushed and disrespectful of hours.",
+      "access": "Steep stairs and cliff paths at several houses. St Stephen is the easiest bridge access. Holy Trinity and others demand fitness. Wear grippy shoes; carry water.",
+      "tips": [
+        "Check each house's closed day the morning of — schedules rotate.",
+        "Bring cash for gate admission; do not rely on a single e-ticket myth.",
+        "Start with Great Meteoron / Varlaam if time-limited — verify they are open that day.",
+        "St Stephen for fewer stairs; Holy Trinity for the classic climb when open.",
+        "Base in Kalambaka or Kastraki for buses, taxis, or a hire car circuit.",
+        "No drones; quiet in katholikon; modest dress at every gate.",
+        "Visitgreece.gr for regional overview; meteoromonastery.gr for Great Meteoron."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://www.meteoromonastery.gr/en/visit/",
+      "ticketsLabel": "Great Meteoron official visit page (cash per house)",
+      "ticketsNote": "No combined online pass. Pay cash at each monastery gate — verify live EUR; do not invent fares. Third-party \"skip-the-line\" products are tours, not official multi-house tickets."
+    },
+    "etiquette": {
+      "intro": "Living Orthodox monasteries on cliffs — pilgrims first, photos second.",
+      "bullets": [
+        "Modest dress at every gate; follow women's skirt rules where posted.",
+        "Silence in the katholikon and chapels.",
+        "No drones; no cliff-edge stunts for photos.",
+        "Do not treat closed days as \"inconvenient tourist blackouts\" — they are monastic rhythm.",
+        "Cash ready; be polite at ticket windows.",
+        "Stay on marked paths — cliffs are real."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Meteora.",
+      "paragraphs": [
+        "Train or intercity bus to Kalambaka (KALAMBAKA); Kastraki is the nearer village under the rocks. From Athens or Thessaloniki allow a half-day transfer each way.",
+        "On site, use the local monastery bus (seasonal), taxi, hire car, or organised circuit. Walking between houses is possible for fit visitors but distances and climbs add up quickly in summer heat.",
+        "Park only in signed lots; monastery approach roads are narrow. Build your day around which houses are open — not around a fixed Instagram checklist."
+      ],
+      "bullets": [
+        "Rail / bus → Kalambaka; Kastraki closer to cliffs",
+        "Local bus / taxi / hire car on circuit road",
+        "Confirm open houses before starting the loop",
+        "Steep climbs at several gates — plan fitness honestly"
+      ]
+    },
+    "bestTime": {
+      "intro": "Spring and autumn for hiking; always check closed days.",
+      "paragraphs": [
+        "April–June and September–October balance mild weather with open trails. July–August heat makes stair climbs harder; winter brings mist and slippery stone but dramatic light.",
+        "Arrive at the first open house near morning opening to beat coach waves. Never assume Tuesday / Monday patterns without verifying the specific house — Great Meteoron's closed days differ by season."
+      ],
+      "bullets": [
+        "Shoulder seasons best for climbs",
+        "Verify closed-day matrix daily",
+        "Morning opening beats midday coaches",
+        "Winter: beauty + slippery trails"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm each monastery's hours and closed day live — they change by season.",
+        "Cash per gate; no official combined e-pass.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "st-catherines-sinai",
+    "name": "Saint Catherine's Monastery, Mount Sinai",
+    "shortName": "St Catherine's Sinai",
+    "location": "Saint Catherine, South Sinai",
+    "country": "Egypt",
+    "region": "Middle East",
+    "regionSlug": "middle-east",
+    "religions": [
+      "Christian"
+    ],
+    "religionSlugs": [
+      "christian"
+    ],
+    "summary": "UNESCO Orthodox monastery at the foot of Mount Sinai — ultra-short visitor window; typically closed Fri/Sun/feasts. Official: sinaimonastery.com. Grounds generally free; summit hike is separate.",
+    "heroImage": "https://images.unsplash.com/photo-1609137144813-7d9921338f24?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Traditionally mid-6th century under Justinian; among the oldest continuously inhabited Christian monasteries",
+      "patron": "Saint Catherine of Alexandria; Burning Bush / Mount of the Decalogue pilgrimage axis",
+      "unesco": "UNESCO World Heritage — Saint Catherine Area",
+      "typicalVisit": "Monastery: ~1–2 hours inside the short morning window; summit hike is a separate half-night / dawn undertaking"
+    },
+    "related": [
+      "church-of-the-nativity",
+      "lalibela",
+      "petra"
+    ],
+    "overview": {
+      "body": [
+        "Saint Catherine's Monastery sits at the foot of Mount Sinai (Jebel Musa) in South Sinai — a UNESCO World Heritage pilgrimage landscape and among the oldest continuously inhabited Christian monasteries, centred on the Burning Bush tradition and the Mount of the Decalogue.",
+        "This is a living Greek Orthodox monastery, not a theme-park ruin. The Sinaite fathers treat visitors as pilgrims. Official general information: sinaimonastery.com. As a rule the monastery is open roughly 09:00–11:30 on permitted days and is typically closed on Fridays, Sundays, and major Greek Orthodox feast days — verify sinaimonastery.com before you travel.",
+        "The visitor window is extremely short. Arrive early; do not invent \"all-day\" access. Monastery grounds are generally free; a museum / sacristy desk may charge a small separate fee — verify on site and do not invent EGP. Egypt MoTA archaeology tickets are not the monastery's primary CTA. Third-party \"Sinai tickets\" are usually transport or tour packages.",
+        "The Mount Sinai summit hike (Steps of Repentance vs Camel Trail) is a separate half-night or dawn undertaking from the monastery visit. Classic combos (dawn summit + mid-morning monastery) are tiring — state honest time math and hydrate.",
+        "Soft blockers: short hours, weekly/feast closures, and Sinai road / checkpoint / security logistics. Re-check travel advisories and convoy rules at write time. Do not invent photography policies or \"guaranteed Burning Bush access\" beyond what the monastery publishes."
+      ],
+      "highlights": [
+        "UNESCO — oldest continuously inhabited Christian monastery axis",
+        "Ultra-short hours (~09:00–11:30); often closed Fri/Sun/feasts",
+        "Official: sinaimonastery.com — pilgrims, not tourists",
+        "Grounds generally free; museum fee verify on site",
+        "Summit hike is a separate half-night effort"
+      ]
+    },
+    "visit": {
+      "intro": "Living Orthodox monastery with a very short visitor window — verify sinaimonastery.com.",
+      "hours": "As a rule open ~09:00–11:30 on permitted days; typically closed Fridays, Sundays, and major Greek Orthodox feast days — verify sinaimonastery.com. Feast-day calendars change yearly. Extremely short window — arrive early.",
+      "tickets": "Monastery grounds generally free. Museum / sacristy may have a small separate fee — verify on site; do not invent EGP. Official: sinaimonastery.com. Egypt MoTA archaeology tickets are not the primary monastery CTA. Third-party \"Sinai tickets\" are transport/tours.",
+      "dress": "Modest dress for a living Orthodox monastery and pilgrimage site. Quiet; follow posted photography and guided-tour rules. Visitors are received as pilgrims.",
+      "duration": "Plan 1–2 hours inside the morning window. Adding a summit hike means overnight logistics and a separate physical day — do not compress both casually.",
+      "access": "Remote desert site — organised convoy, bus, or tour from Sharm el-Sheikh, Dahab, or Cairo is typical. Checkpoint and road rules change; re-check security/travel advice. Summit trails are steep and cold before dawn.",
+      "tips": [
+        "Confirm open days on sinaimonastery.com — avoid Fri/Sun/feasts.",
+        "Arrive before the morning window; it closes by late morning.",
+        "Summit hike ≠ monastery ticket — separate time, fitness, and guide/camel choices.",
+        "Hydrate; desert nights are cold on the summit trail.",
+        "Do not invent Burning Bush access claims beyond official notices.",
+        "Third-party \"Sinai tickets\" are tours/transport — not monastery admission.",
+        "Re-check Sinai road/security logistics before booking."
+      ],
+      "entryType": "free",
+      "ticketsUrl": "https://www.sinaimonastery.com/st-catherine/index.php/en/the-pilgrimage/general-information",
+      "ticketsLabel": "Saint Catherine's Monastery — official pilgrimage information",
+      "ticketsNote": "Grounds generally free; museum/sacristy fee verify on site. No invented EGP. Third-party Sinai \"tickets\" are tours/transport."
+    },
+    "etiquette": {
+      "intro": "Pilgrims first — living Orthodox monastery at Sinai.",
+      "bullets": [
+        "Modest dress; quiet voice inside monastic space.",
+        "Follow photography and recording rules as posted / guided.",
+        "Do not treat feast closures as tourist inconvenience.",
+        "Respect monks' prayer schedule — the window exists for a reason.",
+        "No drones; no cliff or wall climbing for photos.",
+        "Threshold Atlas tone: pilgrimage, not desert theme park."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Saint Catherine's.",
+      "paragraphs": [
+        "Most visitors arrive on organised tours or hired transport from Sharm el-Sheikh, Dahab, or Cairo. The monastery is remote at the foot of Jebel Musa; independent driving involves checkpoints and changing security rules — verify current road advice.",
+        "Dawn summit hikes usually depart overnight from the mountain trailheads; the monastery visit follows later in the morning on open days. Build sleep and hydration into the plan.",
+        "There is no casual \"drop by anytime\" access. Match your transport booking to an open monastery day, not only to a summit sunrise."
+      ],
+      "bullets": [
+        "Sharm / Dahab / Cairo organised convoy or tour common",
+        "Match logistics to open days (not Fri/Sun/feasts)",
+        "Summit trail separate from monastery gate",
+        "Re-check Sinai security and road rules"
+      ]
+    },
+    "bestTime": {
+      "intro": "Open-day mornings only; summit dawn is a separate calculation.",
+      "paragraphs": [
+        "Visit only on days the monastery publishes as open. The ~09:00–11:30 window is the whole game for the monastery itself. Cooler months ease desert heat; winter summit nights are cold.",
+        "Combining dawn summit + monastery is classic and exhausting. If the monastery is closed that morning, you still hiked — plan the pair only when both align."
+      ],
+      "bullets": [
+        "Open mornings only — verify calendar",
+        "Avoid feast-day closures",
+        "Summit dawn = separate half-night",
+        "Hydration and layers essential"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm hours and closures on sinaimonastery.com — Fri/Sun/feast pattern is the rule of thumb, not a guarantee of every other day.",
+        "Sinai logistics and advisories change — re-check before travel.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "tikal",
+    "name": "Tikal National Park, Petén",
+    "shortName": "Tikal",
+    "location": "Petén, near Flores / El Remate",
+    "country": "Guatemala",
+    "region": "Americas",
+    "regionSlug": "americas",
+    "religions": [
+      "Maya"
+    ],
+    "religionSlugs": [
+      "maya"
+    ],
+    "summary": "UNESCO Maya capital in rainforest — Temple I–IV circuits. Official e-boletos: boletos.culturaguate.gob.gt (nationality-correct Extranjero vs citizen). Sunrise/sunset need park ticket + special boleto + often authorized guide.",
+    "heroImage": "https://images.unsplash.com/photo-1587595431973-160d0d94add1?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Major Classic Maya city; monumental growth roughly 4th–9th centuries CE",
+      "patron": "Maya sacred city landscape (Temple I–IV, Mundo Perdido, and associated complexes)",
+      "unesco": "UNESCO World Heritage — Tikal National Park",
+      "typicalVisit": "Full day for main temples; sunrise/sunset are separate timed products"
+    },
+    "related": [
+      "chichen-itza",
+      "teotihuacan",
+      "machu-picchu"
+    ],
+    "overview": {
+      "body": [
+        "Tikal National Park in Guatemala's Petén is a UNESCO Maya capital set in rainforest — Temple I–IV, Mundo Perdido, and museum nodes form Central America's defining sacred-archaeology mega day.",
+        "Frame it as a living heritage landscape inside a national park, not a jungle-gym pyramid park. Stay on trails; do not climb closed structures; respect wildlife. Temple climbing rules change — verify live which structures are open.",
+        "Official tickets are Ministerio de Cultura y Deportes e-boletos at boletos.culturaguate.gob.gt. Buy the nationality-correct product (Extranjero vs Guatemalan citizen). Foreign visitors presenting citizen tickets are refused. Do not invent GTQ fares; warn fake ticket sites. The PDF Form 63A2 from the official platform is the ticket — screenshots and bank slips are not accepted.",
+        "Regular park entry is commonly 06:00–18:00. Sunrise (~04:00–06:00) and sunset (~18:00–20:00) require the park entry boleto plus a special amanecer/atardecer boleto, and an authorized guide is typically mandatory for those windows — guide hire is separate from the MCD platform.",
+        "Limited or no signal inside the park. Buy before the last checkpoint. Mosquito and rain prep matter year-round. Uaxactún and camping are separate add-on products on the same boletos shop."
+      ],
+      "highlights": [
+        "UNESCO Maya rainforest capital — Temple I–IV skyline",
+        "Official boletos.culturaguate.gob.gt — nationality-correct only",
+        "Sunrise/sunset = park ticket + special boleto + authorized guide",
+        "PDF Form 63A2 is the ticket — ignore fakes",
+        "Full-day forest walking; heat and humidity are severe"
+      ]
+    },
+    "visit": {
+      "intro": "National-park Maya city; buy nationality-correct MCD e-boletos only.",
+      "hours": "Regular entry commonly 06:00–18:00 daily. Sunrise entry ~04:00–06:00 and sunset ~18:00–20:00 are separate products — verify boletos.culturaguate.gob.gt access-hours page. Midday heat and humidity are severe.",
+      "tickets": "Official Ministerio de Cultura y Deportes e-boletos: boletos.culturaguate.gob.gt. Choose Extranjero vs citizen products correctly — mismatch = refused entry. Sunrise/sunset need park entry + special boleto + authorized guide (guide not sold on the platform). Do not invent GTQ; warn fake ticket sites. Only the official PDF Form 63A2 counts.",
+      "dress": "Light long sleeves for sun and insects; sturdy closed shoes for forest trails; rain layer in wet season. Sacred archaeology landscape — no climbing closed temples.",
+      "duration": "Full day for Temple I–IV, Mundo Perdido, and museums. Sunrise or sunset adds pre-dawn or evening hours plus guide logistics.",
+      "access": "Forest trails between complexes; distances add up. Limited shade at some plazas. Wheelchair access is constrained by roots and stairs — plan honestly. Temple IV canopy views are a highlight when the route is open.",
+      "tips": [
+        "Buy only on boletos.culturaguate.gob.gt — nationality-correct Extranjero label.",
+        "Carry the PDF Form 63A2 (print or phone) plus ID — not a bank receipt.",
+        "Sunrise/sunset: park boleto + special boleto + authorized guide.",
+        "Buy before the last checkpoint; signal inside the park is poor.",
+        "Mosquito repellent, water, and rain prep — rainforest is not optional gear.",
+        "Verify live which temples may be climbed — rules change.",
+        "Uaxactún / camping are separate boletos products."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://boletos.culturaguate.gob.gt/en/",
+      "ticketsLabel": "Boletos MCD — official Tikal e-tickets",
+      "ticketsNote": "Nationality-correct products only. Sunrise/sunset need extra boleto + authorized guide. Fake ticket sites exist — use culturaguate.gob.gt only. Do not invent GTQ."
+    },
+    "etiquette": {
+      "intro": "Maya sacred city in a national park — heritage landscape, not a gym.",
+      "bullets": [
+        "Stay on marked trails; protect roots and monuments.",
+        "Do not climb closed or roped-off structures.",
+        "Quiet near wildlife; no feeding animals.",
+        "Pack out rubbish; rainforest waste stays.",
+        "Follow guide instructions on sunrise/sunset circuits.",
+        "Threshold Atlas tone: sacred archaeology, not jungle playground."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Tikal.",
+      "paragraphs": [
+        "Fly into Mundo Maya (FRS) near Flores, or take the long bus from Guatemala City to Flores / Santa Elena, then continue to El Remate or the park gate. From Flores / El Remate, shuttle or taxi is commonly about an hour to the entrance.",
+        "On site, forest trails link Temple I–IV, Mundo Perdido, and the museums. Allow a full walking day; midday sun under the canopy is still draining.",
+        "Present boletos and ID at the gate for wristbands. Keep the PDF handy — validated tickets are single-use for that day once stamped."
+      ],
+      "bullets": [
+        "FRS flight or long bus → Flores / El Remate",
+        "~1 hr shuttle/taxi to park gate",
+        "Full-day forest walking on site",
+        "Boletos + ID at entrance"
+      ]
+    },
+    "bestTime": {
+      "intro": "Sunrise/sunset for Temple IV light; dry season eases trails.",
+      "paragraphs": [
+        "Dry season (roughly Nov–April) eases mud and storms; wet season is lush but slippery and mosquito-heavy. Sunrise and sunset circuits are the photographic peaks when you hold the right boletos and guide.",
+        "Regular 06:00 entry beats heat better than late morning. Midday is the hardest window for humidity."
+      ],
+      "bullets": [
+        "Dry season friendlier underfoot",
+        "Sunrise/sunset need extra boletos + guide",
+        "Early regular entry beats heat",
+        "Rain gear year-round wise"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm hours and products on boletos.culturaguate.gob.gt.",
+        "Nationality mismatch = refused entry; keep the official PDF.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "ellora",
+    "name": "Ellora Caves (Kailasa Cave 16), Maharashtra",
+    "shortName": "Ellora",
+    "location": "Near Chhatrapati Sambhajinagar (Aurangabad), Maharashtra",
+    "country": "India",
+    "region": "South Asia",
+    "regionSlug": "south-asia",
+    "religions": [
+      "Hindu",
+      "Buddhist"
+    ],
+    "religionSlugs": [
+      "hindu",
+      "buddhist"
+    ],
+    "summary": "UNESCO multi-faith rock-cut sacred continuum — Kailasa Cave 16 star. ASI e-tickets asi.paygov.org.in; commonly closed Tuesdays. Do not invent INR; warn look-alike scalpers.",
+    "heroImage": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Rock-cut phases roughly 6th–11th centuries CE; Kailasa (Cave 16) among the world's largest monolithic temples",
+      "patron": "Multi-faith continuum — Buddhist (south), Hindu incl. Kailasa (centre), Jain (north)",
+      "unesco": "UNESCO World Heritage — Ellora Caves",
+      "typicalVisit": "3–5 hours for highlights; full cliff continuum is a long walking day"
+    },
+    "related": [
+      "meenakshi",
+      "borobudur",
+      "abu-simbel"
+    ],
+    "overview": {
+      "body": [
+        "Ellora Caves near Chhatrapati Sambhajinagar (Aurangabad) are a UNESCO multi-faith rock-cut sacred continuum — Buddhist caves to the south, Hindu caves centred on the monumental Kailasa (Cave 16), and Jain caves to the north along roughly two kilometres of cliff.",
+        "Kailasa is the global draw: a vast monolithic Hindu temple excavated downward from the basalt. Still, Ellora is not \"only Cave 16\" — the Buddhist and Jain caves complete the sacred continuum. Ajanta is a separate day trip; do not pretend one ticket covers both sites.",
+        "ASI commonly opens sunrise–sunset / ticket slots ~06:00–18:00 and closes on Tuesdays — verify asi.nic.in World Heritage Ellora page. Official e-ticketing: asi.paygov.org.in (Aurangabad / Chhatrapati Sambhajinagar circle → Ellora Caves). Legacy ASI-linked fronts may appear; prefer the current official paygov channel. Nationality tiers apply (Indian/SAARC/BIMSTEC vs other foreign). Do not invent INR fares; warn look-alike .com scalpers.",
+        "Modest dress; no climbing sculptures; quiet in cave shrines; remove shoes when posted in active worship niches. Heat and walking distance are the real constraints — water, hat, and honest pacing.",
+        "Start at Cave 16 if time-limited, then add Buddhist or Jain wings as energy allows. An electric site vehicle may be offered as an extra — verify on site. Pairing Ajanta the same day is usually dishonest time math."
+      ],
+      "highlights": [
+        "UNESCO — Kailasa Cave 16 + Buddhist/Hindu/Jain continuum",
+        "ASI e-tickets: asi.paygov.org.in; typically closed Tue",
+        "Nationality fare tiers — verify live INR; avoid fake .com sellers",
+        "Long cliff walk — start at Kailasa if short on time",
+        "Ajanta is a separate day"
+      ]
+    },
+    "visit": {
+      "intro": "ASI World Heritage caves; closed Tuesdays — verify asi.nic.in / asi.paygov.org.in.",
+      "hours": "Commonly sunrise–sunset / ticketed slots ~06:00–18:00; closed Tuesdays — verify asi.nic.in Ellora page and the e-ticket calendar. Oct–Feb cooler; monsoon lush but slippery.",
+      "tickets": "ASI e-ticketing via asi.paygov.org.in (select Aurangabad / Chhatrapati Sambhajinagar circle → Ellora Caves). Info: asi.nic.in. Nationality tiers apply. Do not invent INR. Warn look-alike ticket scalpers — ASI has warned on fakes for Agra-class monuments; same risk class. One ticket typically covers the cave continuum including Kailasa — confirm live on the portal.",
+      "dress": "Modest clothing for a multi-faith sacred complex. Shoes off when posted. No climbing or touching sculpture surfaces.",
+      "duration": "3–5 hours for Kailasa plus selected wings; full south–north continuum is a long hot walk.",
+      "access": "Uneven rock floors, steps into caves, and outdoor cliff paths. Site vehicle may help between clusters — ask on site. Midday basalt heat is intense.",
+      "tips": [
+        "Skip Tuesdays — Ellora is commonly closed.",
+        "Book asi.paygov.org.in only; ignore look-alike .com scalpers.",
+        "Start at Cave 16 (Kailasa) if time-limited.",
+        "Carry water and sun protection — the cliff walk is exposed.",
+        "Ajanta needs its own day and ticket — do not force both.",
+        "Quiet in shrines; no climbing carvings.",
+        "Verify nationality tier matches your ID."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://asi.paygov.org.in/asi-webapp/",
+      "ticketsLabel": "ASI e-ticketing (Ellora Caves)",
+      "ticketsNote": "Closed Tuesdays typically. Nationality tiers — verify live INR on asi.paygov.org.in / asi.nic.in. Avoid fake ticket websites."
+    },
+    "etiquette": {
+      "intro": "Multi-faith rock-cut sacred complex — Hindu, Buddhist, and Jain caves.",
+      "bullets": [
+        "Modest dress; remove shoes when posted.",
+        "No climbing or touching sculptures.",
+        "Quiet in active worship niches.",
+        "Do not treat Jain or Buddhist wings as optional \"extras\" only for photos.",
+        "Follow ASI photo rules where posted.",
+        "Threshold Atlas tone: living sacred continuum, not quarry playground."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Ellora.",
+      "paragraphs": [
+        "Ellora is about 30 km from Chhatrapati Sambhajinagar (Aurangabad). MSRTC buses, taxis, and day tours run regularly. Aurangabad has rail and airport links from major Indian cities.",
+        "On site the caves span roughly two kilometres of cliff — Buddhist south, Hindu centre with Kailasa, Jain north. Plan walking or the site vehicle between clusters.",
+        "Ajanta is a different escarpment and a different day. Same-day double bills punish both sites."
+      ],
+      "bullets": [
+        "~30 km from Aurangabad / Chhatrapati Sambhajinagar",
+        "Bus, taxi, or tour to the ASI gate",
+        "Long cliff continuum on foot",
+        "Ajanta = separate day"
+      ]
+    },
+    "bestTime": {
+      "intro": "Cooler Oct–Feb; never on Tuesday.",
+      "paragraphs": [
+        "October–February is the most comfortable walking season. Monsoon greens the plateau but makes rock floors slippery. Summer basalt heat is severe by midday.",
+        "Arrive near opening to see Kailasa before coach density peaks. Confirm the e-ticket slot calendar so you do not land on a Tuesday closure."
+      ],
+      "bullets": [
+        "Oct–Feb preferred",
+        "Closed Tue — check calendar",
+        "Early entry for Kailasa light",
+        "Monsoon = slippery rock"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm Tue closure and ticket tiers on asi.nic.in / asi.paygov.org.in.",
+        "Fake ASI look-alike sites exist — use official domains only.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "taj-mahal",
+    "name": "Taj Mahal, Agra",
+    "shortName": "Taj Mahal",
+    "location": "Agra, Uttar Pradesh",
+    "country": "India",
+    "region": "South Asia",
+    "regionSlug": "south-asia",
+    "religions": [
+      "Islamic"
+    ],
+    "religionSlugs": [
+      "islamic"
+    ],
+    "summary": "UNESCO Mughal Islamic mausoleum — India's defining day-visit. Closed Fridays for general viewing. Official: tajmahal.gov.in + ASI e-tickets; hard-warn fake ticket sites. Do not invent INR.",
+    "heroImage": "https://images.unsplash.com/photo-1564507592333-c60657eea523?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Commissioned 1632 by Shah Jahan; completed mid-17th century as Mumtaz Mahal's mausoleum",
+      "patron": "Mughal Islamic mausoleum and mosque precinct (Taj complex)",
+      "unesco": "UNESCO World Heritage — Taj Mahal",
+      "typicalVisit": "2–4 hours on site; sunrise entry is the classic cooler window"
+    },
+    "related": [
+      "golden-temple",
+      "kashi-vishwanath",
+      "hassan-ii-mosque"
+    ],
+    "overview": {
+      "body": [
+        "The Taj Mahal in Agra is the world's highest-demand Mughal Islamic mausoleum monument — a UNESCO World Heritage complex of white marble tomb, mosque, jawab, and gardens along the Yamuna, and India tourism's defining day-visit.",
+        "Threshold Atlas frames it as a tomb of love and an Islamic sacred landscape, not only a marble selfie set. Modest dress; shoe covers near the mausoleum; quiet near cenotaph halls; no drones. Friday closure for general viewing is worship priority — not an \"inconvenient tourist blackout.\"",
+        "Opens about 30 minutes before sunrise and closes about 30 minutes before sunset on open days; closed Fridays for general viewing — verify tajmahal.gov.in. Night viewing is a separate limited product on select moon windows with its own booking path.",
+        "Official information: tajmahal.gov.in. E-tickets via asi.paygov.org.in / asiagracircle.in (and ASI-linked fronts when live). Optional extra for main mausoleum interior — state as optional and verify live. Do not invent INR fares. Hard-warn fake Taj ticket websites — ASI has repeatedly cautioned visitors.",
+        "Enter via East or West gate queues (South gate is exit-only). Battery bus / golf-cart segments are common for foreign-ticket holders — follow on-site flow. Mehtab Bagh across the Yamuna is a separate ASI ticket for reverse views. Carry ID matching your nationality fare tier; heat in May–June is extreme."
+      ],
+      "highlights": [
+        "UNESCO Mughal Islamic mausoleum — global demand peak",
+        "Closed Fridays for general viewing — verify tajmahal.gov.in",
+        "ASI e-tickets only — hard-warn fake ticket sites",
+        "Sunrise for cooler air; night viewing is a separate product",
+        "Modest dress; shoe covers; Islamic sacred landscape"
+      ]
+    },
+    "visit": {
+      "intro": "ASI / Agra Circle monument; closed Fridays — official tickets only.",
+      "hours": "Open days: ~30 minutes before sunrise to ~30 minutes before sunset. Closed Fridays for general viewing. Night viewing is a separate limited product — verify tajmahal.gov.in visiting-hours and ticketing pages.",
+      "tickets": "Official info tajmahal.gov.in; e-tickets asi.paygov.org.in / asiagracircle.in (ASI-linked payumoney fronts when live). Nationality tiers; optional mausoleum-interior add-on verify live. Do not invent INR. Hard-warn fake Taj ticket websites — use ASI / government domains only.",
+      "dress": "Modest clothing for an active Mughal Islamic mausoleum and mosque precinct. Shoe covers near the mausoleum as directed. No drones; quiet near cenotaph halls.",
+      "duration": "2–4 hours including security and gardens. Combining Agra Fort the same day needs honest time budget.",
+      "access": "East/West gate entry; South exit-only. Security screening; large bags to cloak. Battery bus segments common for foreign tickets. Marble can be blinding and hot at midday.",
+      "tips": [
+        "Never buy from random \"Taj ticket\" websites — ASI fake-ticket warnings are real.",
+        "Skip Fridays for general viewing; plan sunrise on an open day.",
+        "Carry ID matching nationality tier on the e-ticket.",
+        "Water OK; large bags go to cloak — travel light.",
+        "Mausoleum interior may be an optional extra — verify live.",
+        "Mehtab Bagh reverse view = separate ASI ticket.",
+        "May–June heat is extreme; sunrise is kinder."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://www.tajmahal.gov.in/ticketing.aspx",
+      "ticketsLabel": "Taj Mahal official ticketing information (ASI e-tickets)",
+      "ticketsNote": "Closed Fridays for general viewing. Use tajmahal.gov.in + asi.paygov.org.in / asiagracircle.in only. Fake ticket sites are a known risk. Do not invent INR."
+    },
+    "etiquette": {
+      "intro": "Active Mughal Islamic mausoleum — worship and tomb reverence first.",
+      "bullets": [
+        "Modest dress; shoe covers as directed near the mausoleum.",
+        "Quiet near cenotaph halls; no loud poses.",
+        "No drones; follow photo rules inside.",
+        "Friday closure is for worship — respect it.",
+        "Do not block prayer or security lanes for photos.",
+        "Threshold Atlas: tomb of love and Islamic sacred landscape."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach the Taj Mahal.",
+      "paragraphs": [
+        "Agra is linked by train and flight from Delhi and other Indian cities. From hotels or the station, use prepaid taxis or ride-hail to the East or West gate — confirm which gate your ticket flow expects.",
+        "Foreign-ticket holders often use battery bus / golf-cart segments inside the approach — follow staff directions. South gate is exit-only.",
+        "Agra Fort is nearby but is a separate ASI ticket and security line. Mehtab Bagh for the river reverse view is across the Yamuna with its own ticket."
+      ],
+      "bullets": [
+        "Train / flight into Agra",
+        "East or West gate entry (South exit-only)",
+        "Battery bus segments common on foreign tickets",
+        "Agra Fort / Mehtab Bagh = separate tickets"
+      ]
+    },
+    "bestTime": {
+      "intro": "Sunrise on open days; never plan general viewing for Friday.",
+      "paragraphs": [
+        "Sunrise entry is cooler and softer on the marble. Midday glare and heat are punishing, especially April–June. Night viewing exists only on limited moon windows with separate booking — verify live.",
+        "Winter mornings can be foggy; monsoon humidity is high. Always cross-check Friday closure before locking transport."
+      ],
+      "bullets": [
+        "Sunrise preferred",
+        "Closed Fridays (general viewing)",
+        "Night viewing = separate limited product",
+        "Extreme heat May–June"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm Friday closure and hours on tajmahal.gov.in.",
+        "Buy only via official ASI / government ticket channels — fake sites are common.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "kinkaku-ji",
+    "name": "Kinkaku-ji (Rokuon-ji / Golden Pavilion), Kyoto",
+    "shortName": "Kinkaku-ji",
+    "location": "Kita-ku, Kyoto",
+    "country": "Japan",
+    "region": "East Asia",
+    "regionSlug": "east-asia",
+    "religions": [
+      "Buddhist"
+    ],
+    "religionSlugs": [
+      "buddhist"
+    ],
+    "summary": "Rinzai Zen Golden Pavilion over Mirror Pond — Kyoto mega footfall. Gate admission at shokoku-ji.jp; pavilion exterior viewing only. No official skip-line e-ticket as primary CTA.",
+    "heroImage": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Ashikaga Yoshimitsu's villa begun 1397; became Rokuon-ji Zen temple; pavilion rebuilt 1955 after 1950 fire",
+      "patron": "Rinzai Zen (Shōkoku-ji school) — Rokuon-ji / Golden Pavilion",
+      "unesco": "Part of UNESCO Historic Monuments of Ancient Kyoto",
+      "typicalVisit": "45–90 minutes on the one-way garden path"
+    },
+    "related": [
+      "kiyomizu-dera",
+      "senso-ji",
+      "todai-ji"
+    ],
+    "overview": {
+      "body": [
+        "Kinkaku-ji — formally Rokuon-ji — is Kyoto's gold-leaf pavilion mirrored in Kyōko-chi (Mirror Pond), among Japan's highest single-temple tourist footfalls after places like Fushimi Inari, Kiyomizu-dera, and Sensō-ji.",
+        "It is an active Rinzai Zen temple of the Shōkoku-ji school. Visitors view the pavilion from the garden path only — there is no public interior entry to the Golden Pavilion. Quiet on paths; no drones; respect pond-edge barriers and sekitei.",
+        "Hours are commonly 09:00–17:00 daily year-round — verify shokoku-ji.jp (EN Kinkaku-ji). Hours may change for special exhibitions. Arrive at opening to beat coach waves; winter snow mornings and autumn maples are peak beauty and peak density.",
+        "Paid admission at the gate — official temple shokoku-ji.jp. Cash and temple cashless (Omairi Pay) are commonly accepted for admission per temple information — verify live; do not invent JPY. There is no official \"skip the line\" e-ticket as the primary CTA; third-party listings are tours or transport.",
+        "The garden path is one-way and can bottleneck. Beyond the pavilion viewpoint, steps continue — wheelchairs and strollers typically turn back there (temple FAQ). No on-site lockers. Combining Ryōan-ji or Ninnaji needs honest bus math."
+      ],
+      "highlights": [
+        "Rinzai Zen Golden Pavilion — exterior garden viewing only",
+        "Daily ~09:00–17:00 — verify shokoku-ji.jp",
+        "Gate admission (cash / Omairi Pay) — no official skip-line e-ticket",
+        "One-way path; arrive at open to beat coaches",
+        "UNESCO Historic Monuments of Ancient Kyoto"
+      ]
+    },
+    "visit": {
+      "intro": "Active Zen temple; gate ticket; pavilion is exterior viewing only.",
+      "hours": "Commonly 09:00–17:00 daily year-round — verify shokoku-ji.jp EN access page. Hours may change for special exhibitions.",
+      "tickets": "Paid admission at the gate. Official: shokoku-ji.jp (EN kinkakuji). Cash and Omairi Pay commonly accepted for admission — verify live JPY; do not invent fares. No official skip-line e-commerce as primary CTA; third-party products are tours/transport.",
+      "dress": "Comfortable clothes for outdoor garden walking. Quiet demeanour on the Zen path; no entering the pavilion.",
+      "duration": "45–90 minutes for the one-way circuit. Photo stops at the pond create queues — budget patience.",
+      "access": "Path is manageable to the pavilion viewpoint; stairs beyond require turning back for wheelchairs/strollers per temple FAQ. Wheelchairs lent on site when available. No luggage lockers.",
+      "tips": [
+        "Use shokoku-ji.jp only for official hours and admission info.",
+        "Arrive at 09:00 opening to thin coach waves.",
+        "Pavilion is exterior viewing only — no interior entry.",
+        "One-way garden; no re-entry for \"another angle.\"",
+        "Rain = umbrella crowds on narrow paths.",
+        "No lockers — leave big bags at the station.",
+        "Ryōan-ji / Ninnaji combos need transit math."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://www.shokoku-ji.jp/en/kinkakuji/access/",
+      "ticketsLabel": "Kinkaku-ji official access & admission (Shōkoku-ji)",
+      "ticketsNote": "Gate admission — verify live JPY on shokoku-ji.jp. Cash / Omairi Pay commonly accepted. No official skip-line e-ticket as primary CTA."
+    },
+    "etiquette": {
+      "intro": "Active Rinzai Zen temple — quiet garden path, exterior viewing only.",
+      "bullets": [
+        "Quiet voices on the path; no blocking the pond viewpoint.",
+        "Do not cross barriers at the water's edge.",
+        "No drones; follow temple photo guidance.",
+        "Pavilion interior is not a public visit.",
+        "No picnicking in the garden.",
+        "Respect that this is a functioning Zen temple, not a gold pavilion set."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Kinkaku-ji.",
+      "paragraphs": [
+        "Kyoto City Bus to Kinkakuji-michi or Kinkakuji-mae (routes commonly include 12, 59, 205, M1 — verify current maps). From Kitaoji subway area, continue by bus or taxi.",
+        "From the bus stop it is a short walk to the gate. Expect queues at peak seasons before the ticket window.",
+        "Parking exists but fills early; public transport is usually kinder for visitors without a car."
+      ],
+      "bullets": [
+        "City bus → Kinkakuji-michi / Kinkakuji-mae",
+        "Short walk to gate",
+        "Arrive at opening for thinner queues",
+        "No on-site lockers"
+      ]
+    },
+    "bestTime": {
+      "intro": "Opening time daily; snow and maples are beautiful and crowded.",
+      "paragraphs": [
+        "09:00 opening is the single best crowd strategy most days. Autumn maples and rare snow mornings are the postcard peaks — and the densest.",
+        "Midday coach waves are the hardest. Rainy days compress umbrellas onto the one-way path."
+      ],
+      "bullets": [
+        "Be there at 09:00",
+        "Autumn / snow = peak beauty + crowds",
+        "Midday coach density highest",
+        "Rain slows the one-way path"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm hours and admission on shokoku-ji.jp.",
+        "Pavilion is exterior viewing only; no official skip-line e-ticket CTA.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "pantheon-rome",
+    "name": "Pantheon (Santa Maria ad Martyres), Rome",
+    "shortName": "Pantheon",
+    "location": "Piazza della Rotonda, Rome",
+    "country": "Italy",
+    "region": "Europe",
+    "regionSlug": "europe",
+    "religions": [
+      "Christian"
+    ],
+    "religionSlugs": [
+      "christian"
+    ],
+    "summary": "Intact Roman concrete-dome temple converted to basilica — Musei Italiani tickets only (portale.museiitaliani.it). Full-price remodelled 2026-07-01 under MiC–Diocese agreement — verify live EUR. Worship windows free for liturgy.",
+    "heroImage": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Agrippan temple origins 27–25 BCE; Hadrianic rebuild 2nd c. CE; consecrated as Santa Maria ad Martyres 609",
+      "patron": "Santa Maria ad Martyres — consecrated basilica inside the ancient Roman Pantheon",
+      "unesco": "Within UNESCO Historic Centre of Rome",
+      "typicalVisit": "45–90 minutes timed slot; liturgy windows differ"
+    },
+    "related": [
+      "st-peters",
+      "acropolis-parthenon",
+      "hagia-sophia"
+    ],
+    "overview": {
+      "body": [
+        "The Pantheon in Rome is the best-preserved ancient Roman temple dome, converted in 609 into the basilica of Santa Maria ad Martyres — Rome's highest-demand classical sacred interior, where Roman engineering and Christian worship still share one rotunda and oculus.",
+        "Threshold Atlas tone is temple→church continuity, not a free Instagram dome. Shoulders and knees covered; silence during services; do not lie on the floor for oculus shots when it blocks worship or safety.",
+        "Tourist visits require official tickets via Musei Italiani only — portale.museiitaliani.it (site/app) or on-site offices/machines. Info: direzionemuseiroma.cultura.gov.it and cultura.gov.it. The Pantheon is not on Roma Pass / Omnia circuits per official notice. There is no skip-the-line fantasy product.",
+        "Under the MiC–Diocese of Rome agreement, the full admission fee was remodelled effective 1 July 2026 — verify live EUR on Musei Italiani / Direzione Musei pages; do not invent fares. Reductions and free categories (under-18, Rome residents, first Sundays, etc.) follow MiC rules; free first Sundays have no online reservation — collect on site.",
+        "Hours commonly run about 09:00–19:00 with earlier ticket-office close and last individual entry earlier — verify direzionemuseiroma.cultura.gov.it. Mass windows (e.g. Saturday vigil / Sunday morning) allow free entry for worship — distinguish tourist ticket vs worship access honestly. Liturgy can suspend ticket sales about an hour before. CoopCulture \"Oltre il Pantheon\" is an add-on tour, not the primary admission CTA."
+      ],
+      "highlights": [
+        "Roman temple → consecrated basilica under one oculus",
+        "Musei Italiani tickets only — portale.museiitaliani.it",
+        "Full-price change effective 2026-07-01 — verify live EUR",
+        "Worship free during liturgy; tourist visits are ticketed/timed",
+        "Not on Roma Pass / Omnia"
+      ]
+    },
+    "visit": {
+      "intro": "Consecrated basilica; Musei Italiani timed tickets only.",
+      "hours": "Commonly ~09:00–19:00 (ticket office earlier; last individual entry earlier) — verify direzionemuseiroma.cultura.gov.it. Hours shift around liturgy. Mass windows allow free worship entry — not a tourist loophole for sightseeing without respecting service.",
+      "tickets": "Official tickets only via Musei Italiani (portale.museiitaliani.it site/app) or on-site offices/machines. Info: direzionemuseiroma.cultura.gov.it / cultura.gov.it. Full price remodelled effective 1 July 2026 under MiC–Diocese agreement — verify live EUR; do not invent fares. Free categories and first Sundays per MiC rules (no online free-Sunday reservation). Not on Roma Pass/Omnia. CoopCulture \"Oltre il Pantheon\" is an add-on tour, not primary admission.",
+      "dress": "Shoulders and knees covered — consecrated basilica. Silence during Mass. No lying on the floor for oculus photos when it obstructs worship or safety.",
+      "duration": "45–90 minutes for a timed tourist slot. Security and slot queues add time in peak season.",
+      "access": "Centro walk from Largo di Torre Argentina / Piazza Navona; metro Barberini + walk. Timed slot at the pronaos; respect the booked window. Oculus rain is real — floor can be wet.",
+      "tips": [
+        "Buy only on portale.museiitaliani.it or on-site official desks/machines.",
+        "Verify live EUR after the 2026-07-01 fee remodel — do not invent fares.",
+        "Distinguish tourist ticket vs free worship during liturgy.",
+        "Not included in Roma Pass / Omnia.",
+        "No skip-the-line fantasy — timed slots only.",
+        "Liturgy can pause ticket sales ~1 hour before Mass.",
+        "Oculus rain wets the floor — watch your step."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://portale.museiitaliani.it",
+      "ticketsLabel": "Musei Italiani — official Pantheon tickets",
+      "ticketsNote": "Only Musei Italiani / on-site official sales. Fee remodelled 2026-07-01 — verify live EUR on direzionemuseiroma.cultura.gov.it. Worship free during liturgy. Not on Roma Pass/Omnia."
+    },
+    "etiquette": {
+      "intro": "Consecrated basilica inside an ancient Roman temple.",
+      "bullets": [
+        "Shoulders and knees covered.",
+        "Silence during services; no sightseeing theatre during Mass.",
+        "No floor-lying oculus poses that block others or worship.",
+        "Follow security and timed-slot staff.",
+        "Respect royal tombs and Christian furnishings inside.",
+        "Threshold Atlas: temple→church continuity, not a free dome set."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach the Pantheon.",
+      "paragraphs": [
+        "The Pantheon sits in Rome's centro storico at Piazza della Rotonda. Walk from Largo di Torre Argentina, Piazza Navona, or Campo de' Fiori; from Metro A Barberini it is a longer walk through the historic centre.",
+        "Security and timed entry form at the pronaos. Hold your Musei Italiani slot ready. Nearby centro churches are separate visits — there is no \"Pantheon district pass.\"",
+        "On free first Sundays, expect on-site queues for non-reserved free tickets — no online free-Sunday booking per official rules."
+      ],
+      "bullets": [
+        "Walk from centro landmarks / Barberini + walk",
+        "Timed Musei Italiani slot at pronaos",
+        "Free Sundays = on-site queue only",
+        "No Roma Pass / Omnia entry"
+      ]
+    },
+    "bestTime": {
+      "intro": "Timed slots; avoid treating Mass as a sightseeing hack.",
+      "paragraphs": [
+        "Book an early slot for softer light through the oculus and thinner queues. Midday summer heat on the piazza is intense. Evening openings sometimes run in special seasons — verify the monthly calendar on Direzione Musei pages.",
+        "If you attend Mass, enter as a worshipper — not as a tourist bypassing tickets. Ticket sales pause around liturgy."
+      ],
+      "bullets": [
+        "Early timed slots preferred",
+        "Check monthly calendar for evening openings",
+        "Mass = worship access, not a loophole",
+        "First Sundays free on-site only"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm hours, fees, and liturgy rules on direzionemuseiroma.cultura.gov.it / Musei Italiani.",
+        "Fee remodelled 1 July 2026 — verify live EUR; do not invent fares.",
         "SanctaWay is informational; it does not sell tickets or grant access.",
         "Hero image is an Unsplash placeholder pending visual / Commons pass."
       ]

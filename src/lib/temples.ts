@@ -27,6 +27,9 @@ export const religions = [
   { slug: 'inca', label: 'Inca' },
   { slug: 'nabataean', label: 'Nabataean' },
   { slug: 'prehistoric', label: 'Prehistoric' },
+  { slug: 'ancient-egyptian', label: 'Ancient Egyptian' },
+  { slug: 'ancient-greek', label: 'Ancient Greek' },
+  { slug: 'mesoamerican', label: 'Mesoamerican' },
 ] as const
 
 export function getTemple(id: string) {

@@ -256,8 +256,8 @@
       "typicalVisit": "1–2 hours"
     },
     "related": [
+      "senso-ji",
       "fushimi-inari",
-      "todai-ji",
       "itsukushima"
     ],
     "overview": {
@@ -712,9 +712,9 @@
       "typicalVisit": "2–4 hours"
     },
     "related": [
+      "meenakshi",
       "kashi-vishwanath",
-      "mahabodhi",
-      "temple-of-the-tooth"
+      "mahabodhi"
     ],
     "overview": {
       "body": [
@@ -1402,9 +1402,9 @@
       "typicalVisit": "1.5–2.5 hours"
     },
     "related": [
-      "notre-dame",
-      "mezquita-cordoba",
-      "mont-saint-michel"
+      "milan-duomo",
+      "st-peters",
+      "notre-dame"
     ],
     "overview": {
       "body": [
@@ -1518,7 +1518,7 @@
     },
     "related": [
       "chartres",
-      "santiago-de-compostela",
+      "cologne-cathedral",
       "westminster-abbey"
     ],
     "overview": {
@@ -1632,9 +1632,9 @@
       "typicalVisit": "2–3 hours"
     },
     "related": [
+      "milan-duomo",
       "sagrada-familia",
-      "notre-dame",
-      "westminster-abbey"
+      "notre-dame"
     ],
     "overview": {
       "body": [
@@ -2774,9 +2774,9 @@
       "typicalVisit": "2–3 hours (longer with aarti or corridor + ghat walk)"
     },
     "related": [
+      "meenakshi",
       "golden-temple",
-      "mahabodhi",
-      "angkor-wat"
+      "mahabodhi"
     ],
     "overview": {
       "body": [
@@ -2887,8 +2887,8 @@
       "typicalVisit": "1–3 hours (Senbon Torii to Yotsutsuji); half day for summit loop"
     },
     "related": [
+      "senso-ji",
       "meiji-shrine",
-      "todai-ji",
       "kiyomizu-dera"
     ],
     "overview": {
@@ -3114,8 +3114,8 @@
     },
     "related": [
       "chartres",
-      "notre-dame",
-      "santiago-de-compostela"
+      "cologne-cathedral",
+      "notre-dame"
     ],
     "overview": {
       "body": [
@@ -3573,9 +3573,9 @@
       "typicalVisit": "2–4 hours on site (plus road time from Mérida or Cancún)"
     },
     "related": [
-      "petra",
+      "teotihuacan",
       "machu-picchu",
-      "stonehenge"
+      "petra"
     ],
     "overview": {
       "body": [
@@ -3921,7 +3921,7 @@
     "related": [
       "petra",
       "chichen-itza",
-      "stonehenge"
+      "teotihuacan"
     ],
     "overview": {
       "body": [
@@ -4149,8 +4149,8 @@
       "typicalVisit": "1.5–2.5 hours (plus Higashiyama approach crowds)"
     },
     "related": [
+      "senso-ji",
       "fushimi-inari",
-      "todai-ji",
       "meiji-shrine"
     ],
     "overview": {
@@ -4613,7 +4613,7 @@
     "related": [
       "borobudur",
       "angkor-wat",
-      "wat-phra-kaew"
+      "meenakshi"
     ],
     "overview": {
       "body": [
@@ -5071,9 +5071,9 @@
       "typicalVisit": "1.5–3 hours (nave + glass; add towers/treasury if open)"
     },
     "related": [
+      "cologne-cathedral",
       "notre-dame",
-      "santiago-de-compostela",
-      "westminster-abbey"
+      "milan-duomo"
     ],
     "overview": {
       "body": [
@@ -5186,9 +5186,9 @@
       "typicalVisit": "2–3 hours (visitor centre + shuttle + stone circuit)"
     },
     "related": [
+      "acropolis-parthenon",
       "machu-picchu",
-      "chichen-itza",
-      "mont-saint-michel"
+      "chichen-itza"
     ],
     "overview": {
       "body": [
@@ -5417,8 +5417,8 @@
     },
     "related": [
       "machu-picchu",
-      "chichen-itza",
-      "angkor-wat"
+      "karnak",
+      "abu-simbel"
     ],
     "overview": {
       "body": [
@@ -5503,6 +5503,918 @@
         "Jordan Pass inclusions change — verify before you travel.",
         "SanctaWay is informational; it does not sell tickets or grant access.",
         "Hero image is an Unsplash placeholder pending visual pass."
+      ]
+    }
+  },
+  {
+    "id": "senso-ji",
+    "name": "Sensō-ji (Asakusa Kannon)",
+    "shortName": "Sensō-ji",
+    "location": "Asakusa, Taitō, Tokyo",
+    "country": "Japan",
+    "region": "East Asia",
+    "regionSlug": "east-asia",
+    "religions": [
+      "Buddhist"
+    ],
+    "religionSlugs": [
+      "buddhist"
+    ],
+    "summary": "Tokyo's oldest and most-visited Buddhist temple — Kaminarimon and Nakamise axis; temple admission free via senso-ji.jp (third-party \"tickets\" are tours, not gate entry).",
+    "heroImage": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Traditionally founded 645 CE around a Kannon image; Asakusa's living temple centre",
+      "patron": "Sho Kanzeon Bosatsu (Avalokitesvara) — principal image traditionally not shown",
+      "unesco": "— (major national sacred landmark; not claimed here as World Heritage)",
+      "typicalVisit": "1–2 hours (gates + Hondo + grounds); longer with Nakamise / evening light"
+    },
+    "related": [
+      "fushimi-inari",
+      "kiyomizu-dera",
+      "meiji-shrine"
+    ],
+    "overview": {
+      "body": [
+        "Senso-ji is Tokyo's oldest established Buddhist temple and among Japan's highest everyday sacred-tourism footfalls — the red Kaminarimon lantern, the Nakamise approach, Hozomon, the five-storey pagoda, and the main hall (Hondo) of Asakusa Kannon.",
+        "Frame it as a living Buddhist monastery precinct, not a shopping-mall backdrop. Worshippers use the incense cauldron and Hondo for prayer; keep clear of ritual space when photographing. Adjacent Asakusa Shrine is a separate Shinto site — do not conflate the two.",
+        "Temple admission is free. Official information is at senso-ji.jp (EN/JA/ZH/KO). Products marketed as \"Senso-ji tickets\" online are typically kimono rentals, rickshaws, or guided tours — not gate admission. Goshuin at Yogodo is a separate desk offering with its own posted fee — verify on site; do not invent JPY.",
+        "Main hall hours are commonly 06:00–17:00 (April–September) and 06:30–17:00 (October–March) — verify senso-ji.jp. Grounds and gates remain accessible beyond hall hours; evening illumination is popular from roughly sunset into late evening.",
+        "Reach Asakusa Station on Tokyo Metro Ginza, Toei Asakusa, Tobu Skytree, or Tsukuba Express lines, then walk about five minutes to Kaminarimon. Expect shoulder-to-shoulder Nakamise density midday; dawn or late evening is kinder. New Year, Hozuki-ichi, and Hagoita-ichi are extreme peaks."
+      ],
+      "highlights": [
+        "Tokyo's oldest temple — Kaminarimon / Nakamise / Hondo axis",
+        "Admission free — senso-ji.jp; ignore third-party \"gate tickets\"",
+        "Living Buddhist etiquette; Asakusa Shrine is separate Shinto",
+        "Dawn or late evening beats coach waves",
+        "Goshuin / omikuji are optional desk fees — verify on site"
+      ]
+    },
+    "visit": {
+      "intro": "Free living Buddhist temple; verify hall hours on senso-ji.jp.",
+      "hours": "Main hall commonly 06:00–17:00 (Apr–Sep) / 06:30–17:00 (Oct–Mar) — verify senso-ji.jp. Grounds/gates accessible beyond hall hours; evening illumination roughly sunset–late evening when scheduled.",
+      "tickets": "Temple admission is free — no official entry ticket. Official info: senso-ji.jp. Warn: third-party \"Senso-ji tickets\" are tours / kimono / rickshaw products, not gate admission. Goshuin at Yogodo is a separate posted desk fee — verify on site; do not invent JPY.",
+      "dress": "Modest, comfortable clothing for a living temple. Quiet shoes for the Hondo; no blocking worshippers for photos. Summer heat and winter illuminations both draw crowds — dress for weather and walking.",
+      "duration": "1–2 hours for gates, Hondo, and grounds; allow more if combining Nakamise shopping or evening light. Skytree / Sumida waterbus are separate visits — plan honestly.",
+      "access": "Flat approach from Asakusa Station via Kaminarimon and Nakamise. Crowds are the main constraint; travel light. Pagoda is exterior viewing for most visitors. Principal image traditionally never shown.",
+      "tips": [
+        "Use senso-ji.jp only for official temple info — not third-party \"tickets.\"",
+        "Arrive at dawn or after dinner for thinner Nakamise density.",
+        "Keep clear of the incense cauldron and Hondo prayer lines when photographing.",
+        "Asakusa Shrine next door is Shinto — treat it as a separate visit.",
+        "Omikuji and goshuin: follow posted desk rules; do not invent fees.",
+        "Summer: heat + humidity on Nakamise; winter: illuminations are popular.",
+        "Combine carefully with Skytree — different tickets and queues."
+      ],
+      "entryType": "free",
+      "ticketsUrl": "https://www.senso-ji.jp/english/",
+      "ticketsLabel": "Senso-ji official site (admission free)",
+      "ticketsNote": "No gate ticket. Third-party \"Senso-ji tickets\" are tours/experiences — not temple admission. Verify goshuin desk fees on site; do not invent JPY."
+    },
+    "etiquette": {
+      "intro": "Living Buddhist temple — quiet at the Hondo; do not block worshippers.",
+      "bullets": [
+        "Quiet near the main hall; no loud poses in prayer space.",
+        "Incense and omikuji: follow local custom and posted signs.",
+        "Do not block worshippers for photos at Kaminarimon or Hondo.",
+        "Asakusa Shrine is adjacent Shinto — do not conflate rituals.",
+        "Travel light — Nakamise is often shoulder-to-shoulder.",
+        "Respect that the principal Kannon image is traditionally never shown."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Senso-ji.",
+      "paragraphs": [
+        "Take Tokyo Metro Ginza, Toei Asakusa, Tobu Skytree, or Tsukuba Express lines to Asakusa Station. From the exits it is roughly a five-minute walk to Kaminarimon, then along Nakamise to Hozomon and the Hondo.",
+        "Asakusa is also a Sumida waterbus and Tokyo Skytree day-trip hub. Those are separate paid attractions — do not assume a single combined ticket with the temple (the temple itself is free).",
+        "Expect dense pedestrian flow on Nakamise from mid-morning. If you need quieter access, aim for early hall opening or late evening when stalls thin out."
+      ],
+      "bullets": [
+        "Asakusa Station → ~5 min walk to Kaminarimon",
+        "Metro Ginza / Toei Asakusa / Tobu / TX all serve Asakusa",
+        "Skytree / waterbus are separate paid visits",
+        "Dawn or late evening for thinner crowds"
+      ]
+    },
+    "bestTime": {
+      "intro": "Dawn or late evening beats midday Nakamise waves.",
+      "paragraphs": [
+        "Main-hall opening at dawn is the calmest worship window before souvenir stalls peak. Late evening illumination is popular and often thinner than midday coach waves.",
+        "New Year, Sanja Matsuri season energy nearby, Hozuki-ichi, and Hagoita-ichi are extreme peaks — verify event calendars if you need space to breathe."
+      ],
+      "bullets": [
+        "Dawn hall opening for quieter worship",
+        "Late evening illumination when crowds thin",
+        "Midday Nakamise = highest density",
+        "Festival / market peaks: plan extra time"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Admission free — confirm hall hours on senso-ji.jp.",
+        "Ignore third-party products sold as \"Senso-ji entry tickets.\"",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "meenakshi",
+    "name": "Meenakshi Amman Temple (Madurai)",
+    "shortName": "Meenakshi",
+    "location": "Madurai, Tamil Nadu",
+    "country": "India",
+    "region": "South Asia",
+    "regionSlug": "south-asia",
+    "religions": [
+      "Hindu"
+    ],
+    "religionSlugs": [
+      "hindu"
+    ],
+    "summary": "Living Dravidian gopuram complex and Madurai's sacred centre — darshan via Tamil Nadu HRCE (maduraimeenakshi.hrce.tn.gov.in); verify sanctum access rules; no invented INR fares.",
+    "heroImage": "https://images.unsplash.com/photo-1582510003544-4d00b7f740be?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Ancient Madurai sacred centre; present Dravidian complex largely Nayaka-era expansion on older layers",
+      "patron": "Meenakshi (Parvati) and Sundareswarar (Shiva)",
+      "unesco": "— (major living Hindu pilgrimage complex; not claimed here as World Heritage)",
+      "typicalVisit": "2–4 hours (outer circuit + permitted halls; festival days longer)"
+    },
+    "related": [
+      "kashi-vishwanath",
+      "golden-temple",
+      "prambanan"
+    ],
+    "overview": {
+      "body": [
+        "Meenakshi Amman Temple is Madurai's living Hindu heart — a vast Dravidian complex of painted gopurams, pillared mandapas, and the paired sanctums of Goddess Meenakshi and Lord Sundareswarar at the centre of the historic temple-city.",
+        "Frame the visit as Threshold Atlas pilgrimage and living worship, not a \"gopuram selfie\" circuit. Darshan queues, pooja rhythm, and footwear/security rules shape the day more than any postcard angle.",
+        "Official temple and service information sits under Tamil Nadu HRCE — maduraimeenakshi.hrce.tn.gov.in (ticketing / pooja / darshan products when listed). Special entrance or archanai are portal products when offered — verify live; do not invent INR fares. Statewide HRCE context: hrce.tn.gov.in.",
+        "Darshan windows commonly run morning and evening with a midday closure (often around 05:00–12:30 and 16:00–22:00 IST) — verify the HRCE temple page before you go. Festival periods such as Meenakshi Tirukalyanam change pooja timing.",
+        "Non-Hindu visitors: outer prakarams and permitted halls are commonly accessible under posted rules; innermost sanctums (garbhagriha) of Meenakshi and Sundareswarar are restricted for Hindu worship — follow temple boards and staff. Do not invent access. Photography rules tighten near sanctum approaches — obey signs."
+      ],
+      "highlights": [
+        "Living Madurai gopuram complex — Meenakshi & Sundareswarar",
+        "HRCE portal maduraimeenakshi.hrce.tn.gov.in — verify INR; no invented fares",
+        "Midday closure common — plan morning or evening darshan",
+        "Sanctum access: follow current temple policy for non-Hindu visitors",
+        "Modest dress, footwear off, phones per precinct rules"
+      ]
+    },
+    "visit": {
+      "intro": "Living Hindu temple; HRCE portal for services; verify sanctum policy.",
+      "hours": "Darshan commonly ~05:00–12:30 and ~16:00–22:00 IST with midday closure — verify maduraimeenakshi.hrce.tn.gov.in. Festival pooja times change; check the day-of schedule.",
+      "tickets": "Tamil Nadu HRCE temple portal — maduraimeenakshi.hrce.tn.gov.in for temple info and listed darshan / pooja / special-entrance products. Do not invent INR fares. General circuit access and any foreigner counters follow posted temple rules — verify on site / portal. Statewide: hrce.tn.gov.in.",
+      "dress": "Modest dress covering shoulders and knees. Remove footwear at designated counters. Men: shorts often refused — trousers / dhoti as required. Women: full-length attire preferred. Follow cloak / locker rules for phones and bags near sanctum zones.",
+      "duration": "2–4 hours for outer circuit and permitted halls; longer on festival days or if joining special darshan queues.",
+      "access": "Historic temple-city core around the gopuram ring — auto-rickshaw or walk from Madurai centre. Security and shoe storage add buffer time. Thousand-pillar / museum areas may have separate queues. Midday Madurai heat is severe — plan shade and water outside peak sun.",
+      "tips": [
+        "Confirm darshan windows on the HRCE temple page before you travel.",
+        "Do not invent INR — quote only what the portal or counter posts.",
+        "Non-Hindu sanctum access: obey boards; inner garbhagriha is typically restricted.",
+        "Remove footwear; travel light; use official cloak areas when required.",
+        "Photography: outer prakarams may allow phones; sanctum approaches often ban cameras — follow signs.",
+        "Early morning or post-reopen evening for cooler air and denser ritual life.",
+        "Leave large bags; security lines are part of the visit, not optional."
+      ],
+      "entryType": "verify",
+      "ticketsUrl": "https://maduraimeenakshi.hrce.tn.gov.in/",
+      "ticketsLabel": "Meenakshi Temple — Tamil Nadu HRCE official portal",
+      "ticketsNote": "Verify live darshan / pooja products and any posted fees on the HRCE portal. Do not invent INR. Sanctum access rules for non-Hindu visitors: follow current temple boards — do not invent access."
+    },
+    "etiquette": {
+      "intro": "Active Hindu temple — modest dress, footwear off, worship first.",
+      "bullets": [
+        "Cover shoulders and knees; remove footwear.",
+        "Silence phones; follow photography bans near sanctums.",
+        "Do not touch idols, lamps, or sacred vessels.",
+        "Inner sanctums: follow Hindu-worship / board rules — no invented access claims.",
+        "Queue patiently; living darshan outranks tourist framing.",
+        "Respect priests and security directions without argument."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Meenakshi Amman Temple.",
+      "paragraphs": [
+        "Fly or take the train into Madurai, then continue by auto-rickshaw, taxi, or on foot into the historic temple-city core ringed by the gopurams. East Tower and main tourist circuits are well signed.",
+        "Build buffer for security screening and shoe storage before you join darshan lines. Large luggage does not belong in the circuit — leave it at your hotel.",
+        "If using HRCE online products (special darshan / pooja), bring the confirmation and ID the portal asks for — verify requirements on maduraimeenakshi.hrce.tn.gov.in rather than third-party blogs."
+      ],
+      "bullets": [
+        "Madurai airport / station → temple-city core by auto or walk",
+        "Allow time for security + shoe counters",
+        "HRCE portal confirmations: bring required ID",
+        "Midday heat: plan morning or evening entry"
+      ]
+    },
+    "bestTime": {
+      "intro": "Morning or post-reopen evening; avoid assuming midday entry.",
+      "paragraphs": [
+        "Early morning darshan and the evening reopen are the practical windows when the temple is alive and the air is cooler. Midday closure is common — do not plan a noon walkthrough.",
+        "Meenakshi Tirukalyanam and major festival weeks bring huge pilgrimage density and altered pooja times — verify the HRCE calendar if you need quieter halls."
+      ],
+      "bullets": [
+        "Morning darshan before midday closure",
+        "Evening reopen for ritual density + cooler air",
+        "Festival weeks: expect long queues",
+        "Verify day-of pooja times on HRCE"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "No invented INR fares — confirm on HRCE portal / counters.",
+        "Sanctum policy for non-Hindu visitors: follow current temple boards.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "karnak",
+    "name": "Karnak Temple Complex (Luxor)",
+    "shortName": "Karnak",
+    "location": "Luxor, east bank — Thebes",
+    "country": "Egypt",
+    "region": "Africa",
+    "regionSlug": "africa",
+    "religions": [
+      "Ancient Egyptian"
+    ],
+    "religionSlugs": [
+      "ancient-egyptian"
+    ],
+    "summary": "UNESCO Theban mega — Great Hypostyle Hall and Amun precinct; MoTA tickets via egymonuments.com / info egymonuments.gov.eg; Mut precinct often separate; no invented EGP fares.",
+    "heroImage": "https://images.unsplash.com/photo-1539650116574-75c0c6d73f6e?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Pharaonic Theban sacred precinct evolving over many dynasties (Amun-Ra complex)",
+      "patron": "Amun-Ra precinct (with Mut and Khonsu domains in the wider complex)",
+      "unesco": "UNESCO World Heritage (Ancient Thebes with its Necropolis)",
+      "typicalVisit": "2–3 hours (Amun precinct highlights); Mut separate when ticketed"
+    },
+    "related": [
+      "petra",
+      "abu-simbel",
+      "machu-picchu"
+    ],
+    "overview": {
+      "body": [
+        "Karnak is Luxor's primary temple day-visit — the vast Amun-Ra precinct on Thebes' east bank, famous for the Great Hypostyle Hall, processional axes, and open courts that still read as a working sacred city plan rather than a single shrine.",
+        "Frame it as a former living temple of Amun within a UNESCO Theban landscape, not a \"ruins playground.\" Stay on marked routes; do not climb columns or statues; keep a respectful photographic distance from reliefs.",
+        "Official tickets: Ministry of Tourism and Antiquities — e-tickets at egymonuments.com (Karnak Temple product); site information at egymonuments.gov.eg. Mut precinct is often a separate ticket. Luxor Pass is an optional multi-site bundle — verify inclusions. Nationality and student tiers exist — do not invent EGP fares.",
+        "Hours commonly run about 06:00–17:00 with last entry earlier (often ~16:00) — verify MoTA listings. Dawn light in the Hypostyle Hall is the classic comfort window; May–September midday heat is punishing with little shade.",
+        "Plan 2–3 hours for the main Amun circuit. Sound & Light is a separate evening product when scheduled. The Sphinx Avenue link toward Luxor Temple is a related but separate walk/visit; West Bank sites (Valley of the Kings) are a different half-day."
+      ],
+      "highlights": [
+        "UNESCO Theban east-bank mega — Hypostyle Hall / Amun precinct",
+        "egymonuments.com tickets — verify live EGP; Mut often separate",
+        "Dawn for cooler air and Hypostyle light",
+        "Luxor Pass optional — verify inclusions",
+        "2–3 hours; little shade — water + sun protection"
+      ]
+    },
+    "visit": {
+      "intro": "Paid MoTA archaeological ticket; Mut often separate; marked routes only.",
+      "hours": "Commonly ~06:00–17:00 with last entry earlier (~16:00) — verify egymonuments.gov.eg / booking portal. Sound & Light is a separate evening product when offered.",
+      "tickets": "Ministry of Tourism and Antiquities — book at egymonuments.com (Karnak Temple); info egymonuments.gov.eg. Mut precinct often requires a separate ticket. Luxor Pass is optional multi-site — verify inclusions. Nationality/student tiers exist. Do not invent EGP fares. Keep QR/ticket until exit.",
+      "dress": "Modest, sun-protective clothing and closed walking shoes for Upper Egypt heat and sand/stone underfoot. No climbing monuments in any outfit.",
+      "duration": "2–3 hours for main Amun precinct highlights; add time if Mut is open on a separate ticket. Combine with Luxor Temple only with honest time math.",
+      "access": "East-bank Luxor — taxi, caleche, or tour bus to the Karnak visitor gate (~3 km north of Luxor Temple). Uneven stone, limited shade, and long courts. Card/e-ticket preferred. Mobility: demanding outdoor archaeology — read MoTA guidance.",
+      "tips": [
+        "Buy on egymonuments.com / official gate — not scalper \"skip line\" pages.",
+        "Confirm whether Mut is included or separate before you assume one ticket.",
+        "Start near opening for Hypostyle light and cooler air.",
+        "Carry water and sun protection — courts have little shade.",
+        "Open Air Museum: confirm live whether included in your ticket.",
+        "Sound & Light is a separate evening booking when scheduled.",
+        "West Bank sites need a separate half-day plan."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://egymonuments.com/details/KarnakTemple",
+      "ticketsLabel": "MoTA e-tickets — Karnak Temple (egymonuments.com)",
+      "ticketsNote": "Also see egymonuments.gov.eg for site info. Mut precinct often separate. Luxor Pass inclusions must be verified. Do not invent EGP fares."
+    },
+    "etiquette": {
+      "intro": "Archaeological sacred precinct — marked routes, no climbing.",
+      "bullets": [
+        "Stay on marked routes; do not climb columns or statues.",
+        "No touching painted or carved surfaces.",
+        "Modest dress recommended in Upper Egypt.",
+        "Quiet, respectful framing — former living temple of Amun.",
+        "Follow MoTA / site-steward directions.",
+        "Drones only where explicitly permitted."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Karnak.",
+      "paragraphs": [
+        "Stay in Luxor and take a taxi, caleche, or arranged tour bus to the Karnak visitor gate on the east bank, roughly 3 km north of Luxor Temple. Agree the fare or use a metered/app option before you ride.",
+        "Sphinx Avenue toward Luxor Temple is a related landscape link but not a free \"included stroll\" to assume inside one Karnak ticket — treat Luxor Temple as its own visit when you want both.",
+        "West Bank (Valley of the Kings and related tombs/temples) is a different half-day with separate tickets and logistics — do not squeeze it into the same rushed Karnak morning without honest timing."
+      ],
+      "bullets": [
+        "Luxor east bank → taxi / caleche / bus to Karnak gate",
+        "~3 km north of Luxor Temple",
+        "Luxor Temple = separate visit",
+        "West Bank = separate half-day"
+      ]
+    },
+    "bestTime": {
+      "intro": "Dawn Hypostyle light; avoid midday summer heat.",
+      "paragraphs": [
+        "Opening hour is the best comfort and light window inside the Great Hypostyle Hall. Midday from late spring through early autumn is harsh with little shade.",
+        "Sound & Light evenings are a separate product on published schedules — never assume nightly access without a ticket."
+      ],
+      "bullets": [
+        "Dawn / opening for cooler courts",
+        "May–Sep: start early, carry serious water",
+        "Sound & Light: separate timed product",
+        "Verify last-entry rules on MoTA"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "No invented EGP fares — confirm on egymonuments.com.",
+        "Mut precinct and Luxor Pass: verify inclusions separately.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "acropolis-parthenon",
+    "name": "Acropolis of Athens / Parthenon",
+    "shortName": "Acropolis",
+    "location": "Athens, Attica",
+    "country": "Greece",
+    "region": "Europe",
+    "regionSlug": "europe",
+    "religions": [
+      "Ancient Greek"
+    ],
+    "religionSlugs": [
+      "ancient-greek"
+    ],
+    "summary": "UNESCO Athenian Acropolis — Parthenon and slopes; timed site tickets via official Hellenic Heritage portal hhticket.gr (TAP); Acropolis Museum is separate; no invented EUR; avoid fake \"skip the line.\"",
+    "heroImage": "https://images.unsplash.com/photo-1555993539-1732b0258235?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Classical Periclean programme (5th century BCE) on earlier sacred rock",
+      "patron": "Athena and related classical cults on the Acropolis sacred landscape",
+      "unesco": "UNESCO World Heritage (Acropolis, Athens)",
+      "typicalVisit": "2–3 hours on site (timed slot); museum is a separate visit"
+    },
+    "related": [
+      "stonehenge",
+      "petra",
+      "chartres"
+    ],
+    "overview": {
+      "body": [
+        "The Acropolis of Athens is among the world's highest-demand classical sacred monuments — the Parthenon, Propylaea, Erechtheion, and Temple of Athena Nike on a UNESCO rock sanctuary above the city, with slopes (klitys) included on the site ticket.",
+        "Frame it as a classical sanctuary and civic-religious landscape, not an \"Instagram rock.\" Stay behind barriers; do not climb marble; the Parthenon interior is restricted — do not imply free roam inside.",
+        "Official site tickets: Hellenic Organization of Cultural Resources Development (TAP) via the Hellenic Heritage e-ticket portal hhticket.gr (Acropolis & Slopes, timed entry). Unified multi-site tickets exist — verify inclusions. The Acropolis Museum on the southern slope is a separate ticketed visit (theacropolismuseum.gr / museum e-tickets). Do not invent EUR fares.",
+        "Ministry notices warn that \"skip the line\" Acropolis ticket ads are misleading — the only official online portal for site tickets is hhticket.gr. Timed slots are mandatory; arrive early for security.",
+        "Seasonal archaeological-site hours change with daylight — verify live TAP / Ministry listings. Summer marble heat is intense; early slots are kinder. Mobility is challenging (steep, uneven). Museum + site same day is ambitious — state time honestly."
+      ],
+      "highlights": [
+        "UNESCO Acropolis — Parthenon / Propylaea / Erechtheion",
+        "Official timed tickets: hhticket.gr (TAP) — no fake skip-the-line",
+        "Acropolis Museum is a separate ticket",
+        "Early slot for heat and softer light",
+        "Stay behind barriers — no climbing marble"
+      ]
+    },
+    "visit": {
+      "intro": "Paid timed TAP site ticket; museum separate; barriers only.",
+      "hours": "Seasonal archaeological-site hours from the Hellenic Ministry of Culture / TAP listings — verify live on hhticket.gr. Timed entry slots required; last entry rules apply. Summer heat on marble is intense.",
+      "tickets": "Official Acropolis & Slopes e-tickets: hhticket.gr (Hellenic Heritage / TAP). Unified multi-site tickets exist — verify inclusions. Acropolis Museum is separate: theacropolismuseum.gr / museum e-ticket channels. Do not invent EUR fares. Ignore \"skip the line\" scalper ads — Ministry/TAP state no such official product.",
+      "dress": "Comfortable closed shoes with grip (marble is slippery when worn or wet). Sun hat and water in summer. Modest, practical clothing for an outdoor archaeological sanctuary.",
+      "duration": "2–3 hours on the rock for highlights inside your timed window. Adding the Acropolis Museum usually needs a separate half-block of time — same-day both is ambitious.",
+      "access": "Athens Metro (Acropoli / Monastiraki) plus uphill pedestrian approaches; allow security and slot buffer. Steep, uneven surfaces. Elevator access exists for eligible visitors on published terms — verify current arrangements. Wet marble is hazardous.",
+      "tips": [
+        "Book timed slots on hhticket.gr only — not third-party \"skip line\" sellers.",
+        "Arrive ~30 minutes before your slot for security.",
+        "Museum ticket is separate — do not assume site entry includes it.",
+        "Early morning slots beat summer heat on the marble.",
+        "Stay behind barriers; no climbing or entering restricted Parthenon zones.",
+        "Wear shoes with grip; marble is slippery when wet.",
+        "Same-day site + museum: plan honest time, not a sprint."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://hhticket.gr/",
+      "ticketsLabel": "Hellenic Heritage e-tickets (hhticket.gr) — Acropolis & Slopes",
+      "ticketsNote": "Official TAP timed site tickets only. Acropolis Museum is separate. Do not invent EUR fares. \"Skip the line\" ads are not an official product."
+    },
+    "etiquette": {
+      "intro": "UNESCO classical sanctuary — barriers, no climbing, no drones without permit.",
+      "bullets": [
+        "Stay behind barriers; do not climb marble or monuments.",
+        "No entering restricted Parthenon interior zones.",
+        "No drones without explicit permit.",
+        "Quiet, respectful framing — sanctuary, not a playground.",
+        "Follow steward and security directions.",
+        "Keep pathways clear at Propylaea bottlenecks."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach the Acropolis.",
+      "paragraphs": [
+        "Ride Athens Metro to Acropoli or Monastiraki, then walk the signed pedestrian approaches uphill to the site entrances. Build time for security screening and your timed-slot window.",
+        "The Acropolis Museum sits on the southern slope as a separate ticketed building — you can visit it before or after the rock, but it is not included in the site ticket.",
+        "In peak season, book hhticket.gr slots ahead. Day-of walk-up availability is not something to rely on for a short Athens stay."
+      ],
+      "bullets": [
+        "Metro Acropoli / Monastiraki + uphill walk",
+        "Timed slot + security buffer required",
+        "Museum = separate southern-slope visit",
+        "Book hhticket.gr ahead in peak season"
+      ]
+    },
+    "bestTime": {
+      "intro": "Early timed slots; summer marble heat is intense.",
+      "paragraphs": [
+        "The earliest available slots are usually the most comfortable for heat and crowd density. Midday summer marble radiates heat and glare.",
+        "Shoulder seasons often give kinder walking conditions. Always re-check seasonal closing times — they shorten as daylight shortens."
+      ],
+      "bullets": [
+        "Early timed slot preferred",
+        "Summer: heat + glare on marble",
+        "Verify seasonal last-entry times",
+        "Wet days: slippery stone — slow down"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Official site tickets: hhticket.gr only — no invented EUR.",
+        "Museum and site are separate tickets.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "cologne-cathedral",
+    "name": "Cologne Cathedral (Kölner Dom)",
+    "shortName": "Cologne Cathedral",
+    "location": "Cologne, North Rhine-Westphalia",
+    "country": "Germany",
+    "region": "Europe",
+    "regionSlug": "europe",
+    "religions": [
+      "Christian"
+    ],
+    "religionSlugs": [
+      "christian"
+    ],
+    "summary": "UNESCO High Gothic cathedral on the Rhine — Shrine of the Three Kings; tourist Besichtigung ticketed since 1 July 2026 via tickets.koelner-dom.de; prayer/service remain free via north entrance; no invented EUR.",
+    "heroImage": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Gothic cathedral begun 1248; completed 1880 on earlier sacred site",
+      "patron": "Catholic cathedral church; Shrine of the Three Kings pilgrimage",
+      "unesco": "UNESCO World Heritage (Cologne Cathedral)",
+      "typicalVisit": "1–2 hours nave circuit; add tower / treasury as separate products"
+    },
+    "related": [
+      "chartres",
+      "notre-dame",
+      "westminster-abbey"
+    ],
+    "overview": {
+      "body": [
+        "Cologne Cathedral (Kolner Dom) is Germany's top sacred tourist landmark — a UNESCO High Gothic cathedral rising beside Koln Hauptbahnhof, home to the Shrine of the Three Kings and a living Catholic pilgrimage church.",
+        "Since 1 July 2026, tourist interior visits (Besichtigung) require a ticket booked via the Dom's official channels (tickets.koelner-dom.de / koelner-dom.de). Prayer, services, and lighting a candle at the Schmuckmadonna remain free via the north entrance — per Dom FAQ. Do not invent EUR fares; quote verify on koelner-dom.de.",
+        "Tower ascent and Domschatzkammer (treasury) are separate products or combos with their own hours. Distinguishing free prayer entry from paid tourist visitation is the practical key to a respectful visit.",
+        "Tourist visiting windows commonly run weekdays about 10:00–17:45 (last entry earlier) and shorter Sunday/feast afternoon windows — verify koelner-dom.de. Liturgy can cut tourist access; check the day-of calendar.",
+        "Arrive from Koln Hbf onto the Domplatte in minutes. No suitcase tourism in the nave; silence near the choir; services have priority over sightseeing."
+      ],
+      "highlights": [
+        "UNESCO High Gothic Dom — Three Kings shrine",
+        "Tourist Besichtigung ticketed since 2026-07-01 — tickets.koelner-dom.de",
+        "Prayer / service / Schmuckmadonna candle remain free (north entrance)",
+        "Tower and treasury are separate products",
+        "Direct from Koln Hbf — Domplatte"
+      ]
+    },
+    "visit": {
+      "intro": "Paid tourist Besichtigung since Jul 2026; prayer free via north entrance.",
+      "hours": "Cathedral generally open long daily hours for prayer. Tourist Besichtigung commonly ~10:00–17:45 daily (last entry ~17:30); Sundays & ecclesiastical holidays often ~13:30–16:30 (last entry ~16:15) — verify koelner-dom.de. Tower and treasury have separate seasonal hours.",
+      "tickets": "Since 1 July 2026, tourist interior visits require a ticket — book at tickets.koelner-dom.de (also linked from koelner-dom.de/tickets). Prayer, attending services, or lighting a candle at the Schmuckmadonna remain free via the north transept entrance (per Dom FAQ). Tower and Domschatzkammer are separate products/combos. Do not invent EUR fares — verify live prices on the official portal.",
+      "dress": "Modest clothing for an active cathedral — cover shoulders; no beachwear. Quiet shoes. No large suitcases in the nave (bag-size limits are posted — follow Dom rules).",
+      "duration": "1–2 hours for the ticketed nave circuit; add substantial time and fitness for the tower; treasury is a separate indoor visit.",
+      "access": "Koln Hbf → Domplatte is adjacent. Main portal for pre-purchased tourist tickets; north portal for free prayer entry. Tower is many steps / physically demanding. Check liturgy calendar for access cuts.",
+      "tips": [
+        "Book Besichtigung on tickets.koelner-dom.de — not random resellers.",
+        "Need prayer / candle only? Use the free north entrance per Dom FAQ.",
+        "Tower and treasury: separate tickets — confirm combo options on the portal.",
+        "Check the day's liturgy calendar before you assume full nave access.",
+        "No suitcase tourism; observe posted bag-size limits.",
+        "Silence near choir and shrine — services outrank sightseeing.",
+        "Verify live EUR prices — do not rely on old blog fares."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://tickets.koelner-dom.de/",
+      "ticketsLabel": "Kolner Dom official tickets (Besichtigung / tower / treasury)",
+      "ticketsNote": "Tourist interior visits ticketed since 1 July 2026. Prayer/service/candle via north entrance remain free per Dom FAQ. Verify live EUR on koelner-dom.de — do not invent fares."
+    },
+    "etiquette": {
+      "intro": "Active Catholic cathedral and pilgrimage church — prayer first.",
+      "bullets": [
+        "Silence near the choir and Shrine of the Three Kings.",
+        "Services and personal prayer have priority over tourist circuits.",
+        "Use the correct entrance: ticketed tourist vs free prayer (north).",
+        "No suitcase tourism in the nave.",
+        "Photography: follow posted Dom rules; private use guidance applies.",
+        "Modest dress; no beachwear."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Cologne Cathedral.",
+      "paragraphs": [
+        "Arrive at Koln Hauptbahnhof — the Domplatte and cathedral are immediately adjacent. Follow cathedral signage from the station exits; you do not need a long city transfer.",
+        "Tourist Besichtigung entry uses the ticketed portal flow (main portal for pre-purchased tickets). Free prayer / candle access uses the north entrance facing the station side — per Dom guidance.",
+        "Tower and treasury have separate entry points from the tourist nave circuit — budget walking time between products if you booked a combo."
+      ],
+      "bullets": [
+        "Koln Hbf → Domplatte (adjacent)",
+        "Ticketed tourist entry vs free north prayer entrance",
+        "Tower / treasury = separate door flows",
+        "Buy on tickets.koelner-dom.de"
+      ]
+    },
+    "bestTime": {
+      "intro": "Weekday Besichtigung windows; Sundays shorter; liturgy can cut access.",
+      "paragraphs": [
+        "Weekday tourist windows are longer than Sunday and feast-day afternoon slots. Always re-check koelner-dom.de for the day you visit.",
+        "Early in the Besichtigung window is often calmer than mid-afternoon coach peaks. If your goal is prayer only, the free north entrance hours differ — read the Dom FAQ."
+      ],
+      "bullets": [
+        "Weekdays: longer Besichtigung window",
+        "Sundays / feast days: shorter afternoon tourist slot",
+        "Check liturgy calendar for cuts",
+        "Tower: seasonal hour changes"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Besichtigung ticketed since 2026-07-01 — verify EUR on official portal.",
+        "Prayer/service remain free via north entrance — Dom FAQ.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "milan-duomo",
+    "name": "Milan Cathedral (Duomo di Milano)",
+    "shortName": "Milan Duomo",
+    "location": "Piazza del Duomo, Milan",
+    "country": "Italy",
+    "region": "Europe",
+    "regionSlug": "europe",
+    "religions": [
+      "Christian"
+    ],
+    "religionSlugs": [
+      "christian"
+    ],
+    "summary": "Gothic marble cathedral and rooftop terraces — Veneranda Fabbrica tickets via ticket.duomomilano.it / duomomilano.it; Duomo / museum / terraces split products; no invented EUR.",
+    "heroImage": "https://images.unsplash.com/photo-1513581166391-887a6bdebcdf?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Gothic cathedral begun 1386; centuries of fabric work under Veneranda Fabbrica",
+      "patron": "Catholic cathedral of Milan (Nativity of St Mary)",
+      "unesco": "— (major national sacred landmark; not claimed here as World Heritage)",
+      "typicalVisit": "1.5–3 hours (nave); add museum + terraces with time budget"
+    },
+    "related": [
+      "sagrada-familia",
+      "st-peters",
+      "chartres"
+    ],
+    "overview": {
+      "body": [
+        "Milan Cathedral (Duomo di Milano) is one of Europe's highest cathedral-complex ticket volumes — a vast Gothic marble church on Piazza del Duomo with museum spaces and famous rooftop terraces (stairs or lift).",
+        "It remains an active cathedral: cover shoulders and knees, keep quiet in the nave, and treat rooftop terraces as part of the sacred complex, not a rooftop bar.",
+        "Official tickets: Veneranda Fabbrica del Duomo — information at duomomilano.it; booking at ticket.duomomilano.it. Products typically split Duomo / Duomo+Museum / Terraces (stairs vs lift). Do not invent EUR fares; avoid third-party sellers as your primary CTA.",
+        "Cathedral daytime hours are long but last entry is earlier than close — verify duomomilano.it. Museum closed days (historically some weekdays such as Wednesday) must be confirmed live. Early morning for the nave; golden-hour terraces if your ticket allows.",
+        "Metro Duomo (M1/M3) delivers you to the piazza. Security lines are real; pickpockets on the square are a practical note, not scare copy. Passports are sometimes requested for certain ticket types — verify on the official booking flow."
+      ],
+      "highlights": [
+        "Gothic marble Duomo + rooftop terraces",
+        "Official booking: ticket.duomomilano.it",
+        "Split products: cathedral / museum / terraces (stairs or lift)",
+        "Dress code enforced — shoulders and knees",
+        "Metro Duomo — expect security lines"
+      ]
+    },
+    "visit": {
+      "intro": "Paid Veneranda Fabbrica tickets; terraces and museum are add-ons.",
+      "hours": "Cathedral commonly daytime long hours with earlier last entry — verify duomomilano.it. Museum closed days vary (confirm live). Terrace hours follow your booked product.",
+      "tickets": "Veneranda Fabbrica del Duomo — duomomilano.it (info) and ticket.duomomilano.it (booking). Typical products: Duomo alone, Duomo+Museum, Terraces by stairs or lift, and combos. Do not invent EUR fares. Use official booking as primary CTA; third-party markup is unnecessary for standard entry.",
+      "dress": "Active cathedral dress code — cover shoulders and knees; no beachwear or bare midriffs. Quiet, respectful clothing on terraces as well.",
+      "duration": "1.5–3 hours for nave highlights; museum and terraces each add meaningful time. Combining all three needs a half-day mindset, not a 45-minute dash.",
+      "access": "Metro Duomo (lines M1/M3) to Piazza del Duomo. Security screening for cathedral / museum / terraces. Lift terrace option exists as a ticketed product for those who need it — stairs are many. Bag and ID rules follow the booking product.",
+      "tips": [
+        "Book on ticket.duomomilano.it — official Fabbrica channel.",
+        "Choose stairs vs lift terrace deliberately before you buy.",
+        "Confirm museum open days if that combo matters to you.",
+        "Cover shoulders and knees or you may be refused entry.",
+        "Last entry is earlier than closing — do not cut it fine.",
+        "Piazza pickpockets: keep bags closed and fronts-facing.",
+        "Verify whether your ticket type asks for ID/passport."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://ticket.duomomilano.it/",
+      "ticketsLabel": "Duomo di Milano official tickets (Veneranda Fabbrica)",
+      "ticketsNote": "Info also on duomomilano.it. Split products for cathedral / museum / terraces. Verify live EUR — do not invent fares. Prefer official booking over third-party."
+    },
+    "etiquette": {
+      "intro": "Active cathedral — modest dress, quiet nave, respectful terraces.",
+      "bullets": [
+        "Cover shoulders and knees; no beachwear.",
+        "Quiet in the nave; services have priority.",
+        "Rooftop terraces are still sacred-complex space — behave accordingly.",
+        "Follow security and steward directions.",
+        "No disruptive photos during liturgy.",
+        "Keep piazza awareness — closed bags, no flash mobs at doors."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach the Duomo.",
+      "paragraphs": [
+        "Ride Milan Metro lines M1 or M3 to Duomo station and exit into Piazza del Duomo. The monumental complex is on the square — cathedral, museum access points, and terrace entries are signed but can involve separate queues.",
+        "Buy the product you actually need on ticket.duomomilano.it before you join security lines. Mixing museum and terraces on a tight schedule is the most common planning failure.",
+        "If you need the lift to the terraces, select that ticket type explicitly — do not assume stairs tickets can be upgraded casually at the door."
+      ],
+      "bullets": [
+        "Metro Duomo (M1/M3) → Piazza del Duomo",
+        "Separate queues for cathedral / museum / terraces",
+        "Book the exact product (stairs vs lift) ahead",
+        "Security lines: arrive with time buffer"
+      ]
+    },
+    "bestTime": {
+      "intro": "Early nave; book terrace light deliberately.",
+      "paragraphs": [
+        "Early morning is the calmest nave window before tour groups peak. Terrace light is best when your booked slot catches softer sun — midday glare on marble can be harsh.",
+        "Confirm museum closed days if your plan depends on indoor sculpture and Duomo history galleries."
+      ],
+      "bullets": [
+        "Early morning for quieter nave",
+        "Terrace: book for preferred light, not leftover slots",
+        "Verify museum closed days",
+        "Last entry earlier than close"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "No invented EUR — confirm on ticket.duomomilano.it.",
+        "Dress code is enforced at entry.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "teotihuacan",
+    "name": "Teotihuacan (Pyramids of the Sun & Moon)",
+    "shortName": "Teotihuacan",
+    "location": "Municipality of Teotihuacan / San Martin de las Piramides, Estado de Mexico",
+    "country": "Mexico",
+    "region": "Americas",
+    "regionSlug": "americas",
+    "religions": [
+      "Mesoamerican"
+    ],
+    "religionSlugs": [
+      "mesoamerican"
+    ],
+    "summary": "UNESCO Avenue of the Dead sacred city near Mexico City — INAH tickets via ventadeboletosenlinea.inah.gob.mx / visitateotihuacan.inah.gob.mx; pyramid climbing often restricted — verify live INAH policy; no invented MXN.",
+    "heroImage": "https://images.unsplash.com/photo-1518638150340-f706e86654de?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Classic-period Mesoamerican sacred city (flourishing centuries CE)",
+      "patron": "Pre-Columbian Teotihuacan sacred urban landscape (INAH stewardship)",
+      "unesco": "UNESCO World Heritage (Pre-Hispanic City of Teotihuacan)",
+      "typicalVisit": "3–5 hours (Avenue circuit + museums); climbing often restricted"
+    },
+    "related": [
+      "chichen-itza",
+      "machu-picchu",
+      "petra"
+    ],
+    "overview": {
+      "body": [
+        "Teotihuacan is the UNESCO Avenue of the Dead sacred city northeast of Mexico City — Moon Plaza, Pyramid of the Sun, Ciudadela and Temple of the Feathered Serpent, plus on-site museums in a classic day-trip circuit.",
+        "Frame it as a pre-Columbian sacred city under INAH stewardship, not a climb challenge. Pyramid ascending rules change: the Pyramid of the Sun has long had climb restrictions, and Moon access has also been closed or limited at times (including closures until further notice after security incidents). Always verify current INAH climbing policy before you visit — never invent \"you can climb.\"",
+        "Official tickets: INAH channels — visit info at visitateotihuacan.inah.gob.mx / lugares.inah.gob.mx; e-boletos at ventadeboletosenlinea.inah.gob.mx. On-site museums are typically part of the visit circuit — confirm live. Nationality discounts and Sunday free-entry rules for Mexican nationals (with ID) change crowd density. Do not invent MXN fares.",
+        "Hours commonly 08:00–17:00 with last entry ~16:30 — verify INAH listings. Early entry means cooler air and thinner crowds on the Avenue of the Dead.",
+        "Little shade, altitude-adjacent sun, and long walking distances define the day. Bring water and a hat. Pair plaza time with the murals / culture museums when open. Authorized buses from Mexico City's North Terminal, organized day tours, or authorized taxis are the usual approaches."
+      ],
+      "highlights": [
+        "UNESCO Avenue of the Dead — Sun & Moon pyramids / Ciudadela",
+        "INAH e-boletos — verify MXN; Sunday national policies change density",
+        "Pyramid climbing often restricted — verify live INAH notices",
+        "Early entry for cooler air",
+        "Museums on-site — confirm open status"
+      ]
+    },
+    "visit": {
+      "intro": "Paid INAH archaeological ticket; climbing policy verify-live; marked paths.",
+      "hours": "Commonly 08:00–17:00 (last entry ~16:30) — verify visitateotihuacan.inah.gob.mx / INAH listings. Special operativos (e.g. equinox) can alter rules and museum hours.",
+      "tickets": "INAH official channels — ventadeboletosenlinea.inah.gob.mx for e-boletos; visit info visitateotihuacan.inah.gob.mx. Museums typically bundled when open — confirm live. Nationality / Sunday free-entry rules for Mexican nationals and residents with ID apply when posted. Do not invent MXN fares.",
+      "dress": "Sun-protective clothing, hat, and broken-in walking shoes. Little shade on the Avenue. Layers for cooler mornings and hot plazas.",
+      "duration": "3–5 hours for Avenue highlights plus museum time. Do not plan a climb-centric itinerary — access to pyramid tops is often closed or limited.",
+      "access": "From Mexico City: bus from Central del Norte, authorized taxi, or organized day tour to the gates. On-site: walk the Avenue between Moon Plaza, Sun Pyramid, and Ciudadela. Stay on authorized paths. Drones without permit are prohibited. Heat and sun exposure are the main physical constraints.",
+      "tips": [
+        "Buy via INAH e-boletos / official taquillas — not random resellers.",
+        "Re-check INAH climbing notices the week you visit — Sun/Moon access changes.",
+        "Start at opening for cooler air and thinner Avenue crowds.",
+        "Carry water and sun protection — shade is scarce.",
+        "Sunday free national entry increases density — plan accordingly.",
+        "Museum time is worth scheduling when galleries are open.",
+        "No drones; stay off closed basements and cordoned climbs."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://ventadeboletosenlinea.inah.gob.mx/",
+      "ticketsLabel": "INAH e-boletos — Teotihuacan official ticketing",
+      "ticketsNote": "Visit info: visitateotihuacan.inah.gob.mx. Verify live MXN and climbing policy on INAH notices — do not invent fares or climb access."
+    },
+    "etiquette": {
+      "intro": "Pre-Columbian sacred city — authorized paths only; no invented climbs.",
+      "bullets": [
+        "Stay on authorized paths; obey climb closures without argument.",
+        "No drones without permit.",
+        "Do not scramble on closed pyramid faces or basements.",
+        "Respect local vendors without hassle-first framing.",
+        "Quiet, respectful photography at plazas and temples.",
+        "Follow INAH and security steward directions."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Teotihuacan.",
+      "paragraphs": [
+        "From Mexico City, take a bus from Terminal del Norte (Central del Norte), an authorized taxi/rideshare arrangement, or a licensed day tour to the archaeological zone gates. Build road-time buffer for traffic.",
+        "Once inside, the visit is on foot along the Avenue of the Dead between the Moon Plaza, Pyramid of the Sun, and Ciudadela / Feathered Serpent area. Gate numbers and parking fill on peak days — arrive early.",
+        "Altitude from CDMX is mild, but heat is not. Pair transport timing with an early gate arrival rather than a midday start."
+      ],
+      "bullets": [
+        "CDMX Terminal del Norte bus / authorized taxi / day tour",
+        "On-site: walk Avenue of the Dead circuit",
+        "Early gate arrival beats heat + parking fill",
+        "Confirm which gate your ticket/tour uses"
+      ]
+    },
+    "bestTime": {
+      "intro": "Opening hour; verify climb policy; Sundays denser for nationals.",
+      "paragraphs": [
+        "Earliest entry is the best comfort window on the Avenue. Dry-season heat and equinox operativos need extra planning — INAH may restrict climbs and close museums on peak ritual-tourism days.",
+        "Sunday free-entry rules for Mexican nationals increase density. If you need quieter plazas, choose a weekday opening slot."
+      ],
+      "bullets": [
+        "Open at 08:00 when possible",
+        "Weekdays quieter than Sunday national free entry",
+        "Equinox / special operativos: read INAH notices",
+        "Never assume pyramid climbs are open"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "No invented MXN — confirm on INAH e-boletos.",
+        "Pyramid climbing: verify current INAH policy (often restricted).",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "abu-simbel",
+    "name": "Abu Simbel Temples (Nubia)",
+    "shortName": "Abu Simbel",
+    "location": "Abu Simbel, Lake Nasser — Aswan Governorate",
+    "country": "Egypt",
+    "region": "Africa",
+    "regionSlug": "africa",
+    "religions": [
+      "Ancient Egyptian"
+    ],
+    "religionSlugs": [
+      "ancient-egyptian"
+    ],
+    "summary": "Ramesses II / Nefertari rock temples on Lake Nasser — UNESCO icon; MoTA tickets via egymonuments.com; Sun Alignment peaks need verify-live ticketing; no invented EGP fares.",
+    "heroImage": "https://images.unsplash.com/photo-1504197832061-98356e3dcdcf?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "19th Dynasty rock temples of Ramesses II and Nefertari; relocated in the UNESCO rescue campaign for Lake Nasser",
+      "patron": "Ramesses II (Great Temple) and Nefertari (Small Temple) — pharaonic sacred kingship landscape",
+      "unesco": "UNESCO World Heritage (Nubian Monuments from Abu Simbel to Philae)",
+      "typicalVisit": "Half-day from Aswan minimum (flight or convoy); on-site 1.5–3 hours"
+    },
+    "related": [
+      "karnak",
+      "petra",
+      "machu-picchu"
+    ],
+    "overview": {
+      "body": [
+        "Abu Simbel is Egypt's southern pilgrimage-tourism magnet — the twin rock-cut temples of Ramesses II and Nefertari on Lake Nasser, rescued and re-sited in the UNESCO Nubian campaign and still aligned to the famous twice-yearly sun phenomenon in the Great Temple.",
+        "Frame it as living heritage of Nubian / pharaonic sacred kingship, not a \"rescued Disney set.\" Stay on marked interior routes; protect painted reliefs from flash abuse; follow photography rules that may differ inside vs outside.",
+        "Official tickets use the same MoTA stack as Karnak — egymonuments.com (Abu Simbel Temple product) and info on egymonuments.gov.eg. Sun Alignment days (commonly associated with ~22 February and ~22 October) are extreme peaks with special ticketing when offered — verify live; do not invent access hype or EGP fares. Nationality/student tiers exist.",
+        "Hours commonly ~06:00–17:00 with last entry ~16:00 — verify MoTA. Reach the site by flight from Aswan or early convoy / tour bus; the site is remote. Walk between the Great Temple and the Small Temple on marked paths.",
+        "Heat and logistics make this a half-day minimum from Aswan. Interior spaces can be humid and crowded in peak slots. Combining with a full Aswan sightseeing list the same day needs honest time math."
+      ],
+      "highlights": [
+        "UNESCO Nubian rock temples — Ramesses II & Nefertari",
+        "egymonuments.com tickets — verify EGP; Sun Alignment special when offered",
+        "Remote Lake Nasser logistics — flight or early convoy from Aswan",
+        "Dawn alignment peaks are verify-live extremes",
+        "Marked routes only; protect painted interiors"
+      ]
+    },
+    "visit": {
+      "intro": "Paid MoTA ticket; remote site; Sun Alignment days are special products.",
+      "hours": "Commonly ~06:00–17:00 with last entry ~16:00 — verify egymonuments.gov.eg / egymonuments.com. Sun Alignment mornings follow published special arrangements when offered.",
+      "tickets": "MoTA e-tickets at egymonuments.com (Abu Simbel Temple); info egymonuments.gov.eg. Sun Alignment day pricing/access differs when the special product is offered — verify live. Nationality/student tiers exist. Do not invent EGP fares. Keep ticket/QR until exit.",
+      "dress": "Sun-protective, modest clothing and closed shoes for desert heat and temple interiors. Layers for early convoy starts and hotter mid-morning plazas.",
+      "duration": "1.5–3 hours on site between the two temples. Door-to-door from Aswan is a half-day minimum whether you fly or join a convoy.",
+      "access": "Fly Aswan → Abu Simbel, or take an early convoy / licensed tour bus from Aswan. Walk between Great Temple (Ramesses II) and Small Temple (Nefertari). Interiors can be crowded and humid; follow one-way steward flow when marked. Photography rules inside may be stricter — obey signs.",
+      "tips": [
+        "Book on egymonuments.com / official channels — verify live EGP.",
+        "Sun Alignment dates: treat as verify-live special ticketing, not a casual drop-in.",
+        "Build half-day logistics from Aswan (flight or early bus).",
+        "Carry water; Lake Nasser sun is intense.",
+        "No flash abuse on painted reliefs; follow interior photo rules.",
+        "Great + Small Temple: both on the walk — don't rush the second.",
+        "Same-day heavy Aswan sightseeing: only with honest time math."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://egymonuments.com/details/AbuSimbelTemple",
+      "ticketsLabel": "MoTA e-tickets — Abu Simbel Temple (egymonuments.com)",
+      "ticketsNote": "Also see egymonuments.gov.eg. Sun Alignment days may use special ticketing — verify live. Do not invent EGP fares."
+    },
+    "etiquette": {
+      "intro": "Sacred rock-cut temples — marked routes, protect painted reliefs.",
+      "bullets": [
+        "Stay on marked routes inside both temples.",
+        "No flash abuse of painted reliefs.",
+        "Follow interior photography signage (may differ from exterior).",
+        "Quiet, respectful framing — pharaonic / Nubian sacred kingship heritage.",
+        "Obey MoTA / steward one-way flow when posted.",
+        "No climbing facades or off-path scrambling."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Abu Simbel.",
+      "paragraphs": [
+        "Most visitors base in Aswan, then either fly to Abu Simbel airport or join an early licensed convoy / tour bus to the Lake Nasser site. Independent late starts fight heat and gate timing — early departures are the norm for a reason.",
+        "On site, walk the short marked path between the Great Temple of Ramesses II and the Small Temple of Nefertari. Re-check your return flight or convoy departure before lingering too long in midday sun.",
+        "Sun Alignment mornings sell out emotionally and practically — if that is your goal, verify MoTA special ticketing and transport months ahead rather than inventing a walk-up plan."
+      ],
+      "bullets": [
+        "Aswan → flight or early convoy / tour bus",
+        "On-site walk between Great and Small Temples",
+        "Half-day minimum door-to-door",
+        "Sun Alignment: pre-verify special tickets + transport"
+      ]
+    },
+    "bestTime": {
+      "intro": "Early site hours; Alignment days are extreme peaks.",
+      "paragraphs": [
+        "Opening hour is the practical comfort window before Lake Nasser heat builds. Convoy schedules often aim you at morning light anyway.",
+        "Approximate Sun Alignment dates (~22 Feb / ~22 Oct) are verify-live spectacles with special crowd and ticket conditions — call them out honestly without invented guarantees."
+      ],
+      "bullets": [
+        "Aim for earliest practical entry",
+        "Heat rises fast — water discipline",
+        "Sun Alignment: special ticketing when offered",
+        "Verify MoTA hours before remote travel"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "No invented EGP fares — confirm on egymonuments.com.",
+        "Sun Alignment access/pricing: verify live when offered.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
       ]
     }
   }

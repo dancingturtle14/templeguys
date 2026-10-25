@@ -372,7 +372,7 @@
     "related": [
       "meiji-shrine",
       "fushimi-inari",
-      "bulguksa"
+      "haeinsa"
     ],
     "overview": {
       "body": [
@@ -1404,7 +1404,7 @@
     "related": [
       "milan-duomo",
       "st-peters",
-      "notre-dame"
+      "montserrat"
     ],
     "overview": {
       "body": [
@@ -1634,7 +1634,7 @@
     "related": [
       "milan-duomo",
       "sagrada-familia",
-      "pantheon-rome"
+      "basilica-san-marco"
     ],
     "overview": {
       "body": [
@@ -1863,7 +1863,7 @@
     "related": [
       "holy-sepulchre",
       "st-peters",
-      "st-catherines-sinai"
+      "axum"
     ],
     "overview": {
       "body": [
@@ -3115,7 +3115,7 @@
     "related": [
       "chartres",
       "cologne-cathedral",
-      "notre-dame"
+      "canterbury-cathedral"
     ],
     "overview": {
       "body": [
@@ -3921,7 +3921,7 @@
     "related": [
       "petra",
       "chichen-itza",
-      "teotihuacan"
+      "tiwanaku"
     ],
     "overview": {
       "body": [
@@ -5073,7 +5073,7 @@
     "related": [
       "cologne-cathedral",
       "notre-dame",
-      "lourdes"
+      "canterbury-cathedral"
     ],
     "overview": {
       "body": [
@@ -6217,7 +6217,7 @@
     "related": [
       "chichen-itza",
       "machu-picchu",
-      "tikal"
+      "tiwanaku"
     ],
     "overview": {
       "body": [
@@ -6673,7 +6673,7 @@
     "related": [
       "church-of-the-nativity",
       "lalibela",
-      "petra"
+      "axum"
     ],
     "overview": {
       "body": [
@@ -6903,7 +6903,7 @@
     "related": [
       "meenakshi",
       "borobudur",
-      "ajanta"
+      "konark-sun-temple"
     ],
     "overview": {
       "body": [
@@ -7699,7 +7699,7 @@
     "related": [
       "todai-ji",
       "kinkaku-ji",
-      "senso-ji"
+      "haeinsa"
     ],
     "overview": {
       "body": [
@@ -7926,7 +7926,7 @@
     "related": [
       "chartres",
       "mont-saint-michel",
-      "fatima"
+      "montserrat"
     ],
     "overview": {
       "body": [
@@ -8382,7 +8382,7 @@
     "related": [
       "milan-duomo",
       "st-peters",
-      "pantheon-rome"
+      "basilica-san-marco"
     ],
     "overview": {
       "body": [
@@ -8495,7 +8495,7 @@
     "related": [
       "lourdes",
       "guadalupe",
-      "santiago-de-compostela"
+      "montserrat"
     ],
     "overview": {
       "body": [
@@ -8608,7 +8608,7 @@
     "related": [
       "ellora",
       "mahabodhi",
-      "borobudur"
+      "yungang-grottoes"
     ],
     "overview": {
       "body": [
@@ -8721,7 +8721,7 @@
     "related": [
       "meenakshi",
       "ellora",
-      "prambanan"
+      "konark-sun-temple"
     ],
     "overview": {
       "body": [
@@ -8833,7 +8833,7 @@
     "related": [
       "ellora",
       "ajanta",
-      "temple-of-heaven"
+      "yungang-grottoes"
     ],
     "overview": {
       "body": [
@@ -9140,6 +9140,911 @@
       "bullets": [
         "Confirm liturgy on a12.com; circuits on santuarioingressos.com.br.",
         "Do not invent BRL or miracle claims.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "basilica-san-marco",
+    "name": "St Mark's Basilica (Basilica Cattedrale Patriarcale di San Marco)",
+    "shortName": "St Mark's Basilica",
+    "location": "Venice, Veneto",
+    "country": "Italy",
+    "region": "Europe",
+    "regionSlug": "europe",
+    "religions": [
+      "Christian"
+    ],
+    "religionSlugs": [
+      "christian"
+    ],
+    "summary": "Venice mosaic patriarchal cathedral — nominative timed Procuratoria tickets (tickets.basilicasanmarco.it). Basilica / Pala d’Oro / Museo-Loggia / Campanile are separate SKUs. Do not invent EUR; avoid non-Procuratoria skip-line scalpers.",
+    "heroImage": "https://images.unsplash.com/photo-1523906834658-6e24ef2386f9?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Consecrated 1094 (present Byzantine-form fabric); patriarchal cathedral of Venice; Pala d’Oro and bronze Horses",
+      "patron": "Christian — Saint Mark the Evangelist (Venetian state church)",
+      "unesco": "Venice and its Lagoon is UNESCO World Heritage; Basilica is the civic-religious core of Piazza San Marco",
+      "typicalVisit": "1–2 hours Basilica + Pala/Museo; add Campanile separately"
+    },
+    "related": [
+      "florence-duomo",
+      "milan-duomo",
+      "st-peters"
+    ],
+    "overview": {
+      "body": [
+        "St Mark’s Basilica on Piazza San Marco is Venice’s mosaic patriarchal cathedral — gold vaults, Pala d’Oro, Museo and Loggia dei Cavalli, with the Campanile as a related but separate product. It is Italy’s Venice cathedral mega still filling the Christian monumental set after Milan and Florence Duomo.",
+        "Frame the visit as a living Venetian state church and mosaic theology, not a golden Instagram dome only. Shoulders and knees covered; silence in the nave; large bags restricted when posted.",
+        "Official tickets: Procuratoria di San Marco shop only — tickets.basilicasanmarco.it (info basilicasanmarco.it). Tickets are nominative from booking; Basilica entry, Pala d’Oro, Museo/Loggia, full ticket, and Campanile are separate SKUs. Prayer entry via designated door when offered. Do not invent EUR fares. Hard-warn non-Procuratoria “skip line” scalpers.",
+        "Visitor access uses timed slots via the official shop; worship and Sunday mornings can pause tourist flow in the nave (Museum/Loggia may remain the only visitor area — verify live). Acqua alta can affect Piazza access; mosaic restoration may hide vault sections — say verify live.",
+        "Soft blockers: timed nominative slot only; Campanile is a separate ticket (lift vs stairs honesty); Venice access fee / day rules are city-level, not the Basilica ticket; build buffer for vaporetto and security screening."
+      ],
+      "highlights": [
+        "Venetian mosaic patriarchal cathedral on Piazza San Marco",
+        "Procuratoria only — tickets.basilicasanmarco.it",
+        "Nominative timed slots; Pala / Museo / Campanile separate SKUs",
+        "Worship can pause tourist nave access — verify live",
+        "No invented EUR; avoid skip-line scalpers"
+      ]
+    },
+    "visit": {
+      "intro": "Procuratoria-only nominative timed tickets; Pala d’Oro, Museo/Loggia, and Campanile are separate products.",
+      "hours": "Visitor slots via official shop; Basilica tourist access follows published calendars and yields to liturgy — verify basilicasanmarco.it / tickets.basilicasanmarco.it. Sunday mornings until early afternoon and during services, visitor access may be limited to Museum and Horses Loggia when published. Campanile follows its own window.",
+      "tickets": "Official: tickets.basilicasanmarco.it (+ info basilicasanmarco.it). Nominative from booking; choose Basilica, Basilica+Pala, Basilica+Museo/Loggia, full ticket, or Campanile SKUs as published. Prayer via designated door when offered. Do not invent EUR. Prefer Procuratoria shop over unauthorised skip-line resellers.",
+      "dress": "Active patriarchal cathedral — shoulders and knees covered; silence in the nave; no large bags when posted.",
+      "duration": "60–90 minutes for Basilica + one add-on; half day if stacking Pala, Museo terrace, and Campanile.",
+      "access": "Vaporetto to San Marco / San Zaccaria, then walk Piazza San Marco. Timed entry only for tourist Basilica slots; Campanile lift vs stairs — check live accessibility. Acqua alta may alter Piazza approaches.",
+      "tips": [
+        "Buy only on tickets.basilicasanmarco.it — ignore street skip-line scalpers.",
+        "Arrive for your nominative timed slot; late may mean miss entry.",
+        "Pala d’Oro, Museo/Loggia, and Campanile are separate SKUs — do not assume one ticket covers all.",
+        "Dress code: shoulders and knees covered; silence in the nave.",
+        "Sunday mornings / services can close the nave to tourists — Museum/Loggia may still open; verify live.",
+        "Acqua alta and mosaic scaffolding can change what you see — recheck notices.",
+        "Venice city access fee / day rules are separate from the Basilica ticket."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://tickets.basilicasanmarco.it/",
+      "ticketsLabel": "Procuratoria di San Marco — official tickets",
+      "ticketsNote": "Nominative timed slots. Pala / Museo / Campanile separate. Do not invent EUR. Avoid skip-line scalpers."
+    },
+    "etiquette": {
+      "intro": "Living Venetian patriarchal cathedral — worship first, mosaics second.",
+      "bullets": [
+        "Shoulders and knees covered; silence in the nave.",
+        "No large bags when posted; follow security screening.",
+        "Respect Mass and feast closures — tourist hours yield to liturgy.",
+        "Do not block aisles for photos during services.",
+        "Threshold Atlas tone: living state church + mosaic theology, not golden Instagram dome only."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach St Mark's Basilica.",
+      "paragraphs": [
+        "Fly into Venice Marco Polo (VCE) or arrive by train at Venezia Santa Lucia, then vaporetto to San Marco / San Zaccaria and walk into Piazza San Marco. Water taxis and Alilaguna boats also serve the basin — build lagoon buffer before your timed slot.",
+        "On site, Basilica tourist entry uses the Procuratoria timed system; Pala d’Oro and Museo/Loggia are companion products inside the complex. The Campanile stands on the piazza as a separate ticketed climb.",
+        "Piazza lodging puts you within walking distance; luggage rules and bag checks apply before entry — travel light for the slot."
+      ],
+      "bullets": [
+        "VCE / Santa Lucia → vaporetto San Marco / San Zaccaria",
+        "Timed Procuratoria slot for tourist Basilica entry",
+        "Campanile = separate product on the piazza",
+        "Build acqua alta and security buffer"
+      ]
+    },
+    "bestTime": {
+      "intro": "Shoulder seasons and early slots beat cruise-ship midday waves.",
+      "paragraphs": [
+        "Spring and autumn are easier than midsummer heat and peak cruise density. Early morning slots reduce queue pressure on the piazza.",
+        "Sunday mornings and major liturgies change tourist access — plan Museum/Loggia or another day if the nave is closed to visitors."
+      ],
+      "bullets": [
+        "Shoulder seasons preferred",
+        "Early timed slots",
+        "Watch Sunday / service nave closures",
+        "Recheck acqua alta forecasts"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm hours and SKUs on basilicasanmarco.it / tickets.basilicasanmarco.it.",
+        "Do not invent EUR; buy Procuratoria products only.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "montserrat",
+    "name": "Santa Maria de Montserrat Abbey",
+    "shortName": "Montserrat",
+    "location": "Monistrol de Montserrat, Catalonia",
+    "country": "Spain",
+    "region": "Europe",
+    "regionSlug": "europe",
+    "religions": [
+      "Christian"
+    ],
+    "religionSlugs": [
+      "christian"
+    ],
+    "summary": "Catalan Black Madonna mountain abbey — free liturgy/Cambril reservation channels for eligible residents (abadiamontserrat.cat / reserves); non-resident tourist sanctuary entry + museum via montserratvisita.com. Cremallera/Aeri are transport, not abbey entry. Do not invent EUR or miracles.",
+    "heroImage": "https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Benedictine monastery from the 11th c.; Santa Imatge (Black Madonna) shrine; Escolania boys’ choir",
+      "patron": "Christian — Marian Benedictine (Santa Maria de Montserrat)",
+      "unesco": "Not a standalone UNESCO site; major Catalan Marian pilgrimage and cultural landscape",
+      "typicalVisit": "Half day from Barcelona incl. Cremallera/Aeri; longer with museum + viewpoints"
+    },
+    "related": [
+      "fatima",
+      "lourdes",
+      "sagrada-familia"
+    ],
+    "overview": {
+      "body": [
+        "Santa Maria de Montserrat Abbey is Catalonia’s Black Madonna mountain shrine — Basilica, Cambril (Santa Imatge), Museum, and serrated viewpoints share one campus above Monistrol. It is the Iberian Marian day-trip mega after Fátima and Lourdes framing.",
+        "Frame the visit as a living Benedictine Marian pilgrimage, not a theme-park monastery. Modest dress in Basilica / Cambril; silence at Santa Imatge; Escolania Salve/Virolai is liturgy, not a show.",
+        "Official channels: Abbey liturgy & Cambril reservation for eligible residents via abadiamontserrat.cat / reserves.abadiamontserrat.cat. Non-resident tourist sanctuary entry (Atri / Basilica / Cambril) and visitor bundles via montserratvisita.com / tickets.montserratvisita.com; museum museudemontserrat.com. Cremallera rack railway and Aeri cable car are transport tickets (FGC / Montserrat Visita) — not “abbey entry.” Do not invent EUR; do not invent miracle claims.",
+        "Abbey liturgical rhythm on abadiamontserrat.cat (Basilica commonly ~07:00–20:00; Cambril windows published daily). Peak: weekends, Marian feast adjacency, Barcelona day-trip waves; weekday mornings quieter. Wind can close cable products — recheck transport.",
+        "Soft blockers: distinguish free eligible-resident liturgy/Cambril reservation vs paid non-resident tourist sanctuary products vs museum vs Cremallera/Aeri; Cambril queues without reservation on peak days; mountain weather; accessibility differs Cremallera vs Aeri — state honestly."
+      ],
+      "highlights": [
+        "Black Madonna mountain abbey + Escolania liturgy",
+        "Residents: abbey reserves; tourists: montserratvisita tickets",
+        "Cremallera / Aeri = transport, not sanctuary entry",
+        "Museum separate paid product",
+        "No invented EUR or miracle claims"
+      ]
+    },
+    "visit": {
+      "intro": "Living Marian abbey — free eligible liturgy/Cambril reservation vs paid tourist sanctuary and museum products; funiculars are transport.",
+      "hours": "Basilica commonly open daily ~07:00–20:00; Cambril (Throne of Our Lady) uses published daily windows; Mass / Salve reservation required on peak days — verify abadiamontserrat.cat. Museum hours on museudemontserrat.com. Cremallera/Aeri follow FGC / Montserrat Visita seasonal tables.",
+      "tickets": "Eligible residents (Catalonia / rest of Spain / EU, with published exceptions for organised groups): free reservation for Mass, Escolania Salve/Virolai, and Cambril via abadiamontserrat.cat / reserves.abadiamontserrat.cat. Non-residents / tourists: sanctuary tourist entry combinations on montserratvisita.com / tickets.montserratvisita.com. Museum separate. Cremallera/Aeri = transport only. Do not invent EUR.",
+      "dress": "Living Benedictine Marian shrine — modest dress in Basilica / Cambril; silence at Santa Imatge.",
+      "duration": "3–5 hours from Barcelona including ascent; add museum and viewpoints for a fuller day.",
+      "access": "FGC train to Monistrol de Montserrat + Cremallera, or Aeri cable car; car to monastery parking when open. Mountain terraces and stairs; Cremallera is usually the steadier access option in wind — verify live closures.",
+      "tips": [
+        "Residents: reserve Mass / Salve / Cambril on abadiamontserrat.cat — do not skip the reservation on peak days.",
+        "Non-residents: buy sanctuary tourist entry on montserratvisita.com / tickets.montserratvisita.com — verify current rules before travel.",
+        "Cremallera and Aeri tickets are transport, not abbey entry.",
+        "Museum is a separate paid product (museudemontserrat.com).",
+        "Dress modestly; treat Escolania Salve as liturgy, not a concert.",
+        "Check wind / cable closures before relying on Aeri.",
+        "Do not invent fares or miracle claims."
+      ],
+      "entryType": "verify",
+      "ticketsUrl": "https://tickets.montserratvisita.com/",
+      "ticketsLabel": "Montserrat Visita — tourist sanctuary & transport tickets",
+      "ticketsNote": "Residents: free liturgy/Cambril via abadiamontserrat.cat reserves. Tourists: sanctuary products here. Cremallera/Aeri = transport. Do not invent EUR."
+    },
+    "etiquette": {
+      "intro": "Living Benedictine Marian mountain — prayer first, viewpoint second.",
+      "bullets": [
+        "Modest dress in Basilica and Cambril; silence at Santa Imatge.",
+        "Escolania Salve/Virolai is liturgy — no applause culture.",
+        "Respect Mass and confession times; tourist flow yields to pastoral life.",
+        "No blocking Cambril for photos during veneration.",
+        "Threshold Atlas tone: Catalan Marian pilgrimage, not theme-park monastery."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Montserrat Abbey.",
+      "paragraphs": [
+        "From Barcelona, take FGC trains toward Monistrol de Montserrat, then the Cremallera rack railway up to the monastery plaza, or use the Aeri cable car when open. Combined transport + visitor products appear on Montserrat Visita channels — still distinct from sanctuary entry rules.",
+        "On arrival, Basilica / Cambril / Museum / viewpoints share the mountain terrace. Follow abbey wayfinding for liturgical doors versus tourist queues.",
+        "Mountain weather and wind can suspend Aeri; Cremallera is often the more reliable ascent — recheck FGC / Visita status the morning you travel."
+      ],
+      "bullets": [
+        "Barcelona FGC → Monistrol → Cremallera (or Aeri)",
+        "Abbey reserves vs Visita tourist tickets — know which you need",
+        "Museum separate on campus",
+        "Recheck wind / cable status"
+      ]
+    },
+    "bestTime": {
+      "intro": "Weekday mornings beat weekend Barcelona day-trip waves.",
+      "paragraphs": [
+        "Weekdays outside Marian feast adjacency are quieter than Saturday coach peaks. Clear winter air and autumn light are popular; summer heat on the terrace is real.",
+        "If you want Escolania Salve, check escolania.cat / abbey agenda — the choir is sometimes away."
+      ],
+      "bullets": [
+        "Weekday mornings preferred",
+        "Avoid peak weekend coach waves when possible",
+        "Verify Escolania schedule",
+        "Watch wind closures for Aeri"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm liturgy on abadiamontserrat.cat; tourist products on montserratvisita.com.",
+        "Do not invent EUR; distinguish free eligible reservation vs paid tourist entry vs transport.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "konark-sun-temple",
+    "name": "Sun Temple, Konark",
+    "shortName": "Konark Sun Temple",
+    "location": "Konark, Odisha",
+    "country": "India",
+    "region": "South Asia",
+    "regionSlug": "south-asia",
+    "religions": [
+      "Hindu"
+    ],
+    "religionSlugs": [
+      "hindu"
+    ],
+    "summary": "UNESCO Surya chariot temple — ASI Puri Circle ticketed monument (asi.nic.in / asipuricircle.in; e-ticket when live on asi.paygov.org.in). Nationality tiers; sunrise–sunset. Heritage site, not living daily sanctum darshan. Do not invent INR.",
+    "heroImage": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "13th-century Eastern Ganga Surya temple conceived as a solar chariot; UNESCO World Heritage 1984",
+      "patron": "Hindu — Surya (monumental Odisha sacred architecture; ASI protected)",
+      "unesco": "UNESCO World Heritage — Sun Temple, Konârak",
+      "typicalVisit": "2–3 hours site + ASI museum; plan heat and shade honestly"
+    },
+    "related": [
+      "hampi",
+      "meenakshi",
+      "ellora"
+    ],
+    "overview": {
+      "body": [
+        "The Sun Temple at Konark is Odisha’s UNESCO Surya chariot — jagamohana, natya mandapa axis, and wheel sculptures under ASI Puri Circle care. It is the Hindu architectural mega beyond living-darshan pages, pairing with Hampi and Ellora monumental peers.",
+        "Frame the visit as living Odisha sacred architecture heritage, not a “Kamasutra park.” Modest dress; no climbing wheels or sculptures; no treating erotic mithuna panels as props.",
+        "Official tickets: Archaeological Survey of India — info asi.nic.in / asipuricircle.in; e-ticket channels when live on asi.paygov.org.in. Nationality tiers (Indian / SAARC / BIMSTEC vs other foreign) — verify live; do not invent INR. Archaeological Museum Konark may be a separate low-fee ticket.",
+        "ASI commonly sunrise–sunset class — verify live notices. Oct–Mar preferred; Apr–Jun extreme heat; Konark Dance Festival (early Dec) is cultural overlay, not a temple ticket.",
+        "Soft blockers: heat + little shade; sanctum is no longer a living daily-darshan core (state heritage honestly); Chandrabhaga beach is adjacent pilgrimage geography, not the ASI ticket; fake guide touts at the approach."
+      ],
+      "highlights": [
+        "UNESCO Surya chariot — ASI Puri Circle",
+        "asi.nic.in / asipuricircle.in / asi.paygov.org.in",
+        "Nationality tiers — verify live; no invent INR",
+        "Sunrise–sunset; plan heat honestly",
+        "Heritage monument ≠ living daily sanctum darshan"
+      ]
+    },
+    "visit": {
+      "intro": "ASI ticketed UNESCO monument — sunrise to sunset; nationality tiers; museum may be separate.",
+      "hours": "Commonly sunrise to sunset — verify asi.nic.in / ASI Puri Circle notices. Closed or altered windows only when officially published.",
+      "tickets": "Official: ASI channels — asi.nic.in, asipuricircle.in tariff page, and e-ticket when live on asi.paygov.org.in. Indian / SAARC / BIMSTEC vs other foreign tiers — verify live; do not invent INR. Children free-tier when published. Museum may be separate. Prefer official ASI over approach touts.",
+      "dress": "Hindu Surya monumental temple (ASI) — modest dress; no climbing wheels / sculptures; respectful behaviour at mithuna panels.",
+      "duration": "2–3 hours for the chariot circuit and museum; longer if combining Chandrabhaga separately.",
+      "access": "Fly into Bhubaneswar (BBI); road ~1.5 hr via Puri/coast highway; taxi / Odisha Tourism coaches common. Site is largely outdoor with limited shade — heat and sun exposure are real access constraints.",
+      "tips": [
+        "Buy ASI tickets via official channels (asipuricircle.in / asi.paygov.org.in when live) — ignore approach touts.",
+        "Verify nationality tier fares live; do not invent INR.",
+        "Visit Oct–Mar when possible; Apr–Jun heat is extreme with little shade.",
+        "Do not climb wheels or sculptures; no touching carvings as props.",
+        "This is ASI heritage — not a living daily sanctum darshan site.",
+        "Museum may need a separate ticket — check on site / ASI notices.",
+        "Chandrabhaga beach is adjacent geography, not included in the ASI monument ticket."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://www.asipuricircle.in/tickets",
+      "ticketsLabel": "ASI Puri Circle — official tickets & tariff",
+      "ticketsNote": "Nationality tiers; e-ticket when live on asi.paygov.org.in. Do not invent INR. Museum may be separate."
+    },
+    "etiquette": {
+      "intro": "Odisha Surya heritage — sacred architecture, not a prop set.",
+      "bullets": [
+        "Modest dress; no climbing temple wheels or sculptures.",
+        "Do not touch or pose with erotic mithuna panels as novelty props.",
+        "Follow ASI pathways and staff directions.",
+        "Quiet near conservation barriers.",
+        "Threshold Atlas tone: living Odisha sacred architecture heritage, not Kamasutra park."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Konark Sun Temple.",
+      "paragraphs": [
+        "Fly into Biju Patnaik International Airport (BBI) in Bhubaneswar, then road transfer ~1.5 hours toward Konark via the Puri/coast corridor. Taxis, hired cars, and Odisha Tourism coaches are the usual options.",
+        "On site, the chariot jagamohana, natya mandapa, and compound paths are outdoor ASI circuits; the Archaeological Museum sits adjacent when open.",
+        "Carry water and sun protection — shade is limited on the monumental platform."
+      ],
+      "bullets": [
+        "BBI → road ~1.5 hr to Konark",
+        "ASI ticket booth / e-ticket QR",
+        "Museum adjacent — may be separate ticket",
+        "Heat and shade planning essential"
+      ]
+    },
+    "bestTime": {
+      "intro": "October–March beats extreme summer heat.",
+      "paragraphs": [
+        "Cooler dry months (roughly Oct–Mar) are the practical window. April–June heat on bare stone is a soft blocker for many visitors.",
+        "Early morning light on the chariot wheels is kinder than midday glare; early December brings the Konark Dance Festival as a cultural overlay — not an ASI temple ticket."
+      ],
+      "bullets": [
+        "Oct–Mar preferred",
+        "Avoid Apr–Jun extreme heat when possible",
+        "Early morning light",
+        "Dance Festival ≠ temple ticket"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm hours and tariffs on asi.nic.in / asipuricircle.in.",
+        "Do not invent INR; use ASI official channels only.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "yungang-grottoes",
+    "name": "Yungang Grottoes",
+    "shortName": "Yungang Grottoes",
+    "location": "Datong, Shanxi",
+    "country": "China",
+    "region": "East Asia",
+    "regionSlug": "east-asia",
+    "religions": [
+      "Buddhist"
+    ],
+    "religionSlugs": [
+      "buddhist"
+    ],
+    "summary": "UNESCO Northern Wei imperial caves at Datong — real-name advance booking only via official WeChat 云冈研究院 / 云冈石窟文旅 (+ authorized Ctrip/Meituan/Tongcheng). Hard-warn fake “云岗” lookalike apps. Do not invent CNY; no same-day walk-up assumption.",
+    "heroImage": "https://images.unsplash.com/photo-1508804185872-d7aad8140000?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Northern Wei imperial cave temples (5th c.); UNESCO World Heritage; Tanyao five caves axis",
+      "patron": "Buddhist — Northern Wei imperial patronage landscape",
+      "unesco": "UNESCO World Heritage — Yungang Grottoes",
+      "typicalVisit": "Half to full day walking cave clusters; plan conservation closures"
+    },
+    "related": [
+      "longmen-grottoes",
+      "ajanta",
+      "ellora"
+    ],
+    "overview": {
+      "body": [
+        "Yungang Grottoes west of Datong are China’s Northern Wei imperial cave-temple UNESCO site — natural pair with live Longmen. Cave clusters, museum, and visitor services share one scenic area under the Yungang Research Institute.",
+        "Frame the visit as Northern Wei Buddhist patronage landscape, not a Buddha-head selfie trail. No touching statues; no flash where banned; quiet at the Tanyao five caves axis.",
+        "Official tickets: real-name advance booking only — WeChat mini programs 云冈研究院 / 云冈石窟文旅, plus authorized Ctrip / Meituan / Tongcheng when named by the institute. Info / notices via institute channels / yungang.gov.cn when live. On-site walk-up windows have largely been phased out. Do not invent CNY. Hard-warn fake “云岗” lookalike mini programs and bundled “ticket+guide” scalpers.",
+        "Seasonal day windows (summer often earlier open) — verify institute notices. Spring/autumn beat winter cold and summer coach peaks. Night products only when officially published.",
+        "Soft blockers: book ahead (windows often multi-day, not same-day); passport/ID must match at gate; cave closures for conservation — verify live open caves; Mandarin-first UX — offline map helps; do not conflate Hengshan / Hanging Temple as the same ticket."
+      ],
+      "highlights": [
+        "UNESCO Northern Wei caves — Longmen peer",
+        "Real-name WeChat 云冈研究院 / 云冈石窟文旅 only",
+        "Hard-warn fake 云岗 lookalike apps",
+        "No same-day walk-up assumption",
+        "Do not invent CNY"
+      ]
+    },
+    "visit": {
+      "intro": "Real-name advance booking only — official WeChat / authorized OTAs; fake apps are a known scam class.",
+      "hours": "Seasonal day windows published by Yungang Research Institute — verify WeChat notices / yungang.gov.cn when live. Some caves close for conservation without long notice.",
+      "tickets": "Official: WeChat mini programs 云冈研究院 and 云冈石窟文旅; authorized Ctrip / Meituan / Tongcheng when named by the institute. Real-name + original ID/passport at gate. Free-tier visitors still need advance reservation when published. Do not invent CNY. Avoid lookalike “云岗” apps and unauthorised ticket+guide bundles.",
+      "dress": "Buddhist imperial cave-temple UNESCO site — comfortable walking shoes; no touching statues; no flash where banned; quiet at major Buddha caves.",
+      "duration": "3–5 hours for the main cave clusters; full day if museum and slower conservation routes.",
+      "access": "Fly or rail into Datong; city bus / taxi / tourist bus to Yungang scenic area (Wuzhou Shan). Long walking circuits; uneven cave floors; Mandarin-first signage — offline map recommended.",
+      "tips": [
+        "Book only via 云冈研究院 / 云冈石窟文旅 WeChat or institute-named OTAs — never lookalike “云岗” apps.",
+        "Carry original ID/passport matching the real-name booking.",
+        "Do not assume same-day walk-up tickets — windows are often advance-only.",
+        "Verify which caves are open; conservation closures are common.",
+        "Hengshan / Hanging Temple are separate tickets — do not conflate.",
+        "Spring/autumn preferred over winter cold and summer coach peaks.",
+        "Do not invent CNY fares."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://www.dt.gov.cn/",
+      "ticketsLabel": "Yungang — book via official WeChat 云冈研究院 / 云冈石窟文旅",
+      "ticketsNote": "Real-name advance only. Authorized OTAs when named by institute. Hard-warn fake 云岗 apps. Do not invent CNY."
+    },
+    "etiquette": {
+      "intro": "Northern Wei Buddhist caves — heritage quiet, not a selfie trail.",
+      "bullets": [
+        "No touching statues or reliefs.",
+        "No flash where banned; follow cave photography rules.",
+        "Quiet at the Tanyao five caves axis.",
+        "Stay on marked paths; respect conservation barriers.",
+        "Threshold Atlas tone: imperial Buddhist patronage landscape, not Buddha-head selfie trail."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Yungang Grottoes.",
+      "paragraphs": [
+        "Fly or take high-speed rail into Datong, then city bus, tourist bus, taxi, or hired car west to the Yungang scenic area at Wuzhou Shan. Build buffer for real-name gate checks at your booked slot.",
+        "On site, cave clusters and visitor services are walking circuits; some caves may be closed — follow institute wayfinding for open routes.",
+        "Do not treat nearby Hengshan or Hanging Temple as part of the Yungang ticket — they are separate day products."
+      ],
+      "bullets": [
+        "Datong air/rail → bus/taxi to Yungang",
+        "Real-name gate at booked slot",
+        "Walking cave circuits; verify open caves",
+        "Separate tickets for Hengshan / Hanging Temple"
+      ]
+    },
+    "bestTime": {
+      "intro": "Spring and autumn beat winter cold and summer coach peaks.",
+      "paragraphs": [
+        "Shoulder seasons are kinder for outdoor walking between caves. Winter is cold on the hillside; summer brings coach density.",
+        "Book multi-day ahead for weekends and holidays — same-day is not the default model."
+      ],
+      "bullets": [
+        "Spring/autumn preferred",
+        "Book ahead for weekends/holidays",
+        "Verify seasonal open hours",
+        "Night products only when officially published"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm booking channels on institute WeChat notices; beware 云岗 lookalikes.",
+        "Do not invent CNY; real-name advance only.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "haeinsa",
+    "name": "Haeinsa (해인사) and Janggyeong Panjeon",
+    "shortName": "Haeinsa",
+    "location": "Hapcheon, South Gyeongsang",
+    "country": "South Korea",
+    "region": "East Asia",
+    "regionSlug": "east-asia",
+    "religions": [
+      "Buddhist"
+    ],
+    "religionSlugs": [
+      "buddhist"
+    ],
+    "summary": "UNESCO Tripitaka Koreana depositories at Gayasan — temple grounds free (haeinsa.or.kr); Janggyeong Panjeon interior = limited Sunday reservation only; default visit = exterior lattice viewing. Parking ≠ entry. Do not invent KRW gate fares.",
+    "heroImage": "https://images.unsplash.com/photo-1545569341-9eb8b30979d9?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Silla-origin Jogye mountain temple; Janggyeong Panjeon holds Tripitaka Koreana woodblocks; UNESCO World Heritage",
+      "patron": "Buddhist — Jogye Order Dharma-jewel (법보) temple",
+      "unesco": "UNESCO World Heritage — Haeinsa Temple Janggyeong Panjeon, the Depositories for the Tripitaka Koreana Woodblocks",
+      "typicalVisit": "2–4 hours grounds + exterior Panjeon; interior Sunday program separate and tiny"
+    },
+    "related": [
+      "bulguksa",
+      "todai-ji",
+      "longmen-grottoes"
+    ],
+    "overview": {
+      "body": [
+        "Haeinsa on Gayasan is Korea’s Dharma-jewel temple — Iljumun through Daejeokgwangjeon to the Janggyeong Panjeon depositories of the Tripitaka Koreana. It complements live Bulguksa without another Kyoto add.",
+        "Frame the visit as a living Jogye mountain temple and UNESCO woodblock treasury, not a “library tourist attraction.” Modest dress; quiet; no entering closed halls; no photography / no touching woodblocks on any interior program.",
+        "Official: temple grounds free (cultural-heritage admission abolished) — haeinsa.or.kr. Parking fees are local/vehicle-tier (Hapcheon guidance) — not an “entry ticket.” Janggyeong Panjeon interior = limited Sunday reservation pilgrimage via temple site only (phone often not accepted) — exterior lattice viewing is the default honest visit. Do not invent KRW gate fares; do not sell third-party “Tripitaka entry” as standard.",
+        "Grounds commonly daylight monastic hours (~08:30–18:00 summer / ~17:00 winter class) — verify haeinsa.or.kr. Autumn foliage and clear winter air are popular; monsoon humid.",
+        "Soft blockers: interior slots tiny / cancel below minimum; stairs + mountain weather; templestay is a separate pastoral product; Gayasan park rules may stack — state clearly."
+      ],
+      "highlights": [
+        "UNESCO Tripitaka Koreana depositories",
+        "Grounds free — haeinsa.or.kr",
+        "Interior Panjeon = tiny Sunday reservation only",
+        "Default visit = exterior lattice viewing",
+        "Parking ≠ entry; no invent KRW gate fare"
+      ]
+    },
+    "visit": {
+      "intro": "Temple grounds free; interior Tripitaka viewing is a rare Sunday reservation — exterior Panjeon is the honest default.",
+      "hours": "Grounds commonly ~08:30–18:00 summer / earlier close in winter — verify haeinsa.or.kr. Sunday interior Tripitaka program follows separate capacity-limited schedule when offered.",
+      "tickets": "Temple grounds free (admission abolished). Official info haeinsa.or.kr. Parking is a local vehicle fee, not gate admission. Janggyeong Panjeon interior: limited Sunday reservation via temple website only when published — do not invent KRW or treat third-party “Tripitaka entry” as standard. Exterior lattice viewing is the default visit.",
+      "dress": "Living Jogye mountain temple — modest dress; quiet; no entering closed halls; no photography / no touching woodblocks on interior programs.",
+      "duration": "2–4 hours for the gate-to-Panjeon approach and exterior viewing; interior program adds a reserved Sunday slot when obtained.",
+      "access": "Bus via Daegu / Hapcheon toward Gayasan; local bus / taxi to Iljumun area. Mountain stairs and weather; templestay lodging is separate from day visit.",
+      "tips": [
+        "Grounds are free — do not pay third parties for a fake “entry ticket.”",
+        "Default honest visit = exterior Janggyeong Panjeon lattice viewing.",
+        "Interior woodblock program = tiny Sunday reservation on haeinsa.or.kr only when offered.",
+        "Parking fees are not admission — pay only official lots.",
+        "Modest dress; quiet; no touching closed halls or woodblocks.",
+        "Autumn foliage popular; monsoon days are humid on the climb.",
+        "Do not invent KRW gate fares."
+      ],
+      "entryType": "free",
+      "ticketsUrl": "https://www.haeinsa.or.kr/",
+      "ticketsLabel": "Haeinsa — official temple site (grounds free; interior Sunday reservation)",
+      "ticketsNote": "Grounds free. Interior Tripitaka = limited Sunday reservation only. Parking ≠ entry. Do not invent KRW."
+    },
+    "etiquette": {
+      "intro": "Dharma-jewel mountain temple — woodblocks are sacred treasury, not exhibits to handle.",
+      "bullets": [
+        "Modest dress; quiet on the approach and at Panjeon.",
+        "Do not enter closed halls or climb barriers.",
+        "No photography / no touching woodblocks on any interior program.",
+        "Respect monastic schedules and templestay privacy.",
+        "Threshold Atlas tone: 법보 temple + UNESCO depositories, not library tourist attraction."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Haeinsa.",
+      "paragraphs": [
+        "Travel via Daegu or Hapcheon toward Gayasan National Park, then local bus or taxi to the Iljumun approach. The walk climbs through successive gates to Daejeokgwangjeon and the Panjeon exterior.",
+        "On site, follow monastic wayfinding; interior Panjeon access exists only with a confirmed Sunday reservation when the temple is offering the program.",
+        "Mountain weather and stairs are the main physical constraints — plan footwear and time honestly."
+      ],
+      "bullets": [
+        "Daegu / Hapcheon → Gayasan → Iljumun",
+        "Grounds free; climb to exterior Panjeon",
+        "Interior only with Sunday reservation",
+        "Stairs + mountain weather"
+      ]
+    },
+    "bestTime": {
+      "intro": "Autumn foliage and clear winter air are popular; verify Sunday interior separately.",
+      "paragraphs": [
+        "Autumn colour on Gayasan draws crowds; winter air is clear but cold on the climb. Monsoon months are humid.",
+        "If you hope for interior Tripitaka viewing, treat Sunday reservation capacity as a soft blocker — most visits remain exterior-only."
+      ],
+      "bullets": [
+        "Autumn foliage popular",
+        "Clear winter air",
+        "Interior = rare Sunday slots",
+        "Verify hours on haeinsa.or.kr"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm hours and any Sunday interior program on haeinsa.or.kr.",
+        "Do not invent KRW gate fares; grounds are free.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "axum",
+    "name": "Aksum / Axum sacred cluster (Stelae Park and Church of Our Lady Mary of Zion)",
+    "shortName": "Axum (Aksum)",
+    "location": "Aksum, Tigray",
+    "country": "Ethiopia",
+    "region": "Africa",
+    "regionSlug": "africa",
+    "religions": [
+      "Christian"
+    ],
+    "religionSlugs": [
+      "christian"
+    ],
+    "summary": "Aksumite capital + Ethiopian Orthodox Zion tradition — buy on-site at official ticket offices (stelae/heritage ticket separate from Mary of Zion). Old Church often male-only; Chapel of the Tablet (claimed Ark) — no public entry. Cash ETB common. Do not invent ETB; no relic-tourist framing.",
+    "heroImage": "https://images.unsplash.com/photo-1523805009345-7448845a9e53?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Aksumite imperial capital; Northern Stelae Field; Church of Our Lady Mary of Zion complex (Old Church + New Cathedral + claimed Ark chapel)",
+      "patron": "Christian — Ethiopian Orthodox Tewahedo (Zion tradition) + Aksumite monumental landscape",
+      "unesco": "UNESCO World Heritage — Aksum",
+      "typicalVisit": "Half to full day multi-site town; stelae + Zion complex separately ticketed"
+    },
+    "related": [
+      "lalibela",
+      "st-catherines-sinai",
+      "holy-sepulchre"
+    ],
+    "overview": {
+      "body": [
+        "Aksum (Axum) is Ethiopia’s Aksumite sacred capital cluster — Northern Stelae Park, archaeological museum, and the Church of Our Lady Mary of Zion complex. It deepens Africa Christian coverage as Lalibela’s peer.",
+        "Frame the visit as living Zion tradition plus Aksumite monumental landscape, not an Indiana Jones relic hunt. Modest dress; shoes off where posted; silence near Zion churches; never claim tourist access to the Ark.",
+        "Official tickets: buy at official on-site ticket offices (Northern Stelae / heritage visitor centre). Typical stack = Aksum archaeological sites ticket (stelae field, tombs, museum, Dungur when included) separate from Mary of Zion church/museum ticket — confirm current bundling on-site / visitethiopia.et. Cash ETB common. Do not invent ETB; third-party “Ark tickets” are scams.",
+        "Daylight heritage hours common; church liturgical schedule separate — verify visitethiopia.et and on-site boards. Dry season (roughly Oct–May) preferred; Orthodox feast peaks crowds.",
+        "Soft blockers: Old Church of St Mary of Zion often male-only; New Cathedral generally open to all visitors with modest dress; Chapel of the Tablet (claimed Ark) — no public entry (guardian monk only; exterior perimeter viewing). State women/men access split honestly. Photography rules vary by zone. Recheck regional travel advisories before travel."
+      ],
+      "highlights": [
+        "Aksumite stelae + Mary of Zion cluster",
+        "On-site official tickets; cash ETB common",
+        "Stelae ticket ≠ Zion church ticket",
+        "Old Church often male-only; Ark chapel no public entry",
+        "No invent ETB; no relic-tourist framing"
+      ]
+    },
+    "visit": {
+      "intro": "Multi-site town — stelae/heritage ticket separate from Zion church; Ark chapel exterior-only; Old Church access rules apply.",
+      "hours": "Daylight heritage hours common at stelae/museum; Zion complex follows liturgical and visitor boards — verify visitethiopia.et and on-site notices. Feast days change access.",
+      "tickets": "Buy at official on-site ticket offices. Archaeological sites ticket (stelae, tombs, museum, Dungur when included) is typically separate from Mary of Zion church/museum ticket — confirm bundling live. Cash ETB commonly required. Do not invent ETB. No legitimate tourist “Ark ticket.” Prefer on-site official counters over street sellers.",
+      "dress": "Ethiopian Orthodox + Aksumite sacred capital — modest dress; shoes off where posted; silence near Zion churches.",
+      "duration": "Half to full day for stelae field + Zion complex; more if museum and outlying tombs.",
+      "access": "Fly into Axum (AXU); bajaj / taxi between Northern Stelae Park, museum, and Mary of Zion. Old Church often male-only; New Cathedral generally open to all with modest dress; Chapel of the Tablet — no public entry. Recheck travel advisories.",
+      "tips": [
+        "Buy only at official on-site ticket offices — ignore “Ark ticket” scams.",
+        "Expect separate stelae/heritage and Zion church tickets unless bundling is posted.",
+        "Carry cash ETB; card acceptance is not reliable.",
+        "Old Church of St Mary of Zion is often male-only — plan New Cathedral for mixed groups.",
+        "Chapel of the Tablet (claimed Ark) has no public entry — exterior perimeter only.",
+        "Shoes off and modest dress where posted at churches.",
+        "Recheck regional travel advisories before you go; do not invent ETB."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://visitethiopia.et/",
+      "ticketsLabel": "Visit Ethiopia — info; buy tickets at official Axum on-site offices",
+      "ticketsNote": "Stelae ≠ Zion ticket. Cash ETB. Old Church male-only often. Ark chapel no public entry. Do not invent ETB."
+    },
+    "etiquette": {
+      "intro": "Living Zion tradition — never frame the Ark as a tourist exhibit.",
+      "bullets": [
+        "Modest dress; shoes off where posted.",
+        "Silence near Zion churches; worshippers first.",
+        "Respect Old Church male-only rules without argument.",
+        "No claiming or photographing inside the Ark chapel — it is closed to the public.",
+        "Threshold Atlas tone: Ethiopian Orthodox Zion + Aksumite landscape, not relic hunt."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach the Axum sacred cluster.",
+      "paragraphs": [
+        "Fly into Axum Airport (AXU), then bajaj or taxi between the Northern Stelae Park, archaeological museum, and the Mary of Zion complex. It is a multi-site town, not one turnstile.",
+        "On site, buy heritage and church tickets at official offices, then walk or short-hop between stelae field and Zion compound.",
+        "Build buffer for feast-day crowds and any security checks; reconfirm local advisory status the week you travel."
+      ],
+      "bullets": [
+        "AXU → bajaj/taxi between sites",
+        "Official on-site tickets; cash ETB",
+        "Stelae park and Zion complex separately",
+        "Recheck travel advisories"
+      ]
+    },
+    "bestTime": {
+      "intro": "Dry season (roughly Oct–May) preferred; feast peaks are crowded.",
+      "paragraphs": [
+        "The drier months are easier for outdoor stelae walking. Orthodox feast peaks bring devotion density — beautiful and crowded.",
+        "Always recheck regional security / travel advisories; heritage hours can shift with local conditions."
+      ],
+      "bullets": [
+        "Oct–May dry season preferred",
+        "Feast days = devotion crowds",
+        "Verify on-site hours",
+        "Advisory recheck mandatory"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm bundling and hours on-site / visitethiopia.et.",
+        "Do not invent ETB; no public Ark access.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass.",
+        "Recheck regional travel advisories before travel."
+      ]
+    }
+  },
+  {
+    "id": "canterbury-cathedral",
+    "name": "Canterbury Cathedral",
+    "shortName": "Canterbury Cathedral",
+    "location": "Canterbury, Kent",
+    "country": "United Kingdom",
+    "region": "Europe",
+    "regionSlug": "europe",
+    "religions": [
+      "Christian"
+    ],
+    "religionSlugs": [
+      "christian"
+    ],
+    "summary": "Mother church of the Anglican Communion / Becket pilgrimage see — sightseeing tickets on canterbury-cathedral.org; worship and chapel prayer free. Sunday split access. Do not invent GBP; prefer Dean & Chapter official shop over resellers.",
+    "heroImage": "https://images.unsplash.com/photo-1486299267070-83823f5448dd?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Seat of the Archbishop of Canterbury; Becket shrine pilgrimage; UNESCO World Heritage with St Augustine’s Abbey and St Martin’s Church",
+      "patron": "Christian — Anglican Communion mother church (Dean & Chapter)",
+      "unesco": "UNESCO World Heritage — Canterbury Cathedral, St Augustine's Abbey, and St Martin's Church",
+      "typicalVisit": "2–3 hours sightseeing Precincts + church; longer with exhibitions"
+    },
+    "related": [
+      "westminster-abbey",
+      "chartres",
+      "notre-dame"
+    ],
+    "overview": {
+      "body": [
+        "Canterbury Cathedral is the mother church of the Anglican Communion and England’s Becket pilgrimage see — Precincts, gardens, and exhibitions share one sightseeing admission when visiting as a tourist. It is the UK cathedral mega distinct from live Westminster Abbey.",
+        "Frame the visit as Becket pilgrimage and Anglican see, not a film-set cloister (even where filming history exists, keep sacred framing first). Respectful dress; silence in quire / chapels; worshippers first.",
+        "Official tickets: Dean & Chapter — canterbury-cathedral.org (Tickets and opening times). Book online for fast-track or buy at Visitor Centre. Worship / prayer entry is free when attending services or using chapels to pray — keep sightseeing ticket vs free worship distinct. Seasonal pricing / concessions / local Cathedral Pass exist — verify live; do not invent GBP. Warn non-cathedral resellers.",
+        "Sightseeing commonly Mon–Sat 10:00–17:00 (last admission earlier); Sunday later open with grounds/shop first, church later — verify canterbury-cathedral.org. Services, consecrations, and conservation close areas — check closures page before travel.",
+        "Soft blockers: Sunday split access; sudden service closures; Bell Harry / crypt area limits when posted; accessibility routes via Visitor Centre — state honestly."
+      ],
+      "highlights": [
+        "Anglican mother church + Becket pilgrimage see",
+        "Official canterbury-cathedral.org tickets",
+        "Worship / chapel prayer free; sightseeing paid",
+        "Sunday split hours — verify live",
+        "No invent GBP; official shop only"
+      ]
+    },
+    "visit": {
+      "intro": "Sightseeing ticket vs free worship — official Dean & Chapter site only; Sunday access is split.",
+      "hours": "Sightseeing commonly Monday–Saturday 10:00–17:00 (last admission earlier); Sunday commonly 11:30–17:00 with grounds/shop first and church from ~12:30 — verify canterbury-cathedral.org. Check closures page for services and conservation.",
+      "tickets": "Official: canterbury-cathedral.org (Tickets and opening times). Book online or buy at Visitor Centre. Includes Cathedral, Precincts, gardens, exhibitions when published. Worship / prayer free when attending services or praying in chapels. Seasonal pricing, concessions, Cathedral Pass, Friends — verify live; do not invent GBP. Prefer official shop over non-cathedral resellers.",
+      "dress": "Active mother church — respectful dress; silence in quire / chapels; worshippers first.",
+      "duration": "2–3 hours for Precincts and church; longer with exhibitions and mini talks.",
+      "access": "Train from London St Pancras / Victoria to Canterbury West or East; walk to Precincts / Visitor Centre. Accessibility routes via Visitor Centre; some crypt / tower areas limited when posted.",
+      "tips": [
+        "Buy sightseeing tickets on canterbury-cathedral.org — not random resellers.",
+        "Worship and chapel prayer are free — distinct from sightseeing admission.",
+        "Sunday: grounds/shop open before the church — plan the split.",
+        "Check the closures calendar before travel — services can close areas.",
+        "Seasonal pricing and concessions change — verify live; do not invent GBP.",
+        "Locals may qualify for Cathedral Pass — check eligibility on the official site.",
+        "Keep sacred framing first even where cloisters appear in popular culture."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://www.canterbury-cathedral.org/visit/tickets-and-opening-times/",
+      "ticketsLabel": "Canterbury Cathedral — official tickets & opening times",
+      "ticketsNote": "Sightseeing paid; worship/prayer free. Sunday split hours. Do not invent GBP. Official site only."
+    },
+    "etiquette": {
+      "intro": "Active Anglican mother church — worshippers and pilgrims first.",
+      "bullets": [
+        "Respectful dress; silence in quire and chapels.",
+        "Worshippers first; sightseeing yields to services.",
+        "No blocking aisles for photos during liturgy.",
+        "Follow staff when crypt or quire areas close.",
+        "Threshold Atlas tone: Becket pilgrimage + Anglican see, not film-set cloister."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Canterbury Cathedral.",
+      "paragraphs": [
+        "Take trains from London St Pancras or Victoria to Canterbury West or East, then walk to the Precincts and Visitor Centre. Regional buses also serve the city centre.",
+        "On site, sightseeing entry is via Visitor Centre products; worshippers use service and chapel access when offered free.",
+        "Allow time for security and bag checks at busy hours; check the closures list the morning you travel."
+      ],
+      "bullets": [
+        "London train → Canterbury West/East → walk Precincts",
+        "Visitor Centre for sightseeing tickets",
+        "Free worship / chapel prayer distinct",
+        "Check closures same day"
+      ]
+    },
+    "bestTime": {
+      "intro": "Shoulder seasons quieter than summer weekends; Sunday needs split planning.",
+      "paragraphs": [
+        "Spring and autumn weekdays are easier than July–August weekend peaks. Early last-admission awareness matters — doors stop admitting before closing time.",
+        "Sundays need the grounds-first / church-later plan; major services can close areas mid-week too — use the official closures page."
+      ],
+      "bullets": [
+        "Shoulder weekdays preferred",
+        "Watch last-admission times",
+        "Sunday split access",
+        "Check closures calendar"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm hours, prices, and closures on canterbury-cathedral.org.",
+        "Do not invent GBP; worship free vs sightseeing paid.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "tiwanaku",
+    "name": "Tiwanaku (Tiahuanaco) spiritual-political centre",
+    "shortName": "Tiwanaku",
+    "location": "Tiwanaku, La Paz Department",
+    "country": "Bolivia",
+    "region": "Americas",
+    "regionSlug": "americas",
+    "religions": [
+      "Andean"
+    ],
+    "religionSlugs": [
+      "andean"
+    ],
+    "summary": "UNESCO Andean sacred capital (Akapana / Kalasasaya / Gate of the Sun) — official tiwanaku.gob.bo; buy at boletería; cash BOB commonly required. Altitude ~3,800 m. Foreign vs national tiers — verify live; do not invent BOB or New-Age ceremony tickets.",
+    "heroImage": "https://images.unsplash.com/photo-1526392060635-9d6019884377?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Tiwanaku culture spiritual-political centre (pre-Inca Andean); Kalasasaya, Akapana, Semi-subterranean Temple, Gate of the Sun",
+      "patron": "Andean — Tiwanaku ritual-political landscape (still meaningful to Aymara communities)",
+      "unesco": "UNESCO World Heritage — Tiwanaku: Spiritual and Political Centre of the Tiwanaku Culture",
+      "typicalVisit": "2–4 hours ceremonial core + museums; plan altitude acclimatization"
+    },
+    "related": [
+      "machu-picchu",
+      "teotihuacan",
+      "chichen-itza"
+    ],
+    "overview": {
+      "body": [
+        "Tiwanaku (Tiahuanaco) on the Bolivian altiplano is the UNESCO Andean sacred capital — Akapana, Kalasasaya, Semi-subterranean Temple, Gate of the Sun, and on-site museums. It fills Americas depth beyond Maya/Inca/Guadalupe/Aparecida.",
+        "Frame the visit as Tiwanaku ritual-political landscape still meaningful to Aymara communities, not a Bolivia day-trip ruins only. No climbing restricted monoliths; no touching carvings; no drone where banned; keep sacred framing without New-Age appropriation.",
+        "Official tickets: tiwanaku.gob.bo. Buy at official boletería; cash BOB commonly required (ATM scarcity — withdraw in La Paz). Foreign vs national tariff tiers — verify live; do not invent BOB. Museum rooms included or adjacent per current notice.",
+        "Official site commonly 09:00–16:00 class — verify tiwanaku.gob.bo. Dry season (roughly May–Oct) clearer; afternoon storms in wet season; Aymara ritual calendar days may change on-site tone — respectful distance.",
+        "Soft blockers: altitude sickness (~3,800 m); cash-only; some monoliths / museums rotate closures; do not invent solstice “secret ceremony tickets.”"
+      ],
+      "highlights": [
+        "UNESCO Andean sacred capital — Gate of the Sun / Kalasasaya",
+        "Official tiwanaku.gob.bo; cash BOB at boletería",
+        "Altitude ~3,800 m — acclimatize honestly",
+        "Foreign vs national tiers — verify live",
+        "No invent BOB / New-Age ceremony tickets"
+      ]
+    },
+    "visit": {
+      "intro": "Official boletería cash BOB; altitude is a soft blocker; Aymara respect without New-Age packaging.",
+      "hours": "Commonly 09:00–16:00 — verify tiwanaku.gob.bo. Wet-season storms and ritual calendar days can alter on-site tone and open areas.",
+      "tickets": "Official: tiwanaku.gob.bo. Buy at official boletería; cash BOB commonly required (withdraw in La Paz — ATMs scarce on site). Foreign vs national / school tiers — verify live; do not invent BOB. Museums per current notice. Prefer official counter over informal sellers. No legitimate “secret ceremony” tourist tickets.",
+      "dress": "Andean sacred archaeological capital — sun/cold layers for altiplano; no climbing restricted monoliths; no touching carvings; no drone where banned.",
+      "duration": "2–4 hours for ceremonial core and museums; longer if combining village time carefully.",
+      "access": "Road from La Paz / El Alto (~1.5 hr) by shared minibus or tour to Tiwanaku village; walk between ceremonial core and museums. Altitude ~3,800 m — acclimatize in La Paz first when possible; move slowly.",
+      "tips": [
+        "Buy only at the official boletería — cash BOB; withdraw in La Paz first.",
+        "Verify foreign vs national fares live; do not invent BOB.",
+        "Acclimatize for ~3,800 m — altitude sickness is a real soft blocker.",
+        "No climbing restricted monoliths; no touching carvings.",
+        "Keep respectful distance on Aymara ritual calendar days.",
+        "Do not buy New-Age “secret ceremony” tourist tickets.",
+        "Dry season (roughly May–Oct) is clearer for walking the core."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://www.tiwanaku.gob.bo/",
+      "ticketsLabel": "Tiwanaku — official site (boletería; cash BOB)",
+      "ticketsNote": "Cash BOB at official boletería. Foreign vs national tiers — verify live. Altitude ~3,800 m. Do not invent BOB."
+    },
+    "etiquette": {
+      "intro": "Andean sacred capital — Aymara-respectful, not New-Age appropriation.",
+      "bullets": [
+        "No climbing restricted monoliths or platforms.",
+        "No touching carvings; no drone where banned.",
+        "Respectful distance during community ritual days.",
+        "Do not invent or sell “secret ceremony” access.",
+        "Threshold Atlas tone: Tiwanaku ritual-political landscape, not day-trip ruins only."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Tiwanaku.",
+      "paragraphs": [
+        "From La Paz / El Alto, shared minibuses and tours run ~1.5 hours to Tiwanaku village. Private transfers are available for groups. Withdraw cash BOB in the city before you leave.",
+        "On site, walk between Kalasasaya, Akapana, the Semi-subterranean Temple, Gate of the Sun, and museum rooms. Move slowly at altitude.",
+        "Tour operators may bundle transport + entry + guide — still confirm that entry is the official boletería ticket, not an informal substitute."
+      ],
+      "bullets": [
+        "La Paz / El Alto → ~1.5 hr road to Tiwanaku",
+        "Cash BOB before departure",
+        "Walk ceremonial core + museums",
+        "Altitude ~3,800 m — go slow"
+      ]
+    },
+    "bestTime": {
+      "intro": "Dry season (roughly May–October) clearer; plan altitude first.",
+      "paragraphs": [
+        "May–October generally offers clearer walking weather. Wet-season afternoons bring storms on the altiplano.",
+        "Spend time acclimatizing in La Paz before a same-day rush to Tiwanaku when possible."
+      ],
+      "bullets": [
+        "May–Oct dry season preferred",
+        "Acclimatize in La Paz first",
+        "Watch wet-season afternoon storms",
+        "Verify 09:00–16:00 class hours"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm hours and tariffs on tiwanaku.gob.bo.",
+        "Do not invent BOB; cash at official boletería; altitude honesty.",
         "SanctaWay is informational; it does not sell tickets or grant access.",
         "Hero image is an Unsplash placeholder pending visual / Commons pass."
       ]

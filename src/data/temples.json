@@ -1404,7 +1404,7 @@
     "related": [
       "milan-duomo",
       "st-peters",
-      "montserrat"
+      "seville-cathedral"
     ],
     "overview": {
       "body": [
@@ -3002,7 +3002,7 @@
     "related": [
       "hassan-ii-mosque",
       "hagia-sophia",
-      "mezquita-cordoba"
+      "sheikh-zayed-grand-mosque"
     ],
     "overview": {
       "body": [
@@ -3921,7 +3921,7 @@
     "related": [
       "petra",
       "chichen-itza",
-      "tiwanaku"
+      "coricancha"
     ],
     "overview": {
       "body": [
@@ -4268,7 +4268,7 @@
     "related": [
       "hassan-ii-mosque",
       "hagia-sophia",
-      "alhambra"
+      "seville-cathedral"
     ],
     "overview": {
       "body": [
@@ -4843,7 +4843,7 @@
     "related": [
       "blue-mosque",
       "hagia-sophia",
-      "kairouan"
+      "sheikh-zayed-grand-mosque"
     ],
     "overview": {
       "body": [
@@ -5647,7 +5647,7 @@
     "related": [
       "kashi-vishwanath",
       "golden-temple",
-      "pashupatinath"
+      "batu-caves"
     ],
     "overview": {
       "body": [
@@ -6903,7 +6903,7 @@
     "related": [
       "meenakshi",
       "borobudur",
-      "konark-sun-temple"
+      "dilwara"
     ],
     "overview": {
       "body": [
@@ -8040,7 +8040,7 @@
     "related": [
       "meenakshi",
       "kashi-vishwanath",
-      "golden-temple"
+      "batu-caves"
     ],
     "overview": {
       "body": [
@@ -8721,7 +8721,7 @@
     "related": [
       "meenakshi",
       "ellora",
-      "konark-sun-temple"
+      "dilwara"
     ],
     "overview": {
       "body": [
@@ -8833,7 +8833,7 @@
     "related": [
       "ellora",
       "ajanta",
-      "mogao-caves"
+      "leshan-giant-buddha"
     ],
     "overview": {
       "body": [
@@ -9172,7 +9172,7 @@
     "related": [
       "florence-duomo",
       "milan-duomo",
-      "san-francesco-assisi"
+      "basilica-sant-antonio"
     ],
     "overview": {
       "body": [
@@ -9511,7 +9511,7 @@
     "related": [
       "longmen-grottoes",
       "ajanta",
-      "mogao-caves"
+      "leshan-giant-buddha"
     ],
     "overview": {
       "body": [
@@ -9964,7 +9964,7 @@
     "related": [
       "machu-picchu",
       "teotihuacan",
-      "chichen-itza"
+      "coricancha"
     ],
     "overview": {
       "body": [
@@ -10065,8 +10065,8 @@
       "buddhist"
     ],
     "summary": "UNESCO Silk Road cave crown at Dunhuang — real-name timed booking only via Academy WeChat 莫高窟参观预约网 (foreign passport / HK·Macau·Taiwan: Ticket Booking). Start at Mogao Digital Exhibition Center; no ticket office at the cliff caves. Hard-warn third-party sellers. Do not invent CNY.",
-    "heroImage": "https://images.unsplash.com/photo-1508804185872-d7aad8140000?auto=format&fit=crop&w=1600&q=80",
-    "heroCredit": "Unsplash",
+    "heroImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Dunhuang_Mogao_Ku_2013.12.31_12-30-18.jpg/1920px-Dunhuang_Mogao_Ku_2013.12.31_12-30-18.jpg",
+    "heroCredit": "Zhangzhugang / Wikimedia Commons",
     "featured": true,
     "quickFacts": {
       "founded": "Silk Road Buddhist cave temples from 4th c.; Dunhuang Academy stewardship; UNESCO World Heritage",
@@ -10177,8 +10177,8 @@
       "hindu"
     ],
     "summary": "Nepal’s holiest Shiva temple on the Bagmati — PADT complex. Main sanctum Hindus only; non-Hindus welcome on ghats / gardens / surrounding shrines and may observe evening aarti from the east bank. Heritage entry tiers via NTB — verify live; do not invent NPR. No sanctum photography; cremation ghat ethics.",
-    "heroImage": "https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=1600&q=80",
-    "heroCredit": "Unsplash",
+    "heroImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Pashupatinath_Temple-2020.jpg/1920px-Pashupatinath_Temple-2020.jpg",
+    "heroCredit": "Bijay Chaurasia / Wikimedia Commons",
     "featured": true,
     "quickFacts": {
       "founded": "Living Pashupati Area Development Trust Hindu temple on the Bagmati; UNESCO Kathmandu Valley context",
@@ -10189,7 +10189,7 @@
     "related": [
       "kashi-vishwanath",
       "meenakshi",
-      "boudhanath"
+      "swayambhunath"
     ],
     "overview": {
       "body": [
@@ -10290,8 +10290,8 @@
       "buddhist"
     ],
     "summary": "Kathmandu’s great Tibetan Buddhist stupa + clockwise kora — UNESCO valley sacred. On-site plaza gate tickets; cash NPR common; foreign / SAARC / Nepali tiers via NTB. No reliable official advance e-ticket. Pair with Pashupatinath with traffic buffer. Do not invent NPR.",
-    "heroImage": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?auto=format&fit=crop&w=1600&q=80",
-    "heroCredit": "Unsplash",
+    "heroImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Boudhanath_Stupa-IMG_7048.jpg/1920px-Boudhanath_Stupa-IMG_7048.jpg",
+    "heroCredit": "Bijay Chaurasia / Wikimedia Commons",
     "featured": true,
     "quickFacts": {
       "founded": "Great Tibetan Buddhist stupa; Shree Boudhanath Area Development Committee; UNESCO Kathmandu Valley",
@@ -10302,7 +10302,7 @@
     "related": [
       "pashupatinath",
       "paro-taktsang",
-      "lumbini"
+      "swayambhunath"
     ],
     "overview": {
       "body": [
@@ -10402,8 +10402,8 @@
       "buddhist"
     ],
     "summary": "UNESCO Mauryan Great Stupa + toranas — ASI ticketed sunrise–sunset hilltop complex. Nationality tiers via asi.nic.in / asi.paygov.org.in; museum may be separate. Heat + little shade. Heritage≠living monastery. Do not invent INR.",
-    "heroImage": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?auto=format&fit=crop&w=1600&q=80",
-    "heroCredit": "Unsplash",
+    "heroImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Stupa_1%2C_Sanchi_02.jpg/1920px-Stupa_1%2C_Sanchi_02.jpg",
+    "heroCredit": "Bernard Gagnon / Wikimedia Commons",
     "featured": true,
     "quickFacts": {
       "founded": "Mauryan Great Stupa 1 + toranas; later stupas and monasteries; ASI protected; UNESCO World Heritage",
@@ -10514,8 +10514,8 @@
       "maya"
     ],
     "summary": "UNESCO Maya sculpture capital + Hieroglyphic Stairway — IHAH park. Official boletería; nationality tiers (Honduran / Central American / other international); tunnels separate add-on; sculpture museum may be temporarily closed for renovation — verify live. Do not invent USD/HNL.",
-    "heroImage": "https://images.unsplash.com/photo-1518638150340-f706e86654de?auto=format&fit=crop&w=1600&q=80",
-    "heroCredit": "Unsplash",
+    "heroImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Ballcourt%2C_Cop%C3%A1n_Ruinas%2C_Honduras.jpg/1920px-Ballcourt%2C_Cop%C3%A1n_Ruinas%2C_Honduras.jpg",
+    "heroCredit": "Charles J. Sharp / Wikimedia Commons",
     "featured": true,
     "quickFacts": {
       "founded": "Classic Maya dynastic capital; Hieroglyphic Stairway; UNESCO World Heritage; IHAH stewardship",
@@ -10626,8 +10626,8 @@
       "christian"
     ],
     "summary": "UNESCO Assisi Franciscan pilgrimage basilica (Lower / Upper / Tomb) — individual entry free; liturgy pauses tourist flow. Official hours / visits on basilica.sanfrancesco.org. Guided visits via basilica channels. Do not invent EUR gate fares; no third-party “skip-line basilica tickets” as required entry.",
-    "heroImage": "https://images.unsplash.com/photo-1523906834658-6e24ef2386f9?auto=format&fit=crop&w=1600&q=80",
-    "heroCredit": "Unsplash",
+    "heroImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Italy%2C_Assisi%2C_Basilica_of_St_Francis_BW_2021-09-25_10-24-26.jpg/1920px-Italy%2C_Assisi%2C_Basilica_of_St_Francis_BW_2021-09-25_10-24-26.jpg",
+    "heroCredit": "Berthold Werner / Wikimedia Commons",
     "featured": true,
     "quickFacts": {
       "founded": "Papal basilica + Sacred Convent; Lower / Upper Church + Tomb of Saint Francis; UNESCO Assisi",
@@ -10638,7 +10638,7 @@
     "related": [
       "basilica-san-marco",
       "st-peters",
-      "santiago-de-compostela"
+      "basilica-sant-antonio"
     ],
     "overview": {
       "body": [
@@ -10738,8 +10738,8 @@
       "christian"
     ],
     "summary": "Wren’s City cathedral + Dome Galleries — official sightseeing tickets on stpauls.co.uk. Worship / prayer entry free when attending services. Sunday normally closed for sightseeing (seasonal Dome Sundays when published). Do not invent GBP; warn non-cathedral resellers.",
-    "heroImage": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?auto=format&fit=crop&w=1600&q=80",
-    "heroCredit": "Unsplash",
+    "heroImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/St_Paul%27s_Cathedral%2C_London%2C_England_-_Jan_2010.jpg/1920px-St_Paul%27s_Cathedral%2C_London%2C_England_-_Jan_2010.jpg",
+    "heroCredit": "Diliff / Wikimedia Commons",
     "featured": true,
     "quickFacts": {
       "founded": "Sir Christopher Wren’s City cathedral; Dome Galleries; crypt exhibitions; Dean & Chapter",
@@ -10850,8 +10850,8 @@
       "christian"
     ],
     "summary": "Argentina’s national Marian shrine — sanctuary / basilica entry free (santuariodelujan.org.ar). Paid visitor products (crypt, crypt+museum, tower ascent) via sanctuary tourism channels (turismobasilicadelujan.com.ar). Distinguish free worship vs paid add-ons. Do not invent ARS or miracles.",
-    "heroImage": "https://images.unsplash.com/photo-1483729558449-99ef03a8a778?auto=format&fit=crop&w=1600&q=80",
-    "heroCredit": "Unsplash",
+    "heroImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Frente_Bas%C3%ADlica_de_Luj%C3%A1n.jpg/1920px-Frente_Bas%C3%ADlica_de_Luj%C3%A1n.jpg",
+    "heroCredit": "Dario Alpern / Wikimedia Commons",
     "featured": true,
     "quickFacts": {
       "founded": "National Marian shrine basilica; Camarín / image; crypt, museum, tower tourism products",
@@ -10942,6 +10942,902 @@
       "bullets": [
         "Confirm sanctuary hours on santuariodelujan.org.ar; paid products on turismobasilicadelujan.com.ar.",
         "Do not invent ARS or miracles; free worship ≠ paid add-ons.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "sheikh-zayed-grand-mosque",
+    "name": "Sheikh Zayed Grand Mosque, Abu Dhabi",
+    "shortName": "Sheikh Zayed Grand Mosque",
+    "location": "Abu Dhabi",
+    "country": "United Arab Emirates",
+    "region": "Middle East",
+    "regionSlug": "middle-east",
+    "religions": [
+      "Islamic"
+    ],
+    "religionSlugs": [
+      "islamic"
+    ],
+    "summary": "UAE’s signature mosque and global tourist magnet. Visitors book an online access pass via Sheikh Zayed Grand Mosque Centre (szgmc.gov.ae); worshippers enter designated gates without a tourist pass. Friday visitor windows pause for midday prayer. Modest dress / abaya when required. Do not invent AED; prefer official SZGMC over resellers.",
+    "heroImage": "https://images.unsplash.com/photo-1512632578888-169bbbc64f33?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Contemporary UAE grand mosque opened 2007; Sheikh Zayed Grand Mosque Centre stewardship",
+      "patron": "Islamic — congregational prayer + cultural visitor hospitality",
+      "unesco": "Not UNESCO World Heritage (active national mosque)",
+      "typicalVisit": "Half day Visitor Centre routes; optional free walk-in cultural tour or Sura night product"
+    },
+    "related": [
+      "hassan-ii-mosque",
+      "blue-mosque",
+      "kairouan"
+    ],
+    "overview": {
+      "body": [
+        "Sheikh Zayed Grand Mosque is Abu Dhabi’s signature contemporary mosque — white marble courtyards, floral carpet halls, and one of the highest-demand Islamic tourist sites still open while Mecca / Medina / Al-Aqsa stay deferred on SanctaWay.",
+        "Frame the visit as living Islamic sacred architecture and hospitality, not a marble selfie mall. Modest dress is enforced; abayas or alternative covering are often provided or required at visitor entry; shoes off where posted; quiet in prayer halls; no disruptive photography during worship.",
+        "Official visitor access: Sheikh Zayed Grand Mosque Centre — szgmc.gov.ae. Tourists pre-book an online access pass (individual booking) and enter via the Visitor Centre / Peace Dome corridor on designated visitor routes. Worshippers enter designated gates without a tourist pass and without booking. Optional free guided walk-in cultural tours when offered by SZGMC; private / Sura evening products may need ≥24h booking. Prefer official SZGMC; warn non-SZGMC resellers as primary CTA. Do not invent AED — verify live fee categories on szgmc.gov.ae.",
+        "Visitor windows commonly Sat–Thu ~09:00–20:30; Friday split morning + afternoon with a midday prayer pause — verify szgmc.gov.ae. Prayer times and Eid schedules override tourist flow. Sura night tours are a separate product after evening close.",
+        "Soft blockers: Friday midday pause; dress enforcement at entry; visitor vs worshipper path honesty; heat outdoors between plazas; book private / Sura products ahead when required."
+      ],
+      "highlights": [
+        "UAE signature mosque — highest-demand islamic tourist mega open",
+        "szgmc.gov.ae online access pass for visitors",
+        "Worshippers: designated gates, no tourist pass",
+        "Friday midday prayer pause — verify hours",
+        "No invent AED; prefer official SZGMC"
+      ]
+    },
+    "visit": {
+      "intro": "Active grand mosque — book visitor access on szgmc.gov.ae; worshippers use separate free gates.",
+      "hours": "Visitor windows commonly Sat–Thu ~09:00–20:30; Fri morning + afternoon with midday prayer pause. Sura night tours after evening close. Verify szgmc.gov.ae; prayer / Eid override tourist flow.",
+      "tickets": "Sheikh Zayed Grand Mosque Centre — szgmc.gov.ae individual booking / visitor access pass. Worshippers enter designated gates without tourist pass. Free walk-in cultural tours when offered. Private / Sura products may need ≥24h booking. Prefer official SZGMC; warn resellers. Do not invent AED — verify live fee categories on szgmc.gov.ae.",
+      "dress": "Active grand mosque — abaya / modest dress often provided or required at visitor entry; shoes off where posted; quiet in prayer halls; no disruptive photography during worship.",
+      "duration": "Half day for Visitor Centre routes and halls; add time for guided cultural tour or Sura night product.",
+      "access": "Fly into AUH / drive / taxi / city bus to SZGMC Visitor Centre. Follow Visitor Centre wayfinding — visitor routes ≠ worshipper gates.",
+      "tips": [
+        "Book the visitor access pass only on szgmc.gov.ae — ignore non-SZGMC resellers as primary CTA.",
+        "Worshippers enter designated gates without a tourist pass — do not conflate paths.",
+        "Friday has a midday prayer pause — plan morning or afternoon visitor windows.",
+        "Expect dress check; abayas may be provided or required.",
+        "Book private / Sura products ≥24h ahead when required.",
+        "Heat between plazas is real — water, shade, and pace.",
+        "Do not invent AED; verify live fee categories on szgmc.gov.ae."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://szgmc.gov.ae/",
+      "ticketsLabel": "SZGMC (szgmc.gov.ae) — visitor access pass / individual booking",
+      "ticketsNote": "Worshippers free via designated gates. Prefer official SZGMC; do not invent AED."
+    },
+    "etiquette": {
+      "intro": "Living mosque — dress, quiet, and visitor vs worshipper honesty.",
+      "bullets": [
+        "Modest dress / abaya when required; shoes off where posted.",
+        "Quiet in prayer halls; no disruptive photography during worship.",
+        "Stay on visitor routes from the Visitor Centre.",
+        "Threshold Atlas tone: contemporary Islamic sacred architecture + hospitality, not selfie mall."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Sheikh Zayed Grand Mosque from Abu Dhabi.",
+      "paragraphs": [
+        "Fly into Abu Dhabi (AUH) or arrive by road from Dubai / Al Ain. Taxi, ride-hail, or city bus to the Sheikh Zayed Grand Mosque Centre Visitor Centre.",
+        "Enter through the Visitor Centre / Peace Dome corridor for tourist routes. Worshipper gates are separate — follow posted wayfinding.",
+        "SZGMC does not operate visitor shuttles from the airport — arrange your own transport."
+      ],
+      "bullets": [
+        "AUH / road → SZGMC Visitor Centre",
+        "Visitor routes ≠ worshipper gates",
+        "Taxi / bus / ride-hail common",
+        "No invent AED for transport either"
+      ]
+    },
+    "bestTime": {
+      "intro": "Cooler hours and non-Friday windows are easier; Eid overrides.",
+      "paragraphs": [
+        "Morning and late afternoon are cooler for outdoor plazas. Friday midday is a prayer pause for visitors.",
+        "Eid and major Islamic calendar peaks change capacity and hours — always recheck szgmc.gov.ae."
+      ],
+      "bullets": [
+        "Sat–Thu full visitor day common",
+        "Friday = split windows + midday pause",
+        "Sura night tours = separate product",
+        "Verify szgmc.gov.ae before travel"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm hours and access pass rules on szgmc.gov.ae.",
+        "Do not invent AED; prefer official SZGMC over resellers.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "leshan-giant-buddha",
+    "name": "Leshan Giant Buddha (乐山大佛), Sichuan",
+    "shortName": "Leshan Giant Buddha",
+    "location": "Leshan, Sichuan",
+    "country": "China",
+    "region": "East Asia",
+    "regionSlug": "east-asia",
+    "religions": [
+      "Buddhist"
+    ],
+    "religionSlugs": [
+      "buddhist"
+    ],
+    "summary": "UNESCO 71 m cliff Buddha at the Min–Dadu–Qingyi confluence — China Buddhist sculpture crown after Longmen / Yungang / Mogao. Timed booking via WeChat / Alipay 大佛旅游 (Douyin when live); walk (白天游山) ≠ boat (白天游江). Oriental Buddha Park is a separate ticketed site. Do not invent CNY; hard-warn scalpers.",
+    "heroImage": "https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Tang-era cliff Buddha (8th c.); Leshan scenic / heritage stewardship; UNESCO Mount Emei Scenic Area serial",
+      "patron": "Buddhist — Tang Dharma patronage + river-confluence sacred geography",
+      "unesco": "UNESCO World Heritage — Mount Emei Scenic Area, including Leshan Giant Buddha Scenic Area",
+      "typicalVisit": "Half to full day: walk scenic / cliff paths and/or river boat view"
+    },
+    "related": [
+      "longmen-grottoes",
+      "yungang-grottoes",
+      "mogao-caves"
+    ],
+    "overview": {
+      "body": [
+        "The Leshan Giant Buddha is a 71-metre Tang-era cliff Buddha at the confluence of the Min, Dadu, and Qingyi rivers — the China Buddhist sculpture crown still open after live Longmen, Yungang, and Mogao caves.",
+        "Frame the visit as Tang Dharma patronage and river-confluence sacred geography, not a tallest-statue checklist. Modest dress at Lingyun Temple nodes; no climbing restricted statues; quiet at Buddha viewpoints.",
+        "Official tickets: timed real-name booking via WeChat / Alipay mini-program 大佛旅游 (also official Douyin search 乐山大佛 / 乐山大佛景区 when live); on-site windows at North / South visitor centres when open. Notices: lsdf.leshan.gov.cn. Walk ticket (白天游山) ≠ boat ticket (白天游江) — buy the product you need. Passport / foreign-doc checkout may need visitor-centre assist. Hard-warn scalpers / “internal channel” sellers. Do not invent CNY.",
+        "Peak ~1 Apr–7 Oct earlier open / later close; off-peak ~8 Oct–31 Mar shorter day — verify scenic notices. Nine Bends / Lingyun plank paths can close for maintenance — ask on the day which descent is open.",
+        "Soft blockers: WeChat-first UX; stairs / fear-of-heights on cliff paths; boat weather / water-level cancellations; Oriental Buddha Park (东方佛都) is a separate ticketed site — do not conflate with the Giant Buddha scenic ticket."
+      ],
+      "highlights": [
+        "UNESCO 71 m cliff Buddha — China sculpture crown",
+        "WeChat / Alipay 大佛旅游 timed booking",
+        "Walk (游山) ≠ boat (游江) — buy what you need",
+        "Oriental Buddha Park = separate site",
+        "No invent CNY; hard-warn scalpers"
+      ]
+    },
+    "visit": {
+      "intro": "Timed scenic visit: cliff walk and/or river boat. Book on 大佛旅游; products are not interchangeable.",
+      "hours": "Peak ~1 Apr–7 Oct earlier open / later close; off-peak ~8 Oct–31 Mar shorter day — verify lsdf.leshan.gov.cn / 大佛旅游 notices. Plank paths may close for maintenance.",
+      "tickets": "Timed real-name booking via WeChat / Alipay 大佛旅游 (Douyin 乐山大佛 when live); on-site North/South visitor-centre windows. Info: lsdf.leshan.gov.cn. Walk ≠ boat. Passport assist at visitor centre when needed. Hard-warn scalpers. Do not invent CNY.",
+      "dress": "Buddhist cliff-temple UNESCO landscape — modest dress at Lingyun Temple nodes; practical shoes for stairs; quiet at viewpoints; no climbing restricted statues.",
+      "duration": "Half to full day depending on walk circuit vs boat-only vs both; night products when offered are separate.",
+      "access": "Rail / air into Leshan or Chengdu corridor; taxi / bus to North or South Visitor Centre. Choose walk scenic vs river boat product before you buy.",
+      "tips": [
+        "Book on WeChat / Alipay 大佛旅游 — ignore “internal channel” scalpers.",
+        "Walk ticket ≠ boat ticket — buy the product you actually want.",
+        "Ask which plank / descent paths are open that day.",
+        "Oriental Buddha Park (东方佛都) is a separate ticketed site — do not conflate.",
+        "Stairs and cliff exposure are real — skip if heights are a hard limit.",
+        "Boat sailings can cancel for weather / water level.",
+        "Do not invent CNY; verify notices on lsdf.leshan.gov.cn."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://lsdf.leshan.gov.cn/",
+      "ticketsLabel": "Leshan Giant Buddha scenic (lsdf.leshan.gov.cn) — book on 大佛旅游 WeChat/Alipay",
+      "ticketsNote": "Walk ≠ boat; Oriental Buddha Park separate; hard-warn scalpers; do not invent CNY."
+    },
+    "etiquette": {
+      "intro": "Cliff-temple UNESCO — quiet, no climbing restricted statues.",
+      "bullets": [
+        "Modest dress at Lingyun Temple nodes.",
+        "No climbing restricted statues or closed plank sections.",
+        "Quiet at Buddha viewpoints; follow steward routes.",
+        "Threshold Atlas tone: Tang Dharma patronage + river confluence, not statue checklist only."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Leshan Giant Buddha.",
+      "paragraphs": [
+        "Fly or take high-speed rail into the Chengdu–Leshan corridor, then taxi or bus to the North or South Visitor Centre.",
+        "Decide before purchase whether you want the daytime mountain / cliff walk (白天游山), the river boat view (白天游江), or both — they are separate products.",
+        "Foreign passport checkout may need a visitor-centre window assist even after online booking."
+      ],
+      "bullets": [
+        "Chengdu / Leshan corridor → North or South Visitor Centre",
+        "Walk product ≠ boat product",
+        "WeChat-first booking UX",
+        "Ask about open plank paths on the day"
+      ]
+    },
+    "bestTime": {
+      "intro": "Peak summer longer hours; stairs and heat need honesty.",
+      "paragraphs": [
+        "Peak (roughly Apr–early Oct) has longer day windows and heavier queues. Off-peak is shorter and cooler.",
+        "Morning starts beat midday heat on the cliff paths; boat schedules shift with water level and weather."
+      ],
+      "bullets": [
+        "Peak Apr–early Oct = longer hours",
+        "Off-peak shorter day",
+        "Morning cooler for stairs",
+        "Verify 大佛旅游 / lsdf.leshan.gov.cn"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm hours and products on lsdf.leshan.gov.cn; book on 大佛旅游.",
+        "Do not invent CNY; Oriental Buddha Park is separate.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "coricancha",
+    "name": "Qorikancha (Coricancha) / Santo Domingo, Cusco",
+    "shortName": "Qorikancha",
+    "location": "Cusco",
+    "country": "Peru",
+    "region": "Americas",
+    "regionSlug": "americas",
+    "religions": [
+      "Inca"
+    ],
+    "religionSlugs": [
+      "inca"
+    ],
+    "summary": "Inca Temple of the Sun under the Dominican convent of Santo Domingo — natural Cusco follow-on after Machu Picchu. Temple/convent gate ticket is separate and NOT included in COSITUC Boleto Turístico; underground Museo de Sitio Qorikancha (Av. El Sol) is on the boleto (Circuit II). Cash PEN common at temple gate. Do not invent PEN.",
+    "heroImage": "https://images.unsplash.com/photo-1587595431973-160d0d94add1?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Inca Inti temple foundations under Dominican convent / church of Santo Domingo",
+      "patron": "Inca — Inti (Sun) cult continuity + colonial Dominican overlay",
+      "unesco": "UNESCO World Heritage context — City of Cuzco",
+      "typicalVisit": "1–1.5 hours temple/convent; site museum is a different product"
+    },
+    "related": [
+      "machu-picchu",
+      "tiwanaku",
+      "petra"
+    ],
+    "overview": {
+      "body": [
+        "Qorikancha (Coricancha) was the Inca Temple of the Sun at the heart of Cusco — curved ashlar walls and sacred foundations now overlaid by the Dominican convent and church of Santo Domingo. It is the natural city follow-on after live Machu Picchu.",
+        "Frame the visit as Inti cult continuity plus honest colonial overlay, not “ruin under a church” mockery. Modest dress in church spaces; no touching fine Inca ashlar; quiet in the cloister.",
+        "Official tickets honesty (the #1 soft blocker): temple/convent entry is a separate gate ticket (Convento Santo Domingo / site boletería) — NOT included in the COSITUC Boleto Turístico del Cusco (cosituc.gob.pe). The underground Museo de Sitio Qorikancha under the Av. El Sol gardens IS on the boleto (Circuit II) and is a different product. Culture DDC pages: culturacusco.gob.pe. Cash PEN is common at the temple gate. Do not invent PEN.",
+        "Temple/convent commonly daytime Mon–Sat; Sunday morning often mass / tourist closed until later — verify on-site / convent notices. Dry season clearer light on the curved wall facing El Sol.",
+        "Soft blockers: boleto myth; Sunday liturgy; altitude ~3,400 m on first Cusco day; curved-wall photo crowds on El Sol; do not invent “golden garden still exists.”"
+      ],
+      "highlights": [
+        "Inca Temple of the Sun under Santo Domingo",
+        "Temple ticket ≠ Boleto Turístico",
+        "Museo de Sitio Qorikancha = boleto Circuit II (different)",
+        "Sunday morning often liturgy / closed to tourists",
+        "No invent PEN; altitude honesty"
+      ]
+    },
+    "visit": {
+      "intro": "Temple/convent is its own paid gate — not on the Cusco boleto. Site museum under El Sol is the boleto product.",
+      "hours": "Commonly daytime Mon–Sat; Sunday morning often mass / tourist closed until afternoon — verify on-site / convent notices. Dry season clearer light on the curved wall.",
+      "tickets": "Temple/convent = separate gate ticket (Convento Santo Domingo / site boletería) — NOT on COSITUC Boleto Turístico (cosituc.gob.pe). Museo de Sitio Qorikancha (Av. El Sol gardens) IS on boleto Circuit II — different product. Info: culturacusco.gob.pe. Cash PEN common at temple gate. Do not invent PEN.",
+      "dress": "Active Dominican convent over Inca foundations — modest dress in church spaces; no touching ashlar; quiet in cloister.",
+      "duration": "About 1–1.5 hours for temple/convent; add time if you also visit the separate site museum.",
+      "access": "Walk ~5–10 min from Plaza de Armas along Av. El Sol / Plazoleta Santo Domingo. Altitude ~3,400 m — pace honestly on first Cusco day.",
+      "tips": [
+        "Do not assume your Boleto Turístico covers the temple/convent — it does not.",
+        "Museo de Sitio Qorikancha under Av. El Sol gardens is the boleto product — different entrance.",
+        "Sunday morning is often liturgy / tourist-closed — plan afternoon or a weekday.",
+        "Pace for altitude on day one in Cusco.",
+        "No touching fine Inca ashlar; modest dress in church spaces.",
+        "Do not invent “golden garden still exists.”",
+        "Do not invent PEN; verify gate price on the day."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://www.culturacusco.gob.pe/",
+      "ticketsLabel": "Temple/convent separate gate; boleto info cosituc.gob.pe; culture culturacusco.gob.pe",
+      "ticketsNote": "Temple ≠ boleto. Site museum on boleto Circuit II. Cash PEN common; do not invent PEN."
+    },
+    "etiquette": {
+      "intro": "Inca sacred foundations under an active convent — respect both layers.",
+      "bullets": [
+        "Modest dress in church spaces; quiet in cloister.",
+        "No touching fine Inca ashlar.",
+        "Sunday liturgy takes priority over sightseeing.",
+        "Threshold Atlas tone: Inti continuity + colonial overlay honesty."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Qorikancha in Cusco.",
+      "paragraphs": [
+        "From Plaza de Armas walk about 5–10 minutes along Avenida El Sol or Calle Loreto to Plazoleta Santo Domingo.",
+        "Enter the temple/convent at the convent gate — not via the underground site-museum entrance on Av. El Sol gardens unless that is the product you bought.",
+        "Altitude is ~3,400 m — keep the first Cusco day gentle even though the walk is short."
+      ],
+      "bullets": [
+        "Plaza de Armas → El Sol / Santo Domingo ~5–10 min",
+        "Temple gate ≠ site-museum entrance",
+        "Altitude honesty on day one",
+        "Cash PEN often needed at temple gate"
+      ]
+    },
+    "bestTime": {
+      "intro": "Weekday daytime; avoid Sunday morning tourist closure.",
+      "paragraphs": [
+        "Dry-season light shows the curved wall well. Weekdays are easier than Sunday morning liturgy windows.",
+        "Combine with other Cusco sites only after you know which tickets you actually hold."
+      ],
+      "bullets": [
+        "Mon–Sat daytime common",
+        "Sunday morning often closed to tourists",
+        "Dry season clearer light",
+        "Verify on-site notices"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm temple hours on-site; boleto rules on cosituc.gob.pe.",
+        "Do not invent PEN; temple ticket ≠ boleto.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "seville-cathedral",
+    "name": "Cathedral of Saint Mary of the See + Giralda, Seville",
+    "shortName": "Seville Cathedral",
+    "location": "Seville",
+    "country": "Spain",
+    "region": "Europe",
+    "regionSlug": "europe",
+    "religions": [
+      "Christian"
+    ],
+    "religionSlugs": [
+      "christian"
+    ],
+    "summary": "Largest Gothic cathedral + Giralda + Columbus tomb. Official Cabildo tickets via catedraldesevilla.es / e-tickets catedraldesevilla.servitickets.es. General visit usually bundles Cathedral + Giralda (+ Iglesia del Salvador when included). Sunday cultural visit afternoon-class. Worship ≠ sightseeing. Do not invent EUR; prefer official Serviticket.",
+    "heroImage": "https://images.unsplash.com/photo-1558370781-d6196945e2d0?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Gothic cathedral on Almohad mosque footprint; Giralda former minaret; Cabildo stewardship",
+      "patron": "Christian — Catholic metropolitan cathedral + Marian see",
+      "unesco": "UNESCO World Heritage — Cathedral, Alcázar and Archivo de Indias in Seville",
+      "typicalVisit": "About 75–90 minutes Cathedral + Giralda; visit typically starts at the Giralda"
+    },
+    "related": [
+      "mezquita-cordoba",
+      "sagrada-familia",
+      "alhambra"
+    ],
+    "overview": {
+      "body": [
+        "Seville Cathedral (Catedral de Santa María de la Sede) is the largest Gothic cathedral — paired with the Giralda bell tower (former Almohad minaret) and the tomb of Columbus. It is Spain’s Christian mega still open beyond live Sagrada Família, Mezquita-Córdoba, Alhambra, and Montserrat.",
+        "Frame the visit as Reconquista cathedral over an Almohad mosque footprint with Giralda continuity — not a “Game of Thrones tower” framing. Active Catholic cathedral: shoulders/knees covered; silence in chapels; worshippers first.",
+        "Official tickets: Cabildo info catedraldesevilla.es; e-tickets catedraldesevilla.servitickets.es. General visit usually bundles Cathedral + Giralda (+ Iglesia del Salvador when included). Online entry often Puerta del Lagarto; ticket-office entry Puerta del Príncipe — follow your voucher. Free Sunday public visit slot when published (limited; on-site). Worship ≠ sightseeing. Prefer official Serviticket over third-party “skip-the-line” as primary CTA. Do not invent EUR — verify live rates on the official sites.",
+        "Cultural visit commonly Mon–Sat daytime; Sunday cultural visit afternoon-class — verify catedraldesevilla.es (liturgy / summer / feast overrides). The visit typically starts at the Giralda with capacity control.",
+        "Soft blockers: Giralda ramp climb (no lift class — verify current access); Sunday morning cultural closed; liturgy pauses; heat on roof/tower; Columbus tomb crowds."
+      ],
+      "highlights": [
+        "Largest Gothic cathedral + Giralda",
+        "Official: catedraldesevilla.es / Serviticket",
+        "Visit usually starts at the Giralda",
+        "Sunday cultural = afternoon-class",
+        "No invent EUR; prefer official tickets"
+      ]
+    },
+    "visit": {
+      "intro": "Active Cabildo cathedral — book official Serviticket; worship and sightseeing are different.",
+      "hours": "Cultural visit commonly Mon–Sat daytime; Sunday cultural afternoon-class — verify catedraldesevilla.es. Liturgy / summer / feast can override. Visit typically starts at the Giralda.",
+      "tickets": "Cabildo official — catedraldesevilla.es; e-tickets catedraldesevilla.servitickets.es. General visit usually Cathedral + Giralda (+ El Salvador when included). Online: Puerta del Lagarto; ticket office: Puerta del Príncipe. Free Sunday public slot when published (limited). Prefer official Serviticket. Do not invent EUR.",
+      "dress": "Active Catholic cathedral — shoulders/knees covered; silence in chapels; worshippers first.",
+      "duration": "About 75–90 minutes for Cathedral + Giralda; guided / roof products are separate when offered.",
+      "access": "Walk from Seville old town / Cathedral–Giralda axis (Av. de la Constitución). Follow voucher for Lagarto vs Príncipe entry.",
+      "tips": [
+        "Buy on catedraldesevilla.servitickets.es — prefer official over third-party skip-the-line.",
+        "Your visit usually starts at the Giralda with capacity control — arrive for your slot.",
+        "Sunday cultural visit is afternoon-class — do not assume morning sightseeing.",
+        "Giralda is a ramp climb (no lift class) — verify current access if mobility is limited.",
+        "Shoulders and knees covered; silence in chapels.",
+        "Liturgy can pause tourist flow without much notice.",
+        "Do not invent EUR; verify live rates on official Cabildo pages."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://catedraldesevilla.servitickets.es/",
+      "ticketsLabel": "Official Cabildo e-tickets (catedraldesevilla.servitickets.es) · info catedraldesevilla.es",
+      "ticketsNote": "Worship ≠ sightseeing. Prefer official Serviticket; do not invent EUR."
+    },
+    "etiquette": {
+      "intro": "Active metropolitan cathedral — dress and silence first.",
+      "bullets": [
+        "Shoulders and knees covered.",
+        "Silence in chapels; worshippers first.",
+        "Follow Giralda capacity control and steward routes.",
+        "Threshold Atlas tone: Reconquista cathedral + Giralda continuity, not TV-tower framing."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Seville Cathedral.",
+      "paragraphs": [
+        "Walk from Seville’s old town to the Cathedral–Giralda axis on Avenida de la Constitución.",
+        "Online tickets usually enter at Puerta del Lagarto; ticket-office purchases at Puerta del Príncipe — follow the voucher.",
+        "Combine with the Alcázar only with separate tickets and buffer; they are different monuments."
+      ],
+      "bullets": [
+        "Old town walk to Constitución axis",
+        "Lagarto (online) vs Príncipe (ticket office)",
+        "Visit starts at Giralda",
+        "Alcázar = separate ticket"
+      ]
+    },
+    "bestTime": {
+      "intro": "Weekday slots; Sunday afternoon only for cultural visit.",
+      "paragraphs": [
+        "Book ahead in peak season. Morning weekday slots beat heat and queues on the Giralda.",
+        "Sunday cultural visit is afternoon-class; free Sunday public slots when published are limited."
+      ],
+      "bullets": [
+        "Mon–Sat daytime cultural common",
+        "Sunday cultural afternoon-class",
+        "Book Giralda capacity slots ahead",
+        "Verify catedraldesevilla.es"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm hours and rates on catedraldesevilla.es; buy on official Serviticket.",
+        "Do not invent EUR; worship ≠ sightseeing.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "batu-caves",
+    "name": "Batu Caves (Sri Subramaniar Swamy), Selangor",
+    "shortName": "Batu Caves",
+    "location": "Gombak, Selangor (Kuala Lumpur area)",
+    "country": "Malaysia",
+    "region": "Southeast Asia",
+    "regionSlug": "southeast-asia",
+    "religions": [
+      "Hindu"
+    ],
+    "religionSlugs": [
+      "hindu"
+    ],
+    "summary": "272-step Murugan staircase and giant statue — KL day-trip Hindu mega. Main Temple Cave / plaza climb generally free (Sri Subramaniar Swamy Devasthanam). Optional paid caves (Ramayana Cave, Cave Villa, Dark Cave when open) sold on-site. Shoulders + knees covered enforced at stairs. Do not invent MYR; do not treat Viator as official temple entry.",
+    "heroImage": "https://images.unsplash.com/photo-1596422846543-75c6fc71077a?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Living Murugan cave temple; Sri Subramaniar Swamy Devasthanam stewardship",
+      "patron": "Hindu — Murugan (Subramaniar) pilgrimage staircase",
+      "unesco": "Not UNESCO World Heritage (living temple complex)",
+      "typicalVisit": "2–3 hours for staircase + Temple Cave; optional paid caves add time"
+    },
+    "related": [
+      "meenakshi",
+      "tirupati",
+      "besakih"
+    ],
+    "overview": {
+      "body": [
+        "Batu Caves north of Kuala Lumpur is Malaysia’s signature Hindu pilgrimage staircase — 272 steps to the Temple Cave beneath a giant Murugan statue. It fills the Southeast Asia living-Hindu gap still open after Besakih / Prambanan coverage.",
+        "Frame the visit as living Murugan pilgrimage, not a monkey selfie zoo. Shoulders and knees covered are enforced at the staircase base (sarong rental when underdressed); remove shoes at shrine thresholds; do not feed monkeys; secure food and bags.",
+        "Official tickets honesty: main Temple Cave / plaza climb is generally free under the Sri Subramaniar Swamy Devasthanam temple trust. Optional paid zones (Ramayana Cave, Cave Villa, Dark Cave when open) are sold on-site — there is no reliable single official e-ticket for the main climb. Info via Tourism Malaysia / Visit Selangor (tourism.gov.my / visitselangor.com). Verify live; do not invent MYR. Do not treat Viator as official temple entry.",
+        "Complex commonly early morning–evening class — verify Tourism Malaysia / Visit Selangor. Earlier climb = cooler + fewer coaches. Thaipusam is extreme peak (capacity / logistics honesty).",
+        "Soft blockers: 272 steep steps; heat + humidity; monkey theft; dress-check queues; Thaipusam crush; Dark Cave is a separate conservation tour when operating."
+      ],
+      "highlights": [
+        "272-step Murugan staircase — KL Hindu mega",
+        "Main Temple Cave climb generally free",
+        "Optional caves paid on-site",
+        "Dress check at stairs — shoulders + knees",
+        "No invent MYR; monkeys + Thaipusam honesty"
+      ]
+    },
+    "visit": {
+      "intro": "Living Murugan temple — main climb free; optional caves on-site; dress enforced at the stairs.",
+      "hours": "Complex commonly early morning–evening — verify Tourism Malaysia / Visit Selangor. Earlier climb is cooler. Thaipusam is extreme peak.",
+      "tickets": "Main Temple Cave / plaza climb generally free (Sri Subramaniar Swamy Devasthanam). Optional paid caves (Ramayana Cave, Cave Villa, Dark Cave when open) sold on-site. Info: tourism.gov.my / visitselangor.com. No reliable official e-ticket for main climb. Do not invent MYR; do not treat Viator as official entry.",
+      "dress": "Living Hindu temple — shoulders + knees covered enforced at staircase base (sarong rental when underdressed); shoes off at shrine thresholds; do not feed monkeys.",
+      "duration": "About 2–3 hours for stairs + Temple Cave; optional paid caves add time.",
+      "access": "KTM Komuter to Batu Caves station; short walk to staircase plaza. Taxi / Grab from KL centre ~30–45 min traffic-dependent.",
+      "tips": [
+        "Main Temple Cave climb is generally free — do not buy fake “entry tickets” online.",
+        "Optional caves are paid on-site when open — verify what is operating that day.",
+        "Cover shoulders and knees before the dress check at the stairs.",
+        "Do not feed monkeys; secure glasses, food, and bags.",
+        "272 steep steps in heat — water, pace, and mobility honesty.",
+        "Thaipusam needs capacity honesty — expect crush.",
+        "Do not invent MYR; Dark Cave is a separate conservation tour when operating."
+      ],
+      "entryType": "free",
+      "ticketsUrl": "https://www.tourism.gov.my/",
+      "ticketsLabel": "Tourism Malaysia / Visit Selangor info — main climb free; optional caves on-site",
+      "ticketsNote": "No reliable official e-ticket for main climb. Do not invent MYR; Viator ≠ official temple entry."
+    },
+    "etiquette": {
+      "intro": "Living Murugan pilgrimage — dress, shoes, and monkey honesty.",
+      "bullets": [
+        "Shoulders and knees covered at the stairs.",
+        "Shoes off at shrine thresholds.",
+        "Do not feed monkeys; secure belongings.",
+        "Threshold Atlas tone: living Hindu pilgrimage staircase, not monkey selfie zoo."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Batu Caves from Kuala Lumpur.",
+      "paragraphs": [
+        "Take the KTM Komuter to Batu Caves station, then walk a short distance to the staircase plaza and giant Murugan statue.",
+        "Taxi or Grab from central KL commonly takes 30–45 minutes depending on traffic.",
+        "Arrive earlier for cooler stairs and thinner coach queues."
+      ],
+      "bullets": [
+        "KTM Komuter → Batu Caves station",
+        "Short walk to staircase plaza",
+        "Grab / taxi from KL centre",
+        "Earlier = cooler climb"
+      ]
+    },
+    "bestTime": {
+      "intro": "Early morning weekdays; avoid Thaipusam unless prepared.",
+      "paragraphs": [
+        "Early morning beats heat and coaches. Weekdays are easier than weekend mid-day.",
+        "Thaipusam is a major pilgrimage peak — only go with capacity honesty and local guidance."
+      ],
+      "bullets": [
+        "Early morning cooler",
+        "Weekdays thinner queues",
+        "Thaipusam = extreme peak",
+        "Verify Tourism Malaysia / Visit Selangor"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm complex hours via Tourism Malaysia / Visit Selangor.",
+        "Main climb free; do not invent MYR or fake e-tickets.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "basilica-sant-antonio",
+    "name": "Basilica of Saint Anthony, Padua",
+    "shortName": "Basilica of Saint Anthony",
+    "location": "Padua",
+    "country": "Italy",
+    "region": "Europe",
+    "regionSlug": "europe",
+    "religions": [
+      "Christian"
+    ],
+    "religionSlugs": [
+      "christian"
+    ],
+    "summary": "Major Antonian pilgrimage shrine (tomb / relics). Basilica entry free for individual visitors — santantonio.org. Paid museum single ticket covers listed museum spaces when open (Tue–Sun class). Liturgy first; feast of St Anthony (13 Jun) peak. Do not invent EUR gate fares; do not sell third-party “Padua basilica tickets” as required entry.",
+    "heroImage": "https://images.unsplash.com/photo-1523906834658-6e24ef2386f9?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Franciscan / Antonian minor basilica and pilgrimage shrine; tomb of St Anthony",
+      "patron": "Christian — Catholic Antonian pilgrimage (tomb / relics)",
+      "unesco": "Not separately inscribed as UNESCO WH (living shrine complex)",
+      "typicalVisit": "1–2 hours basilica + tomb; museum cluster adds time when open"
+    },
+    "related": [
+      "san-francesco-assisi",
+      "basilica-san-marco",
+      "st-peters"
+    ],
+    "overview": {
+      "body": [
+        "The Basilica of Saint Anthony in Padua is one of Italy’s major pilgrimage shrines — tomb, Chapel of the Relics, and an Antonian museum cluster around Piazza del Santo. It is the natural pilgrimage peer after live Assisi, San Marco, and Florence.",
+        "Frame the visit as Antonian pilgrimage theology, not a Donatello checklist only. Active minor basilica: shoulders/knees covered; silence at the Tomb; no disruptive photography when posted (official rules restrict photographic equipment inside the basilica — verify santantonio.org).",
+        "Official tickets: basilica entry is free for individual visitors — santantonio.org. A paid museum single ticket covers listed museum spaces (Anthonian Museum / Museum of Popular Devotion / Oratory of St George / Little School when bundled) on Tue–Sun class hours — verify the live museum page. Do not invent EUR gate fares for the basilica; do not sell third-party “Padua basilica tickets” as required entry.",
+        "Basilica opens early for liturgy; tourist flow daytime — verify santantonio.org (winter vs summer close times differ). Feast of St Anthony (13 June) is peak pilgrimage.",
+        "Soft blockers: liturgy pauses; relic chapel hour splits; museum closed Mondays when posted; Scrovegni Chapel is a separate ticketed civic site — not part of shrine entry."
+      ],
+      "highlights": [
+        "Antonian pilgrimage shrine — tomb / relics",
+        "Basilica entry free — santantonio.org",
+        "Museum single ticket separate (Tue–Sun class)",
+        "13 June feast = peak pilgrimage",
+        "No invent EUR gate fare; Scrovegni separate"
+      ]
+    },
+    "visit": {
+      "intro": "Living pilgrimage basilica — free individual entry; museum cluster is a separate paid ticket.",
+      "hours": "Basilica opens early for liturgy; tourist flow daytime — verify santantonio.org (winter vs summer differ). Museum spaces commonly Tue–Sun; often closed Monday — verify live museum page. 13 June feast peak.",
+      "tickets": "Basilica entry free for individual visitors — santantonio.org. Paid museum single ticket for listed museum spaces when open. Do not invent EUR gate fares; do not treat third-party “basilica tickets” as required entry. Scrovegni = separate civic ticket.",
+      "dress": "Active minor basilica / shrine — shoulders/knees covered; silence at the Tomb; follow posted photography rules.",
+      "duration": "1–2 hours for basilica + tomb / relics; museum cluster adds time when open.",
+      "access": "Train to Padova; walk / tram to Piazza del Santo. Basilica, Chapel of the Relics, and museum cluster share the shrine campus but not one ticket.",
+      "tips": [
+        "Basilica entry is free — ignore sellers of required “Padua basilica tickets.”",
+        "Museum ticket is separate and usually closed Mondays when posted.",
+        "Silence at the Tomb; follow photography rules inside the basilica.",
+        "Shoulders and knees covered.",
+        "13 June feast needs capacity honesty.",
+        "Scrovegni Chapel is a separate civic ticket — not shrine entry.",
+        "Do not invent EUR; verify santantonio.org before travel."
+      ],
+      "entryType": "free",
+      "ticketsUrl": "https://www.santantonio.org/",
+      "ticketsLabel": "santantonio.org — basilica free; museum single ticket separate",
+      "ticketsNote": "No invent EUR gate fare. Third-party “basilica tickets” are not required entry."
+    },
+    "etiquette": {
+      "intro": "Living Antonian shrine — tomb silence and dress first.",
+      "bullets": [
+        "Shoulders and knees covered.",
+        "Silence at the Tomb; liturgy first.",
+        "Follow posted photography rules inside the basilica.",
+        "Threshold Atlas tone: Antonian pilgrimage theology, not art checklist only."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach the Basilica of Saint Anthony.",
+      "paragraphs": [
+        "Take the train to Padova, then walk or tram to Piazza del Santo.",
+        "The basilica, Chapel of the Relics, and museum cluster share the shrine campus but use different access rules and tickets.",
+        "Combine with Scrovegni only as a separate civic booking with buffer."
+      ],
+      "bullets": [
+        "Train → Padova → Piazza del Santo",
+        "Basilica free; museum paid separate",
+        "Scrovegni = separate civic ticket",
+        "Verify santantonio.org hours"
+      ]
+    },
+    "bestTime": {
+      "intro": "Daytime tourist flow; feast of 13 June is peak.",
+      "paragraphs": [
+        "Morning liturgy and quieter tomb moments reward early arrival. Museums are typically closed Mondays when posted.",
+        "13 June (feast of St Anthony) is extreme pilgrimage peak — capacity honesty matters."
+      ],
+      "bullets": [
+        "Early = quieter tomb",
+        "Museums often closed Monday",
+        "13 June = peak pilgrimage",
+        "Verify santantonio.org"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm basilica and museum hours on santantonio.org.",
+        "Basilica free; do not invent EUR gate fares.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "dilwara",
+    "name": "Dilwara Jain Temples, Mount Abu",
+    "shortName": "Dilwara Temples",
+    "location": "Mount Abu, Rajasthan",
+    "country": "India",
+    "region": "South Asia",
+    "regionSlug": "south-asia",
+    "religions": [
+      "Jain"
+    ],
+    "religionSlugs": [
+      "jain"
+    ],
+    "summary": "Marble Jain architectural crown at Mount Abu (Vimal Vasahi / Luna Vasahi and related temples). Entry generally free (temple trust; not a typical ASI paid monument). Tourist entry window commonly afternoon-only; worshippers often morning. No leather items; no photography / phones inside. Do not invent INR or fake ASI e-tickets.",
+    "heroImage": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Śvetāmbara Jain marble temple cluster (Vimal Vasahi / Luna Vasahi etc.); temple-trust stewardship",
+      "patron": "Jain — Śvetāmbara devotion + ahimsa discipline",
+      "unesco": "Not UNESCO World Heritage (living temple complex)",
+      "typicalVisit": "Afternoon tourist window; 1–2 hours inside marble mandapas"
+    },
+    "related": [
+      "ellora",
+      "meenakshi",
+      "hampi"
+    ],
+    "overview": {
+      "body": [
+        "The Dilwara temples at Mount Abu are the marble Jain architectural crown — Vimal Vasahi, Luna Vasahi, and related sanctums of extraordinary carved white marble. They finally clear the demand bar as SanctaWay’s first jain slug after years of Jain=0 coverage.",
+        "Frame the visit as Jain ahimsa and marble devotion, not a lace-marble Instagram hall. Modest dress; no leather items (belts / wallets / shoes with leather often restricted); no photography / phones inside (deposit counters common); remove shoes; quiet in marble mandapas.",
+        "Official tickets: entry is generally free (temple trust managed; not a typical ASI paid monument). Info via Incredible India / Rajasthan tourism pages (incredibleindia.gov.in Mount Abu listing). Optional deposit for camera/phone storage when required. Do not invent INR gate fares; do not invent “ASI e-ticket required.”",
+        "Tourist entry window commonly afternoon-only (worshippers often morning) — verify Incredible India / temple trust notices. Arrive for the tourist opening; do not assume all-day access.",
+        "Soft blockers: tourist afternoon-only window; photo ban frustration; leather check; Mount Abu weather / seasonality; guides at approach — clarify what is voluntary."
+      ],
+      "highlights": [
+        "First jain slug — Mount Abu marble crown",
+        "Entry generally free (temple trust)",
+        "Tourist window commonly afternoon-only",
+        "No leather / no photos inside",
+        "No invent INR / fake ASI ticket"
+      ]
+    },
+    "visit": {
+      "intro": "Living Śvetāmbara Jain temples — free entry; afternoon tourist window; strict leather and photo bans.",
+      "hours": "Tourist entry commonly afternoon-only (worshippers often morning) — verify Incredible India / temple trust notices. Do not assume all-day tourist access.",
+      "tickets": "Entry generally free (temple trust; not typical ASI paid monument). Info: incredibleindia.gov.in Mount Abu listing / Rajasthan tourism. Optional camera/phone deposit when required. Do not invent INR; do not invent ASI e-ticket requirement.",
+      "dress": "Living Jain temples — modest dress; no leather items (belts/wallets/leather shoes often restricted); no photography / phones inside; shoes off; quiet in mandapas.",
+      "duration": "About 1–2 hours inside during the tourist window; arrive for opening.",
+      "access": "Road up to Mount Abu (Sirohi, Rajasthan); taxi / local transport to Dilwara complex. Hill-station day logistics from Abu Road railhead.",
+      "tips": [
+        "Plan for the afternoon tourist window — mornings are often for worshippers.",
+        "Leave leather belts, wallets, and leather shoes out; expect checks.",
+        "No photography or phones inside — use deposit counters when required.",
+        "Entry is generally free — do not buy fake ASI e-tickets.",
+        "Clarify that approach guides are voluntary.",
+        "Mount Abu weather can turn quickly — layer and pace.",
+        "Do not invent INR; verify Incredible India / temple notices."
+      ],
+      "entryType": "free",
+      "ticketsUrl": "https://www.incredibleindia.gov.in/en/rajasthan/mount-abu/dilwara-jain-temples",
+      "ticketsLabel": "Incredible India / temple trust — entry generally free",
+      "ticketsNote": "Afternoon tourist window common. No leather / no photos inside. Do not invent INR or ASI e-ticket."
+    },
+    "etiquette": {
+      "intro": "Living Jain temples — ahimsa discipline, leather ban, photo ban.",
+      "bullets": [
+        "Modest dress; shoes off.",
+        "No leather items inside when restricted.",
+        "No photography / phones inside — deposit when required.",
+        "Threshold Atlas tone: Jain ahimsa + marble devotion, not Instagram hall."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Dilwara from Mount Abu.",
+      "paragraphs": [
+        "Reach Mount Abu by road from Abu Road railhead or other Rajasthan corridors, then taxi or local transport to the Dilwara temple complex.",
+        "Arrive for the tourist opening window — do not assume morning tourist darshan.",
+        "Guides may approach outside — clarify what is voluntary before engaging."
+      ],
+      "bullets": [
+        "Abu Road / road → Mount Abu → Dilwara",
+        "Afternoon tourist window common",
+        "Leather / phone deposit before entry",
+        "Guides outside = voluntary"
+      ]
+    },
+    "bestTime": {
+      "intro": "Afternoon tourist window; cooler hill-station months easier.",
+      "paragraphs": [
+        "Tourists should aim for the published afternoon window. Cooler months on the hill station are more comfortable than peak summer heat.",
+        "Festival days may change access — verify local notices."
+      ],
+      "bullets": [
+        "Afternoon tourist window",
+        "Cooler months easier on the hill",
+        "Festival days may change access",
+        "Verify Incredible India / temple notices"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm tourist hours via Incredible India / temple trust notices.",
+        "Free entry; do not invent INR or ASI e-tickets.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "swayambhunath",
+    "name": "Swayambhunath Stupa (Monkey Temple), Kathmandu",
+    "shortName": "Swayambhunath",
+    "location": "Swayambhu, Kathmandu",
+    "country": "Nepal",
+    "region": "South Asia",
+    "regionSlug": "south-asia",
+    "religions": [
+      "Buddhist"
+    ],
+    "religionSlugs": [
+      "buddhist"
+    ],
+    "summary": "Kathmandu Valley UNESCO hill stupa — completes the valley triangle with live Pashupatinath + Boudhanath. On-site heritage entry; nationality tiers via Nepal Tourism Board (ntb.gov.np). Cash NPR common; no reliable official advance e-ticket. Walk clockwise; do not feed monkeys. Do not invent NPR.",
+    "heroImage": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Self-arisen hill stupa; Newar / Tibetan Buddhist living complex; UNESCO Kathmandu Valley context",
+      "patron": "Buddhist — self-arisen stupa cosmology + valley protectors",
+      "unesco": "UNESCO World Heritage context — Kathmandu Valley",
+      "typicalVisit": "2–3 hours including stair climb + kora; dawn/dusk for views"
+    },
+    "related": [
+      "boudhanath",
+      "pashupatinath",
+      "lumbini"
+    ],
+    "overview": {
+      "body": [
+        "Swayambhunath (the “Monkey Temple”) crowns a western Kathmandu hill with a self-arisen stupa, prayer wheels, and Newar / Tibetan Buddhist shrines. Demand still justifies completing the valley triangle with live Pashupatinath and Boudhanath.",
+        "Frame the visit as self-arisen stupa cosmology and valley protectors, not a monkey-temple zoo. Walk clockwise; modest dress in shrine rooms; do not feed monkeys; secure glasses and food.",
+        "Official tickets: on-site heritage entry; nationality tiers published via Nepal Tourism Board (ntb.gov.np heritage site entry fees). Foreign / SAARC / Nepali tiers — cash NPR common; verify live; do not invent NPR. No reliable official advance e-ticket as of research — plan gate purchase.",
+        "Hill complex commonly long day access; ticket counters daytime class — verify ntb.gov.np + Kathmandu Metropolitan heritage notes. Dawn / dusk for views + kora; monkey activity all day.",
+        "Soft blockers: steep stairs; monkey theft; haze views; combine with Pashupatinath + Boudhanath only with traffic + stair buffer (and without rushing aarti windows at Pashupatinath)."
+      ],
+      "highlights": [
+        "Kathmandu Valley UNESCO hill stupa",
+        "Completes triangle with Pashupatinath + Boudhanath",
+        "NTB nationality tiers — cash NPR at gate",
+        "Walk clockwise; do not feed monkeys",
+        "No invent NPR; no advance e-ticket reliance"
+      ]
+    },
+    "visit": {
+      "intro": "Living hill stupa — on-site NTB heritage tiers; cash common; clockwise kora.",
+      "hours": "Hill complex commonly long day access; ticket counters daytime class — verify ntb.gov.np. Dawn / dusk for views + kora.",
+      "tickets": "On-site heritage entry; nationality tiers via Nepal Tourism Board (ntb.gov.np). Foreign / SAARC / Nepali tiers — cash NPR common; verify live; do not invent NPR. No reliable official advance e-ticket — plan gate purchase.",
+      "dress": "Living Newar / Tibetan Buddhist hill stupa — modest dress in shrine rooms; walk clockwise; do not feed monkeys; secure belongings.",
+      "duration": "About 2–3 hours including stair climb and kora; more if pairing valley sites.",
+      "access": "Taxi / walk up from west Kathmandu; long stair climb from east approach or road to upper parking then shorter steps. Pair with Boudhanath / Pashupatinath only with traffic + stair buffer.",
+      "tips": [
+        "Pay heritage entry at the gate — verify live NTB tiers; do not invent NPR.",
+        "Walk clockwise around the stupa.",
+        "Do not feed monkeys; secure glasses, food, and bags.",
+        "Steep stairs — mobility and heat honesty.",
+        "Dawn / dusk for clearer views when haze allows.",
+        "Same-day Pashupatinath needs aarti timing buffer.",
+        "No reliable advance e-ticket — plan cash at the gate."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://ntb.gov.np/en/plan-your-trip/before-you-come/heritage-site-entry-fees",
+      "ticketsLabel": "Nepal Tourism Board heritage fees (ntb.gov.np) — on-site cash common",
+      "ticketsNote": "Nationality tiers; verify live; do not invent NPR. No reliable official advance e-ticket."
+    },
+    "etiquette": {
+      "intro": "Living hill stupa — clockwise kora and monkey honesty.",
+      "bullets": [
+        "Walk clockwise around the stupa.",
+        "Modest dress in shrine rooms.",
+        "Do not feed monkeys; secure belongings.",
+        "Threshold Atlas tone: self-arisen stupa cosmology, not monkey zoo."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Swayambhunath.",
+      "paragraphs": [
+        "Taxi or walk from western Kathmandu; the east approach is a long stair climb, or take the road toward upper parking for shorter steps.",
+        "Buy heritage entry at the on-site counter — cash NPR is common.",
+        "Pairing with Boudhanath and Pashupatinath needs traffic and stair buffer; do not rush Pashupatinath aarti windows."
+      ],
+      "bullets": [
+        "West Kathmandu taxi / walk / stairs",
+        "On-site NTB heritage gate",
+        "Cash NPR common",
+        "Valley triangle needs buffer"
+      ]
+    },
+    "bestTime": {
+      "intro": "Dawn and dusk for views; clear-season mornings best.",
+      "paragraphs": [
+        "Dawn and dusk reward kora and valley views when haze is low. Clear-season mornings are easiest on the stairs.",
+        "Monkey activity is constant — secure bags all day."
+      ],
+      "bullets": [
+        "Dawn / dusk for views",
+        "Clear-season mornings easier",
+        "Monkeys all day",
+        "Verify ntb.gov.np fees"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm heritage fees on ntb.gov.np; pay at the gate.",
+        "Do not invent NPR; no advance e-ticket reliance.",
         "SanctaWay is informational; it does not sell tickets or grant access.",
         "Hero image is an Unsplash placeholder pending visual / Commons pass."
       ]

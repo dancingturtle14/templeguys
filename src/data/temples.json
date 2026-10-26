@@ -486,7 +486,7 @@
     "related": [
       "wat-pho",
       "wat-phra-kaew",
-      "ayutthaya"
+      "sukhothai"
     ],
     "overview": {
       "body": [
@@ -1519,7 +1519,7 @@
     "related": [
       "chartres",
       "cologne-cathedral",
-      "st-basils"
+      "aachen-cathedral"
     ],
     "overview": {
       "body": [
@@ -2663,7 +2663,7 @@
     "related": [
       "lumbini",
       "borobudur",
-      "sanchi"
+      "sarnath"
     ],
     "overview": {
       "body": [
@@ -3002,7 +3002,7 @@
     "related": [
       "hassan-ii-mosque",
       "hagia-sophia",
-      "imam-mosque-isfahan"
+      "registan"
     ],
     "overview": {
       "body": [
@@ -4728,7 +4728,7 @@
     "related": [
       "mahabodhi",
       "paro-taktsang",
-      "boudhanath"
+      "sarnath"
     ],
     "overview": {
       "body": [
@@ -5073,7 +5073,7 @@
     "related": [
       "cologne-cathedral",
       "notre-dame",
-      "canterbury-cathedral"
+      "aachen-cathedral"
     ],
     "overview": {
       "body": [
@@ -5647,7 +5647,7 @@
     "related": [
       "kashi-vishwanath",
       "golden-temple",
-      "khajuraho"
+      "brihadeeswarar"
     ],
     "overview": {
       "body": [
@@ -5989,7 +5989,7 @@
     "related": [
       "chartres",
       "notre-dame",
-      "westminster-abbey"
+      "aachen-cathedral"
     ],
     "overview": {
       "body": [
@@ -6903,7 +6903,7 @@
     "related": [
       "meenakshi",
       "borobudur",
-      "ranakpur"
+      "mahabalipuram"
     ],
     "overview": {
       "body": [
@@ -7585,7 +7585,7 @@
     "related": [
       "shwedagon",
       "angkor-wat",
-      "ayutthaya"
+      "sukhothai"
     ],
     "overview": {
       "body": [
@@ -8268,7 +8268,7 @@
     "related": [
       "mezquita-cordoba",
       "hassan-ii-mosque",
-      "sagrada-familia"
+      "sheikh-lotfollah"
     ],
     "overview": {
       "body": [
@@ -8721,7 +8721,7 @@
     "related": [
       "meenakshi",
       "ellora",
-      "khajuraho"
+      "mahabalipuram"
     ],
     "overview": {
       "body": [
@@ -9285,7 +9285,7 @@
     "related": [
       "fatima",
       "lourdes",
-      "jasna-gora"
+      "rila-monastery"
     ],
     "overview": {
       "body": [
@@ -9398,7 +9398,7 @@
     "related": [
       "hampi",
       "meenakshi",
-      "khajuraho"
+      "brihadeeswarar"
     ],
     "overview": {
       "body": [
@@ -10414,7 +10414,7 @@
     "related": [
       "mahabodhi",
       "ajanta",
-      "ellora"
+      "sarnath"
     ],
     "overview": {
       "body": [
@@ -12767,7 +12767,7 @@
     "related": [
       "st-peters",
       "notre-dame",
-      "sagrada-familia"
+      "rila-monastery"
     ],
     "overview": {
       "body": [
@@ -13999,7 +13999,7 @@
     "related": [
       "blue-mosque",
       "hagia-sophia",
-      "sheikh-zayed-grand-mosque"
+      "sheikh-lotfollah"
     ],
     "overview": {
       "body": [
@@ -14111,7 +14111,7 @@
     "related": [
       "konark-sun-temple",
       "meenakshi",
-      "hampi"
+      "brihadeeswarar"
     ],
     "overview": {
       "body": [
@@ -14223,7 +14223,7 @@
     "related": [
       "lourdes",
       "fatima",
-      "montserrat"
+      "rila-monastery"
     ],
     "overview": {
       "body": [
@@ -14335,7 +14335,7 @@
     "related": [
       "wat-phra-kaew",
       "wat-arun",
-      "bagan"
+      "sukhothai"
     ],
     "overview": {
       "body": [
@@ -14527,6 +14527,907 @@
       "bullets": [
         "Confirm hours and prices on egymonuments.gov.eg — do not invent EGP.",
         "Al-Rifa’i often bundled; Citadel is separate.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "brihadeeswarar",
+    "name": "Brihadeeswarar / Brihadisvara Temple (பெருவுடையார் கோயில்), Thanjavur",
+    "shortName": "Brihadeeswarar",
+    "location": "Thanjavur (Tanjore), Tamil Nadu",
+    "country": "India",
+    "region": "South Asia",
+    "regionSlug": "south-asia",
+    "religions": [
+      "Hindu"
+    ],
+    "religionSlugs": [
+      "hindu"
+    ],
+    "summary": "UNESCO Great Living Chola Temples — Rajaraja I’s granite vimana mega at Thanjavur (Rājarājeśvaram / Peruvudaiyar). Living HR&CE Śaiva temple + ASI World Heritage monument. ASI lists admission free; still/handheld photo commonly free — verify asi.nic.in / hrce.tn.gov.in. Do not invent INR entry tickets; Gangaikonda Cholapuram and Darasuram are separate sibling visits.",
+    "heroImage": "https://images.unsplash.com/photo-1582510003544-4d00bce9d6cc?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Completed under Rajaraja I (c. 1010 CE); later Chola–Nayaka additions; living Śaiva worship continues",
+      "patron": "Hindu — Śaiva (living HR&CE temple; ASI protected monument)",
+      "unesco": "UNESCO World Heritage — Great Living Chola Temples",
+      "typicalVisit": "1.5–3 hours courtyard + vimana circuit; midday close honesty; sibling Chola temples need separate days"
+    },
+    "related": [
+      "meenakshi",
+      "khajuraho",
+      "mahabalipuram"
+    ],
+    "overview": {
+      "body": [
+        "Brihadeeswarar Temple (Brihadisvara / Peruvudaiyar Kovil) is Rajaraja I’s granite vimana masterpiece at Thanjavur — the UNESCO Great Living Chola Temples flagship still framed as a living Śaiva house of worship.",
+        "Frame the visit as Rajaraja I Rājarājeśvaram kingship + living Chola liturgy — not “tall tower selfie only.” Shoulders and knees covered; remove footwear; silence near the garbhagriha; follow posted photography rules (still/handheld often free per ASI — confirm live; no climbing Nandi or restricted fabric).",
+        "Official tickets: ASI lists admission free for the monument; still/handheld photography commonly free; other photography needs Chennai Circle permission — asi.nic.in. HR&CE manages living worship hours and darshan — hrce.tn.gov.in (Arulmigu Pragadheeswarar / Peruvudaiyar). Do not invent INR “entry tickets”; do not sell third-party “Big Temple skip-the-line” as ASI/HR&CE product. Special darshan or abhishekam products, if any, are temple-desk only.",
+        "Living-temple darshan commonly ~06:00–12:30 and ~16:00–20:30 class — verify hrce.tn.gov.in. ASI monument daylight framing on the World Heritage Chola page. Early morning for vimana light and thinner queues; state midday closure honesty.",
+        "Soft blockers: midday close; sanctum and ritual-time visitor limits; heat on the granite courtyard; do not invent “one ticket covers all three Great Living Chola Temples” — Gangaikonda Cholapuram and Darasuram are separate UNESCO siblings. SanctaWay is informational — it does not sell tickets or grant access."
+      ],
+      "highlights": [
+        "UNESCO Great Living Chola Temples — Thanjavur vimana",
+        "ASI admission free — do not invent INR entry",
+        "HR&CE living darshan hours (midday close honesty)",
+        "Gangaikonda / Darasuram = separate sibling visits",
+        "Living Śaiva etiquette — footwear off, quiet near garbhagriha"
+      ]
+    },
+    "visit": {
+      "intro": "ASI-free living Chola mega — verify HR&CE darshan hours; no invent INR entry.",
+      "hours": "Living-temple darshan commonly ~06:00–12:30 and ~16:00–20:30 class — verify hrce.tn.gov.in. ASI monument daylight framing on asi.nic.in. Early morning for vimana light; midday close honesty.",
+      "tickets": "ASI lists admission free; still/handheld photo commonly free; other photography needs Chennai Circle permission — asi.nic.in. HR&CE manages living worship — hrce.tn.gov.in. Do not invent INR entry tickets; do not sell third-party skip-the-line as ASI/HR&CE product. Special darshan / abhishekam = temple desk only when offered.",
+      "dress": "Living Śaiva temple — shoulders/knees covered; remove footwear; silence near garbhagriha; photography as posted (no climbing Nandi / restricted fabric).",
+      "duration": "1.5–3 hours for courtyard + vimana circuit; buffer separately if adding sibling Chola temples on other days.",
+      "access": "Thanjavur / Tanjore rail or road from Chennai (~330 km) or Trichy (~55 km). Auto or walk to the Big Temple east gate. Pair with Gangaikonda Cholapuram / Darasuram only with a day buffer — separate UNESCO siblings, not one ticket.",
+      "tips": [
+        "Confirm ASI free admission on asi.nic.in — do not invent INR entry fares.",
+        "Verify living darshan hours on hrce.tn.gov.in (midday close is real).",
+        "Remove footwear; dress for a living Śaiva house of worship.",
+        "Do not invent “one ticket for all three Great Living Chola Temples.”",
+        "Heat on granite — water, hat, early start.",
+        "Photography: still/handheld often free; confirm live ASI rules.",
+        "Special darshan / abhishekam only via temple desk when offered."
+      ],
+      "entryType": "free",
+      "ticketsUrl": "https://asi.nic.in/",
+      "ticketsLabel": "ASI / HR&CE — Brihadeeswarar (admission free; verify darshan)",
+      "ticketsNote": "ASI free admission; HR&CE darshan hours; do not invent INR; siblings separate."
+    },
+    "etiquette": {
+      "intro": "Living Śaiva Chola temple — quiet near the sanctum.",
+      "bullets": [
+        "Shoulders and knees covered; remove footwear before temple precincts as posted.",
+        "Silence near the garbhagriha; follow ritual-time visitor limits.",
+        "No climbing Nandi or restricted fabric; photography as posted.",
+        "Threshold Atlas tone: Rajaraja I Rājarājeśvaram kingship + living Chola liturgy."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Brihadeeswarar in Thanjavur.",
+      "paragraphs": [
+        "Reach Thanjavur (Tanjore) by rail or road from Chennai (~330 km) or Trichy (~55 km). From the station or bus stand, take an auto or walk to the Big Temple east gate.",
+        "The monument and living temple share one campus — follow footwear and queue signs at the east approach. Arrive early for thinner darshan lines and cooler granite.",
+        "Gangaikonda Cholapuram and Darasuram are UNESCO Great Living Chola siblings — plan separate visits and separate travel time; do not invent a shared ticket."
+      ],
+      "bullets": [
+        "Chennai / Trichy → Thanjavur rail or road",
+        "East gate approach; footwear off as posted",
+        "Sibling Chola temples = separate days",
+        "Heat buffer on granite courtyard"
+      ]
+    },
+    "bestTime": {
+      "intro": "Early morning vimana light; respect midday close.",
+      "paragraphs": [
+        "Early morning usually means better vimana light and thinner queues before the forenoon darshan window fills. Midday closure is part of the living-temple rhythm — plan a break, then return for the afternoon–evening window.",
+        "Festival and major abhishekam days bring heavier crush — verify hrce.tn.gov.in notices rather than inventing a fixed calendar."
+      ],
+      "bullets": [
+        "Best: early morning opening window",
+        "State midday close honestly",
+        "Verify festival / abhishekam crush on hrce.tn.gov.in",
+        "Avoid inventing same-day “skip-the-line” myths"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm ASI free admission and photography rules on asi.nic.in — do not invent INR.",
+        "Confirm living darshan hours on hrce.tn.gov.in; midday close is real.",
+        "Gangaikonda / Darasuram are separate visits — not one ticket.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "mahabalipuram",
+    "name": "Group of Monuments at Mahabalipuram / Mamallapuram (Shore Temple + Pancha Rathas), Tamil Nadu",
+    "shortName": "Mahabalipuram",
+    "location": "Mamallapuram (Mahabalipuram), Tamil Nadu",
+    "country": "India",
+    "region": "South Asia",
+    "regionSlug": "south-asia",
+    "religions": [
+      "Hindu"
+    ],
+    "religionSlugs": [
+      "hindu"
+    ],
+    "summary": "UNESCO Pallava coastal temple-city — Shore Temple, Pancha Rathas, Arjuna’s Penance and peer monuments at Mamallapuram. ASI Indian Heritage e-tickets via asi.paygov.org.in (Chennai circle → Group of Monuments, Mamallapuram). Indian / SAARC-BIMSTEC / foreign tiers; under-15 free when published. Do not invent INR; Shore ≠ unchecked whole-group myth.",
+    "heroImage": "https://images.unsplash.com/photo-1621839176054-9547d2813e7c?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Pallava royal port and rock-cut program (7th–8th c.); Shore Temple and ratha cluster still define the UNESCO group",
+      "patron": "Hindu — Pallava royal sacred landscape (Shore Temple framed as temple; archaeological park setting)",
+      "unesco": "UNESCO World Heritage — Group of Monuments at Mahabalipuram",
+      "typicalVisit": "Half day for Shore + Rathas + Arjuna’s Penance circuit; heat buffer essential"
+    },
+    "related": [
+      "brihadeeswarar",
+      "meenakshi",
+      "hampi"
+    ],
+    "overview": {
+      "body": [
+        "Mahabalipuram (Mamallapuram) is the UNESCO Pallava coastal temple-city south of Chennai — Shore Temple on the bay, the Pancha Rathas cluster, Arjuna’s Penance, and peer rock-cut monuments that still structure a classic Tamil Nadu day trip.",
+        "Frame the visit as Pallava royal port + rock-cut program honesty — not “beach ruin park only.” Modest dress; no climbing rathas or restricted carvings; respect the fishing-village perimeter around the Shore Temple.",
+        "Official tickets: ASI Indian Heritage e-tickets — asi.paygov.org.in (Chennai circle → Group of Monuments, Mamallapuram). One group product commonly covers Shore Temple and major monuments when published; Indian / SAARC-BIMSTEC / foreign tiers; under-15 free when published. Prefer the ASI portal over random OTA “Mahabs pass.” Do not invent INR.",
+        "ASI daylight commonly ~06:00–18:00 — verify asi.nic.in / e-ticket slots. Early morning for Shore Temple sea light; avoid midday granite glare. Forenoon/afternoon slot honesty on the portal when slots are published.",
+        "Soft blockers: Shore ≠ whole group without checking what the ticket covers; sea spray and slippery stones; Krishna’s Butterball and other spots may sit outside the paid core — verify the live map. SanctaWay is informational — it does not sell tickets or grant access."
+      ],
+      "highlights": [
+        "UNESCO Pallava Shore Temple + Pancha Rathas group",
+        "ASI e-tickets — asi.paygov.org.in Mamallapuram",
+        "Do not invent INR; under-15 free when published",
+        "Shore ≠ unchecked whole-group myth",
+        "Heat + sea-spray honesty on granite"
+      ]
+    },
+    "visit": {
+      "intro": "ASI Group of Monuments Mamallapuram — e-ticket; verify what Shore covers.",
+      "hours": "ASI daylight commonly ~06:00–18:00 — verify asi.nic.in / asi.paygov.org.in slots. Early morning for Shore Temple sea light; avoid midday granite glare.",
+      "tickets": "ASI Indian Heritage e-tickets — asi.paygov.org.in (Chennai circle → Group of Monuments, Mamallapuram). Group product commonly covers Shore + major monuments when published; Indian / SAARC-BIMSTEC / foreign tiers; under-15 free when published. Prefer ASI portal over random OTA. Do not invent INR.",
+      "dress": "Archaeological Hindu sacred landscape — modest dress; no climbing rathas / restricted carvings; respect fishing-village perimeter at Shore Temple.",
+      "duration": "Half day for Shore Temple + Pancha Rathas + Arjuna’s Penance circuit; full morning if photographing slowly in heat.",
+      "access": "Chennai → Mamallapuram by bus / taxi / tour (~1–1.5 h East Coast Road). Shore Temple, Pancha Rathas, and Arjuna’s Penance are a walkable / short-auto circuit — plan heat buffer.",
+      "tips": [
+        "Buy via asi.paygov.org.in — Chennai circle → Mamallapuram group.",
+        "Do not invent INR; check Indian / SAARC-BIMSTEC / foreign tiers live.",
+        "Confirm which monuments sit on your ticket — Shore ≠ automatic whole group.",
+        "Under-15 free when published — verify on the portal.",
+        "Heat + granite glare: water, hat, early start.",
+        "Sea spray / slippery stones at Shore Temple — careful footing.",
+        "Krishna’s Butterball and peer spots may sit outside paid core — check live map."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://asi.paygov.org.in/",
+      "ticketsLabel": "ASI Indian Heritage — Group of Monuments, Mamallapuram",
+      "ticketsNote": "Prefer asi.paygov.org.in; do not invent INR; verify group coverage."
+    },
+    "etiquette": {
+      "intro": "Pallava sacred landscape — no climbing, modest dress.",
+      "bullets": [
+        "Modest dress across Shore Temple and ratha precincts.",
+        "No climbing rathas or restricted carvings.",
+        "Respect fishing-village perimeter around Shore Temple.",
+        "Threshold Atlas tone: Pallava royal port + rock-cut program honesty."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Mahabalipuram from Chennai.",
+      "paragraphs": [
+        "From Chennai, take a bus, taxi, or day tour down the East Coast Road (~1–1.5 h) to Mamallapuram. The Shore Temple sits on the bay; Pancha Rathas and Arjuna’s Penance are a short auto or walkable circuit inland.",
+        "Hold a valid ASI e-ticket (asi.paygov.org.in) before the ticket check when the portal requires advance booking. Do not buy street “Mahabs pass” scalps.",
+        "Plan heat and walking time between Shore, Rathas, and the reliefs — midday granite is punishing even on a short circuit."
+      ],
+      "bullets": [
+        "Chennai → ECR bus / taxi / tour (~1–1.5 h)",
+        "ASI e-ticket via asi.paygov.org.in",
+        "Shore + Rathas + reliefs = short circuit",
+        "Heat buffer between stops"
+      ]
+    },
+    "bestTime": {
+      "intro": "Early Shore Temple sea light; avoid midday glare.",
+      "paragraphs": [
+        "Early morning at Shore Temple usually gives the best sea light and thinner ticket lines. Midday granite glare is harsh — shade and water matter even on a half-day visit.",
+        "Verify forenoon/afternoon slot rules on asi.paygov.org.in when slots are published rather than inventing a fixed timetable."
+      ],
+      "bullets": [
+        "Best: early morning Shore Temple",
+        "Avoid midday granite glare",
+        "Verify e-ticket slots on asi.paygov.org.in",
+        "Sea spray / slippery stones honesty"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm fares and group coverage on asi.paygov.org.in — do not invent INR.",
+        "Shore Temple ticket coverage ≠ unchecked whole-group myth.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "sarnath",
+    "name": "Sarnath (सारनाथ) — Dhamek Stupa / Mulagandha Kuti / Deer Park, Varanasi",
+    "shortName": "Sarnath",
+    "location": "Sarnath, Varanasi district, Uttar Pradesh",
+    "country": "India",
+    "region": "South Asia",
+    "regionSlug": "south-asia",
+    "religions": [
+      "Buddhist"
+    ],
+    "religionSlugs": [
+      "buddhist"
+    ],
+    "summary": "Site of the Buddha’s first sermon — ASI archaeological park (Dhamek Stupa) + Archaeological Museum + Mulagandha Kuti Vihar pilgrimage landscape near Varanasi. ASI site + museum via asi.paygov.org.in / on-site desks; museum commonly closed Fridays. Deer-park mini-zoo is a separate on-site product. Do not invent INR; hard-warn fake “Sarnath ticket” sites.",
+    "heroImage": "https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Deer Park / Mrigadava tradition of the first sermon; Dhamek and peer stupas with later restorations; modern Mulagandha Kuti Vihar pilgrimage",
+      "patron": "Buddhist — first-sermon pilgrimage landscape (ASI monument + active viharas)",
+      "unesco": "Not individually inscribed as a standalone WH site; major national archaeological + pilgrimage landmark",
+      "typicalVisit": "2–4 hours site + museum + Mulagandha; Friday = museum closed honesty"
+    },
+    "related": [
+      "mahabodhi",
+      "sanchi",
+      "lumbini"
+    ],
+    "overview": {
+      "body": [
+        "Sarnath is where Buddhist tradition places the Buddha’s first sermon — the Dhamek Stupa archaeological park, the Archaeological Museum, Mulagandha Kuti Vihar, and the wider Deer Park pilgrimage landscape a short ride from Varanasi.",
+        "Frame the visit as first sermon / Deer Park / Dharma-chakra honesty — not a conflation of the modern deer mini-zoo with ancient Mrigadava as the same product. Modest dress; quiet at Mulagandha Kuti and the stupa; no climbing restricted bricks; flash rules in the museum.",
+        "Official tickets: ASI site and museum products via asi.paygov.org.in / on-site desks (Indian–SAARC–BIMSTEC vs foreign tiers; museum often a separate low fee). Combo site+museum when offered. The deer-park mini-zoo is a separate on-site product — do not invent it as an ASI combo. Do not invent INR; hard-warn fake “Sarnath ticket” .com sites.",
+        "ASI archaeological site daylight class; Archaeological Museum commonly ~09:00–17:00 and closed Fridays — verify asi.nic.in / Sarnath Circle notices / asi.paygov.org.in. Early for Dhamek heat; Friday = site OK / museum closed honesty.",
+        "Soft blockers: museum Friday close; site vs museum vs Mulagandha vs mini-zoo confusion; Varanasi traffic; do not invent “Bodh Gaya day-trip same ticket.” Pair with Kashi Vishwanath only with a separate half-day buffer. SanctaWay is informational — it does not sell tickets or grant access."
+      ],
+      "highlights": [
+        "First-sermon pilgrimage — Dhamek + Mulagandha",
+        "ASI site + museum (asi.paygov.org.in)",
+        "Museum commonly closed Fridays",
+        "Mini-zoo ≠ ancient Deer Park product",
+        "Do not invent INR; fake-ticket warning"
+      ]
+    },
+    "visit": {
+      "intro": "ASI site + museum — Friday museum close; mini-zoo separate.",
+      "hours": "ASI archaeological site daylight class; Archaeological Museum commonly ~09:00–17:00 and closed Fridays — verify asi.nic.in / Sarnath Circle / asi.paygov.org.in. Early for Dhamek heat.",
+      "tickets": "ASI site + museum via asi.paygov.org.in / on-site desks (Indian–SAARC–BIMSTEC vs foreign tiers; museum often separate). Combo when offered. Deer-park mini-zoo is separate — not an ASI combo myth. Do not invent INR; hard-warn fake “Sarnath ticket” sites.",
+      "dress": "Active Buddhist pilgrimage landscape — modest dress; quiet at Mulagandha Kuti / stupa; no climbing restricted bricks; flash rules in museum.",
+      "duration": "2–4 hours for site + museum + Mulagandha Kuti; add buffer for Varanasi traffic.",
+      "access": "Varanasi cab / auto to Sarnath (~30–45 min depending on traffic). Pair with Kashi Vishwanath only with a separate half-day buffer — different sacred economies.",
+      "tips": [
+        "Buy ASI site/museum tickets via asi.paygov.org.in or on-site desks.",
+        "Do not invent INR; ignore fake “Sarnath ticket” .com sites.",
+        "Friday: site usually open, museum commonly closed — plan accordingly.",
+        "Mini-zoo is a separate product — not the ancient Deer Park framing.",
+        "Quiet at Mulagandha Kuti and around Dhamek.",
+        "Do not invent “same ticket as Bodh Gaya.”",
+        "Varanasi traffic: leave real buffer each way."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://asi.paygov.org.in/",
+      "ticketsLabel": "ASI — Sarnath site / Archaeological Museum tickets",
+      "ticketsNote": "Site + museum via ASI; Friday museum close; mini-zoo separate; do not invent INR."
+    },
+    "etiquette": {
+      "intro": "First-sermon pilgrimage — quiet at stupa and vihara.",
+      "bullets": [
+        "Modest dress across the archaeological park and Mulagandha Kuti.",
+        "Quiet at the stupa and vihara; no climbing restricted bricks.",
+        "Museum: follow flash and bag rules as posted.",
+        "Threshold Atlas tone: first sermon / Deer Park / Dharma-chakra honesty."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Sarnath from Varanasi.",
+      "paragraphs": [
+        "From Varanasi, take a cab or auto to Sarnath (~30–45 minutes depending on traffic). The archaeological park, museum, and Mulagandha Kuti sit in a walkable cluster once you arrive.",
+        "Hold ASI tickets for the site and museum before entry when the portal or desk requires them. Do not buy from fake ticket websites.",
+        "Kashi Vishwanath is a separate sacred economy in the city — plan a different half-day rather than inventing a combined ticket."
+      ],
+      "bullets": [
+        "Varanasi → cab / auto (~30–45 min)",
+        "ASI site + museum tickets",
+        "Mulagandha Kuti in the same cluster",
+        "Kashi Vishwanath = separate half-day"
+      ]
+    },
+    "bestTime": {
+      "intro": "Early for Dhamek heat; skip museum Friday.",
+      "paragraphs": [
+        "Early morning usually means cooler walking around Dhamek and thinner museum lines. Midday heat on the open archaeological park is hard — water and shade matter.",
+        "Fridays commonly close the Archaeological Museum while the site stays open — verify Sarnath Circle notices rather than inventing a weekly map."
+      ],
+      "bullets": [
+        "Best: early morning site walk",
+        "Museum: commonly closed Fridays",
+        "Verify asi.nic.in / Sarnath Circle notices",
+        "Heat buffer on open park ground"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm site/museum hours and fares on asi.paygov.org.in / Sarnath Circle — do not invent INR.",
+        "Museum Friday close; mini-zoo ≠ ancient Deer Park product.",
+        "Hard-warn fake “Sarnath ticket” websites.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "registan",
+    "name": "Registan Ensemble (Регистон), Samarkand",
+    "shortName": "Registan",
+    "location": "Registan Square, Samarkand",
+    "country": "Uzbekistan",
+    "region": "Middle East",
+    "regionSlug": "middle-east",
+    "religions": [
+      "Islamic"
+    ],
+    "religionSlugs": [
+      "islamic"
+    ],
+    "summary": "UNESCO Samarkand three-madrasa square — Ulugh Beg, Sher-Dor, and Tilya-Kori under the Registan Directorate. Official info registon.uz; e-tickets tickets.registon.uz (Uzbek citizen vs foreign tiers). Single-entry honesty (leaving + returning usually needs a new ticket). Do not invent UZS; Bibi-Khanym and Shah-i-Zinda are separate products.",
+    "heroImage": "https://images.unsplash.com/photo-1590073242678-70ee3fc28e8e?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Ulugh Beg madrasa 15th c.; Sher-Dor and Tilya-Kori later Timurid–post-Timurid ensemble on the square",
+      "patron": "Islamic — historic Timurid–Ulugh Beg educational / urban piety square (Directorate-managed monument)",
+      "unesco": "UNESCO World Heritage — Samarkand – Crossroad of Cultures",
+      "typicalVisit": "1.5–3 hours three-madrasa circuit; evening illumination popular — single-entry honesty"
+    },
+    "related": [
+      "imam-mosque-isfahan",
+      "blue-mosque",
+      "sheikh-lotfollah"
+    ],
+    "overview": {
+      "body": [
+        "Registan is Samarkand’s UNESCO three-madrasa square — Ulugh Beg, Sher-Dor, and Tilya-Kori facing a single plaza that still anchors Silk Road itineraries through Uzbekistan.",
+        "Frame the visit as Timurid–Ulugh Beg educational square + Silk Road urban piety — not “three postcard facades only.” Modest dress in active prayer corners if any; no climbing iwans; respect restoration scaffolding.",
+        "Official tickets: e-tickets on tickets.registon.uz with info on registon.uz (Uzbek citizen vs foreign tiers). Prefer the Registan Directorate over street scalpers and random OTAs. uzbekistan.travel is tourism info, not a substitute ticket desk. Do not invent UZS. State single-entry honesty — leaving and returning usually needs a new ticket.",
+        "Seasonal hours commonly ~07:00–24:00 (20 Feb–20 Nov) and ~08:00–20:00 (20 Nov–20 Feb) per registon.uz. Day for tile detail; evening illumination and show are popular — plan re-entry before you exit.",
+        "Soft blockers: single-entry; e-visa / LOI regimes for some passports (state without fearmongering); midday heat; do not invent “one Samarkand ticket covers Bibi-Khanym + Shah-i-Zinda.” SanctaWay is informational — it does not sell tickets or grant access."
+      ],
+      "highlights": [
+        "UNESCO Samarkand three-madrasa square",
+        "Official e-tickets — tickets.registon.uz",
+        "Single-entry honesty (exit usually = new ticket)",
+        "Do not invent UZS; prefer Directorate",
+        "Bibi-Khanym / Shah-i-Zinda = separate"
+      ]
+    },
+    "visit": {
+      "intro": "Directorate e-tickets — single-entry; seasonal hours to midnight vs 20:00.",
+      "hours": "Seasonal — commonly ~07:00–24:00 (20 Feb–20 Nov) and ~08:00–20:00 (20 Nov–20 Feb) per registon.uz. Day for tile; evening illumination popular — plan re-entry before exit.",
+      "tickets": "Official e-tickets tickets.registon.uz + info registon.uz (Uzbek citizen vs foreign tiers). Prefer Directorate over street scalpers / random OTA. Single-entry honesty. Do not invent UZS. uzbekistan.travel ≠ ticket desk.",
+      "dress": "Historic madrasa ensemble — modest dress in active prayer corners if any; no climbing iwans; respect restoration scaffolding.",
+      "duration": "1.5–3 hours for the three-madrasa circuit; evening show adds time — single-entry means plan exits carefully.",
+      "access": "Samarkand base (Afrosiyob rail from Tashkent common); walk or taxi to Registan square. Pair with Bibi-Khanym / Shah-i-Zinda only with separate tickets and time buffer.",
+      "tips": [
+        "Buy on tickets.registon.uz — not street scalpers.",
+        "Do not invent UZS; citizen vs foreign tiers differ — verify live.",
+        "Single-entry: leaving usually means buying again for return.",
+        "Evening illumination is popular — plan before you exit.",
+        "E-visa / LOI rules vary by passport — check without fearmongering.",
+        "Bibi-Khanym and Shah-i-Zinda need separate tickets.",
+        "Midday heat on the open square — water and shade."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://tickets.registon.uz/",
+      "ticketsLabel": "Registan Directorate — tickets.registon.uz / registon.uz",
+      "ticketsNote": "Prefer Directorate e-tickets; single-entry; do not invent UZS."
+    },
+    "etiquette": {
+      "intro": "Historic madrasa square — modest dress, no climbing.",
+      "bullets": [
+        "Modest dress in active prayer corners if any.",
+        "No climbing iwans; respect restoration scaffolding.",
+        "Do not invent “one ticket for all Samarkand monuments.”",
+        "Threshold Atlas tone: Timurid–Ulugh Beg educational square + Silk Road urban piety."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Registan in Samarkand.",
+      "paragraphs": [
+        "Base in Samarkand — Afrosiyob high-speed rail from Tashkent is a common approach. From your hotel, walk or take a short taxi to Registan square.",
+        "Hold a Directorate e-ticket (tickets.registon.uz) before the gate. Do not buy from street scalpers promising “same price.”",
+        "Bibi-Khanym and Shah-i-Zinda are separate monuments with separate tickets and walking time — do not invent a city-wide pass."
+      ],
+      "bullets": [
+        "Tashkent → Afrosiyob → Samarkand base",
+        "Walk / taxi to Registan square",
+        "tickets.registon.uz before the gate",
+        "Bibi-Khanym / Shah-i-Zinda = separate"
+      ]
+    },
+    "bestTime": {
+      "intro": "Day for tile; evening light with single-entry planning.",
+      "paragraphs": [
+        "Daylight is best for tile detail inside the three madrasas. Evening illumination is popular — because tickets are typically single-entry, decide whether you stay through dusk before you exit.",
+        "Seasonal closing times shift (midnight-class summer vs earlier winter) — verify registon.uz rather than inventing a fixed clock."
+      ],
+      "bullets": [
+        "Best tile detail: daytime visit",
+        "Evening illumination: plan single-entry",
+        "Verify seasonal hours on registon.uz",
+        "Midday heat on open plaza"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm hours and fares on registon.uz / tickets.registon.uz — do not invent UZS.",
+        "Single-entry honesty; Bibi-Khanym / Shah-i-Zinda separate.",
+        "E-visa / LOI soft blocker for some passports — state without fearmongering.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "sukhothai",
+    "name": "Sukhothai Historical Park (อุทยานประวัติศาสตร์สุโขทัย), Sukhothai",
+    "shortName": "Sukhothai",
+    "location": "Sukhothai Historical Park, Sukhothai Province",
+    "country": "Thailand",
+    "region": "Southeast Asia",
+    "regionSlug": "southeast-asia",
+    "religions": [
+      "Buddhist"
+    ],
+    "religionSlugs": [
+      "buddhist"
+    ],
+    "summary": "UNESCO Historic Town of Sukhothai — Fine Arts Department three-zone park (inner / north external Wat Si Chum–Wat Phra Phai Luang / west Aranyik) with Thai vs foreign tiers when published. Official info finearts.go.th/sukhothaihistoricalpark. Do not invent THB; Si Satchanalai and Kamphaeng Phet are separate sister parks.",
+    "heroImage": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Sukhothai kingdom capital from 13th c.; UNESCO Historic Town salvage landscape under Fine Arts Department",
+      "patron": "Buddhist — Sukhothai Theravada royal-temple landscape (active wats nearby; park monuments under Fine Arts)",
+      "unesco": "UNESCO World Heritage — Historic Town of Sukhothai and Associated Historic Towns",
+      "typicalVisit": "Half to full day with bicycle / e-bike; three-zone fees honesty; sister parks need separate days"
+    },
+    "related": [
+      "ayutthaya",
+      "wat-phra-kaew",
+      "bagan"
+    ],
+    "overview": {
+      "body": [
+        "Sukhothai Historical Park is the UNESCO Historic Town of the early Thai capital — Wat Mahathat and peer royal-temple ruins under the Fine Arts Department, the remaining Thai sacred historic-city mega after Ayutthaya.",
+        "Frame the visit as Sukhothai kingdom Buddhist kingship + UNESCO historic town — not “ruin bike park only.” Shoulders and knees covered at active wats; no climbing buddha images or restricted bricks.",
+        "Official tickets: Fine Arts Department — three separate zone fees (inner / north external Wat Si Chum–Wat Phra Phai Luang / west Aranyik) with Thai vs foreign tiers when published. Vehicle fees separate. Verify finearts.go.th/sukhothaihistoricalpark / park desk. Do not invent THB; do not treat random OTA “Sukhothai pass” as Fine Arts without verify.",
+        "Inner zone commonly ~06:30–19:30 (Sat often later with lights) — verify Fine Arts / park desk. Early for heat; sunset at Wat Mahathat is popular — leave last-entry buffer.",
+        "Soft blockers: which wats sit on which zone ticket; bicycle heat; rainy-season paths; do not invent “Ayutthaya ticket works here”; Si Satchanalai and Kamphaeng Phet are sister UNESCO parks on separate days. SanctaWay is informational — it does not sell tickets or grant access."
+      ],
+      "highlights": [
+        "UNESCO Historic Town — Sukhothai kingdom wats",
+        "Fine Arts three-zone fees honesty",
+        "Verify finearts.go.th/sukhothaihistoricalpark",
+        "Do not invent THB or fake OTA passes",
+        "Si Satchanalai / Kamphaeng Phet = separate"
+      ]
+    },
+    "visit": {
+      "intro": "Fine Arts three-zone park — verify which wats on which ticket.",
+      "hours": "Inner zone commonly ~06:30–19:30 (Sat often later with lights) — verify finearts.go.th/sukhothaihistoricalpark / park desk. Early for heat; sunset Wat Mahathat needs last-entry buffer.",
+      "tickets": "Fine Arts Department — three separate zone fees (inner / north external / west Aranyik) with Thai vs foreign tiers when published. Vehicle fees separate. Verify park desk / finearts.go.th/sukhothaihistoricalpark. Do not invent THB; OTA “Sukhothai pass” ≠ Fine Arts without verify.",
+      "dress": "Sacred Sukhothai Buddhist royal-temple landscape — shoulders/knees covered at active wats; no climbing buddha images / restricted bricks.",
+      "duration": "Half day for inner-zone highlights by bicycle; full day if adding north/west zones and slow photography.",
+      "access": "Fly or train to Sukhothai or Phitsanulok + transfer; rent bicycle / e-bike inside the inner zone. Si Satchanalai / Kamphaeng Phet are sister UNESCO parks — separate days, not one ticket.",
+      "tips": [
+        "Buy Fine Arts zone tickets at official desks — know which zone you need.",
+        "Do not invent THB; Thai vs foreign tiers differ — verify live.",
+        "Do not trust random OTA “Sukhothai pass” without Fine Arts confirmation.",
+        "Bicycle + heat: water, hat, midday shade.",
+        "No climbing buddha images or restricted bricks.",
+        "Sunset at Wat Mahathat: leave last-entry buffer.",
+        "Si Satchanalai / Kamphaeng Phet need separate days — Ayutthaya ticket does not work here."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://www.finearts.go.th/sukhothaihistoricalpark",
+      "ticketsLabel": "Fine Arts — Sukhothai Historical Park (three-zone tickets)",
+      "ticketsNote": "Three-zone fees via Fine Arts; do not invent THB; sister parks separate."
+    },
+    "etiquette": {
+      "intro": "Sacred royal-temple landscape — cover up, do not climb.",
+      "bullets": [
+        "Shoulders and knees covered at active park wats.",
+        "No climbing buddha images or restricted bricks.",
+        "Do not invent “one ticket for all associated historic towns.”",
+        "Threshold Atlas tone: Sukhothai kingdom Buddhist kingship + UNESCO historic town."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Sukhothai Historical Park.",
+      "paragraphs": [
+        "Fly or take the train toward Sukhothai or Phitsanulok, then transfer by bus, songthaew, or taxi to the Historical Park. Many visitors base overnight in New Sukhothai or near the park gate.",
+        "Inside the inner zone, rent a bicycle or e-bike to cover Wat Mahathat and peer monuments without midday walking exhaustion. Confirm which zone ticket you hold before riding north or west.",
+        "Si Satchanalai and Kamphaeng Phet are sister UNESCO historic towns — plan separate days and separate Fine Arts tickets; do not invent a shared pass with Ayutthaya."
+      ],
+      "bullets": [
+        "Sukhothai / Phitsanulok + transfer to park",
+        "Bicycle / e-bike for inner zone",
+        "Three-zone ticket honesty",
+        "Sister parks = separate days"
+      ]
+    },
+    "bestTime": {
+      "intro": "Early for heat; sunset Mahathat with last-entry buffer.",
+      "paragraphs": [
+        "Early morning bicycle circuits usually beat the heat and tour vans. Sunset at Wat Mahathat is popular — leave a real last-entry buffer rather than inventing after-hours access.",
+        "Saturday evening lights may extend inner-zone hours when published — verify Fine Arts / park desk rather than assuming every night."
+      ],
+      "bullets": [
+        "Best: early bicycle circuit",
+        "Sunset Mahathat: last-entry buffer",
+        "Verify Sat lights / seasonal hours",
+        "Rainy-season path honesty"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm three-zone fees on finearts.go.th/sukhothaihistoricalpark — do not invent THB.",
+        "Si Satchanalai / Kamphaeng Phet / Ayutthaya tickets are separate products.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "rila-monastery",
+    "name": "Rila Monastery / Monastery of Saint Ivan of Rila (Рилски манастир), Bulgaria",
+    "shortName": "Rila Monastery",
+    "location": "Rila Mountains, Kyustendil Province",
+    "country": "Bulgaria",
+    "region": "Europe",
+    "regionSlug": "europe",
+    "religions": [
+      "Christian"
+    ],
+    "religionSlugs": [
+      "christian"
+    ],
+    "summary": "UNESCO Bulgarian Orthodox mega — stavropegial Monastery of Saint Ivan of Rila. Grounds and main church generally free; museum / ethnographic / history products paid on site per monastery cennik — rilskimanastir.org. Do not invent BGN/EUR; mountain transport and feast-day crush honesty. Not an Athos-style permit site (Athos stays deferred).",
+    "heroImage": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Ivan of Rila hermitage tradition (10th c.); rebuilt monastery complex centuries later; national Orthodox pilgrimage",
+      "patron": "Christian — Bulgarian Orthodox (stavropegial monastery; living liturgical life)",
+      "unesco": "UNESCO World Heritage — Rila Monastery",
+      "typicalVisit": "2–4 hours courtyard + church + optional museums; winter mountain road honesty"
+    },
+    "related": [
+      "jasna-gora",
+      "montserrat",
+      "st-basils"
+    ],
+    "overview": {
+      "body": [
+        "Rila Monastery is Bulgaria’s UNESCO Orthodox mega — the stavropegial house of Saint Ivan of Rila in the Rila Mountains, still a national pilgrimage and top tourist site without Athos-style access permits.",
+        "Frame the visit as Ivan of Rila hermitage + national Orthodox devotion — not “colorful courtyard Instagram only.” Shoulders and knees covered in church; head covering often expected for women; silence during services; no flash toward the iconostasis.",
+        "Official access: complex and main church generally free; museum, ethnographic, and history products paid on site per monastery cennik — rilskimanastir.org. Do not invent BGN/EUR; do not sell “skip-the-line into the altar” as a ticket product.",
+        "Monastery / main church commonly early morning–evening class (seasonal Fri–Sun later close) — verify rilskimanastir.org. Museums shorter hours (~08:30–16:30 class; summer extensions). Early weekday for thinner courtyard; feast of St Ivan (1 Jul / 19 Oct class) = expect crush.",
+        "Soft blockers: mountain weather and last bus; museum vs free courtyard confusion; liturgy vs tourist route; do not invent Athos-style diamonitirion (Rila is open; Athos stays deferred). SanctaWay is informational — it does not sell tickets or grant access."
+      ],
+      "highlights": [
+        "UNESCO Bulgarian Orthodox national monastery",
+        "Grounds / main church generally free",
+        "Museums paid via rilskimanastir.org cennik",
+        "Do not invent BGN/EUR or altar skip-the-line",
+        "Mountain transport + feast-day crush honesty"
+      ]
+    },
+    "visit": {
+      "intro": "Free Orthodox courtyard — museums paid; mountain road honesty.",
+      "hours": "Monastery / main church commonly early morning–evening class (seasonal Fri–Sun later close) — verify rilskimanastir.org. Museums shorter (~08:30–16:30 class; summer extensions). Early weekday for thinner courtyard; feast days = crush.",
+      "tickets": "Complex / main church generally free; museum / ethnographic / history products paid on site per monastery cennik — rilskimanastir.org. Do not invent BGN/EUR; do not sell “skip-the-line into the altar.”",
+      "dress": "Active Bulgarian Orthodox stavropegial monastery — shoulders/knees covered in church; head covering often expected for women; silence during services; no flash toward iconostasis.",
+      "duration": "2–4 hours courtyard + church; add museum time; feast days need hours of buffer.",
+      "access": "Sofia → Rila village / monastery by bus / tour / car (~2–2.5 h). Mountain road — winter snow honesty. Overnight nearby common for feast days. Last-bus timing matters.",
+      "tips": [
+        "Check rilskimanastir.org for hours and museum cennik.",
+        "Do not invent BGN/EUR; grounds free ≠ museums.",
+        "Dress for church — shoulders/knees; women often cover heads.",
+        "Silence and no flash during services / at iconostasis.",
+        "Mountain weather and last bus — plan the return.",
+        "Feast of St Ivan: expect crush (1 Jul / 19 Oct class).",
+        "Rila is open — do not invent Athos-style permits (Athos stays deferred)."
+      ],
+      "entryType": "free",
+      "ticketsUrl": "https://rilskimanastir.org/",
+      "ticketsLabel": "Rila Monastery — official site / museum cennik",
+      "ticketsNote": "Grounds/church free; museums paid on site; do not invent BGN/EUR."
+    },
+    "etiquette": {
+      "intro": "Living Orthodox monastery — silence in church.",
+      "bullets": [
+        "Shoulders and knees covered in church; women often cover heads.",
+        "Silence during services; no flash toward the iconostasis.",
+        "Museum tickets are separate from free courtyard access.",
+        "Threshold Atlas tone: Ivan of Rila hermitage + national Orthodox devotion."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Rila Monastery from Sofia.",
+      "paragraphs": [
+        "From Sofia, take a bus, organized tour, or car toward Rila village and the monastery (~2–2.5 hours). The final approach is a mountain road — winter snow and fog are real soft blockers.",
+        "Courtyard and main church entry are generally free; buy museum tickets only if you want those products. Do not invent a paid “altar access” ticket.",
+        "Confirm the last return bus before you linger for sunset photos — overnight stays nearby are common on feast days."
+      ],
+      "bullets": [
+        "Sofia → bus / tour / car (~2–2.5 h)",
+        "Mountain road — winter honesty",
+        "Grounds free; museums on-site cennik",
+        "Last-bus timing matters"
+      ]
+    },
+    "bestTime": {
+      "intro": "Early weekday courtyard; feast days mean crush.",
+      "paragraphs": [
+        "Early weekdays usually mean a quieter courtyard and easier church entry. Summer museum hours often extend — verify rilskimanastir.org.",
+        "Feast of St Ivan (1 Jul / 19 Oct class) brings national pilgrimage crush — expect long lines and fuller buses rather than inventing a quiet feast-day visit."
+      ],
+      "bullets": [
+        "Best: early weekday morning",
+        "Verify museum seasonal hours",
+        "Feast days: crush honesty",
+        "Winter mountain road soft blocker"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm hours and museum cennik on rilskimanastir.org — do not invent BGN/EUR.",
+        "Grounds/church free ≠ museums; liturgy vs tourist route honesty.",
+        "Athos stays deferred — Rila does not use Athos-style permits.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "sheikh-lotfollah",
+    "name": "Sheikh Lotfollah Mosque (مسجد شیخ لطف‌الله), Naqsh-e Jahan, Isfahan",
+    "shortName": "Sheikh Lotfollah",
+    "location": "Naqsh-e Jahan (Meidan Emam) east side, Isfahan",
+    "country": "Iran",
+    "region": "Middle East",
+    "regionSlug": "middle-east",
+    "religions": [
+      "Islamic"
+    ],
+    "religionSlugs": [
+      "islamic"
+    ],
+    "summary": "UNESCO Meidan Emam Safavid private mosque on Naqsh-e Jahan’s east side — reverse-dome masterpiece separate from live Imam Mosque. Square free; mosque separate heritage-desk ticket (Iranian vs foreign tiers). Friday / mourning / prayer closures for tourist entry. Cash IRR honesty — foreign cards often fail. Do not invent IRR/USD or “one Meidan ticket.”",
+    "heroImage": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Safavid Shah Abbas I era (early 17th c.); private royal-household mosque on Meidan Emam east",
+      "patron": "Islamic — Twelver Shiʿa historic mosque (heritage care; tourist entry under ICHTO rules)",
+      "unesco": "UNESCO World Heritage — Meidan Emam, Esfahan",
+      "typicalVisit": "45–75 minutes interior dome visit; separate ticket from Imam Mosque / Ali Qapu"
+    },
+    "related": [
+      "imam-mosque-isfahan",
+      "registan",
+      "alhambra"
+    ],
+    "overview": {
+      "body": [
+        "Sheikh Lotfollah Mosque anchors the east side of Isfahan’s Naqsh-e Jahan — the Safavid private mosque built for the royal household, famous for its peç reverse dome and the quiet interior that completes the Meidan Emam set beside Imam Mosque.",
+        "Frame the visit as Safavid private mosque for the royal household + peç reverse-dome honesty — not “empty pink-tile room only.” Historic mosque under heritage care: women headscarf + modest dress (loan/rent common on the square); men covered shoulders/knees; remove shoes; quiet.",
+        "Official tickets: mosque separate heritage-desk ticket (Iranian vs foreign tiers). Square free. Imam Mosque and Ali Qapu are separate products — do not invent “one Meidan ticket.” Prefer site desk / ICHTO over random OTA. Foreign cards often fail — cash IRR / tourist debit honesty. Do not invent IRR/USD.",
+        "Heritage window commonly morning–afternoon class (~09:00–16:30 published class); Friday / mourning / prayer closures for tourist entry — verify on-site / ICHTO notices. Interior dome light is the visit — midday sun angle matters.",
+        "Soft blockers: Isfahan stacking after Imam Mosque — this page earns keep with separate-ticket logistics and dome-visit depth; visa/geopolitics soft blocker without fearmongering; do not invent a bundle with Imam. SanctaWay is informational — it does not sell tickets or grant access."
+      ],
+      "highlights": [
+        "UNESCO Meidan Emam Safavid private mosque",
+        "Separate ticket from Imam Mosque / Ali Qapu",
+        "Friday / mourning / prayer tourist closures",
+        "Cash IRR honesty — do not invent fares",
+        "Interior reverse-dome light is the visit"
+      ]
+    },
+    "visit": {
+      "intro": "Separate Naqsh-e Jahan ticket — dome interior; not bundled with Imam.",
+      "hours": "Heritage window commonly morning–afternoon class (~09:00–16:30 published class); Friday / mourning / prayer closures for tourist entry — verify on-site / ICHTO notices. Midday sun angle matters for dome light.",
+      "tickets": "Mosque separate heritage-desk ticket (Iranian vs foreign tiers). Square free. Imam Mosque + Ali Qapu separate. Prefer site desk / ICHTO over random OTA. Foreign cards often fail — cash IRR honesty. Do not invent IRR/USD; do not invent “one Meidan ticket.”",
+      "dress": "Historic mosque under heritage care — women: headscarf + modest dress (loan/rent common on square); men: covered shoulders/knees; remove shoes; quiet.",
+      "duration": "45–75 minutes for the interior dome visit; buffer separately for Imam Mosque and Ali Qapu.",
+      "access": "Isfahan Naqsh-e Jahan east side — walk from Imam Mosque / Ali Qapu. Separate ticket from Imam Mosque — do not invent “one Meidan ticket.”",
+      "tips": [
+        "Buy Lotfollah’s own heritage ticket — square walking is free.",
+        "Do not invent IRR/USD; foreign/domestic tiers differ — verify live.",
+        "Imam Mosque and Ali Qapu need separate tickets.",
+        "Expect Friday / mourning / prayer tourist closures.",
+        "Foreign cards often fail — plan cash IRR honestly.",
+        "Women: headscarf required; on-site loan/rent common on the square.",
+        "Dome light is the visit — midday sun angle matters."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://whc.unesco.org/en/list/115/",
+      "ticketsLabel": "Meidan Emam UNESCO — buy Lotfollah ticket at site heritage desk",
+      "ticketsNote": "Separate from Imam Mosque; square free; do not invent IRR; cash honesty."
+    },
+    "etiquette": {
+      "intro": "Historic mosque on a UNESCO square — dress and silence.",
+      "bullets": [
+        "Women: headscarf + modest dress; men: covered shoulders/knees.",
+        "Remove shoes; quiet inside the dome chamber.",
+        "Do not invent “one ticket for the whole square.”",
+        "Threshold Atlas tone: Safavid private mosque + peç reverse-dome honesty."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Sheikh Lotfollah on Naqsh-e Jahan.",
+      "paragraphs": [
+        "Stay in Isfahan and walk to Naqsh-e Jahan (Meidan Emam). Sheikh Lotfollah occupies the east side of the square, a short walk from Imam Mosque and Ali Qapu.",
+        "Walking the square is free. Buy Lotfollah’s own heritage ticket before entering — do not assume Imam Mosque’s ticket covers this mosque.",
+        "Allow real time between monuments — each has its own queue, shoe rack, and ticket check."
+      ],
+      "bullets": [
+        "Isfahan base → walk to Meidan Emam east",
+        "Square free; Lotfollah ticket at heritage desk",
+        "Imam Mosque / Ali Qapu = separate + buffer",
+        "Cash IRR soft blocker for many foreigners"
+      ]
+    },
+    "bestTime": {
+      "intro": "Dome light angle; avoid Friday tourist closures.",
+      "paragraphs": [
+        "Interior dome light is the reason to enter — midday sun angle often shows the peç at its best, but verify the published tourist window rather than inventing after-hours access.",
+        "Friday, mourning days, and prayer periods often close tourist entry — verify on the day rather than inventing a fixed weekly map."
+      ],
+      "bullets": [
+        "Best: published tourist window for dome light",
+        "Verify Friday / mourning / prayer closures",
+        "Evening square light ≠ interior access",
+        "Separate ticket from Imam Mosque"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm hours and desk prices on site / ICHTO notices — do not invent IRR/USD.",
+        "Separate ticket from Imam Mosque / Ali Qapu; square free ≠ mosque entry.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "aachen-cathedral",
+    "name": "Aachen Cathedral / Kaiserdom (Aachener Dom), Aachen",
+    "shortName": "Aachen Cathedral",
+    "location": "Domplatz, Aachen, North Rhine-Westphalia",
+    "country": "Germany",
+    "region": "Europe",
+    "regionSlug": "europe",
+    "religions": [
+      "Christian"
+    ],
+    "religionSlugs": [
+      "christian"
+    ],
+    "summary": "UNESCO Carolingian Palatine Chapel of Charlemagne — imperial coronation church, not a NW Gothic clone. Cathedral / nave visit generally free; Domschatz treasury paid via Cathedral Information / aachenerdom.de / aachener-domschatz.de (online sales may be suspended — verify live). Liturgy vs tourist route honesty. Do not invent EUR.",
+    "heroImage": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Carolingian Palatine Chapel under Charlemagne (late 8th–early 9th c.); later Gothic choir and additions; imperial coronation church",
+      "patron": "Christian — Roman Catholic cathedral (active liturgy + UNESCO monument)",
+      "unesco": "UNESCO World Heritage — Aachen Cathedral",
+      "typicalVisit": "45–90 minutes nave / Palatine Chapel; Domschatz adds time; Mass closures of tourist routes"
+    },
+    "related": [
+      "cologne-cathedral",
+      "notre-dame",
+      "chartres"
+    ],
+    "overview": {
+      "body": [
+        "Aachen Cathedral (Aachener Dom / Kaiserdom) is UNESCO’s Carolingian Palatine Chapel of Charlemagne — the imperial coronation church whose octagon and later choir still differentiate it from NW Europe’s Gothic cathedral stack.",
+        "Frame the visit as Charlemagne Palatine Chapel + imperial coronation church honesty — not “golden mosaic selfie only.” Active Catholic cathedral: shoulders and knees covered; silence during liturgy; no tourist walking through Mass.",
+        "Official tickets: cathedral / nave visit generally free; Domschatz treasury paid via Cathedral Information / aachenerdom.de / aachener-domschatz.de (on-site Dominformation — online sales may be suspended; verify live). Guided choir / chapel products separate when offered. Do not invent EUR; do not sell “skip-the-line into the shrine” myth.",
+        "Cathedral worship / visit windows commonly daytime with Mass / feast closures of tourist routes — verify aachenerdom.de. Domschatzkammer (treasury) shorter hours (often Mon early close) — verify treasury pages / Dominformation.",
+        "Soft blockers: liturgy vs tourist route; treasury ≠ cathedral entry; wheelchair / stair honesty in historic fabric; do not frame as another NW Gothic clone — the Carolingian core is the differentiator. Day-trip mesh with Cologne without cloning Gothic prose. SanctaWay is informational — it does not sell tickets or grant access."
+      ],
+      "highlights": [
+        "UNESCO Carolingian Palatine Chapel of Charlemagne",
+        "Cathedral / nave generally free",
+        "Domschatz treasury paid — aachenerdom.de",
+        "Liturgy vs tourist route honesty",
+        "Do not invent EUR or shrine skip-the-line"
+      ]
+    },
+    "visit": {
+      "intro": "Free Carolingian cathedral — Domschatz paid; liturgy closures.",
+      "hours": "Cathedral worship / visit windows commonly daytime with Mass / feast closures of tourist routes — verify aachenerdom.de. Domschatz shorter hours (often Mon early close) — verify treasury pages / Dominformation.",
+      "tickets": "Cathedral / nave generally free; Domschatz treasury paid via Cathedral Information / aachenerdom.de / aachener-domschatz.de (online sales may be suspended — verify live). Guided choir / chapel products separate when offered. Do not invent EUR; do not sell “skip-the-line into the shrine.”",
+      "dress": "Active Catholic cathedral + UNESCO — shoulders/knees covered; silence during liturgy; no tourist walking through Mass.",
+      "duration": "45–90 minutes nave / Palatine Chapel; add Domschatz time; feast days need buffer for liturgy closures.",
+      "access": "Aachen Hbf → short walk / bus to Domplatz. Day-trip from Cologne / Brussels / Maastricht common — mesh with Cologne Cathedral without cloning Gothic prose (Aachen is Carolingian + later additions).",
+      "tips": [
+        "Check aachenerdom.de for visit windows and Mass closures.",
+        "Do not invent EUR; cathedral free ≠ Domschatz.",
+        "Treasury tickets via Dominformation / aachener-domschatz.de — verify if online sales are live.",
+        "Dress for an active cathedral — shoulders and knees covered.",
+        "Do not walk through Mass as a tourist route.",
+        "Wheelchair / stair limits in historic fabric — verify access notes.",
+        "Carolingian core is the differentiator — not another Gothic clone day."
+      ],
+      "entryType": "free",
+      "ticketsUrl": "https://www.aachenerdom.de/",
+      "ticketsLabel": "Aachen Cathedral — aachenerdom.de / Domschatz",
+      "ticketsNote": "Cathedral free; Domschatz paid; verify live; do not invent EUR."
+    },
+    "etiquette": {
+      "intro": "Active cathedral — silence during liturgy.",
+      "bullets": [
+        "Shoulders and knees covered in the cathedral.",
+        "Silence during Mass; no tourist walking through liturgy.",
+        "Domschatz is a separate paid product from free nave access.",
+        "Threshold Atlas tone: Charlemagne Palatine Chapel + imperial coronation church."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Aachen Cathedral.",
+      "paragraphs": [
+        "Arrive at Aachen Hbf, then walk or take a short bus to Domplatz. The cathedral sits in the historic core a few minutes from the station on foot for most visitors.",
+        "Nave / cathedral visit is generally free; buy Domschatz tickets only if you want the treasury. Do not invent a paid “shrine skip-the-line” product.",
+        "Day-trips from Cologne, Brussels, or Maastricht are common — treat Cologne Cathedral as a peer day, not a cloned Gothic page."
+      ],
+      "bullets": [
+        "Aachen Hbf → walk / bus to Domplatz",
+        "Cathedral free; Domschatz at Dominformation",
+        "Mass closures of tourist routes",
+        "Cologne day-trip peer — not Gothic clone prose"
+      ]
+    },
+    "bestTime": {
+      "intro": "Daytime visit windows; avoid Mass tourist closures.",
+      "paragraphs": [
+        "Daytime visit windows outside Mass usually give the calmest look at the Palatine Chapel. Feast days and major liturgies close tourist routes — verify aachenerdom.de.",
+        "Domschatz often closes earlier than the cathedral and may have Monday early close — check treasury hours separately rather than inventing a shared timetable."
+      ],
+      "bullets": [
+        "Best: daytime non-Mass visit window",
+        "Verify feast / Mass closures on aachenerdom.de",
+        "Domschatz: separate shorter hours",
+        "Carolingian differentiator vs Gothic peers"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm visit windows and Domschatz fares on aachenerdom.de — do not invent EUR.",
+        "Cathedral free ≠ treasury; liturgy vs tourist route honesty.",
+        "Carolingian Palatine Chapel is the differentiator — not Gothic clone padding.",
         "SanctaWay is informational; it does not sell tickets or grant access.",
         "Hero image is an Unsplash placeholder pending visual / Commons pass."
       ]

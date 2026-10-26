@@ -1634,7 +1634,7 @@
     "related": [
       "milan-duomo",
       "sagrada-familia",
-      "basilica-san-marco"
+      "san-francesco-assisi"
     ],
     "overview": {
       "body": [
@@ -1749,7 +1749,7 @@
     "related": [
       "chichen-itza",
       "st-peters",
-      "aparecida"
+      "lujan"
     ],
     "overview": {
       "body": [
@@ -2663,7 +2663,7 @@
     "related": [
       "lumbini",
       "borobudur",
-      "temple-of-the-tooth"
+      "sanchi"
     ],
     "overview": {
       "body": [
@@ -2776,7 +2776,7 @@
     "related": [
       "meenakshi",
       "golden-temple",
-      "mahabodhi"
+      "pashupatinath"
     ],
     "overview": {
       "body": [
@@ -3115,7 +3115,7 @@
     "related": [
       "chartres",
       "cologne-cathedral",
-      "canterbury-cathedral"
+      "st-pauls-cathedral"
     ],
     "overview": {
       "body": [
@@ -3806,7 +3806,7 @@
     "related": [
       "lumbini",
       "mahabodhi",
-      "potala"
+      "boudhanath"
     ],
     "overview": {
       "body": [
@@ -4728,7 +4728,7 @@
     "related": [
       "mahabodhi",
       "paro-taktsang",
-      "borobudur"
+      "boudhanath"
     ],
     "overview": {
       "body": [
@@ -5647,7 +5647,7 @@
     "related": [
       "kashi-vishwanath",
       "golden-temple",
-      "hampi"
+      "pashupatinath"
     ],
     "overview": {
       "body": [
@@ -6787,7 +6787,7 @@
     "related": [
       "chichen-itza",
       "teotihuacan",
-      "palenque"
+      "copan"
     ],
     "overview": {
       "body": [
@@ -8154,7 +8154,7 @@
     "related": [
       "tikal",
       "chichen-itza",
-      "teotihuacan"
+      "copan"
     ],
     "overview": {
       "body": [
@@ -8608,7 +8608,7 @@
     "related": [
       "ellora",
       "mahabodhi",
-      "yungang-grottoes"
+      "sanchi"
     ],
     "overview": {
       "body": [
@@ -8833,7 +8833,7 @@
     "related": [
       "ellora",
       "ajanta",
-      "yungang-grottoes"
+      "mogao-caves"
     ],
     "overview": {
       "body": [
@@ -9059,7 +9059,7 @@
     "related": [
       "guadalupe",
       "lourdes",
-      "fatima"
+      "lujan"
     ],
     "overview": {
       "body": [
@@ -9172,7 +9172,7 @@
     "related": [
       "florence-duomo",
       "milan-duomo",
-      "st-peters"
+      "san-francesco-assisi"
     ],
     "overview": {
       "body": [
@@ -9511,7 +9511,7 @@
     "related": [
       "longmen-grottoes",
       "ajanta",
-      "ellora"
+      "mogao-caves"
     ],
     "overview": {
       "body": [
@@ -9851,7 +9851,7 @@
     "related": [
       "westminster-abbey",
       "chartres",
-      "notre-dame"
+      "st-pauls-cathedral"
     ],
     "overview": {
       "body": [
@@ -10045,6 +10045,903 @@
       "bullets": [
         "Confirm hours and tariffs on tiwanaku.gob.bo.",
         "Do not invent BOB; cash at official boletería; altitude honesty.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "mogao-caves",
+    "name": "Mogao Caves (莫高窟), Dunhuang",
+    "shortName": "Mogao Caves",
+    "location": "Dunhuang, Gansu",
+    "country": "China",
+    "region": "East Asia",
+    "regionSlug": "east-asia",
+    "religions": [
+      "Buddhist"
+    ],
+    "religionSlugs": [
+      "buddhist"
+    ],
+    "summary": "UNESCO Silk Road cave crown at Dunhuang — real-name timed booking only via Academy WeChat 莫高窟参观预约网 (foreign passport / HK·Macau·Taiwan: Ticket Booking). Start at Mogao Digital Exhibition Center; no ticket office at the cliff caves. Hard-warn third-party sellers. Do not invent CNY.",
+    "heroImage": "https://images.unsplash.com/photo-1508804185872-d7aad8140000?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Silk Road Buddhist cave temples from 4th c.; Dunhuang Academy stewardship; UNESCO World Heritage",
+      "patron": "Buddhist — Silk Road Dharma patronage landscape",
+      "unesco": "UNESCO World Heritage — Mogao Caves",
+      "typicalVisit": "Half to full day: Digital Exhibition Center films + timed cliff-cave circuit"
+    },
+    "related": [
+      "yungang-grottoes",
+      "longmen-grottoes",
+      "ajanta"
+    ],
+    "overview": {
+      "body": [
+        "The Mogao Caves east of Dunhuang are China’s Silk Road cave-temple crown — murals and sculpture across cliff-cut chapels under Dunhuang Academy stewardship. They deepen East Asia Buddhist coverage as the natural China caves follow-on after live Yungang and Longmen.",
+        "Frame the visit as Silk Road Dharma patronage landscape, not a cave selfie trail. No photography / no flash / no touching murals or statues inside caves; quiet throughout. Threshold Atlas tone stays conservation-first.",
+        "Official tickets: real-name timed booking only via the Academy WeChat service account / mini-program 莫高窟参观预约网. Foreign passport and HK·Macau·Taiwan permit holders use menu 预约购票 → Ticket Booking. Agency web www.mgk.org.cn is travel-agency login, not individual checkout. Opening notices and policy statements live on dha.ac.cn. The Academy states it has authorized no third-party sellers — hard-warn Trip.com / Meituan / Xianyu / “internal channel” scalpers. Hotline is consult-only (no phone booking). Do not invent CNY.",
+        "Peak season (~1 Apr–30 Nov) commonly 08:00–18:00 with earlier last entry; off-peak (~1 Dec–31 Mar) shorter day — verify Dunhuang Academy notices on dha.ac.cn. Sandstorm or rain can close caves. Book days ahead in peak.",
+        "Soft blockers: arrive at the Mogao Digital Exhibition Center (阳关东路8899号) ≥30 minutes before your slot — the cliff cave zone has no ticket office or visitor parking. Regular visit = digital films + a limited set of open caves; emergency mode opens fewer caves with higher daily caps. Special caves (特窟) are a separate limited product after the main visit. Passport/ID must match. Mandarin-first UX."
+      ],
+      "highlights": [
+        "UNESCO Silk Road caves — Yungang / Longmen peer",
+        "WeChat 莫高窟参观预约网 only for individuals",
+        "Digital Exhibition Center first — no cave-zone ticket office",
+        "Hard-warn third-party / “internal channel” sellers",
+        "No invent CNY; no cave photography"
+      ]
+    },
+    "visit": {
+      "intro": "Timed real-name visit: Digital Center films first, then shuttle to limited open caves. Book only on Academy WeChat.",
+      "hours": "Peak ~1 Apr–30 Nov often 08:00–18:00 (last entry earlier); off-peak ~1 Dec–31 Mar shorter day — verify dha.ac.cn notices. Weather can close caves.",
+      "tickets": "Book only via Academy WeChat 莫高窟参观预约网 (foreign / HK·Macau·Taiwan: Ticket Booking). www.mgk.org.cn is agency login. Info: dha.ac.cn. Academy: no third-party authorized sellers. Hotline consult-only. Do not invent CNY.",
+      "dress": "Buddhist cave-temple UNESCO — modest practical dress for desert climate; no photography / flash / touching inside caves; quiet.",
+      "duration": "Half to full day including Digital Center films, shuttle, and cave circuit; special caves add time when offered.",
+      "access": "Fly/rail into Dunhuang (DNH); taxi/shuttle to Mogao Digital Exhibition Center first. Shuttle bus Digital Center → cliff caves after films. Passport/ID match required. Arrive ≥30 min before slot.",
+      "tips": [
+        "Book only on Academy WeChat 莫高窟参观预约网 — ignore Trip.com / Meituan / Xianyu / “internal channel” scalpers.",
+        "Go to the Digital Exhibition Center first; the cliff caves have no ticket office.",
+        "Arrive ≥30 minutes before your timed slot with matching passport/ID.",
+        "Expect limited open caves on a regular visit; emergency mode opens fewer caves.",
+        "特窟 (special caves) are a separate limited product after the main visit — do not invent access.",
+        "No photography, flash, or touching murals/statues inside caves.",
+        "Do not invent CNY; verify hours and products on dha.ac.cn before travel."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://www.dha.ac.cn/",
+      "ticketsLabel": "Dunhuang Academy (dha.ac.cn) — book individuals on WeChat 莫高窟参观预约网",
+      "ticketsNote": "WeChat only for individuals; Digital Center first; no third-party sellers; do not invent CNY."
+    },
+    "etiquette": {
+      "intro": "Silk Road cave temple — conservation and quiet first.",
+      "bullets": [
+        "No photography, flash, or touching inside caves.",
+        "Stay quiet; follow guide / steward routes.",
+        "Passport/ID must match your real-name ticket.",
+        "Threshold Atlas tone: Silk Road Dharma patronage, not cave selfie trail."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Mogao from Dunhuang.",
+      "paragraphs": [
+        "Fly or take rail into Dunhuang (DNH / Dunhuang station), then taxi or shuttle to the Mogao Digital Exhibition Center at 8899 Yangguan East Road — not directly to the cliff caves.",
+        "After digital films and ticket checks at the Center, Academy shuttles move visitors to the cave zone. There is no visitor parking or ticket office at the cliffs.",
+        "Build buffer for peak-season traffic and the ≥30-minute pre-slot arrival rule."
+      ],
+      "bullets": [
+        "DNH / rail → Digital Exhibition Center first",
+        "Shuttle Center → cliff caves after films",
+        "No cave-zone ticket office or visitor parking",
+        "Arrive ≥30 min before timed slot"
+      ]
+    },
+    "bestTime": {
+      "intro": "Book ahead in peak; desert weather can close caves.",
+      "paragraphs": [
+        "Peak (roughly Apr–Nov) has longer day windows and heavier demand — book days ahead. Off-peak is shorter and colder.",
+        "Sandstorm or rain closures happen; always recheck Academy notices the day before."
+      ],
+      "bullets": [
+        "Peak Apr–Nov = longer hours, book ahead",
+        "Off-peak Dec–Mar = shorter day",
+        "Weather can close caves",
+        "Verify dha.ac.cn before travel"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm hours and products on dha.ac.cn; book only on Academy WeChat.",
+        "Do not invent CNY; no third-party authorized sellers.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "pashupatinath",
+    "name": "Pashupatinath Temple, Kathmandu",
+    "shortName": "Pashupatinath",
+    "location": "Gaushala, Kathmandu",
+    "country": "Nepal",
+    "region": "South Asia",
+    "regionSlug": "south-asia",
+    "religions": [
+      "Hindu"
+    ],
+    "religionSlugs": [
+      "hindu"
+    ],
+    "summary": "Nepal’s holiest Shiva temple on the Bagmati — PADT complex. Main sanctum Hindus only; non-Hindus welcome on ghats / gardens / surrounding shrines and may observe evening aarti from the east bank. Heritage entry tiers via NTB — verify live; do not invent NPR. No sanctum photography; cremation ghat ethics.",
+    "heroImage": "https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Living Pashupati Area Development Trust Hindu temple on the Bagmati; UNESCO Kathmandu Valley context",
+      "patron": "Hindu — Shiva (Pashupati) pilgrimage + Bagmati last-rites landscape",
+      "unesco": "UNESCO World Heritage context — Kathmandu Valley",
+      "typicalVisit": "Half day complex + aarti windows; sanctum access Hindus only"
+    },
+    "related": [
+      "kashi-vishwanath",
+      "meenakshi",
+      "boudhanath"
+    ],
+    "overview": {
+      "body": [
+        "Pashupatinath on the Bagmati is Nepal’s holiest Shiva temple — a multi-zone PADT complex of main sanctum, surrounding shrines, Arya Ghat cremation banks, and east-bank terraces. It fills the South Asia living-darshan gap still open after Tirupati / Meenakshi / Hampi.",
+        "Frame the visit as living Shiva pilgrimage and Bagmati last-rites landscape, not death tourism. Modest dress; leather items often restricted near sanctum; no photography inside the main sanctum; respectful distance at cremation ghats (no posing, no drone).",
+        "Access honesty (俞真 / PADT / NTB): the main sanctum is Hindus only. Non-Hindus are welcome on the ghats, gardens, and surrounding shrines, and may observe evening aarti from the east bank of the Bagmati. A visitor fee category or nationality waiver does not grant sanctum entry — follow gate staff.",
+        "Official tickets / complex: Pashupati Area Development Trust — pashupati.gov.np. Heritage entry tiers published via Nepal Tourism Board (ntb.gov.np) — nationality tiers (foreign / SAARC / Indian nationals often free at this site per NTB table) — verify live at the gate; do not invent NPR. Puja bookings via PADT Puja Office are separate from tourist entry.",
+        "Soft blockers: sanctum access split (state clearly without lecture); Maha Shivaratri and festival crush; cremation photography ethics; touts at Gaushala; combine with Boudhanath the same day only with buffer for aarti timing. Complex commonly ~04:00–21:00 class; aarti / mahabhishek schedule on pashupati.gov.np."
+      ],
+      "highlights": [
+        "Nepal’s holiest Shiva temple — Bagmati",
+        "Main sanctum Hindus only — state clearly",
+        "Non-Hindus: ghats / gardens / east-bank aarti",
+        "PADT + NTB tiers — verify live; no invent NPR",
+        "No sanctum photography; cremation ghat ethics"
+      ]
+    },
+    "visit": {
+      "intro": "Living PADT Hindu complex — Hindus-only sanctum; non-Hindus use ghats, gardens, surrounding shrines, and east-bank aarti viewing.",
+      "hours": "Complex commonly ~04:00–21:00; morning puja / mahabhishek / evening aarti windows on pashupati.gov.np. Maha Shivaratri is extreme peak. Verify live.",
+      "tickets": "Complex managed by PADT (pashupati.gov.np). Heritage entry tiers via Nepal Tourism Board (ntb.gov.np) — nationality tiers; verify live at gate; do not invent NPR. Main sanctum Hindus only regardless of fee category. Puja Office bookings ≠ tourist entry.",
+      "dress": "Living Hindu temple — modest dress; leather items often restricted near sanctum; shoes off where posted; no photography inside main sanctum.",
+      "duration": "Half day for complex + aarti window; more on festival days with capacity honesty.",
+      "access": "Fly into KTM; taxi / bus to Gaushala (~15–20 min from Thamel); walk into PADT complex. Main sanctum Hindus only. Non-Hindus: ghats, gardens, surrounding shrines, east-bank Bagmati aarti viewing.",
+      "tips": [
+        "State clearly: main sanctum is Hindus only — non-Hindus do not get casual sanctum entry.",
+        "Non-Hindus: use designated public areas and watch evening aarti from the east bank.",
+        "Verify heritage entry tiers at the gate / ntb.gov.np — do not invent NPR.",
+        "No photography inside the main sanctum; keep respectful distance at cremation ghats.",
+        "Leather items are often restricted near the sanctum — follow posted rules.",
+        "Maha Shivaratri and festival days need capacity honesty — expect crush.",
+        "Combine with Boudhanath only with traffic + aarti timing buffer."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://pashupati.gov.np/",
+      "ticketsLabel": "PADT (pashupati.gov.np) + NTB heritage fees — verify live at gate",
+      "ticketsNote": "Hindus-only sanctum. Non-Hindus: ghats / east bank. Do not invent NPR."
+    },
+    "etiquette": {
+      "intro": "Living Shiva pilgrimage — sanctum rules and ghat ethics first.",
+      "bullets": [
+        "Main sanctum Hindus only — follow gate staff without argument.",
+        "Modest dress; leather often restricted near sanctum.",
+        "No photography inside the main sanctum.",
+        "Cremation ghats: no posing, no drone, no death-tourism framing.",
+        "Threshold Atlas tone: living Pashupati + Bagmati last-rites landscape."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Pashupatinath from Kathmandu.",
+      "paragraphs": [
+        "Fly into Tribhuvan (KTM), then taxi or local bus to Gaushala (~15–20 minutes from Thamel). Walk into the PADT complex on the Bagmati.",
+        "The site is multi-zone: main sanctum, surrounding shrines, Arya Ghat banks, and east-bank terraces. Plan which zones your access rules allow.",
+        "Touts are common at Gaushala — use official PADT / NTB information for entry rules, not street sellers."
+      ],
+      "bullets": [
+        "KTM → taxi/bus to Gaushala",
+        "Multi-zone PADT complex on the Bagmati",
+        "Sanctum vs public zones — know your access",
+        "Ignore touts; verify PADT / NTB"
+      ]
+    },
+    "bestTime": {
+      "intro": "Morning and evening aarti windows; festival peaks are extreme.",
+      "paragraphs": [
+        "Morning puja and evening aarti are living liturgy, not a show. Arrive with buffer; do not treat aarti as entertainment.",
+        "Maha Shivaratri and major Shiva festivals bring extreme crowds — capacity honesty matters."
+      ],
+      "bullets": [
+        "Aarti windows = living liturgy",
+        "Maha Shivaratri = extreme peak",
+        "Verify schedule on pashupati.gov.np",
+        "Same-day Boudhanath needs buffer"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm sanctum access and hours on pashupati.gov.np; fees via ntb.gov.np / gate.",
+        "Hindus-only sanctum — do not imply casual non-Hindu entry.",
+        "Do not invent NPR; SanctaWay does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "boudhanath",
+    "name": "Boudhanath Stupa (बौद्धनाथ), Kathmandu",
+    "shortName": "Boudhanath",
+    "location": "Boudha, Kathmandu",
+    "country": "Nepal",
+    "region": "South Asia",
+    "regionSlug": "south-asia",
+    "religions": [
+      "Buddhist"
+    ],
+    "religionSlugs": [
+      "buddhist"
+    ],
+    "summary": "Kathmandu’s great Tibetan Buddhist stupa + clockwise kora — UNESCO valley sacred. On-site plaza gate tickets; cash NPR common; foreign / SAARC / Nepali tiers via NTB. No reliable official advance e-ticket. Pair with Pashupatinath with traffic buffer. Do not invent NPR.",
+    "heroImage": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Great Tibetan Buddhist stupa; Shree Boudhanath Area Development Committee; UNESCO Kathmandu Valley",
+      "patron": "Buddhist — Himalayan Tibetan kora culture",
+      "unesco": "UNESCO World Heritage context — Kathmandu Valley",
+      "typicalVisit": "1–3 hours plaza kora + monastery courtyards; dawn/dusk densest"
+    },
+    "related": [
+      "pashupatinath",
+      "paro-taktsang",
+      "lumbini"
+    ],
+    "overview": {
+      "body": [
+        "Boudhanath is Kathmandu’s great Tibetan Buddhist stupa — white dome, all-seeing eyes, and a continuous clockwise kora ringed by monasteries and rooftop cafés. It pairs with Pashupatinath for Nepal day-trip depth.",
+        "Frame the visit as Himalayan Buddhist kora culture, not a white-dome backdrop only. Walk clockwise; spin prayer wheels respectfully; modest dress in monastery courtyards; ask before photographing monks.",
+        "Official tickets: on-site booths at plaza entries. Heritage tiers via Nepal Tourism Board (ntb.gov.np) plus area committee contact (boudhanath.gov.np / listed NTB phone). Foreign / SAARC / Nepali tiers — cash NPR common; verify live; do not invent NPR. No reliable official advance e-ticket as of research — plan gate purchase. Keep stub until exit when checked.",
+        "Plaza / counters commonly early morning–evening class — verify on-site / boudhanath.gov.np when live. Dawn and dusk kora densest with practitioners; Lhosar and Buddha Jayanti are peaks.",
+        "Soft blockers: cash-only booths; festival queues; do not invent “rooftop monastery tickets”; guesthouse-inside-perimeter stays may change re-entry practice — confirm locally; combine with Pashupatinath with traffic buffer."
+      ],
+      "highlights": [
+        "UNESCO valley great stupa + clockwise kora",
+        "On-site gate tickets; cash NPR common",
+        "NTB nationality tiers — verify live",
+        "No reliable official advance e-ticket",
+        "Pair with Pashupatinath with buffer"
+      ]
+    },
+    "visit": {
+      "intro": "Living Tibetan Buddhist stupa plaza — buy on-site, walk clockwise kora, respect monastery courtyards.",
+      "hours": "Plaza / counters commonly early morning–evening — verify on-site / boudhanath.gov.np. Dawn and dusk kora densest. Festival peaks change flow.",
+      "tickets": "Buy at on-site plaza entry booths. Tiers via ntb.gov.np + boudhanath.gov.np contact. Foreign / SAARC / Nepali tiers; cash NPR common; keep stub. No reliable official advance e-ticket. Do not invent NPR.",
+      "dress": "Living Tibetan Buddhist stupa — modest dress in monastery courtyards; walk clockwise; respectful photography (ask before monks).",
+      "duration": "1–3 hours for kora + courtyards; longer if rooftop cafés and monastery visits.",
+      "access": "Taxi / bus to Boudha (east of center, near Pashupatinath corridor); enter via ticketed plaza gates. Activity core = clockwise kora.",
+      "tips": [
+        "Buy at plaza gate booths — cash NPR common; keep your stub.",
+        "Walk the kora clockwise with practitioners; do not cut against the flow.",
+        "Verify nationality tiers via ntb.gov.np / gate — do not invent NPR.",
+        "No reliable official advance e-ticket — plan gate purchase.",
+        "Ask before photographing monks; modest dress in monastery courtyards.",
+        "Do not invent “rooftop monastery tickets.”",
+        "Same-day Pashupatinath needs traffic + aarti buffer."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://ntb.gov.np/plan-your-trip/before-you-come/heritage-site-entry-fees",
+      "ticketsLabel": "NTB heritage fees + on-site Boudhanath gate booths (boudhanath.gov.np)",
+      "ticketsNote": "Cash NPR common; no reliable advance e-ticket; do not invent NPR."
+    },
+    "etiquette": {
+      "intro": "Himalayan Buddhist kora — clockwise and quiet respect.",
+      "bullets": [
+        "Walk clockwise around the stupa.",
+        "Spin prayer wheels respectfully; do not sit on them.",
+        "Ask before photographing monks; modest dress in courtyards.",
+        "Threshold Atlas tone: Himalayan kora culture, not dome backdrop only."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Boudhanath from Kathmandu.",
+      "paragraphs": [
+        "Taxi or local bus to Boudha, east of the city center and near the Pashupatinath corridor. Enter the plaza through ticketed gates.",
+        "Once inside, the experience is the clockwise kora, monastery courtyards, and optional rooftop café views — not a single interior shrine queue.",
+        "If combining with Pashupatinath, build traffic buffer and do not rush aarti timing."
+      ],
+      "bullets": [
+        "Taxi/bus to Boudha plaza gates",
+        "On-site ticket booths before entry",
+        "Clockwise kora is the core activity",
+        "Buffer if pairing with Pashupatinath"
+      ]
+    },
+    "bestTime": {
+      "intro": "Dawn and dusk kora; festival peaks are crowded.",
+      "paragraphs": [
+        "Dawn and dusk bring the densest practitioner kora. Midday is quieter but hotter.",
+        "Lhosar and Buddha Jayanti create festival peaks — beautiful and crowded."
+      ],
+      "bullets": [
+        "Dawn / dusk densest kora",
+        "Lhosar / Buddha Jayanti peaks",
+        "Cash booths — carry NPR",
+        "Verify on-site hours"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm fees via ntb.gov.np / gate; committee info on boudhanath.gov.np.",
+        "Do not invent NPR; no fake advance e-ticket claims.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "sanchi",
+    "name": "Buddhist Monuments at Sanchi, Madhya Pradesh",
+    "shortName": "Sanchi",
+    "location": "Sanchi, Madhya Pradesh",
+    "country": "India",
+    "region": "South Asia",
+    "regionSlug": "south-asia",
+    "religions": [
+      "Buddhist"
+    ],
+    "religionSlugs": [
+      "buddhist"
+    ],
+    "summary": "UNESCO Mauryan Great Stupa + toranas — ASI ticketed sunrise–sunset hilltop complex. Nationality tiers via asi.nic.in / asi.paygov.org.in; museum may be separate. Heat + little shade. Heritage≠living monastery. Do not invent INR.",
+    "heroImage": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Mauryan Great Stupa 1 + toranas; later stupas and monasteries; ASI protected; UNESCO World Heritage",
+      "patron": "Buddhist — Mauryan Buddhist architectural origin landscape",
+      "unesco": "UNESCO World Heritage — Buddhist Monuments at Sanchi",
+      "typicalVisit": "2–4 hours hilltop circuit + optional ASI museum"
+    },
+    "related": [
+      "mahabodhi",
+      "ajanta",
+      "ellora"
+    ],
+    "overview": {
+      "body": [
+        "Sanchi’s hilltop Buddhist monuments are India’s Mauryan Great Stupa UNESCO site — Stupa 1 with carved toranas, Stupa 3, monasteries, and an ASI museum adjacency. It deepens South Asian Buddhist coverage beyond living-monastery pages.",
+        "Frame the visit as Mauryan Buddhist architectural origin landscape, not a ruin selfie park. No climbing stupas or railings; no touching reliefs; quiet at Great Stupa.",
+        "Official tickets: Archaeological Survey of India — info asi.nic.in / asimustsee.nic.in; e-ticket asi.paygov.org.in. Nationality tiers (Indian / SAARC·BIMSTEC / other foreign); museum may be separate — verify live; do not invent INR. Older pages mention local ADA toll stacking — re-check at the gate whether still combined.",
+        "ASI commonly sunrise–sunset — verify asi.nic.in / Bhopal Circle. October–March preferred; April–June extreme heat on the exposed hill.",
+        "Soft blockers: heat + little shade; hill stairs; do not invent night illumination as default; fake guides at the approach; pair with a Bhopal overnight honestly (not a Delhi day-trip)."
+      ],
+      "highlights": [
+        "UNESCO Mauryan Great Stupa + toranas",
+        "ASI nationality tiers + e-ticket portal",
+        "Sunrise–sunset; Oct–Mar preferred",
+        "Museum may be separate ticket",
+        "No invent INR; heritage≠living monastery"
+      ]
+    },
+    "visit": {
+      "intro": "ASI-protected hilltop Buddhist monuments — sunrise to sunset; buy ASI tiers / e-ticket; museum may be separate.",
+      "hours": "ASI commonly sunrise–sunset — verify asi.nic.in / Bhopal Circle. Museum hours differ and may close one weekday — verify live.",
+      "tickets": "ASI info asi.nic.in / asimustsee.nic.in; e-ticket asi.paygov.org.in. Nationality tiers; museum may be separate; possible local ADA toll stack — verify at gate. Do not invent INR.",
+      "dress": "Buddhist monumental UNESCO — practical sun cover; no climbing stupas/railings; no touching reliefs; quiet at Great Stupa.",
+      "duration": "2–4 hours for main stupas and toranas; add museum time below the hill.",
+      "access": "Fly into Bhopal (BHO); rail to Sanchi / Vidisha; short road to the hilltop complex. Stairs and exposed walking — heat caution.",
+      "tips": [
+        "Use ASI official channels / asi.paygov.org.in — ignore fake approach guides.",
+        "Verify nationality tiers and any ADA toll stack at the gate — do not invent INR.",
+        "Oct–Mar preferred; Apr–Jun heat on the exposed hill is extreme.",
+        "Bring water and sun cover — little shade on the circuit.",
+        "Museum below the hill may need a separate ticket and different hours.",
+        "Do not invent night illumination as a default product.",
+        "Plan a Bhopal overnight — not a realistic Delhi day-trip."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://asi.paygov.org.in/asi-webapp/",
+      "ticketsLabel": "ASI Indian Heritage e-ticket (asi.paygov.org.in) + asi.nic.in",
+      "ticketsNote": "Nationality tiers; museum may be separate; do not invent INR."
+    },
+    "etiquette": {
+      "intro": "Mauryan Buddhist monumental site — no climbing, quiet respect.",
+      "bullets": [
+        "No climbing stupas, railings, or restricted structures.",
+        "No touching carved reliefs on toranas.",
+        "Quiet at Great Stupa; heritage≠living monastery framing.",
+        "Threshold Atlas tone: Mauryan Buddhist architectural origin landscape."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Sanchi from Bhopal.",
+      "paragraphs": [
+        "Fly into Bhopal (BHO), then road or rail toward Sanchi / Vidisha. The hilltop complex is a short road hop from Sanchi town.",
+        "On site, walk the stupas and toranas circuit; the ASI museum sits below the hill and may need separate planning.",
+        "Treat this as a Bhopal-based half day or overnight — not a same-day Delhi round trip."
+      ],
+      "bullets": [
+        "BHO → road/rail to Sanchi / Vidisha",
+        "Short road to hilltop ASI complex",
+        "Museum below hill — separate planning",
+        "Bhopal overnight recommended"
+      ]
+    },
+    "bestTime": {
+      "intro": "Cooler months preferred; summer heat is harsh on the hill.",
+      "paragraphs": [
+        "October–March is the comfortable window for the exposed circuit. April–June heat is extreme with little shade.",
+        "Sunrise opening rewards softer light on the toranas and fewer people."
+      ],
+      "bullets": [
+        "Oct–Mar preferred",
+        "Apr–Jun extreme heat",
+        "Sunrise–sunset ASI hours",
+        "Verify museum weekday closures"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm ASI tiers / hours on asi.nic.in and asi.paygov.org.in.",
+        "Do not invent INR; re-check any ADA toll stack at the gate.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "copan",
+    "name": "Copán Archaeological Park (Maya), Honduras",
+    "shortName": "Copán",
+    "location": "Copán Ruinas, Copán",
+    "country": "Honduras",
+    "region": "Americas",
+    "regionSlug": "americas",
+    "religions": [
+      "Maya"
+    ],
+    "religionSlugs": [
+      "maya"
+    ],
+    "summary": "UNESCO Maya sculpture capital + Hieroglyphic Stairway — IHAH park. Official boletería; nationality tiers (Honduran / Central American / other international); tunnels separate add-on; sculpture museum may be temporarily closed for renovation — verify live. Do not invent USD/HNL.",
+    "heroImage": "https://images.unsplash.com/photo-1518638150340-f706e86654de?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Classic Maya dynastic capital; Hieroglyphic Stairway; UNESCO World Heritage; IHAH stewardship",
+      "patron": "Maya — dynastic ritual / sculpture landscape",
+      "unesco": "UNESCO World Heritage — Maya Site of Copan",
+      "typicalVisit": "Half to full day: main park + Las Sepulturas; tunnels / museums as separate SKUs"
+    },
+    "related": [
+      "palenque",
+      "tikal",
+      "chichen-itza"
+    ],
+    "overview": {
+      "body": [
+        "Copán Archaeological Park in western Honduras is the Maya sculpture capital — stelae, altars, and the Hieroglyphic Stairway under IHAH stewardship. It is the Americas Maya peer after live Palenque, Tikal, and Chichén Itzá.",
+        "Frame the visit as Maya dynastic ritual landscape still meaningful to descendant communities, not an Indiana Jones jungle gym. No climbing restricted structures; no touching stelae; no drone where banned.",
+        "Official tickets: Instituto Hondureño de Antropología e Historia (IHAH) — ihah.hn / site tariff pages (sitiomayadecopan.hn). Buy at the official boletería. Nationality tiers (Honduran / Central American / other international); tunnels are a separate add-on; sculpture museum may be temporarily closed for renovation — state verify-live. Cash USD/HNL + cards often accepted for foreigners — do not invent USD/HNL.",
+        "Park commonly 08:00–16:00 daily — verify IHAH / sitiomayadecopan.hn. Dry season clearer; midday heat strong; view the Hieroglyphic Stairway from designated areas only.",
+        "Soft blockers: tunnel capacity / separate fee; museum renovation status; heat + mosquitoes; Guatemala–Honduras border day logistics if coming from Antigua; do not invent “secret tomb tickets.” Multi-product stack: main park, Las Sepulturas, tunnels, sculpture museum, regional museum — plan which SKUs."
+      ],
+      "highlights": [
+        "UNESCO Maya sculpture capital + Hieroglyphic Stairway",
+        "IHAH boletería; nationality tiers",
+        "Tunnels separate add-on",
+        "Sculpture museum — verify renovation status",
+        "No invent USD/HNL; no climbing restricted structures"
+      ]
+    },
+    "visit": {
+      "intro": "IHAH multi-product park — buy at official boletería; plan tunnels and museums as separate SKUs.",
+      "hours": "Park commonly 08:00–16:00 daily — verify ihah.hn / sitiomayadecopan.hn. Regional museum hours may differ. Sculpture museum renovation: verify live.",
+      "tickets": "Buy at official IHAH boletería. Tariffs on sitiomayadecopan.hn / ihah.hn. Nationality tiers; tunnels separate; museums separate. Cash USD/HNL + cards often OK for foreigners. Do not invent USD/HNL.",
+      "dress": "Maya sacred-political capital — practical heat gear; no climbing restricted structures; no touching stelae; follow drone bans.",
+      "duration": "Half to full day for main park + Las Sepulturas; tunnels and museums add time when open.",
+      "access": "Road from San Pedro Sula / Guatemala border (El Florido) to Copán Ruinas town; walk or short tuk-tuk to the park. Hieroglyphic Stairway from designated viewing areas only.",
+      "tips": [
+        "Buy only at the official IHAH boletería — ignore “secret tomb ticket” sellers.",
+        "Plan SKUs: main park + Las Sepulturas; tunnels separate; museums separate.",
+        "Sculpture museum may be temporarily closed for renovation — verify live before paying.",
+        "Verify nationality tiers on sitiomayadecopan.hn — do not invent USD/HNL.",
+        "Midday heat and mosquitoes are real — water, shade, repellent.",
+        "View the Hieroglyphic Stairway from designated areas; do not climb it.",
+        "Border day-trips from Antigua need Guatemala–Honduras logistics buffer."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://sitiomayadecopan.hn/tarifas-de-ingreso/",
+      "ticketsLabel": "IHAH Copán tariffs (sitiomayadecopan.hn) + ihah.hn",
+      "ticketsNote": "Tunnels separate; sculpture museum renovation verify-live; do not invent USD/HNL."
+    },
+    "etiquette": {
+      "intro": "Maya dynastic landscape — no climbing, no touching stelae.",
+      "bullets": [
+        "No climbing restricted structures or the Hieroglyphic Stairway.",
+        "No touching stelae or carved reliefs.",
+        "No drone where banned; follow steward routes.",
+        "Threshold Atlas tone: Maya dynastic ritual landscape, not jungle gym."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Copán Ruinas and the park.",
+      "paragraphs": [
+        "Road from San Pedro Sula or across the Guatemala border at El Florido into Copán Ruinas town. From town, walk or take a short tuk-tuk to the Parque Arqueológico entrance.",
+        "On site, the main park and Las Sepulturas share planning; tunnels and museums are separate products at the boletería.",
+        "If arriving from Antigua / Guatemala, budget border time and do not invent same-ticket cross-border packages."
+      ],
+      "bullets": [
+        "San Pedro Sula or El Florido border → Copán Ruinas",
+        "Walk / tuk-tuk to park boletería",
+        "Main park ≠ tunnels ≠ museums",
+        "Border day logistics need buffer"
+      ]
+    },
+    "bestTime": {
+      "intro": "Dry season clearer; midday heat is strong year-round.",
+      "paragraphs": [
+        "Drier months are clearer for plaza and sculpture viewing. Midday heat is strong — early entry helps.",
+        "Always recheck sculpture museum renovation status and tunnel capacity the week you travel."
+      ],
+      "bullets": [
+        "Dry season preferred for clarity",
+        "Early entry beats midday heat",
+        "Verify museum renovation status",
+        "Tunnel capacity can limit add-ons"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm tariffs and hours on sitiomayadecopan.hn / ihah.hn.",
+        "Do not invent USD/HNL; tunnels and museums are separate SKUs.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "san-francesco-assisi",
+    "name": "Papal Basilica of Saint Francis, Assisi",
+    "shortName": "Basilica of Saint Francis",
+    "location": "Assisi, Umbria",
+    "country": "Italy",
+    "region": "Europe",
+    "regionSlug": "europe",
+    "religions": [
+      "Christian"
+    ],
+    "religionSlugs": [
+      "christian"
+    ],
+    "summary": "UNESCO Assisi Franciscan pilgrimage basilica (Lower / Upper / Tomb) — individual entry free; liturgy pauses tourist flow. Official hours / visits on basilica.sanfrancesco.org. Guided visits via basilica channels. Do not invent EUR gate fares; no third-party “skip-line basilica tickets” as required entry.",
+    "heroImage": "https://images.unsplash.com/photo-1523906834658-6e24ef2386f9?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Papal basilica + Sacred Convent; Lower / Upper Church + Tomb of Saint Francis; UNESCO Assisi",
+      "patron": "Christian — Franciscan pilgrimage / poverty theology",
+      "unesco": "UNESCO World Heritage context — Assisi",
+      "typicalVisit": "2–4 hours Lower + Upper + Tomb; liturgy may pause tourist flow"
+    },
+    "related": [
+      "basilica-san-marco",
+      "st-peters",
+      "santiago-de-compostela"
+    ],
+    "overview": {
+      "body": [
+        "The Papal Basilica of Saint Francis in Assisi is Italy’s great Franciscan pilgrimage church — Lower Church, Upper Church (Giotto cycle), Tomb of Saint Francis, and Sacred Convent on one campus. It deepens Europe Christian coverage after San Marco / Florence / Milan.",
+        "Frame the visit as Franciscan poverty theology and pilgrimage, not a Giotto Instagram hall. Shoulders and knees covered; silence in nave and at the Tomb; no large bags when posted; photography rules vary by chapel for fresco conservation — follow posted signs.",
+        "Official tickets: basilica entry is free for individual visitors (groups may have a small contribution — verify live). Official site basilica.sanfrancesco.org (hours / visits / celebrations). Guided visits book via basilica channels (info@sanfrancesco.org / listed phone). Do not invent EUR gate fares; do not sell third-party “Assisi skip-line basilica tickets” as required entry.",
+        "Lower / Upper / Tomb have different daily windows (Lower often earlier; Upper later open; Tomb evening prayer slots some Fri/Sat) — verify basilica.sanfrancesco.org. Shoulder seasons beat summer coach waves; feast of St Francis (4 Oct) is peak.",
+        "Soft blockers: liturgy pauses tourist flow; Upper vs Lower hours mismatch; Assisi hill slopes / stairs; combine with Santa Maria degli Angeli / San Damiano as separate sites — not one ticket."
+      ],
+      "highlights": [
+        "UNESCO Assisi Franciscan papal basilica",
+        "Individual entry free — verify group rules",
+        "Lower / Upper / Tomb hour split",
+        "Official basilica.sanfrancesco.org",
+        "No invent EUR gate fare; liturgy first"
+      ]
+    },
+    "visit": {
+      "intro": "Active papal basilica — free individual entry; check Lower / Upper / Tomb hours separately; liturgy pauses flow.",
+      "hours": "Lower / Upper / Tomb have different daily windows — verify basilica.sanfrancesco.org. Feast of St Francis (4 Oct) and liturgy change access.",
+      "tickets": "Individual basilica entry free. Groups may have a small contribution — verify live. Official: basilica.sanfrancesco.org. Guided visits via basilica channels. Do not invent EUR gate fares; third-party “skip-line basilica tickets” are not required entry.",
+      "dress": "Active papal basilica + Franciscan convent — shoulders/knees covered; silence in nave / at Tomb; follow photography posts.",
+      "duration": "2–4 hours for Lower + Upper + Tomb; more if Sacred Convent or town sites.",
+      "access": "Train to Assisi / Santa Maria degli Angeli; bus / taxi / walk up to Piazza San Francesco. Hill slopes and stairs. Liturgy may pause tourist circulation.",
+      "tips": [
+        "Individual entry is free — do not buy third-party “required skip-line basilica tickets.”",
+        "Check Lower, Upper, and Tomb hours separately on basilica.sanfrancesco.org.",
+        "Expect liturgy pauses; worshippers first.",
+        "Shoulders and knees covered; silence at the Tomb.",
+        "Photography rules vary by chapel for fresco conservation — follow signs.",
+        "Santa Maria degli Angeli and San Damiano are separate sites — not one ticket.",
+        "Do not invent EUR gate fares."
+      ],
+      "entryType": "free",
+      "ticketsUrl": "https://basilica.sanfrancesco.org/en",
+      "ticketsLabel": "Basilica of Saint Francis (basilica.sanfrancesco.org) — hours / visits",
+      "ticketsNote": "Individual entry free; liturgy pauses; do not invent EUR gate fares."
+    },
+    "etiquette": {
+      "intro": "Franciscan pilgrimage basilica — silence and modest dress.",
+      "bullets": [
+        "Shoulders and knees covered; silence in nave and at the Tomb.",
+        "Worshippers and liturgy first — tourist flow pauses.",
+        "Follow posted photography rules (fresco conservation).",
+        "Threshold Atlas tone: Franciscan poverty theology + pilgrimage, not Giotto hall only."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach the basilica in Assisi.",
+      "paragraphs": [
+        "Train to Assisi or Santa Maria degli Angeli, then bus, taxi, or a steep walk up to Piazza San Francesco.",
+        "Lower Church, Upper Church, Tomb, and Sacred Convent share one campus — slot liturgy vs tourist flow when you plan.",
+        "Assisi hill slopes and stairs are real; build buffer if combining with other Assisi churches."
+      ],
+      "bullets": [
+        "Train → Assisi / Santa Maria degli Angeli",
+        "Bus/taxi/walk up to Piazza San Francesco",
+        "Lower / Upper / Tomb = one campus, different hours",
+        "Hill slopes / stairs — pace yourself"
+      ]
+    },
+    "bestTime": {
+      "intro": "Shoulder seasons beat summer coaches; 4 Oct is peak.",
+      "paragraphs": [
+        "Shoulder seasons are kinder than summer coach waves. Early morning Lower Church often quieter.",
+        "Feast of St Francis (4 October) is devotion peak — beautiful and crowded."
+      ],
+      "bullets": [
+        "Shoulder seasons preferred",
+        "4 Oct feast peak",
+        "Verify Lower/Upper/Tomb split",
+        "Liturgy can pause visits"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm hours on basilica.sanfrancesco.org before you go.",
+        "Do not invent EUR gate fares; individual entry is free.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "st-pauls-cathedral",
+    "name": "St Paul's Cathedral, London",
+    "shortName": "St Paul's Cathedral",
+    "location": "City of London",
+    "country": "United Kingdom",
+    "region": "Europe",
+    "regionSlug": "europe",
+    "religions": [
+      "Christian"
+    ],
+    "religionSlugs": [
+      "christian"
+    ],
+    "summary": "Wren’s City cathedral + Dome Galleries — official sightseeing tickets on stpauls.co.uk. Worship / prayer entry free when attending services. Sunday normally closed for sightseeing (seasonal Dome Sundays when published). Do not invent GBP; warn non-cathedral resellers.",
+    "heroImage": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Sir Christopher Wren’s City cathedral; Dome Galleries; crypt exhibitions; Dean & Chapter",
+      "patron": "Christian — Anglican City cathedral + national liturgy",
+      "unesco": "Not a standalone UNESCO inscription — major national cathedral",
+      "typicalVisit": "2–3 hours floor + crypt; Dome Galleries add stair climb when open"
+    },
+    "related": [
+      "westminster-abbey",
+      "canterbury-cathedral",
+      "notre-dame"
+    ],
+    "overview": {
+      "body": [
+        "St Paul’s Cathedral is Wren’s City of London cathedral — nave, quire, crypt exhibitions, and Dome Galleries under the Dean & Chapter. It is the UK cathedral mega distinct from live Westminster Abbey and Canterbury.",
+        "Frame the visit as Wren City cathedral and national liturgy, not a Harry Potter / Mary Poppins set (filming history is secondary). Respectful dress; silence in quire / chapels; worshippers first.",
+        "Official tickets: Dean & Chapter — stpauls.co.uk (Book sightseeing tickets / planning your visit). Sightseeing is paid; worship / prayer entry is free when attending services — keep distinct. Online or on arrival; concessions exist — verify live; do not invent GBP. Warn non-cathedral resellers.",
+        "Sightseeing commonly Monday–Saturday daytime (last admission earlier than close); Sunday normally closed for sightseeing (worship day; seasonal Dome Sundays when published) — verify stpauls.co.uk. Services, state events, and conservation close areas — check the calendar.",
+        "Soft blockers: Sunday sightseeing closure; Dome stair climb honesty (528 steps class — verify current); bag checks; Whispering Gallery / Stone / Golden Gallery tier access when open."
+      ],
+      "highlights": [
+        "Wren’s City cathedral + Dome Galleries",
+        "Official stpauls.co.uk sightseeing tickets",
+        "Worship free vs sightseeing paid — keep distinct",
+        "Sunday normally closed for sightseeing",
+        "No invent GBP; Dome stairs honesty"
+      ]
+    },
+    "visit": {
+      "intro": "Active Anglican cathedral — paid sightseeing Mon–Sat; free worship entry for services; Sunday sightseeing usually closed.",
+      "hours": "Sightseeing commonly Mon–Sat daytime (last admission earlier). Sunday normally closed for sightseeing; seasonal Dome Sundays when published — verify stpauls.co.uk calendar.",
+      "tickets": "Official: stpauls.co.uk Book sightseeing tickets. Sightseeing paid; worship/prayer free when attending services. Online or on arrival; concessions exist. Do not invent GBP. Prefer cathedral site over non-cathedral resellers.",
+      "dress": "Active Anglican cathedral — respectful dress; silence in quire / chapels; worshippers first.",
+      "duration": "2–3 hours cathedral floor + crypt; add time for Dome Galleries stair climb when open.",
+      "access": "Tube to St Paul's (Central line) / walk from City stations. Bag checks. Dome Galleries involve substantial stairs when open — verify current access tiers.",
+      "tips": [
+        "Buy sightseeing tickets on stpauls.co.uk — warn non-cathedral resellers.",
+        "Worship / prayer entry is free when attending services — keep distinct from sightseeing.",
+        "Sunday is normally closed for sightseeing — check Dome Sundays only when published.",
+        "Dome Galleries involve a serious stair climb — verify current step counts / closures.",
+        "Last admission is earlier than closing — do not cut it fine.",
+        "Services and state events can close areas — check the calendar.",
+        "Do not invent GBP."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://www.stpauls.co.uk/book-tickets",
+      "ticketsLabel": "St Paul's Cathedral — book sightseeing tickets (stpauls.co.uk)",
+      "ticketsNote": "Worship free vs sightseeing paid; Sunday sightseeing usually closed; do not invent GBP."
+    },
+    "etiquette": {
+      "intro": "Active Anglican cathedral — worshippers and silence first.",
+      "bullets": [
+        "Respectful dress; silence in quire and chapels.",
+        "Worshippers first; do not treat services as a show.",
+        "Follow bag-check and photography posts.",
+        "Threshold Atlas tone: Wren City cathedral + national liturgy, not film-set tourism."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach St Paul’s in the City.",
+      "paragraphs": [
+        "Take the Central line to St Paul's station or walk from nearby City stations. The cathedral sits on Ludgate Hill with clear wayfinding.",
+        "Sightseeing admission covers cathedral floor, crypt exhibitions, and Dome Galleries when those areas are open — confirm your ticket scope on stpauls.co.uk.",
+        "Build buffer for bag checks and for last-admission cutoffs."
+      ],
+      "bullets": [
+        "Tube: St Paul's (Central line)",
+        "Bag checks at sightseeing entry",
+        "Confirm Dome Galleries on your ticket",
+        "Last admission earlier than close"
+      ]
+    },
+    "bestTime": {
+      "intro": "Weekday mornings quieter; Sundays are for worship, not sightseeing.",
+      "paragraphs": [
+        "Weekday mornings are usually quieter than Saturday coach peaks. Always check the planned-closures calendar.",
+        "Sundays are normally worship-only for the main floor; only published Dome Sundays add limited gallery access."
+      ],
+      "bullets": [
+        "Weekday mornings preferred",
+        "Sunday sightseeing usually closed",
+        "Check planned closures calendar",
+        "Dome stairs — fitness honesty"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm hours and tickets on stpauls.co.uk before you go.",
+        "Do not invent GBP; worship free ≠ sightseeing ticket.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "lujan",
+    "name": "Basílica Nuestra Señora de Luján, Buenos Aires Province",
+    "shortName": "Basílica de Luján",
+    "location": "Luján, Buenos Aires Province",
+    "country": "Argentina",
+    "region": "Americas",
+    "regionSlug": "americas",
+    "religions": [
+      "Christian"
+    ],
+    "religionSlugs": [
+      "christian"
+    ],
+    "summary": "Argentina’s national Marian shrine — sanctuary / basilica entry free (santuariodelujan.org.ar). Paid visitor products (crypt, crypt+museum, tower ascent) via sanctuary tourism channels (turismobasilicadelujan.com.ar). Distinguish free worship vs paid add-ons. Do not invent ARS or miracles.",
+    "heroImage": "https://images.unsplash.com/photo-1483729558449-99ef03a8a778?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "National Marian shrine basilica; Camarín / image; crypt, museum, tower tourism products",
+      "patron": "Christian — Argentine Marian pilgrimage (Our Lady of Luján)",
+      "unesco": "Not a standalone UNESCO inscription — national Marian shrine",
+      "typicalVisit": "Half day sanctuary + optional paid crypt/tower; feast peaks crowded"
+    },
+    "related": [
+      "guadalupe",
+      "aparecida",
+      "fatima"
+    ],
+    "overview": {
+      "body": [
+        "The Basílica Nuestra Señora de Luján is Argentina’s national Marian shrine — neo-Gothic towers over the sanctuary plaza in Buenos Aires Province. It is the Southern Cone Marian peer after Guadalupe and Aparecida.",
+        "Frame the visit as Argentine Marian pilgrimage, not a Gothic photo stop only. Modest dress in nave / Camarín; silence at the image. Do not invent miracle claims.",
+        "Official tickets: sanctuary / basilica entry is free — official santuariodelujan.org.ar. Paid visitor products (crypt, crypt+museum, tower ascent / mirador) via sanctuary tourism channels (turismobasilicadelujan.com.ar) — often on-site, with age/stairs limits for ascent. Do not invent ARS; distinguish free worship vs paid tourism add-ons; do not treat Viator as official primary.",
+        "Sanctuary commonly long daytime hours (often ~07:00–20:00 class) — verify santuariodelujan.org.ar. Weekend pilgrimage waves plus 8 December (Immaculate Conception) and October pilgrimage peaks; weekday mornings quieter.",
+        "Soft blockers: tower stairs-only when offered; feast-day crush; Buenos Aires day-trip timing (last return trains); basilica nave, Camarín, crypt, museum, and tower are related but not one product."
+      ],
+      "highlights": [
+        "Argentina’s national Marian shrine",
+        "Sanctuary entry free — santuariodelujan.org.ar",
+        "Paid crypt / tower via turismo channels",
+        "Feast peaks + BA day-trip timing",
+        "No invent ARS or miracles"
+      ]
+    },
+    "visit": {
+      "intro": "Living national Marian shrine — free sanctuary entry; optional paid crypt / museum / tower products.",
+      "hours": "Sanctuary commonly long daytime hours (~07:00–20:00 class) — verify santuariodelujan.org.ar. Paid tourism products have separate slots / limits.",
+      "tickets": "Sanctuary / basilica entry free (santuariodelujan.org.ar). Paid crypt, crypt+museum, tower ascent via turismobasilicadelujan.com.ar — often on-site; stairs limits. Do not invent ARS. Viator is not the official primary.",
+      "dress": "Living Marian shrine — modest dress in nave / Camarín; silence at the image.",
+      "duration": "Half day for sanctuary; add time for crypt / museum / tower when booked.",
+      "access": "Train / bus from Buenos Aires to Luján (~1–1.5 hr); walk to sanctuary plaza (San Martín). Tower ascent is stairs-only when offered — age/fitness limits apply.",
+      "tips": [
+        "Sanctuary entry is free — do not pay a third party for “basilica entry.”",
+        "Crypt / museum / tower are optional paid products — buy via sanctuary tourism channels.",
+        "Verify hours on santuariodelujan.org.ar; product prices on turismobasilicadelujan.com.ar — do not invent ARS.",
+        "Tower ascent is stairs-only when offered — check age/fitness limits.",
+        "8 Dec and October pilgrimage peaks need capacity honesty.",
+        "Watch last return trains to Buenos Aires on day trips.",
+        "Do not invent miracle claims."
+      ],
+      "entryType": "mixed",
+      "ticketsUrl": "https://santuariodelujan.org.ar/",
+      "ticketsLabel": "Santuario de Luján (free sanctuary) + turismobasilicadelujan.com.ar (paid products)",
+      "ticketsNote": "Free worship vs paid crypt/tower; do not invent ARS or miracles."
+    },
+    "etiquette": {
+      "intro": "National Marian shrine — modest dress and silence at the image.",
+      "bullets": [
+        "Modest dress in nave and Camarín.",
+        "Silence at the image; pilgrims first.",
+        "Do not invent or dramatize miracle claims.",
+        "Threshold Atlas tone: Argentine Marian pilgrimage, not Gothic photo stop only."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Luján from Buenos Aires.",
+      "paragraphs": [
+        "Train or bus from Buenos Aires to Luján (~1–1.5 hours), then walk to the sanctuary plaza on San Martín.",
+        "Basilica nave, Camarín, crypt, museum, and tower are related spaces but not one ticket — decide free sanctuary vs paid add-ons before you queue.",
+        "On feast days and October pilgrimages, build buffer for crowds and return transport."
+      ],
+      "bullets": [
+        "BA train/bus → Luján (~1–1.5 hr)",
+        "Walk to sanctuary plaza",
+        "Free sanctuary ≠ paid crypt/tower",
+        "Watch last return trains"
+      ]
+    },
+    "bestTime": {
+      "intro": "Weekday mornings quieter; feast and October pilgrimage peaks.",
+      "paragraphs": [
+        "Weekday mornings are calmer for nave and Camarín. Weekends bring pilgrimage waves.",
+        "8 December (Immaculate Conception) and October pilgrimage peaks need capacity honesty."
+      ],
+      "bullets": [
+        "Weekday mornings preferred",
+        "8 Dec / October peaks",
+        "Verify sanctuary vs tourism hours",
+        "Tower stairs limits when offered"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm sanctuary hours on santuariodelujan.org.ar; paid products on turismobasilicadelujan.com.ar.",
+        "Do not invent ARS or miracles; free worship ≠ paid add-ons.",
         "SanctaWay is informational; it does not sell tickets or grant access.",
         "Hero image is an Unsplash placeholder pending visual / Commons pass."
       ]

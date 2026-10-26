@@ -1,10 +1,15 @@
 import assert from 'node:assert/strict'
+import { readFileSync } from 'node:fs'
 import { test } from 'node:test'
+import { createJiti } from 'jiti'
 import {
   applyShell,
   pageOutputPath,
   sitemapPathnames,
 } from './prerender-html.mjs'
+
+const jiti = createJiti(import.meta.url)
+const { regions, religions } = jiti('../src/lib/temples.ts')
 
 const SHELL = `<!doctype html>
 <html lang="en">
@@ -70,6 +75,17 @@ test('applyShell injects title, description, canonical, and body without droppin
   assert.doesNotMatch(page, /<div id="root"><\/div>/)
   assert.match(page, /src="\/assets\/index-abc\.js"/)
   assert.match(page, /GTM-TF6HFGXT/)
+})
+
+test('sitemap lists every region and religion hub', () => {
+  const xml = readFileSync(new URL('../public/sitemap.xml', import.meta.url), 'utf8')
+  const paths = new Set(sitemapPathnames(xml))
+  const hubs = [
+    ...regions.map((region) => `/region/${region.slug}`),
+    ...religions.map((religion) => `/religion/${religion.slug}`),
+  ]
+  const missing = hubs.filter((path) => !paths.has(path))
+  assert.deepEqual(missing, [])
 })
 
 test('applyShell escapes meta text', () => {

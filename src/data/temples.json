@@ -246,8 +246,8 @@
       "shinto"
     ],
     "summary": "A forest Shinto shrine in central Tokyo dedicated to Emperor Meiji and Empress Shōken — free precincts from sunrise to sunset, with paid Inner Garden and museum options.",
-    "heroImage": "https://images.unsplash.com/photo-1524413840807-0c3cb6fa808d?auto=format&fit=crop&w=1600&q=80",
-    "heroCredit": "Unsplash",
+    "heroImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Meiji-jing%C5%AB_grand_torii_d%27entr%C3%A9e.jpg/1920px-Meiji-jing%C5%AB_grand_torii_d%27entr%C3%A9e.jpg",
+    "heroCredit": "Hyppolyte de Saint-Rambert / Wikimedia Commons",
     "featured": true,
     "quickFacts": {
       "founded": "1920 (enshrinement)",
@@ -258,7 +258,7 @@
     "related": [
       "senso-ji",
       "fushimi-inari",
-      "nikko-tosho-gu"
+      "izumo-taisha"
     ],
     "overview": {
       "body": [
@@ -360,8 +360,8 @@
       "buddhist"
     ],
     "summary": "Nara’s Great Buddha Hall — ticketed Daibutsuden and museum options inside a free wider park approach from Kintetsu Nara.",
-    "heroImage": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?auto=format&fit=crop&w=1600&q=80",
-    "heroCredit": "Unsplash",
+    "heroImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Nara_Todai-ji_Daibutsuden_Exterior_South_Side_06.jpg/1920px-Nara_Todai-ji_Daibutsuden_Exterior_South_Side_06.jpg",
+    "heroCredit": "Zairon / Wikimedia Commons",
     "featured": false,
     "quickFacts": {
       "founded": "8th century",
@@ -474,8 +474,8 @@
       "buddhist"
     ],
     "summary": "Bangkok’s Temple of Dawn on the Thonburi bank — porcelain prang, steep terrace stairs, and a short river ferry from Tha Tien near Wat Pho.",
-    "heroImage": "https://images.unsplash.com/photo-1528181304800-259b08848526?auto=format&fit=crop&w=1600&q=80",
-    "heroCredit": "Unsplash",
+    "heroImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Phra_Prang_Wat_Arun_during_day.jpg/1920px-Phra_Prang_Wat_Arun_during_day.jpg",
+    "heroCredit": "Supanut Arunoprayote / Wikimedia Commons",
     "featured": true,
     "quickFacts": {
       "founded": "Ayutthaya period; major works later",
@@ -486,7 +486,7 @@
     "related": [
       "wat-pho",
       "wat-phra-kaew",
-      "shwedagon"
+      "ayutthaya"
     ],
     "overview": {
       "body": [
@@ -588,8 +588,8 @@
       "buddhist"
     ],
     "summary": "Thailand’s Temple of the Emerald Buddha inside Bangkok’s Grand Palace — one ฿500 foreign ticket for the compound, strict dress code, and a 15:30 ticket cutoff.",
-    "heroImage": "https://images.unsplash.com/photo-1508009603885-50cf7c579365?auto=format&fit=crop&w=1600&q=80",
-    "heroCredit": "Unsplash",
+    "heroImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Wat_Phra_Kaew_by_Ninara_TSP_edit_crop.jpg/1920px-Wat_Phra_Kaew_by_Ninara_TSP_edit_crop.jpg",
+    "heroCredit": "Ninara / TSP edit / Wikimedia Commons",
     "featured": false,
     "quickFacts": {
       "founded": "1782",
@@ -600,7 +600,7 @@
     "related": [
       "wat-pho",
       "wat-arun",
-      "doi-suthep"
+      "ayutthaya"
     ],
     "overview": {
       "body": [
@@ -702,8 +702,8 @@
       "sikh"
     ],
     "summary": "Sikhism’s holiest gurdwara in Amritsar — gold-clad Harmandir Sahib in the Amrit Sarovar, free to all who cover their heads and remove shoes.",
-    "heroImage": "https://images.unsplash.com/photo-1589308078059-be1415eab4c3?auto=format&fit=crop&w=1600&q=80",
-    "heroCredit": "Unsplash",
+    "heroImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Golden_Temple%2C_Amritsar_01.jpg/1920px-Golden_Temple%2C_Amritsar_01.jpg",
+    "heroCredit": "Bernard Gagnon / Wikimedia Commons",
     "featured": true,
     "quickFacts": {
       "founded": "Late 16th century (sanctum)",
@@ -817,8 +817,8 @@
       "buddhist"
     ],
     "summary": "Lhasa’s hilltop Potala Palace — timed real-name tickets, Monday closures, altitude stairs, and Tibet Travel Permit requirements for foreign visitors.",
-    "heroImage": "https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=1600&q=80",
-    "heroCredit": "Unsplash",
+    "heroImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Potala_Palace%2C_August_2009.jpg/1920px-Potala_Palace%2C_August_2009.jpg",
+    "heroCredit": "Antoine Taveneaux / Wikimedia Commons",
     "featured": false,
     "quickFacts": {
       "founded": "17th century (present form)",
@@ -829,7 +829,7 @@
     "related": [
       "golden-temple",
       "paro-taktsang",
-      "borobudur"
+      "yonghegong"
     ],
     "overview": {
       "body": [
@@ -1175,7 +1175,7 @@
     "related": [
       "blue-mosque",
       "hassan-ii-mosque",
-      "pantheon-rome"
+      "imam-mosque-isfahan"
     ],
     "overview": {
       "body": [
@@ -1278,8 +1278,8 @@
       "christian"
     ],
     "summary": "Jerusalem’s Church of the Holy Sepulchre — free entry to the traditional sites of Calvary and the Tomb, shared by multiple Christian communities under Status Quo rules.",
-    "heroImage": "https://images.unsplash.com/photo-1569949381669-ecf31ae8e613?auto=format&fit=crop&w=1600&q=80",
-    "heroCredit": "Unsplash",
+    "heroImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Holy_Sepulchre_parvis_-_Facade_of_the_Holy_Sepulchre_2013.jpg/1920px-Holy_Sepulchre_parvis_-_Facade_of_the_Holy_Sepulchre_2013.jpg",
+    "heroCredit": "Radosław Botev / Wikimedia Commons",
     "featured": false,
     "quickFacts": {
       "founded": "4th century origins; many rebuilds",
@@ -1851,8 +1851,8 @@
       "christian"
     ],
     "summary": "Ethiopia’s rock-hewn churches of Lalibela — a ticketed cluster of medieval monolithic churches still in active Orthodox use, best visited with a local guide.",
-    "heroImage": "https://images.unsplash.com/photo-1523805009345-7448845a9e53?auto=format&fit=crop&w=1600&q=80",
-    "heroCredit": "Unsplash",
+    "heroImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Bete_Giyorgis_01.jpg/1920px-Bete_Giyorgis_01.jpg",
+    "heroCredit": "Bernard Gagnon / Wikimedia Commons",
     "featured": true,
     "quickFacts": {
       "founded": "12th–13th century (tradition)",
@@ -1965,8 +1965,8 @@
       "taoist"
     ],
     "summary": "Kowloon’s Sik Sik Yuen Wong Tai Sin Temple — free main grounds, kau chim culture, and a three-minute walk from Wong Tai Sin MTR Exit B2.",
-    "heroImage": "https://images.unsplash.com/photo-1508804185872-d7aad8140ce7?auto=format&fit=crop&w=1600&q=80",
-    "heroCredit": "Unsplash (prototype placeholder — replace before production)",
+    "heroImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Wong4_Daai6_Sin1_Zi2.jpg/1920px-Wong4_Daai6_Sin1_Zi2.jpg",
+    "heroCredit": "CRCHF / Wikimedia Commons",
     "featured": true,
     "quickFacts": {
       "founded": "1921 (Sik Sik Yuen Wong Tai Sin Temple in Hong Kong)",
@@ -2079,8 +2079,8 @@
       "buddhist"
     ],
     "summary": "Diamond Hill’s Tang-style Chi Lin Nunnery paired with Nan Lian Garden — free entry, separate hours, and typhoon closure rules to check before you go.",
-    "heroImage": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1600&q=80",
-    "heroCredit": "Unsplash (prototype placeholder — replace before production)",
+    "heroImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Chi_Lin_Nunnery%2C_Hong_Kong_%286993834543%29.jpg/1920px-Chi_Lin_Nunnery%2C_Hong_Kong_%286993834543%29.jpg",
+    "heroCredit": "Michal Osmenda / Wikimedia Commons",
     "featured": true,
     "quickFacts": {
       "founded": "Nunnery 1934; Tang-style halls rebuilt 1990s; Nan Lian Garden opened 2006",
@@ -2193,8 +2193,8 @@
       "taoist"
     ],
     "summary": "Sheung Wan’s historic Man Mo Temple on Hollywood Road — free entry, incense coils, and Tung Wah management since 1908.",
-    "heroImage": "https://images.unsplash.com/photo-1518684079-3c830dcef090?auto=format&fit=crop&w=1600&q=80",
-    "heroCredit": "Unsplash (prototype placeholder — replace before production)",
+    "heroImage": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Man_Mo_Temple_Compound.jpg",
+    "heroCredit": "Baycrest / Wikimedia Commons",
     "featured": true,
     "quickFacts": {
       "founded": "1847; managed by Tung Wah since 1908",
@@ -2307,8 +2307,8 @@
       "taoist"
     ],
     "summary": "Sha Tin’s Che Kung Temple — free entry, wind wheels, and dense crowds on the second day of Chinese New Year.",
-    "heroImage": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=1600&q=80",
-    "heroCredit": "Unsplash (prototype placeholder — replace before production)",
+    "heroImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Che_Kung_Temple_Sha_Tin_01.jpg/1920px-Che_Kung_Temple_Sha_Tin_01.jpg",
+    "heroCredit": "Underwaterbuffalo / Wikimedia Commons",
     "featured": true,
     "quickFacts": {
       "founded": "Origins late Ming; renovated 1890; present main temple built 1994 (CTC)",
@@ -2421,8 +2421,8 @@
       "buddhist"
     ],
     "summary": "Sha Tin’s hillside Ten Thousand Buddhas Monastery — free entry, donations welcome, and a long stair lined with golden Buddha statues.",
-    "heroImage": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=1600&q=80",
-    "heroCredit": "Unsplash (prototype placeholder — replace before production)",
+    "heroImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Man_Fat_Tsz_%28Ten_Thousand_Buddhas_Monastery%29_%2C_Pagoda_and_surrounding_Arhan_statues%2C_Sha_Tin_%28Hong_Kong%29.jpg/1920px-Man_Fat_Tsz_%28Ten_Thousand_Buddhas_Monastery%29_%2C_Pagoda_and_surrounding_Arhan_statues%2C_Sha_Tin_%28Hong_Kong%29.jpg",
+    "heroCredit": "Mk2010 / Wikimedia Commons",
     "featured": true,
     "quickFacts": {
       "founded": "1950s (founded by Yuet Kai; complex developed mid-20th century)",
@@ -2889,7 +2889,7 @@
     "related": [
       "senso-ji",
       "meiji-shrine",
-      "nikko-tosho-gu"
+      "izumo-taisha"
     ],
     "overview": {
       "body": [
@@ -3002,7 +3002,7 @@
     "related": [
       "hassan-ii-mosque",
       "hagia-sophia",
-      "sheikh-zayed-grand-mosque"
+      "imam-mosque-isfahan"
     ],
     "overview": {
       "body": [
@@ -3345,7 +3345,7 @@
     "related": [
       "potala",
       "longmen-grottoes",
-      "qufu-confucius"
+      "yonghegong"
     ],
     "overview": {
       "body": [
@@ -4498,7 +4498,7 @@
     "related": [
       "fushimi-inari",
       "meiji-shrine",
-      "nikko-tosho-gu"
+      "izumo-taisha"
     ],
     "overview": {
       "body": [
@@ -4843,7 +4843,7 @@
     "related": [
       "blue-mosque",
       "hagia-sophia",
-      "jama-masjid"
+      "sultan-hassan"
     ],
     "overview": {
       "body": [
@@ -5647,7 +5647,7 @@
     "related": [
       "kashi-vishwanath",
       "golden-temple",
-      "batu-caves"
+      "khajuraho"
     ],
     "overview": {
       "body": [
@@ -7585,7 +7585,7 @@
     "related": [
       "shwedagon",
       "angkor-wat",
-      "borobudur"
+      "ayutthaya"
     ],
     "overview": {
       "body": [
@@ -7812,7 +7812,7 @@
     "related": [
       "hassan-ii-mosque",
       "mezquita-cordoba",
-      "blue-mosque"
+      "sultan-hassan"
     ],
     "overview": {
       "body": [
@@ -7926,7 +7926,7 @@
     "related": [
       "chartres",
       "mont-saint-michel",
-      "montserrat"
+      "jasna-gora"
     ],
     "overview": {
       "body": [
@@ -8495,7 +8495,7 @@
     "related": [
       "lourdes",
       "guadalupe",
-      "jeronimos"
+      "jasna-gora"
     ],
     "overview": {
       "body": [
@@ -8721,7 +8721,7 @@
     "related": [
       "meenakshi",
       "ellora",
-      "dilwara"
+      "khajuraho"
     ],
     "overview": {
       "body": [
@@ -9285,7 +9285,7 @@
     "related": [
       "fatima",
       "lourdes",
-      "jeronimos"
+      "jasna-gora"
     ],
     "overview": {
       "body": [
@@ -9398,7 +9398,7 @@
     "related": [
       "hampi",
       "meenakshi",
-      "ellora"
+      "khajuraho"
     ],
     "overview": {
       "body": [
@@ -10974,7 +10974,7 @@
     "related": [
       "hassan-ii-mosque",
       "blue-mosque",
-      "jama-masjid"
+      "sultan-hassan"
     ],
     "overview": {
       "body": [
@@ -11086,7 +11086,7 @@
     "related": [
       "longmen-grottoes",
       "mount-emei",
-      "shaolin-temple"
+      "lingyin-temple"
     ],
     "overview": {
       "body": [
@@ -12206,7 +12206,7 @@
     "related": [
       "leshan-giant-buddha",
       "longmen-grottoes",
-      "shaolin-temple"
+      "lingyin-temple"
     ],
     "overview": {
       "body": [
@@ -12867,8 +12867,8 @@
       "buddhist"
     ],
     "summary": "UNESCO Shingon pilgrimage mountain — Kūkai’s headquarters with Kongōbu-ji, Danjo Garan halls, and Okunoin cedar cemetery. Official koyasan.or.jp. Okunoin approach/mausoleum area generally free (offerings/goshuin separate); Kongōbu-ji / Kondō / Konpon Daitō / Tokugawa mausoleum are separate paid halls — no single “Koyasan ticket” myth. No photography past Gobyo-bashi. Ise remains deferred — not on this page. Do not invent JPY.",
-    "heroImage": "https://images.unsplash.com/photo-1528164344705-47542687000d?auto=format&fit=crop&w=1600&q=80",
-    "heroCredit": "Unsplash",
+    "heroImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Konpon_Daito_Pagoda_-_Garan_Complex_-_Koyasan_-_Japan_%2847950047772%29.jpg/1920px-Konpon_Daito_Pagoda_-_Garan_Complex_-_Koyasan_-_Japan_%2847950047772%29.jpg",
+    "heroCredit": "Adam Jones / Wikimedia Commons",
     "featured": true,
     "quickFacts": {
       "founded": "Early 9th c. foundation by Kūkai (Kōbō Daishi); Shingon headquarters; UNESCO Sacred Sites and Pilgrimage Routes in the Kii Mountain Range",
@@ -12979,8 +12979,8 @@
       "jain"
     ],
     "summary": "15th-c. white-marble Chaumukha Adinath temple with ~1,444 carved pillars — Dilwara peer Jain tirtha in the Aravallis. Entry commonly free for visitors; camera / audio fees when charged on-site. Non-Jain tourist window commonly midday–afternoon — mornings reserved for worship. Remove shoes; no leather (belts/bags/wallets) inside. No reliable single national e-ticket — do not invent INR; do not sell third-party skip-the-line as required entry.",
-    "heroImage": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?auto=format&fit=crop&w=1600&q=80",
-    "heroCredit": "Unsplash",
+    "heroImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Ranakpur_Jain_Temple_%2854340858042%29.jpg/1920px-Ranakpur_Jain_Temple_%2854340858042%29.jpg",
+    "heroCredit": "Mustang Joe / Wikimedia Commons",
     "featured": true,
     "quickFacts": {
       "founded": "15th c. (trad. ~1439 / V.S. 1496 class) under Seth Dharna Shah; Chaumukha Adinath",
@@ -13091,8 +13091,8 @@
       "hindu"
     ],
     "summary": "UNESCO Cham Hindu temple towers in a mountain valley — Vietnam’s sacred archaeological crown. Official BQL info disanvanhoamyson.vn; e-tickets mysonticketonline.vn. Foreign / domestic / child tiers — ticket commonly bundles museum + shuttle + Cham show + ruins when published. Do not invent VND; prefer BQL / official e-ticket over random OTA as primary CTA.",
-    "heroImage": "https://images.unsplash.com/photo-1583417319070-4a69db38a482?auto=format&fit=crop&w=1600&q=80",
-    "heroCredit": "Unsplash",
+    "heroImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/2024_-_M%E1%BB%B9_S%C6%A1n_Group_B%2C_C_and_D_-_img_01.jpg/1920px-2024_-_M%E1%BB%B9_S%C6%A1n_Group_B%2C_C_and_D_-_img_01.jpg",
+    "heroCredit": "Chainwit. / Wikimedia Commons",
     "featured": true,
     "quickFacts": {
       "founded": "From ~4th c. through 13th c. Cham Śiva-linga kingship landscape; >70 tower monuments historically",
@@ -13203,8 +13203,8 @@
       "buddhist"
     ],
     "summary": "World-famous strangler-fig / silk-cotton tree temple (Rajavihara) inside Angkor Archaeological Park — same Angkor Pass as live Angkor Wat and Bayon. Official Angkor Enterprise only: angkorenterprise.gov.kh / ticket.angkorenterprise.gov.kh. No separate Ta Prohm gate ticket. Conservation / one-way galleries honesty; do not invent USD; hard-warn street scalpers.",
-    "heroImage": "https://images.unsplash.com/photo-1559592413-7cec4d0cae2b?auto=format&fit=crop&w=1600&q=80",
-    "heroCredit": "Unsplash",
+    "heroImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/02f-Ta_Prohm_%28NgnL%29-06394.jpg/1920px-02f-Ta_Prohm_%28NgnL%29-06394.jpg",
+    "heroCredit": "No(0)GoodNamesLeft / Wikimedia Commons",
     "featured": true,
     "quickFacts": {
       "founded": "Late 12th / early 13th c. Mahayana monastery-temple (Rajavihara) of Jayavarman VII; later forest/ruin continuum",
@@ -13315,8 +13315,8 @@
       "buddhist"
     ],
     "summary": "Chan Buddhism origin monastery inside Songshan Shaolin 5A scenic — global kung-fu sacred brand with living monastic halls. Official WeChat 嵩山旅游 / mini-program 漫游嵩山; consult songshancn.com. Admission ≠ cable ≠ VIP performance seats. Foreign visitors may need on-site passport verification after online hold. Do not invent CNY; hard-warn scalpers. Martial-arts show ≠ temple visit framing.",
-    "heroImage": "https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?auto=format&fit=crop&w=1600&q=80",
-    "heroCredit": "Unsplash",
+    "heroImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/20250528_Shaolin_Si.jpg/1920px-20250528_Shaolin_Si.jpg",
+    "heroCredit": "Yumeto / Wikimedia Commons",
     "featured": true,
     "quickFacts": {
       "founded": "Trad. 5th c. Chan / Shaolin foundation on Songshan; later dynastic rebuilds; Pagoda Forest lineage landscape",
@@ -13327,7 +13327,7 @@
     "related": [
       "mount-emei",
       "leshan-giant-buddha",
-      "longmen-grottoes"
+      "yonghegong"
     ],
     "overview": {
       "body": [
@@ -13427,8 +13427,8 @@
       "confucian"
     ],
     "summary": "UNESCO Temple of Confucius + Kong Family Mansion + Cemetery (三孔) — Confucian pilgrimage capital. First confucian religion slug in SanctaWay. Real-name tickets via WeChat 文博曲阜 / 曲阜三孔景区 (and authorized OTAs when listed). Temple / Mansion / Cemetery are separate or combo products — 三孔联票 when offered. Do not invent CNY; do not fake Buddhist/Taoist consecration.",
-    "heroImage": "https://images.unsplash.com/photo-1508804185872-d7aad8140a9a?auto=format&fit=crop&w=1600&q=80",
-    "heroCredit": "Unsplash",
+    "heroImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/%E6%9B%B2%E9%98%9C%E5%AD%94%E5%BA%99.jpg/1920px-%E6%9B%B2%E9%98%9C%E5%AD%94%E5%BA%99.jpg",
+    "heroCredit": "Acot一杯茶 / Wikimedia Commons",
     "featured": true,
     "quickFacts": {
       "founded": "Temple tradition from Han onward on Kongzi’s home place; imperial expansions; Kong lineage mansion + cemetery landscape",
@@ -13539,8 +13539,8 @@
       "buddhist"
     ],
     "summary": "Largest Buddhist temple complex in Malaysia — Pagoda of Ten Thousand Buddhas and Guanyin pavilion incline at Air Itam, Penang. Grounds commonly free; pagoda and inclined lift / Guanyin pavilion are separate on-site fares (cash common). Verify myPenang / on-site desks. No reliable single national e-ticket — do not invent MYR; do not treat random OTAs as required entry.",
-    "heroImage": "https://images.unsplash.com/photo-1596422846543-75c6fc7107fa?auto=format&fit=crop&w=1600&q=80",
-    "heroCredit": "Unsplash",
+    "heroImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Kek_Lok_Si_Temple_%28I%29.jpg/1920px-Kek_Lok_Si_Temple_%28I%29.jpg",
+    "heroCredit": "Supanut Arunoprayote / Wikimedia Commons",
     "featured": true,
     "quickFacts": {
       "founded": "Late 19th / early 20th c. Chinese Mahayana complex; pagoda and later Guanyin pavilion expansions",
@@ -13631,6 +13631,902 @@
       "bullets": [
         "Confirm pagoda / incline fares on-site / myPenang — do not invent MYR.",
         "Grounds free ≠ pagoda + lift free.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "yonghegong",
+    "name": "Yonghegong / Lama Temple (雍和宫), Beijing",
+    "shortName": "Yonghegong",
+    "location": "Dongcheng, Beijing",
+    "country": "China",
+    "region": "East Asia",
+    "regionSlug": "east-asia",
+    "religions": [
+      "Buddhist"
+    ],
+    "religionSlugs": [
+      "buddhist"
+    ],
+    "summary": "Beijing’s most-visited living Tibetan Gelug monastery-temple — Kangxi/Yongzheng imperial conversion still active for worship. Official info yonghegong.cn; real-name tickets via WeChat 雍和宫游客信众服务 (piao.yonghegong.cn QR). No authorized third-party sellers. Hall photography banned. Do not invent CNY; passport half-price often needs on-site document window.",
+    "heroImage": "https://images.unsplash.com/photo-1508804185872-d7aadad00c08?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Built 1694 as Yongzheng prince mansion; converted to Gelug monastery under Qianlong (1744)",
+      "patron": "Buddhist — Tibetan Gelug (living monastic community in central Beijing)",
+      "unesco": "Not individually inscribed; major national key cultural relic / Beijing living sacred landmark",
+      "typicalVisit": "1.5–2.5 hours; pair with Confucius Temple / Guozijian next door only as separate sites"
+    },
+    "related": [
+      "potala",
+      "shaolin-temple",
+      "temple-of-heaven"
+    ],
+    "overview": {
+      "body": [
+        "Yonghegong (Lama Temple) is Beijing’s most-visited living Tibetan Gelug monastery — once the Yongzheng prince mansion, converted under Qianlong into an imperial Gelug house that still receives worshippers and incense queues on Dongcheng’s Axis.",
+        "Frame the visit as Kangxi/Yongzheng imperial Gelug conversion + living Tibetan Buddhist practice in Beijing — not “Instagram incense hall only.” Modest dress; no photography or filming inside halls; follow posted incense limits; quiet in scripture halls.",
+        "Official tickets: real-name quota via WeChat 雍和宫游客信众服务 (scan QR at piao.yonghegong.cn or search the official account). Info and notices on yonghegong.cn. Passport holders commonly book full-price online QR; half-price categories often require the on-site document window. Temple warns: no authorized third-party sellers. Do not invent CNY; hard-warn scalpers.",
+        "Seasonal hours commonly Apr–Oct ~09:00–17:00 (last ticket ~16:30); Nov–Mar ~09:00–16:30 (last ticket ~16:00) — verify yonghegong.cn. Early weekday for thinner queues; Spring Festival has special hours and unidirectional flow.",
+        "Soft blockers: WeChat-first UX for many bookings; real-name quota sell-outs; no luggage storage / no on-site parking as posted; Spring Festival traffic control; do not conflate with Beijing Confucius Temple / Guozijian next door (separate tickets and framing). SanctaWay is informational — it does not sell tickets or grant access."
+      ],
+      "highlights": [
+        "Living Gelug monastery in central Beijing",
+        "WeChat 雍和宫游客信众服务 + yonghegong.cn",
+        "No hall photography; incense rules as posted",
+        "Do not invent CNY; no third-party sellers",
+        "Separate from Confucius Temple / Guozijian next door"
+      ]
+    },
+    "visit": {
+      "intro": "WeChat real-name quota — living Gelug halls, not a photo maze.",
+      "hours": "Seasonal — commonly Apr–Oct ~09:00–17:00 (last ticket ~16:30); Nov–Mar ~09:00–16:30 (last ticket ~16:00) — verify yonghegong.cn. Early weekday for thinner queues; Spring Festival special hours + unidirectional flow.",
+      "tickets": "Real-name via WeChat 雍和宫游客信众服务 (piao.yonghegong.cn QR / official account). Notices on yonghegong.cn. Passport: full-price online QR common; half-price often needs on-site document window. Temple: no authorized third-party sellers. Do not invent CNY; hard-warn scalpers.",
+      "dress": "Living Gelug monastery — modest dress; no photography / filming inside halls; incense as posted; quiet in scripture halls.",
+      "duration": "1.5–2.5 hours for the monastery circuit; buffer separately for Confucius Temple / Guozijian next door.",
+      "access": "Metro Line 2 / 5 to Yonghegong station; walk to the south gate (正门) queue. Pair with Temple of Heaven / Forbidden City only with a separate day buffer — different ticket products.",
+      "tips": [
+        "Book only via WeChat 雍和宫游客信众服务 / official QR — not random OTAs.",
+        "Do not invent CNY; verify live tiers on the official channel.",
+        "No photography or filming inside halls.",
+        "Passport half-price often needs the on-site document window.",
+        "No luggage storage / no on-site parking as posted.",
+        "Do not conflate with Confucius Temple / Guozijian next door.",
+        "Spring Festival: expect special hours and unidirectional flow."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://www.yonghegong.cn/",
+      "ticketsLabel": "Yonghegong — official site / WeChat 雍和宫游客信众服务",
+      "ticketsNote": "Prefer WeChat 雍和宫游客信众服务; do not invent CNY; no third-party sellers."
+    },
+    "etiquette": {
+      "intro": "Living Gelug monastery — quiet halls, no hall photos.",
+      "bullets": [
+        "Modest dress; shoulders and knees covered in halls.",
+        "No photography or filming inside halls — follow posted signs.",
+        "Incense limits as posted; quiet in scripture spaces.",
+        "Threshold Atlas tone: imperial Gelug conversion + living Tibetan Buddhist practice in Beijing."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Yonghegong in Dongcheng.",
+      "paragraphs": [
+        "Take Beijing Metro Line 2 or Line 5 to Yonghegong station, then walk to the south gate (正门) queue. Arrive early on weekends and holidays.",
+        "Hold a valid real-name ticket (WeChat 雍和宫游客信众服务 / official QR) and original ID before the gate. Do not buy from street scalpers.",
+        "The Confucius Temple and Guozijian sit next door but are separate sites with separate products — do not assume one ticket covers both."
+      ],
+      "bullets": [
+        "Metro Line 2 / 5 → Yonghegong station → south gate",
+        "WeChat real-name ticket + original ID",
+        "Confucius Temple / Guozijian = separate",
+        "No on-site parking as posted"
+      ]
+    },
+    "bestTime": {
+      "intro": "Early weekday; verify seasonal hours on yonghegong.cn.",
+      "paragraphs": [
+        "Early weekday mornings usually mean thinner incense and ticket queues. Summer days run later last-ticket cutoffs; winter closes earlier — verify yonghegong.cn.",
+        "Spring Festival and major Buddhist feast days bring special hours, unidirectional flow, and heavy crush — check the official notice before you go."
+      ],
+      "bullets": [
+        "Best hours: early weekday opening",
+        "Verify seasonal last-ticket times on yonghegong.cn",
+        "Spring Festival: special hours + unidirectional flow",
+        "Avoid inventing same-day scalper “skip” myths"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm hours and tickets on yonghegong.cn / WeChat 雍和宫游客信众服务 — do not invent CNY.",
+        "No authorized third-party sellers; hard-warn scalpers.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "lingyin-temple",
+    "name": "Lingyin Temple (灵隐寺) / Feilai Feng Scenic, Hangzhou",
+    "shortName": "Lingyin Temple",
+    "location": "West Lake / Feilai Feng corridor, Hangzhou",
+    "country": "China",
+    "region": "East Asia",
+    "regionSlug": "east-asia",
+    "religions": [
+      "Buddhist"
+    ],
+    "religionSlugs": [
+      "buddhist"
+    ],
+    "summary": "Hangzhou’s Chan mega beside Feilai Feng grottoes — West Lake corridor sacred landmark. Feilai Peak scenic (含灵隐寺 / 永福寺 / 韬光寺) is admission-free with mandatory real-name time-slot reservation via WeChat/Alipay mini-program 杭州灵隐飞来峰. On-site registration suspended from 2026-02-01 — use online waitlist. Do not invent CNY “ticket required” myth; hotline 0571-87969691.",
+    "heroImage": "https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Trad. Eastern Jin / Hui Li founding legend; successive rebuilds; Feilai Feng grotto continuum",
+      "patron": "Buddhist — Chan (living monastic community inside West Lake scenic)",
+      "unesco": "Within West Lake Cultural Landscape of Hangzhou UNESCO context (Feilai Feng / Lingyin corridor)",
+      "typicalVisit": "Half day for Feilai Feng + Lingyin halls; hillside paths need buffer"
+    },
+    "related": [
+      "mount-emei",
+      "leshan-giant-buddha",
+      "yonghegong"
+    ],
+    "overview": {
+      "body": [
+        "Lingyin Temple sits in Hangzhou’s Feilai Feng scenic — a living Chan monastery beside the famous Buddhist grotto cliff, inside the West Lake corridor that draws millions of visitors a year.",
+        "Frame the visit as Hui Li founding legend + Feilai Feng Buddhist grotto continuum — not “West Lake photo stop only.” Shoulders and knees covered in halls; quiet at Mahavira Hall; do not climb or touch Feilai Feng carvings.",
+        "Official access: Feilai Peak scenic (含灵隐寺 / 永福寺 / 韬光寺) uses admission-free real-name time-slot reservation via WeChat or Alipay mini-program 杭州灵隐飞来峰 (book at least one day ahead; same-day generally blocked). From 2026-02-01 on-site registration is suspended — use the online waitlist when slots are full. Hotline class 0571-87969691. Do not invent CNY “ticket required” myth; do not sell third-party “skip-the-line” as entry.",
+        "Scenic hours commonly ~07:30–17:30 (entry ends ~17:00) — verify lingyinsi.org / mini-program notices. Morning slot cooler; weekend and holiday quotas are higher but crush is heavier.",
+        "Soft blockers: must reserve day-before+; no-show credit penalties; passport/ID original for gate; Feilai Feng ≠ temple-only framing; rain on hillside paths. SanctaWay is informational — it does not sell tickets or grant access."
+      ],
+      "highlights": [
+        "Chan mega + Feilai Feng grottoes, Hangzhou",
+        "Free + real-name reserve via 杭州灵隐飞来峰",
+        "On-site registration suspended 2026-02 — waitlist online",
+        "Do not invent CNY ticket myth",
+        "Hotline 0571-87969691"
+      ]
+    },
+    "visit": {
+      "intro": "Free scenic with mandatory real-name time-slot — not a paid gate myth.",
+      "hours": "Scenic commonly ~07:30–17:30 (entry ends ~17:00) — verify lingyinsi.org / 杭州灵隐飞来峰 mini-program. Morning and afternoon slots; morning cooler.",
+      "tickets": "Admission-free real-name time-slot via WeChat/Alipay mini-program 杭州灵隐飞来峰 (advance; same-day often blocked). On-site registration suspended from 2026-02-01 — join online waitlist. Original ID for gate. Hotline 0571-87969691. Do not invent CNY; do not buy third-party “skip-the-line” as entry.",
+      "dress": "Living Chan monastery inside West Lake scenic — shoulders/knees covered in halls; quiet at Mahavira Hall; no climbing Feilai Feng carvings.",
+      "duration": "Half day for Feilai Feng + Lingyin; add buffer for hillside paths and Yongfu / Taoguang if open on your slot.",
+      "access": "Hangzhou West Lake / Feilai Feng corridor; bus / metro + walk / taxi to Lingyin Feilai Peak gate. Not a city-center metro-exit temple — plan transfer time.",
+      "tips": [
+        "Reserve via 杭州灵隐飞来峰 at least one day ahead — verify live.",
+        "Do not invent CNY; scenic is free with real-name slot.",
+        "On-site registration suspended from 2026-02-01 — use waitlist.",
+        "Bring original passport/ID for gate verification.",
+        "No-show credit penalties apply — cancel before the posted cutoff.",
+        "Do not climb or touch Feilai Feng carvings.",
+        "Rain makes hillside paths slippery — wear grip shoes."
+      ],
+      "entryType": "free",
+      "ticketsUrl": "https://www.lingyinsi.org/",
+      "ticketsLabel": "Lingyin / Feilai Feng — lingyinsi.org + mini-program 杭州灵隐飞来峰",
+      "ticketsNote": "Free + real-name reserve; do not invent CNY; on-site registration suspended 2026-02."
+    },
+    "etiquette": {
+      "intro": "Living Chan halls + protected grotto cliff.",
+      "bullets": [
+        "Shoulders and knees covered in halls; quiet at Mahavira Hall.",
+        "Do not climb, touch, or lean on Feilai Feng carvings.",
+        "Follow slot times; one ID, one entry as posted.",
+        "Threshold Atlas tone: Hui Li legend + Feilai Feng Buddhist grotto continuum."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Lingyin / Feilai Feng from Hangzhou.",
+      "paragraphs": [
+        "Plan a transfer from central Hangzhou or West Lake — bus, metro-plus-walk, or taxi to the Lingyin Feilai Peak gate. It is not a single metro-exit temple.",
+        "Hold a successful 杭州灵隐飞来峰 reservation (or waitlist allocation) and original ID before you queue. Same-day walk-up is no longer a reliable plan after on-site registration ended.",
+        "Inside the scenic, Feilai Feng grottoes and Lingyin halls share the same reserved entry — allow time for hillside paths between them."
+      ],
+      "bullets": [
+        "West Lake corridor → Feilai Peak gate",
+        "Mini-program reservation + original ID",
+        "Not a city-center metro-exit temple",
+        "Hillside path buffer between grottoes and halls"
+      ]
+    },
+    "bestTime": {
+      "intro": "Morning slot cooler; reserve early for weekends.",
+      "paragraphs": [
+        "Morning slots are usually cooler and slightly thinner than afternoon crush. Weekend and holiday quotas are higher but queues and paths are denser.",
+        "Book as soon as your date opens (commonly 7 days ahead at 08:00 Beijing time) — popular dates fill; waitlist is the fallback after on-site registration ended."
+      ],
+      "bullets": [
+        "Best: morning reserved slot on a weekday",
+        "Book day-before+ via 杭州灵隐飞来峰",
+        "Entry ends ~17:00 — verify live",
+        "Waitlist cutoff commonly evening before visit"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm reservation rules on lingyinsi.org / 杭州灵隐飞来峰 — do not invent CNY.",
+        "On-site registration suspended from 2026-02-01; use online waitlist.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "izumo-taisha",
+    "name": "Izumo Taisha / Izumo Ōyashiro (出雲大社), Shimane",
+    "shortName": "Izumo Taisha",
+    "location": "Taisha, Izumo, Shimane",
+    "country": "Japan",
+    "region": "East Asia",
+    "regionSlug": "east-asia",
+    "religions": [
+      "Shinto"
+    ],
+    "religionSlugs": [
+      "shinto"
+    ],
+    "summary": "One of Japan’s oldest and most important Shinto taisha — Ōkuninushi / en-musubi (all human bonds, not romance-only). Official izumooyashiro.or.jp. Grounds / worship generally free; Treasure Hall separate paid when open. Clap form: two bows, four claps, one bow. Ise remains deferred — do not invent a casual dual-shrine day. Do not invent JPY.",
+    "heroImage": "https://images.unsplash.com/photo-1524413840807-0c3cb6fa808d?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Ancient Izumo cult; attested in Kojiki / Nihon shoki / Izumo fudoki; honden rebuild cycles incl. current lineage from Edo renovations",
+      "patron": "Shinto — Ōkuninushi no Kami (kuni-yuzuri / en-musubi)",
+      "unesco": "Not individually inscribed; national treasure architecture / major taisha",
+      "typicalVisit": "2–3 hours shrine + Treasure Hall; overnight Izumo / Matsue common"
+    },
+    "related": [
+      "meiji-shrine",
+      "fushimi-inari",
+      "itsukushima"
+    ],
+    "overview": {
+      "body": [
+        "Izumo Taisha (Izumo Ōyashiro) in Shimane is one of Japan’s oldest and most important Shinto shrines — seat of Ōkuninushi, tied to the kuni-yuzuri myth and to en-musubi as the binding of all human relationships.",
+        "Frame the visit as Ōkuninushi / kuni-yuzuri myth + en-musubi as all human bonds — not “romance-only meme.” Purify at the temizuya; use the Izumo clap form of two bows, four claps, one bow (not the usual two claps); do not throw coins into the Kaguraden shimenawa; ordinary visitors worship from before Yatsuashi-mon — do not invent “enter honden.”",
+        "Official access: grounds and worship are generally free; Treasure Hall (Homotsuden) is a separate paid product when open — verify izumooyashiro.or.jp. Prayers, ofuda, and goshuin are separate desk products. Do not invent JPY; do not sell a single “Izumo ticket” myth. Ise Jingū remains deferred — do not cross-link as a casual dual-shrine day trip.",
+        "Worship hours commonly ~06:00–19:00/20:00 class; area behind honden / Soga no Yashiro earlier close (~16:30 class); Treasure Hall commonly ~08:30–16:30 — verify izumooyashiro.or.jp. Kamiari-zuki and New Year bring crush — check festival notices.",
+        "Soft blockers: Japan already dense in catalog — this page earns keep with logistics depth (clap form, free vs Treasure Hall, Kamiari calendar); Shimane last-train honesty; day-trip from Osaka/Hiroshima is long; wheelchair loan posted — verify live. SanctaWay is informational — it does not sell tickets or grant access."
+      ],
+      "highlights": [
+        "Ōkuninushi taisha — en-musubi as all bonds",
+        "izumooyashiro.or.jp — free worship vs Treasure Hall",
+        "Two bows, four claps, one bow",
+        "Ise remains deferred — not added",
+        "Do not invent JPY or “enter honden”"
+      ]
+    },
+    "visit": {
+      "intro": "Free worship taisha — Treasure Hall separate; clap form differs.",
+      "hours": "Worship commonly ~06:00–19:00/20:00 class; rear precinct / Soga no Yashiro earlier close (~16:30); Treasure Hall ~08:30–16:30 — verify izumooyashiro.or.jp. Kamiari-zuki / New Year crush — check notices.",
+      "tickets": "Grounds / worship generally free; Treasure Hall separate paid when open — izumooyashiro.or.jp. Prayers / ofuda / goshuin separate. Do not invent JPY; do not sell a single “Izumo ticket” myth. Ise stays deferred.",
+      "dress": "Living Shinto taisha — purify at temizuya; modest respectful dress; follow posted photography rules near sacred fences.",
+      "duration": "2–3 hours for sando + worship + Treasure Hall; overnight Izumo / Matsue recommended over a rushed day-trip.",
+      "access": "JR Izumoshi → Ichibata Electric Railway to Izumotaisha-mae, or Ichibata / local bus ~25–30 min from Izumoshi. Overnight in Izumo / Matsue common — day-trip from Osaka/Hiroshima is long.",
+      "tips": [
+        "Verify hours on izumooyashiro.or.jp before you go.",
+        "Worship free; Treasure Hall separate — do not invent JPY.",
+        "Clap form: two bows, four claps, one bow.",
+        "Do not throw coins into the Kaguraden shimenawa.",
+        "Ordinary visitors worship before Yatsuashi-mon — do not invent honden entry.",
+        "Check last trains from Taisha / Izumoshi.",
+        "Ise remains deferred — not a casual dual-shrine day."
+      ],
+      "entryType": "free",
+      "ticketsUrl": "https://izumooyashiro.or.jp/en/",
+      "ticketsLabel": "Izumo Oyashiro — official shrine site",
+      "ticketsNote": "Grounds free; Treasure Hall separate when open; do not invent JPY; Ise deferred."
+    },
+    "etiquette": {
+      "intro": "Living Shinto taisha — different clap form, no shimenawa coin-throw.",
+      "bullets": [
+        "Purify at temizuya before approaching.",
+        "Two bows, four claps, one bow — not the usual two claps.",
+        "Do not throw coins into the Kaguraden shimenawa.",
+        "Threshold Atlas tone: Ōkuninushi / en-musubi as all human bonds."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Izumo Taisha in Shimane.",
+      "paragraphs": [
+        "From JR Izumoshi, take the Ichibata Electric Railway toward Izumotaisha-mae (transfer may apply at Kawato) or a local bus toward the Taisha area (~25–30 minutes). From Izumotaisha-mae it is a short walk to the sando.",
+        "Overnight stays in Izumo or Matsue are the honest base. A same-day round trip from Osaka or Hiroshima is possible but long — check last trains before you commit.",
+        "Shimane Museum of Ancient Izumo sits nearby as a separate museum product — useful context, not a substitute for shrine worship."
+      ],
+      "bullets": [
+        "JR Izumoshi → Ichibata / bus → Taisha",
+        "Overnight Izumo / Matsue recommended",
+        "Check last trains honestly",
+        "Ancient Izumo museum = separate product"
+      ]
+    },
+    "bestTime": {
+      "intro": "Weekday mornings; avoid Kamiari / New Year crush if you want space.",
+      "paragraphs": [
+        "Weekday mornings usually offer quieter sando time. Treasure Hall hours are shorter than worship hours — plan it earlier if you want both.",
+        "Kamiari-zuki (when the kami gather) and New Year bring heavy pilgrim traffic — check izumooyashiro.or.jp festival notices rather than inventing “always quiet.”"
+      ],
+      "bullets": [
+        "Best: weekday morning worship",
+        "Treasure Hall: verify ~08:30–16:30 class",
+        "Kamiari / New Year: expect crush",
+        "Last-train buffer from Taisha"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm hours on izumooyashiro.or.jp — do not invent JPY.",
+        "Ise Jingū remains deferred and is not added with this page.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "imam-mosque-isfahan",
+    "name": "Imam Mosque / Shah Mosque (مسجد امام), Naqsh-e Jahan, Isfahan",
+    "shortName": "Imam Mosque Isfahan",
+    "location": "Naqsh-e Jahan (Meidan Emam), Isfahan",
+    "country": "Iran",
+    "region": "Middle East",
+    "regionSlug": "middle-east",
+    "religions": [
+      "Islamic"
+    ],
+    "religionSlugs": [
+      "islamic"
+    ],
+    "summary": "UNESCO Meidan Emam Safavid congregational masterpiece on Naqsh-e Jahan’s south side. Square free; mosque separate heritage ticket (Iranian vs foreign tiers). Friday / mourning / iʿtikāf may close tourist entry. Sheikh Lotfollah + Ali Qapu are separate products. Foreign cards often fail — cash IRR honesty. Do not invent IRR/USD.",
+    "heroImage": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Safavid Shah Abbas I era (early 17th c.); later repairs; qibla-angle plan on Meidan Emam",
+      "patron": "Islamic — Twelver Shiʿa congregational mosque (active worship + UNESCO monument)",
+      "unesco": "UNESCO World Heritage — Meidan Emam, Esfahan",
+      "typicalVisit": "45–90 minutes inside; pair with Lotfollah / Ali Qapu only with separate tickets + buffer"
+    },
+    "related": [
+      "blue-mosque",
+      "hagia-sophia",
+      "sheikh-zayed-grand-mosque"
+    ],
+    "overview": {
+      "body": [
+        "Imam Mosque (historically Shah Mosque) anchors the south side of Isfahan’s Naqsh-e Jahan — the Safavid congregational masterpiece of Meidan Emam, famous for its blue tile and the honest qibla-angle turn off the square.",
+        "Frame the visit as Safavid Shah Abbas congregational mosque + qibla-angle architecture — not “blue-tile Instagram only.” Active mosque + UNESCO monument: women headscarf + modest dress (on-site loan/rent common); men covered shoulders/knees; remove shoes where posted; quiet during prayer.",
+        "Official tickets: the square is free; the mosque is a separate heritage-desk ticket (Iranian vs foreign tiers). Sheikh Lotfollah and Ali Qapu are separate products — do not invent “one Meidan ticket covers all.” Prefer Iranian cultural-heritage / site desk over random OTAs. Foreign cards often fail in Iran — cash IRR / tourist debit honesty without inventing workarounds as “official.” Do not invent IRR/USD.",
+        "Tourist windows commonly morning + afternoon class; Friday / mourning / iʿtikāf closures for tourist entry — verify on-site / ICHTO notices. Early light on blue tile; evening square illumination is exterior.",
+        "Soft blockers: visa / geopolitics for some passports (state without fearmongering); Friday tourist close; separate monument tickets; payment soft blocker. SanctaWay is informational — it does not sell tickets or grant access."
+      ],
+      "highlights": [
+        "UNESCO Meidan Emam Safavid congregational mosque",
+        "Square free; mosque ticket separate",
+        "Lotfollah + Ali Qapu = separate products",
+        "Friday / mourning / iʿtikāf may close tourist entry",
+        "Cash IRR honesty — do not invent fares"
+      ]
+    },
+    "visit": {
+      "intro": "Square free — mosque heritage ticket separate from Lotfollah / Ali Qapu.",
+      "hours": "Tourist windows commonly morning + afternoon class; Friday / mourning / iʿtikāf may close tourist entry — verify on-site / ICHTO notices. Early light best for tile; evening square light is exterior.",
+      "tickets": "Square free; mosque separate heritage-desk ticket (Iranian vs foreign tiers). Sheikh Lotfollah + Ali Qapu separate. Prefer site / cultural-heritage desk over random OTA. Foreign cards often fail — cash IRR honesty. Do not invent IRR/USD; do not invent “one Meidan ticket.”",
+      "dress": "Active mosque — women: headscarf + modest dress (loan/rent common); men: covered shoulders/knees; remove shoes where posted; quiet during prayer.",
+      "duration": "45–90 minutes inside the mosque; buffer separately for Lotfollah and Ali Qapu.",
+      "access": "Base in Isfahan; walk or taxi to Naqsh-e Jahan south side. Pair with Sheikh Lotfollah + Ali Qapu only with separate tickets and time buffer.",
+      "tips": [
+        "Buy the mosque ticket at the heritage desk — square walking is free.",
+        "Do not invent IRR/USD; foreign/domestic tiers differ — verify live.",
+        "Lotfollah and Ali Qapu need separate tickets.",
+        "Expect Friday / mourning / iʿtikāf tourist closures.",
+        "Foreign cards often fail — plan cash IRR honestly.",
+        "Women: headscarf required; on-site loan/rent common.",
+        "Visa rules vary by passport — check before travel without fearmongering."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://whc.unesco.org/en/list/115/",
+      "ticketsLabel": "Meidan Emam UNESCO — buy mosque ticket at site heritage desk",
+      "ticketsNote": "Square free; mosque separate; do not invent IRR; Lotfollah/Ali Qapu separate."
+    },
+    "etiquette": {
+      "intro": "Active mosque on a UNESCO square — dress and silence matter.",
+      "bullets": [
+        "Women: headscarf + modest dress; men: covered shoulders/knees.",
+        "Remove shoes where posted; quiet during prayer.",
+        "Do not invent “one ticket for the whole square.”",
+        "Threshold Atlas tone: Safavid congregational mosque + qibla-angle honesty."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Imam Mosque on Naqsh-e Jahan.",
+      "paragraphs": [
+        "Stay in Isfahan and walk or take a short taxi to Naqsh-e Jahan (Meidan Emam). The mosque occupies the south side of the square.",
+        "Walking the square is free. Buy the mosque’s own heritage ticket before entering the prayer halls; do not assume Lotfollah or Ali Qapu are included.",
+        "Allow real time between monuments — each has its own queue, shoe rack, and ticket check."
+      ],
+      "bullets": [
+        "Isfahan base → walk / taxi to Meidan Emam south",
+        "Square free; mosque ticket at heritage desk",
+        "Lotfollah / Ali Qapu = separate + buffer",
+        "Cash IRR soft blocker for many foreigners"
+      ]
+    },
+    "bestTime": {
+      "intro": "Early light on tile; avoid Friday tourist closures.",
+      "paragraphs": [
+        "Morning light on the blue tile is usually best. Evening square illumination is an exterior experience — interior hours may already be closed.",
+        "Friday, mourning days, and iʿtikāf periods often close tourist entry — verify on the day rather than inventing a fixed weekly map."
+      ],
+      "bullets": [
+        "Best: morning tourist window on a non-Friday",
+        "Verify mourning / iʿtikāf notices",
+        "Evening square light ≠ interior access",
+        "Heat midday on stone courtyards"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm hours and desk prices on site / ICHTO notices — do not invent IRR/USD.",
+        "Square free ≠ mosque ticket; Lotfollah / Ali Qapu separate.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "khajuraho",
+    "name": "Khajuraho Group of Monuments (Western Group / Kandariya Mahadeva), Madhya Pradesh",
+    "shortName": "Khajuraho",
+    "location": "Khajuraho, Madhya Pradesh",
+    "country": "India",
+    "region": "South Asia",
+    "regionSlug": "south-asia",
+    "religions": [
+      "Hindu"
+    ],
+    "religionSlugs": [
+      "hindu"
+    ],
+    "summary": "UNESCO Chandela temple-city — Western Group (Kandariya Mahadeva and peers) is the ticketed ASI core. Official e-tickets asi.paygov.org.in (Jabalpur circle → Western Group of Temples, Khajuraho). Eastern / Southern groups commonly free. Sound-and-light is MP Tourism separate. Hard-warn fake ticket .com lookalikes. Do not invent INR.",
+    "heroImage": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Chandela dynasty temples mainly 10th–11th c.; UNESCO Group of Monuments",
+      "patron": "Hindu — Śaiva / Vaiṣṇava Chandela temple cosmology (Matangeshwar still in worship nearby)",
+      "unesco": "UNESCO World Heritage — Khajuraho Group of Monuments",
+      "typicalVisit": "Half to full day Western Group; Eastern / Southern groups need separate walks or short rides"
+    },
+    "related": [
+      "konark-sun-temple",
+      "meenakshi",
+      "hampi"
+    ],
+    "overview": {
+      "body": [
+        "Khajuraho’s Western Group is the Chandela temple-city core the world knows — Kandariya Mahadeva and its neighbors under ASI care, a UNESCO sculpture landscape that still sits beside living worship at Matangeshwar.",
+        "Frame the visit as Chandela Śaiva/Vaiṣṇava temple cosmology + UNESCO sculpture program — erotic mithuna is part of the sacred program, not the only frame. Modest dress; no climbing restricted fabric; photography rules as posted.",
+        "Official tickets: Western Group only via ASI Indian Heritage e-tickets — asi.paygov.org.in (Jabalpur circle → Western Group of Temples, Khajuraho). Eastern / Southern groups are commonly free. Sound-and-light is an MP Tourism product, not ASI entry. Hard-warn fake “Khajuraho ticket” .com lookalikes (ASI has warned on lookalikes). Do not invent INR; foreign vs domestic tiers differ — verify live.",
+        "ASI daylight hours — commonly sunrise–sunset; e-ticket slots often forenoon / afternoon class — verify asi.nic.in / asi.paygov.org.in. Early morning for heat and softer light on shikhara sculpture.",
+        "Soft blockers: Western ≠ all groups; midday heat; sound-and-light ≠ ASI entry; under-15 free when published; not a Delhi city-walk add-on. SanctaWay is informational — it does not sell tickets or grant access."
+      ],
+      "highlights": [
+        "UNESCO Chandela Western Group — Kandariya Mahadeva",
+        "ASI e-tickets asi.paygov.org.in only for Western Group",
+        "Eastern / Southern commonly free",
+        "MP Tourism sound-and-light separate",
+        "Hard-warn fake ticket sites — do not invent INR"
+      ]
+    },
+    "visit": {
+      "intro": "ASI Western Group e-ticket — not all Khajuraho groups, not sound-and-light.",
+      "hours": "ASI daylight — commonly sunrise–sunset; e-ticket forenoon / afternoon slots — verify asi.paygov.org.in. Early morning for heat and light.",
+      "tickets": "Western Group only via ASI asi.paygov.org.in (Jabalpur → Western Group of Temples, Khajuraho). Eastern / Southern commonly free. Sound-and-light = MP Tourism separate. Foreign vs domestic tiers — verify live; do not invent INR. Hard-warn fake .com ticket sites. Under-15 free when published.",
+      "dress": "Archaeological / living Hindu temple landscape — modest dress; no climbing restricted fabric; photography as posted.",
+      "duration": "Half day focused Western Group; full day if adding Eastern / Southern walks.",
+      "access": "Khajuraho airport / rail + auto to Western Group gate; Eastern / Southern groups are separate walks or short rides. Not a Delhi city-walk add-on.",
+      "tips": [
+        "Book Western Group on asi.paygov.org.in — prefer ASI channels.",
+        "Do not invent INR; foreign/domestic tiers differ — verify live.",
+        "Eastern / Southern groups are commonly free — plan separately.",
+        "Sound-and-light is MP Tourism, not ASI entry.",
+        "Hard-warn fake Khajuraho ticket websites.",
+        "Go early for heat and softer sculpture light.",
+        "Mithuna sculpture is part of the sacred program — not the only frame."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://asi.paygov.org.in/",
+      "ticketsLabel": "ASI Indian Heritage — Western Group of Temples, Khajuraho",
+      "ticketsNote": "Western Group only; do not invent INR; Eastern/Southern commonly free; sound-and-light separate."
+    },
+    "etiquette": {
+      "intro": "UNESCO temple sculpture landscape — modest, no climbing.",
+      "bullets": [
+        "Modest dress; follow posted photography rules.",
+        "Do not climb restricted fabric or lean on sculpture.",
+        "Matangeshwar nearby may be in worship — give space.",
+        "Threshold Atlas tone: Chandela cosmology — mithuna as part of the program."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Khajuraho’s Western Group.",
+      "paragraphs": [
+        "Fly or rail into Khajuraho, then take an auto or taxi to the Western Group gate opposite the main square. It is not a walk-on from Delhi.",
+        "Hold a valid ASI Western Group e-ticket (asi.paygov.org.in) and photo ID. Eastern and Southern groups need separate short rides or walks — they are usually free but not on the Western ticket.",
+        "If you want the evening sound-and-light show, buy that MP Tourism product separately at the show counter — it is not ASI entry."
+      ],
+      "bullets": [
+        "Airport / rail → auto to Western Group gate",
+        "ASI e-ticket + photo ID",
+        "Eastern / Southern = separate free walks",
+        "Sound-and-light = MP Tourism separate"
+      ]
+    },
+    "bestTime": {
+      "intro": "Early morning for heat and light; winter clearer than peak summer.",
+      "paragraphs": [
+        "Early morning gives softer light on shikhara sculpture and avoids the worst midday heat. Forenoon ASI slots are popular — book ahead when busy.",
+        "Peak summer afternoons are harsh on open stone; winter mornings are usually clearer for photography and walking."
+      ],
+      "bullets": [
+        "Best: early forenoon Western Group slot",
+        "Verify sunrise–sunset / slot times on ASI",
+        "Midday heat soft blocker",
+        "Sound-and-light is evening — separate product"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm prices and slots on asi.paygov.org.in — do not invent INR.",
+        "Western Group ≠ all Khajuraho; hard-warn fake ticket sites.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "jasna-gora",
+    "name": "Jasna Góra Monastery (Black Madonna), Częstochowa",
+    "shortName": "Jasna Góra",
+    "location": "Częstochowa, Silesian Voivodeship",
+    "country": "Poland",
+    "region": "Europe",
+    "regionSlug": "europe",
+    "religions": [
+      "Christian"
+    ],
+    "religionSlugs": [
+      "christian"
+    ],
+    "summary": "Poland’s national Marian shrine — Pauline Fathers’ Jasna Góra and the Chapel of the Miraculous Image (Black Madonna). Grounds / basilica / chapel generally free; museum / treasury / tower / guided groups are separate paid via JCI cennik (jci.jasnagora.pl / jasnagora.pl). Do not invent PLN; do not sell “skip-the-line into the icon.” Mass / confession ≠ tourist show.",
+    "heroImage": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Pauline monastery from 1382 tradition; national Marian shrine; fortress enlargements later centuries",
+      "patron": "Christian — Roman Catholic (Our Lady of Częstochowa / Black Madonna); Pauline Fathers",
+      "unesco": "Not individually inscribed; Poland’s premier Marian pilgrimage sanctuary",
+      "typicalVisit": "1.5–3 hours grounds + chapel; museum / tower add time; feast days need hours of buffer"
+    },
+    "related": [
+      "lourdes",
+      "fatima",
+      "montserrat"
+    ],
+    "overview": {
+      "body": [
+        "Jasna Góra in Częstochowa is Poland’s national Marian shrine — the Pauline Fathers’ hill monastery and the Chapel of the Miraculous Image that draws pilgrims to the Black Madonna.",
+        "Frame the visit as Black Madonna pilgrimage + Polish national devotion — not “fortress Instagram only.” Shoulders and knees covered in chapel and basilica; silence in the Chapel of the Miraculous Image; no flash toward the icon; Mass and confession schedules are not a tourist show.",
+        "Official access: grounds, basilica, and chapel are generally free; museum, treasury, tower, and guided groups are separate paid products via Jasnogórskie Centrum Informacji cennik — jci.jasnagora.pl / jasnagora.pl. Do not invent PLN; do not sell “skip-the-line into the icon” as a ticket product.",
+        "Monastery grounds commonly early morning–evening class (~05:30–21:30 published class); museum / treasury / tower have shorter seasonal hours — verify jasnagora.pl / jci.jasnagora.pl. Early weekday for thinner chapel queues; 15 Aug / 26 Aug feast days mean hours in line.",
+        "Soft blockers: icon viewing vs liturgy times; tower stairs / weather; feast-day closures of tourist routes; guide language; do not conflate with Kraków / Wawel cathedral day (different city). SanctaWay is informational — it does not sell tickets or grant access."
+      ],
+      "highlights": [
+        "Poland’s Black Madonna Marian capital",
+        "Grounds / chapel generally free",
+        "Museum / tower / guides via jci.jasnagora.pl",
+        "Do not invent PLN or icon skip-the-line",
+        "Feast-day crush honesty"
+      ]
+    },
+    "visit": {
+      "intro": "Free pilgrimage shrine — museum / tower / guides are separate JCI products.",
+      "hours": "Grounds commonly ~05:30–21:30 class; museum / treasury / tower shorter seasonal hours — verify jasnagora.pl / jci.jasnagora.pl. Early weekday for thinner chapel queues; feast days = long lines.",
+      "tickets": "Grounds / basilica / chapel generally free; museum / treasury / tower / guided groups separate paid via JCI cennik — jci.jasnagora.pl. Do not invent PLN; do not sell “skip-the-line into the icon.”",
+      "dress": "Active Pauline monastery + Marian shrine — shoulders/knees covered in chapel/basilica; silence at the Miraculous Image; no flash toward the icon.",
+      "duration": "1.5–3 hours grounds + chapel; add museum / tower time; feast days need hours of buffer.",
+      "access": "Rail / bus into Częstochowa; local walk / taxi / city bus to the monastery hill. Pilgrim coaches dominate feast days (esp. 15 Aug / 26 Aug).",
+      "tips": [
+        "Check jasnagora.pl / jci.jasnagora.pl for hours and cennik.",
+        "Do not invent PLN; grounds free ≠ museum / tower.",
+        "Dress for chapel — shoulders and knees covered.",
+        "Silence and no flash at the Miraculous Image.",
+        "Mass / confession times are worship, not a show.",
+        "Tower: stairs / weather limits — verify live.",
+        "Do not conflate with Kraków / Wawel (different city)."
+      ],
+      "entryType": "free",
+      "ticketsUrl": "https://jci.jasnagora.pl/cennik-i-oferta/",
+      "ticketsLabel": "Jasna Góra Information Centre — cennik / guides",
+      "ticketsNote": "Grounds free; museum/tower/guides paid via JCI; do not invent PLN."
+    },
+    "etiquette": {
+      "intro": "Living Marian shrine — silence at the icon.",
+      "bullets": [
+        "Shoulders and knees covered in chapel and basilica.",
+        "Silence in the Chapel of the Miraculous Image; no flash toward the icon.",
+        "Respect Mass and confession — not tourist theatre.",
+        "Threshold Atlas tone: Black Madonna pilgrimage + Polish national devotion."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Jasna Góra in Częstochowa.",
+      "paragraphs": [
+        "Take rail or bus into Częstochowa, then walk, taxi, or city bus up to the monastery hill. Feast days fill with pilgrim coaches — arrive early.",
+        "Entering the grounds, basilica, and chapel does not require a ticket. If you want the museum, treasury, tower, or a guided group, arrange those through JCI (jci.jasnagora.pl).",
+        "Do not treat Jasna Góra as a same-day Kraków cathedral add-on without real travel time — they are different cities."
+      ],
+      "bullets": [
+        "Rail / bus → Częstochowa → hill",
+        "Grounds free; JCI for paid products",
+        "Feast days: pilgrim coach crush",
+        "Not a Kraków walk-on"
+      ]
+    },
+    "bestTime": {
+      "intro": "Early weekday for chapel space; feast days need hours.",
+      "paragraphs": [
+        "Early weekday mornings usually mean thinner lines at the Chapel of the Miraculous Image. Museum and tower hours are shorter than grounds hours — check JCI.",
+        "15 August and 26 August (and other feast days) bring national pilgrimage traffic — expect hours in line and possible tourist-route limits."
+      ],
+      "bullets": [
+        "Best: early weekday chapel visit",
+        "Verify museum / tower seasonal hours",
+        "Feast days: long queues honesty",
+        "Icon viewing may pause around liturgy"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm hours and cennik on jasnagora.pl / jci.jasnagora.pl — do not invent PLN.",
+        "Grounds free ≠ museum / tower / guided products.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "ayutthaya",
+    "name": "Ayutthaya Historical Park (พระนครศรีอยุธยา), Phra Nakhon Si Ayutthaya",
+    "shortName": "Ayutthaya",
+    "location": "Phra Nakhon Si Ayutthaya, Thailand",
+    "country": "Thailand",
+    "region": "Southeast Asia",
+    "regionSlug": "southeast-asia",
+    "religions": [
+      "Buddhist"
+    ],
+    "religionSlugs": [
+      "buddhist"
+    ],
+    "summary": "UNESCO Historic City of Ayutthaya — Siamese Buddhist royal-temple ruins (Wat Phra Si Sanphet / Wat Mahathat / Wat Chaiwatthanaram…). Fine Arts Department Historical Park tickets: per-site or multi-site pass products (Thai vs foreign tiers) — verify live Fine Arts / TAT tourismthailand.org / on-site desks. Do not invent THB; do not treat random OTA “Ayutthaya pass” as Fine Arts without verify.",
+    "heroImage": "https://images.unsplash.com/photo-1528181304800-259b08848526?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Ayutthaya kingdom capital from 1350; sacked 1767; UNESCO Historic City salvage landscape",
+      "patron": "Buddhist — Siamese Theravada royal-temple ruins (living devotion continues at active wats nearby)",
+      "unesco": "UNESCO World Heritage — Historic City of Ayutthaya",
+      "typicalVisit": "Half to full day island circuit; Wat Chaiwatthanaram west-bank needs circuit planning"
+    },
+    "related": [
+      "wat-phra-kaew",
+      "wat-arun",
+      "bagan"
+    ],
+    "overview": {
+      "body": [
+        "Ayutthaya Historical Park is the UNESCO Historic City of the former Siamese capital — Wat Phra Si Sanphet, Wat Mahathat, Wat Chaiwatthanaram and peer royal-temple ruins that still structure a day-trip from Bangkok.",
+        "Frame the visit as Ayutthaya kingdom Buddhist kingship + UNESCO salvage after 1767 — not “ruin selfie park only.” Shoulders and knees covered; no climbing buddha heads or restricted bricks (the Wat Mahathat tree-root head is a viewing spot — do not touch).",
+        "Official tickets: Fine Arts Department Historical Park — per-site or multi-site pass products (Thai vs foreign tiers) covering core wats when published (Wat Phra Si Sanphet / Wat Mahathat / Wat Chaiwatthanaram class). Verify live Fine Arts desks / TAT tourismthailand.org. Do not invent THB; do not treat random OTA “Ayutthaya pass” as a Fine Arts product without verify.",
+        "Historical Park sites commonly ~08:00–18:00 class — verify Fine Arts / TAT notices. Early for heat; sunset at riverside wats is popular — leave buffer for last entry.",
+        "Soft blockers: which wats sit on which ticket; bicycle heat; flood-season paths; do not invent “one ticket forever all island”; mesh with live Bangkok wats without cloning Bangkok prose. SanctaWay is informational — it does not sell tickets or grant access."
+      ],
+      "highlights": [
+        "UNESCO Historic City sacred temples",
+        "Fine Arts Dept per-site / pass products",
+        "Verify tourismthailand.org / on-site desks",
+        "Do not invent THB or fake OTA passes",
+        "No climbing buddha heads / restricted bricks"
+      ]
+    },
+    "visit": {
+      "intro": "Fine Arts Historical Park tickets — per-site or pass; verify which wats.",
+      "hours": "Park sites commonly ~08:00–18:00 class — verify Fine Arts / TAT. Early for heat; sunset riverside needs last-entry buffer.",
+      "tickets": "Fine Arts Department — per-site or multi-site pass (Thai vs foreign tiers) for core wats when published. Verify live Fine Arts desks / tourismthailand.org. Do not invent THB; do not treat random OTA “Ayutthaya pass” as Fine Arts without verify.",
+      "dress": "Sacred Siamese Buddhist royal-temple ruins — shoulders/knees covered; no climbing buddha heads / restricted bricks; do not touch the Wat Mahathat tree-root head.",
+      "duration": "Half day for a focused island circuit; full day if adding west-bank Wat Chaiwatthanaram and slower photography.",
+      "access": "Bangkok → Ayutthaya by train / bus / van (~1.5–2.5 h); island temples by bicycle / tuk-tuk / boat. Wat Chaiwatthanaram is west-bank — plan the circuit.",
+      "tips": [
+        "Buy Fine Arts tickets at official desks — verify which wats are covered.",
+        "Do not invent THB; Thai vs foreign tiers differ — verify live.",
+        "Do not trust random OTA “Ayutthaya pass” without Fine Arts confirmation.",
+        "Bicycle + heat: water, hat, midday shade.",
+        "No climbing buddha heads or restricted bricks.",
+        "West-bank Chaiwatthanaram needs circuit time.",
+        "Mesh with Bangkok wats as a separate day — do not clone Bangkok prose."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://www.tourismthailand.org/",
+      "ticketsLabel": "TAT / Fine Arts — verify Ayutthaya Historical Park tickets",
+      "ticketsNote": "Per-site or pass via Fine Arts desks; do not invent THB; OTA pass ≠ official without verify."
+    },
+    "etiquette": {
+      "intro": "Sacred royal-temple ruins — cover up, do not climb.",
+      "bullets": [
+        "Shoulders and knees covered at park wats.",
+        "No climbing buddha heads or restricted brickwork.",
+        "Do not touch the Wat Mahathat tree-root head — viewing only.",
+        "Threshold Atlas tone: Ayutthaya Buddhist kingship + UNESCO salvage after 1767."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Ayutthaya from Bangkok.",
+      "paragraphs": [
+        "Take a train, bus, or van from Bangkok (~1.5–2.5 hours depending on mode and traffic). The historic island is compact but hot — bicycle, tuk-tuk, or boat circuits are common.",
+        "Buy Fine Arts tickets at the relevant site desks or for the published multi-site pass. Confirm which wats your ticket covers before you assume island-wide access.",
+        "Wat Chaiwatthanaram sits on the west bank — include it deliberately in the circuit rather than discovering it after last entry."
+      ],
+      "bullets": [
+        "Bangkok train / bus / van → Ayutthaya",
+        "Bicycle / tuk-tuk / boat on the island",
+        "Fine Arts desk tickets — verify coverage",
+        "West-bank Chaiwatthanaram = circuit plan"
+      ]
+    },
+    "bestTime": {
+      "intro": "Early for heat; sunset riverside with last-entry buffer.",
+      "paragraphs": [
+        "Early morning avoids the worst heat on brick and open courtyards. Midday is harsh for bicycle circuits.",
+        "Sunset at riverside wats is popular — leave a real buffer before last entry rather than inventing after-hours access."
+      ],
+      "bullets": [
+        "Best: early morning island start",
+        "Verify ~08:00–18:00 class hours",
+        "Heat soft blocker at midday",
+        "Sunset: watch last-entry cutoffs"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm Fine Arts ticket products and prices live — do not invent THB.",
+        "OTA “Ayutthaya pass” is not Fine Arts unless verified.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "sultan-hassan",
+    "name": "Mosque-Madrasa of Sultan Hassan (مسجد ومدرسة السلطان حسن), Cairo",
+    "shortName": "Sultan Hassan",
+    "location": "Salah al-Din Square, Cairo",
+    "country": "Egypt",
+    "region": "Africa",
+    "regionSlug": "africa",
+    "religions": [
+      "Islamic"
+    ],
+    "religionSlugs": [
+      "islamic"
+    ],
+    "summary": "Cairo’s Mamluk mosque-madrasa masterpiece opposite the Citadel. Ministry of Tourism & Antiquities egymonuments.gov.eg — ticket commonly bundles Al-Rifa’i when published. Citadel / Mohammed Ali Mosque are separate. Foreign / student / Egyptian tiers; do not invent EGP. Modest dress; shoes off where posted. Prefer Ministry desk / official e-booking over street scalpers.",
+    "heroImage": "https://images.unsplash.com/photo-1539650116574-75c0c6d73f6e?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Mamluk sultan Hasan, mid-14th c. (c. 1356–1363); later repairs; funerary / madrasa foundation",
+      "patron": "Islamic — Sunni Mamluk mosque-madrasa (four madhhabs historically taught)",
+      "unesco": "Not individually inscribed; major Cairo Islamic monument under Ministry care",
+      "typicalVisit": "60–90 minutes; Al-Rifa’i often same ticket bundle; Citadel needs separate ticket + buffer"
+    },
+    "related": [
+      "kairouan",
+      "hassan-ii-mosque",
+      "blue-mosque"
+    ],
+    "overview": {
+      "body": [
+        "The Mosque-Madrasa of Sultan Hassan faces Salah al-Din Square below the Citadel — Cairo’s great Mamluk congregational and teaching complex, still one of the city’s clearest monumental islamic visits.",
+        "Frame the visit as Mamluk sultanic madrasa-mosque piety + funerary foundation — not “empty monumental courtyard only.” Modest dress; remove shoes where posted; quiet in prayer halls; women head covering often expected.",
+        "Official tickets: Ministry of Tourism & Antiquities — egymonuments.gov.eg / official booking when offered. Foreign / student / Egyptian tiers; the ticket commonly bundles Al-Rifa’i when published — state that honestly. Citadel and Mohammed Ali Mosque are separate products. Do not invent EGP; prefer Ministry desk / official e-booking over street scalpers.",
+        "Monument hours commonly ~09:00–17:00 class; last entry earlier; Ramadan may cut last entry — verify egymonuments.gov.eg. Morning for softer light in the courtyard; midday heat on stone.",
+        "Soft blockers: bundle vs single confusion; Citadel ≠ Sultan Hassan ticket; security checks; uneven floors / stairs; do not invent “free always for tourists.” SanctaWay is informational — it does not sell tickets or grant access."
+      ],
+      "highlights": [
+        "Mamluk mosque-madrasa below the Citadel",
+        "egymonuments.gov.eg — verify live tiers",
+        "Often bundles Al-Rifa’i — state honestly",
+        "Citadel = separate ticket",
+        "Do not invent EGP; prefer Ministry channels"
+      ]
+    },
+    "visit": {
+      "intro": "Ministry ticket — often Al-Rifa’i bundle; Citadel separate.",
+      "hours": "Commonly ~09:00–17:00 class; last entry earlier; Ramadan may cut last entry — verify egymonuments.gov.eg. Morning light softer in the courtyard.",
+      "tickets": "Ministry of Tourism & Antiquities — egymonuments.gov.eg / official booking when offered. Foreign / student / Egyptian tiers; ticket commonly bundles Al-Rifa’i when published. Citadel / Mohammed Ali Mosque separate. Do not invent EGP; prefer Ministry desk / official e-booking over scalpers.",
+      "dress": "Historic mosque-madrasa — modest dress; remove shoes where posted; quiet in prayer halls; women head covering often expected.",
+      "duration": "60–90 minutes for Sultan Hassan (+ Al-Rifa’i when bundled); Citadel needs separate ticket and time buffer.",
+      "access": "Cairo Islamic Cairo / Citadel corridor; metro + taxi / walk to Salah al-Din Square. Often paired with Al-Rifa’i (frequently same ticket bundle) and Citadel (separate).",
+      "tips": [
+        "Buy via Ministry desk / egymonuments.gov.eg when available.",
+        "Do not invent EGP; foreign/student/Egyptian tiers differ — verify live.",
+        "Ask whether Al-Rifa’i is bundled on your ticket.",
+        "Citadel / Mohammed Ali Mosque need separate tickets.",
+        "Modest dress; shoes off where posted.",
+        "Ramadan may cut last entry — verify live.",
+        "Hard-warn street scalpers outside Salah al-Din Square."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://egymonuments.gov.eg/en/monuments/mosque-and-madrasa-of-sultan-hasan/",
+      "ticketsLabel": "Egypt Monuments — Sultan Hassan (Ministry)",
+      "ticketsNote": "Verify live tiers; Al-Rifa’i often bundled; Citadel separate; do not invent EGP."
+    },
+    "etiquette": {
+      "intro": "Mamluk mosque-madrasa — modest dress, quiet halls.",
+      "bullets": [
+        "Modest dress; women head covering often expected.",
+        "Remove shoes where posted; quiet in prayer halls.",
+        "Do not invent “always free for tourists.”",
+        "Threshold Atlas tone: Mamluk sultanic piety + funerary madrasa foundation."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Sultan Hassan below the Citadel.",
+      "paragraphs": [
+        "Approach Salah al-Din Square via metro plus taxi or a walk through the Citadel corridor. The mosque-madrasa faces Al-Rifa’i across the square.",
+        "Hold a valid Ministry ticket. When published, one inclusive ticket covers Sultan Hassan and Al-Rifa’i — confirm at the desk. The Citadel complex is a different Ministry product.",
+        "Security checks and uneven floors are normal — travel light and watch stairs inside the iwans."
+      ],
+      "bullets": [
+        "Metro / taxi → Salah al-Din Square",
+        "Ministry ticket — ask about Al-Rifa’i bundle",
+        "Citadel = separate product + buffer",
+        "Security + uneven floors soft blockers"
+      ]
+    },
+    "bestTime": {
+      "intro": "Morning courtyard light; watch Ramadan last entry.",
+      "paragraphs": [
+        "Morning light in the four-iwan courtyard is usually softer than midday heat on stone. Arrive with margin before last entry.",
+        "Ramadan and major holidays can cut last entry earlier — verify egymonuments.gov.eg rather than inventing fixed hours."
+      ],
+      "bullets": [
+        "Best: morning opening window",
+        "Verify ~09:00–17:00 / last-entry class",
+        "Ramadan: earlier last entry possible",
+        "Midday heat on open stone"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm hours and prices on egymonuments.gov.eg — do not invent EGP.",
+        "Al-Rifa’i often bundled; Citadel is separate.",
         "SanctaWay is informational; it does not sell tickets or grant access.",
         "Hero image is an Unsplash placeholder pending visual / Commons pass."
       ]

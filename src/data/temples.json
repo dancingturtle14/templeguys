@@ -28,7 +28,7 @@
     "related": [
       "borobudur",
       "prambanan",
-      "bagan"
+      "bayon"
     ],
     "overview": {
       "body": [
@@ -143,7 +143,7 @@
     "related": [
       "prambanan",
       "angkor-wat",
-      "ellora"
+      "bayon"
     ],
     "overview": {
       "body": [
@@ -258,7 +258,7 @@
     "related": [
       "senso-ji",
       "fushimi-inari",
-      "itsukushima"
+      "nikko-tosho-gu"
     ],
     "overview": {
       "body": [
@@ -600,7 +600,7 @@
     "related": [
       "wat-pho",
       "wat-arun",
-      "angkor-wat"
+      "doi-suthep"
     ],
     "overview": {
       "body": [
@@ -2889,7 +2889,7 @@
     "related": [
       "senso-ji",
       "meiji-shrine",
-      "kiyomizu-dera"
+      "nikko-tosho-gu"
     ],
     "overview": {
       "body": [
@@ -3115,7 +3115,7 @@
     "related": [
       "chartres",
       "cologne-cathedral",
-      "st-pauls-cathedral"
+      "york-minster"
     ],
     "overview": {
       "body": [
@@ -3691,7 +3691,7 @@
     "related": [
       "wat-pho",
       "borobudur",
-      "mahabodhi"
+      "doi-suthep"
     ],
     "overview": {
       "body": [
@@ -4036,7 +4036,7 @@
     "related": [
       "chartres",
       "notre-dame",
-      "mont-saint-michel"
+      "jeronimos"
     ],
     "overview": {
       "body": [
@@ -4498,7 +4498,7 @@
     "related": [
       "fushimi-inari",
       "meiji-shrine",
-      "todai-ji"
+      "nikko-tosho-gu"
     ],
     "overview": {
       "body": [
@@ -4613,7 +4613,7 @@
     "related": [
       "borobudur",
       "angkor-wat",
-      "besakih"
+      "bayon"
     ],
     "overview": {
       "body": [
@@ -4843,7 +4843,7 @@
     "related": [
       "blue-mosque",
       "hagia-sophia",
-      "sheikh-zayed-grand-mosque"
+      "jama-masjid"
     ],
     "overview": {
       "body": [
@@ -5303,7 +5303,7 @@
     "related": [
       "wat-arun",
       "wat-phra-kaew",
-      "shwedagon"
+      "doi-suthep"
     ],
     "overview": {
       "body": [
@@ -5761,7 +5761,7 @@
     "related": [
       "petra",
       "abu-simbel",
-      "machu-picchu"
+      "philae"
     ],
     "overview": {
       "body": [
@@ -6331,7 +6331,7 @@
     "related": [
       "karnak",
       "petra",
-      "machu-picchu"
+      "philae"
     ],
     "overview": {
       "body": [
@@ -7017,7 +7017,7 @@
     "related": [
       "golden-temple",
       "kashi-vishwanath",
-      "hassan-ii-mosque"
+      "jama-masjid"
     ],
     "overview": {
       "body": [
@@ -8495,7 +8495,7 @@
     "related": [
       "lourdes",
       "guadalupe",
-      "montserrat"
+      "jeronimos"
     ],
     "overview": {
       "body": [
@@ -8833,7 +8833,7 @@
     "related": [
       "ellora",
       "ajanta",
-      "leshan-giant-buddha"
+      "mount-emei"
     ],
     "overview": {
       "body": [
@@ -9285,7 +9285,7 @@
     "related": [
       "fatima",
       "lourdes",
-      "sagrada-familia"
+      "jeronimos"
     ],
     "overview": {
       "body": [
@@ -9851,7 +9851,7 @@
     "related": [
       "westminster-abbey",
       "chartres",
-      "st-pauls-cathedral"
+      "york-minster"
     ],
     "overview": {
       "body": [
@@ -10750,7 +10750,7 @@
     "related": [
       "westminster-abbey",
       "canterbury-cathedral",
-      "notre-dame"
+      "york-minster"
     ],
     "overview": {
       "body": [
@@ -10962,8 +10962,8 @@
       "islamic"
     ],
     "summary": "UAE’s signature mosque and global tourist magnet. Visitors book an online access pass via Sheikh Zayed Grand Mosque Centre (szgmc.gov.ae); worshippers enter designated gates without a tourist pass. Friday visitor windows pause for midday prayer. Modest dress / abaya when required. Do not invent AED; prefer official SZGMC over resellers.",
-    "heroImage": "https://images.unsplash.com/photo-1512632578888-169bbbc64f33?auto=format&fit=crop&w=1600&q=80",
-    "heroCredit": "Unsplash",
+    "heroImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Sheikh_Zayed_Grand_Mosque_%40_Abu_Dhabi_%2815856602738%29.jpg/1920px-Sheikh_Zayed_Grand_Mosque_%40_Abu_Dhabi_%2815856602738%29.jpg",
+    "heroCredit": "Guilhem Vellut / Wikimedia Commons",
     "featured": true,
     "quickFacts": {
       "founded": "Contemporary UAE grand mosque opened 2007; Sheikh Zayed Grand Mosque Centre stewardship",
@@ -10974,7 +10974,7 @@
     "related": [
       "hassan-ii-mosque",
       "blue-mosque",
-      "kairouan"
+      "jama-masjid"
     ],
     "overview": {
       "body": [
@@ -11074,8 +11074,8 @@
       "buddhist"
     ],
     "summary": "UNESCO 71 m cliff Buddha at the Min–Dadu–Qingyi confluence — China Buddhist sculpture crown after Longmen / Yungang / Mogao. Timed booking via WeChat / Alipay 大佛旅游 (Douyin when live); walk (白天游山) ≠ boat (白天游江). Oriental Buddha Park is a separate ticketed site. Do not invent CNY; hard-warn scalpers.",
-    "heroImage": "https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?auto=format&fit=crop&w=1600&q=80",
-    "heroCredit": "Unsplash",
+    "heroImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/%E9%9A%94%E7%9D%80%E5%B2%B7%E6%B1%9F%E8%BF%9C%E7%9C%BA%E4%B9%90%E5%B1%B1%E5%A4%A7%E4%BD%9B_01.jpg/1920px-%E9%9A%94%E7%9D%80%E5%B2%B7%E6%B1%9F%E8%BF%9C%E7%9C%BA%E4%B9%90%E5%B1%B1%E5%A4%A7%E4%BD%9B_01.jpg",
+    "heroCredit": "Liuxingy / Wikimedia Commons",
     "featured": true,
     "quickFacts": {
       "founded": "Tang-era cliff Buddha (8th c.); Leshan scenic / heritage stewardship; UNESCO Mount Emei Scenic Area serial",
@@ -11086,7 +11086,7 @@
     "related": [
       "longmen-grottoes",
       "yungang-grottoes",
-      "mogao-caves"
+      "mount-emei"
     ],
     "overview": {
       "body": [
@@ -11186,8 +11186,8 @@
       "inca"
     ],
     "summary": "Inca Temple of the Sun under the Dominican convent of Santo Domingo — natural Cusco follow-on after Machu Picchu. Temple/convent gate ticket is separate and NOT included in COSITUC Boleto Turístico; underground Museo de Sitio Qorikancha (Av. El Sol) is on the boleto (Circuit II). Cash PEN common at temple gate. Do not invent PEN.",
-    "heroImage": "https://images.unsplash.com/photo-1587595431973-160d0d94add1?auto=format&fit=crop&w=1600&q=80",
-    "heroCredit": "Unsplash",
+    "heroImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Coricancha%2C_Cusco%2C_Per%C3%BA%2C_2015-07-31%2C_DD_69.JPG/1920px-Coricancha%2C_Cusco%2C_Per%C3%BA%2C_2015-07-31%2C_DD_69.JPG",
+    "heroCredit": "Diego Delso / Wikimedia Commons",
     "featured": true,
     "quickFacts": {
       "founded": "Inca Inti temple foundations under Dominican convent / church of Santo Domingo",
@@ -11298,8 +11298,8 @@
       "christian"
     ],
     "summary": "Largest Gothic cathedral + Giralda + Columbus tomb. Official Cabildo tickets via catedraldesevilla.es / e-tickets catedraldesevilla.servitickets.es. General visit usually bundles Cathedral + Giralda (+ Iglesia del Salvador when included). Sunday cultural visit afternoon-class. Worship ≠ sightseeing. Do not invent EUR; prefer official Serviticket.",
-    "heroImage": "https://images.unsplash.com/photo-1558370781-d6196945e2d0?auto=format&fit=crop&w=1600&q=80",
-    "heroCredit": "Unsplash",
+    "heroImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Seville_Cathedral_-_2013.07_-_panoramio.jpg/1920px-Seville_Cathedral_-_2013.07_-_panoramio.jpg",
+    "heroCredit": "rheins / Wikimedia Commons",
     "featured": true,
     "quickFacts": {
       "founded": "Gothic cathedral on Almohad mosque footprint; Giralda former minaret; Cabildo stewardship",
@@ -11410,8 +11410,8 @@
       "hindu"
     ],
     "summary": "272-step Murugan staircase and giant statue — KL day-trip Hindu mega. Main Temple Cave / plaza climb generally free (Sri Subramaniar Swamy Devasthanam). Optional paid caves (Ramayana Cave, Cave Villa, Dark Cave when open) sold on-site. Shoulders + knees covered enforced at stairs. Do not invent MYR; do not treat Viator as official temple entry.",
-    "heroImage": "https://images.unsplash.com/photo-1596422846543-75c6fc71077a?auto=format&fit=crop&w=1600&q=80",
-    "heroCredit": "Unsplash",
+    "heroImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/272_steps_lead_to_the_Batu_Caves._On_the_right%2C_the_43m_statue_of_Murugan_%2818954568816%29.jpg/1920px-272_steps_lead_to_the_Batu_Caves._On_the_right%2C_the_43m_statue_of_Murugan_%2818954568816%29.jpg",
+    "heroCredit": "Jorge Láscar / Wikimedia Commons",
     "featured": true,
     "quickFacts": {
       "founded": "Living Murugan cave temple; Sri Subramaniar Swamy Devasthanam stewardship",
@@ -11522,8 +11522,8 @@
       "christian"
     ],
     "summary": "Major Antonian pilgrimage shrine (tomb / relics). Basilica entry free for individual visitors — santantonio.org. Paid museum single ticket covers listed museum spaces when open (Tue–Sun class). Liturgy first; feast of St Anthony (13 Jun) peak. Do not invent EUR gate fares; do not sell third-party “Padua basilica tickets” as required entry.",
-    "heroImage": "https://images.unsplash.com/photo-1523906834658-6e24ef2386f9?auto=format&fit=crop&w=1600&q=80",
-    "heroCredit": "Unsplash",
+    "heroImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Sant%27Antonio_%28Padua%29_-_Facade.jpg/1920px-Sant%27Antonio_%28Padua%29_-_Facade.jpg",
+    "heroCredit": "Didier Descouens / Wikimedia Commons",
     "featured": true,
     "quickFacts": {
       "founded": "Franciscan / Antonian minor basilica and pilgrimage shrine; tomb of St Anthony",
@@ -11634,8 +11634,8 @@
       "jain"
     ],
     "summary": "Marble Jain architectural crown at Mount Abu (Vimal Vasahi / Luna Vasahi and related temples). Entry generally free (temple trust; not a typical ASI paid monument). Tourist entry window commonly afternoon-only; worshippers often morning. No leather items; no photography / phones inside. Do not invent INR or fake ASI e-tickets.",
-    "heroImage": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?auto=format&fit=crop&w=1600&q=80",
-    "heroCredit": "Unsplash",
+    "heroImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Dilwara_temple_at_mount_abu.jpg/1920px-Dilwara_temple_at_mount_abu.jpg",
+    "heroCredit": "Ranjith Kumar Inbasekaran / Wikimedia Commons",
     "featured": true,
     "quickFacts": {
       "founded": "Śvetāmbara Jain marble temple cluster (Vimal Vasahi / Luna Vasahi etc.); temple-trust stewardship",
@@ -11746,8 +11746,8 @@
       "buddhist"
     ],
     "summary": "Kathmandu Valley UNESCO hill stupa — completes the valley triangle with live Pashupatinath + Boudhanath. On-site heritage entry; nationality tiers via Nepal Tourism Board (ntb.gov.np). Cash NPR common; no reliable official advance e-ticket. Walk clockwise; do not feed monkeys. Do not invent NPR.",
-    "heroImage": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?auto=format&fit=crop&w=1600&q=80",
-    "heroCredit": "Unsplash",
+    "heroImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Swayambhu%2C_Kathmandu%2C_Nepal.jpg/1920px-Swayambhu%2C_Kathmandu%2C_Nepal.jpg",
+    "heroCredit": "Vyacheslav Argenberg / Wikimedia Commons",
     "featured": true,
     "quickFacts": {
       "founded": "Self-arisen hill stupa; Newar / Tibetan Buddhist living complex; UNESCO Kathmandu Valley context",
@@ -11838,6 +11838,903 @@
       "bullets": [
         "Confirm heritage fees on ntb.gov.np; pay at the gate.",
         "Do not invent NPR; no advance e-ticket reliance.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "york-minster",
+    "name": "York Minster, York",
+    "shortName": "York Minster",
+    "location": "York",
+    "country": "United Kingdom",
+    "region": "Europe",
+    "regionSlug": "europe",
+    "religions": [
+      "Christian"
+    ],
+    "religionSlugs": [
+      "christian"
+    ],
+    "summary": "Largest Gothic cathedral in Northern Europe — remaining UK Christian mega after live Canterbury, Westminster, and St Paul’s. Official store tickets.yorkminster.org. General admission typically bundles floor + Chapter House + Undercroft + Crypt; tower is a separate / add-on when open. Sunday sightseeing window shorter. Do not invent GBP; prefer official store over third-party skip-the-line.",
+    "heroImage": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Gothic rebuilding from 13th–15th c. on earlier minster foundations; Church of England cathedral seat of the Archbishop of York",
+      "patron": "Christian — Anglican cathedral church of the Northern Province",
+      "unesco": "Not individually UNESCO (active Anglican cathedral / English Gothic landmark)",
+      "typicalVisit": "Half day floor + Undercroft; add tower when open and fit"
+    },
+    "related": [
+      "canterbury-cathedral",
+      "westminster-abbey",
+      "st-pauls-cathedral"
+    ],
+    "overview": {
+      "body": [
+        "York Minster is the largest Gothic cathedral in Northern Europe — the remaining UK Christian mega still open on SanctaWay after live Canterbury Cathedral, Westminster Abbey, and St Paul’s Cathedral.",
+        "Frame the visit as Northern Gothic pilgrimage and a living choir, not a film-set hall. Active Anglican worship continues daily; sightseeing can pause for services. Shoulders and knees covered when posted; silence in chapels; worshippers first.",
+        "Official tickets: tickets.yorkminster.org (also linked from yorkminster.org/visit/). General admission typically includes the Minster floor, Chapter House, Undercroft Museum, Crypt, and guided tours when offered. The Central Tower / Tower Challenge is a separate or add-on product when open — weather, fitness, and same-day availability apply. Tickets are commonly valid 12 months; York residents and York university students free with proof when published. Prefer the official store over third-party “skip-the-line” as primary CTA. Do not invent GBP — verify live categories on the official store.",
+        "Sightseeing commonly Mon–Sat daytime; Sunday sightseeing is a shorter afternoon-class window — verify the live calendar on yorkminster.org/visit/plan-your-visit/. Liturgy and special services can close sightseeing without long notice.",
+        "Soft blockers: Sunday reduced sightseeing; liturgy pauses; tower fitness / heights / claustrophobia rules; advance-book Sunday when possible; check the calendar before relying on same-day walk-up."
+      ],
+      "highlights": [
+        "Northern Europe’s largest Gothic cathedral — UK Christian mega",
+        "Official store: tickets.yorkminster.org",
+        "Tower is separate / add-on when open",
+        "Sunday sightseeing window shorter — verify calendar",
+        "No invent GBP; prefer official store"
+      ]
+    },
+    "visit": {
+      "intro": "Active Anglican cathedral — book sightseeing on tickets.yorkminster.org; tower is separate when open.",
+      "hours": "Sightseeing commonly Mon–Sat daytime; Sunday shorter afternoon-class window. Verify yorkminster.org/visit/plan-your-visit/ — services can close sightseeing. Tower weather / fitness dependent.",
+      "tickets": "Official store tickets.yorkminster.org (linked from yorkminster.org/visit/). General admission typically bundles floor + Chapter House + Undercroft Museum + Crypt (+ guided tours when offered). Tower Challenge separate / add-on when open. Tickets often valid 12 months; York residents / York students free with proof when published. Prefer official store; do not invent GBP.",
+      "dress": "Active Anglican cathedral — shoulders/knees covered when posted; silence in chapels; worshippers first; no disruptive photography during worship.",
+      "duration": "Half day for floor + Undercroft / Crypt; add time for tower when open and fit.",
+      "access": "Rail into York station; ~10–15 min walk to Deangate / Minster Yard. City walls and Shambles mesh with a Minster day.",
+      "tips": [
+        "Book sightseeing on tickets.yorkminster.org — prefer it over third-party skip-the-line as primary CTA.",
+        "Tower is a separate product — check fitness, weather, and same-day availability.",
+        "Sunday sightseeing is shorter — verify the live calendar before you go.",
+        "Worship ≠ sightseeing; services can pause tourist flow.",
+        "York residents and York students: bring proof when free entry is published.",
+        "Do not invent GBP; verify live fee categories on the official store.",
+        "Pair with city walls / Shambles only with buffer for entry queues."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://tickets.yorkminster.org/",
+      "ticketsLabel": "York Minster Web Store (tickets.yorkminster.org)",
+      "ticketsNote": "Tower separate when open. Prefer official store; do not invent GBP. Worship ≠ sightseeing."
+    },
+    "etiquette": {
+      "intro": "Living Anglican cathedral — dress, silence, and worshippers first.",
+      "bullets": [
+        "Shoulders and knees covered when posted; quiet in chapels.",
+        "Worshippers and liturgy take priority over sightseeing.",
+        "No disruptive photography during services.",
+        "Threshold Atlas tone: Northern Gothic pilgrimage + living choir — not film-set framing."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach York Minster.",
+      "paragraphs": [
+        "Take national rail into York station. From the station it is about a 10–15 minute walk through the city centre to Deangate and Minster Yard.",
+        "York’s compact historic core meshes easily with a Minster day — city walls, Shambles, and nearby museums — but leave buffer for ticket queues and Undercroft timing.",
+        "Coach and tour drop-offs use signed city approaches; confirm walking distance to the Minster entrance rather than assuming a door-side drop."
+      ],
+      "bullets": [
+        "Rail → York station → walk to Deangate / Minster Yard",
+        "Compact centre: walls + Shambles mesh with Minster day",
+        "Buffer for queues and Undercroft timing",
+        "Confirm coach drop vs walking distance"
+      ]
+    },
+    "bestTime": {
+      "intro": "Weekday daytime sightseeing; Sunday is shorter.",
+      "paragraphs": [
+        "Mon–Sat daytime is the most reliable sightseeing window. Sunday is a shorter afternoon-class window — verify the live calendar.",
+        "Tower climbs depend on weather and fitness; do not treat tower access as guaranteed on the same ticket or the same day."
+      ],
+      "bullets": [
+        "Best reliability: Mon–Sat daytime",
+        "Sunday: shorter sightseeing — check calendar",
+        "Tower: weather / fitness / availability",
+        "Liturgy can pause tourist flow"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm hours and products on yorkminster.org / tickets.yorkminster.org.",
+        "Do not invent GBP; prefer the official store.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "jeronimos",
+    "name": "Mosteiro dos Jerónimos, Lisbon (Belém)",
+    "shortName": "Jerónimos Monastery",
+    "location": "Belém, Lisbon",
+    "country": "Portugal",
+    "region": "Europe",
+    "regionSlug": "europe",
+    "religions": [
+      "Christian"
+    ],
+    "religionSlugs": [
+      "christian"
+    ],
+    "summary": "UNESCO Manueline monastery and Discoveries-era sacred complex in Belém — Portugal’s heritage crown beyond live Fátima. Cloister tickets via Museus e Monumentos de Portugal / official MEO Blueticket (mmp.bymeoblueticket.pt). Church (Santa Maria de Belém) has separate liturgy / visit windows from the paid cloister. Closed Mondays. Do not invent EUR; do not treat random OTAs as official MMP.",
+    "heroImage": "https://images.unsplash.com/photo-1555881400-74d7acaacd8b?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Manueline royal monastery under King Manuel I (early 16th c.); Order of Saint Jerome; secularized cloister; active parish church",
+      "patron": "Christian — Hieronymite monastic foundation + Discoveries patronage; parish church of Santa Maria de Belém",
+      "unesco": "UNESCO World Heritage — Monastery of the Hieronymites and Tower of Belém in Lisbon",
+      "typicalVisit": "Half day cloister + church windows; buffer if pairing Belém Tower (separate MMP monument)"
+    },
+    "related": [
+      "fatima",
+      "santiago-de-compostela",
+      "montserrat"
+    ],
+    "overview": {
+      "body": [
+        "Mosteiro dos Jerónimos is Lisbon’s UNESCO Manueline monastery crown in Belém — the Portuguese sacred mega still open beyond live Fátima, and deliberately not another Gothic clone.",
+        "Frame the visit as Manueline devotion and Age of Discoveries patronage honesty, not an Instagram monastery checklist. The complex pairs an active parish church (Santa Maria de Belém) with a secularized cloister under Museus e Monumentos de Portugal (MMP). Modest dress in church; quiet in chapels; no climbing restricted cloister fabric.",
+        "Official tickets: MMP info at museusemonumentos.pt; e-tickets via the official MEO Blueticket MMP channel (mmp.bymeoblueticket.pt — Jerónimos cloister event). Church worship / limited heritage windows are not the cloister ticket. Lisboa Card / combined products when offered — verify live. Prefer official MMP / Blueticket; do not treat random OTAs as official. Do not invent EUR.",
+        "Cloister commonly Tue–Sun ~09:30–17:30 class (last entry earlier); closed Mondays and listed holidays — verify museusemonumentos.pt. Church has separate liturgy / visit windows from the paid cloister.",
+        "Soft blockers: Monday close; Belém coach crush; church vs cloister confusion; heat queues; do not invent “free always for church + cloister.” Belém Tower is a separate MMP monument — pair only with ticket-time buffer."
+      ],
+      "highlights": [
+        "UNESCO Manueline monastery — Portugal beyond Fátima",
+        "MMP + MEO Blueticket cloister tickets",
+        "Church ≠ cloister ticket",
+        "Closed Mondays — verify MMP hours",
+        "No invent EUR; prefer official Blueticket"
+      ]
+    },
+    "visit": {
+      "intro": "UNESCO monastery — book the cloister on official MMP / MEO Blueticket; church windows are separate.",
+      "hours": "Cloister commonly Tue–Sun ~09:30–17:30 (last entry earlier); closed Mondays + listed holidays. Church has separate liturgy / visit windows. Verify museusemonumentos.pt.",
+      "tickets": "Museus e Monumentos de Portugal — museusemonumentos.pt; e-tickets via official MEO Blueticket MMP channel mmp.bymeoblueticket.pt (Jerónimos cloister). Church worship / limited heritage windows ≠ cloister ticket. Lisboa Card products when offered — verify live. Prefer official MMP/Blueticket; do not invent EUR.",
+      "dress": "Active parish church + secularized cloister UNESCO — modest dress in church; quiet in chapels; no climbing restricted cloister fabric.",
+      "duration": "Half day for cloister + church windows; add buffer if pairing Belém Tower (separate ticket).",
+      "access": "Tram 15 or train to Belém; walk to Praça do Império. Coach crush is real in peak season.",
+      "tips": [
+        "Buy cloister tickets on mmp.bymeoblueticket.pt / museusemonumentos.pt — not random OTAs as primary CTA.",
+        "Church ≠ cloister — do not assume one ticket covers both.",
+        "Closed Mondays — plan Tuesday–Sunday.",
+        "Belém Tower is a separate MMP monument; leave ticket-time buffer.",
+        "Expect Belém coach crush and heat queues in peak season.",
+        "Do not invent EUR; verify live fee categories on MMP / Blueticket.",
+        "Residents’ free-access schemes (when published) are on-site / citizen-card rules — verify MMP notices."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://mmp.bymeoblueticket.pt/en/event/14759/mosteiro-dos-jeronimos-claustro",
+      "ticketsLabel": "MMP / MEO Blueticket — Jerónimos cloister",
+      "ticketsNote": "Church ≠ cloister. Prefer official MMP/Blueticket; do not invent EUR. Closed Mondays."
+    },
+    "etiquette": {
+      "intro": "Parish church + secularized cloister — modest dress and quiet.",
+      "bullets": [
+        "Modest dress in the church; quiet in chapels.",
+        "No climbing restricted cloister fabric.",
+        "Respect liturgy windows separate from tourist cloister flow.",
+        "Threshold Atlas tone: Manueline devotion + Discoveries patronage — not Instagram-only."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Jerónimos in Belém.",
+      "paragraphs": [
+        "From central Lisbon, take Tram 15 or the Cascais-line train to Belém, then walk to Praça do Império and the monastery complex.",
+        "Belém is a compact monumental cluster — Jerónimos, the parish church, Belém Tower, and waterfront museums — but tickets and queues are separate products. Do not assume one ticket covers the Tower.",
+        "Taxi / ride-hail drop at Praça do Império works; peak coach arrivals create long approach queues — arrive early on busy days."
+      ],
+      "bullets": [
+        "Tram 15 / Cascais train → Belém → Praça do Império",
+        "Belém Tower = separate MMP ticket",
+        "Peak coach crush — arrive early",
+        "Walk between monuments; buffer ticket times"
+      ]
+    },
+    "bestTime": {
+      "intro": "Tuesday–Sunday; avoid Monday close.",
+      "paragraphs": [
+        "Plan Tuesday–Sunday. Mondays the cloister is closed. Morning openings beat Belém coach crush.",
+        "Church heritage windows differ from cloister hours — check both if you want the nave."
+      ],
+      "bullets": [
+        "Best days: Tue–Sun",
+        "Closed Mondays",
+        "Morning beats coach crush",
+        "Church windows ≠ cloister hours"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm cloister and church hours on museusemonumentos.pt.",
+        "Prefer mmp.bymeoblueticket.pt; do not invent EUR.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "bayon",
+    "name": "Bayon Temple, Angkor Thom, Siem Reap",
+    "shortName": "Bayon",
+    "location": "Angkor Thom, Siem Reap",
+    "country": "Cambodia",
+    "region": "Southeast Asia",
+    "regionSlug": "southeast-asia",
+    "religions": [
+      "Buddhist"
+    ],
+    "religionSlugs": [
+      "buddhist"
+    ],
+    "summary": "Jayavarman VII face-tower state temple at the centre of Angkor Thom — global icon inside the same Angkor Pass as live Angkor Wat. Official Angkor Enterprise only: angkorenterprise.gov.kh / ticket.angkorenterprise.gov.kh. No separate Bayon gate ticket. Central tower may close for conservation. Do not invent USD; hard-warn street scalpers.",
+    "heroImage": "https://images.unsplash.com/photo-1596422846543-75c6fc7107fa?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Late 12th / early 13th c. Mahayana state temple of Jayavarman VII; later Hinduized alterations; Angkor Thom mandala centre",
+      "patron": "Buddhist — Jayavarman VII Mahayana royal cult (Avalokiteshvara / face-tower cosmos); later Hindu overlays",
+      "unesco": "UNESCO World Heritage — Angkor (Angkor Archaeological Park)",
+      "typicalVisit": "1–2 hours on Small Circuit after Angkor Wat; multi-day pass recommended for full park"
+    },
+    "related": [
+      "angkor-wat",
+      "prambanan",
+      "borobudur"
+    ],
+    "overview": {
+      "body": [
+        "Bayon is Jayavarman VII’s face-tower state temple at the exact centre of Angkor Thom — the global Khmer icon still absent after live Angkor Wat, and the right Angkor follow-on for SanctaWay.",
+        "Frame the visit as Jayavarman VII’s face-cosmos and Angkor Thom mandala, not a “smileys selfie maze.” Shoulders and knees covered under the Angkor Code of Conduct; no climbing restricted towers; no touching carved faces.",
+        "Official tickets: Angkor Pass only via Angkor Enterprise — angkorenterprise.gov.kh and ticket.angkorenterprise.gov.kh (web, app, kiosk, official counters on Road 60). Bayon is included in the park pass (1/3/7-day products). There is no separate Bayon gate ticket. Tickets bought elsewhere are not valid (Enterprise messaging). Koh Ker / Beng Mealea are separate products — do not conflate. Prefer official Enterprise; hard-warn street scalpers and hotel “official” fakes. Do not invent USD — verify live pass prices on Angkor Enterprise.",
+        "Temple hours commonly ~07:30–17:30 class — verify APSARA / Angkor Enterprise notices. Early morning or late soft light on the face towers; midday is harsh. The central tower / upper levels may be closed for conservation when posted — ask on the day.",
+        "Soft blockers: pass vs single-temple myth; central-tower conservation closures; heat and crowds; do not invent a Bayon-only ticket; mesh honesty with live Angkor Wat (same pass, different Small Circuit node)."
+      ],
+      "highlights": [
+        "Angkor Thom face-tower state temple — same Angkor Pass",
+        "angkorenterprise.gov.kh / ticket.angkorenterprise.gov.kh only",
+        "No separate Bayon gate ticket",
+        "Central tower may close for conservation",
+        "No invent USD; hard-warn scalpers"
+      ]
+    },
+    "visit": {
+      "intro": "Same Angkor Pass as Angkor Wat — buy only via Angkor Enterprise; no Bayon-only ticket.",
+      "hours": "Temple commonly ~07:30–17:30 class — verify APSARA / Angkor Enterprise notices. Early or late light preferred; midday harsh. Central tower may close for conservation.",
+      "tickets": "Angkor Pass only via Angkor Enterprise — angkorenterprise.gov.kh / ticket.angkorenterprise.gov.kh (web, app, kiosk, Road 60 counters). Bayon included in 1/3/7-day park pass — no separate Bayon gate ticket. Tickets bought elsewhere not valid. Koh Ker / Beng Mealea are separate products. Hard-warn scalpers. Do not invent USD.",
+      "dress": "Sacred Khmer Mahayana / later Hinduized landscape — shoulders/knees covered (Angkor Code of Conduct); no climbing restricted towers; no touching faces.",
+      "duration": "1–2 hours at Bayon on the Small Circuit; multi-day pass for fuller Angkor Thom + Grand Circuit.",
+      "access": "Siem Reap base; tuk-tuk / car on Small Circuit after Angkor Wat. Enter Angkor Thom via South Gate most commonly; Bayon sits at the city centre.",
+      "tips": [
+        "Buy the Angkor Pass only on angkorenterprise.gov.kh / ticket.angkorenterprise.gov.kh — same pass as Angkor Wat.",
+        "There is no separate Bayon ticket — ignore street sellers claiming otherwise.",
+        "Ask on the day whether the central tower is open for conservation.",
+        "Shoulders and knees covered — Angkor Code of Conduct enforced.",
+        "Early morning or late soft light beats midday heat on the face towers.",
+        "Do not conflate Bayon with separate Koh Ker / Beng Mealea tickets.",
+        "Do not invent USD; verify live pass prices on Angkor Enterprise."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://www.angkorenterprise.gov.kh/",
+      "ticketsLabel": "Angkor Enterprise — Angkor Pass (same as Angkor Wat)",
+      "ticketsNote": "No separate Bayon ticket. Prefer official Enterprise; do not invent USD. Scalper warning."
+    },
+    "etiquette": {
+      "intro": "Angkor Code of Conduct — dress, no climbing, no touching faces.",
+      "bullets": [
+        "Shoulders and knees covered.",
+        "No climbing restricted towers; no touching carved faces.",
+        "Quiet respect at a living heritage sacred landscape.",
+        "Threshold Atlas tone: Jayavarman VII face-cosmos + Angkor Thom mandala — not selfie maze."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Bayon from Siem Reap.",
+      "paragraphs": [
+        "Base in Siem Reap. Most visitors take a tuk-tuk or private car on the Small Circuit after Angkor Wat. Bayon sits at the centre of Angkor Thom — enter via the South Gate most commonly.",
+        "Hold a valid Angkor Pass before temple checkpoints. Buy or collect via Angkor Enterprise (web/app/Road 60 counters/kiosks). The same pass covers Angkor Wat and Bayon.",
+        "Agree driver circuit order and waiting fees up front. Midday heat on open stone is punishing — plan Bayon for softer light when possible."
+      ],
+      "bullets": [
+        "Siem Reap → Small Circuit → Angkor Thom South Gate → Bayon",
+        "Same Angkor Pass as Angkor Wat",
+        "Agree driver circuits / waiting fees up front",
+        "Softer light beats midday heat"
+      ]
+    },
+    "bestTime": {
+      "intro": "Early or late light on the face towers.",
+      "paragraphs": [
+        "Early morning and late afternoon give softer light on the face towers. Midday is harsh and crowded.",
+        "Cooler months (roughly Nov–Feb) are more comfortable; March–May are extremely hot on open stone."
+      ],
+      "bullets": [
+        "Best hours: early morning or late afternoon",
+        "Best months: roughly Nov–Feb",
+        "Central tower: ask about conservation closures",
+        "Same pass: put Bayon on a cooler Small Circuit slot"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm pass prices and hours on angkorenterprise.gov.kh.",
+        "No separate Bayon ticket; do not invent USD.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "mount-emei",
+    "name": "Mount Emei (峨眉山), Sichuan",
+    "shortName": "Mount Emei",
+    "location": "Emeishan, Sichuan",
+    "country": "China",
+    "region": "East Asia",
+    "regionSlug": "east-asia",
+    "religions": [
+      "Buddhist"
+    ],
+    "religionSlugs": [
+      "buddhist"
+    ],
+    "summary": "UNESCO Buddhist pilgrimage mountain (Puxian / Samantabhadra) — China mountain crown and Leshan Giant Buddha serial-site peer. Scenic admission + highland sightseeing bus + optional cable cars are separate products. Book via WeChat 峨眉山景区 / mini-program 峨眉山旅游官方平台 and authorized channels on ems517.com. Leidongping timed bus slots. No night hiking on posted segments. Do not invent CNY; hard-warn scalpers. Leshan ≠ Emei ticket.",
+    "heroImage": "https://images.unsplash.com/photo-1508804185872-d7aad8140d7e?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "One of China’s Four Sacred Buddhist Mountains; Puxian (Samantabhadra) pilgrimage landscape; UNESCO Mount Emei Scenic Area serial with Leshan",
+      "patron": "Buddhist — Samantabhadra (Puxian) mountain mandala + monastic landscape",
+      "unesco": "UNESCO World Heritage — Mount Emei Scenic Area, including Leshan Giant Buddha Scenic Area",
+      "typicalVisit": "Full day to overnight for Golden Summit; pair with Leshan only with full-day buffer"
+    },
+    "related": [
+      "leshan-giant-buddha",
+      "longmen-grottoes",
+      "yungang-grottoes"
+    ],
+    "overview": {
+      "body": [
+        "Mount Emei is a UNESCO Buddhist pilgrimage mountain in Sichuan — the China mountain crown still open after the live Leshan Giant Buddha, and the serial-site peer SanctaWay needed next.",
+        "Frame the visit as a sacred mountain mandala and monastic landscape (Puxian / Samantabhadra), not a cable-car checklist. Modest dress in temple halls; no feeding monkeys; quiet at Golden Summit halls.",
+        "Official tickets: scenic admission, highland sightseeing bus, and optional cable cars are separate products. Book via official WeChat 峨眉山景区 / mini-program 峨眉山旅游官方平台 and authorized channels noted on ems517.com (Ctrip/Meituan when authorized). Non-hikers should buy the sightseeing bus with admission (Leidongping timed slots). Hotline 400-8196-333. Hard-warn unofficial scalpers. Do not invent CNY. Leshan Giant Buddha is a different ticket and transport day.",
+        "Scenic day gates shift seasonally — verify ems517.com. Golden Summit sunrise is separate logistics (overnight or very early bus). No night hiking on posted trail segments; zero-km to Leidongping road segments prohibit tourist walking when posted.",
+        "Soft blockers: WeChat-first UX; bus timed-slot sell-outs; altitude / cold at Golden Summit; monkey theft; Leshan ≠ Emei ticket; rain/ice trail closures; passport / foreign-doc window assist."
+      ],
+      "highlights": [
+        "UNESCO Buddhist pilgrimage mountain — Leshan serial peer",
+        "WeChat 峨眉山景区 / 峨眉山旅游官方平台",
+        "Admission ≠ bus ≠ cable — buy what you need",
+        "Leidongping timed bus slots; no night hike",
+        "No invent CNY; Leshan ≠ Emei ticket"
+      ]
+    },
+    "visit": {
+      "intro": "Sacred mountain day or overnight — book admission + bus on official WeChat / ems517 channels; products are separate.",
+      "hours": "Scenic day gates seasonally earlier/later — verify ems517.com. Golden Summit sunrise needs overnight or very early logistics. No night hiking on posted segments.",
+      "tickets": "Scenic admission + highland sightseeing bus + optional cable cars are separate. Book via WeChat 峨眉山景区 / mini-program 峨眉山旅游官方平台 and authorized channels on ems517.com. Leidongping bus timed slots. Hotline 400-8196-333. Hard-warn scalpers. Do not invent CNY. Leshan is a separate ticket.",
+      "dress": "Living Chinese Buddhist pilgrimage mountain — modest dress in temple halls; layers for Golden Summit cold; practical shoes; no feeding monkeys; quiet at summit halls.",
+      "duration": "Full day minimum for highland / Golden Summit; overnight common for sunrise. Pair with Leshan only with a full separate day buffer.",
+      "access": "Rail / air into Emeishan / Leshan–Chengdu corridor; bus / taxi to Huangwan visitor cluster / zero-km gate.",
+      "tips": [
+        "Book on WeChat 峨眉山景区 / 峨眉山旅游官方平台 — prefer official over scalpers.",
+        "Non-hikers: buy sightseeing bus with admission; Leidongping is timed.",
+        "Admission ≠ bus ≠ cable — products are not interchangeable.",
+        "Leshan Giant Buddha is a different ticket and day — do not conflate.",
+        "No night hiking on posted segments; check trail closures for rain/ice.",
+        "Golden Summit is cold and high — layers, altitude honesty, monkey-bag awareness.",
+        "Do not invent CNY; verify live categories on ems517.com / official WeChat."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "http://www.ems517.com/",
+      "ticketsLabel": "ems517.com + WeChat 峨眉山景区 / 峨眉山旅游官方平台",
+      "ticketsNote": "Admission ≠ bus ≠ cable. Leshan separate. Prefer official WeChat; do not invent CNY."
+    },
+    "etiquette": {
+      "intro": "Living pilgrimage mountain — modest dress, quiet halls, no feeding monkeys.",
+      "bullets": [
+        "Modest dress in temple halls; quiet at Golden Summit.",
+        "Do not feed or tease monkeys; secure bags and phones.",
+        "Stay on posted trails; no night hiking where prohibited.",
+        "Threshold Atlas tone: sacred mountain mandala — not cable-car checklist only."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Mount Emei.",
+      "paragraphs": [
+        "Rail or fly into the Emeishan / Leshan–Chengdu corridor, then bus or taxi to the Huangwan visitor cluster / zero-kilometre gate.",
+        "Most non-hikers combine scenic admission with the highland sightseeing bus to Leidongping, then optional cable toward Golden Summit. Timed bus slots sell out — book with admission.",
+        "Pairing with the live Leshan Giant Buddha needs a full-day buffer and separate tickets/transport — do not treat them as one ticketed site."
+      ],
+      "bullets": [
+        "Rail/air → Emeishan / Leshan corridor → Huangwan / zero-km",
+        "Book admission + Leidongping bus together if not hiking",
+        "Cable cars optional and separate",
+        "Leshan = separate day and ticket"
+      ]
+    },
+    "bestTime": {
+      "intro": "Cooler clear days; sunrise needs overnight logistics.",
+      "paragraphs": [
+        "Clear cooler months give better Golden Summit views; fog and ice are common in winter. Rainy season trails can close.",
+        "Sunrise at Golden Summit is a logistics product — overnight nearby or a very early bus — not a casual add-on."
+      ],
+      "bullets": [
+        "Clear cooler days for summit views",
+        "Winter: ice / cold honesty",
+        "Sunrise: overnight or very early bus",
+        "Check trail and bus notices the night before"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm products and hours on ems517.com / official WeChat.",
+        "Do not invent CNY; Leshan ≠ Emei ticket.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "nikko-tosho-gu",
+    "name": "Nikkō Tōshō-gū (日光東照宮), Tochigi",
+    "shortName": "Nikkō Tōshō-gū",
+    "location": "Nikkō, Tochigi",
+    "country": "Japan",
+    "region": "East Asia",
+    "regionSlug": "east-asia",
+    "religions": [
+      "Shinto"
+    ],
+    "religionSlugs": [
+      "shinto"
+    ],
+    "summary": "UNESCO “Shrines and Temples of Nikkō” tourist crown — Tokugawa Ieyasu enshrined; Yōmeimon, Three Monkeys, Sleeping Cat. On-site shrine admission (cash common); info toshogu.jp + visitnikko.jp. Shrine ticket ≠ Tōshō-gū Museum ≠ Art Museum. Third-party vouchers often must be exchanged at Tōbu-Nikkō Station Tourist Center, not at the shrine gate. Ise remains deferred — not added. Do not invent JPY.",
+    "heroImage": "https://images.unsplash.com/photo-1524413840807-0c3cb6fa808d?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Tokugawa Ieyasu enshrined 1617; enlarged under Iemitsu mid-17th c.; Gongen-zukuri splendour; UNESCO Shrines and Temples of Nikkō",
+      "patron": "Shinto — Tokugawa Ieyasu as Tōshō Daigongen; shogunal apotheosis shrine",
+      "unesco": "UNESCO World Heritage — Shrines and Temples of Nikkō",
+      "typicalVisit": "Half to full day shrine precincts; museum combos when offered; long Tokyo day-trip buffer"
+    },
+    "related": [
+      "meiji-shrine",
+      "itsukushima",
+      "fushimi-inari"
+    ],
+    "overview": {
+      "body": [
+        "Nikkō Tōshō-gū is the UNESCO shogun-shrine tourist crown of Tochigi — Tokugawa Ieyasu enshrined amid Gongen-zukuri splendour (Yōmeimon, Three Monkeys, Sleeping Cat). It is a carefully justified Japan add despite dense Japan coverage; Ise Jingū remains deferred and is not added here.",
+        "Frame the visit as shogunal apotheosis and living Shinto shrine practice, not a “Three Monkeys meme stop.” Purify at the temizuya; quiet in worship halls; no eating on sacred approaches; photography restrictions where posted.",
+        "Official tickets: on-site shrine admission (cash common at the gate) — info toshogu.jp and city tourism visitnikko.jp / nikko-kankou.org. Shrine ticket ≠ Tōshō-gū Museum ≠ Art Museum — combo products when offered. Third-party vouchers (Tobu Top Tours / Klook / similar) often must be exchanged at the Tōbu-Nikkō Station Tourist Center, not at the shrine gate — state that honestly. Prefer shrine/tourism official info as primary CTA over OTA as “official.” Do not invent JPY.",
+        "Hours commonly Apr–Oct ~09:00–17:00 (last entry ~30 min prior); Nov–Mar shorter day — verify toshogu.jp / visitnikko.jp. Festival processions change flow.",
+        "Soft blockers: many stairs; voucher exchange location; separate museum tickets; rain on lacquer; Japan already dense — this page earns its keep with visitor logistics depth, not Kyoto-clone prose. Ise stays deferred."
+      ],
+      "highlights": [
+        "UNESCO Nikkō shogun shrine — careful Japan add",
+        "toshogu.jp + visitnikko.jp; on-site cash common",
+        "Vouchers: exchange at Tōbu-Nikkō Station, not gate",
+        "Shrine ≠ museum tickets",
+        "Ise deferred — not added; no invent JPY"
+      ]
+    },
+    "visit": {
+      "intro": "Active Shinto shrine — pay on-site or exchange station vouchers first; museum combos are separate.",
+      "hours": "Commonly Apr–Oct ~09:00–17:00 (last entry ~30 min prior); Nov–Mar shorter day. Verify toshogu.jp / visitnikko.jp. Festival days change flow.",
+      "tickets": "On-site shrine admission (cash common) — toshogu.jp + visitnikko.jp / nikko-kankou.org. Shrine ≠ Tōshō-gū Museum ≠ Art Museum. Third-party vouchers often must be exchanged at Tōbu-Nikkō Station Tourist Center, not at the shrine gate. Prefer shrine/tourism official info; do not invent JPY.",
+      "dress": "Active Shinto shrine — purify at temizuya; quiet in worship halls; no eating on sacred approaches; photography restrictions where posted.",
+      "duration": "Half to full day for shrine precincts; add museum time when booked. Tokyo day-trips need transfer buffer.",
+      "access": "Tobu / JR to Tōbu-Nikkō or Nikkō station; World Heritage bus to Omotesandō / Shinkyō; walk the shrine approach.",
+      "tips": [
+        "If you bought an OTA voucher, exchange it at Tōbu-Nikkō Station Tourist Center — not at the shrine gate.",
+        "On-site cash is common at the shrine ticket counter — carry yen.",
+        "Shrine admission ≠ museum tickets — buy combos only if you want museums.",
+        "Many stairs on the approach — pace and footwear matter.",
+        "Verify seasonal hours on toshogu.jp / visitnikko.jp.",
+        "Ise Jingū is deferred on SanctaWay — this page is Nikkō only.",
+        "Do not invent JPY; prefer shrine/tourism official info over OTA as “official.”"
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://www.toshogu.jp/",
+      "ticketsLabel": "toshogu.jp + visitnikko.jp (on-site / voucher exchange honesty)",
+      "ticketsNote": "Vouchers often exchange at Tōbu-Nikkō Station, not gate. Museum separate. Do not invent JPY. Ise not added."
+    },
+    "etiquette": {
+      "intro": "Living Shinto shrine — purify, quiet, photography rules.",
+      "bullets": [
+        "Purify at the temizuya before approaching.",
+        "Quiet in worship halls; no eating on sacred approaches.",
+        "Obey photography restrictions where posted.",
+        "Threshold Atlas tone: shogunal apotheosis + Gongen-zukuri — not Three Monkeys meme stop only."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Nikkō Tōshō-gū.",
+      "paragraphs": [
+        "From Tokyo, Tobu or JR services to Tōbu-Nikkō or Nikkō station are the usual path. Day-trips are common but long — buffer transfers and return trains.",
+        "From the station, take the World Heritage bus toward Omotesandō / Shinkyō, then walk the shrine approach. If you hold an advance voucher, exchange it at the Tōbu-Nikkō Station Tourist Center before riding up.",
+        "Stairs and slopes on the final approach are real — allow time and sensible shoes."
+      ],
+      "bullets": [
+        "Tokyo → Tobu/JR → Tōbu-Nikkō / Nikkō",
+        "World Heritage bus → Omotesandō / Shinkyō → walk",
+        "Voucher exchange at station Tourist Center first",
+        "Stairs on final approach — pace yourself"
+      ]
+    },
+    "bestTime": {
+      "intro": "Shoulder seasons; verify shorter winter hours.",
+      "paragraphs": [
+        "Spring and autumn processions and foliage draw crowds. Summer is green and busy; winter hours are shorter and colder on the mountain.",
+        "Arrive near opening to walk Yōmeimon approaches before coach groups peak."
+      ],
+      "bullets": [
+        "Arrive near opening when possible",
+        "Winter: shorter hours + cold",
+        "Festival / foliage days: expect crowds",
+        "Verify hours on toshogu.jp the night before"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm hours and products on toshogu.jp / visitnikko.jp.",
+        "Voucher exchange location honesty; do not invent JPY.",
+        "Ise Jingū remains deferred — not added.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "jama-masjid",
+    "name": "Jama Masjid, Old Delhi",
+    "shortName": "Jama Masjid",
+    "location": "Old Delhi",
+    "country": "India",
+    "region": "South Asia",
+    "regionSlug": "south-asia",
+    "religions": [
+      "Islamic"
+    ],
+    "religionSlugs": [
+      "islamic"
+    ],
+    "summary": "Shah Jahan’s Friday mosque — Delhi’s living Islamic tourist mega while Haram sites stay deferred. Visitor entry managed on-site; reference Delhi Tourism (delhitourism.gov.in) / Incredible India. No reliable single national e-ticket as of research — plan on-site payment + ID. Friday midday congregational prayer typically closes non-worshipper tourist entry. Modest dress; head covering for women often required. Do not invent INR; do not sell third-party skip-the-line as required entry.",
+    "heroImage": "https://images.unsplash.com/photo-1564507592333-c60657eea523?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Mughal Friday mosque commissioned by Shah Jahan (mid-17th c.); living jami‘ mosque of Old Delhi",
+      "patron": "Islamic — congregational Friday mosque (jami‘) + Mughal imperial patronage",
+      "unesco": "Not individually UNESCO (active national mosque / Mughal landmark)",
+      "typicalVisit": "1–2 hours courtyard + optional tower climb when offered; buffer if pairing Red Fort"
+    },
+    "related": [
+      "taj-mahal",
+      "sheikh-zayed-grand-mosque",
+      "hassan-ii-mosque"
+    ],
+    "overview": {
+      "body": [
+        "Jama Masjid is Shah Jahan’s Friday mosque in Old Delhi — the highest-demand living Islamic tourist mosque still open in South Asia while Mecca, Medina, and Al-Aqsa stay deferred on SanctaWay.",
+        "Frame the visit as a living Mughal jami‘ mosque, not an Old Delhi rooftop-only stop. Modest dress; head covering for women often required or available at the gate; remove shoes; quiet in courtyards during prayer; no disruptive photography of worshippers.",
+        "Official tickets: visitor entry is managed on-site; nationality / camera / tower fees when charged are posted at the gates — reference Delhi Tourism (delhitourism.gov.in) and Incredible India listings. There is no reliable single national e-ticket as of plan research — plan on-site payment and ID. Worshippers enter for prayer under mosque rules (not a tourist ticket product). Do not invent INR; do not treat third-party “Jama Masjid skip-the-line” as required entry.",
+        "Tourist visit commonly daytime outside prayer peaks — verify Delhi Tourism and on-site notices. Friday midday congregational prayer typically closes non-worshipper tourist entry — plan around it. South minaret / tower climb when offered is a separate timed product.",
+        "Soft blockers: Friday pause; shoe/dress desk queues; heat on sandstone; tower climb fitness; scams around “official guides” at approaches — tipping is voluntary, not a gate fee."
+      ],
+      "highlights": [
+        "Shah Jahan Friday mosque — Delhi islamic tourist mega",
+        "On-site entry; Delhi Tourism / Incredible India notes",
+        "No reliable national e-ticket — plan on-site + ID",
+        "Friday midday tourist pause",
+        "No invent INR; no fake skip-the-line CTA"
+      ]
+    },
+    "visit": {
+      "intro": "Living Friday mosque — on-site visitor entry; plan around Friday prayer; no fake e-ticket CTA.",
+      "hours": "Tourist visit commonly daytime outside prayer peaks — verify delhitourism.gov.in and on-site notices. Friday midday congregational prayer typically closes non-worshipper tourist entry.",
+      "tickets": "Visitor entry managed on-site; nationality / camera / tower fees when charged are posted at gates — reference Delhi Tourism (delhitourism.gov.in) / Incredible India. No reliable single national e-ticket as of research — plan on-site payment + ID. Worshippers enter under mosque rules. Do not invent INR; do not sell third-party skip-the-line as required entry.",
+      "dress": "Active Friday mosque — modest dress; head covering for women often required / available; remove shoes; quiet during prayer; no disruptive photography of worshippers.",
+      "duration": "1–2 hours for courtyard and halls; add time for tower climb when offered. Pair with Red Fort only with security + heat buffer (separate tickets/sites).",
+      "access": "Metro to Jama Masjid / Chawri Bazar area; walk into Meena Bazaar / mosque gates.",
+      "tips": [
+        "Plan on-site payment and ID — do not rely on a national e-ticket that does not exist as a required path.",
+        "Friday midday prayer typically closes tourist entry — visit another daypart or another day.",
+        "Modest dress and women’s head covering — use gate desk wraps when needed.",
+        "Remove shoes; expect desk queues in heat.",
+        "Tower / minaret climb when offered is separate and fitness-dependent.",
+        "“Official guides” at approaches are often voluntary tipping — clarify before following.",
+        "Do not invent INR; prefer Delhi Tourism / on-site posted fees over OTA skip-the-line as primary CTA."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://delhitourism.gov.in/tourist_place/jama_masjid.html",
+      "ticketsLabel": "Delhi Tourism notes — on-site visitor entry (no national e-ticket CTA)",
+      "ticketsNote": "On-site fees when charged. Friday tourist pause. Do not invent INR. No fake skip-the-line as required entry."
+    },
+    "etiquette": {
+      "intro": "Living jami‘ mosque — dress, shoes, quiet during prayer.",
+      "bullets": [
+        "Modest dress; women’s head covering often required.",
+        "Remove shoes; quiet in courtyards during prayer.",
+        "No disruptive photography of worshippers.",
+        "Threshold Atlas tone: living Mughal Friday mosque — not rooftop-only framing."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Jama Masjid in Old Delhi.",
+      "paragraphs": [
+        "Take the Delhi Metro to the Jama Masjid / Chawri Bazar area and walk through Meena Bazaar approaches to the mosque gates.",
+        "Old Delhi lanes are dense — keep valuables close and agree any guide fees before following. Red Fort is nearby but is a separate ASI ticketed site; pair only with security and heat buffer.",
+        "Arrive outside Friday midday prayer if you are a tourist visitor; worshippers follow mosque prayer access rules."
+      ],
+      "bullets": [
+        "Metro → Jama Masjid / Chawri Bazar → walk",
+        "Red Fort = separate ticket/site",
+        "Avoid Friday midday tourist entry",
+        "Clarify guide tipping before following"
+      ]
+    },
+    "bestTime": {
+      "intro": "Daytime outside prayer peaks; avoid Friday midday as a tourist.",
+      "paragraphs": [
+        "Cooler morning or late afternoon light is easier on sandstone courtyards. Midday heat is intense.",
+        "Friday congregational prayer typically closes non-worshipper tourist entry — plan another daypart."
+      ],
+      "bullets": [
+        "Best: cooler morning / late afternoon",
+        "Avoid Friday midday as a tourist",
+        "Heat honesty on sandstone",
+        "Verify Delhi Tourism / on-site notices"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm visitor rules via Delhi Tourism / on-site notices.",
+        "Do not invent INR; no fake national e-ticket CTA.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "philae",
+    "name": "Philae Temple (Isis) / Agilkia Island, Aswan",
+    "shortName": "Philae Temple",
+    "location": "Agilkia Island, Aswan",
+    "country": "Egypt",
+    "region": "Africa",
+    "regionSlug": "africa",
+    "religions": [
+      "Ancient Egyptian"
+    ],
+    "religionSlugs": [
+      "ancient-egyptian"
+    ],
+    "summary": "Relocated Isis temple — UNESCO Nubian salvage icon on Agilkia Island after High Dam. Official Ministry tickets via egymonuments.gov.eg / egymonuments.com (or marina booth). Boat transfer from Marina Philae (Shellal) is mandatory and usually a separate cash payment — not included in the monument ticket. Sound & Light is a separate evening product. Do not invent EGP. Abu Simbel is a different site/day.",
+    "heroImage": "https://images.unsplash.com/photo-1539650116574-75c0c6d73f6e?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Ptolemaic–Roman Isis temple complex; relocated from original Philae Island to Agilkia during UNESCO Nubian campaign for the High Dam",
+      "patron": "Ancient Egyptian — Isis cult temple; Ptolemaic–Roman sacred landscape",
+      "unesco": "UNESCO World Heritage — Nubian Monuments from Abu Simbel to Philae",
+      "typicalVisit": "Half day including boat transfer; Sound & Light separate evening product"
+    },
+    "related": [
+      "abu-simbel",
+      "karnak",
+      "petra"
+    ],
+    "overview": {
+      "body": [
+        "Philae Temple is the relocated Isis temple on Agilkia Island near Aswan — the cleanest high-demand Africa ancient-Egyptian open after live Karnak and Abu Simbel.",
+        "Frame the visit as Isis cult and UNESCO Nubian salvage honesty, not an adventure-film island checklist. No climbing restricted blocks; respectful photography; heat honesty on open stone.",
+        "Official tickets: Ministry of Tourism & Antiquities platforms egymonuments.gov.eg / booking egymonuments.com (and Experience Egypt app when live) or the marina ticket booth before boarding. Foreign / student / Egyptian tiers — verify live; do not invent EGP. The boat from Marina Philae (Shellal) to Agilkia is mandatory and is usually a separate cash payment to boatmen / co-op — boat ≠ temple ticket. Sound & Light is a separate evening product when running. Abu Simbel is a different site and day.",
+        "Monument daytime class commonly ~07:00–16:00 — verify egymonuments.gov.eg. Last entry earlier than close.",
+        "Soft blockers: boat bargaining / co-op queues; summer heat; Sound & Light upsell confusion; do not invent “ticket includes boat”; mesh with live Karnak + Abu Simbel without cloning Upper Egypt prose."
+      ],
+      "highlights": [
+        "UNESCO Nubian Isis temple on Agilkia",
+        "egymonuments.gov.eg / egymonuments.com",
+        "Boat transfer ≠ monument ticket",
+        "Sound & Light separate evening product",
+        "No invent EGP; Abu Simbel = different day"
+      ]
+    },
+    "visit": {
+      "intro": "Agilkia Isis temple — buy Ministry ticket; pay boat separately; Sound & Light is optional evening.",
+      "hours": "Monument daytime commonly ~07:00–16:00 — verify egymonuments.gov.eg. Sound & Light is a separate evening product when running.",
+      "tickets": "Ministry platforms egymonuments.gov.eg / egymonuments.com (Experience Egypt app when live) or marina booth before boarding. Foreign/student/Egyptian tiers — verify live; do not invent EGP. Boat transfer from Marina Philae is usually separate cash — boat ≠ temple ticket. Sound & Light separate. Abu Simbel different site/day.",
+      "dress": "Archaeological sacred Isis temple — sun protection; no climbing restricted blocks; respectful photography; heat honesty.",
+      "duration": "Half day including marina transfer and island visit; add evening if booking Sound & Light.",
+      "access": "Aswan base; taxi / tour to Marina Philae (Shellal); boat mandatory to Agilkia Island.",
+      "tips": [
+        "Buy the monument ticket on egymonuments.com / Ministry channels or at the marina booth — verify live tiers.",
+        "Agree round-trip boat fare, waiting time, and payment before boarding — boat is not the temple ticket.",
+        "Do not invent “ticket includes boat.”",
+        "Sound & Light is a separate evening upsell when running.",
+        "Summer heat on open stone is severe — water, shade, early start.",
+        "Abu Simbel is a different site and usually a different day.",
+        "Do not invent EGP; prefer Ministry platforms over random OTAs as primary CTA."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://egymonuments.com/details/PhilaeTemple",
+      "ticketsLabel": "egymonuments.com / egymonuments.gov.eg — Philae (boat separate)",
+      "ticketsNote": "Boat ≠ ticket. Sound & Light separate. Do not invent EGP. Abu Simbel different day."
+    },
+    "etiquette": {
+      "intro": "Archaeological sacred site — no climbing, respectful photography, heat honesty.",
+      "bullets": [
+        "No climbing restricted blocks or columns.",
+        "Respectful photography; follow staff directions.",
+        "Heat and sun protection are non-optional in summer.",
+        "Threshold Atlas tone: Isis cult + UNESCO Nubian salvage — not adventure-film island only."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Philae from Aswan.",
+      "paragraphs": [
+        "Base in Aswan. Take a taxi or organised tour to Marina Philae (Shellal), then board a motorboat to Agilkia Island — the temple was relocated here from the original Philae Island for the High Dam.",
+        "Buy or show your Ministry monument ticket before or at the marina booth. Pay the boat separately — agree fare and waiting time before departure.",
+        "Abu Simbel is a different Upper Egypt day (convoy / flight / long drive). Do not try to force Philae and Abu Simbel into one rushed ticket story."
+      ],
+      "bullets": [
+        "Aswan → Marina Philae (Shellal) → boat → Agilkia",
+        "Ministry ticket + separate boat payment",
+        "Agree boat fare before boarding",
+        "Abu Simbel = different day"
+      ]
+    },
+    "bestTime": {
+      "intro": "Early morning beats summer heat; Sound & Light is evening-only.",
+      "paragraphs": [
+        "Winter months are more comfortable. Summer heat on open stone is extreme — start early.",
+        "Sound & Light, when running, is a separate evening product after daytime close."
+      ],
+      "bullets": [
+        "Best: early morning",
+        "Winter more comfortable than summer",
+        "Sound & Light = evening separate product",
+        "Verify Ministry hours the night before"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm tickets and hours on egymonuments.gov.eg / egymonuments.com.",
+        "Boat ≠ ticket; do not invent EGP.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "doi-suthep",
+    "name": "Wat Phra That Doi Suthep, Chiang Mai",
+    "shortName": "Doi Suthep",
+    "location": "Chiang Mai",
+    "country": "Thailand",
+    "region": "Southeast Asia",
+    "regionSlug": "southeast-asia",
+    "religions": [
+      "Buddhist"
+    ],
+    "religionSlugs": [
+      "buddhist"
+    ],
+    "summary": "Northern Thailand’s mountain Lanna pilgrimage chedi — Chiang Mai day-trip sacred mega. Temple foreign-visitor contribution collected on-site (Thai nationals often free when posted); funicular separate when running. Doi Suthep–Pui National Park fee (if charged on road for trails/park areas) is a different product from temple entry. Info via TAT tourismthailand.org. Do not invent THB. Stairs (~300 Naga steps) vs funicular honesty.",
+    "heroImage": "https://images.unsplash.com/photo-1528183429752-a97d0bf99b5a?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Lanna-era mountain relic chedi (14th c. tradition); living Northern Thai Theravāda pilgrimage wat",
+      "patron": "Buddhist — Lanna Theravāda relic chedi pilgrimage",
+      "unesco": "Not individually UNESCO (active Thai pilgrimage wat / national cultural landmark)",
+      "typicalVisit": "Half day from Chiang Mai including road + stairs/funicular; sunrise/late afternoon for views"
+    },
+    "related": [
+      "wat-phra-kaew",
+      "wat-pho",
+      "shwedagon"
+    ],
+    "overview": {
+      "body": [
+        "Wat Phra That Doi Suthep is Northern Thailand’s mountain Lanna pilgrimage chedi — the Chiang Mai sacred mega still open after Bangkok’s live Wat Phra Kaew / Wat Pho / Wat Arun trio.",
+        "Frame the visit as Northern Thai pilgrimage mountain practice, not a Chiang Mai viewpoint checklist. Shoulders and knees covered (sarong rental common); remove shoes in the wiharn; quiet at the golden chedi; no climbing sacred fabric.",
+        "Official tickets: temple foreign-visitor contribution collected on-site (Thai nationals often free when posted); funicular / cable is a separate on-site fare when operating. Info via Tourism Authority of Thailand — tourismthailand.org. Doi Suthep–Pui National Park fees (when charged for trails, waterfalls, or park areas) are a different product from temple entry — do not conflate road approach with a single “Doi Suthep ticket.” No reliable single national e-ticket for the wat as of plan research. Do not invent THB.",
+        "Temple commonly early morning–evening class — verify tourismthailand.org. Sunrise / late afternoon for views and cooler climb; rainy-season mist can erase the city view.",
+        "Soft blockers: stairs vs funicular; dress desk; park vs temple fee confusion; haze views; coach crush late morning; Wat Rong Khun is a different province/day — do not conflate."
+      ],
+      "highlights": [
+        "Lanna mountain pilgrimage chedi — Chiang Mai mega",
+        "On-site temple contribution; TAT tourismthailand.org",
+        "Funicular separate; park fee ≠ temple",
+        "Naga stairs (~300) vs funicular honesty",
+        "No invent THB; no fake national e-ticket"
+      ]
+    },
+    "visit": {
+      "intro": "Mountain pilgrimage wat — on-site temple contribution; funicular and park fees are separate products.",
+      "hours": "Temple commonly early morning–evening class — verify tourismthailand.org. Sunrise / late afternoon cooler; rainy mist can hide views.",
+      "tickets": "Temple foreign-visitor contribution on-site (Thai nationals often free when posted). Funicular separate on-site fare when running. Doi Suthep–Pui National Park fee (if charged for park/trail areas) ≠ temple entry. Info: tourismthailand.org. No reliable national e-ticket for the wat as of research. Do not invent THB.",
+      "dress": "Living Lanna Buddhist relic chedi — shoulders + knees covered (sarong rental common); remove shoes in wiharn; quiet at golden chedi; no climbing sacred fabric.",
+      "duration": "Half day from Chiang Mai including road transfer and stairs/funicular.",
+      "access": "Chiang Mai city → mountain road (songthaew / taxi / tour). Final approach: Naga staircase (~300 steps) or optional funicular when operating.",
+      "tips": [
+        "Pay the temple contribution on-site — do not invent a required national e-ticket.",
+        "Funicular is separate when running — stairs (~300) are the free alternative approach.",
+        "Park / trail fees (when charged) are not the temple contribution — ask which desk you are at.",
+        "Shoulders and knees covered — use sarong rental at the dress desk.",
+        "Late morning coach crush is real — earlier is calmer.",
+        "Wat Rong Khun (White Temple) is a different province/day — do not conflate.",
+        "Do not invent THB; prefer TAT / on-site posted fees."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://www.tourismthailand.org/Attraction/wat-phra-that-doi-suthep/",
+      "ticketsLabel": "TAT — on-site temple contribution (funicular/park separate)",
+      "ticketsNote": "Funicular separate; park fee ≠ temple. No invent THB. No fake national e-ticket CTA."
+    },
+    "etiquette": {
+      "intro": "Living Lanna pilgrimage wat — dress, shoes off, quiet at the chedi.",
+      "bullets": [
+        "Shoulders and knees covered; sarong rental when needed.",
+        "Remove shoes in the wiharn; quiet at the golden chedi.",
+        "No climbing sacred fabric or chedi structures.",
+        "Threshold Atlas tone: Northern Thai pilgrimage mountain — not viewpoint-only."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Doi Suthep from Chiang Mai.",
+      "paragraphs": [
+        "From Chiang Mai city, take a songthaew, taxi, or organised tour up the mountain road to Wat Phra That Doi Suthep.",
+        "Final approach is either the Naga staircase (about 300 steps) or the funicular/cable when operating — funicular is a separate on-site fare.",
+        "National park checkpoints on some road/trail approaches may charge park fees that are not the temple contribution — clarify at each desk."
+      ],
+      "bullets": [
+        "Chiang Mai → mountain road → temple approach",
+        "Naga stairs ~300 or funicular (separate fare)",
+        "Park fee ≠ temple contribution",
+        "Earlier departure beats coach crush"
+      ]
+    },
+    "bestTime": {
+      "intro": "Early or late for cooler climb and clearer views.",
+      "paragraphs": [
+        "Sunrise and late afternoon are cooler for the climb and often clearer for city views. Late morning is coach-heavy.",
+        "Rainy season mist can erase the viewpoint — temple pilgrimage still stands without the view."
+      ],
+      "bullets": [
+        "Best: early morning or late afternoon",
+        "Late morning: coach crush",
+        "Rainy mist can hide views",
+        "Verify TAT / local notices"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm temple hours via TAT / on-site notices.",
+        "Temple contribution ≠ funicular ≠ park fee; do not invent THB.",
         "SanctaWay is informational; it does not sell tickets or grant access.",
         "Hero image is an Unsplash placeholder pending visual / Commons pass."
       ]

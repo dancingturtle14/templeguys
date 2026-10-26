@@ -80,6 +80,20 @@ if (wall.includes('<div id="root"></div>')) {
   console.error('western-wall HTML is still an empty root')
   process.exit(1)
 }
+
+const hubPaths = paths.filter((pathname) => /^\/(?:region|religion)\/[^/]+$/.test(pathname))
+if (hubPaths.length === 0) {
+  console.error('sitemap has no /region or /religion hub routes to prerender')
+  process.exit(1)
+}
+for (const pathname of hubPaths) {
+  const html = readOut(pathname)
+  const marker = pathname.startsWith('/region/') ? 'Sacred places in ' : 'places of worship'
+  if (html.includes('<div id="root"></div>') || !html.includes(marker)) {
+    console.error(`${pathname} prerender is missing hub content (${marker})`)
+    process.exit(1)
+  }
+}
 if (!existsSync(join(dist, 'CNAME')) || !existsSync(join(dist, 'sitemap.xml')) || !existsSync(join(dist, 'robots.txt'))) {
   console.error('dist is missing CNAME, sitemap.xml, or robots.txt')
   process.exit(1)

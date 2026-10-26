@@ -142,7 +142,7 @@ function NotesChapter({ temple }: { temple: Temple }) {
   const n = temple.notes
   return (
     <div className="space-y-8">
-      <ChapterHeading title="Notes · 注意事項" lede={n.intro} />
+      <ChapterHeading title="Notes" lede={n.intro} />
       <div className="border border-cinnabar/25 bg-cinnabar-wash/60 p-6 sm:p-8">
         <BulletList items={n.bullets} />
       </div>

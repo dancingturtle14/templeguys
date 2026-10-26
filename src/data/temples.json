@@ -27,8 +27,8 @@
     },
     "related": [
       "borobudur",
-      "prambanan",
-      "bayon"
+      "bayon",
+      "ta-prohm"
     ],
     "overview": {
       "body": [
@@ -371,8 +371,8 @@
     },
     "related": [
       "meiji-shrine",
-      "fushimi-inari",
-      "haeinsa"
+      "senso-ji",
+      "koyasan"
     ],
     "overview": {
       "body": [
@@ -1404,7 +1404,7 @@
     "related": [
       "milan-duomo",
       "st-peters",
-      "seville-cathedral"
+      "st-basils"
     ],
     "overview": {
       "body": [
@@ -1519,7 +1519,7 @@
     "related": [
       "chartres",
       "cologne-cathedral",
-      "westminster-abbey"
+      "st-basils"
     ],
     "overview": {
       "body": [
@@ -1634,7 +1634,7 @@
     "related": [
       "milan-duomo",
       "sagrada-familia",
-      "san-francesco-assisi"
+      "st-basils"
     ],
     "overview": {
       "body": [
@@ -3344,8 +3344,8 @@
     },
     "related": [
       "potala",
-      "machu-picchu",
-      "longmen-grottoes"
+      "longmen-grottoes",
+      "qufu-confucius"
     ],
     "overview": {
       "body": [
@@ -3691,7 +3691,7 @@
     "related": [
       "wat-pho",
       "borobudur",
-      "doi-suthep"
+      "kek-lok-si"
     ],
     "overview": {
       "body": [
@@ -4613,7 +4613,7 @@
     "related": [
       "borobudur",
       "angkor-wat",
-      "bayon"
+      "my-son"
     ],
     "overview": {
       "body": [
@@ -5533,7 +5533,7 @@
     "related": [
       "fushimi-inari",
       "kiyomizu-dera",
-      "kinkaku-ji"
+      "koyasan"
     ],
     "overview": {
       "body": [
@@ -6903,7 +6903,7 @@
     "related": [
       "meenakshi",
       "borobudur",
-      "dilwara"
+      "ranakpur"
     ],
     "overview": {
       "body": [
@@ -8946,7 +8946,7 @@
     "related": [
       "prambanan",
       "borobudur",
-      "meenakshi"
+      "my-son"
     ],
     "overview": {
       "body": [
@@ -11085,8 +11085,8 @@
     },
     "related": [
       "longmen-grottoes",
-      "yungang-grottoes",
-      "mount-emei"
+      "mount-emei",
+      "shaolin-temple"
     ],
     "overview": {
       "body": [
@@ -11422,7 +11422,7 @@
     "related": [
       "meenakshi",
       "tirupati",
-      "besakih"
+      "kek-lok-si"
     ],
     "overview": {
       "body": [
@@ -11646,7 +11646,7 @@
     "related": [
       "ellora",
       "meenakshi",
-      "hampi"
+      "ranakpur"
     ],
     "overview": {
       "body": [
@@ -11858,8 +11858,8 @@
       "christian"
     ],
     "summary": "Largest Gothic cathedral in Northern Europe — remaining UK Christian mega after live Canterbury, Westminster, and St Paul’s. Official store tickets.yorkminster.org. General admission typically bundles floor + Chapter House + Undercroft + Crypt; tower is a separate / add-on when open. Sunday sightseeing window shorter. Do not invent GBP; prefer official store over third-party skip-the-line.",
-    "heroImage": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?auto=format&fit=crop&w=1600&q=80",
-    "heroCredit": "Unsplash",
+    "heroImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Front_face_of_York_Minster.jpg/1920px-Front_face_of_York_Minster.jpg",
+    "heroCredit": "TheScottishBell / Wikimedia Commons",
     "featured": true,
     "quickFacts": {
       "founded": "Gothic rebuilding from 13th–15th c. on earlier minster foundations; Church of England cathedral seat of the Archbishop of York",
@@ -11970,8 +11970,8 @@
       "christian"
     ],
     "summary": "UNESCO Manueline monastery and Discoveries-era sacred complex in Belém — Portugal’s heritage crown beyond live Fátima. Cloister tickets via Museus e Monumentos de Portugal / official MEO Blueticket (mmp.bymeoblueticket.pt). Church (Santa Maria de Belém) has separate liturgy / visit windows from the paid cloister. Closed Mondays. Do not invent EUR; do not treat random OTAs as official MMP.",
-    "heroImage": "https://images.unsplash.com/photo-1555881400-74d7acaacd8b?auto=format&fit=crop&w=1600&q=80",
-    "heroCredit": "Unsplash",
+    "heroImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Jer%C3%B3nimos_Monastery_in_Bel%C3%A9m_-_Lisbon_-_Portugal_-_02.jpg/1920px-Jer%C3%B3nimos_Monastery_in_Bel%C3%A9m_-_Lisbon_-_Portugal_-_02.jpg",
+    "heroCredit": "NorbertNagel / Wikimedia Commons",
     "featured": true,
     "quickFacts": {
       "founded": "Manueline royal monastery under King Manuel I (early 16th c.); Order of Saint Jerome; secularized cloister; active parish church",
@@ -12082,8 +12082,8 @@
       "buddhist"
     ],
     "summary": "Jayavarman VII face-tower state temple at the centre of Angkor Thom — global icon inside the same Angkor Pass as live Angkor Wat. Official Angkor Enterprise only: angkorenterprise.gov.kh / ticket.angkorenterprise.gov.kh. No separate Bayon gate ticket. Central tower may close for conservation. Do not invent USD; hard-warn street scalpers.",
-    "heroImage": "https://images.unsplash.com/photo-1596422846543-75c6fc7107fa?auto=format&fit=crop&w=1600&q=80",
-    "heroCredit": "Unsplash",
+    "heroImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Bayon_temple_at_Angkor_Thom_02.jpg/1920px-Bayon_temple_at_Angkor_Thom_02.jpg",
+    "heroCredit": "Satdeep Gill / Wikimedia Commons",
     "featured": true,
     "quickFacts": {
       "founded": "Late 12th / early 13th c. Mahayana state temple of Jayavarman VII; later Hinduized alterations; Angkor Thom mandala centre",
@@ -12093,8 +12093,8 @@
     },
     "related": [
       "angkor-wat",
-      "prambanan",
-      "borobudur"
+      "borobudur",
+      "ta-prohm"
     ],
     "overview": {
       "body": [
@@ -12194,8 +12194,8 @@
       "buddhist"
     ],
     "summary": "UNESCO Buddhist pilgrimage mountain (Puxian / Samantabhadra) — China mountain crown and Leshan Giant Buddha serial-site peer. Scenic admission + highland sightseeing bus + optional cable cars are separate products. Book via WeChat 峨眉山景区 / mini-program 峨眉山旅游官方平台 and authorized channels on ems517.com. Leidongping timed bus slots. No night hiking on posted segments. Do not invent CNY; hard-warn scalpers. Leshan ≠ Emei ticket.",
-    "heroImage": "https://images.unsplash.com/photo-1508804185872-d7aad8140d7e?auto=format&fit=crop&w=1600&q=80",
-    "heroCredit": "Unsplash",
+    "heroImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/%E5%B3%A8%E7%9C%89%E5%B1%B1%E9%A3%8E%E6%99%AF%E5%8C%BA_Mount_Emei_Scenic_Area_07.jpg/1920px-%E5%B3%A8%E7%9C%89%E5%B1%B1%E9%A3%8E%E6%99%AF%E5%8C%BA_Mount_Emei_Scenic_Area_07.jpg",
+    "heroCredit": "George N / Wikimedia Commons",
     "featured": true,
     "quickFacts": {
       "founded": "One of China’s Four Sacred Buddhist Mountains; Puxian (Samantabhadra) pilgrimage landscape; UNESCO Mount Emei Scenic Area serial with Leshan",
@@ -12206,7 +12206,7 @@
     "related": [
       "leshan-giant-buddha",
       "longmen-grottoes",
-      "yungang-grottoes"
+      "shaolin-temple"
     ],
     "overview": {
       "body": [
@@ -12306,8 +12306,8 @@
       "shinto"
     ],
     "summary": "UNESCO “Shrines and Temples of Nikkō” tourist crown — Tokugawa Ieyasu enshrined; Yōmeimon, Three Monkeys, Sleeping Cat. On-site shrine admission (cash common); info toshogu.jp + visitnikko.jp. Shrine ticket ≠ Tōshō-gū Museum ≠ Art Museum. Third-party vouchers often must be exchanged at Tōbu-Nikkō Station Tourist Center, not at the shrine gate. Ise remains deferred — not added. Do not invent JPY.",
-    "heroImage": "https://images.unsplash.com/photo-1524413840807-0c3cb6fa808d?auto=format&fit=crop&w=1600&q=80",
-    "heroCredit": "Unsplash",
+    "heroImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Nikk%C5%8D_T%C5%8Dsh%C5%8D-g%C5%AB_20170325-2.jpg/1920px-Nikk%C5%8D_T%C5%8Dsh%C5%8D-g%C5%AB_20170325-2.jpg",
+    "heroCredit": "Suicasmo / Wikimedia Commons",
     "featured": true,
     "quickFacts": {
       "founded": "Tokugawa Ieyasu enshrined 1617; enlarged under Iemitsu mid-17th c.; Gongen-zukuri splendour; UNESCO Shrines and Temples of Nikkō",
@@ -12318,7 +12318,7 @@
     "related": [
       "meiji-shrine",
       "itsukushima",
-      "fushimi-inari"
+      "koyasan"
     ],
     "overview": {
       "body": [
@@ -12419,8 +12419,8 @@
       "islamic"
     ],
     "summary": "Shah Jahan’s Friday mosque — Delhi’s living Islamic tourist mega while Haram sites stay deferred. Visitor entry managed on-site; reference Delhi Tourism (delhitourism.gov.in) / Incredible India. No reliable single national e-ticket as of research — plan on-site payment + ID. Friday midday congregational prayer typically closes non-worshipper tourist entry. Modest dress; head covering for women often required. Do not invent INR; do not sell third-party skip-the-line as required entry.",
-    "heroImage": "https://images.unsplash.com/photo-1564507592333-c60657eea523?auto=format&fit=crop&w=1600&q=80",
-    "heroCredit": "Unsplash",
+    "heroImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/20191203_Wielki_Meczet_w_Delhi_0700_6459_DxO.jpg/1920px-20191203_Wielki_Meczet_w_Delhi_0700_6459_DxO.jpg",
+    "heroCredit": "Jakub Hałun / Wikimedia Commons",
     "featured": true,
     "quickFacts": {
       "founded": "Mughal Friday mosque commissioned by Shah Jahan (mid-17th c.); living jami‘ mosque of Old Delhi",
@@ -12531,8 +12531,8 @@
       "ancient-egyptian"
     ],
     "summary": "Relocated Isis temple — UNESCO Nubian salvage icon on Agilkia Island after High Dam. Official Ministry tickets via egymonuments.gov.eg / egymonuments.com (or marina booth). Boat transfer from Marina Philae (Shellal) is mandatory and usually a separate cash payment — not included in the monument ticket. Sound & Light is a separate evening product. Do not invent EGP. Abu Simbel is a different site/day.",
-    "heroImage": "https://images.unsplash.com/photo-1539650116574-75c0c6d73f6e?auto=format&fit=crop&w=1600&q=80",
-    "heroCredit": "Unsplash",
+    "heroImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Temple_of_Isis_in_Philae_%282%29.jpg/1920px-Temple_of_Isis_in_Philae_%282%29.jpg",
+    "heroCredit": "Fanny Schertzer / Wikimedia Commons",
     "featured": true,
     "quickFacts": {
       "founded": "Ptolemaic–Roman Isis temple complex; relocated from original Philae Island to Agilkia during UNESCO Nubian campaign for the High Dam",
@@ -12643,8 +12643,8 @@
       "buddhist"
     ],
     "summary": "Northern Thailand’s mountain Lanna pilgrimage chedi — Chiang Mai day-trip sacred mega. Temple foreign-visitor contribution collected on-site (Thai nationals often free when posted); funicular separate when running. Doi Suthep–Pui National Park fee (if charged on road for trails/park areas) is a different product from temple entry. Info via TAT tourismthailand.org. Do not invent THB. Stairs (~300 Naga steps) vs funicular honesty.",
-    "heroImage": "https://images.unsplash.com/photo-1528183429752-a97d0bf99b5a?auto=format&fit=crop&w=1600&q=80",
-    "heroCredit": "Unsplash",
+    "heroImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Doi_Suthep_Temple_Chiang_Mai_Thailand.jpg/1920px-Doi_Suthep_Temple_Chiang_Mai_Thailand.jpg",
+    "heroCredit": "Philip Nalangan / Wikimedia Commons",
     "featured": true,
     "quickFacts": {
       "founded": "Lanna-era mountain relic chedi (14th c. tradition); living Northern Thai Theravāda pilgrimage wat",
@@ -12735,6 +12735,902 @@
       "bullets": [
         "Confirm temple hours via TAT / on-site notices.",
         "Temple contribution ≠ funicular ≠ park fee; do not invent THB.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "st-basils",
+    "name": "St Basil's Cathedral (Pokrovsky / Cathedral of Vasily the Blessed), Red Square, Moscow",
+    "shortName": "St Basil's",
+    "location": "Red Square, Moscow",
+    "country": "Russia",
+    "region": "Europe",
+    "regionSlug": "europe",
+    "religions": [
+      "Christian"
+    ],
+    "religionSlugs": [
+      "christian"
+    ],
+    "summary": "Onion-dome Russian Orthodox votive cathedral on Red Square — UNESCO Kremlin & Red Square global icon, run as a museum-cathedral by the State Historical Museum. Official tickets: tickets.shm.ru / en.shm.ru/museum/hvb/. Red Square access ≠ church-interior ticket; Kremlin Armoury / Cathedral Square are separate products. Foreign/domestic tiers differ — verify live; do not invent RUB. Museum visit ≠ liturgy-as-sightseeing.",
+    "heroImage": "https://images.unsplash.com/photo-1513326738677-b964603b136d?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "1555–1561 under Ivan IV (traditionally Barma and Postnik); later chapels; State Historical Museum administration",
+      "patron": "Christian — Russian Orthodox (Pokrov / Intercession + Vasily the Blessed); living memory under museum regime",
+      "unesco": "UNESCO World Heritage — Kremlin and Red Square, Moscow",
+      "typicalVisit": "45–90 minutes inside; pair with Red Square walk; Kremlin museums need separate tickets + time buffer"
+    },
+    "related": [
+      "st-peters",
+      "notre-dame",
+      "sagrada-familia"
+    ],
+    "overview": {
+      "body": [
+        "St Basil's (Pokrovsky Cathedral / Cathedral of Vasily the Blessed) is the onion-dome votive church on Red Square that became a global symbol of Russia — Ivan IV’s Intercession cathedral, later folded into the State Historical Museum as a museum-cathedral.",
+        "Frame the visit as Russian Orthodox memory and Ivan IV’s votive landscape on Red Square — not “onion-dome Instagram only.” Active liturgy is not the tourist product; do not invent “attend Mass as sightseeing.” Quiet indoors; no flash or tripod; no touching fabric; uneven floors and high thresholds.",
+        "Official tickets via the State Historical Museum — info shm.ru / EN en.shm.ru (cathedral page en.shm.ru/museum/hvb/); e-tickets tickets.shm.ru. Foreign / domestic / child tiers differ — verify live on SHM; do not invent RUB. Soft payment honesty: many foreign cards fail on Russian e-commerce — cash (RUB) at the box office or an authorized tour that includes entry may be needed; state that without inventing workarounds as “official.” Worship / pilgrim free categories when published ≠ tourist museum ticket.",
+        "Seasonal museum hours commonly ~10:00–18:00 / 11:00–17:00 class (summer evenings sometimes longer) — verify live en.shm.ru/museum/hvb/. Ticket offices often close ~45 minutes before closing. Early weekday mornings for thinner Red Square queues.",
+        "Soft blockers: stairs / no independent wheelchair route to upper chapels (SHM visitor rules); bag size limits; Red Square event closures; do not conflate St Basil’s ticket with Kremlin Cathedral Square / Armoury tickets (State Kremlin Museum products). SanctaWay is informational — it does not sell tickets or grant access."
+      ],
+      "highlights": [
+        "Red Square onion-dome UNESCO icon — museum-cathedral under SHM",
+        "tickets.shm.ru / en.shm.ru — verify live; do not invent RUB",
+        "Red Square walk ≠ church-interior ticket; Kremlin products separate",
+        "Museum visit — not liturgy-as-sightseeing",
+        "Stairs / uneven floors / ticket-office cutoffs"
+      ]
+    },
+    "visit": {
+      "intro": "Museum-cathedral ticket via State Historical Museum — not a Kremlin combo.",
+      "hours": "Seasonal museum hours commonly ~10:00–18:00 / 11:00–17:00 class — verify en.shm.ru/museum/hvb/. Ticket offices often close ~45 min before closing. Early weekday for thinner Red Square queues.",
+      "tickets": "State Historical Museum — shm.ru / en.shm.ru; e-tickets tickets.shm.ru. Foreign / domestic / child tiers differ — verify live; do not invent RUB. Soft honesty: foreign cards may fail on Russian e-commerce — cash (RUB) at box office or authorized tour that includes entry may be needed. Worship / pilgrim free categories when published ≠ tourist museum ticket. Red Square access ≠ St Basil’s interior; Kremlin Armoury / Cathedral Square are separate products.",
+      "dress": "Museum-cathedral under SHM — quiet indoors; no flash/tripod; no touching fabric; modest respectful dress; uneven floors / high thresholds.",
+      "duration": "45–90 minutes inside the cathedral museum; buffer separately if adding Kremlin museums.",
+      "access": "Metro to Okhotny Ryad / Teatralnaya / Ploshchad Revolyutsii / Kitay-Gorod; walk onto Red Square. Pair with Kremlin museums only with separate ticket + time buffer.",
+      "tips": [
+        "Buy via tickets.shm.ru or the cathedral ticket office — prefer SHM channels.",
+        "Do not invent RUB; foreign/domestic tiers differ — verify live on en.shm.ru.",
+        "Red Square access is not the church-interior ticket.",
+        "Do not conflate with Kremlin Armoury / Cathedral Square tickets.",
+        "Ticket offices often close ~45 minutes before closing.",
+        "Expect stairs, high thresholds, and limited wheelchair access to upper chapels.",
+        "Museum visit ≠ liturgy-as-sightseeing."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://tickets.shm.ru/",
+      "ticketsLabel": "State Historical Museum — St Basil’s tickets",
+      "ticketsNote": "Verify live tiers on tickets.shm.ru / en.shm.ru; do not invent RUB. Red Square ≠ Kremlin ticket."
+    },
+    "etiquette": {
+      "intro": "Quiet museum-cathedral — Orthodox memory, not a selfie maze.",
+      "bullets": [
+        "Quiet indoors; no flash or tripod; no touching fabric or icons.",
+        "Modest respectful dress; mind uneven floors and high thresholds.",
+        "Do not invent liturgy-as-sightseeing — active worship is not the tourist product.",
+        "Threshold Atlas tone: Ivan IV votive cathedral + living Russian Orthodox memory."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach St Basil’s on Red Square.",
+      "paragraphs": [
+        "Take the Moscow Metro to Okhotny Ryad, Teatralnaya, Ploshchad Revolyutsii, or Kitay-Gorod, then walk onto Red Square. The cathedral sits at the south end of the square.",
+        "Hold a valid SHM cathedral ticket (tickets.shm.ru or on-site) before entering the interior. Walking Red Square itself is a separate experience from the paid museum-cathedral.",
+        "If you also want Kremlin Cathedral Square or the Armoury, buy those State Kremlin Museum products separately and leave a real time buffer — they are not included in the St Basil’s ticket."
+      ],
+      "bullets": [
+        "Metro → Red Square walk → cathedral entrance",
+        "SHM ticket for interior; Red Square walk separate",
+        "Kremlin products = separate tickets + buffer",
+        "Watch Red Square event closures"
+      ]
+    },
+    "bestTime": {
+      "intro": "Early weekday for thinner queues; seasonal hours vary.",
+      "paragraphs": [
+        "Early weekday mornings usually mean thinner Red Square and ticket queues. Summer evenings can run longer museum hours; autumn/winter often open later and close earlier — verify en.shm.ru.",
+        "Snow makes the domes striking but floors and approaches can be slippery; summer brings more tour groups."
+      ],
+      "bullets": [
+        "Best hours: early weekday opening",
+        "Verify seasonal hours on en.shm.ru/museum/hvb/",
+        "Ticket office: often closes ~45 min before closing",
+        "Event days: Red Square may restrict approach"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm hours and prices on en.shm.ru / tickets.shm.ru — do not invent RUB.",
+        "Red Square access ≠ St Basil’s interior ticket; Kremlin products separate.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "koyasan",
+    "name": "Mount Kōya / Kōyasan (Kongōbu-ji + Okunoin), Wakayama",
+    "shortName": "Kōyasan",
+    "location": "Kōyasan, Wakayama Prefecture",
+    "country": "Japan",
+    "region": "East Asia",
+    "regionSlug": "east-asia",
+    "religions": [
+      "Buddhist"
+    ],
+    "religionSlugs": [
+      "buddhist"
+    ],
+    "summary": "UNESCO Shingon pilgrimage mountain — Kūkai’s headquarters with Kongōbu-ji, Danjo Garan halls, and Okunoin cedar cemetery. Official koyasan.or.jp. Okunoin approach/mausoleum area generally free (offerings/goshuin separate); Kongōbu-ji / Kondō / Konpon Daitō / Tokugawa mausoleum are separate paid halls — no single “Koyasan ticket” myth. No photography past Gobyo-bashi. Ise remains deferred — not on this page. Do not invent JPY.",
+    "heroImage": "https://images.unsplash.com/photo-1528164344705-47542687000d?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Early 9th c. foundation by Kūkai (Kōbō Daishi); Shingon headquarters; UNESCO Sacred Sites and Pilgrimage Routes in the Kii Mountain Range",
+      "patron": "Buddhist — Shingon (Kūkai / Kōbō Daishi eternal meditation at Okunoin)",
+      "unesco": "UNESCO World Heritage — Sacred Sites and Pilgrimage Routes in the Kii Mountain Range",
+      "typicalVisit": "Overnight shukubo classic; long day-trip from Osaka possible with early start; Okunoin + Kongōbu-ji + Garan half-day minimum"
+    },
+    "related": [
+      "todai-ji",
+      "nikko-tosho-gu",
+      "senso-ji"
+    ],
+    "overview": {
+      "body": [
+        "Mount Kōya (Kōyasan) is the Shingon pilgrimage mountain founded by Kūkai — Kongōbu-ji headquarters, Danjo Garan halls, and the Okunoin cedar cemetery where Kōbō Daishi is believed to rest in eternal meditation.",
+        "Frame the visit as Kūkai eternal meditation and cemetery pilgrimage — not “creepy graveyard Instagram.” Purify / quiet on approaches; no photography beyond Gobyo-bashi toward the mausoleum; no food/drink on the inner approach; bow at Ichi-no-hashi. Overnight shukubo (temple lodging) is the classic pattern.",
+        "Official tickets: Okunoin approach / mausoleum area is generally free (offerings and goshuin separate). Kongōbu-ji, Kondō, Konpon Daitō, and Tokugawa mausoleum are separate paid halls — price table and 共通内拝券 combo when offered on koyasan.or.jp. Tourism eng.koya-san.com / Koyasan Tourism Association. Do not invent JPY; do not sell a single “Koyasan ticket” myth.",
+        "Kongōbu-ji / Garan halls commonly ~08:30–17:00 class; Okunoin offering hall seasonal; Tōrōdō lantern hall earlier — verify koyasan.or.jp. Night Okunoin walk is atmospheric but dark and uneven — torch honesty. Cable-car and bus last times are hard soft blockers in winter.",
+        "Japan is already dense in the catalog — this page earns keep with logistics depth (free Okunoin vs paid halls; shukubo etiquette; photo ban past Gobyo-bashi). Ise Jingū remains deferred and is not added here."
+      ],
+      "highlights": [
+        "Shingon mountain — Kongōbu-ji + Okunoin",
+        "koyasan.or.jp — paid halls vs free Okunoin approach",
+        "No photography past Gobyo-bashi",
+        "Overnight shukubo classic; cable/bus last times",
+        "Ise still deferred — not on this page"
+      ]
+    },
+    "visit": {
+      "intro": "Separate hall tickets — Okunoin approach free; no single mountain pass myth.",
+      "hours": "Kongōbu-ji / Garan halls commonly ~08:30–17:00 class; Okunoin offering hall seasonal; Tōrōdō earlier — verify koyasan.or.jp. Night Okunoin walk possible but dark/uneven.",
+      "tickets": "Okunoin approach / mausoleum area generally free (offerings / goshuin separate). Kongōbu-ji, Kondō, Konpon Daitō, Tokugawa mausoleum are separate paid halls — price table on koyasan.or.jp (共通内拝券 combo when offered). Tourism eng.koya-san.com. Do not invent JPY; do not sell a single “Koyasan ticket.”",
+      "dress": "Living Shingon headquarters — modest dress; cover shoulders/legs especially at Okunoin; yukata from shukubo is indoor-only — change before halls / morning service / Okunoin.",
+      "duration": "Half day for Okunoin + Kongōbu-ji + Garan; overnight shukubo for morning service + fuller pace.",
+      "access": "Nankai Koya Line to Gokurakubashi → Koyasan Cable Car → Nankai Rinkan Bus into town (Senjuinbashi / Okunoin-mae / Ichi-no-hashi). Day-trip from Osaka is long but possible with early start.",
+      "tips": [
+        "Check koyasan.or.jp for hall prices and hours — do not invent JPY.",
+        "Okunoin approach is generally free; paid halls are separate.",
+        "No photography beyond Gobyo-bashi toward the mausoleum.",
+        "Bow at Ichi-no-hashi; no food/drink on the inner Okunoin approach.",
+        "Watch cable-car and bus last times — winter ice on Okunoin path.",
+        "Shukubo yukata is indoor-only — change before sacred sites.",
+        "Ise remains deferred — this page is Kōyasan only."
+      ],
+      "entryType": "verify",
+      "ticketsUrl": "https://www.koyasan.or.jp/",
+      "ticketsLabel": "Kōyasan Kongōbu-ji — official hall charges",
+      "ticketsNote": "Okunoin free vs paid halls; verify live on koyasan.or.jp; do not invent JPY."
+    },
+    "etiquette": {
+      "intro": "Shingon headquarters — cemetery pilgrimage, not a photo set.",
+      "bullets": [
+        "No photography past Gobyo-bashi toward Torodo / mausoleum.",
+        "Modest dress; Okunoin is especially strict on revealing clothes.",
+        "Bow at Ichi-no-hashi; quiet on approaches; no food/drink inner Okunoin.",
+        "Threshold Atlas tone: Kūkai eternal meditation — not creepy Instagram cemetery."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Kōyasan from Osaka / Wakayama.",
+      "paragraphs": [
+        "Take the Nankai Koya Line to Gokurakubashi, transfer to the Koyasan Cable Car, then the Nankai Rinkan Bus into town (Senjuinbashi for Kongōbu-ji / Garan; Okunoin-mae or Ichi-no-hashi for the cemetery approach).",
+        "Overnight shukubo is the classic pattern and softens early/late logistics. A day-trip from Osaka is possible with a very early start — watch cable and bus last times on the return.",
+        "Hall tickets are bought at each paid site (or via the combo when offered). Okunoin’s approach and mausoleum area do not require an admission ticket; offerings and goshuin are separate."
+      ],
+      "bullets": [
+        "Nankai → Gokurakubashi → cable → Rinkan bus",
+        "Senjuinbashi for Kongōbu-ji / Garan",
+        "Ichi-no-hashi / Okunoin-mae for cemetery",
+        "Watch last cable / bus times"
+      ]
+    },
+    "bestTime": {
+      "intro": "Morning halls; Okunoin soft light or careful night walk.",
+      "paragraphs": [
+        "Morning visits fit hall hours and cooler walking. Autumn foliage and winter snow are atmospheric but add ice risk on Okunoin’s path.",
+        "A night Okunoin walk is memorable but poorly lit in places — bring a torch, stay respectful, and remember the photo ban past Gobyo-bashi still applies."
+      ],
+      "bullets": [
+        "Best: morning halls + Okunoin daylight",
+        "Night Okunoin: torch + respect + photo ban",
+        "Winter: ice / earlier last transport",
+        "Shukubo: morning service when offered"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm hall prices and hours on koyasan.or.jp — do not invent JPY.",
+        "Ise Jingū remains deferred and is not covered on this page.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "ranakpur",
+    "name": "Ranakpur Jain Temple (Chaumukha / Adinath), Pali, Rajasthan",
+    "shortName": "Ranakpur",
+    "location": "Ranakpur, Pali District, Rajasthan",
+    "country": "India",
+    "region": "South Asia",
+    "regionSlug": "south-asia",
+    "religions": [
+      "Jain"
+    ],
+    "religionSlugs": [
+      "jain"
+    ],
+    "summary": "15th-c. white-marble Chaumukha Adinath temple with ~1,444 carved pillars — Dilwara peer Jain tirtha in the Aravallis. Entry commonly free for visitors; camera / audio fees when charged on-site. Non-Jain tourist window commonly midday–afternoon — mornings reserved for worship. Remove shoes; no leather (belts/bags/wallets) inside. No reliable single national e-ticket — do not invent INR; do not sell third-party skip-the-line as required entry.",
+    "heroImage": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "15th c. (trad. ~1439 / V.S. 1496 class) under Seth Dharna Shah; Chaumukha Adinath",
+      "patron": "Jain — Adinath (Rishabhanatha) Chaumukha; living tirtha under temple trust",
+      "unesco": "Not a standalone UNESCO inscription — major Jain tirtha listed by Rajasthan Tourism / Incredible India",
+      "typicalVisit": "1.5–2 hours; often day-trip from Udaipur (~90 km) paired with Kumbhalgarh (separate ticket)"
+    },
+    "related": [
+      "dilwara",
+      "meenakshi",
+      "ellora"
+    ],
+    "overview": {
+      "body": [
+        "Ranakpur is the white-marble Chaumukha Adinath temple in the Aravalli hills of Pali, Rajasthan — famous for roughly 1,444 differently carved pillars and a living Jain tirtha still too often reduced to a “pillar selfie hall.”",
+        "Frame the visit as Chaumukha Adinath devotion and marble cosmology — not pillar Instagram only. Remove shoes; no leather (belts, bags, wallets, camera straps) inside; modest dress; no touching idols; photography rules / camera desk fee when posted; quiet during rituals.",
+        "Official tickets: entry commonly free for visitors; camera / audio-guide fees when charged are on-site. Reference Rajasthan Tourism (tourism.rajasthan.gov.in / Devasthan listings) and Incredible India. No reliable single national e-ticket as of write research. Do not invent INR; do not sell third-party “skip-the-line” as required entry.",
+        "Non-Jain tourist window commonly midday–afternoon class (often ~12:00–17:00 / ~11:30–17:00 class on Devasthan notices); Jain worship opens earlier — verify on-site / Rajasthan Tourism notices. Morning light on marble is for worshippers first.",
+        "Soft blockers: non-Jain time window; leather ban surprises; heat on marble; Kumbhalgarh Fort is a separate ticket/day buffer; coach crush midday."
+      ],
+      "highlights": [
+        "Chaumukha Adinath — ~1,444 carved pillars",
+        "Entry commonly free; camera fee on-site when charged",
+        "Non-Jain midday–afternoon visitor window",
+        "No leather inside; shoes off; modest dress",
+        "Dilwara peer — mesh with live dilwara"
+      ]
+    },
+    "visit": {
+      "intro": "Living Jain tirtha — free entry class; on-site camera fee; midday tourist window.",
+      "hours": "Non-Jain tourist window commonly midday–afternoon class (often ~12:00–17:00); Jain worship earlier — verify Rajasthan Tourism / on-site notices. Do not arrive mid-morning expecting tourist entry.",
+      "tickets": "Entry commonly free for visitors; camera / audio-guide fees when charged are on-site. Reference tourism.rajasthan.gov.in / Incredible India. No reliable single national e-ticket. Do not invent INR; do not sell third-party skip-the-line as required entry. Kumbhalgarh ≠ Ranakpur ticket.",
+      "dress": "Active Jain tirtha — remove shoes; no leather (belts/bags/wallets/camera straps) inside; shoulders/knees covered; quiet; no touching idols; photography of main idol may stay restricted even with camera fee.",
+      "duration": "1.5–2 hours at the temple; full day if pairing Kumbhalgarh with road buffer.",
+      "access": "Day-trip corridor from Udaipur (~90 km) or via Falna / Sadri; private car / tour most practical. Often paired with Kumbhalgarh Fort (separate ticket).",
+      "tips": [
+        "Plan the published non-Jain visitor window — mornings are for worship.",
+        "Remove all leather before entry — belts, wallets, bags, camera straps.",
+        "Entry is commonly free; pay camera fees only at the on-site desk when required.",
+        "Do not invent INR; ignore third-party “required” e-tickets.",
+        "Marble floors bake at midday — socks help after shoes come off.",
+        "Kumbhalgarh Fort is a separate ticket and time buffer.",
+        "Quiet during rituals; no touching idols."
+      ],
+      "entryType": "free",
+      "ticketsUrl": "https://tourism.rajasthan.gov.in/",
+      "ticketsLabel": "Rajasthan Tourism — verify Ranakpur visitor notices",
+      "ticketsNote": "No national e-ticket CTA; free entry class + on-site camera fee; do not invent INR."
+    },
+    "etiquette": {
+      "intro": "Jain ahimsa discipline — leather ban is the line that trips visitors.",
+      "bullets": [
+        "Remove shoes; no leather items inside (ahimsa).",
+        "Modest dress — shoulders and knees covered.",
+        "No touching idols; quiet during rituals; check photo rules at the gate.",
+        "Threshold Atlas tone: Chaumukha devotion + marble cosmology — not pillar selfie hall."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Ranakpur from Udaipur / Falna.",
+      "paragraphs": [
+        "Most visitors day-trip by private car or tour from Udaipur (~90 km / roughly 2–2.5 hours). Falna and Sadri are nearer rail/road nodes for those routing via the Aravallis.",
+        "Agree driver waiting time around the non-Jain visitor window. Coaches concentrate after midday — arrive near the opening of the tourist window when possible.",
+        "If pairing Kumbhalgarh Fort, treat it as a separate ticket and leave road + site buffer; the two sites are not one ticket."
+      ],
+      "bullets": [
+        "Udaipur → road ~90 km → Ranakpur",
+        "Private car / tour most practical",
+        "Align arrival with non-Jain window",
+        "Kumbhalgarh = separate ticket"
+      ]
+    },
+    "bestTime": {
+      "intro": "Tourist window after midday; cooler months for road comfort.",
+      "paragraphs": [
+        "For sightseeing, plan the published midday–afternoon visitor window. Late afternoon light on marble is beautiful when hours allow.",
+        "October–March is the more comfortable road season; April–June heat on marble and in the car is severe."
+      ],
+      "bullets": [
+        "Best hours: start of non-Jain window",
+        "Best months: roughly Oct–Mar",
+        "Avoid assuming morning tourist entry",
+        "Festival days: verify access locally"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm visitor hours and camera rules on-site / Rajasthan Tourism — do not invent INR.",
+        "No leather inside; non-Jain window honesty.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "my-son",
+    "name": "Mỹ Sơn Sanctuary, Quảng Nam (near Hội An / Đà Nẵng)",
+    "shortName": "Mỹ Sơn",
+    "location": "Thu Bồn, Đà Nẵng / Quảng Nam",
+    "country": "Vietnam",
+    "region": "Southeast Asia",
+    "regionSlug": "southeast-asia",
+    "religions": [
+      "Hindu"
+    ],
+    "religionSlugs": [
+      "hindu"
+    ],
+    "summary": "UNESCO Cham Hindu temple towers in a mountain valley — Vietnam’s sacred archaeological crown. Official BQL info disanvanhoamyson.vn; e-tickets mysonticketonline.vn. Foreign / domestic / child tiers — ticket commonly bundles museum + shuttle + Cham show + ruins when published. Do not invent VND; prefer BQL / official e-ticket over random OTA as primary CTA.",
+    "heroImage": "https://images.unsplash.com/photo-1583417319070-4a69db38a482?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "From ~4th c. through 13th c. Cham Śiva-linga kingship landscape; >70 tower monuments historically",
+      "patron": "Hindu — Cham Śiva / linga royal cult (Champa civilization)",
+      "unesco": "UNESCO World Heritage — My Son Sanctuary (1999)",
+      "typicalVisit": "Half day from Hội An or Đà Nẵng; electric shuttle from ticket/museum cluster into tower groups"
+    },
+    "related": [
+      "prambanan",
+      "angkor-wat",
+      "besakih"
+    ],
+    "overview": {
+      "body": [
+        "Mỹ Sơn is the Cham Hindu temple sanctuary in a enclosed valley inland from Hội An / Đà Nẵng — brick tower groups dedicated to Śiva-linga kingship, Vietnam’s UNESCO sacred archaeological crown still absent from SanctaWay until this batch.",
+        "Frame the visit as Cham Śiva-linga kingship and UNESCO salvage — not “Angkor junior ruin selfie.” No climbing restricted bricks; stay on paths; heat and unexploded-ordnance history honesty where posted.",
+        "Official tickets: Ban Quản lý Di sản Văn hoá Mỹ Sơn — info disanvanhoamyson.vn / mysonsanctuary.com.vn; e-tickets mysonticketonline.vn. Foreign / domestic / child tiers — ticket commonly bundles museum + electric shuttle + Cham performance + ruins when published. Do not invent VND; prefer BQL / official e-ticket over random OTA as primary CTA.",
+        "Site commonly ~06:00–17:00/18:00 class — verify disanvanhoamyson.vn / mysonticketonline.vn. Early morning for heat + soft light on brick towers; Cham performance schedule when running is a separate timed experience inside the visit (weather can cancel outdoor shows).",
+        "Soft blockers: midday heat; shuttle vs walk confusion; performance weather cancels; do not invent “free always”; mesh with a Hội An day without cloning Hội An town prose."
+      ],
+      "highlights": [
+        "UNESCO Cham Hindu tower sanctuary",
+        "mysonticketonline.vn / disanvanhoamyson.vn",
+        "Ticket often bundles museum + shuttle + show",
+        "Early morning beats valley heat",
+        "No climbing restricted bricks"
+      ]
+    },
+    "visit": {
+      "intro": "Official BQL e-ticket — bundled shuttle/show honesty; no invent VND.",
+      "hours": "Site commonly ~06:00–17:00/18:00 class — verify disanvanhoamyson.vn / mysonticketonline.vn. Early morning preferred for heat and light. Cham show schedule when running is timed inside the visit.",
+      "tickets": "BQL Di sản Văn hoá Mỹ Sơn — disanvanhoamyson.vn; e-tickets mysonticketonline.vn. Foreign / domestic / child tiers — commonly bundles museum + electric shuttle + Cham show + ruins when published. Prefer official e-ticket over random OTA. Do not invent VND.",
+      "dress": "Archaeological Cham Hindu sacred landscape — modest practical dress for heat; no climbing restricted bricks; stay on paths; respect posted UXO / conservation notices.",
+      "duration": "Half day including road from Hội An / Đà Nẵng and shuttle into tower groups.",
+      "access": "Base Hội An or Đà Nẵng; road to Thu Bồn / Mỹ Sơn; electric shuttle from ticket/museum cluster into tower groups (usually bundled). Not a city-walk site.",
+      "tips": [
+        "Buy via mysonticketonline.vn (BQL official) when possible.",
+        "Do not invent VND — foreign/domestic tiers differ; verify live.",
+        "Ticket often includes museum + shuttle + Cham show — confirm what’s bundled.",
+        "Go early — valley heat is severe by mid-morning.",
+        "No climbing restricted bricks; stay on paths.",
+        "Outdoor Cham shows can cancel for weather.",
+        "Do not invent “always free” entry."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://mysonticketonline.vn/",
+      "ticketsLabel": "Mỹ Sơn BQL — official e-tickets",
+      "ticketsNote": "Prefer mysonticketonline.vn / disanvanhoamyson.vn; do not invent VND."
+    },
+    "etiquette": {
+      "intro": "Cham sacred archaeology — paths and conservation first.",
+      "bullets": [
+        "No climbing restricted bricks or scaffolds.",
+        "Stay on marked paths; heed UXO / conservation notices.",
+        "Quiet respect at a living heritage sacred landscape.",
+        "Threshold Atlas tone: Śiva-linga Cham kingship — not Angkor-junior selfie."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Mỹ Sơn from Hội An or Đà Nẵng.",
+      "paragraphs": [
+        "Base in Hội An or Đà Nẵng and take a tour van, private car, or arranged transfer inland to the Thu Bồn / Mỹ Sơn ticket and museum cluster. It is not a walk-from-town site.",
+        "From the ticket/museum area, an electric shuttle usually carries visitors into the tower groups — commonly bundled with the ticket when published. Confirm shuttle inclusion when you buy.",
+        "Agree return timing with your driver before entering. Midday heat in the valley is punishing — early departures from Hội An work best."
+      ],
+      "bullets": [
+        "Hội An / Đà Nẵng → road → Mỹ Sơn ticket cluster",
+        "Electric shuttle into tower groups (often bundled)",
+        "Not a city-walk site",
+        "Early departure beats heat"
+      ]
+    },
+    "bestTime": {
+      "intro": "Early morning for heat and soft light on brick.",
+      "paragraphs": [
+        "Early morning gives softer light on the brick towers and cooler walking. Midday is harsh in the enclosed valley.",
+        "Dry season months are more comfortable for the road and paths; rain can cancel outdoor performances and make bricks slippery."
+      ],
+      "bullets": [
+        "Best hours: soon after opening",
+        "Best: cooler / drier months",
+        "Check Cham show times on the day",
+        "Heat: carry water, hat, sun cover"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm prices and hours on mysonticketonline.vn / disanvanhoamyson.vn — do not invent VND.",
+        "Prefer BQL official channels over random OTAs as primary CTA.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "ta-prohm",
+    "name": "Ta Prohm (Rajavihara), Angkor, Siem Reap",
+    "shortName": "Ta Prohm",
+    "location": "Angkor Archaeological Park, Siem Reap",
+    "country": "Cambodia",
+    "region": "Southeast Asia",
+    "regionSlug": "southeast-asia",
+    "religions": [
+      "Buddhist"
+    ],
+    "religionSlugs": [
+      "buddhist"
+    ],
+    "summary": "World-famous strangler-fig / silk-cotton tree temple (Rajavihara) inside Angkor Archaeological Park — same Angkor Pass as live Angkor Wat and Bayon. Official Angkor Enterprise only: angkorenterprise.gov.kh / ticket.angkorenterprise.gov.kh. No separate Ta Prohm gate ticket. Conservation / one-way galleries honesty; do not invent USD; hard-warn street scalpers.",
+    "heroImage": "https://images.unsplash.com/photo-1559592413-7cec4d0cae2b?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Late 12th / early 13th c. Mahayana monastery-temple (Rajavihara) of Jayavarman VII; later forest/ruin continuum",
+      "patron": "Buddhist — Jayavarman VII Mahayana monastic foundation (Rajavihara)",
+      "unesco": "UNESCO World Heritage — Angkor (Angkor Archaeological Park)",
+      "typicalVisit": "1–2 hours on Small Circuit after Angkor Wat / Bayon day planning; multi-day pass recommended"
+    },
+    "related": [
+      "angkor-wat",
+      "bayon",
+      "borobudur"
+    ],
+    "overview": {
+      "body": [
+        "Ta Prohm is Jayavarman VII’s Rajavihara — the world-famous tree-root temple where silk-cotton and strangler fig merge with galleries inside Angkor Archaeological Park, the remaining Angkor global icon after live Angkor Wat and Bayon.",
+        "Frame the visit as monastic foundation and living forest/ruin continuum — not “Tomb Raider set only” (film mention OK as cultural note, not framing). Shoulders and knees covered under the Angkor Code of Conduct; no climbing roots or restricted blocks; no touching.",
+        "Official tickets: Angkor Pass only via Angkor Enterprise — angkorenterprise.gov.kh and ticket.angkorenterprise.gov.kh (web, app, kiosk, Road 60 counters). Ta Prohm is included in the park pass (1/3/7-day products). There is no separate Ta Prohm gate ticket. Tickets bought elsewhere are not valid. Prefer official Enterprise; hard-warn street scalpers. Do not invent USD — verify live pass prices on Angkor Enterprise. Same honesty line as live Bayon.",
+        "Temple hours commonly ~07:30–17:30 class — verify APSARA / Angkor Enterprise notices. Early soft light through roots; midday tour-bus crush. Some galleries may be one-way or scaffolded for conservation — ask on the day.",
+        "Soft blockers: pass vs single-temple myth; conservation one-ways; root-climbing temptation; heat; do not conflate with Preah Vihear / Koh Ker separate products; mesh honesty with live Angkor Wat + Bayon (same pass, different circuit nodes)."
+      ],
+      "highlights": [
+        "Tree-root Rajavihara — same Angkor Pass as Angkor Wat / Bayon",
+        "angkorenterprise.gov.kh / ticket.angkorenterprise.gov.kh only",
+        "No separate Ta Prohm gate ticket",
+        "Conservation one-ways / scaffolds — ask on the day",
+        "Code of Conduct dress; no climbing roots"
+      ]
+    },
+    "visit": {
+      "intro": "Same Angkor Pass as Angkor Wat / Bayon — no Ta Prohm-only ticket.",
+      "hours": "Temple commonly ~07:30–17:30 class — verify APSARA / Angkor Enterprise notices. Early soft light through roots; midday bus crush. Some galleries may be one-way / scaffolded for conservation.",
+      "tickets": "Angkor Pass only via Angkor Enterprise — angkorenterprise.gov.kh / ticket.angkorenterprise.gov.kh (web, app, kiosk, Road 60 counters). Ta Prohm included in 1/3/7-day park pass — no separate Ta Prohm gate ticket. Tickets bought elsewhere not valid. Koh Ker / Beng Mealea / Preah Vihear are separate products. Hard-warn scalpers. Do not invent USD.",
+      "dress": "Sacred Khmer Mahayana monastery-temple landscape — shoulders/knees covered (Angkor Code of Conduct); no climbing roots or restricted blocks; no touching.",
+      "duration": "1–2 hours at Ta Prohm on the Small Circuit; multi-day pass for fuller park.",
+      "access": "Siem Reap base; tuk-tuk / car on Small Circuit after Angkor Wat / Bayon day planning. Same Angkor Archaeological Park as live angkor-wat + bayon.",
+      "tips": [
+        "Buy the Angkor Pass only on angkorenterprise.gov.kh / ticket.angkorenterprise.gov.kh — same pass as Angkor Wat and Bayon.",
+        "There is no separate Ta Prohm ticket — ignore street sellers claiming otherwise.",
+        "Ask on the day about one-way galleries and conservation scaffolds.",
+        "Shoulders and knees covered — Angkor Code of Conduct enforced.",
+        "Do not climb roots or restricted blocks.",
+        "Do not conflate with Preah Vihear / Koh Ker separate products.",
+        "Do not invent USD; verify live pass prices on Angkor Enterprise."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://www.angkorenterprise.gov.kh/",
+      "ticketsLabel": "Angkor Enterprise — Angkor Pass (same as Angkor Wat / Bayon)",
+      "ticketsNote": "No separate Ta Prohm ticket. Prefer official Enterprise; do not invent USD. Scalper warning."
+    },
+    "etiquette": {
+      "intro": "Angkor Code of Conduct — dress, no climbing roots, conservation first.",
+      "bullets": [
+        "Shoulders and knees covered.",
+        "No climbing roots or restricted blocks; no touching.",
+        "Respect one-way / scaffolded galleries.",
+        "Threshold Atlas tone: Rajavihara monastic foundation + forest/ruin continuum — not Tomb Raider framing."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Ta Prohm from Siem Reap.",
+      "paragraphs": [
+        "Base in Siem Reap. Most visitors take a tuk-tuk or private car on the Small Circuit after Angkor Wat and/or Bayon. Ta Prohm sits east of Angkor Thom on the same park network.",
+        "Hold a valid Angkor Pass before temple checkpoints. Buy or collect via Angkor Enterprise (web/app/Road 60 counters/kiosks). The same pass covers Angkor Wat, Bayon, and Ta Prohm.",
+        "Agree driver circuit order and waiting fees up front. Midday tour-bus crush at the famous root courtyards is intense — soft light slots are kinder."
+      ],
+      "bullets": [
+        "Siem Reap → Small Circuit → Ta Prohm",
+        "Same Angkor Pass as Angkor Wat / Bayon",
+        "Agree driver circuits / waiting fees up front",
+        "Softer light beats midday crush"
+      ]
+    },
+    "bestTime": {
+      "intro": "Early soft light through roots; avoid midday bus peak.",
+      "paragraphs": [
+        "Early morning gives the best light through the canopy and thinner crowds at the famous courtyards. Midday is hot and coach-heavy.",
+        "Cooler months (roughly Nov–Feb) are more comfortable; March–May are extremely hot on open stone."
+      ],
+      "bullets": [
+        "Best hours: early morning",
+        "Best months: roughly Nov–Feb",
+        "Conservation: ask about one-ways",
+        "Same pass: slot Ta Prohm on a cooler circuit hour"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm pass prices and hours on angkorenterprise.gov.kh — do not invent USD.",
+        "No separate Ta Prohm ticket; same Angkor Pass as Angkor Wat / Bayon.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "shaolin-temple",
+    "name": "Shaolin Temple (少林寺), Dengfeng / Songshan, Henan",
+    "shortName": "Shaolin Temple",
+    "location": "Dengfeng, Songshan, Henan",
+    "country": "China",
+    "region": "East Asia",
+    "regionSlug": "east-asia",
+    "religions": [
+      "Buddhist"
+    ],
+    "religionSlugs": [
+      "buddhist"
+    ],
+    "summary": "Chan Buddhism origin monastery inside Songshan Shaolin 5A scenic — global kung-fu sacred brand with living monastic halls. Official WeChat 嵩山旅游 / mini-program 漫游嵩山; consult songshancn.com. Admission ≠ cable ≠ VIP performance seats. Foreign visitors may need on-site passport verification after online hold. Do not invent CNY; hard-warn scalpers. Martial-arts show ≠ temple visit framing.",
+    "heroImage": "https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Trad. 5th c. Chan / Shaolin foundation on Songshan; later dynastic rebuilds; Pagoda Forest lineage landscape",
+      "patron": "Buddhist — Chan (Bodhidharma / Shaolin lineage) with living monastic community inside 5A scenic",
+      "unesco": "Within UNESCO Historic Monuments of Dengfeng in “The Centre of Heaven and Earth” (Songshan ensemble context)",
+      "typicalVisit": "Half to full day Dengfeng scenic; Sanhuangzhai cliff/cable is a separate mountain add-on"
+    },
+    "related": [
+      "mount-emei",
+      "leshan-giant-buddha",
+      "longmen-grottoes"
+    ],
+    "overview": {
+      "body": [
+        "Shaolin Temple on Songshan above Dengfeng is the Chan origin monastery and global kung-fu sacred brand — Pagoda Forest, scripture halls, and a living monastic community inside a 5A scenic that also stages martial-arts performances.",
+        "Frame the visit as Bodhidharma / Chan origin and legitimate wushu lineage — not “kung-fu theme park only.” Modest dress in halls; no disruptive filming of monks at practice; quiet in scripture halls. Distinguish the temple visit from the performance hall schedule.",
+        "Official tickets: Songshan Shaolin scenic admission via official WeChat 嵩山旅游 / mini-program 漫游嵩山 (advance booking often required in peak); consult authorized songshancn.com and scenic hotlines. Foreign visitors may need on-site passport verification after an online hold — state that honestly. Cable / shuttle / VIP performance seats are separate when charged. Do not invent CNY; hard-warn scalpers outside the performance hall.",
+        "Scenic day gates commonly ~07:00/08:00–17:00/18:00 class — verify WeChat 嵩山旅游 / 漫游嵩山. Kung-fu performance hall runs on a posted hourly schedule when included — arrive early for free floor seats.",
+        "Soft blockers: WeChat-first UX; passport window for foreigners; commercial approach strip; Sanhuangzhai cliff/cable ≠ temple-only half-day; rain/ice on mountain add-ons."
+      ],
+      "highlights": [
+        "Chan origin + Pagoda Forest on Songshan",
+        "WeChat 嵩山旅游 / 漫游嵩山 — verify live",
+        "Admission ≠ cable ≠ VIP show seats",
+        "Martial-arts show ≠ temple visit framing",
+        "Passport verify window for many foreign bookings"
+      ]
+    },
+    "visit": {
+      "intro": "WeChat-first scenic admission — temple visit ≠ show ≠ cable.",
+      "hours": "Scenic day gates commonly ~07:00/08:00–17:00/18:00 class — verify WeChat 嵩山旅游 / 漫游嵩山. Performance hall runs on a posted hourly schedule when included.",
+      "tickets": "Songshan Shaolin scenic via WeChat 嵩山旅游 / mini-program 漫游嵩山; consult songshancn.com. Advance booking often required in peak. Foreign visitors may need on-site passport verification after online hold. Cable / shuttle / VIP performance seats separate when charged. Do not invent CNY; hard-warn scalpers. Sanhuangzhai ≠ temple-only ticket myth.",
+      "dress": "Living Chan monastery inside a 5A scenic — modest dress in halls; no disruptive filming of monks at practice; quiet in scripture halls.",
+      "duration": "Half day for temple + Pagoda Forest + one show; full day if adding Sanhuangzhai mountain.",
+      "access": "Zhengzhou / Luoyang corridor → Dengfeng; bus / taxi to Shaolin scenic gate; internal shuttle common. Sanhuangzhai cliff / cable is a separate mountain add-on day.",
+      "tips": [
+        "Book via WeChat 嵩山旅游 / 漫游嵩山 when required — verify live.",
+        "Do not invent CNY; admission ≠ cable ≠ VIP seats.",
+        "Foreign visitors: expect passport verification at a service window after online hold.",
+        "Arrive early for free floor seats at the performance hall when included.",
+        "Do not film monks at practice disruptively.",
+        "Sanhuangzhai cable is a separate add-on — not “temple ticket = full Songshan.”",
+        "Hard-warn scalpers outside the performance hall."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://www.songshancn.com/",
+      "ticketsLabel": "Songshan Shaolin — consult official WeChat / songshancn.com",
+      "ticketsNote": "Prefer WeChat 嵩山旅游 / 漫游嵩山; do not invent CNY; show ≠ temple framing."
+    },
+    "etiquette": {
+      "intro": "Living Chan monastery — show is extra, halls are sacred.",
+      "bullets": [
+        "Modest dress in halls; quiet in scripture spaces.",
+        "No disruptive filming of monks at practice.",
+        "Respect performance-hall rules without turning the whole visit into a stunt show.",
+        "Threshold Atlas tone: Chan origin + wushu lineage — not theme park only."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Shaolin from Zhengzhou / Luoyang.",
+      "paragraphs": [
+        "Reach Dengfeng from Zhengzhou or Luoyang by bus, tour, or private car, then continue to the Shaolin scenic gate. Internal shuttles are common inside the scenic area.",
+        "Complete WeChat / mini-program booking before peak days. Foreign visitors should budget time for on-site passport verification when the scenic requires it after an online hold.",
+        "If you want Sanhuangzhai cliff views or cable, treat that as a separate mountain add-on with its own time and fare — not included in a “temple-only” mental model."
+      ],
+      "bullets": [
+        "Zhengzhou / Luoyang → Dengfeng → Shaolin gate",
+        "WeChat booking before peak days",
+        "Passport window for many foreign holds",
+        "Sanhuangzhai = separate add-on"
+      ]
+    },
+    "bestTime": {
+      "intro": "Morning gates; early show seats; cooler months on Songshan.",
+      "paragraphs": [
+        "Morning opening avoids the heaviest coach waves and fills free performance-hall floor seats. Midday heat on the approach strip is harsh in summer.",
+        "Spring and autumn are generally more comfortable; winter ice affects mountain add-ons more than the core temple terraces."
+      ],
+      "bullets": [
+        "Best: morning gate + early show",
+        "Best months: spring / autumn",
+        "Peak holidays: book WeChat early",
+        "Mountain add-ons: check weather / ice"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm booking rules on WeChat 嵩山旅游 / 漫游嵩山 / songshancn.com — do not invent CNY.",
+        "Martial-arts show ≠ temple visit; cable separate.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "qufu-confucius",
+    "name": "Temple of Confucius (孔庙) / Qufu San Kong (三孔), Shandong",
+    "shortName": "Qufu Confucius Temple",
+    "location": "Qufu, Shandong",
+    "country": "China",
+    "region": "East Asia",
+    "regionSlug": "east-asia",
+    "religions": [
+      "Confucian"
+    ],
+    "religionSlugs": [
+      "confucian"
+    ],
+    "summary": "UNESCO Temple of Confucius + Kong Family Mansion + Cemetery (三孔) — Confucian pilgrimage capital. First confucian religion slug in SanctaWay. Real-name tickets via WeChat 文博曲阜 / 曲阜三孔景区 (and authorized OTAs when listed). Temple / Mansion / Cemetery are separate or combo products — 三孔联票 when offered. Do not invent CNY; do not fake Buddhist/Taoist consecration.",
+    "heroImage": "https://images.unsplash.com/photo-1508804185872-d7aad8140a9a?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Temple tradition from Han onward on Kongzi’s home place; imperial expansions; Kong lineage mansion + cemetery landscape",
+      "patron": "Confucian — Kongzi (Confucius) cult + imperial examination ritual memory (not Buddhist/Taoist)",
+      "unesco": "UNESCO World Heritage — Temple and Cemetery of Confucius and the Kong Family Mansion in Qufu",
+      "typicalVisit": "Half day minimum for Temple alone; full day for San Kong combo (Temple + Mansion + Cemetery)"
+    },
+    "related": [
+      "temple-of-heaven",
+      "potala",
+      "longmen-grottoes"
+    ],
+    "overview": {
+      "body": [
+        "Qufu’s Temple of Confucius (孔庙) anchors the San Kong (三孔) — Temple, Kong Family Mansion (孔府), and Kong Cemetery (孔林) — the Confucian pilgrimage capital and UNESCO ritual landscape of Kongzi’s home place.",
+        "Frame the visit as Kongzi cult and imperial examination ritual memory — not “Chinese philosophy museum only.” Do not fake consecration as Buddhist or Taoist. Modest dress; quiet at Dacheng Hall; no climbing stele platforms; photography restrictions where posted.",
+        "Official tickets: San Kong real-name tickets via WeChat 文博曲阜 / 曲阜三孔景区 (and authorized OTAs when listed). Temple / Mansion / Cemetery are separate or combo products — 三孔联票 when offered. Do not invent CNY; prefer official WeChat as primary CTA. Soft blocker: WeChat-first UX for foreigners.",
+        "Daytime scenic class commonly morning open–late afternoon last entry — verify WeChat 文博曲阜 / 曲阜三孔景区 and Qufu cultural-heritage notices. Summer heat midday is harsh on courtyards. Plan half-day minimum for the Temple alone.",
+        "Soft blockers: which of the three sites is on the ticket; last-entry cutoffs; stele courtyard sun; do not invent “one ticket forever covers all rituals.”"
+      ],
+      "highlights": [
+        "San Kong UNESCO — Temple / Mansion / Cemetery",
+        "New SanctaWay religion slug: confucian",
+        "WeChat 文博曲阜 / 曲阜三孔景区 real-name tickets",
+        "Combo vs single-site products — verify which",
+        "Not Buddhist / Taoist consecration"
+      ]
+    },
+    "visit": {
+      "intro": "Real-name San Kong tickets — Temple ≠ Mansion ≠ Cemetery products.",
+      "hours": "Daytime scenic class commonly morning open–late afternoon last entry — verify WeChat 文博曲阜 / 曲阜三孔景区. Summer midday heat is harsh on courtyards.",
+      "tickets": "San Kong real-name tickets via WeChat 文博曲阜 / 曲阜三孔景区 (authorized OTAs when listed). Temple / Mansion / Cemetery are separate or combo products — 三孔联票 when offered. Do not invent CNY; prefer official WeChat as primary CTA. Soft blocker: WeChat-first UX for foreigners.",
+      "dress": "Confucian ritual temple + Kong lineage landscape — modest dress; quiet at Dacheng Hall; no climbing stele platforms; photography restrictions where posted.",
+      "duration": "Half day for Temple alone; full day for Temple + Mansion + Cemetery combo.",
+      "access": "Rail into Qufu / Qufudong; city bus / taxi to San Kong cluster (孔庙 / 孔府 / 孔林). The three sites are walkable but large.",
+      "tips": [
+        "Book real-name tickets via WeChat 文博曲阜 / 曲阜三孔景区 when required.",
+        "Confirm whether you hold Temple-only, Mansion, Cemetery, or 三孔联票.",
+        "Do not invent CNY — verify live products on official WeChat.",
+        "Quiet at Dacheng Hall; no climbing stele platforms.",
+        "This is Confucian ritual memory — not Buddhist/Taoist consecration.",
+        "Last-entry cutoffs differ by site — check the day.",
+        "Summer: shade and water for stele courtyards."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": null,
+      "ticketsLabel": "WeChat 文博曲阜 / 曲阜三孔景区 — San Kong real-name tickets",
+      "ticketsNote": "Temple ≠ Mansion ≠ Cemetery; combo when offered; do not invent CNY; WeChat-first."
+    },
+    "etiquette": {
+      "intro": "Confucian ritual landscape — quiet at Dacheng Hall.",
+      "bullets": [
+        "Modest dress; quiet at Dacheng Hall.",
+        "No climbing stele platforms; heed photo restrictions.",
+        "Do not frame as Buddhist or Taoist consecration.",
+        "Threshold Atlas tone: Kongzi cult + imperial examination memory."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach San Kong in Qufu.",
+      "paragraphs": [
+        "Take high-speed or conventional rail into Qufu / Qufudong, then city bus or taxi to the San Kong cluster. The Temple, Mansion, and Cemetery are near each other but each is large.",
+        "Complete real-name WeChat booking before peak holidays. Enter with the ID / QR used for the booking.",
+        "If you hold a combo (三孔联票), plan walking order and last-entry times for each gate. Temple-alone visits still need half a day for courtyards and halls."
+      ],
+      "bullets": [
+        "Rail → Qufu / Qufudong → San Kong cluster",
+        "WeChat real-name booking before peak",
+        "Confirm which of the three sites are on the ticket",
+        "Half day minimum for Temple alone"
+      ]
+    },
+    "bestTime": {
+      "intro": "Morning courtyards; avoid summer midday heat.",
+      "paragraphs": [
+        "Morning opening gives cooler courtyards and thinner queues at Dacheng Hall approaches. Midsummer midday sun on stele yards is harsh.",
+        "Spring and autumn are generally more comfortable; major Kongzi commemorations and national holidays bring dense crowds — book WeChat early."
+      ],
+      "bullets": [
+        "Best hours: morning opening",
+        "Best months: spring / autumn",
+        "Holidays: book WeChat early",
+        "Watch per-site last-entry times"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm products and hours on WeChat 文博曲阜 / 曲阜三孔景区 — do not invent CNY.",
+        "Religion slug is confucian — not buddhist / taoist.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "kek-lok-si",
+    "name": "Kek Lok Si (極樂寺), Air Itam, Penang",
+    "shortName": "Kek Lok Si",
+    "location": "Air Itam, Penang",
+    "country": "Malaysia",
+    "region": "Southeast Asia",
+    "regionSlug": "southeast-asia",
+    "religions": [
+      "Buddhist"
+    ],
+    "religionSlugs": [
+      "buddhist"
+    ],
+    "summary": "Largest Buddhist temple complex in Malaysia — Pagoda of Ten Thousand Buddhas and Guanyin pavilion incline at Air Itam, Penang. Grounds commonly free; pagoda and inclined lift / Guanyin pavilion are separate on-site fares (cash common). Verify myPenang / on-site desks. No reliable single national e-ticket — do not invent MYR; do not treat random OTAs as required entry.",
+    "heroImage": "https://images.unsplash.com/photo-1596422846543-75c6fc7107fa?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Late 19th / early 20th c. Chinese Mahayana complex; pagoda and later Guanyin pavilion expansions",
+      "patron": "Buddhist — Chinese Mahayana (Pure Land / Guanyin devotion) living temple complex",
+      "unesco": "Not a UNESCO inscription — major living temple listed by myPenang / Tourism Malaysia",
+      "typicalVisit": "2–3 hours including terraces + pagoda and/or incline to Guanyin pavilion"
+    },
+    "related": [
+      "batu-caves",
+      "shwedagon",
+      "borobudur"
+    ],
+    "overview": {
+      "body": [
+        "Kek Lok Si in Air Itam is Malaysia’s largest Buddhist temple complex — terraced halls, the Pagoda of Ten Thousand Buddhas, and the hillside Guanyin pavilion reached by inclined lift when operating.",
+        "Frame the visit as Penang Chinese Buddhist pilgrimage and pagoda cosmology — not “theme-park pagoda only.” Shoulders/knees covered in halls; remove shoes where posted; quiet at Buddha / Guanyin shrines; no climbing sacred fabric.",
+        "Official tickets: grounds commonly free; pagoda and inclined lift / Guanyin pavilion are separate on-site fares (cash common) — verify myPenang (mypenang.gov.my) / on-site desks. No reliable single national e-ticket as of write research. Do not invent MYR; do not treat random OTAs as required entry.",
+        "Complex commonly ~08:30–17:30 class — verify myPenang. CNY / Vesak / Mid-Autumn light displays change crowd and hours — check seasonal notices. Early morning for a cooler climb.",
+        "Soft blockers: stairs vs incline cash; heat/humidity; festival crush; hawkers on approach; do not invent “everything free including pagoda + lift.”"
+      ],
+      "highlights": [
+        "Malaysia’s largest living Buddhist temple complex",
+        "Grounds free; pagoda + incline separate on-site fares",
+        "myPenang / on-site desks — cash common",
+        "No national e-ticket myth",
+        "Dress and shoe rules in halls"
+      ]
+    },
+    "visit": {
+      "intro": "Grounds free class — pagoda and incline are separate on-site fares.",
+      "hours": "Complex commonly ~08:30–17:30 class — verify myPenang. Festival light displays (CNY / Vesak / Mid-Autumn) change crowds and hours.",
+      "tickets": "Grounds commonly free; pagoda and inclined lift / Guanyin pavilion are separate on-site fares (cash common) — verify myPenang / on-site desks. No reliable single national e-ticket. Do not invent MYR; do not treat random OTAs as required entry.",
+      "dress": "Living Chinese Mahayana complex — shoulders/knees covered in halls; remove shoes where posted; quiet at Buddha / Guanyin shrines; no climbing sacred fabric.",
+      "duration": "2–3 hours for terraces + pagoda and/or incline to Guanyin pavilion.",
+      "access": "George Town / Air Itam base; bus / Grab to temple foot; walk up terraces. Inclined lift / funicular to upper Guanyin pavilion when operating (separate fare).",
+      "tips": [
+        "Expect free grounds — budget cash for pagoda and/or incline if you want them.",
+        "Do not invent MYR; ignore OTAs selling “required” entry.",
+        "Shoulders and knees covered in halls; shoes off where posted.",
+        "Early morning for cooler terrace climbing.",
+        "Festival nights are spectacular and crowded — check seasonal notices.",
+        "Hawkers on the approach are normal — temple entry rules still apply inside.",
+        "Do not invent “everything free including pagoda + lift.”"
+      ],
+      "entryType": "donation",
+      "ticketsUrl": "https://www.mypenang.gov.my/",
+      "ticketsLabel": "myPenang — verify Kek Lok Si visitor notices",
+      "ticketsNote": "Grounds free class; pagoda/incline on-site fares; do not invent MYR."
+    },
+    "etiquette": {
+      "intro": "Living Mahayana complex — halls first, photo set second.",
+      "bullets": [
+        "Shoulders/knees covered in halls; shoes off where posted.",
+        "Quiet at Buddha / Guanyin shrines.",
+        "No climbing sacred fabric or restricted platforms.",
+        "Threshold Atlas tone: Penang Chinese Buddhist pilgrimage — not theme-park pagoda."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Kek Lok Si from George Town.",
+      "paragraphs": [
+        "From George Town, take a local bus or Grab to Air Itam and the temple foot. The complex climbs in terraces — expect stairs unless you use the inclined lift for the upper Guanyin pavilion.",
+        "Grounds entry is commonly free. Pay pagoda and incline fares at on-site desks when you choose those add-ons; cash is commonly expected.",
+        "Festival evenings bring dense traffic into Air Itam — allow extra road time or go early."
+      ],
+      "bullets": [
+        "George Town → Air Itam → temple foot",
+        "Bus / Grab most practical",
+        "Stairs vs paid incline to Guanyin",
+        "Cash for pagoda / incline add-ons"
+      ]
+    },
+    "bestTime": {
+      "intro": "Early morning climb; festival lights are a separate crowd plan.",
+      "paragraphs": [
+        "Early morning is cooler for the terrace climb and quieter in the halls. Midday humidity is heavy.",
+        "CNY, Vesak, and Mid-Autumn light displays are famous — and crowded. Check myPenang / temple notices for seasonal hours."
+      ],
+      "bullets": [
+        "Best hours: early morning",
+        "Festivals: spectacular + crowded",
+        "Heat/humidity: water + shade",
+        "Incline: confirm operating hours on the day"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm pagoda / incline fares on-site / myPenang — do not invent MYR.",
+        "Grounds free ≠ pagoda + lift free.",
         "SanctaWay is informational; it does not sell tickets or grant access.",
         "Hero image is an Unsplash placeholder pending visual / Commons pass."
       ]

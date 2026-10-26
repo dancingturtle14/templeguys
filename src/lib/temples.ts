@@ -27,6 +27,7 @@ export const religions = [
   { slug: 'inca', label: 'Inca' },
   { slug: 'andean', label: 'Andean' },
   { slug: 'jain', label: 'Jain' },
+  { slug: 'confucian', label: 'Confucian' },
   { slug: 'nabataean', label: 'Nabataean' },
   { slug: 'prehistoric', label: 'Prehistoric' },
   { slug: 'ancient-egyptian', label: 'Ancient Egyptian' },

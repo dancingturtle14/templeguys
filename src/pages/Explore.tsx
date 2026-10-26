@@ -1,9 +1,10 @@
 import { useEffect, useMemo, useState } from 'react'
 import { AdSlot } from '../components/AdSlot'
-import { Chip } from '../components/Chip'
+import { ExploreFilters } from '../components/ExploreFilters'
 import { TempleCard } from '../components/TempleCard'
+import { routeForFilters, type PlaceFilters } from '../lib/exploreFilters'
 import { useRouter } from '../lib/router'
-import { filterTemples, regionLabel, regions, religionLabel, religions } from '../lib/temples'
+import { filterTemples, regionLabel, religionLabel } from '../lib/temples'
 
 export function ExplorePage({
   initialQ,
@@ -32,25 +33,9 @@ export function ExplorePage({
     [q, region, religion],
   )
 
-  function pushFilters(next: { q?: string; region?: string; religion?: string }) {
-    const nextRegion = next.region
-    const nextReligion = next.religion
-    const nextQ = next.q?.trim() || undefined
-
-    if (!nextQ && nextRegion && !nextReligion) {
-      navigate({ name: 'region', slug: nextRegion })
-      return
-    }
-    if (!nextQ && nextReligion && !nextRegion) {
-      navigate({ name: 'religion', slug: nextReligion })
-      return
-    }
-    navigate({
-      name: 'explore',
-      q: nextQ,
-      region: nextRegion,
-      religion: nextReligion,
-    })
+  function applyFilters(next: PlaceFilters) {
+    setQ(next.q ?? '')
+    navigate(routeForFilters(next))
   }
 
   const title =
@@ -72,61 +57,13 @@ export function ExplorePage({
         </p>
       </header>
 
-      <div className="mt-8 space-y-5 border border-line bg-paper-deep/50 p-4 sm:p-6">
-        <label className="block">
-          <span className="text-sm font-medium text-ink-soft">Search</span>
-          <input
-            type="search"
-            value={q}
-            onChange={(e) => {
-              const value = e.target.value
-              setQ(value)
-              pushFilters({ q: value, region, religion })
-            }}
-            placeholder="Name, city, country…"
-            className="mt-1.5 w-full border border-line bg-paper px-3.5 py-2.5 text-ink outline-none placeholder:text-ink-muted focus:border-cinnabar"
-          />
-        </label>
-
-        <div>
-          <p className="text-sm font-medium text-ink-soft">Region</p>
-          <div className="mt-2 flex flex-wrap gap-2">
-            <Chip active={!region} onClick={() => pushFilters({ q, region: undefined, religion })}>
-              All regions
-            </Chip>
-            {regions.map((r) => (
-              <Chip
-                key={r.slug}
-                active={region === r.slug}
-                onClick={() => pushFilters({ q, region: r.slug, religion })}
-              >
-                {r.label}
-              </Chip>
-            ))}
-          </div>
-        </div>
-
-        <div>
-          <p className="text-sm font-medium text-ink-soft">Tradition</p>
-          <div className="mt-2 flex flex-wrap gap-2">
-            <Chip
-              active={!religion}
-              onClick={() => pushFilters({ q, region, religion: undefined })}
-            >
-              All traditions
-            </Chip>
-            {religions.map((r) => (
-              <Chip
-                key={r.slug}
-                active={religion === r.slug}
-                onClick={() => pushFilters({ q, region, religion: r.slug })}
-              >
-                {r.label}
-              </Chip>
-            ))}
-          </div>
-        </div>
-      </div>
+      <ExploreFilters
+        className="mt-8"
+        q={q}
+        region={region}
+        religion={religion}
+        onChange={applyFilters}
+      />
 
       <p className="mt-8 text-sm text-ink-muted">
         <span className="tabular-nums font-medium text-ink">{results.length}</span> place

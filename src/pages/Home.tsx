@@ -1,10 +1,15 @@
+import { useState } from 'react'
 import { AdSlot } from '../components/AdSlot'
+import { ExploreFilters } from '../components/ExploreFilters'
 import { TempleCard } from '../components/TempleCard'
 import { TempleImage } from '../components/TempleImage'
-import { Link } from '../lib/router'
+import { routeForFilters } from '../lib/exploreFilters'
+import { Link, useRouter } from '../lib/router'
 import { regions, religions, temples } from '../lib/temples'
 
 export function HomePage() {
+  const { navigate } = useRouter()
+  const [q, setQ] = useState('')
   const featured = temples.filter((t) => t.featured)
   const lead = featured[0] ?? temples[0]
   const secondary = featured.slice(1, 4)
@@ -31,22 +36,20 @@ export function HomePage() {
                 SanctaWay is a quiet atlas of temples, churches, mosques, shrines, and pilgrimage
                 sites — hours, dress, etiquette, and how to get there.
               </p>
-              <div className="mt-6 flex flex-wrap gap-3">
-                <Link
-                  to={{ name: 'explore' }}
-                  className="inline-flex items-center bg-ink px-5 py-2.5 text-sm font-semibold text-paper no-underline transition-colors duration-150 ease-out hover:bg-ink-soft"
-                >
-                  Explore places
-                </Link>
-                <Link
-                  to={{ name: 'region', slug: 'southeast-asia' }}
-                  className="inline-flex items-center border border-line bg-paper px-5 py-2.5 text-sm font-semibold text-ink no-underline transition-colors duration-150 ease-out hover:border-ink"
-                >
-                  Southeast Asia
-                </Link>
-              </div>
             </div>
           </div>
+
+          <ExploreFilters
+            className="mt-8"
+            heading="Find a place"
+            q={q}
+            showClear={false}
+            onDraft={setQ}
+            onChange={(next) => {
+              setQ(next.q ?? '')
+              navigate(routeForFilters(next))
+            }}
+          />
 
           <dl className="mt-10 flex flex-wrap gap-x-10 gap-y-4 border-t border-line py-6 text-sm">
             <div>

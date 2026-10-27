@@ -829,7 +829,7 @@
     "related": [
       "golden-temple",
       "paro-taktsang",
-      "yonghegong"
+      "erdene-zuu"
     ],
     "overview": {
       "body": [
@@ -1749,7 +1749,7 @@
     "related": [
       "chichen-itza",
       "st-peters",
-      "lujan"
+      "monserrate"
     ],
     "overview": {
       "body": [
@@ -1977,7 +1977,7 @@
     "related": [
       "chi-lin",
       "man-mo",
-      "meiji-shrine"
+      "longshan-temple"
     ],
     "overview": {
       "body": [
@@ -2663,7 +2663,7 @@
     "related": [
       "lumbini",
       "borobudur",
-      "kushinagar"
+      "anuradhapura"
     ],
     "overview": {
       "body": [
@@ -3806,7 +3806,7 @@
     "related": [
       "lumbini",
       "mahabodhi",
-      "boudhanath"
+      "erdene-zuu"
     ],
     "overview": {
       "body": [
@@ -4383,7 +4383,7 @@
     "related": [
       "mahabodhi",
       "borobudur",
-      "golden-temple"
+      "anuradhapura"
     ],
     "overview": {
       "body": [
@@ -4843,7 +4843,7 @@
     "related": [
       "blue-mosque",
       "hagia-sophia",
-      "ibn-tulun"
+      "faisal-mosque"
     ],
     "overview": {
       "body": [
@@ -5533,7 +5533,7 @@
     "related": [
       "fushimi-inari",
       "kiyomizu-dera",
-      "koyasan"
+      "longshan-temple"
     ],
     "overview": {
       "body": [
@@ -9059,7 +9059,7 @@
     "related": [
       "guadalupe",
       "lourdes",
-      "bom-jesus-congonhas"
+      "monserrate"
     ],
     "overview": {
       "body": [
@@ -10862,7 +10862,7 @@
     "related": [
       "guadalupe",
       "aparecida",
-      "bom-jesus-congonhas"
+      "quiapo-church"
     ],
     "overview": {
       "body": [
@@ -10974,7 +10974,7 @@
     "related": [
       "hassan-ii-mosque",
       "blue-mosque",
-      "sultan-hassan"
+      "imam-reza-shrine"
     ],
     "overview": {
       "body": [
@@ -13999,7 +13999,7 @@
     "related": [
       "blue-mosque",
       "hagia-sophia",
-      "nasir-ol-molk"
+      "imam-reza-shrine"
     ],
     "overview": {
       "body": [
@@ -15122,7 +15122,7 @@
     "related": [
       "jasna-gora",
       "montserrat",
-      "geghard"
+      "kiev-pechersk-lavra"
     ],
     "overview": {
       "body": [
@@ -16251,7 +16251,7 @@
     "related": [
       "rila-monastery",
       "st-basils",
-      "jasna-gora"
+      "kiev-pechersk-lavra"
     ],
     "overview": {
       "body": [
@@ -20887,7 +20887,7 @@
     "related": [
       "jama-masjid",
       "taj-mahal",
-      "registan"
+      "faisal-mosque"
     ],
     "overview": {
       "body": [
@@ -21676,7 +21676,7 @@
     "related": [
       "san-francesco-assisi",
       "basilica-sant-antonio",
-      "lourdes"
+      "quiapo-church"
     ],
     "overview": {
       "body": [
@@ -21757,6 +21757,909 @@
         "Confirm Orari on conventosantuariopadrepio.it — churches generally free; do not invent EUR.",
         "Old vs new church confusion and feast crush are standing soft blockers.",
         "Earn Padre Pio mega volume difference from live Assisi / Padua.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "kiev-pechersk-lavra",
+    "name": "Kyiv-Pechersk Lavra / Київсько-Печерська лавра, Kyiv",
+    "shortName": "Kyiv-Pechersk Lavra",
+    "location": "Lavrska Street National Preserve, Pechersk, Kyiv",
+    "country": "Ukraine",
+    "region": "Europe",
+    "regionSlug": "europe",
+    "religions": [
+      "Christian"
+    ],
+    "religionSlugs": [
+      "christian"
+    ],
+    "summary": "UNESCO cave-monastery lavra — Ukraine Orthodox + national-preserve tourist mega (opens Ukraine). Upper Lavra daytime circuit vs Near/Far Caves by group booking. Wartime air-raid cave closures honesty. kplavra.kyiv.ua — do not invent UAH.",
+    "heroImage": "https://images.unsplash.com/photo-1555993539-1732b0258235?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "1051 CE monastic caves of Anthony & Theodosius; UNESCO World Heritage with St Sophia complex framing",
+      "patron": "Christian — Orthodox lavra + National Kyiv-Pechersk Historical and Cultural Preserve",
+      "unesco": "World Heritage — Kyiv: Saint-Sophia Cathedral and Related Monastic Buildings, Kyiv-Pechersk Lavra",
+      "typicalVisit": "2–4 hours Upper Lavra + exhibitions; caves only with advance group booking (Wed–Sun patterns)"
+    },
+    "related": [
+      "trinity-sergius-lavra",
+      "rila-monastery",
+      "meteora"
+    ],
+    "overview": {
+      "body": [
+        "Kyiv-Pechersk Lavra is Ukraine’s cave-monastery postcard mega — the Dnieper-hill lavra of Near and Far Caves that opens the country on SanctaWay as Orthodox pilgrimage plus national-preserve tourism, not a St Sophia clone densify.",
+        "Frame Upper vs Lower honesty: Upper Lavra holds Dormition Cathedral, Great Bell Tower, and museum halls on daytime preserve tickets; Near/Far Caves are group-and-booking routes that close on Mondays–Tuesdays in current preserve notices and stop entirely during air-raid alerts.",
+        "Official products live on kplavra.kyiv.ua Tickets / working-hours pages — territory, combined bell-tower, guided, and exhibition products as published. Do not invent UAH from blogs or OTA “Lavra VIP.” Liturgy windows may open Trapezna / Dormition for worship without a full museum circuit.",
+        "Kyiv gateway — metro / taxi to Lavrska Street. Pair St Sophia or Pechersk civil sights without inventing one sacred pass. Stairs, underground corridors, and steward lanes during alerts are standing soft blockers.",
+        "Soft blockers: wartime interruptions; cave booking; no flash in caves when posted; covered shoulders/knees and often women’s headscarf in churches. SanctaWay is informational — it does not sell tickets, invent visa myths, or grant access."
+      ],
+      "highlights": [
+        "Opens Ukraine — UNESCO cave lavra mega",
+        "Upper Lavra tourist circuit ≠ Near/Far cave booking",
+        "Wartime air-raid cave closures honesty",
+        "kplavra.kyiv.ua official tickets / hours",
+        "Do not invent UAH or St Sophia one-pass myths"
+      ]
+    },
+    "visit": {
+      "intro": "kplavra.kyiv.ua — Upper vs caves; wartime honesty; no invent UAH.",
+      "hours": "Preserve commonly 10:00–18:00 daily; ticket offices to ~17:30 — verify kplavra.kyiv.ua working-hours. Near Caves typically Wed–Sun by advance booking (pilgrim morning / tour afternoon slots); Far Caves limited test windows. Caves close during air-raid alerts.",
+      "tickets": "Territory / combined / bell-tower / guided / exhibition products as published on kplavra.kyiv.ua Tickets page. Cave routes require group booking via excursion office. Do not invent UAH. Prefer official preserve over opaque OTA “Lavra VIP.” St Sophia = separate visit.",
+      "dress": "Active Orthodox lavra + museum preserve — covered shoulders/knees; women often headscarf in churches; quiet in caves / near relics; no flash in caves when posted; follow steward lanes during alerts.",
+      "duration": "2–4 hours Upper Lavra; add booked cave slot when available.",
+      "access": "Kyiv metro / taxi to Lavrska / Ivan Mazepa approaches. Stairs and underground corridors. Wartime security and alert procedures reshape access. Not one ticket with St Sophia.",
+      "tips": [
+        "Confirm hours and products on kplavra.kyiv.ua — do not invent UAH.",
+        "Book Near/Far cave groups in advance; Mon–Tue cave rest days common in current notices.",
+        "Caves close during air-raid alerts — plan flexible Upper Lavra time.",
+        "Covered dress + often headscarf in churches; no flash underground when banned.",
+        "Do not invent one pass covering St Sophia or Pechersk civil museums.",
+        "Prefer official preserve excursion phones over street “VIP cave” sellers.",
+        "SanctaWay does not sell tickets or grant access."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://kplavra.kyiv.ua/en/Tickets_en",
+      "ticketsLabel": "Kyiv-Pechersk Lavra National Preserve — official Tickets (verify UAH products; caves by booking; do not invent fares)",
+      "ticketsNote": "Wartime cave closures; Upper vs Lower; group booking; do not invent UAH or St Sophia combo."
+    },
+    "etiquette": {
+      "intro": "Active Orthodox lavra + preserve — dress, caves, alerts.",
+      "bullets": [
+        "Covered shoulders/knees; women often headscarf in churches.",
+        "Quiet in caves and near relics; no flash when posted.",
+        "Follow steward lanes during air-raid procedures.",
+        "Threshold Atlas tone: living lavra + UNESCO preserve — not ruins-only tourism."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach the Lavra from Kyiv gateways.",
+      "paragraphs": [
+        "Most visitors reach Lavrska Street by metro plus short walk/taxi from central Kyiv. Upper Lavra ticket gates are the daytime tourist start.",
+        "Cave visits need advance booking through the preserve excursion office — do not assume walk-up cave entry. Confirm phones/hours on kplavra.kyiv.ua.",
+        "St Sophia and other Pechersk sights are separate tickets and routes — do not invent one Ukraine sacred pass."
+      ],
+      "bullets": [
+        "Kyiv → Lavrska / Pechersk approaches",
+        "Upper Lavra tickets at preserve gates",
+        "Caves = advance group booking only",
+        "No St Sophia one-pass myth"
+      ]
+    },
+    "bestTime": {
+      "intro": "Morning Upper Lavra; book caves midweek–Sunday slots.",
+      "paragraphs": [
+        "Arrive near opening for thinner Upper Lavra queues and better light on Dormition / Bell Tower. Cave pilgrim slots often morning; tour slots afternoon — verify live.",
+        "Air-raid interruptions can cancel underground visits without notice — keep a flexible Upper Lavra plan."
+      ],
+      "bullets": [
+        "Best: morning Upper Lavra light",
+        "Caves: Wed–Sun booked slots (verify)",
+        "Alert closures reshape underground access",
+        "Do not invent UAH / combo myths"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm tickets/hours on kplavra.kyiv.ua — do not invent UAH.",
+        "Wartime air-raid cave closures are a standing soft blocker.",
+        "Upper Lavra ≠ automatic cave entry.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "monserrate",
+    "name": "Sanctuary of Monserrate / Cerro de Monserrate, Bogotá",
+    "shortName": "Monserrate",
+    "location": "Cerro de Monserrate, eastern hills above Bogotá (Carrera 2 Este / Paseo Bolívar base)",
+    "country": "Colombia",
+    "region": "Americas",
+    "regionSlug": "americas",
+    "religions": [
+      "Christian"
+    ],
+    "religionSlugs": [
+      "christian"
+    ],
+    "summary": "Bogotá pilgrimage hill + Señor Caído basilica — Colombia tourist mega (opens Colombia). Official funicular/cable on monserrate.co; IDRD walking trail separate. Altitude ~3,150 m honesty. Do not invent COP.",
+    "heroImage": "https://images.unsplash.com/photo-1587595431973-160d0d94add1?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Colonial hill shrine tradition; present basilica / sanctuary complex above Bogotá",
+      "patron": "Christian — Catholic sanctuary of Señor Caído de Monserrate",
+      "unesco": "Not a standalone World Heritage listing (national pilgrimage + city landmark)",
+      "typicalVisit": "2–3 hours including ascent; funicular/cable ticketed; trail = IDRD rules"
+    },
+    "related": [
+      "guadalupe",
+      "aparecida",
+      "lujan"
+    ],
+    "overview": {
+      "body": [
+        "Monserrate is Bogotá’s pilgrimage hill mega — the Señor Caído sanctuary every capital itinerary names as Colombia’s household Christian landmark, opening the country on SanctaWay ahead of Las Lajas densify.",
+        "Frame transport vs sanctuary honesty: monserrate.co sells funicular and/or cable products; the pedestrian trail is city/IDRD managed with its own hours (often closed Tuesdays for maintenance). Basilica entry is generally free/donation — the paid product is the ascent.",
+        "Altitude is about 3,150 m — pace for sea-level visitors. Sunday pilgrimage peaks and weather/equipment maintenance can reshape funicular vs cable availability (operators sometimes run funicular-only windows).",
+        "Bogotá Candelaria / downtown gateway — road to Circunvalar / Paseo Bolívar base. Pair Zipaquirá Salt Cathedral or Las Lajas without inventing one Colombia sacred pass.",
+        "Soft blockers: altitude / stairs; Sunday crush; cable weather closures; trail vs ticketed transport. SanctaWay is informational — it does not sell tickets or grant access."
+      ],
+      "highlights": [
+        "Opens Colombia — Bogotá pilgrimage hill mega",
+        "monserrate.co funicular/cable official products",
+        "IDRD trail separate from sanctuary ascent tickets",
+        "Altitude ~3,150 m honesty",
+        "Do not invent COP or Las Lajas / Zipaquirá one-pass myths"
+      ]
+    },
+    "visit": {
+      "intro": "monserrate.co — funicular/cable vs IDRD trail; altitude; no invent COP.",
+      "hours": "Funicular/cable windows commonly Mon–Sat early morning–evening, Sunday shorter — verify monserrate.co schedules. Basilica hours and Masses published separately. IDRD trail ascent/descent windows and Tuesday maintenance closures — verify idrd.gov.co.",
+      "tickets": "Funicular / cable round-trip and one-way products as published on monserrate.co (online or booth). Basilica generally free/donation. Trail = IDRD rules (separate from Monserrate Co transport). Do not invent COP. Prefer official monserrate.co over scalpers.",
+      "dress": "Active Catholic sanctuary — modest dress in basilica; quiet at Señor Caído; trail is athletic/pilgrim mix — yield on steps; follow drone/hillside restrictions when posted.",
+      "duration": "2–3 hours including ascent and basilica; longer if walking the trail.",
+      "access": "Bogotá road / taxi / bus to Paseo Bolívar base. Altitude and stairs. Cable may suspend for weather or maintenance — check operator notices. Not one ticket with Zipaquirá or Las Lajas.",
+      "tips": [
+        "Buy/verify ascent on monserrate.co — do not invent COP.",
+        "Trail ≠ funicular ticket — check IDRD hours (often closed Tue).",
+        "Pace for ~3,150 m altitude if arriving from sea level.",
+        "Weekday afternoon often quieter than Sunday pilgrimage peaks.",
+        "Do not invent one pass covering Zipaquirá or Las Lajas.",
+        "Prefer official booth/online over street scalpers.",
+        "SanctaWay does not sell tickets or grant access."
+      ],
+      "entryType": "mixed",
+      "ticketsUrl": "https://monserrate.co/en/schedules-and-prices/",
+      "ticketsLabel": "Cerro de Monserrate — official schedules & funicular/cable prices (verify COP; trail = IDRD separate)",
+      "ticketsNote": "Transport ticketed; basilica free/donation; altitude + trail honesty; do not invent COP."
+    },
+    "etiquette": {
+      "intro": "Active hill sanctuary — dress, Señor Caído, trail courtesy.",
+      "bullets": [
+        "Modest dress inside the basilica; quiet at Señor Caído.",
+        "Yield on trail steps; no drones when restricted.",
+        "Respect Mass and pilgrimage peaks.",
+        "Threshold Atlas tone: living Bogotá pilgrimage — not viewpoint-only tourism."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Monserrate from Bogotá.",
+      "paragraphs": [
+        "Most visitors taxi or ride-hail to the Paseo Bolívar / Circunvalar base for funicular or cable boarding. Online tickets can skip booth queues when available.",
+        "The walking trail is a separate IDRD product with its own opening and Tuesday maintenance closures — not included in Monserrate Co transport tickets.",
+        "Zipaquirá and Las Lajas are separate day/region trips — do not invent one Colombia sacred pass."
+      ],
+      "bullets": [
+        "Bogotá → Paseo Bolívar base",
+        "monserrate.co funicular/cable products",
+        "IDRD trail = separate rules",
+        "No Zipaquirá / Las Lajas one-pass myth"
+      ]
+    },
+    "bestTime": {
+      "intro": "Weekday afternoon light; avoid Sunday crush if possible.",
+      "paragraphs": [
+        "Operator guidance often points to quieter post-3 pm windows for sunset views. Sundays and feast days reshape queues.",
+        "Morning trail athletes and evening cable riders both peak — check live equipment notices (funicular-only maintenance windows happen)."
+      ],
+      "bullets": [
+        "Best: weekday afternoon / sunset windows",
+        "Sunday pilgrimage crush",
+        "Verify funicular vs cable availability",
+        "Do not invent COP / combo myths"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm ascent products on monserrate.co — do not invent COP.",
+        "Altitude and IDRD trail rules are standing soft blockers.",
+        "Las Lajas stays parked as Colombia #2 densify.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "quiapo-church",
+    "name": "Quiapo Church / Minor Basilica and National Shrine of Jesus Nazareno, Manila",
+    "shortName": "Quiapo Church",
+    "location": "Plaza Miranda, Quiapo, Manila",
+    "country": "Philippines",
+    "region": "Southeast Asia",
+    "regionSlug": "southeast-asia",
+    "religions": [
+      "Christian"
+    ],
+    "religionSlugs": [
+      "christian"
+    ],
+    "summary": "Black Nazarene national shrine — Philippines devotion mega (opens Philippines). Free/donation shrine; Friday crush + 9 January Traslación are mass-crowd events, not casual tourism days. quiapochurch.com.ph — do not invent PHP.",
+    "heroImage": "https://images.unsplash.com/photo-1555899434-94d1368aa7a9?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Spanish-colonial Quiapo parish; Black Nazarene devotion centre of Manila",
+      "patron": "Christian — Nuestro Padre Jesús Nazareno (Black Nazarene) national shrine",
+      "unesco": "Not a standalone World Heritage listing (national pilgrimage landmark)",
+      "typicalVisit": "45–90 minutes weekday; Friday devotion and Traslación reshape access into crowd events"
+    },
+    "related": [
+      "guadalupe",
+      "aparecida",
+      "san-giovanni-rotondo"
+    ],
+    "overview": {
+      "body": [
+        "Quiapo Church is the Philippines’ Black Nazarene national shrine mega — Plaza Miranda devotion that opens the country on SanctaWay as living popular Catholicism, not an Intramuros facade densify or Cebu Sto. Niño #2.",
+        "Frame devotion honesty ahead of Baroque tourism: pahalik queues, Friday novena/Mass marathon, and the 9 January Traslación are among the world’s largest Christian crowd events. Casual visitors should treat Friday and Traslación as crush-safety days, not photo stops.",
+        "Entry is generally free/donation — verify parish notices on quiapochurch.com.ph. Do not invent PHP or third-party “Nazareno VIP darshan.” Photography inside often restricted — ask parish rules.",
+        "Manila LRT (Carriedo / Recto) + walk to Plaza Miranda; jeepney / Grab common. Dense market streets — bag awareness and pickpocket caution.",
+        "Soft blockers: Friday crush; Traslación crowd safety; photo limits; market-street theft risk. SanctaWay is informational — it does not sell tickets or grant access."
+      ],
+      "highlights": [
+        "Opens Philippines — Black Nazarene national shrine",
+        "Free/donation entry — do not invent PHP",
+        "Friday devotion + Traslación crush honesty",
+        "quiapochurch.com.ph parish guidance",
+        "Do not invent Intramuros / Cebu one-pass myths"
+      ]
+    },
+    "visit": {
+      "intro": "quiapochurch.com.ph — free shrine; Friday/Traslación crush; no invent PHP.",
+      "hours": "Shrine open long daily hours with frequent Masses — verify parish schedules on quiapochurch.com.ph. Friday devotion starts before dawn with hourly Masses into evening; Traslación (9 January) reshapes the entire district.",
+      "tickets": "Entry generally free / donation. No third-party “Nazareno VIP.” Prefer parish / official feast advisories over OTA packages. Do not invent PHP. Intramuros churches = separate visits.",
+      "dress": "Active national shrine — modest dress; quiet during Mass; observe pahalik without blocking queues; photography often restricted inside — ask parish rules.",
+      "duration": "45–90 minutes weekday; much longer on Friday / feast peaks.",
+      "access": "LRT Carriedo / Recto + walk to Plaza Miranda. Dense market streets; bag awareness. Friday and Traslación are mass-crowd events — not recommended as casual tourism days.",
+      "tips": [
+        "Confirm Mass / feast notices on quiapochurch.com.ph — do not invent PHP.",
+        "Avoid Friday peak and 9 January Traslación if crowd-sensitive.",
+        "Modest dress; quiet during Mass; do not block pahalik queues.",
+        "Ask before photography inside; market streets need bag awareness.",
+        "Do not invent one pass covering Intramuros or Cebu Sto. Niño.",
+        "Prefer parish advisories over OTA “VIP Nazareno” packages.",
+        "SanctaWay does not sell tickets or grant access."
+      ],
+      "entryType": "free",
+      "ticketsUrl": "https://quiapochurch.com.ph/",
+      "ticketsLabel": "Quiapo Church official site — parish / devotion notices (entry generally free/donation; do not invent PHP)",
+      "ticketsNote": "Free/donation; Friday + Traslación crush honesty; no VIP darshan myths."
+    },
+    "etiquette": {
+      "intro": "Active Black Nazarene shrine — Mass, pahalik, photography.",
+      "bullets": [
+        "Modest dress; quiet during Mass and novena.",
+        "Observe pahalik without cutting queues.",
+        "Ask parish rules before indoor photography.",
+        "Threshold Atlas tone: living devotion mega — not Baroque-facade tourism only."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Quiapo from Manila.",
+      "paragraphs": [
+        "Most visitors use LRT to Carriedo or Recto, then walk into Plaza Miranda. Grab / jeepney are common last-mile options.",
+        "Market streets are dense — keep bags closed and phones secure. Friday and Traslación crowd control can close or reshape approaches.",
+        "Intramuros and Cebu Sto. Niño are separate visits — do not invent one Philippines sacred pass."
+      ],
+      "bullets": [
+        "Manila LRT → Plaza Miranda walk",
+        "Bag awareness on market streets",
+        "Friday / Traslación reshape access",
+        "No Intramuros / Cebu one-pass myth"
+      ]
+    },
+    "bestTime": {
+      "intro": "Weekday morning quieter; Friday and Traslación are crush days.",
+      "paragraphs": [
+        "Weekday mornings usually give the calmest shrine visit. First Fridays amplify already-heavy Friday devotion.",
+        "Traslación (9 January) is a mass pilgrimage event — treat as devotion/safety planning, not sightseeing."
+      ],
+      "bullets": [
+        "Best: weekday morning",
+        "Friday devotion crush",
+        "9 January Traslación = mass crowd event",
+        "Do not invent PHP / combo myths"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm parish notices on quiapochurch.com.ph — do not invent PHP.",
+        "Friday and Traslación crush safety are standing soft blockers.",
+        "Cebu Sto. Niño densify stays B24+.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "longshan-temple",
+    "name": "Mengjia Longshan Temple (艋舺龍山寺), Taipei",
+    "shortName": "Longshan Temple",
+    "location": "No. 211 Guangzhou Street, Wanhua District, Taipei",
+    "country": "Taiwan",
+    "region": "East Asia",
+    "regionSlug": "east-asia",
+    "religions": [
+      "Buddhist"
+    ],
+    "religionSlugs": [
+      "buddhist"
+    ],
+    "summary": "Taipei Wanhua living temple postcard — Guanyin household + folk pantheon (opens Taiwan). Free MRT-side tourist mega. travel.taipei — do not invent TWD. Primary religion buddhist.",
+    "heroImage": "https://images.unsplash.com/photo-1528164344705-47542687000d?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "1738 CE Fujianese settlers’ Mengjia temple; rebuilt after fires, quake, and WWII damage",
+      "patron": "Buddhist — Guanyin primary household with Taoist / folk deities under one roof",
+      "unesco": "Not a standalone World Heritage listing (Taipei living temple landmark)",
+      "typicalVisit": "30–60 minutes courtyards + halls; dawn chanting / lunar peaks reshape flow"
+    },
+    "related": [
+      "wong-tai-sin",
+      "senso-ji",
+      "jade-buddha-temple"
+    ],
+    "overview": {
+      "body": [
+        "Longshan Temple is Taipei’s Wanhua living-temple postcard — Guanyin and a dense folk pantheon that opens Taiwan on SanctaWay as urban East Asian devotion, not a Japan densify or China mountain stack.",
+        "Frame free-entry honesty: temple grounds are free/donation; fortune sticks and offerings are optional. Primary SanctaWay religion slug is buddhist (Guanyin household); folk/Taoist deities share the roof without inventing a new religion slug.",
+        "Official tourism notices: travel.taipei Lungshan Temple attraction page. Hours commonly early morning to late evening — verify live. Incense and festival rules can change (air-quality incense limits have applied in recent years).",
+        "Taipei MRT Bannan Line — Longshan Temple Station Exit 1 across the street. Pair Huaxi Night Market / Ximending without inventing one temple pass.",
+        "Soft blockers: worshipper flow / lunar 1st–15th peaks; do not block divination lanes; photography OK if not disrupting prayer. SanctaWay is informational — it does not sell tickets or grant access."
+      ],
+      "highlights": [
+        "Opens Taiwan — Taipei Guanyin living temple mega",
+        "Free entry / donation — do not invent TWD",
+        "MRT Longshan Temple Station Exit 1",
+        "travel.taipei official tourism notice",
+        "Primary buddhist slug; folk pantheon honesty"
+      ]
+    },
+    "visit": {
+      "intro": "travel.taipei — free temple; MRT-side; no invent TWD.",
+      "hours": "Typically early morning–late evening daily (commonly ~06:00–22:00 class) — verify travel.taipei / temple notices. Dawn chanting and lunar 1st–15th worship peaks.",
+      "tickets": "Free entry / donation. Fortune-stick and offering purchases optional. Prefer temple / Taipei tourism notices over paid “VIP temple tour” markup. Do not invent TWD.",
+      "dress": "Active Taiwanese folk-Buddhist temple — modest practical dress; do not block incense / divination lanes; quiet near main Guanyin hall; photography OK if not disrupting worshippers; enter via side doors when tradition posted.",
+      "duration": "30–60 minutes; longer at festival peaks.",
+      "access": "MRT Bannan Line Longshan Temple Station Exit 1 — temple across the street. Wheelchair / elevator access via MRT exits. Not one ticket with other Taipei temples.",
+      "tips": [
+        "Confirm hours on travel.taipei — free entry; do not invent TWD.",
+        "Arrive for dawn chanting if you want quieter devotion atmosphere.",
+        "Do not block worshippers or divination lanes.",
+        "Side-door entry / step-over threshold courtesy when posted.",
+        "Pair Huaxi / Ximending without inventing one temple pass.",
+        "Prefer temple / tourism guidance over paid VIP tour markup.",
+        "SanctaWay does not sell tickets or grant access."
+      ],
+      "entryType": "free",
+      "ticketsUrl": "https://www.travel.taipei/en/attraction/details/487",
+      "ticketsLabel": "Taipei Travel — Lungshan Temple (free entry; verify hours; do not invent TWD)",
+      "ticketsNote": "Free/donation; lunar peaks; primary buddhist; no multi-temple pass myth."
+    },
+    "etiquette": {
+      "intro": "Living Taipei temple — Guanyin hall, lanes, photography.",
+      "bullets": [
+        "Modest dress; quiet near main halls.",
+        "Do not block incense / moon-block lanes.",
+        "Photography without disrupting prayer.",
+        "Threshold Atlas tone: living Guanyin household — not museum-only."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Longshan from Taipei.",
+      "paragraphs": [
+        "Take MRT Bannan (Blue) Line to Longshan Temple Station and use Exit 1 — the temple facade is across the street.",
+        "YouBike and short walks to Huaxi / Bopiliao / Ximending are common add-ons — separate from temple entry.",
+        "Do not invent one pass covering Taipei’s other temples or night markets."
+      ],
+      "bullets": [
+        "MRT Longshan Temple Station Exit 1",
+        "Free temple entry / donation",
+        "Pair Huaxi / Ximending separately",
+        "No multi-temple pass myth"
+      ]
+    },
+    "bestTime": {
+      "intro": "Dawn chanting quiet; evening lantern atmosphere; lunar peaks busy.",
+      "paragraphs": [
+        "Early morning chanting windows are often the calmest devotion moments. Evenings light the facade for atmosphere.",
+        "Lunar month 1st and 15th and major festival days reshape crowd flow — arrive early if crowd-sensitive."
+      ],
+      "bullets": [
+        "Best: dawn chanting / early morning",
+        "Evening lantern atmosphere",
+        "Lunar 1st–15th peaks",
+        "Do not invent TWD"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm hours on travel.taipei — free entry; do not invent TWD.",
+        "Primary religion slug buddhist; folk deities share the roof.",
+        "Japan / China densify stay parked.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "imam-reza-shrine",
+    "name": "Imam Reza Shrine / حرم امام رضا, Mashhad",
+    "shortName": "Imam Reza Shrine",
+    "location": "Haram-e Razavi complex, central Mashhad, Razavi Khorasan",
+    "country": "Iran",
+    "region": "Middle East",
+    "regionSlug": "middle-east",
+    "religions": [
+      "Islamic"
+    ],
+    "religionSlugs": [
+      "islamic"
+    ],
+    "summary": "One of the world’s largest mosque–shrine complexes — Mashhad Shia ziyarat mega (≠ Isfahan tourist-mosque trio). Non-Muslims: outer courtyards / some museums OK; burial chamber / certain mosque interiors generally off-limits. Free ziyarat — do not invent IRR.",
+    "heroImage": "https://images.unsplash.com/photo-1567596142471-9c73c5e2a1d5?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Shrine of the 8th Shia Imam ʿAlī ibn Mūsā al-Riḍā; continuous expansion under Astan Quds Razavi",
+      "patron": "Islamic — major Shia ziyarat shrine complex",
+      "unesco": "Not a standalone World Heritage listing (world-scale pilgrimage landmark)",
+      "typicalVisit": "2–4 hours outer courtyards + museums with foreign-pilgrim desk guidance; inner rawza for Muslim pilgrims"
+    },
+    "related": [
+      "imam-mosque-isfahan",
+      "sheikh-zayed-grand-mosque",
+      "jama-masjid"
+    ],
+    "overview": {
+      "body": [
+        "Imam Reza Shrine is Mashhad’s world-scale Shia ziyarat mega — the Haram-e Razavi complex that deepens Iran on SanctaWay beyond the live Isfahan tourist-mosque trio, not a casual civic-mosque clone.",
+        "Frame non-Muslim access honesty clearly: visitingmashhad / Astan Quds guidance states mosques and the burial-chamber room are strictly off-limits to non-Muslims; outer courtyards and some museum/cultural offerings may be visited, often via the Office of International / Non-Iranian Pilgrims with guided coordination.",
+        "Ziyarat is generally free; museum / library products as published — do not invent IRR from opaque packages. Women: full modest cover (chador often provided at gates); men: long sleeves/trousers; shoes rules in carpeted zones; security bag limits common.",
+        "Mashhad air/rail gateway — metro / taxi to the Haram. Pair Isfahan mosques without inventing one Iran sacred pass. Iran travel documentation is a standing soft blocker for many passports.",
+        "Soft blockers: non-Muslim chamber ban; chador/dress; security; mourning-month crush. SanctaWay is informational — it does not sell tickets, invent visa myths, or grant access."
+      ],
+      "highlights": [
+        "Mashhad shrine mega — ≠ Isfahan tourist-mosque trio",
+        "Non-Muslim burial-chamber / mosque-interior ban honesty",
+        "Free ziyarat; museums as published — do not invent IRR",
+        "Foreign-pilgrim / international office guidance",
+        "Do not invent Isfahan one-pass myths"
+      ]
+    },
+    "visit": {
+      "intro": "Astan Quds / visitingmashhad — non-Muslim limits; free ziyarat; no invent IRR.",
+      "hours": "Complex open long hours for ziyarat (often around the clock for pilgrims) — verify Astan Quds / visitingmashhad guidance. Mourning months and peak prayer reshape access. Non-Muslim guided windows via international office.",
+      "tickets": "Ziyarat generally free. Museum / exhibition products as published — do not invent IRR. Prefer official Astan Quds / foreign-pilgrim office over opaque packages. Isfahan mosques = separate visits.",
+      "dress": "Active major Shia shrine — women full modest cover (chador often provided); men long sleeves/trousers; shoes off in carpeted zones; quiet near rawza; follow gender-separated lanes.",
+      "duration": "2–4 hours outer circuit + museums; longer for Muslim ziyarat.",
+      "access": "Mashhad metro / taxi to Haram gates (Bab al-Reza common for internationals). Security screening; bag/camera limits. Non-Muslims: coordinate international office — do not assume rawza entry. Iran travel docs required.",
+      "tips": [
+        "Read non-Muslim access on visitingmashhad.ir FAQ / Astan guidance before travel.",
+        "Burial chamber and certain mosque interiors are off-limits to non-Muslims — state this honestly.",
+        "Women: expect chador at gates; men: covered arms/legs.",
+        "Do not invent IRR or Isfahan combo tickets.",
+        "Contact international pilgrim desk for guided non-Muslim visits when required.",
+        "Prefer official desks over opaque package fares.",
+        "SanctaWay does not sell tickets or grant access."
+      ],
+      "entryType": "free",
+      "ticketsUrl": "https://www.visitingmashhad.ir/faq/",
+      "ticketsLabel": "Visiting Mashhad FAQ — non-Muslim shrine access (ziyarat generally free; verify Astan Quds; do not invent IRR)",
+      "ticketsNote": "Non-Muslim chamber ban; free ziyarat; museums separate; no Isfahan combo."
+    },
+    "etiquette": {
+      "intro": "Active Shia shrine — dress, rawza, photography.",
+      "bullets": [
+        "Women: chador / full cover; men: long sleeves and trousers.",
+        "Shoes off in carpeted prayer zones; quiet near rawza.",
+        "Non-Muslims: stay in permitted courtyards / museums only.",
+        "Threshold Atlas tone: living ziyarat mega — not Isfahan tourist-mosque clone."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach the Haram from Mashhad.",
+      "paragraphs": [
+        "Most international visitors fly into Mashhad (MHD) or arrive by rail/bus from Tehran, then metro or taxi to Haram gates. Bab al-Reza area often hosts international pilgrim services.",
+        "Non-Muslim guided visits should be coordinated with the Office of International / Non-Iranian Pilgrims — do not invent walk-in rawza access.",
+        "Isfahan mosques are a separate city trip — do not invent one Iran sacred pass."
+      ],
+      "bullets": [
+        "Mashhad → Haram metro / taxi",
+        "International pilgrim desk for non-Muslim guidance",
+        "Free ziyarat; museums as published",
+        "No Isfahan one-pass myth"
+      ]
+    },
+    "bestTime": {
+      "intro": "Avoid peak prayer and mourning-month crush if sightseeing.",
+      "paragraphs": [
+        "Outer courtyards are calmer outside congregational peaks and major mourning anniversaries. Summer and Nowruz also amplify pilgrim volume.",
+        "Foreign-office guided slots may have their own timing — confirm before travel."
+      ],
+      "bullets": [
+        "Best: off-peak courtyard windows",
+        "Mourning months reshape access",
+        "Verify non-Muslim guided hours",
+        "Do not invent IRR"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm non-Muslim limits on visitingmashhad / Astan Quds — do not invent IRR.",
+        "Burial chamber ban for non-Muslims is a standing soft blocker.",
+        "Iran travel documentation required for many passports.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "erdene-zuu",
+    "name": "Erdene Zuu Monastery (Эрдэнэ Зуу), Kharkhorin / Karakorum",
+    "shortName": "Erdene Zuu",
+    "location": "Kharkhorin, Övörkhangai — Orkhon Valley (historic Karakorum)",
+    "country": "Mongolia",
+    "region": "East Asia",
+    "regionSlug": "east-asia",
+    "religions": [
+      "Buddhist"
+    ],
+    "religionSlugs": [
+      "buddhist"
+    ],
+    "summary": "Mongolia’s earliest surviving monastery — Orkhon Valley UNESCO postcard (opens Mongolia). Museum/temple ticketed on erdenezuu-museum.mn; seasonal hours; photo permits separate. Long UB transfer. Do not invent MNT.",
+    "heroImage": "https://images.unsplash.com/photo-1528164344705-47542687000d?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "1585/1586 CE Abtai Sain Khan monastery on Karakorum ruins; revived as museum-monastery",
+      "patron": "Buddhist — Gelug / Mongolian monastic tradition with active temples inside museum grounds",
+      "unesco": "Within Orkhon Valley Cultural Landscape World Heritage",
+      "typicalVisit": "1.5–3 hours temples + museum halls; full Orkhon day-trip from Ulaanbaatar common"
+    },
+    "related": [
+      "potala",
+      "paro-taktsang",
+      "haeinsa"
+    ],
+    "overview": {
+      "body": [
+        "Erdene Zuu is Mongolia’s Karakorum monastery postcard — the walled stupa-ring monastery that opens the country on SanctaWay as Orkhon Valley Buddhist heritage, ahead of Gandan Ulaanbaatar densify.",
+        "Frame active temple vs museum honesty: grounds include working prayer temples and museum halls. Foreigner vs local ticket rates and photo/video permits are published on erdenezuu-museum.mn — do not invent MNT.",
+        "Seasonal hours matter: summer daily windows are longer; winter weekdays shorter with weekend/holiday closures common in museum notices. Verify before the long road transfer from Ulaanbaatar.",
+        "Ulaanbaatar gateway — ~6-hour-class road / domestic air + road to Kharkhorin. Pair Orkhon sites without inventing one sacred pass with Gandan.",
+        "Soft blockers: long transfer; seasonal closures; dust/heat/cold; photography fees. SanctaWay is informational — it does not sell tickets or grant access."
+      ],
+      "highlights": [
+        "Opens Mongolia — Karakorum / Orkhon monastery mega",
+        "erdenezuu-museum.mn official tickets / hours",
+        "Active temples inside historic museum grounds",
+        "Seasonal winter closures honesty",
+        "Do not invent MNT or Gandan one-pass myths"
+      ]
+    },
+    "visit": {
+      "intro": "erdenezuu-museum.mn — seasonal museum tickets; photo fees; no invent MNT.",
+      "hours": "Summer (commonly May–Sep) daily ~09:00–18:00; winter (Oct–Apr) weekdays shorter with weekend/holiday closures — verify erdenezuu-museum.mn ticket page. Ticket desk closes before last entry.",
+      "tickets": "Museum / temple products as published (local vs foreigner rates; children policies; photo and video permits separate). Do not invent MNT. Prefer official museum over random OTA. Gandan Ulaanbaatar = separate visit.",
+      "dress": "Active temples inside historic monastery-museum — modest dress; remove hats in temples; circumambulate respectfully; no climbing stupas / walls; photography fees as posted.",
+      "duration": "1.5–3 hours on site; full day with UB transfer.",
+      "access": "Long road from Ulaanbaatar / domestic flight + road to Kharkhorin. Tour/driver common. Dust, heat, and winter cold. Not one ticket with Gandan.",
+      "tips": [
+        "Confirm seasonal hours and fares on erdenezuu-museum.mn — do not invent MNT.",
+        "Budget photo/video permits separately when required.",
+        "Modest dress; no climbing walls or stupas.",
+        "Winter weekends may be closed — verify before the long drive.",
+        "Do not invent one pass covering Gandan Ulaanbaatar.",
+        "Prefer official museum tickets over opaque tour markups.",
+        "SanctaWay does not sell tickets or grant access."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://erdenezuu-museum.mn/ticket/",
+      "ticketsLabel": "Erdene Zuu Museum — official ticket & hours (verify MNT / photo permits; seasonal closures)",
+      "ticketsNote": "Foreigner rates + photo fees as published; winter closures; no Gandan combo; do not invent MNT."
+    },
+    "etiquette": {
+      "intro": "Active monastery-museum — temples, stupas, photography.",
+      "bullets": [
+        "Modest dress; hats off in temples.",
+        "Circumambulate respectfully; no climbing stupas/walls.",
+        "Pay posted photo/video permits.",
+        "Threshold Atlas tone: living Mongolian monastery inside UNESCO landscape."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Erdene Zuu from Ulaanbaatar.",
+      "paragraphs": [
+        "Most visitors take a long road day-trip or overnight from Ulaanbaatar to Kharkhorin (~6 h class by road), or combine domestic air with road transfer. Shared tours and private drivers are common.",
+        "Buy museum tickets at the official desk / per erdenezuu-museum.mn — do not invent MNT from tour brochures alone.",
+        "Gandan Monastery in Ulaanbaatar is a separate city visit — do not invent one Mongolia sacred pass."
+      ],
+      "bullets": [
+        "UB → Kharkhorin long road / air+road",
+        "erdenezuu-museum.mn tickets",
+        "Seasonal hour verification required",
+        "No Gandan one-pass myth"
+      ]
+    },
+    "bestTime": {
+      "intro": "Summer longer hours; winter verify closures before transfer.",
+      "paragraphs": [
+        "May–September usually offers full daily hours and better Orkhon weather. Winter visits need weekday confirmation and cold-weather kit.",
+        "Morning light on the stupa walls is often best before tour buses peak."
+      ],
+      "bullets": [
+        "Best: summer morning on-site light",
+        "Winter: weekday-only patterns common",
+        "Verify before long UB transfer",
+        "Do not invent MNT"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm tickets/hours on erdenezuu-museum.mn — do not invent MNT.",
+        "Long UB transfer and seasonal closures are standing soft blockers.",
+        "Gandan densify stays B24+.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "faisal-mosque",
+    "name": "Faisal Mosque / فیصل مسجد, Islamabad",
+    "shortName": "Faisal Mosque",
+    "location": "Shah Faisal Avenue foothills, E-8, Islamabad (Margalla Hills base)",
+    "country": "Pakistan",
+    "region": "South Asia",
+    "regionSlug": "south-asia",
+    "religions": [
+      "Islamic"
+    ],
+    "religionSlugs": [
+      "islamic"
+    ],
+    "summary": "Islamabad capital hillside modern mosque postcard — tourist-open outside prayer (≠ Lahore Badshahi). Free grounds; prayer-hall visitor limits honesty. nationaltourism.pk — do not invent PKR.",
+    "heroImage": "https://images.unsplash.com/photo-1567596142471-9c73c5e2a1d5?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Completed 1986 — King Faisal of Saudi Arabia patronage; Vedat Dalokay modern tent-form design",
+      "patron": "Islamic — national congregational mosque of the capital",
+      "unesco": "Not a standalone World Heritage listing (capital landmark mosque)",
+      "typicalVisit": "1–2 hours grounds / courtyard; hall access limited around prayer — especially Friday Jumu’ah"
+    },
+    "related": [
+      "badshahi-mosque",
+      "sheikh-zayed-grand-mosque",
+      "hassan-ii-mosque"
+    ],
+    "overview": {
+      "body": [
+        "Faisal Mosque is Islamabad’s capital hillside mega — the Margalla-foothills modern mosque that earns keep as Pakistan #2 geography distinct from live Lahore Badshahi’s Mughal courtyard, not a Lahore clone densify.",
+        "Frame courtyard vs hall honesty: grounds are generally tourist-open and free outside congregational peaks; non-Muslims typically remain in courtyard/grounds with prayer-hall limits as posted — especially Friday Jumu’ah. Do not invent PKR.",
+        "Official tourism notice: nationaltourism.pk Faisal Mosque page (free entry; visitor windows commonly daytime; closed to casual visitors during prayer). Mosque administration notices override blogs.",
+        "Islamabad / Rawalpindi gateway — road / ride-hail to Shah Faisal Avenue E-8. Pair Badshahi / Taxila without inventing one Pakistan sacred pass.",
+        "Soft blockers: prayer-time hall limits; Friday peaks; security; modest dress + women headscarf. SanctaWay is informational — it does not sell tickets or grant access."
+      ],
+      "highlights": [
+        "Islamabad capital mega — ≠ Lahore Badshahi",
+        "Free grounds visit — do not invent PKR",
+        "Prayer-hall visitor limits honesty",
+        "nationaltourism.pk tourism guidance",
+        "Do not invent Taxila / Badshahi one-pass myths"
+      ]
+    },
+    "visit": {
+      "intro": "nationaltourism.pk — free grounds; hall limits; no invent PKR.",
+      "hours": "Grounds commonly tourist-open daytime outside prayer — tourism notices often cite ~09:00–17:00 class visitor windows; verify mosque administration / nationaltourism.pk. Avoid Friday Jumu’ah if you need non-worship access.",
+      "tickets": "Generally free grounds visit. Do not invent PKR. Prefer mosque / capital tourism guidance over scalper “Islamabad VIP.” Badshahi Lahore and Taxila = separate visits.",
+      "dress": "Active major mosque — covered arms/legs; women headscarf; shoes off in prayer areas; quiet during prayer; follow posted photography and hall limits for non-Muslims.",
+      "duration": "1–2 hours grounds / exterior circuit.",
+      "access": "Islamabad road / Careem / Uber to E-8 Shah Faisal Avenue. Security screening common. Hall limits around prayer. Not Lahore — no combo with Badshahi or Taxila.",
+      "tips": [
+        "Confirm visitor windows on nationaltourism.pk / mosque notices — free; do not invent PKR.",
+        "Expect courtyard/grounds access; hall limits for non-worship visitors.",
+        "Avoid Friday Jumu’ah peaks for casual visits.",
+        "Covered dress + headscarf for women; shoes off in prayer areas.",
+        "Do not invent one pass covering Badshahi Lahore or Taxila.",
+        "Prefer official tourism / mosque guidance over street VIP sellers.",
+        "SanctaWay does not sell tickets or grant access."
+      ],
+      "entryType": "free",
+      "ticketsUrl": "https://nationaltourism.pk/islamabad/faisal-mosque",
+      "ticketsLabel": "National Tourism Pakistan — Faisal Mosque (free entry; verify prayer closures; do not invent PKR)",
+      "ticketsNote": "Free grounds; prayer-hall limits; ≠ Badshahi Lahore; no Taxila combo."
+    },
+    "etiquette": {
+      "intro": "Active capital mosque — dress, prayer, hall limits.",
+      "bullets": [
+        "Covered arms/legs; women headscarf.",
+        "Shoes off in prayer areas; quiet during prayer.",
+        "Non-Muslims: follow courtyard vs hall limits as posted.",
+        "Threshold Atlas tone: Islamabad modern mega — not Lahore Badshahi #2."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Faisal Mosque from Islamabad.",
+      "paragraphs": [
+        "Most visitors ride-hail or taxi to Shah Faisal Avenue at the Margalla foothills in E-8. Airport transfers are ~30–40 km class depending on traffic.",
+        "Entry is free; arrive outside prayer if you need courtyard photography time. Friday peaks reshape access.",
+        "Badshahi Mosque is in Lahore and Taxila is a separate archaeology day — do not invent one Pakistan sacred pass."
+      ],
+      "bullets": [
+        "Islamabad → E-8 Shah Faisal Avenue",
+        "Free grounds; verify prayer closures",
+        "≠ Lahore Badshahi geography",
+        "No Taxila one-pass myth"
+      ]
+    },
+    "bestTime": {
+      "intro": "Late morning or late afternoon light; avoid Friday peaks.",
+      "paragraphs": [
+        "Late morning and late afternoon usually give better hillside light and thinner non-worship queues. Friday Jumu’ah is for congregational worship, not sightseeing.",
+        "Summer heat on the plaza matters — carry water and plan shade breaks."
+      ],
+      "bullets": [
+        "Best: late morning / late afternoon",
+        "Friday prayer peaks reshape hall access",
+        "Verify visitor windows before travel",
+        "Do not invent PKR / combo myths"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm free-entry windows on nationaltourism.pk — do not invent PKR.",
+        "Prayer-hall visitor limits are a standing soft blocker.",
+        "Distinct from live badshahi-mosque (Lahore).",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "anuradhapura",
+    "name": "Sacred City of Anuradhapura (අනුරාධපුර), North Central Province",
+    "shortName": "Anuradhapura",
+    "location": "Anuradhapura sacred city / Archaeological site, North Central Province, Sri Lanka",
+    "country": "Sri Lanka",
+    "region": "South Asia",
+    "regionSlug": "south-asia",
+    "religions": [
+      "Buddhist"
+    ],
+    "religionSlugs": [
+      "buddhist"
+    ],
+    "summary": "Ancient Buddhist capital — Sri Maha Bodhi / Ruwanwelisaya / dagoba circuit (≠ Kandy Tooth). CCF sacred-city ticket vs Bodhi Tree separate fee honesty. Verify ccf.gov.lk (site intermittent) — do not invent USD/LKR.",
+    "heroImage": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Ancient Anuradhapura kingdom capital from 4th century BCE; continuous Buddhist sacred city",
+      "patron": "Buddhist — Sri Maha Bodhi, Ruwanwelisaya, Abhayagiri and dagoba pilgrimage circuit",
+      "unesco": "World Heritage — Sacred City of Anuradhapura",
+      "typicalVisit": "Half to full day bike/tuk-tuk circuit; CCF ticket + separate Bodhi practices"
+    },
+    "related": [
+      "temple-of-the-tooth",
+      "mahabodhi",
+      "bagan"
+    ],
+    "overview": {
+      "body": [
+        "Anuradhapura is Sri Lanka’s ancient Buddhist capital mega — Sri Maha Bodhi, Ruwanwelisaya, and the dagoba circuit that earns keep as Cultural Triangle pilgrimage distinct from live Kandy Temple of the Tooth.",
+        "Frame CCF vs Bodhi honesty: the Central Cultural Fund sacred-city archaeological ticket does not automatically equal Sri Maha Bodhi shrine access — Bodhi compound often has separate donation/fee patterns as published. Do not invent USD/LKR or one pass covering Kandy Tooth / Polonnaruwa.",
+        "Official channel: ccf.gov.lk e-ticketing / site notices (portal can be intermittent — verify on arrival counters if the site is down). Prefer CCF official over opaque circuit packages.",
+        "Colombo / Sigiriya / Polonnaruwa circuit gateway — road / rail to Anuradhapura; bike and tuk-tuk inside the sacred city common. Heat and large site distances are standing soft blockers.",
+        "Soft blockers: CCF vs Bodhi separate fees; heat / shoe-off hot stone; Poson full-moon crush. SanctaWay is informational — it does not sell tickets or grant access."
+      ],
+      "highlights": [
+        "Ancient capital Buddhist mega — ≠ Kandy Tooth",
+        "CCF sacred-city ticket vs Sri Maha Bodhi separate",
+        "UNESCO dagoba / Bodhi pilgrimage circuit",
+        "Verify ccf.gov.lk (intermittent) — no invent USD/LKR",
+        "Do not invent Polonnaruwa / Tooth one-pass myths"
+      ]
+    },
+    "visit": {
+      "intro": "CCF sacred city vs Bodhi separate; verify ccf.gov.lk; no invent USD/LKR.",
+      "hours": "Archaeological / shrine daytime windows common — verify CCF counters and site notices. Dawn and dusk dagoba light; Poson full-moon pilgrimage peaks reshape crowds. Sri Maha Bodhi compound often longer devotion hours than ticketed ruin zones.",
+      "tickets": "CCF sacred-city ticket for the archaeological circuit as published; Sri Maha Bodhi typically separate donation/fee — do not invent USD/LKR. ccf.gov.lk e-ticketing can be intermittent (NO stable live CTA at write time) — verify on official counters / restored portal. Prefer CCF over opaque packages. Kandy Tooth / Polonnaruwa = separate visits.",
+      "dress": "Active Buddhist sacred city — covered shoulders/knees; shoes off at shrine platforms; white clothing common for devotees (not mandatory for tourists); quiet at Sri Maha Bodhi; no climbing dagobas.",
+      "duration": "Half to full day for main dagoba / Bodhi circuit.",
+      "access": "Road / rail to Anuradhapura; bike or tuk-tuk between sites. Heat, distance, and shoe-off hot stone. Not one ticket with Temple of the Tooth or Polonnaruwa.",
+      "tips": [
+        "Buy/verify CCF sacred-city ticket at official channels — do not invent USD/LKR.",
+        "Budget Sri Maha Bodhi as a separate fee/donation pattern.",
+        "Start early to beat heat; carry water; use bike/tuk-tuk between dagobas.",
+        "Shoes off at shrine platforms; no climbing stupas.",
+        "Do not invent one pass covering Kandy Tooth or Polonnaruwa.",
+        "If ccf.gov.lk is down, use on-site CCF counters — avoid opaque OTA markups.",
+        "SanctaWay does not sell tickets or grant access."
+      ],
+      "entryType": "paid",
+      "ticketsLabel": "CCF / ccf.gov.lk — Sacred City Anuradhapura (verify ticket; Bodhi separate; portal intermittent; do not invent USD/LKR)",
+      "ticketsNote": "NO stable live e-ticket CTA at write (ccf.gov.lk 500); verify counters; Bodhi ≠ CCF automatic; no Tooth/Polonnaruwa combo."
+    },
+    "etiquette": {
+      "intro": "Active Buddhist sacred city — Bodhi, dagobas, dress.",
+      "bullets": [
+        "Covered shoulders/knees; shoes off at shrine platforms.",
+        "Quiet at Sri Maha Bodhi; no climbing dagobas.",
+        "Respect Poson and poya pilgrimage peaks.",
+        "Threshold Atlas tone: living Bodhi / dagoba pilgrimage — not ruins-only."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Anuradhapura from Sri Lanka gateways.",
+      "paragraphs": [
+        "Most visitors arrive by road or rail from Colombo, or as part of a Cultural Triangle circuit with Sigiriya / Polonnaruwa. Bikes and tuk-tuks cover the large sacred-city distances.",
+        "Purchase CCF tickets through official counters or restored ccf.gov.lk channels — do not invent USD/LKR. Treat Sri Maha Bodhi as a separate access pattern.",
+        "Temple of the Tooth (Kandy) and Polonnaruwa are separate tickets and towns — do not invent one Sri Lanka sacred pass."
+      ],
+      "bullets": [
+        "Colombo / Triangle → Anuradhapura road/rail",
+        "Bike / tuk-tuk inside sacred city",
+        "CCF ticket ≠ automatic Bodhi entry",
+        "No Tooth / Polonnaruwa one-pass myth"
+      ]
+    },
+    "bestTime": {
+      "intro": "Dawn / dusk dagoba light; avoid midday heat; Poson peaks.",
+      "paragraphs": [
+        "Early morning and late afternoon give better light and cooler riding between sites. Midday heat on bare stone is punishing after shoe-off.",
+        "Poson full-moon pilgrimage is devotion-first — expect crush and reshaped access."
+      ],
+      "bullets": [
+        "Best: dawn / dusk dagoba light",
+        "Midday heat + shoe-off stone",
+        "Poson full-moon crush",
+        "Do not invent USD/LKR / combo myths"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm CCF products on counters / ccf.gov.lk when live — do not invent USD/LKR.",
+        "Sri Maha Bodhi separate fee/donation is a standing soft blocker.",
+        "Distinct from live temple-of-the-tooth (Kandy).",
         "SanctaWay is informational; it does not sell tickets or grant access.",
         "Hero image is an Unsplash placeholder pending visual / Commons pass."
       ]

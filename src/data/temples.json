@@ -143,7 +143,7 @@
     "related": [
       "prambanan",
       "angkor-wat",
-      "bayon"
+      "tanah-lot"
     ],
     "overview": {
       "body": [
@@ -486,7 +486,7 @@
     "related": [
       "wat-pho",
       "wat-phra-kaew",
-      "sukhothai"
+      "thien-mu"
     ],
     "overview": {
       "body": [
@@ -1175,7 +1175,7 @@
     "related": [
       "blue-mosque",
       "hassan-ii-mosque",
-      "selimiye-mosque"
+      "goreme-open-air"
     ],
     "overview": {
       "body": [
@@ -1290,7 +1290,7 @@
     "related": [
       "church-of-the-nativity",
       "western-wall",
-      "dome-of-the-rock"
+      "mount-nebo"
     ],
     "overview": {
       "body": [
@@ -3230,7 +3230,7 @@
     "related": [
       "stonehenge",
       "santiago-de-compostela",
-      "meteora"
+      "goreme-open-air"
     ],
     "overview": {
       "body": [
@@ -3575,7 +3575,7 @@
     "related": [
       "teotihuacan",
       "machu-picchu",
-      "templo-mayor"
+      "uxmal"
     ],
     "overview": {
       "body": [
@@ -4613,7 +4613,7 @@
     "related": [
       "borobudur",
       "angkor-wat",
-      "my-son"
+      "tanah-lot"
     ],
     "overview": {
       "body": [
@@ -4958,7 +4958,7 @@
     "related": [
       "holy-sepulchre",
       "western-wall",
-      "st-catherines-sinai"
+      "mount-nebo"
     ],
     "overview": {
       "body": [
@@ -5418,7 +5418,7 @@
     "related": [
       "machu-picchu",
       "karnak",
-      "abu-simbel"
+      "mount-nebo"
     ],
     "overview": {
       "body": [
@@ -5761,7 +5761,7 @@
     "related": [
       "petra",
       "abu-simbel",
-      "luxor-temple"
+      "hatshepsut-temple"
     ],
     "overview": {
       "body": [
@@ -5875,7 +5875,7 @@
     "related": [
       "stonehenge",
       "petra",
-      "delphi"
+      "olympia"
     ],
     "overview": {
       "body": [
@@ -6217,7 +6217,7 @@
     "related": [
       "chichen-itza",
       "machu-picchu",
-      "templo-mayor"
+      "monte-alban"
     ],
     "overview": {
       "body": [
@@ -6331,7 +6331,7 @@
     "related": [
       "karnak",
       "petra",
-      "luxor-temple"
+      "hatshepsut-temple"
     ],
     "overview": {
       "body": [
@@ -6559,7 +6559,7 @@
     "related": [
       "acropolis-parthenon",
       "mont-saint-michel",
-      "paro-taktsang"
+      "olympia"
     ],
     "overview": {
       "body": [
@@ -6673,7 +6673,7 @@
     "related": [
       "church-of-the-nativity",
       "lalibela",
-      "axum"
+      "goreme-open-air"
     ],
     "overview": {
       "body": [
@@ -6787,7 +6787,7 @@
     "related": [
       "chichen-itza",
       "teotihuacan",
-      "copan"
+      "uxmal"
     ],
     "overview": {
       "body": [
@@ -7472,7 +7472,7 @@
     "related": [
       "acropolis-parthenon",
       "meteora",
-      "pantheon-rome"
+      "olympia"
     ],
     "overview": {
       "body": [
@@ -8154,7 +8154,7 @@
     "related": [
       "tikal",
       "chichen-itza",
-      "templo-mayor"
+      "monte-alban"
     ],
     "overview": {
       "body": [
@@ -8946,7 +8946,7 @@
     "related": [
       "prambanan",
       "borobudur",
-      "my-son"
+      "tanah-lot"
     ],
     "overview": {
       "body": [
@@ -10526,7 +10526,7 @@
     "related": [
       "palenque",
       "tikal",
-      "chichen-itza"
+      "uxmal"
     ],
     "overview": {
       "body": [
@@ -13103,7 +13103,7 @@
     "related": [
       "prambanan",
       "angkor-wat",
-      "vat-phou"
+      "thien-mu"
     ],
     "overview": {
       "body": [
@@ -16025,7 +16025,7 @@
     "related": [
       "wat-phra-kaew",
       "shwedagon",
-      "vat-phou"
+      "thien-mu"
     ],
     "overview": {
       "body": [
@@ -17044,7 +17044,7 @@
     "related": [
       "teotihuacan",
       "chichen-itza",
-      "palenque"
+      "monte-alban"
     ],
     "overview": {
       "body": [
@@ -17157,7 +17157,7 @@
     "related": [
       "karnak",
       "abu-simbel",
-      "philae"
+      "hatshepsut-temple"
     ],
     "overview": {
       "body": [
@@ -17238,6 +17238,910 @@
         "Confirm Luxor Temple MOTA tiers on egymonuments.com — do not invent EGP.",
         "Karnak is separate (~3 km north); do not merge as one site.",
         "Evening illumination ≠ free after-hours entry.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "uxmal",
+    "name": "Uxmal (Óoxmáal), Yucatán",
+    "shortName": "Uxmal",
+    "location": "Puuc hills, ~80 km south of Mérida, Yucatán",
+    "country": "Mexico",
+    "region": "Americas",
+    "regionSlug": "americas",
+    "religions": [
+      "Maya"
+    ],
+    "religionSlugs": [
+      "maya"
+    ],
+    "summary": "UNESCO Puuc Maya capital — Pyramid of the Magician, Nunnery Quadrangle, and Governor’s Palace mosaic geometry. Yucatán circuit mega distinct from live Chichén Itzá. INAH archaeological zone — boleto online/on-site; do not invent MXN. Heat + no-climb rules; sound-and-light ≠ zone ticket.",
+    "heroImage": "https://images.unsplash.com/photo-1518638150340-f706e86654de?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Late Classic Puuc Maya capital (c. 7th–10th centuries CE fabric; later occupation layers)",
+      "patron": "Maya — Puuc ceremonial city (Chaac / rain-god iconography; archaeological sacred city)",
+      "unesco": "UNESCO World Heritage — Pre-Hispanic Town of Uxmal",
+      "typicalVisit": "2–3 hours core monuments; Kabah / Sayil often a separate Puuc-route stop"
+    },
+    "related": [
+      "chichen-itza",
+      "palenque",
+      "tikal"
+    ],
+    "overview": {
+      "body": [
+        "Uxmal is the Puuc Maya capital mega of Yucatán — Pyramid of the Magician, Nunnery Quadrangle, and Governor’s Palace — still a distinct visit from live Chichén Itzá on the north plain, not a second Chichén selfie merge.",
+        "Frame the visit as Puuc mosaic geometry + rain-god (Chaac) iconography honesty. Modest practical dress; do not climb restricted structures (Magician climb rules as posted); no drone without permit.",
+        "Official tickets: INAH boleto — online ventadeboletosenlinea.inah.gob.mx and on-site. Mexican vs foreign tiers; Sunday free for Mexican citizens when published — do not invent MXN. Prefer INAH over random OTA “Uxmal VIP.”",
+        "INAH zone commonly morning–late afternoon; closed major Mexican holidays when posted — verify inah.gob.mx / site desk. Morning light on the Magician before coach peak is usually the calmest class.",
+        "Soft blockers: heat on open plazas; sound-and-light product ≠ zone ticket; do not invent combo with Chichén / Tulum / Palenque; earn Puuc capital difference vs Chichén. SanctaWay is informational — it does not sell tickets or grant access."
+      ],
+      "highlights": [
+        "UNESCO Puuc Maya capital — Magician / Nunnery / Governor’s Palace",
+        "INAH boleto online + on-site — do not invent MXN",
+        "Distinct from live Chichén Itzá — not one Yucatán ticket",
+        "Morning light before coach peak",
+        "Sound-and-light ≠ zone admission"
+      ]
+    },
+    "visit": {
+      "intro": "INAH Puuc zone — boleto honesty; no invent MXN; not a Chichén combo.",
+      "hours": "INAH zone commonly morning–late afternoon; closed major Mexican holidays when posted — verify inah.gob.mx / site desk. Morning Magician light before coach peak.",
+      "tickets": "INAH boleto — ventadeboletosenlinea.inah.gob.mx and on-site. Mexican vs foreign tiers; Sunday-free for Mexican citizens when published — do not invent MXN. Prefer INAH over OTA “Uxmal VIP.” Sound-and-light is a separate product when sold.",
+      "dress": "Archaeological sacred Maya city — modest practical dress; no climbing restricted structures; no drone without permit.",
+      "duration": "2–3 hours core monuments; Kabah / Sayil are separate Puuc-route stops.",
+      "access": "Mérida gateway (~80 km south) or Yucatán Puuc route coach / rental car. Often paired with Kabah / Sayil day — not a Chichén Itzá same-ticket myth.",
+      "tips": [
+        "Buy INAH boleto online or on-site — do not invent MXN.",
+        "Do not invent combo with Chichén / Tulum / Palenque.",
+        "Morning Magician light beats midday heat and coach crush.",
+        "No climbing where posted; Magician rules change — follow ropes.",
+        "Sound-and-light products are not zone admission.",
+        "Heat on open plazas is a soft blocker — water + shade.",
+        "Prefer INAH over random OTA “Uxmal VIP.”"
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://ventadeboletosenlinea.inah.gob.mx/",
+      "ticketsLabel": "INAH e-tickets — Uxmal zone (ventadeboletosenlinea.inah.gob.mx)",
+      "ticketsNote": "INAH boleto; Mexican/foreign tiers; Sunday-free when published; do not invent MXN."
+    },
+    "etiquette": {
+      "intro": "Archaeological Puuc capital — stay off restricted climbs.",
+      "bullets": [
+        "No climbing restricted structures; Magician climb rules as posted.",
+        "Modest practical dress; no drone without permit.",
+        "Keep Chichén Itzá as a separate ticketed visit.",
+        "Threshold Atlas tone: Puuc mosaic + Chaac iconography — not second Chichén selfie only."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Uxmal from Mérida / the Puuc route.",
+      "paragraphs": [
+        "Mérida is the usual gateway (~80 km south). Reach Uxmal by rental car, coach, or organized Puuc-route day. The site sits in the Puuc hills — not on the Chichén north-plain circuit.",
+        "Buy the INAH zone boleto on ventadeboletosenlinea.inah.gob.mx or at the desk. Mexican vs foreign tiers and Sunday-free rules for Mexican citizens are published — do not invent MXN from old blogs.",
+        "Kabah, Sayil, and other Puuc stops are separate tickets/stops when open. Do not invent a single Yucatán sacred pass covering Chichén, Tulum, and Uxmal."
+      ],
+      "bullets": [
+        "Mérida gateway ~80 km south",
+        "Puuc route coach / rental — not Chichén same-ticket",
+        "INAH boleto online or on-site",
+        "Kabah / Sayil = separate stops"
+      ]
+    },
+    "bestTime": {
+      "intro": "Morning Magician light before heat and coach peak.",
+      "paragraphs": [
+        "Morning usually beats midday heat on open plazas and the coach crush around the Magician. Late afternoon can work if heat is manageable — verify last-entry vs close.",
+        "Major Mexican holidays may close the zone when posted — check inah.gob.mx / site desk rather than inventing MXN windows."
+      ],
+      "bullets": [
+        "Best: morning Magician light",
+        "Midday heat soft blocker",
+        "Verify holiday closures on INAH notices",
+        "Do not invent MXN / combo myths"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm INAH boleto tiers on ventadeboletosenlinea.inah.gob.mx — do not invent MXN.",
+        "Chichén Itzá is separate — do not merge as one Yucatán ticket.",
+        "Sound-and-light ≠ zone admission.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "monte-alban",
+    "name": "Monte Albán, Oaxaca",
+    "shortName": "Monte Albán",
+    "location": "Ridge above Oaxaca de Juárez (~10 km / 20–30 min)",
+    "country": "Mexico",
+    "region": "Americas",
+    "regionSlug": "americas",
+    "religions": [
+      "Mesoamerican"
+    ],
+    "religionSlugs": [
+      "mesoamerican"
+    ],
+    "summary": "UNESCO Zapotec ceremonial capital on the ridge above Oaxaca — Grand Plaza, Danzantes, tombs, and on-site museum. Distinct from Aztec Templo Mayor and Teotihuacan. INAH zone commonly Tue–Sun (Monday close class) — boleto online/on-site; do not invent MXN.",
+    "heroImage": "https://images.unsplash.com/photo-1568402102990-bc541580b59f?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Zapotec ceremonial capital from c. 500 BCE with later Mixtec layers; long ridge occupation",
+      "patron": "Mesoamerican — Zapotec / later Mixtec ceremonial capital (archaeological sacred city)",
+      "unesco": "UNESCO World Heritage — Historic Centre of Oaxaca and Archaeological Site of Monte Albán",
+      "typicalVisit": "2–3 hours plazas + museum; Centro Histórico / Santo Domingo exterior is a separate city block"
+    },
+    "related": [
+      "teotihuacan",
+      "templo-mayor",
+      "palenque"
+    ],
+    "overview": {
+      "body": [
+        "Monte Albán is the Zapotec ceremonial capital mega on the ridge above Oaxaca — Grand Plaza, Danzantes, tombs, and on-site museum — still distinct from live Aztec Templo Mayor and Teotihuacan, not an “Oaxaca viewpoint only” merge.",
+        "Frame the visit as ridge capital + Danzantes / tomb offerings honesty. Modest practical dress; stay off conserved platforms where roped; quiet at tomb exhibits.",
+        "Official tickets: INAH boleto online + on-site — ventadeboletosenlinea.inah.gob.mx. Mexican vs foreign tiers; Sunday-free rules when published — do not invent MXN. Museum may share or follow zone rules as posted.",
+        "INAH zone + museum commonly Tue–Sun with Monday close class — verify inah.gob.mx / Monte Albán pages. Early morning ridge light + cooler air usually beats midday sun on exposed plazas.",
+        "Soft blockers: Monday close class; altitude / sun on exposed plazas; do not invent “one Oaxaca sacred pass”; earn Zapotec ridge capital vs Templo Mayor (Mexica) + Teotihuacan. SanctaWay is informational — it does not sell tickets or grant access."
+      ],
+      "highlights": [
+        "UNESCO Zapotec ridge capital above Oaxaca",
+        "INAH boleto — do not invent MXN",
+        "Common Monday close class — verify INAH",
+        "Distinct from Templo Mayor / Teotihuacan",
+        "Museum + plazas — quiet at tomb exhibits"
+      ]
+    },
+    "visit": {
+      "intro": "INAH ridge zone — Monday close class; no invent MXN.",
+      "hours": "INAH zone + museum commonly Tue–Sun with Monday close class — verify inah.gob.mx / Monte Albán pages. Early morning ridge light + cooler.",
+      "tickets": "INAH boleto — ventadeboletosenlinea.inah.gob.mx and on-site. Mexican vs foreign tiers; Sunday-free when published — do not invent MXN. Museum may share or follow zone rules as posted.",
+      "dress": "Zapotec / Mixtec ceremonial capital — modest practical dress; stay off conserved platforms where roped; quiet at tomb exhibits.",
+      "duration": "2–3 hours plazas + museum; Oaxaca Centro / Santo Domingo exterior is a separate city block.",
+      "access": "Oaxaca city → ridge site (~10 km / 20–30 min taxi or local bus class). Pair Centro Histórico without cloning a cathedral page or inventing one sacred pass.",
+      "tips": [
+        "Check Monday close class before you go — verify INAH.",
+        "Buy INAH boleto online or on-site — do not invent MXN.",
+        "Early morning beats sun on exposed plazas.",
+        "Stay off conserved platforms where roped.",
+        "Do not invent one Oaxaca sacred pass with Centro churches.",
+        "Earn keep vs Templo Mayor / Teotihuacan — this is Zapotec ridge capital.",
+        "Altitude + sun soft blocker — water and hat."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://ventadeboletosenlinea.inah.gob.mx/",
+      "ticketsLabel": "INAH e-tickets — Monte Albán zone (ventadeboletosenlinea.inah.gob.mx)",
+      "ticketsNote": "INAH boleto; Monday close class; Mexican/foreign tiers; do not invent MXN."
+    },
+    "etiquette": {
+      "intro": "Ridge ceremonial capital — stay off conserved platforms.",
+      "bullets": [
+        "Stay off conserved platforms where roped; quiet at tomb exhibits.",
+        "Modest practical dress for sun and sacred framing.",
+        "Keep Templo Mayor / Teotihuacan as separate visits.",
+        "Threshold Atlas tone: Zapotec ridge capital + Danzantes honesty — not viewpoint café only."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Monte Albán from Oaxaca city.",
+      "paragraphs": [
+        "From Oaxaca de Juárez the ridge site is about 10 km / 20–30 minutes by taxi or local bus class. The Grand Plaza sits high above the valley — plan sun and water.",
+        "Buy the INAH zone boleto on ventadeboletosenlinea.inah.gob.mx or at the desk. Mexican vs foreign tiers and Sunday-free rules when published — do not invent MXN.",
+        "Pair Centro Histórico / Santo Domingo exterior as a separate city walk. Do not invent one Oaxaca sacred pass covering churches and the archaeological zone."
+      ],
+      "bullets": [
+        "Oaxaca city → ridge ~10 km / 20–30 min",
+        "Taxi or local bus class",
+        "INAH boleto online or on-site",
+        "Centro Histórico = separate city block"
+      ]
+    },
+    "bestTime": {
+      "intro": "Early morning ridge light; verify Monday close class.",
+      "paragraphs": [
+        "Early morning usually gives cooler ridge light before sun hardens on exposed plazas. Confirm the common Monday close class on INAH / Monte Albán pages.",
+        "Sunday-free rules for Mexican citizens apply when published — verify rather than inventing MXN windows."
+      ],
+      "bullets": [
+        "Best: early morning ridge light",
+        "Monday close class soft blocker",
+        "Sun / altitude on plazas",
+        "Do not invent MXN"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm INAH boleto + Monday close on inah.gob.mx / desk — do not invent MXN.",
+        "Templo Mayor and Teotihuacan are separate visits — do not merge.",
+        "Museum may share or follow zone rules as posted.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "olympia",
+    "name": "Sanctuary of Olympia (Αρχαία Ολυμπία), Peloponnese",
+    "shortName": "Olympia",
+    "location": "Ancient Olympia, Elis, western Peloponnese",
+    "country": "Greece",
+    "region": "Europe",
+    "regionSlug": "europe",
+    "religions": [
+      "Ancient Greek"
+    ],
+    "religionSlugs": [
+      "ancient-greek"
+    ],
+    "summary": "Panhellenic sanctuary of Zeus and origin site of the Olympic Games — stadium, temple ruins, and adjacent Archaeological Museum. Sole Europe Batch18 slot (not a Gothic clone). Greek MoC / ODAP e-tickets — site + museum often separate or combined products; do not invent EUR. Cruise Katakolo day-trips crush midday.",
+    "heroImage": "https://images.unsplash.com/photo-1555993539-1732b0258235?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Panhellenic sanctuary fabric from Archaic through Roman periods; Olympic Games traditionally from 776 BCE",
+      "patron": "Ancient Greek — Zeus sanctuary / Olympic truce and Games origin (archaeological)",
+      "unesco": "UNESCO World Heritage — Archaeological Site of Olympia",
+      "typicalVisit": "2–3 hours site + museum; site and museum often separate or combined ticket products"
+    },
+    "related": [
+      "acropolis-parthenon",
+      "delphi",
+      "meteora"
+    ],
+    "overview": {
+      "body": [
+        "Olympia is the Panhellenic sanctuary of Zeus and the origin landscape of the Olympic Games — stadium, temple ruins, Philippeion class monuments, and the adjacent Archaeological Museum — still distinct from live Acropolis and Delphi, and not a Gothic cathedral clone.",
+        "Frame the visit as Zeus sanctuary + Olympic truce / Games origin honesty. Modest practical dress; no climbing temple stylobates or entering roped cellas; follow museum photo rules.",
+        "Official tickets: Hellenic MoC e-tickets — odysseus.culture.gr / ticket.tap.gr class portals. Combined site+museum products are common — verify official culture/ticket portals — do not invent EUR. Prefer state portals over scalpers.",
+        "Greek MoC seasonal hours (summer longer / winter shorter) — verify odysseus.culture.gr. Morning before tour buses from Katakolo cruises is usually the calmest class.",
+        "Soft blockers: Peloponnese transfer time; cruise-day crush; do not invent combo with Delphi / Acropolis as one ticket; Europe denseness — page earns ancient-greek Panhellenic difference. SanctaWay is informational — it does not sell tickets or grant access."
+      ],
+      "highlights": [
+        "Panhellenic Zeus sanctuary + Olympic Games origin",
+        "MoC / ODAP e-tickets — do not invent EUR",
+        "Site + museum often separate or combined products",
+        "Morning before Katakolo cruise crush",
+        "Not a Gothic clone — sole Europe Batch18 slot"
+      ]
+    },
+    "visit": {
+      "intro": "Greek MoC sanctuary — site+museum products; no invent EUR.",
+      "hours": "MoC seasonal hours (summer longer / winter shorter) — verify odysseus.culture.gr / ticket.tap.gr class portals. Morning before cruise buses.",
+      "tickets": "Hellenic MoC e-tickets — odysseus.culture.gr / ticket.tap.gr class. Combined site+museum products common — verify official portals — do not invent EUR. Prefer state portals over scalpers. Do not invent combo with Delphi / Acropolis.",
+      "dress": "Archaeological Panhellenic sanctuary — modest practical dress; no climbing stylobates / entering roped cellas; museum photo rules as posted.",
+      "duration": "2–3 hours site + museum; plan transfer time from Athens or Katakolo.",
+      "access": "Athens → Olympia coach / train+bus / rental (~3.5–4.5 h class) or cruise Katakolo day-trip; site + Archaeological Museum adjacent.",
+      "tips": [
+        "Buy MoC / ODAP e-tickets — do not invent EUR.",
+        "Confirm whether your product covers site, museum, or both.",
+        "Morning beats Katakolo cruise crush.",
+        "No climbing stylobates or roped cellas.",
+        "Do not invent combo with Delphi / Acropolis.",
+        "Peloponnese transfer time is a soft blocker — plan the day.",
+        "Prefer state portals over scalper “Olympia skip-the-line.”"
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://odysseus.culture.gr/",
+      "ticketsLabel": "Hellenic MoC / ODAP — Olympia site & museum (odysseus.culture.gr; verify ticket.tap.gr)",
+      "ticketsNote": "MoC e-tickets; site+museum products vary; do not invent EUR."
+    },
+    "etiquette": {
+      "intro": "Panhellenic archaeological sanctuary — no climbing stylobates.",
+      "bullets": [
+        "No climbing temple stylobates or entering roped cellas.",
+        "Follow museum photo rules; modest practical dress.",
+        "Keep Delphi / Acropolis as separate ticketed visits.",
+        "Threshold Atlas tone: Zeus sanctuary + Olympic truce honesty — not stadium running-track selfie only."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Olympia in the western Peloponnese.",
+      "paragraphs": [
+        "From Athens expect roughly 3.5–4.5 hours by coach, train+bus, or rental car into Elis. Cruise passengers often arrive from Katakolo — that day-trip pattern drives midday crush.",
+        "Buy Hellenic MoC e-tickets via odysseus.culture.gr / ticket.tap.gr class portals. Confirm whether your product covers the archaeological site, the museum, or both — do not invent EUR.",
+        "Delphi and the Acropolis are separate MoC tickets and separate travel days. Do not invent one Hellenic sacred pass covering all three."
+      ],
+      "bullets": [
+        "Athens ~3.5–4.5 h class / Katakolo cruise day-trip",
+        "Site + museum adjacent — check combined products",
+        "MoC e-tickets on official portals",
+        "Delphi / Acropolis = separate tickets & days"
+      ]
+    },
+    "bestTime": {
+      "intro": "Morning before cruise buses; verify seasonal MoC hours.",
+      "paragraphs": [
+        "Morning usually beats the Katakolo coach wave. Summer hours run longer than winter — verify odysseus.culture.gr rather than inventing EUR windows.",
+        "Midday heat on open sanctuary ground is a soft blocker in high summer — water and shade matter."
+      ],
+      "bullets": [
+        "Best: morning before cruise crush",
+        "Seasonal MoC hours — verify official portals",
+        "Summer heat soft blocker",
+        "Do not invent EUR"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm MoC site+museum products on odysseus.culture.gr / ticket.tap.gr — do not invent EUR.",
+        "Delphi and Acropolis are separate tickets — do not merge.",
+        "Cruise-day crush and Peloponnese transfer time are soft blockers.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "goreme-open-air",
+    "name": "Göreme Open-Air Museum (Göreme Açık Hava Müzesi), Cappadocia",
+    "shortName": "Göreme Open-Air",
+    "location": "Göreme, Nevşehir Province, Cappadocia",
+    "country": "Türkiye",
+    "region": "Middle East",
+    "regionSlug": "middle-east",
+    "religions": [
+      "Christian"
+    ],
+    "religionSlugs": [
+      "christian"
+    ],
+    "summary": "UNESCO Göreme rock-cut Byzantine monastic churches and frescoes — ticketed Ministry open-air museum (Tokalı, Karanlık class). Not a working parish and not a balloon-valley page. muze.gov.tr / MüzeKart rules; Dark Church often separate add-on — do not invent TRY. Conservation closures rotate.",
+    "heroImage": "https://images.unsplash.com/photo-1641128324972-af3212f0f6bd?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Byzantine rock-cut monastic valley fabric (notably 10th–12th centuries CE church programs)",
+      "patron": "Christian — Byzantine rock-cut monastic churches / frescoes (museum site; not a working parish)",
+      "unesco": "Within UNESCO Göreme National Park and the Rock Sites of Cappadocia",
+      "typicalVisit": "90–150 minutes main churches; Dark Church (Karanlık) often separate add-on ticket"
+    },
+    "related": [
+      "hagia-sophia",
+      "meteora",
+      "holy-sepulchre"
+    ],
+    "overview": {
+      "body": [
+        "Göreme Open-Air Museum is Cappadocia’s ticketed Ministry museum of rock-cut Byzantine churches and frescoes — Tokalı, Karanlık class chapels — still a museum of monastic valley fabric, not a balloon-ride Instagram valley page and not a working parish.",
+        "Frame the visit as Byzantine monastic valley honesty. Shoulders covered in active chapels when posted; no flash on frescoes; no touching paintings. Some churches rotate closures for conservation.",
+        "Official tickets: Paid Ministry ticket + MüzeKart / Museum Pass rules when valid — muze.gov.tr / on-site — do not invent TRY. Dark Church (Karanlık Kilise) often separate add-on ticket — state clearly. Prefer official museum over balloon-tour “museum included” opacity.",
+        "Ministry museum daytime window — verify muze.gov.tr / Cappadocia museum pages. Early entry for fresco churches before group crush is usually the calmest class.",
+        "Soft blockers: conservation closures; add-on church tickets; winter ice on paths; do not invent “one Cappadocia pass” covering underground cities + Ihlara unless a published pass truly does. SanctaWay is informational — it does not sell tickets or grant access."
+      ],
+      "highlights": [
+        "UNESCO rock-cut Byzantine church museum",
+        "muze.gov.tr / MüzeKart — do not invent TRY",
+        "Dark Church often separate add-on",
+        "No flash on frescoes; conservation closures rotate",
+        "Not balloon-valley / not a working parish"
+      ]
+    },
+    "visit": {
+      "intro": "Ministry rock-church museum — Dark Church add-on honesty; no invent TRY.",
+      "hours": "Ministry museum daytime window — verify muze.gov.tr / Cappadocia museum pages. Early entry before group crush; some churches rotate conservation closures.",
+      "tickets": "Paid Ministry ticket + MüzeKart / Museum Pass rules when valid — muze.gov.tr / on-site — do not invent TRY. Dark Church (Karanlık Kilise) often separate add-on — state clearly. Prefer official museum over balloon-tour “museum included” opacity. Do not invent one pass covering underground cities + Ihlara unless published.",
+      "dress": "Rock-cut monastic churches — shoulders covered in active chapels when posted; no flash on frescoes; no touching paintings.",
+      "duration": "90–150 minutes main churches; add time if buying Dark Church separately.",
+      "access": "Göreme / Ürgüp / Nevşehir hotel base → short dolmuş / walk / tour; airport ASR. Distinct from balloon-ride products.",
+      "tips": [
+        "Buy Ministry ticket / check MüzeKart rules — do not invent TRY.",
+        "Budget Dark Church as a possible separate add-on.",
+        "No flash on frescoes; no touching paintings.",
+        "Early entry beats tour-group crush.",
+        "Do not invent one Cappadocia pass with underground cities / Ihlara.",
+        "Winter ice on paths is a soft blocker.",
+        "Balloon-tour “museum included” is often opaque — verify at the gate."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://www.muze.gov.tr/",
+      "ticketsLabel": "Turkish Ministry museums — Göreme Open-Air (muze.gov.tr; MüzeKart rules when valid)",
+      "ticketsNote": "Ministry ticket; Dark Church often add-on; do not invent TRY."
+    },
+    "etiquette": {
+      "intro": "Fresco churches — no flash, no touching, conservation first.",
+      "bullets": [
+        "No flash on frescoes; no touching paintings.",
+        "Shoulders covered in active chapels when posted.",
+        "Accept rotating conservation closures without forcing entry.",
+        "Threshold Atlas tone: Byzantine monastic valley — not fairy-chimney Instagram only."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Göreme Open-Air from Cappadocia bases.",
+      "paragraphs": [
+        "Most visitors stay in Göreme, Ürgüp, or Nevşehir and reach the open-air museum by short dolmuş, walk, or day tour. Airport code ASR serves the region. Balloon rides are separate commercial products — not museum admission.",
+        "Buy the Ministry ticket via muze.gov.tr channels or on-site, and confirm MüzeKart / Museum Pass rules when you hold a pass — do not invent TRY. Ask whether Dark Church needs a separate add-on before you queue.",
+        "Underground cities and Ihlara Valley are separate ticketed or guided products. Do not invent one Cappadocia sacred pass unless an official published pass truly covers them."
+      ],
+      "bullets": [
+        "Göreme / Ürgüp / Nevşehir base → short transfer",
+        "Airport ASR",
+        "Ministry ticket + possible Dark Church add-on",
+        "Balloons / underground cities = separate products"
+      ]
+    },
+    "bestTime": {
+      "intro": "Early entry for fresco churches before group crush.",
+      "paragraphs": [
+        "Early entry usually gives calmer time in the main fresco churches before tour groups fill the valley paths. Confirm daytime museum hours on muze.gov.tr.",
+        "Winter ice on paths and rotating conservation closures are soft blockers — build slack into the visit rather than inventing TRY windows."
+      ],
+      "bullets": [
+        "Best: early museum entry",
+        "Conservation closures rotate",
+        "Winter ice soft blocker",
+        "Do not invent TRY"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm Ministry ticket + MüzeKart / Dark Church add-on on muze.gov.tr — do not invent TRY.",
+        "This is a rock-church museum, not a working parish or balloon-valley page.",
+        "Do not invent one Cappadocia pass covering underground cities + Ihlara.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "tanah-lot",
+    "name": "Pura Tanah Lot, Bali",
+    "shortName": "Tanah Lot",
+    "location": "West-coast sea temple, Tabanan Regency, Bali",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "regionSlug": "southeast-asia",
+    "religions": [
+      "Hindu"
+    ],
+    "religionSlugs": [
+      "hindu"
+    ],
+    "summary": "Bali sea-temple postcard mega — Pura Tanah Lot on a tidal islet with cliff terraces. Active Balinese pura distinct from live Besakih (mother temple inland). Sarong/sash often required; tide and ceremony gate inner access. Official gate booths — do not invent IDR; sunset crush + hawkers are soft blockers.",
+    "heroImage": "https://images.unsplash.com/photo-1555400038-63f5ba517a47?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Traditional foundation attributed to Dang Hyang Nirartha era; living Balinese sea temple",
+      "patron": "Hindu — Balinese coastal pura (Dang Hyang Nirartha tradition; active worship)",
+      "unesco": "Not individually inscribed; major living Balinese sacred / tourism landmark",
+      "typicalVisit": "90–150 minutes terraces + sunset viewpoints; inner islet crossing tide- and ceremony-dependent"
+    },
+    "related": [
+      "besakih",
+      "prambanan",
+      "borobudur"
+    ],
+    "overview": {
+      "body": [
+        "Tanah Lot is Bali’s sea-temple postcard mega — Pura Tanah Lot on a tidal islet with cliff terraces — still distinct from live Besakih, the mother temple inland in the highlands, not a sunset-bar plaza only.",
+        "Frame the visit as Dang Hyang Nirartha coastal pura + tide-islet honesty. Sarong / sash often required (rental on-site class); shoulders covered; no entering inner sanctum when closed to visitors; respect ceremony lanes.",
+        "Official tickets: Paid entry at official gate booths (foreign vs domestic tiers published locally) — do not invent IDR. Prefer site booth / official tourism pages over random OTA. Parking / cultural-show products separate when sold.",
+        "Complex commonly long daylight + evening for sunset terraces — verify official Tanah Lot / Bali tourism notices. Inner pura access is tide- and ceremony-dependent.",
+        "Soft blockers: sunset crush + hawkers; tide blocks islet crossing; ceremony closures; do not invent “one Bali temple pass” with Besakih. SanctaWay is informational — it does not sell tickets or grant access."
+      ],
+      "highlights": [
+        "Bali coastal sea-temple postcard mega",
+        "Distinct from live Besakih inland",
+        "Sarong / sash often required",
+        "Gate IDR tiers — do not invent fares",
+        "Tide + ceremony gate inner islet access"
+      ]
+    },
+    "visit": {
+      "intro": "Active Bali sea pura — sarong; gate IDR honesty; tide/ceremony soft blockers.",
+      "hours": "Complex commonly long daylight + evening for sunset terraces — verify official Tanah Lot / Bali tourism notices. Inner pura access tide- and ceremony-dependent.",
+      "tickets": "Paid entry at official gate booths (foreign vs domestic tiers published locally) — do not invent IDR. Prefer site booth / official tourism pages over random OTA. Parking / cultural-show products separate when sold. Do not invent one Bali temple pass with Besakih.",
+      "dress": "Active Balinese sea temple — sarong / sash often required (rental on-site class); shoulders covered; no entering inner sanctum when closed; respect ceremony lanes.",
+      "duration": "90–150 minutes terraces + sunset viewpoints; inner crossing only when tide/ceremony allow.",
+      "access": "South Bali (Kuta / Seminyak / Canggu class) → west-coast site ~1–1.5 h; sunset coach crush famous. Distinct from Besakih / Ubud day.",
+      "tips": [
+        "Pay at official gate booths — do not invent IDR.",
+        "Bring or rent sarong / sash; shoulders covered.",
+        "Tide may block islet crossing — do not force it.",
+        "Sunset crush + hawkers are soft blockers — arrive earlier if you want calmer terraces.",
+        "Ceremony lanes close to visitors — respect them.",
+        "Do not invent one Bali temple pass with Besakih.",
+        "Cliff / wet-rock safety — watch footing near the edge."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://www.indonesia.travel/",
+      "ticketsLabel": "Official gate booths / Indonesia Travel notices — Tanah Lot (verify local IDR tiers; no invent fares)",
+      "ticketsNote": "Gate booth foreign/domestic tiers; parking/shows separate; do not invent IDR."
+    },
+    "etiquette": {
+      "intro": "Active coastal pura — sarong, ceremony lanes, no forced inner entry.",
+      "bullets": [
+        "Sarong / sash often required; shoulders covered.",
+        "Do not enter inner sanctum when closed to visitors.",
+        "Respect ceremony lanes; quiet near shrines.",
+        "Threshold Atlas tone: Dang Hyang Nirartha coastal pura + tide honesty — not sunset bar plaza only."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Tanah Lot from south Bali.",
+      "paragraphs": [
+        "From Kuta, Seminyak, or Canggu class bases expect about 1–1.5 hours by car or coach to the west-coast site. Sunset departures create famous coach crush — leave earlier if you want calmer terraces.",
+        "Pay entry at official gate booths. Foreign vs domestic tiers are published locally — do not invent IDR from blogs or OTA “VIP” listings. Parking and cultural-show products are separate when sold.",
+        "Besakih and Ubud temple days are separate highland itineraries. Do not invent one Bali temple pass covering Tanah Lot and Besakih."
+      ],
+      "bullets": [
+        "South Bali → west coast ~1–1.5 h",
+        "Sunset coach crush soft blocker",
+        "Official gate booths — no invent IDR",
+        "Besakih / Ubud = separate days"
+      ]
+    },
+    "bestTime": {
+      "intro": "Earlier than peak sunset if you want calmer terraces; verify tide.",
+      "paragraphs": [
+        "Late afternoon light is the postcard draw, but peak sunset is also the crush. Arriving earlier usually gives calmer cliff walks. Confirm tide if you hope to approach the islet.",
+        "Ceremony days can close inner lanes without notice — treat access as practice-dependent rather than inventing IDR windows."
+      ],
+      "bullets": [
+        "Best: earlier than peak sunset crush",
+        "Tide gates islet crossing",
+        "Ceremony closures soft blocker",
+        "Do not invent IDR"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm gate IDR tiers on-site / official tourism notices — do not invent fares.",
+        "Besakih is a separate highland mother-temple visit — do not merge tickets.",
+        "Tide, ceremony, cliff safety, and sunset crush are soft blockers.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "thien-mu",
+    "name": "Thiên Mụ Pagoda (Chùa Thiên Mụ), Huế",
+    "shortName": "Thiên Mụ",
+    "location": "Perfume River left bank, ~4–5 km west of Huế centre",
+    "country": "Vietnam",
+    "region": "Southeast Asia",
+    "regionSlug": "southeast-asia",
+    "religions": [
+      "Buddhist"
+    ],
+    "religionSlugs": [
+      "buddhist"
+    ],
+    "summary": "Huế’s riverside iconic living pagoda — Phước Duyên heptagonal tower and Nguyễn-dynasty patronage on the Perfume River. Vietnam beyond live Mỹ Sơn Cham ruins. Grounds commonly free / donation; modest dress; no invent VND ticket as frozen. River boat is a separate commercial product — not a Citadel combo.",
+    "heroImage": "https://images.unsplash.com/photo-1528127269322-539801943592?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Nguyễn-dynasty riverside foundation; Phước Duyên heptagonal tower famously dated 1844",
+      "patron": "Buddhist — living Vietnamese monastery / royal-patronage pagoda",
+      "unesco": "Within the wider Huế Monuments complex context; living pagoda landmark",
+      "typicalVisit": "45–90 minutes grounds + halls when open; river boat is a separate commercial product"
+    },
+    "related": [
+      "my-son",
+      "that-luang",
+      "wat-arun"
+    ],
+    "overview": {
+      "body": [
+        "Thiên Mụ is Huế’s riverside iconic living pagoda — Phước Duyên heptagonal tower and Nguyễn royal patronage on the Perfume River — still distinct from live Mỹ Sơn Cham Hindu ruins inland, not a Perfume River photo stop only.",
+        "Frame the visit as Nguyễn royal patronage + 1844 heptagonal tower honesty. Active Vietnamese Buddhist monastery etiquette: shoulders/knees covered; remove shoes in halls; quiet; no climbing Phước Duyên tower when restricted.",
+        "Official tickets: Grounds commonly free / donation practice in published visitor guides — do not invent a frozen VND ticket. Verify on-site / Huế tourism. River dragon-boat is a separate commercial product.",
+        "Living pagoda commonly daytime visitor window — verify local Huế tourism / temple notices. Early morning is usually quieter than tour-bus midday.",
+        "Soft blockers: free ≠ always-open halls; ceremony days; do not invent combo with Imperial Citadel / Tomb tickets; earn keep vs Mỹ Sơn. SanctaWay is informational — it does not sell tickets or grant access."
+      ],
+      "highlights": [
+        "Huế riverside living pagoda mega",
+        "Phước Duyên heptagonal tower (1844 class)",
+        "Grounds commonly free / donation — no invent VND",
+        "Distinct from live Mỹ Sơn Cham ruins",
+        "Modest dress; shoes off in halls"
+      ]
+    },
+    "visit": {
+      "intro": "Living Huế pagoda — often free/donation; modest dress; no Citadel combo.",
+      "hours": "Living pagoda commonly daytime visitor window — verify local Huế tourism / temple notices. Early morning quieter than tour-bus midday.",
+      "tickets": "Grounds commonly free / donation practice — do not invent a frozen VND ticket. Verify on-site / Huế tourism. River boat is a separate commercial product. Do not invent combo with Imperial Citadel / royal tomb tickets.",
+      "dress": "Active Vietnamese Buddhist monastery — shoulders/knees covered; remove shoes in halls; quiet; no climbing Phước Duyên tower when restricted.",
+      "duration": "45–90 minutes grounds + halls when open.",
+      "access": "Huế city → Perfume River left bank (~4–5 km west); cyclo / taxi / river dragon-boat class. Pair Imperial Citadel exterior without inventing one ticket.",
+      "tips": [
+        "Expect free / donation grounds — do not invent a frozen VND ticket.",
+        "Modest dress; shoes off in halls.",
+        "Early morning beats tour-bus midday.",
+        "Do not invent combo with Citadel / tomb tickets.",
+        "River boat is a separate commercial product.",
+        "Ceremony days can close halls — free ≠ always-open museum.",
+        "Earn keep vs Mỹ Sơn — this is Huế living riverside pagoda."
+      ],
+      "entryType": "free",
+      "ticketsUrl": "https://vietnam.travel/",
+      "ticketsLabel": "Huế / Vietnam Travel notices — Thiên Mụ grounds (commonly free/donation; verify on-site)",
+      "ticketsNote": "Commonly free/donation; river boat separate; do not invent VND; no Citadel combo."
+    },
+    "etiquette": {
+      "intro": "Living monastery — quiet halls, shoes off, no restricted climbs.",
+      "bullets": [
+        "Shoulders and knees covered; remove shoes in halls.",
+        "Quiet; no climbing Phước Duyên tower when restricted.",
+        "Respect ceremony days — free ≠ always-open halls.",
+        "Threshold Atlas tone: Nguyễn patronage + heptagonal tower honesty — not Perfume River photo stop only."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Thiên Mụ from Huế centre.",
+      "paragraphs": [
+        "From Huế centre the pagoda sits about 4–5 km west on the Perfume River left bank. Reach it by cyclo, taxi, or a river dragon-boat product — the boat is commercial and separate from any temple “ticket.”",
+        "Grounds are commonly free or donation-based in published guides — do not invent a frozen VND admission. Confirm current visitor practice on-site or via Huế tourism notices.",
+        "Imperial Citadel and royal tombs are separate ticketed heritage sites. Do not invent one Huế sacred pass covering Thiên Mụ and the Citadel."
+      ],
+      "bullets": [
+        "Huế centre → left bank ~4–5 km west",
+        "Cyclo / taxi / river boat class",
+        "Commonly free/donation grounds",
+        "Citadel / tombs = separate tickets"
+      ]
+    },
+    "bestTime": {
+      "intro": "Early morning quieter than tour-bus midday.",
+      "paragraphs": [
+        "Early morning usually gives calmer riverside grounds before midday coach stops. Confirm daytime visitor windows on local Huế / temple notices.",
+        "Ceremony days and hall closures are soft blockers — treat free entry as practice-dependent access, not an always-open museum day."
+      ],
+      "bullets": [
+        "Best: early morning",
+        "Tour-bus midday soft blocker",
+        "Ceremony / hall closures possible",
+        "Do not invent VND"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm free/donation practice on-site / Huế tourism — do not invent a frozen VND ticket.",
+        "Citadel and tombs are separate tickets — do not merge.",
+        "River boat is a commercial product, not temple admission.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "mount-nebo",
+    "name": "Mount Nebo (جبل نيبو), Madaba Governorate",
+    "shortName": "Mount Nebo",
+    "location": "Mount Nebo ridge west of Madaba, Jordan",
+    "country": "Jordan",
+    "region": "Middle East",
+    "regionSlug": "middle-east",
+    "religions": [
+      "Christian"
+    ],
+    "religionSlugs": [
+      "christian"
+    ],
+    "summary": "Moses memorial vista over the Promised Land — Franciscan Memorial of Moses, Byzantine mosaics, and viewpoint toward the Dead Sea / West Bank. Classic Jordan pilgrimage day after live Petra (not same-day casually). Paid Memorial / tourism ticket class — do not invent JOD. Haze honesty; Bethany Beyond Jordan is a separate UNESCO product.",
+    "heroImage": "https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Biblical Moses tradition site; Byzantine memorial / mosaic fabric; modern Franciscan Memorial of Moses",
+      "patron": "Christian — Moses memorial pilgrimage site (Franciscan custody / memorial church)",
+      "unesco": "Not individually the Al-Aqsa framing; Jordan pilgrimage / mosaic landmark (Bethany Beyond Jordan is separate UNESCO)",
+      "typicalVisit": "60–90 minutes memorial, mosaics, and viewpoint; Madaba map church often a same-day separate stop"
+    },
+    "related": [
+      "petra",
+      "holy-sepulchre",
+      "church-of-the-nativity"
+    ],
+    "overview": {
+      "body": [
+        "Mount Nebo is the Moses memorial vista mega of Jordan — Franciscan Memorial of Moses, Byzantine mosaics, and the ridge viewpoint toward the Dead Sea / West Bank — still a pilgrimage memorial day after live Petra, not a Dead Sea café viewpoint only, and not Al-Aqsa framing.",
+        "Frame the visit as Deuteronomy vista + Byzantine memorial mosaics honesty. Modest dress; quiet at viewpoint / chapel; follow mosaic-floor paths.",
+        "Official tickets: Paid entry via Memorial / tourism channels when ticketed — do not invent JOD. Prefer Franciscan / official Jordan tourism over random OTA. Baptism Site (Bethany Beyond Jordan) is a separate UNESCO product — do not merge tickets.",
+        "Memorial / museum daytime window — verify Franciscan Memorial of Moses / Jordan tourism notices. Clear mornings help the vista; haze toward the West Bank is common — state honestly.",
+        "Soft blockers: haze / weather vista honesty; do not invent combo with Petra / Wadi Rum; Bethany Beyond Jordan parked as separate; Al-Aqsa framing stays deferred — page is Nebo memorial only. SanctaWay is informational — it does not sell tickets or grant access."
+      ],
+      "highlights": [
+        "Moses memorial vista + Franciscan mosaics",
+        "Classic Jordan pilgrimage day after Petra",
+        "Paid Memorial / tourism ticket — do not invent JOD",
+        "Haze honesty on Dead Sea / West Bank vista",
+        "Bethany Beyond Jordan = separate UNESCO product"
+      ]
+    },
+    "visit": {
+      "intro": "Franciscan Moses memorial — ticket honesty; haze vista; not Petra combo.",
+      "hours": "Memorial / museum daytime window — verify Franciscan Memorial of Moses / Jordan tourism notices. Clear mornings for vista; haze common.",
+      "tickets": "Paid entry via Memorial / tourism channels when ticketed — do not invent JOD. Prefer Franciscan / official Jordan tourism over random OTA. Bethany Beyond Jordan (Baptism Site) is a separate UNESCO product — do not merge. Do not invent combo with Petra / Wadi Rum.",
+      "dress": "Christian pilgrimage memorial — modest dress; quiet at viewpoint / chapel; follow mosaic-floor paths.",
+      "duration": "60–90 minutes memorial, mosaics, and viewpoint; Madaba map church often a same-day separate stop.",
+      "access": "Amman / Madaba → Mount Nebo (~30–45 min from Madaba class); often same-day with Madaba map church + Dead Sea — not Petra same-day casually.",
+      "tips": [
+        "Pay Memorial / official tourism rates — do not invent JOD.",
+        "Expect haze on the vista — clear mornings help but are not guaranteed.",
+        "Modest dress; quiet at chapel and viewpoint.",
+        "Follow mosaic-floor paths — do not walk on unprotected mosaics.",
+        "Do not invent combo with Petra / Wadi Rum.",
+        "Bethany Beyond Jordan is a separate UNESCO ticket — do not merge.",
+        "No Al-Aqsa framing creep — this page is Nebo memorial only."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://www.jordanpass.jo/",
+      "ticketsLabel": "Jordan tourism / Memorial channels — Mount Nebo (verify Franciscan/MOTA class; Jordan Pass coverage when published)",
+      "ticketsNote": "Memorial/tourism ticket when required; Jordan Pass coverage varies by product — verify; do not invent JOD."
+    },
+    "etiquette": {
+      "intro": "Pilgrimage memorial — modest dress, quiet, mosaic paths.",
+      "bullets": [
+        "Modest dress; quiet at viewpoint and chapel.",
+        "Follow mosaic-floor paths; do not walk on unprotected mosaics.",
+        "Keep Bethany Beyond Jordan and Petra as separate visits.",
+        "Threshold Atlas tone: Deuteronomy vista + Byzantine mosaics — not Dead Sea café only; no Al-Aqsa framing."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Mount Nebo from Madaba / Amman.",
+      "paragraphs": [
+        "From Madaba expect about 30–45 minutes to the ridge; Amman is longer. Many visitors pair Nebo with Madaba’s map church and optionally the Dead Sea — Petra is not a casual same-day add-on.",
+        "Pay via Memorial / official tourism channels when ticketed. Jordan Pass coverage for Nebo varies by product year — verify published inclusions rather than inventing JOD.",
+        "Bethany Beyond Jordan (Baptism Site) is a separate UNESCO product south along the Jordan River. Do not merge tickets or treat Nebo as a substitute for that site — and do not pull Al-Aqsa framing into this page."
+      ],
+      "bullets": [
+        "Madaba ~30–45 min / Amman longer",
+        "Often paired with Madaba map church",
+        "Memorial / tourism ticket — verify Jordan Pass",
+        "Petra / Bethany = separate days or tickets"
+      ]
+    },
+    "bestTime": {
+      "intro": "Clear mornings for vista; haze is common — state honestly.",
+      "paragraphs": [
+        "Clear mornings usually give the best chance of a long vista toward the Dead Sea / West Bank, but haze is common — treat the view as weather-dependent honesty, not a guaranteed postcard.",
+        "Confirm Memorial daytime hours via Franciscan / Jordan tourism notices rather than inventing JOD windows."
+      ],
+      "bullets": [
+        "Best: clear morning for vista chance",
+        "Haze soft blocker — common",
+        "Verify Memorial hours",
+        "Do not invent JOD"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm Memorial / Jordan tourism ticket or Jordan Pass inclusion — do not invent JOD.",
+        "Petra and Bethany Beyond Jordan are separate — do not merge.",
+        "Haze honesty; no Al-Aqsa framing on this page.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "hatshepsut-temple",
+    "name": "Mortuary Temple of Hatshepsut / Deir el-Bahari (الدير البحري), Luxor west bank",
+    "shortName": "Hatshepsut Temple",
+    "location": "Deir el-Bahari cliffs, Luxor west bank",
+    "country": "Egypt",
+    "region": "Africa",
+    "regionSlug": "africa",
+    "religions": [
+      "Ancient Egyptian"
+    ],
+    "religionSlugs": [
+      "ancient-egyptian"
+    ],
+    "summary": "West-bank MOTA terrace mega at Deir el-Bahari — Hatshepsut’s mortuary temple against the cliffs. Distinct from live east-bank Karnak and Luxor Temple. Official egymonuments.gov.eg / egymonuments.com — do not invent EGP. Valley of the Kings is a separate ticket/stop; midday heat soft blocker.",
+    "heroImage": "https://images.unsplash.com/photo-1539650116574-75c0c6d73f6e?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "New Kingdom mortuary temple of Hatshepsut (18th Dynasty); later damage / Akhenaten-era erasure layers; modern restoration",
+      "patron": "Ancient Egyptian — mortuary cult of Hatshepsut / Amun of Deir el-Bahari (archaeological temple)",
+      "unesco": "Within UNESCO Ancient Thebes with its Necropolis",
+      "typicalVisit": "90–120 minutes terraces + colonnades; Valley of the Kings is a separate ticket / stop"
+    },
+    "related": [
+      "karnak",
+      "luxor-temple",
+      "abu-simbel"
+    ],
+    "overview": {
+      "body": [
+        "Hatshepsut’s mortuary temple at Deir el-Bahari is the west-bank MOTA terrace mega every Nile itinerary books — colonnades against the cliffs — still distinct from live east-bank Karnak and Luxor Temple, not a cliff Instagram stairs only merge with the Valley of the Kings.",
+        "Frame the visit as female pharaoh mortuary cult + Punt reliefs + later Akhenaten erasure honesty. Modest practical dress; no climbing terraces off-path; no touching reliefs; photo rules in shrine areas as posted.",
+        "Official tickets: MOTA e-tickets — egymonuments.com (Hatshepsut / Deir el-Bahari product) and ministry notices on egymonuments.gov.eg. Foreign / student / Egyptian tiers — do not invent EGP. Valley of the Kings, Valley of the Queens, Medinet Habu = separate tickets.",
+        "MOTA daytime window — verify egymonuments.gov.eg / egymonuments.com. Morning shade on terraces before west-bank heat; late afternoon light on colonnades can work if heat allows.",
+        "Soft blockers: Egypt already dense (Karnak + Luxor Temple + Abu Simbel + Philae live) — page must earn west-bank Deir el-Bahari difference; do not merge with Valley of the Kings; heat midday. SanctaWay is informational — it does not sell tickets or grant access."
+      ],
+      "highlights": [
+        "West-bank Deir el-Bahari terrace mega",
+        "Distinct from east-bank Karnak / Luxor Temple",
+        "egymonuments.com / .gov.eg — do not invent EGP",
+        "Valley of the Kings = separate ticket",
+        "Punt reliefs + Hatshepsut mortuary cult honesty"
+      ]
+    },
+    "visit": {
+      "intro": "MOTA Deir el-Bahari — separate from VoK; no invent EGP.",
+      "hours": "MOTA daytime window — verify egymonuments.gov.eg / egymonuments.com. Morning shade on terraces before west-bank heat; late afternoon light on colonnades.",
+      "tickets": "MOTA e-tickets — egymonuments.com Hatshepsut / Deir el-Bahari product. Foreign / student / Egyptian tiers — do not invent EGP. Valley of the Kings, Valley of the Queens, Medinet Habu = separate tickets. Prefer ministry channels over OTA.",
+      "dress": "Archaeological mortuary temple — modest practical dress; no climbing terraces off-path; no touching reliefs; photo rules in shrine areas as posted.",
+      "duration": "90–120 minutes terraces + colonnades; Valley of the Kings needs a separate ticket block.",
+      "access": "Luxor west bank — taxi / ferry+taxi / tour from east-bank hotels; nestled in Deir el-Bahari cliffs. Valley of the Kings is a separate ticket / stop.",
+      "tips": [
+        "Buy Hatshepsut / Deir el-Bahari on egymonuments.com — do not invent EGP.",
+        "Valley of the Kings is a separate ticket — do not merge.",
+        "Morning shade beats midday west-bank heat.",
+        "No climbing terraces off-path; no touching reliefs.",
+        "Earn keep vs east-bank Karnak / Luxor Temple — this is west-bank terraces.",
+        "Medinet Habu / Valley of the Queens are separate tickets.",
+        "Prefer MOTA channels over OTA “west bank VIP.”"
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://egymonuments.com/",
+      "ticketsLabel": "MoTA e-tickets — Hatshepsut / Deir el-Bahari (egymonuments.com; separate from Valley of the Kings)",
+      "ticketsNote": "MOTA Deir el-Bahari product; VoK separate; do not invent EGP."
+    },
+    "etiquette": {
+      "intro": "Mortuary temple — stay on paths, no touching reliefs.",
+      "bullets": [
+        "No climbing terraces off-path; no touching reliefs.",
+        "Modest practical dress; follow shrine photo rules.",
+        "Keep Valley of the Kings as a separate ticketed visit.",
+        "Threshold Atlas tone: Hatshepsut mortuary cult + Punt reliefs + erasure honesty — not cliff Instagram stairs only."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Hatshepsut Temple on Luxor west bank.",
+      "paragraphs": [
+        "From east-bank Luxor hotels take a taxi, ferry+taxi, or west-bank tour to Deir el-Bahari. The terraces sit against the cliffs — Valley of the Kings is nearby but a separate ticket and usually a separate stop block.",
+        "Buy the Hatshepsut / Deir el-Bahari MOTA product on egymonuments.com. Foreign / student / Egyptian tiers are published — do not invent EGP from old blogs.",
+        "East-bank Karnak and Luxor Temple are separate MOTA tickets across the river. Do not invent one Luxor pass covering east and west bank megas unless a published product truly does."
+      ],
+      "bullets": [
+        "West bank taxi / ferry+taxi / tour",
+        "Deir el-Bahari cliffs — VoK separate stop",
+        "MOTA e-ticket on egymonuments.com",
+        "East-bank Karnak / Luxor Temple = separate tickets"
+      ]
+    },
+    "bestTime": {
+      "intro": "Morning shade on terraces; midday heat soft blocker.",
+      "paragraphs": [
+        "Morning shade on the terraces usually beats west-bank midday heat. Late afternoon light on colonnades can work if temperatures allow — verify last-entry vs close on egymonuments.gov.eg / egymonuments.com.",
+        "Do not invent EGP windows or free after-hours myths — MOTA published hours rule."
+      ],
+      "bullets": [
+        "Best: morning terrace shade",
+        "Midday heat soft blocker",
+        "Verify MOTA last-entry vs close",
+        "Do not invent EGP"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm Hatshepsut / Deir el-Bahari MOTA tiers on egymonuments.com — do not invent EGP.",
+        "Valley of the Kings is separate; Karnak / Luxor Temple are east-bank separate tickets.",
+        "Heat midday is a soft blocker on open terraces.",
         "SanctaWay is informational; it does not sell tickets or grant access.",
         "Hero image is an Unsplash placeholder pending visual / Commons pass."
       ]

@@ -3002,7 +3002,7 @@
     "related": [
       "hassan-ii-mosque",
       "hagia-sophia",
-      "ethem-bey-mosque"
+      "nizamiye-mosque"
     ],
     "overview": {
       "body": [
@@ -4843,7 +4843,7 @@
     "related": [
       "blue-mosque",
       "hagia-sophia",
-      "larabanga-mosque"
+      "nizamiye-mosque"
     ],
     "overview": {
       "body": [
@@ -5073,7 +5073,7 @@
     "related": [
       "cologne-cathedral",
       "notre-dame",
-      "aachen-cathedral"
+      "notre-dame-luxembourg"
     ],
     "overview": {
       "body": [
@@ -7812,7 +7812,7 @@
     "related": [
       "hassan-ii-mosque",
       "mezquita-cordoba",
-      "larabanga-mosque"
+      "kilwa-kisiwani"
     ],
     "overview": {
       "body": [
@@ -9285,7 +9285,7 @@
     "related": [
       "fatima",
       "lourdes",
-      "our-lady-of-lebanon"
+      "our-lady-of-meritxell"
     ],
     "overview": {
       "body": [
@@ -24033,7 +24033,7 @@
     "related": [
       "guadalupe",
       "aparecida",
-      "basilica-cerrito"
+      "metropolitan-cathedral-panama"
     ],
     "overview": {
       "body": [
@@ -24704,7 +24704,7 @@
     "related": [
       "sagrada-familia",
       "mont-saint-michel",
-      "riga-dome"
+      "alexander-nevsky-tallinn"
     ],
     "overview": {
       "body": [
@@ -25040,7 +25040,7 @@
     "related": [
       "sagrada-familia",
       "guadalupe",
-      "santiago-cathedral-chile"
+      "metropolitan-cathedral-panama"
     ],
     "overview": {
       "body": [
@@ -25152,7 +25152,7 @@
     "related": [
       "basilica-voto-nacional",
       "cartago-basilica",
-      "santiago-cathedral-chile"
+      "metropolitan-cathedral-san-salvador"
     ],
     "overview": {
       "body": [
@@ -25376,7 +25376,7 @@
     "related": [
       "aachen-cathedral",
       "santiago-de-compostela",
-      "roskilde-cathedral"
+      "uppsala-cathedral"
     ],
     "overview": {
       "body": [
@@ -25488,7 +25488,7 @@
     "related": [
       "guadalupe",
       "caacupe",
-      "cartago-basilica"
+      "our-lady-of-meritxell"
     ],
     "overview": {
       "body": [
@@ -25824,7 +25824,7 @@
     "related": [
       "caacupe",
       "cartago-basilica",
-      "guadalupe"
+      "metropolitan-cathedral-san-salvador"
     ],
     "overview": {
       "body": [
@@ -26272,7 +26272,7 @@
     "related": [
       "sagrada-familia",
       "basilica-yamoussoukro",
-      "mont-saint-michel"
+      "notre-dame-luxembourg"
     ],
     "overview": {
       "body": [
@@ -26384,7 +26384,7 @@
     "related": [
       "nidaros-cathedral",
       "aachen-cathedral",
-      "westminster-abbey"
+      "uppsala-cathedral"
     ],
     "overview": {
       "body": [
@@ -26496,7 +26496,7 @@
     "related": [
       "nidaros-cathedral",
       "hallgrimskirkja",
-      "temppeliaukio"
+      "alexander-nevsky-tallinn"
     ],
     "overview": {
       "body": [
@@ -26944,7 +26944,7 @@
     "related": [
       "kairouan",
       "hassan-ii-mosque",
-      "namugongo"
+      "kilwa-kisiwani"
     ],
     "overview": {
       "body": [
@@ -27137,6 +27137,902 @@
         "Opens Kyrgyzstan — Sulaiman-Too as UNESCO islamic pilgrimage mountain.",
         "Honest NO_CTA — paths free/donation; do not invent KGS.",
         "Soft blockers: climb/weather; museum fee ambiguity; no Uzbekistan densify.",
+        "SanctaWay does not sell tickets, invent visa myths, or grant access."
+      ]
+    }
+  },
+  {
+    "id": "uppsala-cathedral",
+    "name": "Uppsala Cathedral / Uppsala domkyrka",
+    "shortName": "Uppsala Cathedral",
+    "location": "Domkyrkoplan, 753 10 Uppsala, Sweden",
+    "country": "Sweden",
+    "region": "Europe",
+    "regionSlug": "europe",
+    "religions": [
+      "Christian"
+    ],
+    "religionSlugs": [
+      "christian"
+    ],
+    "summary": "Largest cathedral in the Nordic region; Church of Sweden archiepiscopal seat (opens Sweden). Soft Destination Uppsala + Svenska kyrkan. Do not invent SEK. Not +Lund same batch.",
+    "heroImage": "https://images.unsplash.com/photo-1469472731853-d14d4826d1b1?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Brick Gothic cathedral begun late 13th c.; consecrated 1435; long Church of Sweden archiepiscopal / royal burial history",
+      "patron": "Christian — Church of Sweden cathedral (archiepiscopal seat of Uppsala)",
+      "unesco": "Not a World Heritage property; Nordic national cathedral landmark",
+      "typicalVisit": "1–2 hours nave + treasury / tower products when open"
+    },
+    "related": [
+      "nidaros-cathedral",
+      "roskilde-cathedral",
+      "hallgrimskirkja"
+    ],
+    "overview": {
+      "body": [
+        "Uppsala Cathedral opens Sweden on SanctaWay as the largest cathedral in the Nordic region — the Church of Sweden’s archiepiscopal seat at Domkyrkoplan, with coronation and royal burial history layered into a living brick-Gothic nave — not a free Instagram tower-only stop and not one pass covering every Uppland church.",
+        "Frame Soft CTA honesty: use Destination Uppsala’s cathedral page https://destinationuppsala.se/en/see-do-eat/uppsala-cathedral/ (curl-verified 200 + TLS) and Svenska kyrkan Uppsala domkyrka https://www.svenskakyrkan.se/uppsaladomkyrka (200 + TLS). Nave is often free / donation class; treasury, tower, or museum products may be desk-ticketed — verify published SEK on those official pages. Do not invent SEK. Prefer Destination Uppsala / Svenska kyrkan over OTA markups.",
+        "Soft blockers: liturgy, concerts, and royal or state events reshape nave and treasury windows; tower stairs and accessibility matter; Nordic winter honesty. Lund Cathedral stays parked this batch — one Sweden only.",
+        "Gateway: SJ / Pendeltåg from Stockholm (~35–40 min class) then walk to Domkyrka. Pair university / Gustavianum tourism without inventing one sacred pass for all Uppsala churches.",
+        "Soft blockers to restate: service closures; tower stairs; no Lund densify; Nordic-largest / archiepiscopal honesty ahead of “Stockholm day-trip Instagram only.” SanctaWay is informational — it does not sell tickets, invent fares, or grant access."
+      ],
+      "highlights": [
+        "Opens Sweden — Nordic-largest Church of Sweden cathedral",
+        "Soft Destination Uppsala + Svenska kyrkan — do not invent SEK",
+        "Nave often free / donation; treasury / tower may be desk-ticketed",
+        "Not +Lund same batch — one Sweden only",
+        "No Uppland church one-pass myth"
+      ]
+    },
+    "visit": {
+      "intro": "Soft Destination Uppsala + Svenska kyrkan — nave often free; verify treasury / tower SEK; do not invent fares.",
+      "hours": "Verify https://destinationuppsala.se/en/see-do-eat/uppsala-cathedral/ and https://www.svenskakyrkan.se/uppsaladomkyrka before travel (both 200 + TLS). Working cathedral — liturgy, concerts, and events reshape nave / treasury access. Do not treat blog hours as final.",
+      "tickets": "Nave often free / donation. Treasury / tower / museum products may be desk-ticketed — Soft CTA Destination Uppsala cathedral page (+ Svenska kyrkan). Do not invent SEK. Prefer official / destination over OTAs. Not one ticket with every Uppsala church. Lund is a different cathedral — not this page.",
+      "dress": "Active Church of Sweden cathedral — quiet in chapels; no flash on tombs; photography rules as posted; Nordic winter honesty.",
+      "duration": "1–2 hours nave; longer with treasury / tower when open.",
+      "access": "SJ / Pendeltåg Stockholm–Uppsala + walk to Domkyrkoplan. Tower stairs and accessibility matter. Liturgy / concert closures reshape windows.",
+      "tips": [
+        "Use Destination Uppsala Soft CTA — do not invent SEK from OTAs.",
+        "Cross-check Svenska kyrkan Uppsala domkyrka for liturgy / closures.",
+        "Expect quiet in chapels; follow posted photo rules on tombs.",
+        "Pair Gustavianum / university tourism separately — no one-pass.",
+        "Winter ice and early dark — plan daylight for exterior brick Gothic.",
+        "Lund stays a different Sweden cathedral — not densified here.",
+        "SanctaWay does not sell tickets or grant access."
+      ],
+      "entryType": "soft-official",
+      "ticketsUrl": "https://destinationuppsala.se/en/see-do-eat/uppsala-cathedral/",
+      "ticketsLabel": "Uppsala Soft Destination Uppsala cathedral page (+ Svenska kyrkan) — verify SEK; do not invent fares",
+      "ticketsNote": "Soft CTA 200+TLS0 Destination Uppsala + Svenska kyrkan; nave free/donation class; treasury/tower desk products; no Lund densify; do not invent SEK."
+    },
+    "etiquette": {
+      "intro": "Living Church of Sweden cathedral — nave and liturgy respect.",
+      "bullets": [
+        "Quiet in chapels; yield space during services and concerts.",
+        "No flash on tombs; follow posted photography rules.",
+        "Do not invent free tower / treasury access outside published products.",
+        "Threshold Atlas tone: Sweden #1 Nordic-largest cathedral — not Stockholm day-trip Instagram-only."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Uppsala Cathedral from Stockholm and local rail.",
+      "paragraphs": [
+        "Most visitors ride SJ or Pendeltåg from Stockholm (~35–40 min class) into Uppsala, then walk to Domkyrkoplan and the brick-Gothic west front.",
+        "The cathedral sits in the historic university precinct — treat Gustavianum and other churches as separate stops, not a single sacred combo ticket.",
+        "Tower and treasury products (when open) add stairs and timed windows — confirm open status before you climb."
+      ],
+      "bullets": [
+        "SJ / Pendeltåg Stockholm–Uppsala + walk",
+        "Treasury / tower optional separate products",
+        "No Uppland church one-pass myth",
+        "Verify week calendar before tower climb"
+      ]
+    },
+    "bestTime": {
+      "intro": "Clear weekdays for nave calm; always verify liturgy and concert closures.",
+      "paragraphs": [
+        "Weekday mornings often give calmer nave windows — still verify Destination Uppsala / Svenska kyrkan for concerts and events.",
+        "Winter brings ice and short daylight; summer tourism densifies the square — re-check the day you go."
+      ],
+      "bullets": [
+        "Best: clear weekday for nave + exterior",
+        "Watch liturgy / concert closures",
+        "Soft Destination Uppsala — stick to official SEK",
+        "Do not invent SEK / Lund combo"
+      ]
+    },
+    "notes": {
+      "intro": "SanctaWay Threshold Atlas notes — Sweden #1 Nordic-largest cathedral.",
+      "bullets": [
+        "Opens Sweden — Uppsala as Church of Sweden archiepiscopal cathedral.",
+        "Soft Destination Uppsala + Svenska kyrkan — do not invent SEK.",
+        "Soft blockers: service closures; tower stairs; no Lund densify.",
+        "SanctaWay does not sell tickets, invent visa myths, or grant access."
+      ]
+    }
+  },
+  {
+    "id": "our-lady-of-meritxell",
+    "name": "Sanctuary of Our Lady of Meritxell / Santuari de Meritxell",
+    "shortName": "Our Lady of Meritxell",
+    "location": "Meritxell, Canillo parish, Andorra",
+    "country": "Andorra",
+    "region": "Europe",
+    "regionSlug": "europe",
+    "religions": [
+      "Christian"
+    ],
+    "religionSlugs": [
+      "christian"
+    ],
+    "summary": "Andorra’s national Marian sanctuary / basilica (opens Andorra). Soft Visit Andorra culture page. Proprietary sanctuary hosts soft — unused. Do not invent EUR.",
+    "heroImage": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Medieval Marian shrine; modern sanctuary rebuilt after 1972 fire; Andorra’s national Marian basilica",
+      "patron": "Christian — Catholic national Marian sanctuary (Our Lady of Meritxell)",
+      "unesco": "Not a World Heritage property; Andorra national Marian landmark",
+      "typicalVisit": "45–90 minutes sanctuary + grounds when open"
+    },
+    "related": [
+      "einsiedeln",
+      "montserrat",
+      "basilica-higuey"
+    ],
+    "overview": {
+      "body": [
+        "Our Lady of Meritxell opens Andorra on SanctaWay as the country’s national Marian sanctuary — a working basilica in the Canillo corridor, not a free Instagram mountain selfie-only stop and not one Marian pass covering every Pyrenees shrine.",
+        "Frame Soft CTA honesty: use Visit Andorra’s culture page https://visitandorra.com/en/culture/sanctuary-of-meritxell/ (curl-verified 200 + TLS). Proprietary santuaridemeritxell hosts were soft this pass — do not use until they clear 200 + TLS. Nave is generally free / donation. Do not invent EUR. Prefer Visit Andorra over OTA markups.",
+        "Soft blockers: feast-day crush; winter road conditions in the Canillo corridor; Mass and parish notice reshape visit windows — verify hours from Visit Andorra or parish boards at write time.",
+        "Gateway: road from Andorra la Vella / Canillo (no in-country airport). Pair Caldea / valley tourism without inventing one Marian combo for all Pyrenees shrines.",
+        "Soft blockers to restate: feast crush; winter road; proprietary sanctuary soft; national-Marian honesty ahead of “Andorra shopping day-trip only.” SanctaWay is informational — it does not sell tickets, invent fares, or grant access."
+      ],
+      "highlights": [
+        "Opens Andorra — national Marian sanctuary / basilica",
+        "Soft Visit Andorra culture page — do not invent EUR",
+        "Proprietary sanctuary hosts soft — unused",
+        "Nave generally free / donation",
+        "No Pyrenees Marian one-pass myth"
+      ]
+    },
+    "visit": {
+      "intro": "Soft Visit Andorra — free / donation nave; proprietary sanctuary soft — unused; do not invent EUR.",
+      "hours": "Verify https://visitandorra.com/en/culture/sanctuary-of-meritxell/ before travel (200 + TLS). Working national sanctuary — Mass and feast days reshape access. Proprietary sanctuary hosts soft this pass — do not treat them as hours source until re-checked.",
+      "tickets": "Nave generally free / donation. Soft informational CTA Visit Andorra culture page. Do not invent EUR. Do not use soft proprietary sanctuary shops. Prefer Visit Andorra over OTAs. Not one ticket with Montserrat or every Pyrenees shrine.",
+      "dress": "Active Catholic national Marian shrine — modest dress; quiet at the sanctuary; mountain weather / altitude honesty.",
+      "duration": "45–90 minutes sanctuary + grounds.",
+      "access": "Road from Andorra la Vella / Canillo corridor; no airport in-country. Winter ice and feast-day parking crush matter. Pair valley tourism separately.",
+      "tips": [
+        "Use Visit Andorra Soft CTA — do not invent EUR.",
+        "Skip proprietary sanctuary hosts while soft.",
+        "Modest dress; quiet during Mass and feast liturgies.",
+        "Winter road honesty in the Canillo corridor.",
+        "Pair Caldea / valley stops separately — no Marian one-pass.",
+        "Feast of Meritxell densifies the site — arrive early or verify.",
+        "SanctaWay does not sell tickets or grant access."
+      ],
+      "entryType": "soft-official",
+      "ticketsUrl": "https://visitandorra.com/en/culture/sanctuary-of-meritxell/",
+      "ticketsLabel": "Meritxell Soft Visit Andorra culture page — free/donation nave; proprietary sanctuary soft — unused; do not invent EUR",
+      "ticketsNote": "Soft CTA 200+TLS0 Visit Andorra; proprietary sanctuary soft unused; feast/winter road blockers; do not invent EUR."
+    },
+    "etiquette": {
+      "intro": "Living national Marian sanctuary — liturgy and shrine respect.",
+      "bullets": [
+        "Quiet at the sanctuary; yield space during Mass and feast processions.",
+        "Modest dress; follow posted photography rules.",
+        "Do not invent paid ticket products that Visit Andorra does not publish.",
+        "Threshold Atlas tone: Andorra #1 national Marian — not shopping-day-trip framing only."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Meritxell in Andorra’s Canillo corridor.",
+      "paragraphs": [
+        "Most visitors drive or take local coaches along the Andorra la Vella–Canillo corridor to Meritxell; there is no airport inside Andorra.",
+        "Treat Caldea, valley hiking, and other Marian sites as separate stops — not a single sacred combo ticket.",
+        "Winter road conditions and feast-day parking reshape access — confirm local notice before you go."
+      ],
+      "bullets": [
+        "Road via Andorra la Vella / Canillo",
+        "No in-country airport",
+        "No Pyrenees Marian one-pass myth",
+        "Winter road + feast crush honesty"
+      ]
+    },
+    "bestTime": {
+      "intro": "Shoulder weekdays for calm; feast days densify — verify Visit Andorra.",
+      "paragraphs": [
+        "Weekday visits outside major Marian feasts are usually calmer; still verify Visit Andorra and parish boards.",
+        "Winter snow and summer valley tourism both reshape the road — re-check the day you go."
+      ],
+      "bullets": [
+        "Best: clear shoulder weekday",
+        "Watch feast-day crush",
+        "Soft Visit Andorra — stick to destination pages",
+        "Do not invent EUR / Pyrenees combo"
+      ]
+    },
+    "notes": {
+      "intro": "SanctaWay Threshold Atlas notes — Andorra #1 national Marian sanctuary.",
+      "bullets": [
+        "Opens Andorra — Meritxell as national Marian basilica.",
+        "Soft Visit Andorra — proprietary sanctuary soft unused; do not invent EUR.",
+        "Soft blockers: feast crush; winter road; no Pyrenees densify one-pass.",
+        "SanctaWay does not sell tickets, invent visa myths, or grant access."
+      ]
+    }
+  },
+  {
+    "id": "alexander-nevsky-tallinn",
+    "name": "Alexander Nevsky Cathedral, Tallinn",
+    "shortName": "Alexander Nevsky Tallinn",
+    "location": "Lossi plats 10, Toompea, 10130 Tallinn, Estonia",
+    "country": "Estonia",
+    "region": "Europe",
+    "regionSlug": "europe",
+    "religions": [
+      "Christian"
+    ],
+    "religionSlugs": [
+      "christian"
+    ],
+    "summary": "Toompea Orthodox postcard cathedral (opens Estonia). Soft Visit Estonia / Visit Tallinn. Entry often free / donation. Do not invent EUR. Liturgy interruptions.",
+    "heroImage": "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Built 1894–1900 as Orthodox cathedral on Toompea; Tallinn’s most photographed onion-dome church",
+      "patron": "Christian — Eastern Orthodox cathedral (Alexander Nevsky)",
+      "unesco": "Within Tallinn Old Town World Heritage context (historic centre); cathedral itself is a living parish landmark",
+      "typicalVisit": "30–60 minutes exterior + nave when open to visitors"
+    },
+    "related": [
+      "riga-dome",
+      "hallgrimskirkja",
+      "temppeliaukio"
+    ],
+    "overview": {
+      "body": [
+        "Alexander Nevsky Cathedral opens Estonia on SanctaWay as Tallinn’s Toompea Orthodox postcard — onion domes above Lossi plats, a working cathedral rather than a free Instagram dome-only stop, and not one ticket covering every Tallinn church.",
+        "Frame Soft CTA honesty: use Visit Estonia https://visitestonia.com/en/tallinn-alexander-nevsky-cathedral (curl-verified 200 + TLS) and Visit Tallinn attraction framing when published. Entry is often free / donation when open to visitors. Do not invent EUR. Prefer destination pages over OTA markups.",
+        "Soft blockers: liturgy reshapes nave access; Toompea event closures; Orthodox dress expectations (covered arms/legs; women often head cover). Do not invent a casual tourist timetable.",
+        "Gateway: walk from Tallinn Old Town up to Toompea; ferry / air gateway into Tallinn. Pair Old Town / Toompea without inventing one sacred pass for all churches.",
+        "Soft blockers to restate: liturgy; Toompea events; no Baltic densify-as-clone after Riga Dome; Toompea Orthodox postcard honesty. SanctaWay is informational — it does not sell tickets, invent fares, or grant access."
+      ],
+      "highlights": [
+        "Opens Estonia — Toompea Orthodox postcard cathedral",
+        "Soft Visit Estonia (+ Visit Tallinn) — do not invent EUR",
+        "Entry often free / donation when open",
+        "Liturgy interruptions — verify before you go",
+        "No Tallinn church one-pass myth"
+      ]
+    },
+    "visit": {
+      "intro": "Soft Visit Estonia / Visit Tallinn — free/donation when open; liturgy interruptions; do not invent EUR.",
+      "hours": "Verify https://visitestonia.com/en/tallinn-alexander-nevsky-cathedral before travel (200 + TLS). Working Orthodox cathedral — visit outside liturgy; do not invent a casual timetable from blogs.",
+      "tickets": "Entry often free / donation when open to visitors. Soft informational CTA Visit Estonia (+ Visit Tallinn attraction pages). Do not invent EUR. Prefer destination over OTAs. Not one ticket with every Tallinn church or with Riga Dome.",
+      "dress": "Active Orthodox cathedral — covered arms/legs; women head cover often expected; quiet; photography rules as posted; prayer-time interruptions.",
+      "duration": "30–60 minutes exterior + nave when open.",
+      "access": "Walk from Old Town to Toompea Lossi plats. Ferry / air into Tallinn. Toompea event closures can reshape plaza access.",
+      "tips": [
+        "Use Visit Estonia Soft CTA — do not invent EUR.",
+        "Plan around liturgy — do not force nave access during services.",
+        "Modest Orthodox dress; women often bring a head scarf.",
+        "Follow posted photography rules inside.",
+        "Pair Old Town walls separately — no Tallinn church one-pass.",
+        "Not a densify clone of Riga Dome — Estonia #1 postcard framing.",
+        "SanctaWay does not sell tickets or grant access."
+      ],
+      "entryType": "soft-official",
+      "ticketsUrl": "https://visitestonia.com/en/tallinn-alexander-nevsky-cathedral",
+      "ticketsLabel": "Nevsky Tallinn Soft Visit Estonia (+ Visit Tallinn) — free/donation when open; liturgy interruptions; do not invent EUR",
+      "ticketsNote": "Soft CTA 200+TLS0 Visit Estonia; liturgy/Toompea blockers; Orthodox dress; do not invent EUR."
+    },
+    "etiquette": {
+      "intro": "Living Orthodox cathedral — liturgy and dress respect.",
+      "bullets": [
+        "Quiet; yield space during services; do not tour through prayer.",
+        "Covered arms/legs; women often head cover.",
+        "Follow posted photography rules; no flash if posted.",
+        "Threshold Atlas tone: Estonia #1 Toompea Orthodox postcard — not Baltic cathedral densify clone."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Alexander Nevsky on Toompea.",
+      "paragraphs": [
+        "Most visitors walk from Tallinn Old Town up to Toompea and Lossi plats; ferry and air gateways feed the Old Town base.",
+        "Treat other Tallinn churches and Toompea castle tourism as separate stops — not a single sacred combo ticket.",
+        "Event days on Toompea can reshape plaza access — confirm local notice."
+      ],
+      "bullets": [
+        "Walk Old Town → Toompea Lossi plats",
+        "Ferry / air gateway into Tallinn",
+        "No Tallinn church one-pass myth",
+        "Watch Toompea event closures"
+      ]
+    },
+    "bestTime": {
+      "intro": "Outside liturgy for nave; clear light for onion-dome exterior.",
+      "paragraphs": [
+        "Exterior photos work most clear days; nave visits need liturgy-aware timing via destination / parish notice.",
+        "Summer cruise densifies Toompea — shoulder weekdays are calmer when open."
+      ],
+      "bullets": [
+        "Best: clear day outside liturgy",
+        "Watch service windows",
+        "Soft Visit Estonia — stick to destination pages",
+        "Do not invent EUR / Tallinn combo"
+      ]
+    },
+    "notes": {
+      "intro": "SanctaWay Threshold Atlas notes — Estonia #1 Toompea Orthodox postcard.",
+      "bullets": [
+        "Opens Estonia — Alexander Nevsky as Toompea cathedral.",
+        "Soft Visit Estonia / Visit Tallinn — do not invent EUR.",
+        "Soft blockers: liturgy; Toompea events; no Baltic densify clone.",
+        "SanctaWay does not sell tickets, invent visa myths, or grant access."
+      ]
+    }
+  },
+  {
+    "id": "notre-dame-luxembourg",
+    "name": "Notre-Dame Cathedral / Cathédrale Notre-Dame, Luxembourg City",
+    "shortName": "Notre-Dame Luxembourg",
+    "location": "Rue Notre-Dame, Luxembourg City, Luxembourg",
+    "country": "Luxembourg",
+    "region": "Europe",
+    "regionSlug": "europe",
+    "religions": [
+      "Christian"
+    ],
+    "religionSlugs": [
+      "christian"
+    ],
+    "summary": "Luxembourg’s only cathedral; Consolatrix Afflictorum + Grand Ducal crypt (opens Luxembourg). Soft Visit Luxembourg. Free nave. MUST ≠ Paris notre-dame. Do not invent EUR.",
+    "heroImage": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Jesuit church origins 17th c.; elevated as Luxembourg’s cathedral; Consolatrix Afflictorum devotion + Grand Ducal crypt",
+      "patron": "Christian — Catholic national cathedral (Notre-Dame / Consolatrix Afflictorum)",
+      "unesco": "Not a World Heritage property; Luxembourg national cathedral landmark",
+      "typicalVisit": "45–90 minutes nave (+ crypt windows when published open)"
+    },
+    "related": [
+      "koekelberg",
+      "notre-dame-dafrique",
+      "chartres"
+    ],
+    "overview": {
+      "body": [
+        "Notre-Dame Luxembourg opens Luxembourg on SanctaWay as the country’s only cathedral — Consolatrix Afflictorum devotion and the Grand Ducal crypt in Luxembourg City’s centre — not Paris Notre-Dame, not Notre-Dame d’Afrique, and not one pass covering every Luxembourg church.",
+        "Frame Soft CTA honesty: use Visit Luxembourg https://www.visitluxembourg.com/place/cathedrale-notre-dame (curl-verified 200 + TLS; published Mon–Sat / Sunday windows on the place page). Nave visit is free when open. Optional city audio products (Sightseeing.lu class) are Soft secondary only — do not invent EUR beyond published audio prices. Proprietary cathedrale.lu was soft this pass — unused. Prefer Visit Luxembourg over OTA markups.",
+        "Soft blockers: Octave pilgrimage crush; crypt access windows; Mass reshapes nave. Do not merge Paris Notre-Dame tickets or related framing as the same shrine.",
+        "Gateway: walk to Rue Notre-Dame in Luxembourg City; train / air gateway. Pair Old Town / Bock without inventing one sacred pass for all Luxembourg churches.",
+        "Soft blockers to restate: Octave crush; crypt windows; Paris disambiguation; national-cathedral honesty. SanctaWay is informational — it does not sell tickets, invent fares, or grant access."
+      ],
+      "highlights": [
+        "Opens Luxembourg — national cathedral + Consolatrix / Grand Ducal crypt",
+        "Soft Visit Luxembourg — free nave; optional audio Soft secondary",
+        "MUST ≠ live Paris notre-dame (different id / different tickets)",
+        "Proprietary cathedrale.lu soft — unused",
+        "No Luxembourg church one-pass myth"
+      ]
+    },
+    "visit": {
+      "intro": "Soft Visit Luxembourg — free nave when open; optional audio Soft; NEVER merge Paris Notre-Dame tickets.",
+      "hours": "Verify https://www.visitluxembourg.com/place/cathedrale-notre-dame before travel (200 + TLS; published weekday / Sunday windows). Working national cathedral — Mass and Octave reshape access. Do not use Paris Notre-Dame hours.",
+      "tickets": "Nave visit free when open. Soft primary CTA Visit Luxembourg place page. Optional Sightseeing.lu audio is Soft secondary only — do not invent EUR. Proprietary cathedrale.lu soft — unused. NEVER use Paris Notre-Dame (notre-dame) ticket URLs. Not one ticket with every Luxembourg church.",
+      "dress": "Active Catholic national cathedral — modest dress; quiet; crypt / Grand Ducal burial honesty; photography rules as posted.",
+      "duration": "45–90 minutes nave; longer if crypt windows are open.",
+      "access": "Walk to Rue Notre-Dame from Luxembourg City centre. Train / air gateway. Octave and crypt windows reshape access.",
+      "tips": [
+        "Use Visit Luxembourg Soft CTA — do not invent EUR.",
+        "This is NOT Paris Notre-Dame — different live id, different tickets.",
+        "Also not Notre-Dame d’Afrique — related peer only, not same shrine.",
+        "Modest dress; quiet in nave and crypt.",
+        "Octave pilgrimage densifies — verify week calendar.",
+        "Pair Old Town / Bock separately — no one-pass.",
+        "SanctaWay does not sell tickets or grant access."
+      ],
+      "entryType": "soft-official",
+      "ticketsUrl": "https://www.visitluxembourg.com/place/cathedrale-notre-dame",
+      "ticketsLabel": "Notre-Dame Luxembourg Soft Visit Luxembourg — free nave; optional audio Soft; ≠ Paris Notre-Dame tickets; do not invent EUR",
+      "ticketsNote": "Soft CTA 200+TLS0 Visit Luxembourg; free nave; cathedrale.lu soft unused; MUST ≠ Paris notre-dame tickets; do not invent EUR."
+    },
+    "etiquette": {
+      "intro": "Living national cathedral — nave, Octave, and crypt respect.",
+      "bullets": [
+        "Quiet in the nave; yield space during Mass and Octave.",
+        "Modest dress; follow crypt photography and access rules.",
+        "Do not confuse with Paris Notre-Dame visit products.",
+        "Threshold Atlas tone: Luxembourg #1 national cathedral — Consolatrix honesty."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Notre-Dame Cathedral in Luxembourg City.",
+      "paragraphs": [
+        "Most visitors walk to Rue Notre-Dame from Luxembourg City centre; train and air gateways feed the capital.",
+        "Treat Old Town, Bock, and other churches as separate stops — not a single sacred combo ticket.",
+        "Octave and crypt windows reshape access — confirm Visit Luxembourg before you go."
+      ],
+      "bullets": [
+        "Walk to Rue Notre-Dame, Luxembourg City",
+        "Train / air gateway",
+        "No Luxembourg church one-pass myth",
+        "≠ Paris Notre-Dame logistics"
+      ]
+    },
+    "bestTime": {
+      "intro": "Weekdays outside Octave for calm nave; verify Visit Luxembourg hours.",
+      "paragraphs": [
+        "Published Mon–Sat / Sunday windows on Visit Luxembourg are orientation only — re-check the day you go.",
+        "Octave pilgrimage densifies the cathedral — plan around parish notice."
+      ],
+      "bullets": [
+        "Best: clear weekday outside Octave",
+        "Watch Mass / crypt windows",
+        "Soft Visit Luxembourg — stick to destination pages",
+        "Do not invent EUR / Paris ticket merge"
+      ]
+    },
+    "notes": {
+      "intro": "SanctaWay Threshold Atlas notes — Luxembourg #1 national cathedral.",
+      "bullets": [
+        "Opens Luxembourg — Notre-Dame as only national cathedral.",
+        "Soft Visit Luxembourg — free nave; do not invent EUR.",
+        "MUST ≠ Paris notre-dame and ≠ notre-dame-dafrique as same shrine.",
+        "SanctaWay does not sell tickets, invent visa myths, or grant access."
+      ]
+    }
+  },
+  {
+    "id": "nizamiye-mosque",
+    "name": "Nizamiye Mosque / Nizamiye Masjid, Midrand",
+    "shortName": "Nizamiye Mosque",
+    "location": "Cnr Le Roux Ave & Old Pretoria Rd, Midrand, Gauteng, South Africa",
+    "country": "South Africa",
+    "region": "Africa",
+    "regionSlug": "africa",
+    "religions": [
+      "Islamic"
+    ],
+    "religionSlugs": [
+      "islamic"
+    ],
+    "summary": "Southern-hemisphere Ottoman-style mega mosque complex in Midrand (opens South Africa). Soft nizamiyecomplex.co.za ONLY — NEVER nizamiye.org.za. Do not invent ZAR.",
+    "heroImage": "https://images.unsplash.com/photo-1433086966358-54859d0ed716?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Opened 2012 as Ottoman-inspired mosque + education / clinic complex in Midrand, Gauteng",
+      "patron": "Islamic — Sunni mosque complex (Nizamiye)",
+      "unesco": "Not a World Heritage property; Gauteng tourism landmark mega mosque",
+      "typicalVisit": "1–2 hours exterior + arranged hall / complex visit when open"
+    },
+    "related": [
+      "sheikh-zayed-grand-mosque",
+      "blue-mosque",
+      "hassan-ii-mosque"
+    ],
+    "overview": {
+      "body": [
+        "Nizamiye Mosque opens South Africa on SanctaWay as Midrand’s southern-hemisphere Ottoman-style mega mosque complex — a living mosque with school and clinic neighbours, not a free Instagram dome-only stop and not one sacred pass covering Cape Town densify.",
+        "Frame Soft CTA honesty: use https://nizamiyecomplex.co.za/ (curl-verified 200 + TLS) and Visit Gauteng Midrand https://visit.gauteng.net/visit/midrand-gn (200 + TLS). Tours are often free / donation / arranged. Do not invent ZAR. NEVER link nizamiye.org.za (maintenance / Coming Soon class — do not use even if it intermittently returns 200).",
+        "Soft blockers: Friday prayer reshapes hall access; tour booking phone culture; respect school/clinic complex neighbours. Auwal Cape Town stays parked (TLS fail).",
+        "Gateway: car / ride-hail to Le Roux Ave / Old Pretoria Rd, Midrand (Johannesburg–Pretoria corridor); OR Tambo air gateway. Pair Gauteng without inventing one sacred combo for all South Africa mosques.",
+        "Soft blockers to restate: Friday closures; phone-arranged tours; NEVER .org.za; Midrand mega-mosque honesty. SanctaWay is informational — it does not sell tickets, invent fares, or grant access."
+      ],
+      "highlights": [
+        "Opens South Africa — Midrand Ottoman-style mega mosque complex",
+        "Soft nizamiyecomplex.co.za ONLY — NEVER nizamiye.org.za",
+        "Visit Gauteng Midrand Soft secondary",
+        "Tours often free / donation / arranged — do not invent ZAR",
+        "No Cape Town densify / Auwal parked"
+      ]
+    },
+    "visit": {
+      "intro": "Soft nizamiyecomplex.co.za — NEVER .org.za; tours free/donation/arranged; do not invent ZAR.",
+      "hours": "Verify https://nizamiyecomplex.co.za/ and Visit Gauteng Midrand before travel (both 200 + TLS). Living mosque — Friday prayer reshapes hall access; arrange visit courtesy where asked. Do not invent a casual timetable.",
+      "tickets": "Tours often free / donation / arranged. Soft CTA https://nizamiyecomplex.co.za/ (+ Visit Gauteng Midrand). Do not invent ZAR. NEVER use nizamiye.org.za (maintenance). Prefer complex site over OTAs. Not one ticket with Cape Town mosques.",
+      "dress": "Active mosque — covered arms/legs; women hair cover; shoes off; quiet; photography rules as posted; respect school/clinic neighbours.",
+      "duration": "1–2 hours exterior + arranged hall visit when open.",
+      "access": "Car / ride-hail Midrand (Le Roux / Old Pretoria). OR Tambo gateway. Friday and arranged-tour windows reshape access.",
+      "tips": [
+        "Use nizamiyecomplex.co.za Soft CTA only.",
+        "NEVER open or link nizamiye.org.za (maintenance).",
+        "Arrange visit courtesy where the complex asks — phone culture.",
+        "Modest mosque dress; shoes off; women hair cover.",
+        "Avoid peak Friday prayer as a casual tourist push.",
+        "Pair Gauteng tourism separately — no SA mosque one-pass.",
+        "SanctaWay does not sell tickets or grant access."
+      ],
+      "entryType": "soft-official",
+      "ticketsUrl": "https://nizamiyecomplex.co.za/",
+      "ticketsLabel": "Nizamiye Soft nizamiyecomplex.co.za (+ Visit Gauteng Midrand) — NEVER nizamiye.org.za; do not invent ZAR",
+      "ticketsNote": "Soft CTA 200+TLS0 nizamiyecomplex.co.za; NEVER .org.za maintenance; Friday/tour blockers; do not invent ZAR."
+    },
+    "etiquette": {
+      "intro": "Living mosque complex — prayer hall and neighbour respect.",
+      "bullets": [
+        "Shoes off; covered dress; women hair cover as expected.",
+        "Quiet; do not tour through Friday prayer.",
+        "Respect school and clinic neighbours on the complex.",
+        "Threshold Atlas tone: South Africa #1 Midrand mega mosque — not Cape Town densify."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Nizamiye in Midrand, Gauteng.",
+      "paragraphs": [
+        "Most visitors drive or ride-hail to the Midrand complex on the Johannesburg–Pretoria corridor (Le Roux Ave / Old Pretoria Rd).",
+        "OR Tambo is the usual air gateway; treat Cape Town mosques as separate trips — not a densify combo.",
+        "Friday and arranged-tour windows reshape hall access — confirm with the complex."
+      ],
+      "bullets": [
+        "Car / ride-hail Midrand corridor",
+        "OR Tambo air gateway",
+        "No SA mosque one-pass / Auwal parked",
+        "Arrange tours via complex — not .org.za"
+      ]
+    },
+    "bestTime": {
+      "intro": "Daylight outside Friday prayer peak; verify complex notice.",
+      "paragraphs": [
+        "Daylight visits outside peak Friday prayer are usually easier for visitor courtesy — still verify nizamiyecomplex.co.za.",
+        "School/clinic activity on the complex means quiet neighbourly conduct every day."
+      ],
+      "bullets": [
+        "Best: daylight outside Friday peak",
+        "Watch prayer windows",
+        "Soft complex.co.za only — never .org.za",
+        "Do not invent ZAR"
+      ]
+    },
+    "notes": {
+      "intro": "SanctaWay Threshold Atlas notes — South Africa #1 Midrand mega mosque.",
+      "bullets": [
+        "Opens South Africa — Nizamiye as Midrand Ottoman-style complex.",
+        "Soft nizamiyecomplex.co.za ONLY — NEVER nizamiye.org.za.",
+        "Soft blockers: Friday; phone tours; Auwal Cape Town parked.",
+        "SanctaWay does not sell tickets, invent visa myths, or grant access."
+      ]
+    }
+  },
+  {
+    "id": "metropolitan-cathedral-san-salvador",
+    "name": "Metropolitan Cathedral of San Salvador / Catedral Metropolitana",
+    "shortName": "San Salvador Metropolitan Cathedral",
+    "location": "Plaza Barrios, Centro Histórico, San Salvador, El Salvador",
+    "country": "El Salvador",
+    "region": "Americas",
+    "regionSlug": "americas",
+    "religions": [
+      "Christian"
+    ],
+    "religionSlugs": [
+      "christian"
+    ],
+    "summary": "National cathedral; Óscar Romero tomb pilgrimage (opens El Salvador). Soft El Salvador Travel home. Deep place paths thin. Do not invent USD. Divina Providencia is separate.",
+    "heroImage": "https://images.unsplash.com/photo-1447752875215-b2761acb3c5d?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "National metropolitan cathedral on Plaza Barrios; modern rebuild layers; Archbishop Óscar Romero tomb pilgrimage site",
+      "patron": "Christian — Catholic metropolitan / national cathedral (San Salvador)",
+      "unesco": "Not a World Heritage property; national cathedral + Romero pilgrimage landmark",
+      "typicalVisit": "45–90 minutes nave + tomb when open"
+    },
+    "related": [
+      "basilica-higuey",
+      "leon-cathedral-nicaragua",
+      "cartago-basilica"
+    ],
+    "overview": {
+      "body": [
+        "The Metropolitan Cathedral of San Salvador opens El Salvador on SanctaWay as the national cathedral on Plaza Barrios — including the Óscar Romero tomb pilgrimage — not a doom-tourism stop and not one ticket merged with Divina Providencia (assassination chapel is a separate site).",
+        "Frame Soft CTA honesty: use El Salvador Travel https://elsalvador.travel/en/ (curl-verified 200 + TLS). Deep place paths returned 404 this pass; archdiocese / beatooscarromero proprietary hosts were soft — Soft tourism home only, or treat as informational. Nave / tomb generally free / donation. Do not invent USD.",
+        "Soft blockers: deep tourism URLs thin; feast-day crush; urban security honesty without doom framing; Mass and tomb visit windows via parish / tourism notice.",
+        "Gateway: walk / taxi to cathedral plaza from San Salvador centre; air gateway. Pair Divina Providencia honestly as a separate pilgrimage stop — do not merge tickets.",
+        "Soft blockers to restate: thin deep URLs; feast crush; Romero-tomb honesty; Panama peer not densify. SanctaWay is informational — it does not sell tickets, invent fares, or grant access."
+      ],
+      "highlights": [
+        "Opens El Salvador — national cathedral + Romero tomb",
+        "Soft El Salvador Travel home — deep paths thin",
+        "Nave / tomb generally free / donation — do not invent USD",
+        "Divina Providencia is a separate site — no ticket merge",
+        "No Central America densify one-pass"
+      ]
+    },
+    "visit": {
+      "intro": "Soft El Salvador Travel — free/donation nave + Romero tomb; deep paths thin; do not invent USD.",
+      "hours": "Verify https://elsalvador.travel/en/ and parish notice before travel (tourism home 200 + TLS; deep place paths thin/404 this pass). Working national cathedral — Mass and tomb windows reshape access.",
+      "tickets": "Nave / tomb generally free / donation. Soft informational CTA El Salvador Travel home. Do not invent USD. Archdiocese proprietary soft — unused as primary. Not one ticket with Divina Providencia or every Central America cathedral.",
+      "dress": "Active Catholic national cathedral + tomb pilgrimage — modest dress; quiet at crypt; security / urban honesty without doom tourism.",
+      "duration": "45–90 minutes nave + tomb.",
+      "access": "Walk / taxi to Plaza Barrios, Centro Histórico. Air gateway into San Salvador. Feast days densify the plaza.",
+      "tips": [
+        "Use El Salvador Travel Soft CTA — deep place URLs may 404.",
+        "Quiet at Romero tomb; modest dress.",
+        "Divina Providencia is separate — do not merge tickets.",
+        "Do not invent USD desk fees.",
+        "Urban security honesty without doom-tourism framing.",
+        "Pair Panama / Nicaragua peers as different countries — not densify.",
+        "SanctaWay does not sell tickets or grant access."
+      ],
+      "entryType": "soft-official",
+      "ticketsUrl": "https://elsalvador.travel/en/",
+      "ticketsLabel": "San Salvador Soft El Salvador Travel home — free/donation; deep paths thin; do not invent USD",
+      "ticketsNote": "Soft CTA 200+TLS0 elsalvador.travel/en; deep paths 404; Romero tomb honesty; Divina Providencia separate; do not invent USD."
+    },
+    "etiquette": {
+      "intro": "Living national cathedral and tomb pilgrimage — quiet respect.",
+      "bullets": [
+        "Quiet at Romero tomb; yield space during Mass.",
+        "Modest dress; follow posted photography rules.",
+        "Do not treat Divina Providencia as the same ticketed stop.",
+        "Threshold Atlas tone: El Salvador #1 national cathedral — pilgrimage honesty, not doom tourism."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach the Metropolitan Cathedral in San Salvador.",
+      "paragraphs": [
+        "Most visitors take a taxi or walk to Plaza Barrios in the historic centre; the international airport feeds the capital.",
+        "Treat Divina Providencia and other churches as separate pilgrimage stops — not a single sacred combo ticket.",
+        "Feast days reshape plaza access — confirm local notice."
+      ],
+      "bullets": [
+        "Taxi / walk to Plaza Barrios",
+        "Air gateway into San Salvador",
+        "Divina Providencia separate",
+        "Feast-day crush honesty"
+      ]
+    },
+    "bestTime": {
+      "intro": "Weekdays for calmer nave / tomb; verify parish and tourism notice.",
+      "paragraphs": [
+        "Weekday mornings are often calmer for tomb visits — still verify Mass times.",
+        "Major commemorations densify the cathedral — plan early or re-check."
+      ],
+      "bullets": [
+        "Best: clear weekday for nave + tomb",
+        "Watch Mass / feast crush",
+        "Soft tourism home — deep paths thin",
+        "Do not invent USD"
+      ]
+    },
+    "notes": {
+      "intro": "SanctaWay Threshold Atlas notes — El Salvador #1 national cathedral.",
+      "bullets": [
+        "Opens El Salvador — Metropolitan Cathedral + Romero tomb.",
+        "Soft El Salvador Travel — deep paths thin; do not invent USD.",
+        "Soft blockers: feast crush; Divina Providencia separate; no densify.",
+        "SanctaWay does not sell tickets, invent visa myths, or grant access."
+      ]
+    }
+  },
+  {
+    "id": "metropolitan-cathedral-panama",
+    "name": "Metropolitan Cathedral of Panama / Catedral Basílica Santa María la Antigua, Casco Viejo",
+    "shortName": "Panama Metropolitan Cathedral",
+    "location": "Plaza de la Independencia, Casco Viejo, Panama City, Panama",
+    "country": "Panama",
+    "region": "Americas",
+    "regionSlug": "americas",
+    "religions": [
+      "Christian"
+    ],
+    "religionSlugs": [
+      "christian"
+    ],
+    "summary": "National cathedral on Casco Viejo UNESCO historic district plaza (opens Panama). Soft ATP tourism home. Proprietary cathedral soft. Do not invent USD/PAB.",
+    "heroImage": "https://images.unsplash.com/photo-1426604966848-d7adac402bff?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Colonial-origin metropolitan cathedral on Casco Viejo plaza; national cathedral / basilica of Santa María la Antigua",
+      "patron": "Christian — Catholic metropolitan / national cathedral (Panama)",
+      "unesco": "Within Archaeological Site of Panamá Viejo and Historic District of Panamá (Casco Viejo) World Heritage context",
+      "typicalVisit": "45–90 minutes nave + Casco plaza when open"
+    },
+    "related": [
+      "metropolitan-cathedral-san-salvador",
+      "basilica-higuey",
+      "leon-cathedral-nicaragua"
+    ],
+    "overview": {
+      "body": [
+        "The Metropolitan Cathedral of Panama opens Panama on SanctaWay as the national cathedral on Plaza de la Independencia in Casco Viejo’s UNESCO historic district — a living cathedral plaza stop, not a Canal combo ticket and not one pass covering every Panama church.",
+        "Frame Soft CTA honesty: use ATP https://www.atp.gob.pa/ (curl-verified 200 + TLS). Proprietary cathedral / cascoantiguo hosts were soft this pass — Soft ATP informational home. Nave generally free / donation. Do not invent USD/PAB.",
+        "Soft blockers: Casco event closures; proprietary TLS soft; heat / humidity honesty; Mass reshapes nave.",
+        "Gateway: walk Casco Viejo plaza; Metro / taxi from modern centre; Tocumen air gateway. Pair Canal tourism separately — do not invent one sacred–Canal pass.",
+        "Soft blockers to restate: Casco events; proprietary soft; El Salvador peer not densify; Casco UNESCO-district honesty. SanctaWay is informational — it does not sell tickets, invent fares, or grant access."
+      ],
+      "highlights": [
+        "Opens Panama — Casco Viejo national cathedral",
+        "Soft ATP tourism home — proprietary cathedral soft",
+        "Nave generally free / donation — do not invent USD/PAB",
+        "UNESCO historic district plaza context",
+        "No Canal sacred one-pass myth"
+      ]
+    },
+    "visit": {
+      "intro": "Soft ATP — free/donation nave; proprietary cathedral soft; do not invent USD/PAB.",
+      "hours": "Verify https://www.atp.gob.pa/ and parish notice before travel (ATP 200 + TLS; proprietary cathedral soft this pass). Working national cathedral — Mass and Casco events reshape access.",
+      "tickets": "Nave generally free / donation. Soft informational CTA ATP home. Do not invent USD/PAB. Proprietary cathedral / cascoantiguo soft — unused as primary. Not one ticket with Canal tourism or every Central America cathedral.",
+      "dress": "Active Catholic national cathedral — modest dress; heat / humidity honesty; quiet; photography rules as posted.",
+      "duration": "45–90 minutes nave + plaza.",
+      "access": "Walk Casco Viejo to Plaza de la Independencia; Metro / taxi from modern Panama City; Tocumen gateway. Casco event closures reshape plaza access.",
+      "tips": [
+        "Use ATP Soft CTA — proprietary cathedral soft unused.",
+        "Modest dress; quiet during Mass.",
+        "Heat / humidity — carry water; pace Casco walks.",
+        "Canal tourism is separate — no sacred–Canal one-pass.",
+        "Do not invent USD/PAB desk fees.",
+        "El Salvador peer is a different country open — not densify.",
+        "SanctaWay does not sell tickets or grant access."
+      ],
+      "entryType": "soft-official",
+      "ticketsUrl": "https://www.atp.gob.pa/",
+      "ticketsLabel": "Panama Soft ATP tourism home — free/donation; proprietary cathedral soft; do not invent USD/PAB",
+      "ticketsNote": "Soft CTA 200+TLS0 atp.gob.pa; proprietary soft; Casco UNESCO plaza honesty; no Canal one-pass; do not invent USD/PAB."
+    },
+    "etiquette": {
+      "intro": "Living national cathedral on Casco plaza — liturgy and heat honesty.",
+      "bullets": [
+        "Quiet in the nave; yield space during Mass.",
+        "Modest dress; follow posted photography rules.",
+        "Do not invent Canal combo sacred tickets.",
+        "Threshold Atlas tone: Panama #1 Casco national cathedral — UNESCO-district honesty."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach the Metropolitan Cathedral in Casco Viejo.",
+      "paragraphs": [
+        "Most visitors walk Casco Viejo to Plaza de la Independencia, or take Metro / taxi from the modern centre; Tocumen feeds Panama City.",
+        "Treat Canal and other churches as separate stops — not a single sacred combo ticket.",
+        "Casco events can close or densify the plaza — confirm local notice."
+      ],
+      "bullets": [
+        "Walk / Metro / taxi to Casco plaza",
+        "Tocumen air gateway",
+        "No Canal sacred one-pass",
+        "Casco event closure honesty"
+      ]
+    },
+    "bestTime": {
+      "intro": "Morning for cooler Casco walks; verify Mass and event calendars.",
+      "paragraphs": [
+        "Mornings are usually cooler for Casco Viejo walks; still verify Mass times.",
+        "Festival and event days densify the plaza — re-check ATP / parish notice."
+      ],
+      "bullets": [
+        "Best: morning nave + plaza",
+        "Watch Mass / Casco events",
+        "Soft ATP — proprietary soft",
+        "Do not invent USD/PAB"
+      ]
+    },
+    "notes": {
+      "intro": "SanctaWay Threshold Atlas notes — Panama #1 Casco national cathedral.",
+      "bullets": [
+        "Opens Panama — Metropolitan Cathedral on Casco Viejo plaza.",
+        "Soft ATP — proprietary soft; do not invent USD/PAB.",
+        "Soft blockers: Casco events; no Canal one-pass; El Salvador not densify.",
+        "SanctaWay does not sell tickets, invent visa myths, or grant access."
+      ]
+    }
+  },
+  {
+    "id": "kilwa-kisiwani",
+    "name": "Kilwa Kisiwani (Great Mosque ruins), Lindi Region",
+    "shortName": "Kilwa Kisiwani",
+    "location": "Kilwa Kisiwani island, Lindi Region, Tanzania",
+    "country": "Tanzania",
+    "region": "Africa",
+    "regionSlug": "africa",
+    "religions": [
+      "Islamic"
+    ],
+    "religionSlugs": [
+      "islamic"
+    ],
+    "summary": "UNESCO Swahili port ruins + Great Mosque (opens Tanzania). Soft TTB home — deep HTML thin. Do not invent TZS/USD. Boat / fee ambiguity honesty.",
+    "heroImage": "https://images.unsplash.com/photo-1475924156734-496f6cac6ec1?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Medieval Swahili port city; Great Mosque and palace ruins; UNESCO World Heritage with Songo Mnara",
+      "patron": "Islamic — historic Swahili Great Mosque ruins / sacred heritage coast",
+      "unesco": "Ruins of Kilwa Kisiwani and Ruins of Songo Mnara — UNESCO World Heritage",
+      "typicalVisit": "Half-day island ruins visit including boat transfer class (verify local schedules)"
+    },
+    "related": [
+      "kairouan",
+      "larabanga-mosque",
+      "sixty-dome-mosque"
+    ],
+    "overview": {
+      "body": [
+        "Kilwa Kisiwani opens Tanzania on SanctaWay as the UNESCO Swahili port ruins — including the Great Mosque remains on the Lindi Region coast — outdoor heritage, not a casual Instagram ruin scramble and not one ticket covering Zanzibar densify.",
+        "Frame Soft CTA honesty: use Tanzania Tourist Board https://tanzaniatourism.go.tz/en (curl-verified 200 + TLS). Attractions/destination paths also 200 + TLS this pass but deep HTML is thin — Soft TTB home informational. Antiquities desk fees circulate locally — do not invent TZS or USD. UNESCO WHC returned 403 this pass — unused as CTA.",
+        "Soft blockers: boat weather and tide schedules; fee ambiguity at antiquities desks; heat / malaria-season honesty; fragile masonry — no climbing.",
+        "Gateway: road / boat access via Kilwa Masoko to the island; longer Dar air / bus approaches. Pair Swahili coast without inventing one Zanzibar densify pass. Djenné stays soft-parked as related.",
+        "Soft blockers to restate: boat weather; fee ambiguity; thin deep tourism HTML; Great Mosque ruins honesty. SanctaWay is informational — it does not sell tickets, invent fares, or grant access."
+      ],
+      "highlights": [
+        "Opens Tanzania — UNESCO Swahili ruins + Great Mosque",
+        "Soft TTB home — deep HTML thin; UNESCO WHC 403 unused",
+        "Do not invent TZS/USD antiquities fees",
+        "Boat / tide access honesty",
+        "No Zanzibar densify / Djenné stays parked"
+      ]
+    },
+    "visit": {
+      "intro": "Soft TTB home — deep HTML thin; boat/fee ambiguity; do not invent TZS.",
+      "hours": "Outdoor ruins — daylight. Verify https://tanzaniatourism.go.tz/en and local antiquities / boat notice before travel (TTB 200 + TLS; deep HTML thin). Tide and boat schedules reshape access.",
+      "tickets": "Antiquities desk fees circulate — Soft informational CTA TTB home only. Do not invent TZS or USD. UNESCO WHC 403 this pass — unused. Prefer TTB orientation over OTAs inventing packages. Not one ticket with Zanzibar densify.",
+      "dress": "Historic islamic sacred ruins — modest dress; no climbing fragile masonry; shoes / path honesty; photography rules as posted; respect living village guides.",
+      "duration": "Half-day including boat transfer class when schedules allow.",
+      "access": "Road / boat via Kilwa Masoko; longer approaches from Dar. Boat weather and tides reshape island access. Heat / malaria-season preparation matters.",
+      "tips": [
+        "Use TTB Soft CTA — deep attractions HTML may be thin.",
+        "Do not invent TZS/USD desk fees from blogs.",
+        "Never climb fragile Great Mosque / palace masonry.",
+        "Modest dress; hire local guides respectfully.",
+        "Boat weather can cancel — build slack days.",
+        "Zanzibar is a different densify — not this page’s combo.",
+        "SanctaWay does not sell tickets or grant access."
+      ],
+      "entryType": "soft-official",
+      "ticketsUrl": "https://tanzaniatourism.go.tz/en",
+      "ticketsLabel": "Kilwa Soft TTB home — deep HTML thin; boat/fee ambiguity; do not invent TZS/USD",
+      "ticketsNote": "Soft CTA 200+TLS0 tanzaniatourism.go.tz/en; deep HTML thin; UNESCO WHC 403 unused; no invent TZS; boat/tide blockers."
+    },
+    "etiquette": {
+      "intro": "Historic islamic ruins and living coastal community — fabric and guide respect.",
+      "bullets": [
+        "No climbing fragile masonry; stay on paths.",
+        "Modest dress; quiet at Great Mosque remains.",
+        "Pay posted antiquities fees honestly — do not invent amounts in advance.",
+        "Threshold Atlas tone: Tanzania #1 UNESCO Swahili — ruins honesty, not scramble tourism."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Kilwa Kisiwani from the Lindi coast.",
+      "paragraphs": [
+        "Most visitors reach Kilwa Masoko by road, then take a boat to Kilwa Kisiwani island; Dar es Salaam air / bus approaches are longer.",
+        "Treat Zanzibar and other Swahili sites as separate trips — not a single densify combo ticket.",
+        "Tide and weather cancel boats — confirm local schedules the morning you go."
+      ],
+      "bullets": [
+        "Road to Kilwa Masoko + boat to island",
+        "Longer Dar approaches",
+        "No Zanzibar densify one-pass",
+        "Tide / weather cancel risk"
+      ]
+    },
+    "bestTime": {
+      "intro": "Dry-season daylight with calm seas; always verify boat and fee notice.",
+      "paragraphs": [
+        "Calmer seas and clearer paths help ruin visits — still verify local boat and antiquities notice.",
+        "Rain and rough water cancel crossings — build flexibility."
+      ],
+      "bullets": [
+        "Best: dry-season daylight + calm boat",
+        "Watch tide / weather cancels",
+        "Soft TTB — deep HTML thin",
+        "Do not invent TZS"
+      ]
+    },
+    "notes": {
+      "intro": "SanctaWay Threshold Atlas notes — Tanzania #1 UNESCO Swahili ruins.",
+      "bullets": [
+        "Opens Tanzania — Kilwa Kisiwani Great Mosque ruins.",
+        "Soft TTB home — deep HTML thin; do not invent TZS.",
+        "Soft blockers: boat weather; fee ambiguity; Djenné parked; no Zanzibar densify.",
         "SanctaWay does not sell tickets, invent visa myths, or grant access."
       ]
     }

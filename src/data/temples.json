@@ -28,7 +28,7 @@
     "related": [
       "borobudur",
       "bayon",
-      "ta-prohm"
+      "vat-phou"
     ],
     "overview": {
       "body": [
@@ -1175,7 +1175,7 @@
     "related": [
       "blue-mosque",
       "hassan-ii-mosque",
-      "suleymaniye-mosque"
+      "selimiye-mosque"
     ],
     "overview": {
       "body": [
@@ -1983,7 +1983,7 @@
       "body": [
         "Wong Tai Sin Temple (Sik Sik Yuen) is among Hong Kong’s most visited working temples — courtyards, pavilions, incense, and kau chim (fortune sticks) a short walk from the MTR station that shares its name.",
         "Main temple grounds are free. Optional halls such as Taisui Yuenchen Hall publish separate admission on the official FAQ (commonly HK$100, with concessions) — verify current rates. Donations support Sik Sik Yuen’s charitable work.",
-        "Hours typically 7:30am–4:30pm daily, often later on lunar 1st and 15th (commonly to 9:00pm). Good Wish Garden and office hours can differ — check http://www.wongtaisintemple.org.hk/en/about-wong-tai-sin (HTTPS on that host returns 404).",
+        "Hours typically 7:30am–4:30pm daily, often later on lunar 1st and 15th (commonly to 9:00pm). Good Wish Garden and office hours can differ. Sik Sik Yuen’s own site is not reliably reachable (HTTPS on that host returns 404) — confirm hours and any optional hall fee at the temple.",
         "Expect dense crowds on festival and lunar days. Dress modestly in halls; follow attendants on incense and photography. Fortune-telling arcades nearby are commercial; the temple courtyards themselves remain the spiritual core — keep the two mentally separate.",
         "Pair with nearby Chi Lin Nunnery / Nan Lian Garden for a Kowloon sacred half-day if energy remains."
       ],
@@ -1992,13 +1992,13 @@
         "MTR Wong Tai Sin Exit B2 ~3 minutes",
         "Hours often 7:30–16:30; later on lunar 1st/15th",
         "Active kau chim and incense culture",
-        "Official Sik Sik Yuen FAQ for fees"
+        "Optional hall fees — confirm at the temple"
       ]
     },
     "visit": {
-      "intro": "Main grounds free; confirm optional hall fees on the official FAQ.",
-      "hours": "Temple typically 7:30am–4:30pm daily; lunar 1st/15th often to 9:00pm. Garden/office windows differ — verify http://www.wongtaisintemple.org.hk/en/about-wong-tai-sin",
-      "tickets": "Main temple free. Taisui Yuenchen Hall fee listed on official FAQ (commonly HK$100; concessions exist) — confirm live. Prayer/service fees may apply separately.",
+      "intro": "Main grounds free. Optional hall fees — the Sik Sik Yuen site is not reliably reachable, so confirm the rate at the temple.",
+      "hours": "Temple typically 7:30am–4:30pm daily; lunar 1st/15th often to 9:00pm. Garden/office windows differ. Sik Sik Yuen’s site is not reliably reachable — confirm hours at the temple.",
+      "tickets": "Main temple free. Taisui Yuenchen Hall fee was listed on the Sik Sik Yuen FAQ (commonly HK$100; concessions exist). That site is not reliably reachable — confirm the current rate at the temple. Prayer/service fees may apply separately.",
       "dress": "Modest clothing in halls; comfortable courtyard shoes.",
       "duration": "1–2 hours for main grounds; longer with optional halls or queues.",
       "access": "Mostly level courtyards from MTR; some steps into halls. Contact temple for disability assistance needs.",
@@ -2009,12 +2009,12 @@
         "Optional hall tickets only via official channels/on-site.",
         "Carry water; incense smoke can be strong.",
         "Combine Chi Lin the same day if desired.",
-        "Official site: http://www.wongtaisintemple.org.hk/en/about-wong-tai-sin (HTTPS on that host returns 404)."
+        "Sik Sik Yuen’s own site is not reliably reachable (HTTPS 404). Confirm hours and any optional hall fee at the temple."
       ],
       "entryType": "free",
-      "ticketsUrl": "http://www.wongtaisintemple.org.hk/en/about-wong-tai-sin",
-      "ticketsLabel": "Sik Sik Yuen — hours & admission FAQ",
-      "ticketsNote": "Main grounds free. Optional Taisui hall fee per official FAQ — verify current rate."
+      "ticketsUrl": "https://www.gohk.gov.hk/en/spots/spot_detail.php?spot=Wong+Tai+Sin+Temple",
+      "ticketsLabel": "Hong Kong Fun in 18 Districts — Wong Tai Sin Temple",
+      "ticketsNote": "Main grounds free. Optional Taisui hall fee was listed on the Sik Sik Yuen FAQ (commonly HK$100) — that site is not reliably reachable; confirm the current rate at the temple."
     },
     "etiquette": {
       "intro": "Active Taoist temple — match worshippers’ pace.",
@@ -2776,7 +2776,7 @@
     "related": [
       "meenakshi",
       "golden-temple",
-      "akshardham-delhi"
+      "jagannath-puri"
     ],
     "overview": {
       "body": [
@@ -3002,7 +3002,7 @@
     "related": [
       "hassan-ii-mosque",
       "hagia-sophia",
-      "suleymaniye-mosque"
+      "selimiye-mosque"
     ],
     "overview": {
       "body": [
@@ -3575,7 +3575,7 @@
     "related": [
       "teotihuacan",
       "machu-picchu",
-      "tikal"
+      "templo-mayor"
     ],
     "overview": {
       "body": [
@@ -5761,7 +5761,7 @@
     "related": [
       "petra",
       "abu-simbel",
-      "philae"
+      "luxor-temple"
     ],
     "overview": {
       "body": [
@@ -6217,7 +6217,7 @@
     "related": [
       "chichen-itza",
       "machu-picchu",
-      "tiwanaku"
+      "templo-mayor"
     ],
     "overview": {
       "body": [
@@ -6331,7 +6331,7 @@
     "related": [
       "karnak",
       "petra",
-      "philae"
+      "luxor-temple"
     ],
     "overview": {
       "body": [
@@ -7686,7 +7686,7 @@
     "religionSlugs": [
       "buddhist"
     ],
-    "summary": "UNESCO Silla flagship temple (Jogye Order) — Korea’s highest-demand temple visit; pair Seokguram same day with separate logistics. Cultural-heritage admission free since 2023 (eng.bulguksa.or.kr); parking paid. Do not invent KRW; third-party “tickets” are tours.",
+    "summary": "UNESCO Silla flagship temple (Jogye Order) — Korea’s highest-demand temple visit; pair Seokguram same day with separate logistics. Visit Korea lists admission as free (no KRW figure). Parking is available — confirm any fee on site. The English temple host is not reachable over TLS. Do not invent KRW; third-party “tickets” are tours.",
     "heroImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Daeungjeon%2C_Seokgatap_and_Dabotap.jpg/1920px-Daeungjeon%2C_Seokgatap_and_Dabotap.jpg",
     "heroCredit": "Christophe95 / Wikimedia Commons",
     "featured": true,
@@ -7705,38 +7705,38 @@
       "body": [
         "Bulguksa in Gyeongju is the UNESCO Silla flagship of Korean Buddhist architecture — Korea’s highest-demand temple visit and the clearest East Asia gap-closer against SanctaWay’s Japan-heavy set.",
         "Frame it as an active Jogye Order temple plus cultural-heritage landscape: quiet in halls, respectful photography, no pets. Seokguram Grotto (~11 km / shuttle or bus uphill) is the classic same-day pair with separate entry logistics and often no photos of the principal Buddha when posted.",
-        "Official hours and fee pages (bulguksa.or.kr / eng.bulguksa.or.kr) state cultural-heritage admission is free since the 2023 cultural-property law change. Parking is paid. Seokguram likewise lists free admission on its official hours page — verify live; do not invent KRW. Third-party “Bulguksa tickets” are tours.",
-        "Seasonal last-entry windows commonly open 09:00 with last entry ~17:00–18:00 by month — verify eng.bulguksa.or.kr. Cherry blossom and autumn foliage peaks; winter early dusk.",
+        "Visit Korea lists cultural-heritage admission as free and hours 09:00–18:00 (exit 19:00), open year-round. Parking is available — confirm any fee on site; do not invent KRW. The English temple host (eng.bulguksa.or.kr) is not reachable over TLS. Seokguram is a separate stop — confirm its own hours and admission there. Third-party “Bulguksa tickets” are tours.",
+        "Cherry blossom and autumn foliage peaks; winter early dusk. Confirm the day’s last entry on Visit Korea or at the gate.",
         "Stone staircases on the Dabotap–Seokgatap axis reward slow looking. Gyeongju’s historic areas are a multi-day city — not a one-temple dash."
       ],
       "highlights": [
         "UNESCO Silla flagship — Korea gap-closer",
-        "Admission free since 2023 — eng.bulguksa.or.kr",
+        "Admission free on Visit Korea — do not invent KRW",
         "Seokguram same-day pair, separate logistics",
-        "Seasonal last-entry windows — verify live",
-        "Parking paid; ignore third-party “tickets”"
+        "Visit Korea lists 09:00–18:00 (exit 19:00) — confirm live",
+        "Parking available; ignore third-party “tickets”"
       ]
     },
     "visit": {
-      "intro": "Free cultural-heritage admission; verify seasonal last entry on eng.bulguksa.or.kr.",
-      "hours": "Seasonal last-entry windows commonly: Nov–Jan 09:00–17:00; Feb & Oct 09:00–17:30; Mar–Sep 09:00–18:00 — verify eng.bulguksa.or.kr. Open year-round; pets not admitted.",
-      "tickets": "Temple cultural-heritage admission free per official hours/fee page since 2023. Parking is paid (verify live KRW on site pages — do not invent). Official: bulguksa.or.kr / eng.bulguksa.or.kr. Seokguram free admission on its official page but separate logistics. Third-party “Bulguksa tickets” = tours.",
+      "intro": "Visit Korea lists free admission and 09:00–18:00 (exit 19:00). Confirm at the gate. The English temple site is not reachable over TLS.",
+      "hours": "Visit Korea lists 09:00–18:00 (exit 19:00), open year-round; pets not admitted. Confirm before you go — eng.bulguksa.or.kr is not reachable over TLS.",
+      "tickets": "Visit Korea lists admission as free (no KRW figure). Parking is available — confirm any fee on site; do not invent KRW. Seokguram is a separate stop. Third-party “Bulguksa tickets” are tours. The English temple host is TLS-unreachable.",
       "dress": "Active temple — modest, quiet dress; remove hats in halls when customary; follow photography signs (especially Seokguram interior).",
       "duration": "2–3 hours at Bulguksa; half day or more if pairing Seokguram with shuttle/bus transit.",
       "access": "Stone staircases between gates, bridges, and pagoda axis. Seokguram is uphill ~11 km — shuttle or bus, not a casual add-on walk from the parking lot alone.",
       "tips": [
-        "Confirm free admission and last entry on eng.bulguksa.or.kr before you go.",
+        "Confirm free admission and hours on the Visit Korea Bulguksa page before you go.",
         "Ignore third-party “admission tickets” — they are tours.",
         "Plan Seokguram as a separate transit block the same day.",
         "Follow Seokguram photo rules for the principal Buddha when posted.",
         "Cherry blossom / autumn foliage = peak crowds.",
         "Gyeongju rewards multi-day historic-area time — not a one-stop dash.",
-        "Parking is paid even when temple admission is free."
+        "Parking is available even when admission is free — confirm any fee on site."
       ],
       "entryType": "free",
-      "ticketsUrl": "http://eng.bulguksa.or.kr/bbs/content.php?co_id=application",
-      "ticketsLabel": "Bulguksa — official hours & fee (free admission)",
-      "ticketsNote": "Cultural-heritage admission free since 2023 per official page. Parking paid. Seokguram separate. Third-party “tickets” are tours. Do not invent KRW."
+      "ticketsUrl": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=94395",
+      "ticketsLabel": "Visit Korea — Bulguksa hours & admission (free)",
+      "ticketsNote": "Visit Korea lists admission as free and hours 09:00–18:00 (exit 19:00). Parking available — confirm any fee on site. Do not invent KRW. Third-party “tickets” are tours."
     },
     "etiquette": {
       "intro": "Active Jogye Order UNESCO temple — quiet halls, living practice.",
@@ -7766,7 +7766,7 @@
       "intro": "Cherry blossom and autumn foliage peaks; winter early dusk.",
       "paragraphs": [
         "Spring blossoms and autumn colour are the beauty peaks — and the densest crowds. Summer is hot on stone stairs; winter last entry is earliest.",
-        "Weekday mornings are quieter. Confirm last entry by month on the official EN hours page."
+        "Weekday mornings are quieter. Confirm last entry on the Visit Korea Bulguksa page or at the gate."
       ],
       "bullets": [
         "Spring / autumn peak beauty + crowds",
@@ -7778,7 +7778,7 @@
     "notes": {
       "intro": "Notes · Verify before visit",
       "bullets": [
-        "Confirm free admission and seasonal hours on eng.bulguksa.or.kr.",
+        "Confirm free admission and hours on Visit Korea — eng.bulguksa.or.kr is not reachable over TLS.",
         "Seokguram is a separate logistics stop — verify its hours too.",
         "SanctaWay is informational; it does not sell tickets or grant access.",
         "Hero image is an Unsplash placeholder pending visual / Commons pass."
@@ -7812,7 +7812,7 @@
     "related": [
       "hassan-ii-mosque",
       "mezquita-cordoba",
-      "ibn-tulun"
+      "al-azhar"
     ],
     "overview": {
       "body": [
@@ -8040,7 +8040,7 @@
     "related": [
       "meenakshi",
       "kashi-vishwanath",
-      "akshardham-delhi"
+      "jagannath-puri"
     ],
     "overview": {
       "body": [
@@ -8154,7 +8154,7 @@
     "related": [
       "tikal",
       "chichen-itza",
-      "copan"
+      "templo-mayor"
     ],
     "overview": {
       "body": [
@@ -12543,7 +12543,7 @@
     "related": [
       "abu-simbel",
       "karnak",
-      "petra"
+      "luxor-temple"
     ],
     "overview": {
       "body": [
@@ -13103,7 +13103,7 @@
     "related": [
       "prambanan",
       "angkor-wat",
-      "besakih"
+      "vat-phou"
     ],
     "overview": {
       "body": [
@@ -13327,7 +13327,7 @@
     "related": [
       "mount-emei",
       "leshan-giant-buddha",
-      "yonghegong"
+      "jade-buddha-temple"
     ],
     "overview": {
       "body": [
@@ -13663,7 +13663,7 @@
     "related": [
       "potala",
       "shaolin-temple",
-      "temple-of-heaven"
+      "jade-buddha-temple"
     ],
     "overview": {
       "body": [
@@ -13775,7 +13775,7 @@
     "related": [
       "mount-emei",
       "leshan-giant-buddha",
-      "yonghegong"
+      "jade-buddha-temple"
     ],
     "overview": {
       "body": [
@@ -13999,7 +13999,7 @@
     "related": [
       "blue-mosque",
       "hagia-sophia",
-      "suleymaniye-mosque"
+      "nasir-ol-molk"
     ],
     "overview": {
       "body": [
@@ -14447,7 +14447,7 @@
     "related": [
       "kairouan",
       "hassan-ii-mosque",
-      "ibn-tulun"
+      "al-azhar"
     ],
     "overview": {
       "body": [
@@ -14897,7 +14897,7 @@
     "related": [
       "imam-mosque-isfahan",
       "blue-mosque",
-      "sheikh-lotfollah"
+      "nasir-ol-molk"
     ],
     "overview": {
       "body": [
@@ -15235,7 +15235,7 @@
     "related": [
       "imam-mosque-isfahan",
       "registan",
-      "alhambra"
+      "nasir-ol-molk"
     ],
     "overview": {
       "body": [
@@ -15460,7 +15460,7 @@
     "related": [
       "sultan-hassan",
       "kairouan",
-      "hassan-ii-mosque"
+      "al-azhar"
     ],
     "overview": {
       "body": [
@@ -15573,7 +15573,7 @@
     "related": [
       "hagia-sophia",
       "blue-mosque",
-      "imam-mosque-isfahan"
+      "selimiye-mosque"
     ],
     "overview": {
       "body": [
@@ -15912,7 +15912,7 @@
     "related": [
       "meenakshi",
       "brihadeeswarar",
-      "kashi-vishwanath"
+      "jagannath-puri"
     ],
     "overview": {
       "body": [
@@ -16012,7 +16012,7 @@
     "religionSlugs": [
       "buddhist"
     ],
-    "summary": "Laos national sacred symbol — golden stupa on banknotes and the national emblem. Outer plaza commonly free; inner cloister paid on-site (foreign vs Lao tiers drift — do not invent LAK; cash kip). Verify booth / Tourism Laos notices. Boun That Luang festival crush honesty. Vat Phou is a separate Champasak day (parked).",
+    "summary": "Laos national sacred symbol — golden stupa on banknotes and the national emblem. Outer plaza commonly free; inner cloister paid on-site (foreign vs Lao tiers drift — do not invent LAK; cash kip). Confirm the fee at the booth. Tourism Laos (tourismlaos.org) returned HTTP 509 and is not reliably reachable. Boun That Luang festival crush honesty. Vat Phou is a separate Champasak day (parked).",
     "heroImage": "https://images.unsplash.com/photo-1559592413-7cec4d0cae2b?auto=format&fit=crop&w=1600&q=80",
     "heroCredit": "Unsplash",
     "featured": true,
@@ -16025,14 +16025,14 @@
     "related": [
       "wat-phra-kaew",
       "shwedagon",
-      "sukhothai"
+      "vat-phou"
     ],
     "overview": {
       "body": [
         "Pha That Luang is Laos's national sacred symbol — the golden stupa of Vientiane that appears on the emblem and banknotes, still a capital day-visit mega rather than a thin gold lump photo stop.",
         "Frame the visit as Lan Xang royal stupa + national emblem honesty. Shoulders and knees covered; women may rent a sinh skirt at the gate; remove shoes in the cloister; quiet.",
-        "Official tickets: outer plaza and flanking temples commonly free; inner cloister paid on-site (foreign vs Lao tiers — published figures drift; do not invent LAK; cash kip). Prefer the site booth / official Tourism Laos notices over random OTA. Festival free-entry days when announced by KPL = state as temporary.",
-        "Inner cloister commonly ~08:00–17:00 class (midday break sometimes reported; Tue–Sun patterns vary by source) — verify on-site / Tourism Laos notices. Outer plaza is freer. Boun That Luang (usually November lunar) = festival crush + possible rule changes.",
+        "Official tickets: outer plaza and flanking temples commonly free; inner cloister paid on-site (foreign vs Lao tiers — published figures drift; do not invent LAK; cash kip). Confirm the fee at the booth. Tourism Laos (tourismlaos.org) returned HTTP 509 and is not a reliable link. Festival free-entry days when announced by KPL = state as temporary.",
+        "Inner cloister commonly ~08:00–17:00 class (midday break sometimes reported; Tue–Sun patterns vary by source) — verify at the booth. Tourism Laos is not reliably reachable (HTTP 509). Outer plaza is freer. Boun That Luang (usually November lunar) = festival crush + possible rule changes.",
         "Soft blockers: midday cloister break; cash-only booth; festival road closures; Vat Phou is a separate Champasak day (parked this batch — do not invent one Laos sacred pass). SanctaWay is informational — it does not sell tickets or grant access."
       ],
       "highlights": [
@@ -16045,8 +16045,8 @@
     },
     "visit": {
       "intro": "National stupa — outer free / inner paid; cash LAK; no invent fares.",
-      "hours": "Inner cloister commonly ~08:00–17:00 class (midday break sometimes reported) — verify on-site / Tourism Laos. Outer plaza freer. Boun That Luang (Nov lunar) = crush + possible rule changes.",
-      "tickets": "Outer plaza + flanking temples commonly free; inner cloister paid on-site (foreign vs Lao tiers drift — do not invent LAK; cash kip). Prefer site booth / Tourism Laos notices over OTA. Festival free-entry days when announced = temporary.",
+      "hours": "Inner cloister commonly ~08:00–17:00 class (midday break sometimes reported) — verify at the booth. Tourism Laos is not reliably reachable (HTTP 509). Outer plaza freer. Boun That Luang (Nov lunar) = crush + possible rule changes.",
+      "tickets": "Outer plaza + flanking temples commonly free; inner cloister paid on-site (foreign vs Lao tiers drift — do not invent LAK; cash kip). Confirm the fee at the booth. Tourism Laos (tourismlaos.org) returned HTTP 509 — do not treat it as a live ticket page. Festival free-entry days when announced = temporary.",
       "dress": "Highest national Buddhist sanctuary — shoulders/knees covered; women may rent sinh skirt at gate; remove shoes in cloister; quiet.",
       "duration": "60–90 minutes plaza + inner cloister; festival days need hours of buffer.",
       "access": "~4 km NE of Vientiane centre / Patuxay — tuk-tuk / Loca / taxi from Wattay (~20–30 min). Outer plaza walkable circuit. Cash for the inner booth.",
@@ -16060,9 +16060,9 @@
         "Vat Phou is Champasak — do not invent one Laos sacred pass."
       ],
       "entryType": "paid",
-      "ticketsUrl": "https://www.tourismlaos.org/",
-      "ticketsLabel": "Tourism Laos / on-site booth — That Luang (verify LAK; cash)",
-      "ticketsNote": "Outer free / inner paid on-site; do not invent LAK; cash kip honesty."
+      "ticketsUrl": null,
+      "ticketsLabel": null,
+      "ticketsNote": "Inner cloister fee is collected at the on-site booth (cash kip). Tourism Laos (tourismlaos.org) returned HTTP 509 and is not reliably reachable. Confirm the day’s hours and fee at the gate. Do not invent LAK fares."
     },
     "etiquette": {
       "intro": "National Buddhist sanctuary — modest dress, shoes off in cloister.",
@@ -16103,7 +16103,7 @@
     "notes": {
       "intro": "Notes · Verify before visit",
       "bullets": [
-        "Confirm inner cloister fee on site / Tourism Laos — do not invent LAK; cash kip.",
+        "Confirm the inner cloister fee at the booth — do not invent LAK; cash kip. Tourism Laos returned HTTP 509.",
         "Outer free is not inner paid; midday break sometimes reported.",
         "Vat Phou stays parked — not one Laos sacred pass.",
         "SanctaWay is informational; it does not sell tickets or grant access.",
@@ -16332,6 +16332,912 @@
         "Confirm hours on lavra.ru and museum tiers on museum-sp.ru / sp-mz.ru — do not invent RUB.",
         "Grounds/churches free is not museums; liturgy vs tourist route honesty.",
         "Russia travel / visa soft blocker; Kyiv Pechersk parked; Athos stays deferred.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "al-azhar",
+    "name": "Al-Azhar Mosque (الجامع الأزهر), Cairo",
+    "shortName": "Al-Azhar",
+    "location": "Islamic Cairo / Al-Azhar Street, Cairo",
+    "country": "Egypt",
+    "region": "Africa",
+    "regionSlug": "africa",
+    "religions": [
+      "Islamic"
+    ],
+    "religionSlugs": [
+      "islamic"
+    ],
+    "summary": "Fatimid foundation and living scholarly heart of Al-Azhar — Islamic Cairo's university-mosque mega. Active congregational mosque with commonly free visitor entry (not MOTA-ticketed) — do not invent EGP. Prayer + Friday noon soft closures; verify azhar.eg / local notices. Pair Ibn Tulun / Sultan Hassan on foot without inventing one Islamic Cairo ticket.",
+    "heroImage": "https://images.unsplash.com/photo-1572252009286-268acec5ca0a?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Fatimid foundation 970–972 CE; later Mamluk and Ottoman layers; living Al-Azhar scholarly institution",
+      "patron": "Islamic — Sunni congregational mosque and scholarly complex (living prayer; university-linked)",
+      "unesco": "Not individually inscribed; core Islamic Cairo monument; living Al-Azhar institution",
+      "typicalVisit": "45–90 minutes courtyard + prayer halls when tourist entry is open between prayers"
+    },
+    "related": [
+      "ibn-tulun",
+      "sultan-hassan",
+      "kairouan"
+    ],
+    "overview": {
+      "body": [
+        "Al-Azhar Mosque is Islamic Cairo's Fatimid foundation mega and the living scholarly heart tied to Al-Azhar — still an active university-mosque rather than a thin Khan el-Khalili photo stop.",
+        "Frame the visit as Fatimid foundation + living Al-Azhar scholarly institution honesty. Active congregational etiquette: shoulders and knees covered; remove shoes; women head covering customary (loan often available); quiet during prayer; do not cut through salah lines.",
+        "Official tickets: admission is commonly free — Al-Azhar is not sold as a MOTA antiquities ticket. Shoe-keep tips are customary soft costs — do not invent an EGP ticket. Prefer mosque / Al-Azhar portals (azhar.eg class) and local notices over OTA Al-Azhar skip-the-line products.",
+        "Tourist entry is commonly daytime between prayers; Friday noon is crowded and often unsuitable for sightseeing. There is no reliable MOTA fixed tourist timetable — verify azhar.eg notices and on-site guidance. Mid-morning is usually the calmest class.",
+        "Soft blockers: prayer and Friday closures; free ≠ always-open museum; access for non-Muslim visitors is practice-dependent when the courtyard is open for visitors — state as practice, not a guarantee; do not invent one Islamic Cairo combo covering Ibn Tulun + Sultan Hassan + Al-Azhar. SanctaWay is informational — it does not sell tickets or grant access."
+      ],
+      "highlights": [
+        "Fatimid foundation + living Al-Azhar scholarly heart",
+        "Commonly free active-mosque entry — not MOTA-ticketed",
+        "Prayer + Friday noon soft closures",
+        "Modest dress; shoes off; head covering customary for women",
+        "Pair Ibn Tulun / Sultan Hassan on foot — not one combo ticket"
+      ]
+    },
+    "visit": {
+      "intro": "Free active mosque — verify prayer windows; not MOTA-ticketed.",
+      "hours": "Tourist entry commonly daytime between prayers; Friday noon often unsuitable for sightseeing. No fixed MOTA tourist timetable — verify azhar.eg / local notices. Mid-morning calmest class.",
+      "tickets": "Admission commonly free (not sold on MOTA monuments ticket lists). Shoe-keep tips are customary soft costs — do not invent EGP. Prefer azhar.eg / mosque notices over OTA skip-the-line. Do not invent combo tickets with Ibn Tulun or Sultan Hassan.",
+      "dress": "Active congregational mosque — shoulders/knees covered; remove shoes; women head covering customary (loan often available); quiet during prayer.",
+      "duration": "45–90 minutes courtyard + halls when tourist entry is open.",
+      "access": "Islamic Cairo / Khan el-Khalili edge — taxi or ride-hail to Al-Azhar Street / Hussein Square; pedestrian link from the bazaar. Pair with live Ibn Tulun and Sultan Hassan on separate walks — not one shared ticket.",
+      "tips": [
+        "Expect free entry — do not invent an EGP Al-Azhar ticket.",
+        "Avoid Friday noon prayer crush for sightseeing.",
+        "Modest dress; shoes off; women — bring or borrow a head covering.",
+        "Do not invent one Islamic Cairo combo with Ibn Tulun / Sultan Hassan.",
+        "Non-Muslim access when courtyards are open for visitors is practice-dependent — ask on site.",
+        "Hard-warn random OTA Al-Azhar skip-the-line products.",
+        "University campus myth ≠ automatic mosque-courtyard access."
+      ],
+      "entryType": "free",
+      "ticketsUrl": "https://www.azhar.eg/",
+      "ticketsLabel": "Al-Azhar / mosque notices — free active-mosque entry (verify prayer windows)",
+      "ticketsNote": "Commonly free; not MOTA-ticketed; do not invent EGP; prayer honesty."
+    },
+    "etiquette": {
+      "intro": "Active Fatimid university-mosque — quiet during prayer.",
+      "bullets": [
+        "Shoulders and knees covered; women head covering customary.",
+        "Remove shoes; do not walk through salah lines.",
+        "Quiet during prayer; Friday noon is for worship, not sightseeing.",
+        "Threshold Atlas tone: Fatimid foundation + living Al-Azhar scholarly institution — not bazaar photo stop only."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Al-Azhar in Islamic Cairo.",
+      "paragraphs": [
+        "Reach Al-Azhar Street / Hussein Square by taxi or ride-hail from downtown Cairo. The mosque sits on the Islamic Cairo / Khan el-Khalili edge with an easy pedestrian link from the bazaar.",
+        "Pair with live Ibn Tulun and Sultan Hassan on separate historic-Cairo walks. Do not invent one ticket or timed combo covering all three — Al-Azhar is free and active; the others follow their own MOTA or site rules.",
+        "Expect soft closures around the five prayers and Friday noon. Arrive mid-morning when tourist entry is usually calmer, and confirm current visitor practice on site rather than treating free entry as a museum timetable."
+      ],
+      "bullets": [
+        "Taxi / ride-hail to Al-Azhar St / Hussein Square",
+        "Pedestrian link from Khan el-Khalili",
+        "Free mosque; pair Ibn Tulun / Sultan Hassan separately",
+        "Prayer + Friday noon soft blockers"
+      ]
+    },
+    "bestTime": {
+      "intro": "Mid-morning between prayers; avoid Friday noon crush.",
+      "paragraphs": [
+        "Mid-morning between prayer windows usually gives calmer courtyard time than Friday noon or late-afternoon prayer crush. There is no MOTA fixed tourist clock — verify azhar.eg / local notices.",
+        "Friday noon and major Islamic calendar days are worship-first soft blockers. Treat free entry as practice-dependent access, not an always-open museum day."
+      ],
+      "bullets": [
+        "Best: mid-morning between prayers",
+        "Avoid Friday noon sightseeing",
+        "Verify azhar.eg / local notices — no MOTA timetable",
+        "Do not invent fixed EGP ticket windows"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm free active-mosque practice and prayer windows — do not invent EGP.",
+        "Not MOTA-ticketed; shoe-keep tips ≠ official ticket.",
+        "Do not invent one ticket covering Ibn Tulun + Sultan Hassan + Al-Azhar.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "vat-phou",
+    "name": "Vat Phou / Wat Phou (ວັດພູ), Champasak",
+    "shortName": "Vat Phou",
+    "location": "Champasak, Champasak Province",
+    "country": "Laos",
+    "region": "Southeast Asia",
+    "regionSlug": "southeast-asia",
+    "religions": [
+      "Hindu",
+      "Buddhist"
+    ],
+    "religionSlugs": [
+      "hindu",
+      "buddhist"
+    ],
+    "summary": "UNESCO Champasak cultural landscape — Khmer mountain-axis mega on Lingaparvata. Site + museum tickets at Tourism Champasak / gate (foreign vs Lao LAK tiers drift — do not invent LAK). Distinct from Vientiane That Luang capital stupa — no one Laos sacred pass. Morning cooler for hillside steps.",
+    "heroImage": "https://images.unsplash.com/photo-1559592413-7cec4d0cae2b?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Khmer Hindu sanctuary landscape from ~5th–12th c. class; later Theravada Buddhist practice on the same axis",
+      "patron": "Hindu / Buddhist — Khmer Lingaparvata axis with living Theravada use",
+      "unesco": "UNESCO World Heritage — Champasak cultural landscape (Vat Phou and associated sites)",
+      "typicalVisit": "2–3 hours site terraces + museum; morning better for heat and steps"
+    },
+    "related": [
+      "angkor-wat",
+      "my-son",
+      "that-luang"
+    ],
+    "overview": {
+      "body": [
+        "Vat Phou (Wat Phou) is the UNESCO Champasak cultural landscape mega — a Khmer mountain-axis sanctuary rising toward Lingaparvata, still used for Buddhist practice rather than a thin Angkor mini selfie stop.",
+        "Frame the visit as Khmer Hindu axis → later Theravada honesty. Shoulders and knees covered; remove shoes in active shrines; quiet at the upper sanctuary.",
+        "Official tickets: combined site + museum (and electric-car when included) sold at the gate / Tourism Champasak channels. Foreign vs Lao tiers are published on Champasak tourism pages — figures drift, so do not invent LAK. Prefer the site booth / vatphu-champasak-laos.com / tourismchampasak.com class pages over random OTA.",
+        "Site commonly ~08:00–17:00; museum often closes earlier (~16:30 class); early/late gate windows sometimes sold — verify Tourism Champasak notices. Heat and hillside steps make morning the kinder window.",
+        "Soft blockers: Pakse transfer time; heat / steps; museum vs site hours; That Luang is the Vientiane national stupa — do not invent one Laos sacred pass. SanctaWay is informational — it does not sell tickets or grant access."
+      ],
+      "highlights": [
+        "UNESCO Champasak Khmer mountain-axis landscape",
+        "Hindu → Theravada dual history honesty",
+        "Gate + museum LAK tiers — do not invent fares",
+        "Morning better for heat and hillside steps",
+        "Distinct from Vientiane That Luang — no one Laos pass"
+      ]
+    },
+    "visit": {
+      "intro": "UNESCO Champasak — gate + museum tickets; LAK honesty; not That Luang.",
+      "hours": "Site commonly ~08:00–17:00; museum earlier close (~16:30 class) — verify Tourism Champasak / vatphu-champasak-laos.com. Morning cooler for terraces and steps.",
+      "tickets": "Combined site + museum (+ electric-car when included) at gate / Tourism Champasak. Foreign vs Lao LAK tiers drift — do not invent LAK. Prefer site booth / official tourism pages over OTA.",
+      "dress": "Sacred Khmer landscape still used for Buddhist practice — shoulders/knees covered; shoes off in active shrines; quiet at upper sanctuary.",
+      "duration": "2–3 hours terraces + museum; add transfer buffer from Pakse / Champasak town.",
+      "access": "Pakse gateway → Champasak town (~45 min class) → site ~10 km. Day-trip or overnight Champasak. Distinct from a Vientiane That Luang day.",
+      "tips": [
+        "Buy at the site booth / official Champasak tourism pages — do not invent LAK.",
+        "Start early — heat and hillside steps are real soft blockers.",
+        "Museum may close before the outdoor site — check both hours.",
+        "Shoulders/knees covered; shoes off in active shrines.",
+        "That Luang is Vientiane — do not invent one Laos sacred pass.",
+        "Allow Pakse → Champasak transfer time; this is not a capital stroll.",
+        "Hard-warn random OTA Vat Phou skip products with frozen LAK."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://www.tourismchampasak.com/",
+      "ticketsLabel": "Tourism Champasak / site booth — Vat Phou (verify LAK)",
+      "ticketsNote": "Site + museum gate tickets; foreign vs Lao tiers drift — do not invent LAK."
+    },
+    "etiquette": {
+      "intro": "Sacred Khmer landscape with living Buddhist practice.",
+      "bullets": [
+        "Shoulders and knees covered; shoes off in active shrines.",
+        "Quiet at the upper sanctuary; no climbing conserved masonry for photos.",
+        "Cash / published LAK tiers at the booth — do not invent online fares.",
+        "Threshold Atlas tone: Lingaparvata / Khmer Hindu axis → later Theravada — not Angkor mini selfie only."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Vat Phou from Pakse / Champasak.",
+      "paragraphs": [
+        "Fly or bus into Pakse, then continue to Champasak town (~45 minutes class). The sanctuary sits about 10 km from town — hire local transport or join a day tour. Overnight Champasak is kinder than a rushed round-trip.",
+        "Buy site + museum tickets at the gate / official Tourism Champasak channels. Published foreign vs Lao LAK figures drift — do not invent a fixed fare from old blogs.",
+        "This is not a Vientiane That Luang day. That Luang is the capital national stupa; Vat Phou is the Champasak UNESCO Khmer landscape — keep the two pages and tickets separate."
+      ],
+      "bullets": [
+        "Pakse → Champasak town → site ~10 km",
+        "Day-trip or overnight Champasak",
+        "Gate + museum LAK — no invent fares",
+        "Not a That Luang capital day"
+      ]
+    },
+    "bestTime": {
+      "intro": "Morning for cooler terraces; verify museum close.",
+      "paragraphs": [
+        "Morning is usually cooler for the hillside steps and clearer for the mountain axis views. Midday heat on open terraces is a real soft blocker.",
+        "Confirm museum close (~16:30 class) versus site close (~17:00 class) on Tourism Champasak notices so you do not miss the museum half of a combined ticket."
+      ],
+      "bullets": [
+        "Best: morning gate",
+        "Heat + steps soft blockers",
+        "Museum may close earlier than site",
+        "Do not invent fixed LAK windows"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm LAK tiers at the gate / Tourism Champasak — do not invent fares.",
+        "That Luang is a separate Vientiane visit — no one Laos sacred pass.",
+        "UNESCO Champasak landscape ≠ Angkor ticket myth.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "selimiye-mosque",
+    "name": "Selimiye Mosque (Selimiye Camii), Edirne",
+    "shortName": "Selimiye",
+    "location": "Central hill, Edirne",
+    "country": "Türkiye",
+    "region": "Middle East",
+    "regionSlug": "middle-east",
+    "religions": [
+      "Islamic"
+    ],
+    "religionSlugs": [
+      "islamic"
+    ],
+    "summary": "Mimar Sinan's self-declared masterpiece — UNESCO Selimiye in Edirne (not Istanbul). Free working mosque; prayer + Friday noon hall closures. Külliye museums are separate paid products when open. Earn keep vs Hagia Sophia / Blue Mosque / Süleymaniye by stressing Edirne location. Do not invent TRY mosque ticket.",
+    "heroImage": "https://images.unsplash.com/photo-1541432901042-2d8bd64b4a9b?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Commissioned by Selim II; completed 1575 under Mimar Sinan — his declared masterpiece",
+      "patron": "Islamic — Sunni imperial mosque (living congregational worship)",
+      "unesco": "UNESCO World Heritage — Selimiye Mosque and its Social Complex",
+      "typicalVisit": "45–90 minutes courtyard + prayer hall between prayers; museums add separate time"
+    },
+    "related": [
+      "suleymaniye-mosque",
+      "hagia-sophia",
+      "blue-mosque"
+    ],
+    "overview": {
+      "body": [
+        "Selimiye Mosque in Edirne is Mimar Sinan's self-declared masterpiece — a UNESCO imperial dome that earns its keep as an Edirne day, not a fourth Istanbul blue-dome postcard.",
+        "Frame the visit as Kanunî Selim II + Sinan masterpiece honesty. Active imperial mosque etiquette: shoulders and knees covered; women headscarf (loan often available); remove shoes; silence during prayer.",
+        "Official tickets: mosque entry is free. Complex museums (Darülkurra / Darülhadis class) are separate paid museum products when open — verify museum hours / MüzeKart. Do not invent a TRY mosque ticket. Prefer Diyanet / Edirne culture notices (edirnekulturturizm.com class) over third-party skip-the-line.",
+        "Tourist entry is daytime with five-prayer and Friday noon hall closures — courtyard is freer than the prayer hall. Verify current notices before you time a day-trip from Istanbul (~2–2.5 h class on the E80).",
+        "Soft blockers: earn keep vs Istanbul Hagia Sophia / Blue Mosque / Süleymaniye by stressing Edirne; prayer closures; restoration barriers when present; unofficial donation approaches ≠ official fee. SanctaWay is informational — it does not sell tickets or grant access."
+      ],
+      "highlights": [
+        "Sinan's self-declared masterpiece — UNESCO Edirne",
+        "Free working mosque — do not invent TRY ticket",
+        "Prayer + Friday noon hall closures",
+        "Külliye museums = separate paid products",
+        "Not an Istanbul tram stop — coach / car to Edirne"
+      ]
+    },
+    "visit": {
+      "intro": "Free working mosque in Edirne — prayer honesty; museums separate.",
+      "hours": "Daytime tourist entry with five-prayer + Friday noon hall closures — verify Diyanet / Edirne müftülük / edirnekulturturizm.com class notices. Courtyard freer than hall.",
+      "tickets": "Mosque entry free. Külliye museums separate paid products when open (MüzeKart / museum desk). Do not invent TRY mosque ticket. Hard-warn third-party skip-the-line.",
+      "dress": "Active imperial mosque — shoulders/knees covered; women headscarf (loan often available); remove shoes; silence during prayer.",
+      "duration": "45–90 minutes courtyard + hall between prayers; add buffer for museums.",
+      "access": "Istanbul IST / city → Edirne coach or car ~2–2.5 h (E80). Mosque on the central hill. Day-trip or overnight Edirne — not an Istanbul tram stop.",
+      "tips": [
+        "Mosque is free — do not invent a TRY Selimiye ticket.",
+        "Time around prayer and Friday noon hall closures.",
+        "Külliye museums are separate paid products — ask at the desk.",
+        "This is Edirne, not a fourth Istanbul mosque stop.",
+        "Modest dress; shoes off; women — scarf ready or borrow on site.",
+        "Hard-warn unofficial donation / prayer-bead fee approaches.",
+        "Allow 2–2.5 h transfer from Istanbul each way for a day-trip."
+      ],
+      "entryType": "free",
+      "ticketsUrl": "https://www.edirnekulturturizm.com/",
+      "ticketsLabel": "Edirne culture / mosque notices — Selimiye (free; verify prayer closures)",
+      "ticketsNote": "Free working mosque; museums separate; do not invent TRY."
+    },
+    "etiquette": {
+      "intro": "Active Sinan imperial mosque — silence during prayer.",
+      "bullets": [
+        "Shoulders and knees covered; women headscarf customary.",
+        "Remove shoes; do not cut through salah.",
+        "Courtyard may stay open when the hall is closed for prayer.",
+        "Threshold Atlas tone: Selim II + Sinan masterpiece in Edirne — not fourth blue dome postcard."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Selimiye from Istanbul / Edirne.",
+      "paragraphs": [
+        "Selimiye sits on Edirne's central hill. From Istanbul, take a coach or drive the E80 (~2–2.5 hours class). This is not an Istanbul tram or ferry stop.",
+        "Enter the mosque free between prayer windows. If you add Darülkurra / Darülhadis-class museums, buy those as separate museum products when open.",
+        "Day-trippers should build prayer-closure buffer and return-coach time. Overnight Edirne is kinder if you want museum hours plus calm courtyard light."
+      ],
+      "bullets": [
+        "Istanbul → Edirne coach / car ~2–2.5 h",
+        "Central-hill mosque — walkable in town",
+        "Free mosque; museums separate",
+        "Not an Istanbul same-day tram myth"
+      ]
+    },
+    "bestTime": {
+      "intro": "Between prayers; Friday noon soft-closes the hall.",
+      "paragraphs": [
+        "Arrive between the five daily prayers so the prayer hall is open for quiet viewing. Courtyard light is often kinder mid-morning.",
+        "Friday noon and restoration barriers are real soft blockers — verify Edirne culture / Diyanet notices rather than inventing fixed TRY ticket hours."
+      ],
+      "bullets": [
+        "Best: between prayers, mid-morning",
+        "Avoid Friday noon hall crush",
+        "Verify Edirne / Diyanet notices",
+        "Do not invent TRY mosque windows"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm free mosque practice and prayer closures — do not invent TRY.",
+        "Külliye museums are separate; MüzeKart rules when published.",
+        "Earn keep as Edirne vs Istanbul Hagia / Blue / Süleymaniye density.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "nasir-ol-molk",
+    "name": "Nasir-ol-Molk Mosque / Pink Mosque (مسجد نصیرالملک), Shiraz",
+    "shortName": "Nasir-ol-Molk",
+    "location": "Lotfali Khan Zand / historic core, Shiraz",
+    "country": "Iran",
+    "region": "Middle East",
+    "regionSlug": "middle-east",
+    "religions": [
+      "Islamic"
+    ],
+    "religionSlugs": [
+      "islamic"
+    ],
+    "summary": "Qajar stained-glass tourist icon — Shiraz Pink Mosque. Paid visitor entry at endowment / nasiralmulk.ir desk (Iranian vs foreign tiers drift — do not invent IRR/toman). Morning coloured-glass light is the demand reason. Earn Shiraz Qajar difference vs live Isfahan Lotfollah / Imam. Iran travel honesty without fearmongering.",
+    "heroImage": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Qajar endowment mosque, late 19th century (Nasir al-Molk); stained-glass winter prayer hall fame",
+      "patron": "Islamic — Shia mosque / visitor-mosque hybrid (living prayer corner + tourist windows)",
+      "unesco": "Not individually inscribed; major Shiraz historic-core visitor mosque",
+      "typicalVisit": "45–75 minutes for glass light; arrive early before tour-group peak"
+    },
+    "related": [
+      "sheikh-lotfollah",
+      "imam-mosque-isfahan",
+      "registan"
+    ],
+    "overview": {
+      "body": [
+        "Nasir-ol-Molk Mosque — the Pink Mosque of Shiraz — is the global stained-glass tourist icon of Qajar Shiraz, still a living prayer-corner mosque rather than an Instagram pink-filter booth only.",
+        "Frame the visit as Qajar endowment mosque + living prayer honesty. Modest Islamic dress; no fashion-model poses as posted; quiet; follow photo and tripod rules.",
+        "Official tickets: paid visitor entry at the on-site desk / endowment channels published via nasiralmulk.ir. Iranian vs foreign tiers drift — do not invent IRR or toman. Prefer nasiralmulk.ir / on-site desk over scalpers.",
+        "Visitor windows commonly run morning to late afternoon with seasonal shifts — verify nasiralmulk.ir. Morning coloured-glass light is the demand reason; arrive early. Religious mourning days may close the visitor hall.",
+        "Soft blockers: Iran visa / travel honesty without fearmongering; morning crush for glass light; live Isfahan Sheikh Lotfollah and Imam Mosque already cover Safavid tile megas — this page must stay Shiraz Qajar, not an Isfahan redo; do not invent one Iran mosque pass. SanctaWay is informational — it does not sell tickets or grant access."
+      ],
+      "highlights": [
+        "Qajar stained-glass Pink Mosque — Shiraz",
+        "Paid desk / nasiralmulk.ir — do not invent IRR",
+        "Morning coloured-glass light is the visit reason",
+        "Modest dress; posted photo rules",
+        "Not an Isfahan Lotfollah / Imam redo"
+      ]
+    },
+    "visit": {
+      "intro": "Shiraz Pink Mosque — morning glass; nasiralmulk.ir desk; no invent IRR.",
+      "hours": "Morning–late afternoon class with seasonal shift — verify nasiralmulk.ir / on-site desk. Arrive early for coloured-glass light. Mourning days may close visitor entry.",
+      "tickets": "Paid visitor entry at endowment / nasiralmulk.ir desk. Iranian vs foreign tiers drift — do not invent IRR/toman. Prefer official desk over scalpers. No invent one Iran mosque pass with Isfahan sites.",
+      "dress": "Active / museum-mosque hybrid — modest Islamic dress; no fashion-model poses as posted; quiet; follow photo-tripod rules.",
+      "duration": "45–75 minutes; early arrival needed for glass light before crush.",
+      "access": "Shiraz historic core / Lotfali Khan Zand — walk or taxi from Vakil Bazaar / Shah Cheragh area. Mesh Isfahan live pages as peers, not as the same visit.",
+      "tips": [
+        "Buy at nasiralmulk.ir / on-site desk — do not invent IRR.",
+        "Arrive early for morning stained-glass light.",
+        "Modest dress; follow posted no-pose / photo rules.",
+        "This is Shiraz Qajar — not a second Isfahan tile mosque.",
+        "Expect morning crush; mourning days may close entry.",
+        "Iran travel / visa honesty — verify current entry rules separately.",
+        "Hard-warn scalpers selling frozen toman fares."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://nasiralmulk.ir/",
+      "ticketsLabel": "Nasir al-Molk official — visitor desk (verify tiers; no invent IRR)",
+      "ticketsNote": "Paid endowment desk; foreign vs domestic tiers drift — do not invent IRR/toman."
+    },
+    "etiquette": {
+      "intro": "Qajar mosque with living prayer corner — quiet, modest, posted photo rules.",
+      "bullets": [
+        "Modest Islamic dress; quiet near prayer spaces.",
+        "No fashion-model poses where posted; follow tripod rules.",
+        "Pay at the official desk — not street scalpers.",
+        "Threshold Atlas tone: Qajar endowment + living prayer — not Instagram pink filter only."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Nasir-ol-Molk in Shiraz.",
+      "paragraphs": [
+        "The mosque sits in Shiraz's historic core near Lotfali Khan Zand. Walk or take a short taxi from Vakil Bazaar or the Shah Cheragh area.",
+        "Buy visitor tickets at the endowment desk / nasiralmulk.ir channels. Published Iranian vs foreign tiers drift — do not invent IRR or toman from old blogs.",
+        "Keep Isfahan's Sheikh Lotfollah and Imam Mosque as related peers on separate days or separate city itineraries. Do not invent one Iran mosque pass covering Shiraz + Isfahan."
+      ],
+      "bullets": [
+        "Historic-core walk / taxi from Vakil Bazaar",
+        "Official desk / nasiralmulk.ir tickets",
+        "Morning arrival for glass light",
+        "Not an Isfahan same-ticket myth"
+      ]
+    },
+    "bestTime": {
+      "intro": "Early morning for coloured-glass light.",
+      "paragraphs": [
+        "Morning sun through the stained glass is the reason most travellers come — arrive at opening before tour groups fill the winter prayer hall.",
+        "Seasonal hour shifts and mourning-day closures are real soft blockers — verify nasiralmulk.ir rather than inventing fixed IRR ticket windows."
+      ],
+      "bullets": [
+        "Best: opening / early morning glass light",
+        "Morning crush soft blocker",
+        "Verify nasiralmulk.ir seasonal hours",
+        "Do not invent IRR windows"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm tiers on nasiralmulk.ir / desk — do not invent IRR/toman.",
+        "Iran travel / visa rules change — verify separately without fearmongering.",
+        "Earn Shiraz Qajar difference vs live Isfahan Lotfollah / Imam.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "jagannath-puri",
+    "name": "Shree Jagannath Temple (ଶ୍ରୀ ଜଗନ୍ନାଥ ମନ୍ଦିର), Puri",
+    "shortName": "Jagannath Puri",
+    "location": "Singhadwara / Grand Road, Puri, Odisha",
+    "country": "India",
+    "region": "South Asia",
+    "regionSlug": "south-asia",
+    "religions": [
+      "Hindu"
+    ],
+    "religionSlugs": [
+      "hindu"
+    ],
+    "summary": "Char Dham east + Rath Yatra mega — Shree Jagannath Temple, Puri. SJTA shreejagannatha.in: general darshan free; no official online/VIP darshan (hard-warn scam portals). Hindus-only interior — non-Hindus exterior / periphery only. Traditional dress; no leather/phones/cameras inside. Do not invent INR darshan fares.",
+    "heroImage": "https://images.unsplash.com/photo-1582510003544-4d00bce9d6cc?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Present temple fabric largely 12th c. Eastern Ganga; Jagannātha cult far older; Char Dham east seat",
+      "patron": "Hindu — Vaishnava / Jagannātha (living temple; Rath Yatra)",
+      "unesco": "Not individually inscribed; major Char Dham pilgrimage centre",
+      "typicalVisit": "Darshan queues vary widely; festive / Rath Yatra days need hours of buffer — Hindus-only interior"
+    },
+    "related": [
+      "tirupati",
+      "rameshwaram",
+      "kashi-vishwanath"
+    ],
+    "overview": {
+      "body": [
+        "Shree Jagannath Temple in Puri is Char Dham's eastern seat and the Rath Yatra mega — a living Vaishnava pilgrimage heart, not a Puri beach temple selfie stop.",
+        "Frame the visit as Jagannātha / Rath Yatra / Mahaprasad honesty. Traditional dress is strongly expected; no leather, phones, or cameras inside (free cloak at Lion's Gate class); queue discipline.",
+        "Official tickets: general darshan is free. SJTA has warned there is no official online darshan or VIP ticket product — hard-warn fake paid VIP portals. Guest-house booking is the online product on shreejagannatha.in. Do not invent INR darshan fares.",
+        "Living-temple darshan windows commonly begin around ~05:30 with ritual pauses (Gopal Ballav and other breaks) — verify shreejagannatha.in. Rath Yatra and festive days mean extreme crush and possible rule changes.",
+        "Soft blockers: non-Hindus are not permitted inside the temple — exterior / periphery only for non-Hindu travellers; ritual darshan pauses; Rath Yatra crowd safety; fake online booking industry; Char Dham east ≠ Rameshwaram south redo. SanctaWay is informational — it does not sell tickets or grant access."
+      ],
+      "highlights": [
+        "Char Dham east + Rath Yatra mega",
+        "Free general darshan — no official VIP/online darshan",
+        "Hindus-only interior — state clearly",
+        "Traditional dress; cloak phones/leather/cameras",
+        "Hard-warn scam VIP booking portals"
+      ]
+    },
+    "visit": {
+      "intro": "Free darshan; Hindus-only interior; SJTA scam-VIP warn; no invent INR.",
+      "hours": "Darshan windows from ~05:30 with ritual pauses — verify shreejagannatha.in. Rath Yatra / festive days = extreme crush + rule changes.",
+      "tickets": "General darshan free. No official online darshan / VIP ticket (SJTA warnings against fake paid VIP portals). Guest-house booking is the online product on shreejagannatha.in. Do not invent INR darshan fares.",
+      "dress": "Living Vaishnava Char Dham — traditional dress strongly expected; no leather / phones / cameras inside (free cloak at Lion's Gate class); queue discipline.",
+      "duration": "Queue time varies widely; festive days need hours of buffer. Non-Hindus: exterior circuit only.",
+      "access": "Bhubaneswar airport / Puri rail → temple Lion's Gate (Singhadwara). Beach and Gundicha Temple are separate stops — not one selfie.",
+      "tips": [
+        "General darshan is free — ignore scam VIP/online darshan sites.",
+        "Non-Hindus: interior closed — plan an exterior / periphery visit only.",
+        "Use free cloak for phones, cameras, leather at Lion's Gate class.",
+        "Traditional dress strongly expected; follow queue discipline.",
+        "Verify ritual pause times on shreejagannatha.in.",
+        "Rath Yatra: extreme crush — crowd-safety first.",
+        "This is Char Dham east (Odisha) — not a Rameshwaram redo."
+      ],
+      "entryType": "free",
+      "ticketsUrl": "https://shreejagannatha.in/",
+      "ticketsLabel": "SJTA shreejagannatha.in — free darshan; guest-house booking (no VIP scam)",
+      "ticketsNote": "Free darshan; no official VIP/online darshan; Hindus-only interior; do not invent INR."
+    },
+    "etiquette": {
+      "intro": "Living Jagannātha temple — traditional dress, queue discipline, access honesty.",
+      "bullets": [
+        "Traditional dress; no leather / phones / cameras inside.",
+        "Non-Hindus are not permitted inside — exterior only.",
+        "Ignore fake VIP darshan sellers; use SJTA channels only.",
+        "Threshold Atlas tone: Jagannātha / Rath Yatra / Mahaprasad — not Puri beach temple only."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Jagannath Temple in Puri.",
+      "paragraphs": [
+        "Fly into Bhubaneswar or take the train to Puri, then continue to Singhadwara (Lion's Gate) on Grand Road. The beach and Gundicha Temple are separate stops.",
+        "Hindus enter for free general darshan after cloak and dress checks. Non-Hindu travellers remain on the exterior / periphery — state this clearly before you plan an interior queue.",
+        "Do not pay third-party VIP darshan sites. SJTA's shreejagannatha.in hosts guest-house booking as the legitimate online product — not a paid VIP darshan pass."
+      ],
+      "bullets": [
+        "Bhubaneswar airport / Puri rail → Singhadwara",
+        "Free cloak at Lion's Gate class",
+        "Hindus-only interior honesty",
+        "No scam VIP online darshan"
+      ]
+    },
+    "bestTime": {
+      "intro": "Early darshan windows; avoid Rath Yatra crush unless that is the purpose.",
+      "paragraphs": [
+        "Early morning darshan windows are usually kinder than midday heat and longer queues. Always re-check ritual pause times on shreejagannatha.in.",
+        "Rath Yatra and major festive days are purpose-built pilgrim crush — only visit then if you accept extreme crowds and rule changes."
+      ],
+      "bullets": [
+        "Best: early darshan windows",
+        "Verify ritual pauses on SJTA site",
+        "Rath Yatra = extreme crush",
+        "Do not invent INR VIP windows"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm free darshan + no official VIP product on shreejagannatha.in — do not invent INR.",
+        "Hindus-only interior — non-Hindus exterior / periphery only.",
+        "Hard-warn fake online VIP darshan industry.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "jade-buddha-temple",
+    "name": "Jade Buddha Temple (玉佛禅寺), Shanghai",
+    "shortName": "Jade Buddha Temple",
+    "location": "Anyuan Road, Putuo, Shanghai",
+    "country": "China",
+    "region": "East Asia",
+    "regionSlug": "east-asia",
+    "religions": [
+      "Buddhist"
+    ],
+    "religionSlugs": [
+      "buddhist"
+    ],
+    "summary": "Shanghai living Chan / Pure Land city mega — Jade Buddha Temple. Official yufotemple.com: grounds commonly free; individual halls / incense / jade-hall products may be paid on-site — do not invent CNY as frozen forever. Feast-day crowds; not China mountain-stack filler. Metro Line 13 Jiangning Road class.",
+    "heroImage": "https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Late Qing — jade Buddha images brought from Myanmar; present Shanghai monastery rebuilt early 20th c. class",
+      "patron": "Buddhist — Chan / Pure Land urban monastery (living practice)",
+      "unesco": "Not individually inscribed; major Shanghai living city temple",
+      "typicalVisit": "60–90 minutes halls + courtyards; feast days need more queue buffer"
+    },
+    "related": [
+      "lingyin-temple",
+      "yonghegong",
+      "shaolin-temple"
+    ],
+    "overview": {
+      "body": [
+        "Jade Buddha Temple (玉佛禅寺) is Shanghai's living Chan / Pure Land city mega — still an active urban monastery framed by the Song-dynasty jade Buddha arrival story, not a free city-park photo stop only.",
+        "Frame the visit as jade Buddha arrival + living Shanghai monastery honesty. Shoulders and knees covered; quiet in halls; no climbing statues; follow photo rules in the Jade Buddha Hall.",
+        "Official tickets: grounds entry is commonly free in current published practice; individual halls, incense, or jade-hall products may be paid on-site — do not invent CNY as frozen forever. Verify yufotemple.com. Prefer the official temple over OTA Jade Buddha VIP products.",
+        "Hours commonly ~08:00–16:30; earlier open on lunar 1st/15th and major feast days — verify yufotemple.com. Weekday mornings are calmer than weekend feast days.",
+        "Soft blockers: feast-day crowds; free grounds ≠ every hall free; not a substitute for deferred China mountain stack (Emei / Wutai / Putuo / Jiuhua); Japan stays parked — do not pad with Kyoto clone prose. SanctaWay is informational — it does not sell tickets or grant access."
+      ],
+      "highlights": [
+        "Shanghai living Chan / Pure Land city mega",
+        "Grounds commonly free; hall fees may apply — verify CNY",
+        "Official yufotemple.com visitor notices",
+        "Feast-day / lunar 1st–15th crowd honesty",
+        "Not China mountain-stack or Kyoto clone filler"
+      ]
+    },
+    "visit": {
+      "intro": "City temple — free grounds vs possible hall fees; yufotemple.com.",
+      "hours": "Commonly ~08:00–16:30; earlier open on lunar 1st/15th / major feast days — verify yufotemple.com. Weekday mornings calmer.",
+      "tickets": "Grounds commonly free; individual halls / incense / jade-hall products may be paid on-site — do not invent CNY as forever-fixed. Prefer yufotemple.com over OTA VIP. Free grounds ≠ every hall free.",
+      "dress": "Active urban monastery — shoulders/knees covered; quiet in halls; no climbing statues; follow Jade Buddha Hall photo rules.",
+      "duration": "60–90 minutes; feast days need extra queue buffer.",
+      "access": "Metro Line 13 Jiangning Road class → ~500 m walk to Anyuan Road; taxi common. City-temple day slot, not mountain pilgrimage.",
+      "tips": [
+        "Confirm free grounds vs hall fees on yufotemple.com — do not invent CNY.",
+        "Weekday mornings beat weekend feast-day crush.",
+        "Shoulders/knees covered; quiet in halls.",
+        "Follow photo rules in the Jade Buddha Hall.",
+        "Free grounds does not mean every hall is free.",
+        "Not a stand-in for deferred mountain sacred sites.",
+        "Hard-warn OTA Jade Buddha VIP products."
+      ],
+      "entryType": "free",
+      "ticketsUrl": "https://www.yufotemple.com/",
+      "ticketsLabel": "Jade Buddha Temple official — yufotemple.com (verify grounds/hall fees)",
+      "ticketsNote": "Grounds commonly free; hall products may be paid — do not invent CNY."
+    },
+    "etiquette": {
+      "intro": "Living Shanghai monastery — quiet halls, modest dress.",
+      "bullets": [
+        "Shoulders and knees covered; quiet in prayer halls.",
+        "No climbing statues; follow Jade Buddha Hall photo rules.",
+        "Pay only posted hall / incense products — not invented CNY packages.",
+        "Threshold Atlas tone: jade Buddha arrival + living monastery — not free city park only."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Jade Buddha Temple in Shanghai.",
+      "paragraphs": [
+        "Take Metro Line 13 to Jiangning Road and walk about 500 m to Anyuan Road, or take a taxi to the temple gate. This is a city-temple slot, not a mountain day.",
+        "Enter the grounds under current free practice when published, then pay only posted hall or incense products on site. Verify yufotemple.com rather than inventing a fixed CNY ticket.",
+        "Keep Lingyin, Yonghegong, and Shaolin as related Chinese Buddhist peers on separate itineraries — do not invent a national temple pass."
+      ],
+      "bullets": [
+        "Metro L13 Jiangning Road → Anyuan Rd walk",
+        "Taxi common for city-temple day",
+        "Free grounds vs possible hall fees",
+        "Verify yufotemple.com"
+      ]
+    },
+    "bestTime": {
+      "intro": "Weekday mornings; feast days are crush days.",
+      "paragraphs": [
+        "Weekday mornings usually give quieter courtyards than weekend or lunar 1st/15th feast days. Confirm earlier opens on feast days via yufotemple.com.",
+        "Feast-day crowds are a soft blocker even when grounds remain free — budget queue time, not only clock time."
+      ],
+      "bullets": [
+        "Best: weekday morning",
+        "Lunar 1st/15th / feast crush",
+        "Verify ~08:00–16:30 / feast opens",
+        "Do not invent fixed CNY windows"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm free grounds vs hall fees on yufotemple.com — do not invent CNY.",
+        "Not a China mountain-stack substitute; Japan stays parked.",
+        "Free grounds ≠ every hall free.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "templo-mayor",
+    "name": "Templo Mayor + Museo, Mexico City",
+    "shortName": "Templo Mayor",
+    "location": "Seminario / Centro Histórico, Mexico City",
+    "country": "Mexico",
+    "region": "Americas",
+    "regionSlug": "americas",
+    "religions": [
+      "Mesoamerican"
+    ],
+    "religionSlugs": [
+      "mesoamerican"
+    ],
+    "summary": "Aztec / Mexica ceremonial heart beside the Zócalo — Templo Mayor zone + INAH museum. Official INAH boleto (ventadeboletosenlinea.inah.gob.mx / on-site); Mexican vs foreign tiers; Sunday free for Mexican citizens when published — do not invent MXN. Closed Monday. Not a Teotihuacan combo myth.",
+    "heroImage": "https://images.unsplash.com/photo-1518659526054-03338c4b5d0f?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Hueyi Teocalli of Tenochtitlan — dual temple to Huitzilopochtli and Tlaloc; excavated stages beside the Zócalo",
+      "patron": "Mesoamerican — Mexica / Aztec ceremonial centre (archaeological zone + museum)",
+      "unesco": "Within UNESCO Historic Centre of Mexico City; INAH zone + museum",
+      "typicalVisit": "2–3 hours zone + museum; closed Monday"
+    },
+    "related": [
+      "teotihuacan",
+      "chichen-itza",
+      "palenque"
+    ],
+    "overview": {
+      "body": [
+        "Templo Mayor is the Aztec / Mexica ceremonial heart of Tenochtitlan — the Hueyi Teocalli dual temple to Huitzilopochtli and Tlaloc, excavated beside today's Zócalo rather than reduced to a ruins selfie stop.",
+        "Frame the visit as Mexica dual temple + offering-museum honesty. Modest practical dress; no climbing conserved masonry; quiet in offering rooms.",
+        "Official tickets: INAH boleto — online ventadeboletosenlinea.inah.gob.mx and on-site. Mexican vs foreign tiers; Sunday free for Mexican citizens when published; student/senior/under-13 rules as posted — do not invent MXN. Prefer INAH over random OTA.",
+        "INAH zone + museum commonly Tue–Sun ~09:00–17:00, closed Monday — verify templomayor.inah.gob.mx / inah.gob.mx. Morning light on excavated stages is better before tour groups peak.",
+        "Soft blockers: Monday close; museum vs zona ticket confusion; do not invent one ticket with Teotihuacan or Chichén Itzá; Sacsayhuamán / Cholula stay soft-parked — this page is Mexico City Aztec heart. SanctaWay is informational — it does not sell tickets or grant access."
+      ],
+      "highlights": [
+        "Mexica Hueyi Teocalli beside the Zócalo",
+        "INAH boleto online + on-site — do not invent MXN",
+        "Closed Monday (Tue–Sun pattern)",
+        "Zone + museum — confirm ticket scope",
+        "Not a Teotihuacan / Chichén combo myth"
+      ]
+    },
+    "visit": {
+      "intro": "INAH zone + museum — Mon close; boleto honesty; no invent MXN.",
+      "hours": "Commonly Tue–Sun ~09:00–17:00, closed Monday — verify templomayor.inah.gob.mx / inah.gob.mx. Morning better before tour groups.",
+      "tickets": "INAH boleto via ventadeboletosenlinea.inah.gob.mx and on-site. Mexican vs foreign tiers; Sunday free for Mexican citizens when published — do not invent MXN. Prefer INAH over OTA. No invent combo with Teotihuacan / Chichén.",
+      "dress": "Archaeological sacred precinct + museum — modest practical dress; no climbing conserved masonry; quiet in offering rooms.",
+      "duration": "2–3 hours excavated stages + museum galleries.",
+      "access": "Metro Zócalo (Línea 2) → Seminario / Centro Histórico walk. Pair Zócalo / Cathedral exterior without cloning a cathedral page.",
+      "tips": [
+        "Buy INAH boleto online or on-site — do not invent MXN.",
+        "Closed Monday — plan Tue–Sun.",
+        "Confirm whether your boleto covers zone, museum, or both as posted.",
+        "No climbing conserved masonry for photos.",
+        "Do not invent one ticket with Teotihuacan or Chichén Itzá.",
+        "Sunday free rules for Mexican citizens when published — verify INAH.",
+        "Morning light on excavated stages before groups peak."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://ventadeboletosenlinea.inah.gob.mx/",
+      "ticketsLabel": "INAH e-boletos — Templo Mayor (verify tiers; Mon close)",
+      "ticketsNote": "INAH boleto online + on-site; do not invent MXN; closed Monday."
+    },
+    "etiquette": {
+      "intro": "Archaeological sacred precinct + museum — no climbing, quiet offerings.",
+      "bullets": [
+        "No climbing conserved masonry or offering sculptures.",
+        "Quiet in museum offering rooms; modest practical dress.",
+        "Use INAH channels — not random OTA combo myths.",
+        "Threshold Atlas tone: Hueyi Teocalli / Huitzilopochtli + Tlaloc — not Zócalo ruins selfie only."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Templo Mayor in Centro Histórico.",
+      "paragraphs": [
+        "Take Metro Línea 2 to Zócalo and walk to Seminario / the Templo Mayor entrance in the Centro Histórico. The cathedral and Zócalo plaza are next door as separate exterior stops.",
+        "Buy the INAH boleto online or on-site. Check posted Mexican vs foreign tiers and Sunday citizen-free rules when published — do not invent MXN.",
+        "Teotihuacan, Chichén Itzá, and Palenque are related Mesoamerican peers on separate tickets and usually separate days. Do not invent a single combo covering Templo Mayor with those sites."
+      ],
+      "bullets": [
+        "Metro Zócalo (L2) → Seminario walk",
+        "INAH boleto online / on-site",
+        "Closed Monday",
+        "No Teotihuacan combo myth"
+      ]
+    },
+    "bestTime": {
+      "intro": "Morning Tue–Sun; never Monday.",
+      "paragraphs": [
+        "Morning light on the excavated stages is usually clearer before tour groups peak. Enter with enough time before the published close.",
+        "Monday close is a hard soft-blocker for weekend-only planners — verify templomayor.inah.gob.mx rather than inventing MXN ticket windows."
+      ],
+      "bullets": [
+        "Best: morning Tue–Sun",
+        "Closed Monday",
+        "Verify INAH hours / Sunday citizen rules",
+        "Do not invent MXN windows"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm INAH boleto tiers on ventadeboletosenlinea.inah.gob.mx — do not invent MXN.",
+        "Closed Monday; museum vs zona scope as posted.",
+        "Not a Teotihuacan / Chichén combo ticket.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "luxor-temple",
+    "name": "Luxor Temple (معبد الأقصر), Luxor",
+    "shortName": "Luxor Temple",
+    "location": "East bank Corniche, Luxor",
+    "country": "Egypt",
+    "region": "Africa",
+    "regionSlug": "africa",
+    "religions": [
+      "Ancient Egyptian"
+    ],
+    "religionSlugs": [
+      "ancient-egyptian"
+    ],
+    "summary": "East-bank MOTA mega — Luxor Temple (Amun of Luxor / Opet), distinct from live Karnak (~3 km north, separate ticket). Official egymonuments.gov.eg / egymonuments.com. Foreign / student / Egyptian tiers — do not invent EGP. Evening illumination popular; lighting ≠ free after-hours entry. Avenue of Sphinxes / Luxor Museum separate when ticketed.",
+    "heroImage": "https://images.unsplash.com/photo-1568322445389-f64ac2515020?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "New Kingdom fabric with major Amenhotep III / Ramesses II phases; Roman, Christian, and Islamic reuse layers",
+      "patron": "Ancient Egyptian — Amun of Luxor / Opet festival axis (archaeological temple)",
+      "unesco": "Within UNESCO Ancient Thebes with its Necropolis",
+      "typicalVisit": "90–120 minutes temple courts + colonnades; Karnak is a separate ticket / visit"
+    },
+    "related": [
+      "karnak",
+      "abu-simbel",
+      "philae"
+    ],
+    "overview": {
+      "body": [
+        "Luxor Temple is the east-bank MOTA mega of Amun of Luxor and the Opet festival axis — still a distinct visit from live Karnak about 3 km north, not a single Avenue-of-Sphinxes Instagram merge.",
+        "Frame the visit as Opet festival axis + Roman / Christian / Islamic reuse honesty. Modest practical dress; no climbing columns or touching reliefs; flash rules as posted.",
+        "Official tickets: MOTA e-tickets on egymonuments.com (Luxor Temple product) and ministry notices on egymonuments.gov.eg. Foreign / student / Egyptian tiers published — do not invent EGP. Karnak is a separate ticket; Avenue of Sphinxes and Luxor Museum are separate when ticketed.",
+        "MOTA commonly posts a long day window (morning–evening class; last entry earlier than close) — verify egymonuments.gov.eg / egymonuments.com. Evening illumination is popular; state lighting versus ticket hours honestly — illumination ≠ free after-hours entry.",
+        "Soft blockers: do not merge with Karnak as one site; midday heat; sound-and-light products ≠ temple admission; Abu Simbel / Philae already live — earn east-bank Luxor Temple difference. SanctaWay is informational — it does not sell tickets or grant access."
+      ],
+      "highlights": [
+        "East-bank Opet / Amun of Luxor mega",
+        "Separate MOTA ticket from Karnak",
+        "egymonuments.com / .gov.eg — do not invent EGP",
+        "Evening light popular ≠ free after-hours",
+        "Roman / Christian / Islamic reuse honesty"
+      ]
+    },
+    "visit": {
+      "intro": "MOTA Luxor Temple — separate from Karnak; no invent EGP.",
+      "hours": "Long day window (morning–evening class; last entry earlier than close) — verify egymonuments.gov.eg / egymonuments.com. Evening illumination popular; lighting ≠ free after-hours entry.",
+      "tickets": "MOTA e-tickets — egymonuments.com Luxor Temple product. Foreign / student / Egyptian tiers — do not invent EGP. Karnak separate; Avenue of Sphinxes / Luxor Museum separate when ticketed. Prefer ministry channels over OTA.",
+      "dress": "Archaeological temple — modest practical dress; no climbing columns / touching reliefs; flash rules as posted.",
+      "duration": "90–120 minutes courts + colonnades; Karnak needs a separate visit block.",
+      "access": "Luxor east bank Corniche — walk or taxi from Luxor station / hotels; ~3 km south of live Karnak (separate ticket). West bank tombs are another day.",
+      "tips": [
+        "Buy Luxor Temple on egymonuments.com — do not invent EGP.",
+        "Karnak is a separate ticket about 3 km north — do not merge.",
+        "Check last-entry vs close; evening light ≠ free after-hours.",
+        "No climbing columns or touching reliefs.",
+        "Sound-and-light products are not temple admission.",
+        "Midday heat on open courts is a soft blocker.",
+        "Avenue of Sphinxes / Luxor Museum may need separate tickets."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://egymonuments.com/",
+      "ticketsLabel": "MoTA e-tickets — Luxor Temple (egymonuments.com; separate from Karnak)",
+      "ticketsNote": "MOTA Luxor Temple product; Karnak separate; do not invent EGP."
+    },
+    "etiquette": {
+      "intro": "Archaeological temple — no climbing, posted flash rules.",
+      "bullets": [
+        "No climbing columns or touching reliefs.",
+        "Modest practical dress; follow posted flash / photo rules.",
+        "Keep Karnak as a separate ticketed visit.",
+        "Threshold Atlas tone: Opet axis + Roman/Christian/Islamic reuse — not Avenue of Sphinxes Instagram only."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Luxor Temple on the east bank.",
+      "paragraphs": [
+        "Luxor Temple sits on the east-bank Corniche. Walk or take a short taxi from Luxor station or east-bank hotels. Karnak is about 3 km north — plan it as a separate ticket and usually a separate block of time.",
+        "Buy the Luxor Temple MOTA product on egymonuments.com. Foreign / student / Egyptian tiers are published — do not invent EGP from old blogs.",
+        "West-bank tombs and Abu Simbel / Philae peers are different days. Avenue of Sphinxes and Luxor Museum may require separate tickets when open and ticketed."
+      ],
+      "bullets": [
+        "East-bank Corniche walk / taxi",
+        "~3 km south of Karnak — separate ticket",
+        "MOTA e-ticket on egymonuments.com",
+        "West bank = another day"
+      ]
+    },
+    "bestTime": {
+      "intro": "Morning heat-avoidance or verified evening ticket window.",
+      "paragraphs": [
+        "Morning usually beats midday heat on open courts. If you want evening illumination, confirm that your ticket window actually covers the lit hours — lighting displays are not free after-hours entry.",
+        "Last-entry rules often close before the published end time — verify egymonuments.gov.eg / egymonuments.com rather than inventing EGP windows."
+      ],
+      "bullets": [
+        "Best: morning, or verified evening ticket window",
+        "Midday heat soft blocker",
+        "Last entry earlier than close",
+        "Do not invent EGP / free after-hours myths"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm Luxor Temple MOTA tiers on egymonuments.com — do not invent EGP.",
+        "Karnak is separate (~3 km north); do not merge as one site.",
+        "Evening illumination ≠ free after-hours entry.",
         "SanctaWay is informational; it does not sell tickets or grant access.",
         "Hero image is an Unsplash placeholder pending visual / Commons pass."
       ]

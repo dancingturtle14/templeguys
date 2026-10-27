@@ -10,7 +10,7 @@ export const TEMPLE_CHAPTERS: {
   { id: 'etiquette', label: 'Etiquette', short: 'Etiquette' },
   { id: 'getting-there', label: 'Getting there', short: 'Getting there' },
   { id: 'best-time', label: 'Best time', short: 'Best time' },
-  { id: 'notes', label: 'Notes · 注意事項', short: 'Notes' },
+  { id: 'notes', label: 'Notes', short: 'Notes' },
 ]
 
 export function chapterIndex(id: TempleChapter) {

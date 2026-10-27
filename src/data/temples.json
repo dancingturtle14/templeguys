@@ -1983,7 +1983,7 @@
       "body": [
         "Wong Tai Sin Temple (Sik Sik Yuen) is among Hong Kong’s most visited working temples — courtyards, pavilions, incense, and kau chim (fortune sticks) a short walk from the MTR station that shares its name.",
         "Main temple grounds are free. Optional halls such as Taisui Yuenchen Hall publish separate admission on the official FAQ (commonly HK$100, with concessions) — verify current rates. Donations support Sik Sik Yuen’s charitable work.",
-        "Hours typically 7:30am–4:30pm daily, often later on lunar 1st and 15th (commonly to 9:00pm). Good Wish Garden and office hours can differ — check http://www.wongtaisintemple.org.hk/en/about-wong-tai-sin (HTTPS on that host returns 404).",
+        "Hours typically 7:30am–4:30pm daily, often later on lunar 1st and 15th (commonly to 9:00pm). Good Wish Garden and office hours can differ. Sik Sik Yuen’s own site is not reliably reachable (HTTPS on that host returns 404) — confirm hours and any optional hall fee at the temple.",
         "Expect dense crowds on festival and lunar days. Dress modestly in halls; follow attendants on incense and photography. Fortune-telling arcades nearby are commercial; the temple courtyards themselves remain the spiritual core — keep the two mentally separate.",
         "Pair with nearby Chi Lin Nunnery / Nan Lian Garden for a Kowloon sacred half-day if energy remains."
       ],
@@ -1992,13 +1992,13 @@
         "MTR Wong Tai Sin Exit B2 ~3 minutes",
         "Hours often 7:30–16:30; later on lunar 1st/15th",
         "Active kau chim and incense culture",
-        "Official Sik Sik Yuen FAQ for fees"
+        "Optional hall fees — confirm at the temple"
       ]
     },
     "visit": {
-      "intro": "Main grounds free; confirm optional hall fees on the official FAQ.",
-      "hours": "Temple typically 7:30am–4:30pm daily; lunar 1st/15th often to 9:00pm. Garden/office windows differ — verify http://www.wongtaisintemple.org.hk/en/about-wong-tai-sin",
-      "tickets": "Main temple free. Taisui Yuenchen Hall fee listed on official FAQ (commonly HK$100; concessions exist) — confirm live. Prayer/service fees may apply separately.",
+      "intro": "Main grounds free. Optional hall fees — the Sik Sik Yuen site is not reliably reachable, so confirm the rate at the temple.",
+      "hours": "Temple typically 7:30am–4:30pm daily; lunar 1st/15th often to 9:00pm. Garden/office windows differ. Sik Sik Yuen’s site is not reliably reachable — confirm hours at the temple.",
+      "tickets": "Main temple free. Taisui Yuenchen Hall fee was listed on the Sik Sik Yuen FAQ (commonly HK$100; concessions exist). That site is not reliably reachable — confirm the current rate at the temple. Prayer/service fees may apply separately.",
       "dress": "Modest clothing in halls; comfortable courtyard shoes.",
       "duration": "1–2 hours for main grounds; longer with optional halls or queues.",
       "access": "Mostly level courtyards from MTR; some steps into halls. Contact temple for disability assistance needs.",
@@ -2009,12 +2009,12 @@
         "Optional hall tickets only via official channels/on-site.",
         "Carry water; incense smoke can be strong.",
         "Combine Chi Lin the same day if desired.",
-        "Official site: http://www.wongtaisintemple.org.hk/en/about-wong-tai-sin (HTTPS on that host returns 404)."
+        "Sik Sik Yuen’s own site is not reliably reachable (HTTPS 404). Confirm hours and any optional hall fee at the temple."
       ],
       "entryType": "free",
-      "ticketsUrl": "http://www.wongtaisintemple.org.hk/en/about-wong-tai-sin",
-      "ticketsLabel": "Sik Sik Yuen — hours & admission FAQ",
-      "ticketsNote": "Main grounds free. Optional Taisui hall fee per official FAQ — verify current rate."
+      "ticketsUrl": "https://www.gohk.gov.hk/en/spots/spot_detail.php?spot=Wong+Tai+Sin+Temple",
+      "ticketsLabel": "Hong Kong Fun in 18 Districts — Wong Tai Sin Temple",
+      "ticketsNote": "Main grounds free. Optional Taisui hall fee was listed on the Sik Sik Yuen FAQ (commonly HK$100) — that site is not reliably reachable; confirm the current rate at the temple."
     },
     "etiquette": {
       "intro": "Active Taoist temple — match worshippers’ pace.",
@@ -7686,7 +7686,7 @@
     "religionSlugs": [
       "buddhist"
     ],
-    "summary": "UNESCO Silla flagship temple (Jogye Order) — Korea’s highest-demand temple visit; pair Seokguram same day with separate logistics. Cultural-heritage admission free since 2023 (eng.bulguksa.or.kr); parking paid. Do not invent KRW; third-party “tickets” are tours.",
+    "summary": "UNESCO Silla flagship temple (Jogye Order) — Korea’s highest-demand temple visit; pair Seokguram same day with separate logistics. Visit Korea lists admission as free (no KRW figure). Parking is available — confirm any fee on site. The English temple host is not reachable over TLS. Do not invent KRW; third-party “tickets” are tours.",
     "heroImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Daeungjeon%2C_Seokgatap_and_Dabotap.jpg/1920px-Daeungjeon%2C_Seokgatap_and_Dabotap.jpg",
     "heroCredit": "Christophe95 / Wikimedia Commons",
     "featured": true,
@@ -7705,38 +7705,38 @@
       "body": [
         "Bulguksa in Gyeongju is the UNESCO Silla flagship of Korean Buddhist architecture — Korea’s highest-demand temple visit and the clearest East Asia gap-closer against SanctaWay’s Japan-heavy set.",
         "Frame it as an active Jogye Order temple plus cultural-heritage landscape: quiet in halls, respectful photography, no pets. Seokguram Grotto (~11 km / shuttle or bus uphill) is the classic same-day pair with separate entry logistics and often no photos of the principal Buddha when posted.",
-        "Official hours and fee pages (bulguksa.or.kr / eng.bulguksa.or.kr) state cultural-heritage admission is free since the 2023 cultural-property law change. Parking is paid. Seokguram likewise lists free admission on its official hours page — verify live; do not invent KRW. Third-party “Bulguksa tickets” are tours.",
-        "Seasonal last-entry windows commonly open 09:00 with last entry ~17:00–18:00 by month — verify eng.bulguksa.or.kr. Cherry blossom and autumn foliage peaks; winter early dusk.",
+        "Visit Korea lists cultural-heritage admission as free and hours 09:00–18:00 (exit 19:00), open year-round. Parking is available — confirm any fee on site; do not invent KRW. The English temple host (eng.bulguksa.or.kr) is not reachable over TLS. Seokguram is a separate stop — confirm its own hours and admission there. Third-party “Bulguksa tickets” are tours.",
+        "Cherry blossom and autumn foliage peaks; winter early dusk. Confirm the day’s last entry on Visit Korea or at the gate.",
         "Stone staircases on the Dabotap–Seokgatap axis reward slow looking. Gyeongju’s historic areas are a multi-day city — not a one-temple dash."
       ],
       "highlights": [
         "UNESCO Silla flagship — Korea gap-closer",
-        "Admission free since 2023 — eng.bulguksa.or.kr",
+        "Admission free on Visit Korea — do not invent KRW",
         "Seokguram same-day pair, separate logistics",
-        "Seasonal last-entry windows — verify live",
-        "Parking paid; ignore third-party “tickets”"
+        "Visit Korea lists 09:00–18:00 (exit 19:00) — confirm live",
+        "Parking available; ignore third-party “tickets”"
       ]
     },
     "visit": {
-      "intro": "Free cultural-heritage admission; verify seasonal last entry on eng.bulguksa.or.kr.",
-      "hours": "Seasonal last-entry windows commonly: Nov–Jan 09:00–17:00; Feb & Oct 09:00–17:30; Mar–Sep 09:00–18:00 — verify eng.bulguksa.or.kr. Open year-round; pets not admitted.",
-      "tickets": "Temple cultural-heritage admission free per official hours/fee page since 2023. Parking is paid (verify live KRW on site pages — do not invent). Official: bulguksa.or.kr / eng.bulguksa.or.kr. Seokguram free admission on its official page but separate logistics. Third-party “Bulguksa tickets” = tours.",
+      "intro": "Visit Korea lists free admission and 09:00–18:00 (exit 19:00). Confirm at the gate. The English temple site is not reachable over TLS.",
+      "hours": "Visit Korea lists 09:00–18:00 (exit 19:00), open year-round; pets not admitted. Confirm before you go — eng.bulguksa.or.kr is not reachable over TLS.",
+      "tickets": "Visit Korea lists admission as free (no KRW figure). Parking is available — confirm any fee on site; do not invent KRW. Seokguram is a separate stop. Third-party “Bulguksa tickets” are tours. The English temple host is TLS-unreachable.",
       "dress": "Active temple — modest, quiet dress; remove hats in halls when customary; follow photography signs (especially Seokguram interior).",
       "duration": "2–3 hours at Bulguksa; half day or more if pairing Seokguram with shuttle/bus transit.",
       "access": "Stone staircases between gates, bridges, and pagoda axis. Seokguram is uphill ~11 km — shuttle or bus, not a casual add-on walk from the parking lot alone.",
       "tips": [
-        "Confirm free admission and last entry on eng.bulguksa.or.kr before you go.",
+        "Confirm free admission and hours on the Visit Korea Bulguksa page before you go.",
         "Ignore third-party “admission tickets” — they are tours.",
         "Plan Seokguram as a separate transit block the same day.",
         "Follow Seokguram photo rules for the principal Buddha when posted.",
         "Cherry blossom / autumn foliage = peak crowds.",
         "Gyeongju rewards multi-day historic-area time — not a one-stop dash.",
-        "Parking is paid even when temple admission is free."
+        "Parking is available even when admission is free — confirm any fee on site."
       ],
       "entryType": "free",
-      "ticketsUrl": "http://eng.bulguksa.or.kr/bbs/content.php?co_id=application",
-      "ticketsLabel": "Bulguksa — official hours & fee (free admission)",
-      "ticketsNote": "Cultural-heritage admission free since 2023 per official page. Parking paid. Seokguram separate. Third-party “tickets” are tours. Do not invent KRW."
+      "ticketsUrl": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=94395",
+      "ticketsLabel": "Visit Korea — Bulguksa hours & admission (free)",
+      "ticketsNote": "Visit Korea lists admission as free and hours 09:00–18:00 (exit 19:00). Parking available — confirm any fee on site. Do not invent KRW. Third-party “tickets” are tours."
     },
     "etiquette": {
       "intro": "Active Jogye Order UNESCO temple — quiet halls, living practice.",
@@ -7766,7 +7766,7 @@
       "intro": "Cherry blossom and autumn foliage peaks; winter early dusk.",
       "paragraphs": [
         "Spring blossoms and autumn colour are the beauty peaks — and the densest crowds. Summer is hot on stone stairs; winter last entry is earliest.",
-        "Weekday mornings are quieter. Confirm last entry by month on the official EN hours page."
+        "Weekday mornings are quieter. Confirm last entry on the Visit Korea Bulguksa page or at the gate."
       ],
       "bullets": [
         "Spring / autumn peak beauty + crowds",
@@ -7778,7 +7778,7 @@
     "notes": {
       "intro": "Notes · Verify before visit",
       "bullets": [
-        "Confirm free admission and seasonal hours on eng.bulguksa.or.kr.",
+        "Confirm free admission and hours on Visit Korea — eng.bulguksa.or.kr is not reachable over TLS.",
         "Seokguram is a separate logistics stop — verify its hours too.",
         "SanctaWay is informational; it does not sell tickets or grant access.",
         "Hero image is an Unsplash placeholder pending visual / Commons pass."
@@ -16012,7 +16012,7 @@
     "religionSlugs": [
       "buddhist"
     ],
-    "summary": "Laos national sacred symbol — golden stupa on banknotes and the national emblem. Outer plaza commonly free; inner cloister paid on-site (foreign vs Lao tiers drift — do not invent LAK; cash kip). Verify booth / Tourism Laos notices. Boun That Luang festival crush honesty. Vat Phou is a separate Champasak day (parked).",
+    "summary": "Laos national sacred symbol — golden stupa on banknotes and the national emblem. Outer plaza commonly free; inner cloister paid on-site (foreign vs Lao tiers drift — do not invent LAK; cash kip). Confirm the fee at the booth. Tourism Laos (tourismlaos.org) returned HTTP 509 and is not reliably reachable. Boun That Luang festival crush honesty. Vat Phou is a separate Champasak day (parked).",
     "heroImage": "https://images.unsplash.com/photo-1559592413-7cec4d0cae2b?auto=format&fit=crop&w=1600&q=80",
     "heroCredit": "Unsplash",
     "featured": true,
@@ -16031,8 +16031,8 @@
       "body": [
         "Pha That Luang is Laos's national sacred symbol — the golden stupa of Vientiane that appears on the emblem and banknotes, still a capital day-visit mega rather than a thin gold lump photo stop.",
         "Frame the visit as Lan Xang royal stupa + national emblem honesty. Shoulders and knees covered; women may rent a sinh skirt at the gate; remove shoes in the cloister; quiet.",
-        "Official tickets: outer plaza and flanking temples commonly free; inner cloister paid on-site (foreign vs Lao tiers — published figures drift; do not invent LAK; cash kip). Prefer the site booth / official Tourism Laos notices over random OTA. Festival free-entry days when announced by KPL = state as temporary.",
-        "Inner cloister commonly ~08:00–17:00 class (midday break sometimes reported; Tue–Sun patterns vary by source) — verify on-site / Tourism Laos notices. Outer plaza is freer. Boun That Luang (usually November lunar) = festival crush + possible rule changes.",
+        "Official tickets: outer plaza and flanking temples commonly free; inner cloister paid on-site (foreign vs Lao tiers — published figures drift; do not invent LAK; cash kip). Confirm the fee at the booth. Tourism Laos (tourismlaos.org) returned HTTP 509 and is not a reliable link. Festival free-entry days when announced by KPL = state as temporary.",
+        "Inner cloister commonly ~08:00–17:00 class (midday break sometimes reported; Tue–Sun patterns vary by source) — verify at the booth. Tourism Laos is not reliably reachable (HTTP 509). Outer plaza is freer. Boun That Luang (usually November lunar) = festival crush + possible rule changes.",
         "Soft blockers: midday cloister break; cash-only booth; festival road closures; Vat Phou is a separate Champasak day (parked this batch — do not invent one Laos sacred pass). SanctaWay is informational — it does not sell tickets or grant access."
       ],
       "highlights": [
@@ -16045,8 +16045,8 @@
     },
     "visit": {
       "intro": "National stupa — outer free / inner paid; cash LAK; no invent fares.",
-      "hours": "Inner cloister commonly ~08:00–17:00 class (midday break sometimes reported) — verify on-site / Tourism Laos. Outer plaza freer. Boun That Luang (Nov lunar) = crush + possible rule changes.",
-      "tickets": "Outer plaza + flanking temples commonly free; inner cloister paid on-site (foreign vs Lao tiers drift — do not invent LAK; cash kip). Prefer site booth / Tourism Laos notices over OTA. Festival free-entry days when announced = temporary.",
+      "hours": "Inner cloister commonly ~08:00–17:00 class (midday break sometimes reported) — verify at the booth. Tourism Laos is not reliably reachable (HTTP 509). Outer plaza freer. Boun That Luang (Nov lunar) = crush + possible rule changes.",
+      "tickets": "Outer plaza + flanking temples commonly free; inner cloister paid on-site (foreign vs Lao tiers drift — do not invent LAK; cash kip). Confirm the fee at the booth. Tourism Laos (tourismlaos.org) returned HTTP 509 — do not treat it as a live ticket page. Festival free-entry days when announced = temporary.",
       "dress": "Highest national Buddhist sanctuary — shoulders/knees covered; women may rent sinh skirt at gate; remove shoes in cloister; quiet.",
       "duration": "60–90 minutes plaza + inner cloister; festival days need hours of buffer.",
       "access": "~4 km NE of Vientiane centre / Patuxay — tuk-tuk / Loca / taxi from Wattay (~20–30 min). Outer plaza walkable circuit. Cash for the inner booth.",
@@ -16060,9 +16060,9 @@
         "Vat Phou is Champasak — do not invent one Laos sacred pass."
       ],
       "entryType": "paid",
-      "ticketsUrl": "https://www.tourismlaos.org/",
-      "ticketsLabel": "Tourism Laos / on-site booth — That Luang (verify LAK; cash)",
-      "ticketsNote": "Outer free / inner paid on-site; do not invent LAK; cash kip honesty."
+      "ticketsUrl": null,
+      "ticketsLabel": null,
+      "ticketsNote": "Inner cloister fee is collected at the on-site booth (cash kip). Tourism Laos (tourismlaos.org) returned HTTP 509 and is not reliably reachable. Confirm the day’s hours and fee at the gate. Do not invent LAK fares."
     },
     "etiquette": {
       "intro": "National Buddhist sanctuary — modest dress, shoes off in cloister.",
@@ -16103,7 +16103,7 @@
     "notes": {
       "intro": "Notes · Verify before visit",
       "bullets": [
-        "Confirm inner cloister fee on site / Tourism Laos — do not invent LAK; cash kip.",
+        "Confirm the inner cloister fee at the booth — do not invent LAK; cash kip. Tourism Laos returned HTTP 509.",
         "Outer free is not inner paid; midday break sometimes reported.",
         "Vat Phou stays parked — not one Laos sacred pass.",
         "SanctaWay is informational; it does not sell tickets or grant access.",

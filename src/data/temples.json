@@ -3921,7 +3921,7 @@
     "related": [
       "petra",
       "chichen-itza",
-      "cahokia"
+      "pachacamac"
     ],
     "overview": {
       "body": [
@@ -5188,7 +5188,7 @@
     "related": [
       "acropolis-parthenon",
       "machu-picchu",
-      "newgrange"
+      "carnac"
     ],
     "overview": {
       "body": [
@@ -5761,7 +5761,7 @@
     "related": [
       "petra",
       "abu-simbel",
-      "hatshepsut-temple"
+      "saqqara"
     ],
     "overview": {
       "body": [
@@ -6217,7 +6217,7 @@
     "related": [
       "chichen-itza",
       "machu-picchu",
-      "el-tajin"
+      "cholula"
     ],
     "overview": {
       "body": [
@@ -6331,7 +6331,7 @@
     "related": [
       "karnak",
       "petra",
-      "edfu"
+      "saqqara"
     ],
     "overview": {
       "body": [
@@ -6559,7 +6559,7 @@
     "related": [
       "acropolis-parthenon",
       "mont-saint-michel",
-      "geghard"
+      "sumela-monastery"
     ],
     "overview": {
       "body": [
@@ -7359,7 +7359,7 @@
     "related": [
       "stonehenge",
       "petra",
-      "newgrange"
+      "carnac"
     ],
     "overview": {
       "body": [
@@ -9964,7 +9964,7 @@
     "related": [
       "machu-picchu",
       "teotihuacan",
-      "cahokia"
+      "chavin-de-huantar"
     ],
     "overview": {
       "body": [
@@ -11198,7 +11198,7 @@
     "related": [
       "machu-picchu",
       "tiwanaku",
-      "cahokia"
+      "chavin-de-huantar"
     ],
     "overview": {
       "body": [
@@ -12543,7 +12543,7 @@
     "related": [
       "abu-simbel",
       "karnak",
-      "edfu"
+      "saqqara"
     ],
     "overview": {
       "body": [
@@ -17044,7 +17044,7 @@
     "related": [
       "teotihuacan",
       "chichen-itza",
-      "el-tajin"
+      "cholula"
     ],
     "overview": {
       "body": [
@@ -17157,7 +17157,7 @@
     "related": [
       "karnak",
       "abu-simbel",
-      "edfu"
+      "dendara"
     ],
     "overview": {
       "body": [
@@ -17609,7 +17609,7 @@
     "related": [
       "hagia-sophia",
       "meteora",
-      "mount-nemrut"
+      "sumela-monastery"
     ],
     "overview": {
       "body": [
@@ -18061,7 +18061,7 @@
     "related": [
       "karnak",
       "luxor-temple",
-      "abu-simbel"
+      "dendara"
     ],
     "overview": {
       "body": [
@@ -18174,7 +18174,7 @@
     "related": [
       "teotihuacan",
       "monte-alban",
-      "templo-mayor"
+      "cholula"
     ],
     "overview": {
       "body": [
@@ -18287,7 +18287,7 @@
     "related": [
       "stonehenge",
       "tiwanaku",
-      "teotihuacan"
+      "chaco-canyon"
     ],
     "overview": {
       "body": [
@@ -18400,7 +18400,7 @@
     "related": [
       "karnak",
       "philae",
-      "hatshepsut-temple"
+      "dendara"
     ],
     "overview": {
       "body": [
@@ -18739,7 +18739,7 @@
     "related": [
       "meteora",
       "rila-monastery",
-      "goreme-open-air"
+      "sumela-monastery"
     ],
     "overview": {
       "body": [
@@ -18852,7 +18852,7 @@
     "related": [
       "stonehenge",
       "gobekli-tepe",
-      "cahokia"
+      "carnac"
     ],
     "overview": {
       "body": [
@@ -19046,6 +19046,912 @@
         "Confirm official Baptism Site ticket / Jordan Pass add-on on baptismsite.com + jordanpass.jo — do not invent JOD.",
         "Mount Nebo is separate; Qasr el-Yahud is a different site; no Al-Aqsa framing.",
         "River water contact and photo rules as posted.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "saqqara",
+    "name": "Saqqara / Step Pyramid of Djoser (سقارة), Giza Governorate",
+    "shortName": "Saqqara",
+    "location": "Saqqara necropolis south of Giza Plateau, Memphis necropolis",
+    "country": "Egypt",
+    "region": "Africa",
+    "regionSlug": "africa",
+    "religions": [
+      "Ancient Egyptian"
+    ],
+    "religionSlugs": [
+      "ancient-egyptian"
+    ],
+    "summary": "UNESCO Memphis necropolis / Step Pyramid of Djoser — foundational Old Kingdom sacred landscape; every Egypt itinerary household name beside (not equal to) Giza. MOTA egymonuments.com. Separate from Giza Plateau / Dahshur / Memphis museum. Do not invent EGP.",
+    "heroImage": "https://images.unsplash.com/photo-1568322445389-f64ac2515020?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Early Third Dynasty — Step Pyramid of Djoser (Netjerykhet; architect traditionally Imhotep)",
+      "patron": "Ancient Egyptian — royal necropolis of Memphis; Djoser complex + mastabas / Serapeum landscape",
+      "unesco": "Memphis and its Necropolis – the Pyramid Fields from Giza to Dahshur (1979)",
+      "typicalVisit": "Half-day with Imhotep Museum when open; often paired same-day with Memphis museum / Dahshur on separate tickets"
+    },
+    "related": [
+      "karnak",
+      "abu-simbel",
+      "edfu"
+    ],
+    "overview": {
+      "body": [
+        "Saqqara is the Memphis necropolis Step Pyramid mega — Djoser’s six-step stone complex, mastaba fields, and the Serapeum sacred landscape — foundational Old Kingdom fabric that every Egypt itinerary names beside Giza, not a budget Giza substitute selfie stop.",
+        "Frame the visit as Imhotep’s stacked-mastaba innovation + sacred necropolis honesty. The Step Pyramid sits in a wider UNESCO Memphis–Dahshur pyramid field; Giza Plateau, Dahshur, and the Memphis open-air museum are separate sites with separate MOTA products.",
+        "Official tickets: MOTA e-tickets — egymonuments.com (Saqqara Monuments). Entry, all-inclusive bundles, and add-ons (Pyramid of Djoser interior, Mereruka, Serapeum, New / South Tombs) publish as separate lines — do not invent EGP from blogs or tour handouts. Prefer MOTA over random OTA “Saqqara VIP.”",
+        "MOTA daytime window — verify egymonuments.gov.eg / egymonuments.com (last-entry vs close; Ramadan shifts when published). Morning before heat and coach peak; Imhotep Museum on-site when open.",
+        "Soft blockers: heat on the open plateau; rotating tomb closures; do not invent a single ticket with Giza Plateau / Sphinx / Dahshur. Earn keep as Memphis necropolis / Step Pyramid foundational sacred landscape — page must not overclaim “oldest pyramid on earth” tourist myth without Old Kingdom nuance. SanctaWay is informational — it does not sell tickets or grant access."
+      ],
+      "highlights": [
+        "UNESCO Memphis necropolis / Step Pyramid of Djoser",
+        "MOTA egymonuments.com — do not invent EGP",
+        "Separate from Giza Plateau / Dahshur / Memphis museum",
+        "Morning before heat + coach peak",
+        "Serapeum / mastaba add-ons may be separate products"
+      ]
+    },
+    "visit": {
+      "intro": "MOTA Saqqara Monuments — e-ticket honesty; no invent EGP; not a Giza merge.",
+      "hours": "MOTA daytime window — verify egymonuments.gov.eg / egymonuments.com (last-entry vs close as published; Ramadan shifts when listed). Morning before heat.",
+      "tickets": "MOTA e-tickets — egymonuments.com Saqqara Monuments. Foreign / student / Egyptian tiers; entry vs all-inclusive vs tomb / Serapeum / Djoser-interior add-ons as published — do not invent EGP. Prefer MOTA over OTA. Giza Plateau, Dahshur, Memphis museum = separate products.",
+      "dress": "Old Kingdom sacred necropolis — modest practical dress; no climbing the Step Pyramid when restricted; no touching reliefs in open tombs; photo rules in Serapeum / mastabas as posted.",
+      "duration": "2–4 hours necropolis circuit + Imhotep Museum when open; half-day common when pairing Memphis / Dahshur on separate tickets.",
+      "access": "Cairo / Giza gateway — road south to Saqqara (~45–60 min class from Giza Plateau depending on traffic). Often same-day with Memphis museum / Dahshur — separate tickets. Not a “one Giza pass” myth.",
+      "tips": [
+        "Buy MOTA e-ticket on egymonuments.com (Saqqara Monuments) — do not invent EGP.",
+        "Do not invent one ticket with Giza Plateau / Sphinx / Dahshur.",
+        "Morning beats heat and coach peak on the open plateau.",
+        "Pyramid of Djoser interior / Serapeum / mastabas may be separate add-ons — verify on MOTA.",
+        "No climbing the Step Pyramid when restricted; no touching reliefs.",
+        "Imhotep Museum on-site when open — confirm hours separately.",
+        "Prefer MOTA over random OTA “Saqqara VIP.”"
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://egymonuments.com/locations/details/SaqqaraMonuments",
+      "ticketsLabel": "MoTA e-tickets — Saqqara Monuments (egymonuments.com; separate from Giza / Dahshur)",
+      "ticketsNote": "MOTA e-ticket; foreign/student/Egyptian tiers; add-ons as published; do not invent EGP; not a Giza combo."
+    },
+    "etiquette": {
+      "intro": "Old Kingdom necropolis — Step Pyramid, mastabas, Serapeum rules.",
+      "bullets": [
+        "No climbing the Step Pyramid when restricted; no touching reliefs in open tombs.",
+        "Modest practical dress; photo rules in Serapeum / mastabas as posted.",
+        "Keep Giza Plateau / Dahshur / Memphis museum as separate tickets.",
+        "Threshold Atlas tone: Djoser complex + sacred landscape — not budget Giza selfie substitute."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Saqqara from Cairo / Giza.",
+      "paragraphs": [
+        "Most visitors reach Saqqara by road from Cairo or the Giza Plateau (~45–60 min class depending on traffic). Private driver, licensed tour, or taxi are common; public options exist but are slower for first-time visitors.",
+        "Buy the MOTA Saqqara Monuments ticket on egymonuments.com. Foreign / student / Egyptian tiers and tomb add-ons are published there — do not invent EGP from old blogs or tour handouts.",
+        "Giza Plateau, Dahshur, and the Memphis open-air museum are separate MOTA products. Do not invent a single Memphis–Giza sacred pass."
+      ],
+      "bullets": [
+        "Cairo / Giza road south (~45–60 min class)",
+        "MOTA e-ticket on egymonuments.com",
+        "Giza / Dahshur / Memphis museum = separate tickets",
+        "Morning start for heat management"
+      ]
+    },
+    "bestTime": {
+      "intro": "Morning before heat and coach peak.",
+      "paragraphs": [
+        "Morning usually beats the coach wave and the intense midday heat on the open necropolis. Confirm last-entry vs close on MOTA pages.",
+        "Ramadan / seasonal hour shifts can be published — verify egymonuments.gov.eg / egymonuments.com rather than inventing EGP windows."
+      ],
+      "bullets": [
+        "Best: morning before heat + coaches",
+        "Midday heat soft blocker",
+        "Verify MOTA hours / last entry",
+        "Do not invent EGP / Giza combo myths"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm MOTA e-ticket tiers and add-ons on egymonuments.com — do not invent EGP.",
+        "Giza Plateau / Dahshur / Memphis museum are separate — earn Step Pyramid / Memphis necropolis difference.",
+        "Rotating tomb closures and heat are standing soft blockers.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "dendara",
+    "name": "Temple of Hathor at Dendera / Dendara (معبد دندرة), Qena",
+    "shortName": "Dendara",
+    "location": "Dendera / Dendara temple complex, Qena Governorate (Nile north of Luxor)",
+    "country": "Egypt",
+    "region": "Africa",
+    "regionSlug": "africa",
+    "religions": [
+      "Ancient Egyptian"
+    ],
+    "religionSlugs": [
+      "ancient-egyptian"
+    ],
+    "summary": "Best-preserved Hathor cult temple at Qena — zodiac ceiling + roof panorama fame; Nile/Qena day distinct from Luxor banks + Edfu. MOTA egymonuments.com Dandarah. Panorama / serdab may be separate add-ons. Do not invent EGP.",
+    "heroImage": "https://images.unsplash.com/photo-1539650116574-75c0c6d73f6e?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Ptolemaic Temple of Hathor (on older sacred ground attested to the Old Kingdom)",
+      "patron": "Ancient Egyptian — Hathor of Dendera (music, joy, sky); mammisi / birth-house fabric",
+      "unesco": "Ticketed MOTA monument within Egypt’s monumental landscape (verify egymonuments.gov.eg / egymonuments.com)",
+      "typicalVisit": "90–150 minutes temple + optional panorama / crypt circuit; day from Luxor common"
+    },
+    "related": [
+      "edfu",
+      "karnak",
+      "hatshepsut-temple"
+    ],
+    "overview": {
+      "body": [
+        "Dendara is the Qena Hathor temple mega — best-preserved Ptolemaic Hathor fabric, astronomical ceilings, and roof panorama fame — still a distinct Nile stop north of Luxor, not a Luxor-bank clone or “zodiac conspiracy Instagram only.”",
+        "Frame the visit as Hathor cult centre + mammisi honesty. Luxor east/west bank (Karnak, Luxor Temple, Hatshepsut), Edfu Horus, Philae, and Abu Simbel are separate MOTA products — do not invent a single Nile temple pass.",
+        "Official tickets: MOTA e-tickets — egymonuments.com (Dandarah Temple). Foreign / student / Egyptian tiers; temple panorama and serdab / crypt may publish as separate add-ons — do not invent EGP. Prefer MOTA over OTA.",
+        "MOTA daytime window — verify egymonuments.gov.eg / egymonuments.com. Morning for colonnade light; roof / panorama access when ticketed and open.",
+        "Soft blockers: Egypt ancient-egyptian denseness — page must earn Qena Hathor + zodiac difference vs Luxor denseness + Edfu; heat; do not invent “one Nile temple pass.” Kom Ombo / Abydos stay secondary stops. SanctaWay is informational — it does not sell tickets or grant access."
+      ],
+      "highlights": [
+        "Best-preserved Temple of Hathor at Qena",
+        "MOTA egymonuments.com Dandarah — do not invent EGP",
+        "Zodiac ceiling + roof panorama fame",
+        "Distinct from Luxor banks + Edfu",
+        "Panorama / serdab may be separate add-ons"
+      ]
+    },
+    "visit": {
+      "intro": "MOTA Dandarah Temple — e-ticket honesty; no invent EGP; not a Luxor merge.",
+      "hours": "MOTA daytime window — verify egymonuments.gov.eg / egymonuments.com (last-entry vs close as published). Morning for colonnade light.",
+      "tickets": "MOTA e-tickets — egymonuments.com Dandarah Temple. Foreign / student / Egyptian tiers; panorama / serdab add-ons as published — do not invent EGP. Prefer MOTA over OTA. Karnak / Luxor Temple / Hatshepsut / Edfu / Philae / Abu Simbel = separate products.",
+      "dress": "Ptolemaic Hathor cult temple — modest practical dress; no climbing off-path on roof when restricted; no touching astronomical ceilings; photo rules in crypts / sanctuary as posted.",
+      "duration": "90–150 minutes temple circuit; add time for panorama / crypt when ticketed and open.",
+      "access": "Qena / Luxor gateway — road north from Luxor (~1–1.5 h class) or Nile cruise stop; taxi / tour common. Not the same ticket as Karnak / Luxor Temple / Edfu.",
+      "tips": [
+        "Buy MOTA e-ticket on egymonuments.com (Dandarah Temple) — do not invent EGP.",
+        "Do not invent one Nile temple pass with Luxor / Edfu / Philae / Abu Simbel.",
+        "Morning for colonnade light before heat and groups.",
+        "Panorama / serdab may be separate add-ons — verify on MOTA.",
+        "No climbing off-path on roof; no touching astronomical ceilings.",
+        "Kom Ombo and Abydos stay separate tickets (B21+ densify).",
+        "Prefer MOTA over random OTA “Dendara VIP.”"
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://egymonuments.com/locations/details/DandarahTemple",
+      "ticketsLabel": "MoTA e-tickets — Dandarah Temple (egymonuments.com; separate from Luxor / Edfu)",
+      "ticketsNote": "MOTA e-ticket; foreign/student/Egyptian tiers; panorama/serdab add-ons as published; do not invent EGP; not a Luxor combo."
+    },
+    "etiquette": {
+      "intro": "Ptolemaic Hathor temple — ceilings, roof, crypts.",
+      "bullets": [
+        "No climbing off-path on roof when restricted; no touching astronomical ceilings.",
+        "Modest practical dress; crypt / sanctuary photo rules as posted.",
+        "Keep Luxor temples / Edfu / Philae / Abu Simbel as separate tickets.",
+        "Threshold Atlas tone: Hathor / zodiac / mammisi — not zodiac conspiracy Instagram only."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Dendara from Luxor / Qena.",
+      "paragraphs": [
+        "Most visitors day-trip by road from Luxor (~1–1.5 h class north) or stop on a Nile cruise near Qena. Private driver or licensed tour is the usual pattern; taxis from Luxor are common.",
+        "Buy the MOTA Dandarah Temple ticket on egymonuments.com. Foreign / student / Egyptian tiers and panorama / serdab add-ons are published there — do not invent EGP.",
+        "Karnak, Luxor Temple, Hatshepsut, Edfu, Philae, and Abu Simbel are separate MOTA products. Do not invent a single Nile sacred pass."
+      ],
+      "bullets": [
+        "Luxor road north (~1–1.5 h) or Nile cruise stop",
+        "MOTA e-ticket on egymonuments.com",
+        "Other Nile temples = separate tickets",
+        "Morning for light and heat management"
+      ]
+    },
+    "bestTime": {
+      "intro": "Morning for colonnade light before heat.",
+      "paragraphs": [
+        "Morning usually gives the best colonnade light and quieter courts before midday heat. Confirm last-entry vs close on MOTA pages.",
+        "Ramadan / seasonal hour shifts can be published — verify egymonuments.gov.eg / egymonuments.com rather than inventing EGP windows."
+      ],
+      "bullets": [
+        "Best: morning colonnade light",
+        "Midday heat soft blocker",
+        "Verify MOTA hours / last entry",
+        "Do not invent EGP / Nile combo myths"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm MOTA e-ticket tiers and panorama / serdab add-ons on egymonuments.com — do not invent EGP.",
+        "Luxor denseness and Edfu / Philae / Abu Simbel are separate — earn Qena Hathor + zodiac difference.",
+        "Kom Ombo / Abydos stay parked as separate stops.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "cholula",
+    "name": "Great Pyramid of Cholula / Tepanapa + Nuestra Señora de los Remedios, Puebla",
+    "shortName": "Cholula",
+    "location": "San Andrés / San Pedro Cholula, Puebla metropolitan area",
+    "country": "Mexico",
+    "region": "Americas",
+    "regionSlug": "americas",
+    "religions": [
+      "Mesoamerican"
+    ],
+    "religionSlugs": [
+      "mesoamerican"
+    ],
+    "summary": "Largest pyramid by volume worldwide (Tepanapa) with colonial Remedios church on the summit — Puebla day-trip mega after Teotihuacan / Templo Mayor. INAH zone + church lanes separate. Do not invent MXN.",
+    "heroImage": "https://images.unsplash.com/photo-1518638150340-f706e86654de?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Pre-Hispanic pyramid complex (multi-phase; Classic–Postclassic layers) with colonial church summit overlay",
+      "patron": "Mesoamerican sacred pyramid (Tepanapa) + active Catholic hilltop shrine (Nuestra Señora de los Remedios)",
+      "unesco": "Part of Mexico’s monumental archaeological landscape; INAH Zona Arqueológica de Cholula (verify inah.gob.mx)",
+      "typicalVisit": "2–3 hours INAH tunnels / plazas + optional church summit; Puebla half-day common"
+    },
+    "related": [
+      "teotihuacan",
+      "templo-mayor",
+      "monte-alban"
+    ],
+    "overview": {
+      "body": [
+        "Cholula is the Puebla Great Pyramid mega — Tepanapa, often called the largest pyramid by volume on earth, crowned by the colonial church of Nuestra Señora de los Remedios — a sacred summit postcard after live Teotihuacan / Templo Mayor / Monte Albán / El Tajín, not “largest pyramid trivia only.”",
+        "Frame the visit as Mesoamerican sacred volume + active Catholic hilltop honesty. The INAH archaeological zone (tunnels, plazas, site museum when open) and the church summit are different lanes — a church visit is not an INAH zone ticket.",
+        "Official tickets: INAH boleto — ventadeboletosenlinea.inah.gob.mx and on-site. Mexican vs foreign tiers; Sunday-free / resident rules when published — do not invent MXN. Prefer INAH over random OTA “Cholula VIP.”",
+        "INAH zone commonly daytime Wed–Sun patterns — verify inah.gob.mx / Cholula Zona Arqueológica pages (Mon-close patterns when published). Morning cooler for tunnels; church Mass schedule is separate.",
+        "Soft blockers: tunnel claustrophobia / rotating closures; Popocatépetl vista contingency on ash / closure days; do not invent combo with Teotihuacan / Templo Mayor as one pass. Earn keep as volume-largest pyramid + sacred summit church. SanctaWay is informational — it does not sell tickets or grant access."
+      ],
+      "highlights": [
+        "Largest pyramid by volume (Tepanapa) + Remedios summit church",
+        "INAH boleto — do not invent MXN",
+        "Church visit ≠ INAH zone ticket",
+        "Puebla day-trip mega",
+        "Morning cooler for tunnels / plazas"
+      ]
+    },
+    "visit": {
+      "intro": "INAH Cholula zone — boleto honesty; church summit separate; no invent MXN.",
+      "hours": "INAH zone commonly daytime — verify inah.gob.mx / Cholula Zona Arqueológica (Wed–Sun / Mon-close patterns when published). Church Mass schedule separate.",
+      "tickets": "INAH boleto — ventadeboletosenlinea.inah.gob.mx and on-site. Mexican vs foreign tiers; Sunday-free rules when published — do not invent MXN. Church visit ≠ zone ticket. Prefer INAH over OTA. Teotihuacan / Templo Mayor / Monte Albán / El Tajín = separate products.",
+      "dress": "Mesoamerican sacred pyramid + active Catholic hilltop church — modest dress for church interior; stay on marked tunnels / plazas; no climbing restricted slopes.",
+      "duration": "2–3 hours INAH tunnels / plazas / museum when open; add time for church summit and Puebla centro.",
+      "access": "Puebla city / Mexico City day-trip — bus / rideshare to Cholula centro + pyramid zone; Popocatépetl vista when clear. Pair Puebla historic centre without inventing one ticket.",
+      "tips": [
+        "Buy INAH boleto on ventadeboletosenlinea.inah.gob.mx — do not invent MXN.",
+        "Church summit ≠ INAH archaeological zone ticket.",
+        "Morning cooler for tunnels; watch Mon-close patterns.",
+        "Stay on marked tunnels / plazas; no climbing restricted slopes.",
+        "Do not invent combo with Teotihuacan / Templo Mayor.",
+        "Volcano contingency days can affect views / access messaging — check local notices.",
+        "Prefer INAH over random OTA “Cholula VIP.”"
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://ventadeboletosenlinea.inah.gob.mx/",
+      "ticketsLabel": "INAH e-tickets — Cholula zone (ventadeboletosenlinea.inah.gob.mx; church ≠ zone)",
+      "ticketsNote": "INAH boleto; Mexican/foreign tiers; Sunday-free when published; do not invent MXN; church visit separate."
+    },
+    "etiquette": {
+      "intro": "Sacred pyramid + active hilltop church.",
+      "bullets": [
+        "Modest dress for church interior; quiet during Mass.",
+        "Stay on marked tunnels / plazas; no climbing restricted slopes.",
+        "Keep Teotihuacan / Templo Mayor / Monte Albán as separate tickets.",
+        "Threshold Atlas tone: Tepanapa volume + Remedios overlay — not trivia-only pyramid ranking."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Cholula from Puebla / Mexico City.",
+      "paragraphs": [
+        "Most visitors day-trip from Puebla city or Mexico City by bus, rideshare, or tour to Cholula centro, then walk or short hop to the INAH zone and church hill. Puebla historic centre pairs naturally without a shared ticket.",
+        "Buy the INAH Cholula zone boleto on ventadeboletosenlinea.inah.gob.mx or on-site. Mexican vs foreign tiers and Sunday-free rules are published — do not invent MXN.",
+        "Teotihuacan, Templo Mayor, Monte Albán, and El Tajín are separate INAH products. Do not invent a single Central Mexico sacred pass."
+      ],
+      "bullets": [
+        "Puebla / Mexico City day-trip",
+        "INAH boleto online or on-site",
+        "Church summit = separate lane",
+        "Other INAH megas = separate tickets"
+      ]
+    },
+    "bestTime": {
+      "intro": "Morning cooler for tunnels; shoulder seasons quieter.",
+      "paragraphs": [
+        "Morning is usually cooler for the tunnel and plaza circuit. Confirm INAH hours and any Mon-close pattern before you go.",
+        "Clear days can open Popocatépetl vistas from the summit — ash / contingency messaging can change; check local notices rather than inventing access myths."
+      ],
+      "bullets": [
+        "Best: morning cooler tunnels",
+        "Verify INAH hours / Mon-close",
+        "Volcano vista contingency soft blocker",
+        "Do not invent MXN / combo myths"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm INAH boleto tiers on ventadeboletosenlinea.inah.gob.mx — do not invent MXN.",
+        "Church summit and INAH zone are different lanes.",
+        "Tunnel closures and volcano contingency are standing soft blockers.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "pachacamac",
+    "name": "Sanctuary of Pachacamac (Santuario de Pachacamac), Lima",
+    "shortName": "Pachacamac",
+    "location": "Lurín district, south of Lima on the Panamericana Sur coast",
+    "country": "Peru",
+    "region": "Americas",
+    "regionSlug": "americas",
+    "religions": [
+      "Andean",
+      "Inca"
+    ],
+    "religionSlugs": [
+      "andean",
+      "inca"
+    ],
+    "summary": "Lima-coast oracle pilgrimage sanctuary — pre-Inca Ychsma layers with Inca overlay; Museo de Sitio + monumental zone. Ministerio de Cultura / tuboleto.cultura.pe / pachacamac.cultura.pe. Do not invent PEN. Not a Cusco combo.",
+    "heroImage": "https://images.unsplash.com/photo-1526392060635-9d6019884377?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Long-occupied coastal ceremonial centre (Ychsma / Ichma layers with Inca pilgrimage overlay)",
+      "patron": "Andean — Pacha Kamaq oracle; Inca Sun Maiden / pilgrimage framing on older coastal sacred landscape",
+      "unesco": "Major Ministerio de Cultura monumental zone + site museum (verify pachacamac.cultura.pe / tuboleto.cultura.pe)",
+      "typicalVisit": "2–3 hours museum + monumental circuit; Lima half-day common"
+    },
+    "related": [
+      "machu-picchu",
+      "coricancha",
+      "chavin-de-huantar"
+    ],
+    "overview": {
+      "body": [
+        "Pachacamac is the Lima-coast oracle mega — pre-Inca Ychsma ceremonial pyramids and Inca pilgrimage overlay south of Miraflores — a Threshold Atlas coastal sacred landscape beside highland Inca peers, not a “Lima ruins add-on only.”",
+        "Frame the visit as Pacha Kamaq oracle + pilgrimage honesty without erasing older coastal layers. Museo de Sitio usually opens the visit; some huacas are exterior-view only when conservation requires it.",
+        "Official tickets: Ministerio de Cultura / Museo de Sitio Pachacamac — on-site and tuboleto.cultura.pe when the product is listed; confirm current hours and tiers on pachacamac.cultura.pe — do not invent PEN. Prefer official Cultura over opaque OTA.",
+        "Site + museum typically Tue–Sun daytime — verify Cultura pages (first-Sunday resident rules when published). Morning coastal fog (garúa) vs afternoon glare; heat on exposed pyramids.",
+        "Soft blockers: coastal heat / fog; conservation closures on pilgrim routes; do not invent combo with Machu Picchu / Cusco as one pass. Earn keep as Lima-accessible oracle mega. SanctaWay is informational — it does not sell tickets or grant access."
+      ],
+      "highlights": [
+        "Lima-coast oracle pilgrimage sanctuary",
+        "Cultura / tuboleto — do not invent PEN",
+        "Pre-Inca Ychsma + Inca overlay honesty",
+        "Museo de Sitio + monumental zone",
+        "Not a Cusco / Machu Picchu combo"
+      ]
+    },
+    "visit": {
+      "intro": "Cultura Pachacamac — museum + monumental zone; no invent PEN; not Cusco merge.",
+      "hours": "Typically Tue–Sun daytime — verify pachacamac.cultura.pe (last ticket sale vs close; first-Sunday resident rules when published). Morning fog vs afternoon glare.",
+      "tickets": "Ministerio de Cultura / Museo de Sitio Pachacamac — on-site and tuboleto.cultura.pe when enabled. Confirm tiers on pachacamac.cultura.pe — do not invent PEN. Prefer Cultura over OTA. Machu Picchu / Coricancha / Cusco sites = separate products.",
+      "dress": "Coastal Andean oracle pilgrimage landscape — modest practical dress; stay on marked circuits; no climbing restricted huacas; no drone without permit.",
+      "duration": "2–3 hours museum + monumental circuit; guided options when offered are separate commercial / Cultura products.",
+      "access": "Lima south — ~30–45 min class from Miraflores / Barranco via Panamericana Sur; taxi / tour / local bus. Often half-day with Museo de Sitio on arrival.",
+      "tips": [
+        "Confirm tickets on pachacamac.cultura.pe / tuboleto.cultura.pe — do not invent PEN.",
+        "Do not invent combo with Machu Picchu / Cusco.",
+        "Start at Museo de Sitio before the open pyramids.",
+        "Stay on marked circuits; no climbing restricted huacas.",
+        "Morning garúa fog vs afternoon glare — plan sun/heat accordingly.",
+        "Some pilgrim routes / pyramids may be exterior-view only during conservation.",
+        "Prefer official Cultura over opaque OTA."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://pachacamac.cultura.pe/visita",
+      "ticketsLabel": "Museo Pachacamac / Cultura — visit info (pachacamac.cultura.pe; tuboleto when listed)",
+      "ticketsNote": "Cultura site+museum; confirm tiers on official pages; do not invent PEN; not a Cusco combo."
+    },
+    "etiquette": {
+      "intro": "Coastal oracle sanctuary — museum + huacas.",
+      "bullets": [
+        "Stay on marked circuits; no climbing restricted huacas; no drone without permit.",
+        "Modest practical dress on exposed pyramids.",
+        "Keep Machu Picchu / Coricancha / Cusco as separate tickets.",
+        "Threshold Atlas tone: Pacha Kamaq + Ychsma layers — not Lima ruins checklist only."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Pachacamac from Lima.",
+      "paragraphs": [
+        "Most visitors reach Pachacamac in ~30–45 min class south from Miraflores / Barranco on the Panamericana Sur by taxi, rideshare, or tour. Local buses also serve Lurín; first-timers usually prefer door-to-door.",
+        "Confirm museum + site tickets on pachacamac.cultura.pe and tuboleto.cultura.pe when the product is listed — do not invent PEN from old blogs.",
+        "Machu Picchu, Coricancha, and other Cusco products are separate Cultura tickets. Do not invent a single Peru sacred pass."
+      ],
+      "bullets": [
+        "Lima south via Panamericana Sur",
+        "Cultura / tuboleto ticket honesty",
+        "Cusco / Machu Picchu = separate",
+        "Half-day from Miraflores common"
+      ]
+    },
+    "bestTime": {
+      "intro": "Morning fog vs afternoon glare; Tue–Sun pattern.",
+      "paragraphs": [
+        "Morning coastal fog (garúa) can soften heat but mute views; afternoons are brighter and hotter on exposed adobe. Confirm Cultura hours and last ticket sale.",
+        "First-Sunday resident free rules and conservation closures can change — verify pachacamac.cultura.pe rather than inventing PEN windows."
+      ],
+      "bullets": [
+        "Best: plan for fog vs glare",
+        "Verify Cultura hours / last sale",
+        "Conservation closures soft blocker",
+        "Do not invent PEN / Cusco combo myths"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm Cultura / tuboleto tiers on official pages — do not invent PEN.",
+        "Pre-Inca Ychsma layers matter — do not erase them under Inca-only framing.",
+        "Not a Cusco / Machu Picchu combo.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "chaco-canyon",
+    "name": "Chaco Culture National Historical Park, New Mexico",
+    "shortName": "Chaco Canyon",
+    "location": "Remote northwestern New Mexico (San Juan Basin)",
+    "country": "United States",
+    "region": "Americas",
+    "regionSlug": "americas",
+    "religions": [
+      "Prehistoric"
+    ],
+    "religionSlugs": [
+      "prehistoric"
+    ],
+    "summary": "UNESCO Ancestral Puebloan great-house sacred landscape — NPS unit; second USA sacred site after Cahokia. Rough dirt-road access honesty; cashless entrance; Indigenous descendant respect. Do not invent USD. Verify nps.gov/chcu road status before travel.",
+    "heroImage": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Ancestral Puebloan great-house florescence (roughly 9th–13th centuries CE; living Pueblo descendant connections)",
+      "patron": "Prehistoric — Ancestral Puebloan ceremonial / great-house landscape (Pueblo Bonito and peers)",
+      "unesco": "Chaco Culture (1987)",
+      "typicalVisit": "Half to full day on the loop road + short trails; overnight at Gallo Campground when reserved"
+    },
+    "related": [
+      "cahokia",
+      "teotihuacan",
+      "tiwanaku"
+    ],
+    "overview": {
+      "body": [
+        "Chaco Canyon is the USA Ancestral Puebloan great-house mega — Pueblo Bonito and the canyon loop sacred landscape — UNESCO and NPS, second US Threshold Atlas site after Cahokia, not an “Anasazi abandoned mystery” outdated framing.",
+        "Frame the visit as great-house ceremonial honesty + living Pueblo descendant respect. Stay off walls; no touching petroglyphs; no collecting pottery sherds. Night-sky / archaeoastronomy programs when posted are separate from day entry.",
+        "Official tickets: NPS entrance fee / America the Beautiful pass rules as published on nps.gov/chcu — cashless entry; Recreation.gov site passes when offered — do not invent USD. Prefer NPS over third-party “Chaco VIP.”",
+        "Park + visitor centre hours — verify nps.gov/chcu (seasonal loop-road windows; visitor centre typically daytime). Summer monsoon / winter snow affect dirt roads; spring/fall classic.",
+        "Soft blockers: remote rough dirt-road access (check NPS alerts — north/south entrance status can change after storms); heat; altitude; limited services inside the park; do not invent combo with Mesa Verde as one ticket. Earn keep as USA #2 sacred landscape after Cahokia. SanctaWay is informational — it does not sell tickets or grant access."
+      ],
+      "highlights": [
+        "UNESCO Ancestral Puebloan great-house landscape",
+        "NPS nps.gov/chcu — do not invent USD",
+        "Remote dirt-road access honesty first",
+        "Cashless entrance / America the Beautiful rules",
+        "Indigenous descendant framing — not outdated “Anasazi mystery”"
+      ]
+    },
+    "visit": {
+      "intro": "NPS Chaco Culture — road-status first; cashless fee honesty; no invent USD.",
+      "hours": "Loop road + sites seasonal windows; visitor centre typically daytime — verify nps.gov/chcu hours and alerts. Holiday closures as published.",
+      "tickets": "NPS entrance fee / America the Beautiful pass rules on nps.gov/chcu — cashless; Recreation.gov site pass when offered — do not invent USD. Timed-entry / reservation products when active — verify before travel. Prefer NPS over OTA. Mesa Verde / other NPS units = separate.",
+      "dress": "Ancestral Puebloan sacred landscape — modest practical dress; stay off walls; no touching petroglyphs; no collecting sherds; quiet at great houses.",
+      "duration": "Half to full day on the 9-mile class loop + short trails; longer if hiking backcountry (sign-in required).",
+      "access": "Remote NW New Mexico — long drive from Albuquerque / Farmington / Gallup; rough unpaved road segments common. Check nps.gov/chcu alerts for which entrance is open after storms. No casual same-day from Santa Fe without an early start. No rail-to-door myth.",
+      "tips": [
+        "Check nps.gov/chcu road alerts before you drive — dirt roads can close after rain/snow.",
+        "Cashless entrance — card / America the Beautiful / Recreation.gov as published; do not invent USD.",
+        "Stay off walls; no touching petroglyphs; no collecting sherds.",
+        "Bring water, fuel, and food — limited services inside the park.",
+        "Do not invent combo with Mesa Verde as one ticket.",
+        "Backcountry trails require sign-in; night programs when posted are separate.",
+        "Prefer NPS over third-party “Chaco VIP.”"
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://www.nps.gov/chcu/planyourvisit/index.htm",
+      "ticketsLabel": "NPS Chaco Culture — Plan Your Visit (nps.gov/chcu; cashless / pass rules)",
+      "ticketsNote": "NPS entrance; cashless; America the Beautiful / Recreation.gov as published; do not invent USD; check road alerts."
+    },
+    "etiquette": {
+      "intro": "Ancestral Puebloan sacred landscape — descendant respect.",
+      "bullets": [
+        "Stay off walls; no touching petroglyphs; no collecting pottery sherds.",
+        "Quiet at great houses; modest practical dress.",
+        "Use current Ancestral Puebloan / Pueblo descendant framing — avoid outdated “Anasazi mystery” tropes.",
+        "Keep Mesa Verde and other NPS units as separate tickets."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Chaco — remote road honesty first.",
+      "paragraphs": [
+        "Chaco is a remote drive in northwestern New Mexico from Albuquerque, Farmington, or Gallup. Expect long unpaved segments; check nps.gov/chcu alerts for which entrance is open after storms — conditions change.",
+        "Buy or bring a valid NPS entrance arrangement (cashless park fee, America the Beautiful pass, or Recreation.gov site pass when offered) — do not invent USD from old blogs.",
+        "Mesa Verde and other Southwest NPS units are separate. Do not invent a single Ancestral Puebloan park pass covering unrelated units."
+      ],
+      "bullets": [
+        "Remote drive — check dirt-road alerts first",
+        "NPS cashless / pass honesty",
+        "Limited services inside park",
+        "Mesa Verde = separate ticket"
+      ]
+    },
+    "bestTime": {
+      "intro": "Spring/fall classic; monsoon and snow affect roads.",
+      "paragraphs": [
+        "Spring and fall are classic for milder temperatures. Summer monsoon and winter snow can make dirt roads impassable — always check NPS alerts the day you drive.",
+        "Loop-road hours shift seasonally; visitor centre hours are published on nps.gov/chcu. Night-sky programs when posted are separate from day entry."
+      ],
+      "bullets": [
+        "Best: spring / fall",
+        "Monsoon / snow = road soft blocker",
+        "Verify NPS hours + alerts",
+        "Do not invent USD / Mesa Verde combo myths"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm NPS fees / passes and road alerts on nps.gov/chcu — do not invent USD.",
+        "Remote dirt-road access is the standing soft blocker — lead with it.",
+        "Indigenous descendant framing honesty; not outdated “Anasazi” mystery tropes.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "chavin-de-huantar",
+    "name": "Chavín de Huántar (Monumento Arqueológico), Áncash",
+    "shortName": "Chavín de Huántar",
+    "location": "Chavín de Huántar district, Áncash (Cordillera Blanca foothills)",
+    "country": "Peru",
+    "region": "Americas",
+    "regionSlug": "americas",
+    "religions": [
+      "Andean"
+    ],
+    "religionSlugs": [
+      "andean"
+    ],
+    "summary": "UNESCO Chavín culture ceremonial capital (Lanzón / circular plaza / galleries) — Andean type-site + Museo Nacional Chavín in town (separate ticket). Ministerio de Cultura / tuboleto.cultura.pe. Mountain road / altitude honesty. Do not invent PEN.",
+    "heroImage": "https://images.unsplash.com/photo-1526392060635-9d6019884377?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Chavín culture ceremonial capital (roughly first millennium BCE florescence)",
+      "patron": "Andean — Chavín ceremonial centre (Lanzón, circular plaza, underground galleries)",
+      "unesco": "Chavín (1985)",
+      "typicalVisit": "2–3 hours monument circuit; Museo Nacional Chavín in town often same day on a separate ticket"
+    },
+    "related": [
+      "tiwanaku",
+      "pachacamac",
+      "coricancha"
+    ],
+    "overview": {
+      "body": [
+        "Chavín de Huántar is the UNESCO Chavín culture type-site mega — Lanzón, circular plaza, and underground gallery ritual fabric in the Áncash foothills — Andean ceremonial depth beside live Tiwanaku / Pachacamac, not an “Andean ruins checklist only.”",
+        "Frame the visit as gallery / Lanzón honesty. The archaeological monument and the Museo Nacional Chavín in town are related but separate tickets. Ongoing archaeology can close galleries without long notice.",
+        "Official tickets: Ministerio de Cultura monument + Museo Nacional Chavín — on-site and tuboleto.cultura.pe when products are listed — do not invent PEN. Prefer official Cultura over random OTA. District-resident Tuesday rules when published ≠ foreign free myth.",
+        "Monument + museum typically Tue–Sun daytime — verify Cultura / Museo Nacional Chavín notices. Dry season clearer for the mountain road; rainy-season landslides possible.",
+        "Soft blockers: altitude / mountain road; gallery conservation closures; do not invent combo with Machu Picchu. Earn keep as UNESCO Chavín type-site. SanctaWay is informational — it does not sell tickets or grant access."
+      ],
+      "highlights": [
+        "UNESCO Chavín ceremonial capital (Lanzón / galleries)",
+        "Cultura / tuboleto — do not invent PEN",
+        "Monument ≠ Museo Nacional Chavín ticket",
+        "Mountain road / altitude honesty",
+        "Not a Machu Picchu combo"
+      ]
+    },
+    "visit": {
+      "intro": "Cultura Chavín monument — museum separate; altitude / road honesty; no invent PEN.",
+      "hours": "Typically Tue–Sun daytime — verify Ministerio de Cultura / Museo Nacional Chavín notices (last entry vs close). Dry season clearer for mountain roads.",
+      "tickets": "Ministerio de Cultura monument + Museo Nacional Chavín — on-site and tuboleto.cultura.pe when listed. Confirm tiers on official Cultura pages — do not invent PEN. Monument ≠ museum. Prefer Cultura over OTA. Machu Picchu / Cusco = separate.",
+      "dress": "Chavín ceremonial capital — modest practical dress; no entering closed galleries; no flash on Lanzón when restricted; respect ongoing archaeology closures.",
+      "duration": "2–3 hours monument circuit; add Museo Nacional Chavín in town on a separate ticket.",
+      "access": "Áncash — road from Huaraz (~2.5–3.5 h class via Cordillera Blanca foothills) or longer from Lima; altitude / mountain weather. Museo Nacional Chavín in town — often same visit, separate ticket.",
+      "tips": [
+        "Confirm Cultura / tuboleto tiers — do not invent PEN.",
+        "Monument ticket ≠ Museo Nacional Chavín ticket.",
+        "Plan altitude and mountain-road weather from Huaraz / Lima.",
+        "Gallery closures for conservation happen — ask on arrival.",
+        "No flash on Lanzón when restricted; stay out of closed galleries.",
+        "Do not invent combo with Machu Picchu.",
+        "Prefer official Cultura over random OTA."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://tuboleto.cultura.pe/",
+      "ticketsLabel": "Ministerio de Cultura — Tu Boleto (tuboleto.cultura.pe; Chavín when listed / on-site)",
+      "ticketsNote": "Cultura monument + separate museum; confirm tiers officially; do not invent PEN; altitude/road honesty."
+    },
+    "etiquette": {
+      "intro": "Chavín ceremonial capital — Lanzón / galleries.",
+      "bullets": [
+        "No entering closed galleries; no flash on Lanzón when restricted.",
+        "Modest practical dress; respect ongoing archaeology.",
+        "Keep Machu Picchu / Cusco as separate tickets.",
+        "Threshold Atlas tone: Lanzón / circular plaza / galleries — not Andean ruins checklist only."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Chavín from Huaraz / Lima.",
+      "paragraphs": [
+        "Most visitors reach Chavín by mountain road from Huaraz (~2.5–3.5 h class) or a longer transfer from Lima. Altitude and rainy-season landslides are real planning factors — build buffer time.",
+        "Confirm monument and Museo Nacional Chavín tickets on Cultura channels / tuboleto.cultura.pe when listed — do not invent PEN.",
+        "Machu Picchu and Cusco products are separate. Do not invent a single Peru highland sacred pass."
+      ],
+      "bullets": [
+        "Huaraz road (~2.5–3.5 h class) or longer from Lima",
+        "Altitude / mountain-weather soft blocker",
+        "Cultura ticket honesty — monument ≠ museum",
+        "Machu Picchu = separate"
+      ]
+    },
+    "bestTime": {
+      "intro": "Dry season clearer for mountain roads.",
+      "paragraphs": [
+        "Drier months usually make the Áncash road more reliable; rainy season can bring landslides and delays. Confirm Cultura hours before you go.",
+        "Gallery conservation closures can shift — verify on arrival rather than inventing PEN access myths."
+      ],
+      "bullets": [
+        "Best: drier months for road reliability",
+        "Rainy-season landslide soft blocker",
+        "Verify Cultura hours",
+        "Do not invent PEN / Machu Picchu combo myths"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm Cultura / tuboleto tiers — do not invent PEN.",
+        "Monument and Museo Nacional Chavín are separate tickets.",
+        "Altitude / mountain road is the standing soft blocker.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "sumela-monastery",
+    "name": "Sümela Monastery (Sümela Manastırı / Meryemana), Trabzon",
+    "shortName": "Sümela",
+    "location": "Altındere Valley / Maçka, Trabzon Province (Pontic mountains)",
+    "country": "Türkiye",
+    "region": "Middle East",
+    "regionSlug": "middle-east",
+    "religions": [
+      "Christian"
+    ],
+    "religionSlugs": [
+      "christian"
+    ],
+    "summary": "Trabzon cliff-face Pontic monastery postcard — Ministry museum ticket (muze.gov.tr). Highest-demand Türkiye Christian mega still absent after Göreme. Steep path / shuttle / restoration honesty; museum vs living-monastery framing. Do not invent TRY.",
+    "heroImage": "https://images.unsplash.com/photo-1641128324972-af3212f0f6bd?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Medieval Pontic Greek Orthodox cliff monastery (legendary 4th-century founding traditions; standing fabric largely later medieval / Ottoman-period phases)",
+      "patron": "Christian — Panagia / Theotokos (Meryemana) cliff monastery under museum regime",
+      "unesco": "Major Ministry of Culture and Tourism museum monument (verify muze.gov.tr)",
+      "typicalVisit": "Half-day from Trabzon including valley transfer + path / shuttle to the cliff"
+    },
+    "related": [
+      "goreme-open-air",
+      "meteora",
+      "geghard"
+    ],
+    "overview": {
+      "body": [
+        "Sümela is the Trabzon cliff monastery mega — Pontic Panagia / Meryemana fabric clinging to the Altındere rock face — highest-demand Türkiye Christian Threshold Atlas site still absent after Göreme, not “Cliffhanger Instagram only.”",
+        "Frame the visit as historic Greek Orthodox cliff monastery under museum regime. Modest dress; quiet in frescoed church; no flash on wall paintings; no drone without permit. It is not currently framed as a casually open living monastery for tourist liturgy.",
+        "Official tickets: Paid Ministry museum ticket — muze.gov.tr / on-site — do not invent TRY. Forest park / parking / shuttle may be separate commercial products. Prefer official museum over opaque “Sümela VIP.”",
+        "Ministry museum daytime window — verify muze.gov.tr / Sümela pages. Morning quieter; winter ice on path; rockfall / restoration closures possible — check before travel.",
+        "Soft blockers: steep path / stairs; seasonal weather; restoration scaffolding; do not invent combo with Göreme / Hagia Sophia as one pass. Earn keep as Trabzon cliff mega after Göreme rock-church museum. SanctaWay is informational — it does not sell tickets or grant access."
+      ],
+      "highlights": [
+        "Trabzon cliff monastery postcard (Meryemana)",
+        "muze.gov.tr Ministry museum — do not invent TRY",
+        "Museum vs living-monastery honesty",
+        "Steep path / shuttle / restoration soft blockers",
+        "Not a Göreme / Hagia Sophia combo"
+      ]
+    },
+    "visit": {
+      "intro": "Ministry Sümela museum — path/shuttle honesty; no invent TRY; not Göreme merge.",
+      "hours": "Ministry museum daytime window — verify muze.gov.tr / Sümela pages (last entry vs close). Morning quieter; winter ice possible.",
+      "tickets": "Paid Ministry museum ticket — muze.gov.tr / on-site. MüzeKart rules when valid for eligible visitors — do not invent TRY. Forest park / parking / shuttle may be separate commercial products. Prefer official museum over OTA. Göreme / Hagia Sophia = separate.",
+      "dress": "Historic Greek Orthodox cliff monastery (museum regime) — modest dress; quiet in frescoed church; no flash on wall paintings; no drone without permit.",
+      "duration": "Half-day from Trabzon including valley transfer + path / shuttle segment to the cliff monastery.",
+      "access": "Trabzon gateway — road south into Altındere valley (~45–60 min class) + forest path / shuttle segment to the cliff; Black Sea weather. Often day from Trabzon city.",
+      "tips": [
+        "Buy Ministry museum ticket on muze.gov.tr — do not invent TRY.",
+        "Expect steep path / stairs; shuttle / parking may be separate commercial products.",
+        "Morning quieter; check ice / rockfall / restoration notices before travel.",
+        "Modest dress; no flash on frescoes; quiet in the church.",
+        "Museum regime — not a casually open living-monastery liturgy stop.",
+        "Do not invent combo with Göreme / Hagia Sophia.",
+        "Prefer official museum over opaque “Sümela VIP.”"
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://muze.gov.tr/muze-detay?distId=MRK&sectionId=SML01",
+      "ticketsLabel": "Turkish Ministry museums — Sümela Monastery (muze.gov.tr; MüzeKart rules when valid)",
+      "ticketsNote": "Ministry museum ticket; do not invent TRY; path/shuttle/parking may be separate; not Göreme combo."
+    },
+    "etiquette": {
+      "intro": "Cliff monastery museum — frescoes and path safety.",
+      "bullets": [
+        "Modest dress; quiet in frescoed church; no flash on wall paintings.",
+        "No drone without permit; respect restoration closures.",
+        "Keep Göreme / Hagia Sophia as separate tickets.",
+        "Threshold Atlas tone: Panagia / Pontic monastic honesty — not cliff selfie only."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Sümela from Trabzon.",
+      "paragraphs": [
+        "Most visitors day-trip from Trabzon city south into the Altındere valley (~45–60 min class), then continue by forest path and/or shuttle segment to the cliff monastery. Black Sea weather can change the last-mile experience.",
+        "Buy the Ministry museum ticket on muze.gov.tr — do not invent TRY. Parking / forest / shuttle products may be separate commercial lines.",
+        "Göreme Open-Air and Hagia Sophia are separate Ministry / museum products. Do not invent a single Türkiye Christian sacred pass."
+      ],
+      "bullets": [
+        "Trabzon → Altındere valley day-trip",
+        "Path / shuttle last mile",
+        "muze.gov.tr museum ticket",
+        "Göreme / Hagia Sophia = separate"
+      ]
+    },
+    "bestTime": {
+      "intro": "Morning quieter; avoid ice and peak restoration days when possible.",
+      "paragraphs": [
+        "Morning is usually quieter on the path and in the frescoed spaces. Winter ice and restoration scaffolding are standing soft blockers — check muze.gov.tr and local notices before you go.",
+        "Black Sea rain can make the path slippery year-round — wear grip footwear rather than inventing TRY “VIP skip-the-path” myths."
+      ],
+      "bullets": [
+        "Best: morning quieter path",
+        "Ice / restoration soft blockers",
+        "Verify muze.gov.tr hours",
+        "Do not invent TRY / Göreme combo myths"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm Ministry museum ticket on muze.gov.tr — do not invent TRY.",
+        "Museum vs living-monastery status must stay honest.",
+        "Steep path / ice / restoration are standing soft blockers.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "carnac",
+    "name": "Carnac Alignments (Alignements de Carnac), Brittany",
+    "shortName": "Carnac",
+    "location": "Carnac / Ménec — Kermario alignments, Morbihan, Brittany",
+    "country": "France",
+    "region": "Europe",
+    "regionSlug": "europe",
+    "religions": [
+      "Prehistoric"
+    ],
+    "religionSlugs": [
+      "prehistoric"
+    ],
+    "summary": "Europe’s largest megalithic alignment landscape — Maison des Mégalithes / CMN visitor infrastructure; Stonehenge / Newgrange peer. Guided interior access vs free exterior path honesty. Do not invent EUR. No Mont-Saint-Michel combo.",
+    "heroImage": "https://images.unsplash.com/photo-1596484552834-6a58f110ff1e?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Neolithic megalithic alignments (roughly 5th–3rd millennia BCE class)",
+      "patron": "Prehistoric — ceremonial alignment landscape (Ménec, Kermario, and related rows)",
+      "unesco": "Major Centre des monuments nationaux / Alignements de Carnac visitor site (verify menhirs-carnac.fr / monuments-nationaux.fr)",
+      "typicalVisit": "2–3 hours Maison des Mégalithes + guided alignment or exterior path circuit"
+    },
+    "related": [
+      "stonehenge",
+      "newgrange",
+      "gobekli-tepe"
+    ],
+    "overview": {
+      "body": [
+        "Carnac is Brittany’s megalith alignment mega — Europe’s largest rows of standing stones around Ménec and Kermario — Stonehenge / Newgrange peer class for Threshold Atlas prehistoric Europe, not a “Brittany stone selfie field only.”",
+        "Frame the visit as Neolithic ceremonial alignment honesty without inventing Druid fantasy. Maison des Mégalithes at Ménec is the usual orientation point; paid guided access among the stones and free exterior path viewing are different products.",
+        "Official tickets: CMN / Alignements de Carnac — menhirs-carnac.fr and tickets.monuments-nationaux.fr for guided interior access when required — do not invent EUR. Exterior roadside / path views ≠ full paid circuit — state clearly. Prefer CMN / official over scalpers.",
+        "Maison des Mégalithes hours are seasonal — verify menhirs-carnac.fr. Peak summer often uses timed guided access among the stones; shoulder seasons can open free interior windows when published. Sunset exterior viewpoints common.",
+        "Soft blockers: summer timed-entry; wind / rain; do not invent “one Brittany pass” with Mont-Saint-Michel. Earn keep as Europe prehistoric peer to live stonehenge + newgrange — page must not invent church framing. SanctaWay is informational — it does not sell tickets or grant access."
+      ],
+      "highlights": [
+        "Europe’s largest megalithic alignment landscape",
+        "CMN / menhirs-carnac.fr — do not invent EUR",
+        "Guided interior ≠ free exterior path",
+        "Stonehenge / Newgrange peer",
+        "No Mont-Saint-Michel combo"
+      ]
+    },
+    "visit": {
+      "intro": "CMN Carnac alignments — guided vs exterior honesty; no invent EUR; not Mont-Saint-Michel merge.",
+      "hours": "Maison des Mégalithes seasonal hours — verify menhirs-carnac.fr. Guided alignment slots as published; exterior path viewing commonly free.",
+      "tickets": "CMN / Alignements de Carnac — menhirs-carnac.fr and tickets.monuments-nationaux.fr for guided interior access when required. Exterior path views ≠ paid circuit — do not invent EUR. Prefer official CMN over scalpers. Mont-Saint-Michel / other Brittany sites = separate.",
+      "dress": "Neolithic ceremonial alignment landscape — modest practical dress; closed shoes recommended among stones; no climbing menhirs; no touching / chalking stones; stay on marked paths in paid zones.",
+      "duration": "2–3 hours Maison des Mégalithes + guided alignment or exterior path circuit; longer if pairing Kermario / other rows.",
+      "access": "Brittany — rail/road to Auray / Vannes / Carnac ville; local walk / bike / shuttle to Ménec / Kermario alignments. Pair Gulf of Morbihan without inventing one pass covering unrelated castles.",
+      "tips": [
+        "Confirm guided tickets on menhirs-carnac.fr / CMN billetterie — do not invent EUR.",
+        "Exterior path viewing is commonly free — not the same as walking among the stones on a guided ticket.",
+        "No climbing menhirs; no touching / chalking stones.",
+        "Closed shoes recommended; wind / rain common on the plain.",
+        "Do not invent combo with Mont-Saint-Michel.",
+        "Peak summer = timed guided access; shoulder seasons may differ — verify.",
+        "Prefer CMN / official over scalpers."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://www.menhirs-carnac.fr/visiter/informations-pratiques",
+      "ticketsLabel": "Alignements de Carnac / CMN — practical info & billetterie (menhirs-carnac.fr)",
+      "ticketsNote": "CMN guided interior when required; exterior path often free; do not invent EUR; not Mont-Saint-Michel combo."
+    },
+    "etiquette": {
+      "intro": "Neolithic alignments — stones and paths.",
+      "bullets": [
+        "No climbing menhirs; no touching / chalking stones; stay on marked paths.",
+        "Closed shoes; dogs rules as posted (often restricted on guided visits).",
+        "Keep Mont-Saint-Michel and other Brittany monuments as separate tickets.",
+        "Threshold Atlas tone: solstice / processional theory honesty — not Druid fantasy selfie field."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Carnac from Brittany gateways.",
+      "paragraphs": [
+        "Most visitors reach Carnac via Auray / Vannes / Carnac ville by rail and road, then walk, bike, or short hop to the Ménec Maison des Mégalithes and Kermario rows.",
+        "Confirm guided alignment tickets on menhirs-carnac.fr / CMN billetterie when interior access is required — do not invent EUR. Exterior path viewing is commonly free and different from walking among the stones.",
+        "Mont-Saint-Michel and other Brittany monuments are separate. Do not invent a single Brittany sacred pass."
+      ],
+      "bullets": [
+        "Auray / Vannes / Carnac ville gateways",
+        "Ménec Maison des Mégalithes orientation",
+        "CMN guided vs free exterior honesty",
+        "Mont-Saint-Michel = separate"
+      ]
+    },
+    "bestTime": {
+      "intro": "Shoulder seasons quieter; summer timed guided access.",
+      "paragraphs": [
+        "Shoulder seasons are usually quieter on the plain. Peak summer often requires timed guided tickets to walk among the stones — verify menhirs-carnac.fr rather than inventing EUR walk-up myths.",
+        "Wind and rain are common year-round — exterior sunset viewpoints remain popular when weather allows."
+      ],
+      "bullets": [
+        "Best: shoulder seasons quieter",
+        "Summer timed guided soft blocker",
+        "Verify Maison / CMN hours",
+        "Do not invent EUR / Mont-Saint-Michel combo myths"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm CMN / menhirs-carnac.fr guided tiers — do not invent EUR.",
+        "Exterior path ≠ paid guided circuit among the stones.",
+        "No Mont-Saint-Michel combo; no invented church framing.",
         "SanctaWay is informational; it does not sell tickets or grant access.",
         "Hero image is an Unsplash placeholder pending visual / Commons pass."
       ]

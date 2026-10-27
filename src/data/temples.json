@@ -7926,7 +7926,7 @@
     "related": [
       "chartres",
       "mont-saint-michel",
-      "our-lady-of-lebanon"
+      "andohalo-cathedral"
     ],
     "overview": {
       "body": [
@@ -9059,7 +9059,7 @@
     "related": [
       "guadalupe",
       "lourdes",
-      "einsiedeln"
+      "andohalo-cathedral"
     ],
     "overview": {
       "body": [
@@ -18513,7 +18513,7 @@
     "related": [
       "st-peters",
       "aparecida",
-      "christuskirche-windhoek"
+      "st-georges-cathedral-freetown"
     ],
     "overview": {
       "body": [
@@ -23474,7 +23474,7 @@
     "related": [
       "basilica-yamoussoukro",
       "lourdes",
-      "christuskirche-windhoek"
+      "anglican-cathedral-victoria"
     ],
     "overview": {
       "body": [
@@ -24033,7 +24033,7 @@
     "related": [
       "guadalupe",
       "aparecida",
-      "basilica-coromoto"
+      "nossa-senhora-muxima"
     ],
     "overview": {
       "body": [
@@ -24145,7 +24145,7 @@
     "related": [
       "aparecida",
       "lujan",
-      "basilica-cerrito"
+      "nossa-senhora-baluarte"
     ],
     "overview": {
       "body": [
@@ -25824,7 +25824,7 @@
     "related": [
       "caacupe",
       "cartago-basilica",
-      "basilica-coromoto"
+      "nossa-senhora-baluarte"
     ],
     "overview": {
       "body": [
@@ -26944,7 +26944,7 @@
     "related": [
       "kairouan",
       "hassan-ii-mosque",
-      "mosque-of-divinity-dakar"
+      "grand-mosque-conakry"
     ],
     "overview": {
       "body": [
@@ -27840,7 +27840,7 @@
     "related": [
       "metropolitan-cathedral-san-salvador",
       "basilica-higuey",
-      "paramaribo-cathedral"
+      "st-michaels-cathedral-barbados"
     ],
     "overview": {
       "body": [
@@ -28512,7 +28512,7 @@
     "related": [
       "basilica-higuey",
       "cartago-basilica",
-      "our-lady-of-meritxell"
+      "nossa-senhora-muxima"
     ],
     "overview": {
       "body": [
@@ -28624,7 +28624,7 @@
     "related": [
       "metropolitan-cathedral-panama",
       "basilica-higuey",
-      "paramaribo-cathedral"
+      "st-georges-cathedral-freetown"
     ],
     "overview": {
       "body": [
@@ -28736,7 +28736,7 @@
     "related": [
       "nizamiye-mosque",
       "sheikh-zayed-grand-mosque",
-      "mosque-of-divinity-dakar"
+      "grand-mosque-conakry"
     ],
     "overview": {
       "body": [
@@ -28848,7 +28848,7 @@
     "related": [
       "our-lady-of-meritxell",
       "basilica-coromoto",
-      "cartago-basilica"
+      "holy-cross-cathedral-lusaka"
     ],
     "overview": {
       "body": [
@@ -29184,7 +29184,7 @@
     "related": [
       "st-georges-georgetown",
       "metropolitan-cathedral-panama",
-      "basilica-higuey"
+      "st-michaels-cathedral-barbados"
     ],
     "overview": {
       "body": [
@@ -29408,7 +29408,7 @@
     "related": [
       "basilica-yamoussoukro",
       "notre-dame-dafrique",
-      "nizamiye-mosque"
+      "anglican-cathedral-victoria"
     ],
     "overview": {
       "body": [
@@ -29520,7 +29520,7 @@
     "related": [
       "national-mosque-abuja",
       "larabanga-mosque",
-      "hassan-ii-mosque"
+      "grand-mosque-conakry"
     ],
     "overview": {
       "body": [
@@ -29825,6 +29825,902 @@
         "Opens Maldives — historic coral-stone Friday Mosque in Malé.",
         "Soft Visit Maldives home — deep Hukuru 404 unused; do not invent MVR/USD.",
         "MUST regionSlug south-asia (not oceania); ≠ Islamic Centre Male (modern).",
+        "SanctaWay does not sell tickets, invent visa myths, or grant access."
+      ]
+    }
+  },
+  {
+    "id": "st-michaels-cathedral-barbados",
+    "name": "St Michael’s Cathedral / Cathedral Church of St Michael and All Angels, Bridgetown, Barbados",
+    "shortName": "St Michael’s Cathedral Barbados",
+    "location": "St Michael’s Row / Bridgetown Historic Garrison corridor, Bridgetown, Barbados",
+    "country": "Barbados",
+    "region": "Americas",
+    "regionSlug": "americas",
+    "religions": [
+      "Christian"
+    ],
+    "religionSlugs": [
+      "christian"
+    ],
+    "summary": "Anglican cathedral tourism household inside UNESCO Historic Bridgetown and its Garrison — opens Barbados. Soft saintmichaelscathedral.bb (+ Visit Barbados UNESCO Soft). Do not invent BBD/USD.",
+    "heroImage": "https://images.unsplash.com/photo-1515542622106-78bda8ba0e5b?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": false,
+    "quickFacts": {
+      "founded": "Anglican cathedral parish roots in Bridgetown; present cathedral household in Historic Bridgetown and its Garrison UNESCO corridor",
+      "patron": "Christian — Anglican cathedral (St Michael and All Angels)",
+      "unesco": "Inside Historic Bridgetown and its Garrison (UNESCO World Heritage 1376)",
+      "typicalVisit": "30–60 minutes nave when open + Bridgetown Garrison walk"
+    },
+    "related": [
+      "st-georges-georgetown",
+      "paramaribo-cathedral",
+      "st-georges-cathedral-freetown"
+    ],
+    "overview": {
+      "body": [
+        "St Michael’s Cathedral opens Barbados on SanctaWay as the Anglican Cathedral Church of St Michael and All Angels inside UNESCO Historic Bridgetown and its Garrison — a working cathedral tourism household that Visit Barbados Soft frames inside the capital’s World Heritage streetscape. This is Bridgetown’s St Michael’s, not another St Michael dedication elsewhere, not parish densify across the island, and not one sacred pass covering every Barbadian church.",
+        "Frame Soft CTA honesty: use official Soft https://saintmichaelscathedral.bb/ as primary (curl-verified 200 + TLS at write) with Visit Barbados UNESCO Soft secondary https://www.visitbarbados.org/unesco-world-heritage-sites (+ UNESCO 1376 Soft informational). Visit Barbados deep attraction path for the cathedral returned 404 — unused. cathedral.org.bb / anglican.bb TLS unused. Nave is generally free / donation — verify service and visit windows locally; do not invent BBD or USD. Prefer Soft official / destination over OTAs.",
+        "Soft blockers: service times; cruise-day crush in Bridgetown; tropical heat and rain. Pair UNESCO Historic Bridgetown / Garrison walks honestly without inventing a combo fare for every Barbadian church.",
+        "Gateway: walk / taxi from Bridgetown cruise and city core; Grantley Adams air gateway. Treat parish densify as parked; mesh carefully with Guianas / West Africa Anglican peers without merging countries.",
+        "SanctaWay is informational — it does not sell tickets, invent fares, or grant nave access. Earn keep as Barbados #1: lead Anglican cathedral / UNESCO Bridgetown honesty."
+      ],
+      "highlights": [
+        "Opens Barbados — Anglican St Michael’s in UNESCO Historic Bridgetown",
+        "Soft saintmichaelscathedral.bb (+ Visit Barbados UNESCO Soft)",
+        "Nave generally free/donation — do not invent BBD/USD",
+        "Deep Visit Barbados attraction 404 unused; cathedral.org.bb TLS unused",
+        "Cruise-day / tropical heat honesty; parish densify parked"
+      ]
+    },
+    "visit": {
+      "intro": "Soft official St Michael’s Barbados — free/donation nave class; NEVER invent BBD/USD.",
+      "hours": "Verify https://saintmichaelscathedral.bb/ and parish notices before travel (Soft 200 + TLS). Working Anglican cathedral — service windows reshape access. Do not invent a fixed year-round tourist timetable.",
+      "tickets": "Nave generally free / donation when open — verify service / visit windows locally; do not invent BBD or USD. Soft primary https://saintmichaelscathedral.bb/ (+ Visit Barbados UNESCO Soft https://www.visitbarbados.org/unesco-world-heritage-sites; UNESCO 1376 Soft informational). Visit Barbados deep attraction 404 unused. Prefer Soft official / destination over OTAs. Not one ticket with every Barbadian church.",
+      "dress": "Active cathedral — modest dress; tropical heat / rain honesty; quiet; photography rules as posted.",
+      "duration": "30–60 minutes nave when open; add Bridgetown Garrison walk time.",
+      "access": "Walk / taxi from Bridgetown Historic Garrison / city core. Cruise and Grantley Adams air gateways. Service times and cruise-day crush reshape access.",
+      "tips": [
+        "Use Soft official saintmichaelscathedral.bb — do not invent BBD/USD.",
+        "Modest dress; quiet in the nave during services.",
+        "Tropical heat and rain — plan shade / timing.",
+        "Cruise-day Bridgetown can densify crowds — arrive early if possible.",
+        "Visit Barbados deep attraction 404 unused — use UNESCO Soft, not broken deep.",
+        "Parish densify across Barbados parked this pass.",
+        "SanctaWay does not sell tickets or grant access."
+      ],
+      "entryType": "soft-official",
+      "ticketsUrl": "https://saintmichaelscathedral.bb/",
+      "ticketsLabel": "St Michael’s Barbados Soft official (+ Visit Barbados UNESCO Soft) — do not invent BBD/USD",
+      "ticketsNote": "Soft CTA 200+TLS0 saintmichaelscathedral.bb; Visit Barbados UNESCO Soft secondary; deep attraction 404 unused; do not invent BBD/USD."
+    },
+    "etiquette": {
+      "intro": "Living Anglican cathedral in UNESCO Bridgetown — quiet and cruise-day honesty.",
+      "bullets": [
+        "Quiet in the nave; yield space during services.",
+        "Modest dress; follow photography rules as posted.",
+        "Respect tropical heat limits and cruise-day crush.",
+        "Threshold Atlas tone: Barbados #1 Anglican cathedral — no parish densify."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach St Michael’s Cathedral in Bridgetown.",
+      "paragraphs": [
+        "Most visitors walk or take a short taxi from Bridgetown’s Historic Garrison / city-core corridor into St Michael’s Row, where the Anglican cathedral sits inside the UNESCO streetscape.",
+        "Cruise terminals and Grantley Adams International Airport feed Bridgetown — treat other Barbadian churches as separate stops, not one sacred combo ticket.",
+        "Service times and cruise-day densify reshape access — confirm Soft official and parish notices the day you go."
+      ],
+      "bullets": [
+        "Bridgetown Historic Garrison / city core walk or taxi",
+        "Cruise + Grantley Adams air gateway",
+        "No Barbadian church one-pass myth",
+        "Cruise-day crush honesty"
+      ]
+    },
+    "bestTime": {
+      "intro": "Cooler morning windows outside peak cruise crush; verify service times.",
+      "paragraphs": [
+        "Mid-day tropical heat and cruise-day densify discomfort — morning windows are usually kinder for Bridgetown walks.",
+        "Service times reshape nave access — re-check Soft official saintmichaelscathedral.bb."
+      ],
+      "bullets": [
+        "Best: cooler morning outside peak cruise crush",
+        "Watch service windows",
+        "Soft saintmichaelscathedral.bb",
+        "Do not invent BBD/USD"
+      ]
+    },
+    "notes": {
+      "intro": "SanctaWay Threshold Atlas notes — Barbados #1 St Michael’s Cathedral.",
+      "bullets": [
+        "Opens Barbados — Anglican cathedral in UNESCO Historic Bridgetown and its Garrison.",
+        "Soft saintmichaelscathedral.bb (+ Visit Barbados UNESCO Soft) — do not invent BBD/USD.",
+        "Deep Visit Barbados attraction 404 unused; cathedral.org.bb / anglican.bb TLS unused.",
+        "SanctaWay does not sell tickets, invent visa myths, or grant access."
+      ]
+    }
+  },
+  {
+    "id": "anglican-cathedral-victoria",
+    "name": "Anglican Cathedral of Victoria / St Paul’s Cathedral, Victoria, Seychelles",
+    "shortName": "Anglican Cathedral Victoria",
+    "location": "Victoria clock-tower / capital core, Mahé, Seychelles",
+    "country": "Seychelles",
+    "region": "Africa",
+    "regionSlug": "africa",
+    "religions": [
+      "Christian"
+    ],
+    "religionSlugs": [
+      "christian"
+    ],
+    "summary": "Capital Anglican cathedral Soft listing clear — opens Seychelles (regionSlug africa). Soft seychelles.com Anglican listing (+ Victoria explore). Do not invent SCR/EUR/USD. Immaculate Conception same-country densify parked.",
+    "heroImage": "https://images.unsplash.com/photo-1520637836862-4d197d17c35a?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": false,
+    "quickFacts": {
+      "founded": "Anglican cathedral household in Victoria capital core, Mahé (St Paul’s / Anglican Cathedral of Victoria)",
+      "patron": "Christian — Anglican cathedral (St Paul / Victoria)",
+      "unesco": "Not a World Heritage property; Victoria capital tourism Soft listing",
+      "typicalVisit": "20–45 minutes nave when open + Victoria capital walk"
+    },
+    "related": [
+      "st-michaels-cathedral-barbados",
+      "st-georges-cathedral-freetown",
+      "christuskirche-windhoek"
+    ],
+    "overview": {
+      "body": [
+        "Anglican Cathedral of Victoria opens Seychelles on SanctaWay as the capital Anglican cathedral Soft-listed by seychelles.com — a working St Paul’s household beside Victoria’s clock-tower / capital-core corridor on Mahé. regionSlug is africa (SanctaWay maps Seychelles with the Africa hub set; Oceania hub is not opened this batch). This is Victoria’s Anglican cathedral, not Victoria BC, not Immaculate Conception Cathedral Victoria densify this pass, and not beach-resort densify framed as sacred.",
+        "Frame Soft CTA honesty: use Soft https://seychelles.com/listing/anglican-cathedral-of-victoria/ as primary (curl-verified 200 + TLS at write) with Victoria explore Soft secondary https://seychelles.com/explore/victoria/. tourismseychelles.com TLS unused. Nave is generally free / donation — verify service and visit windows locally; do not invent SCR, EUR, or USD. Prefer Soft destination listing over OTAs.",
+        "Soft blockers: service times; tropical heat; capital walk stairs / shade honesty. Pair Victoria Botanical Gardens / Sir Selwyn Selwyn-Clarke Market honestly as separate stops — do not invent one sacred pass covering every Seychelles church.",
+        "Gateway: walk / taxi from Victoria capital core; Mahé ferry and Seychelles International air gateway. Treat Immaculate Conception same-country densify as parked.",
+        "SanctaWay is informational — it does not sell tickets, invent fares, or grant nave access. Earn keep as Seychelles #1: lead capital Anglican cathedral honesty with regionSlug africa."
+      ],
+      "highlights": [
+        "Opens Seychelles — Anglican Cathedral of Victoria (regionSlug africa)",
+        "Soft seychelles.com Anglican listing (+ Victoria explore)",
+        "Nave generally free/donation — do not invent SCR/EUR/USD",
+        "tourismseychelles.com TLS unused; Immaculate Conception densify parked",
+        "≠ Victoria BC; no beach-resort-as-sacred framing"
+      ]
+    },
+    "visit": {
+      "intro": "Soft seychelles.com Anglican listing — free/donation nave class; NEVER invent SCR/EUR/USD.",
+      "hours": "Verify https://seychelles.com/listing/anglican-cathedral-of-victoria/ and parish notices before travel (Soft 200 + TLS). Working Anglican cathedral — service windows reshape access. Do not invent a fixed year-round tourist timetable.",
+      "tickets": "Nave generally free / donation when open — verify service / visit windows locally; do not invent SCR, EUR, or USD. Soft primary https://seychelles.com/listing/anglican-cathedral-of-victoria/ (+ https://seychelles.com/explore/victoria/). tourismseychelles.com TLS unused. Prefer Soft destination listing over OTAs. Not one ticket with every Seychelles church.",
+      "dress": "Active cathedral — modest dress; tropical heat honesty; quiet; photography rules as posted.",
+      "duration": "20–45 minutes nave when open; add Victoria capital walk time.",
+      "access": "Walk / taxi from Victoria clock-tower / capital core on Mahé. Ferry and Seychelles International air gateway. Service times reshape access.",
+      "tips": [
+        "Use Soft seychelles.com Anglican listing — do not invent SCR/EUR/USD.",
+        "regionSlug africa — Oceania hub not opened this batch.",
+        "Modest dress; quiet in the nave during services.",
+        "Tropical heat — plan shade / timing for capital walks.",
+        "Immaculate Conception Cathedral Victoria densify parked.",
+        "Pair Botanical Gardens / market as separate stops.",
+        "SanctaWay does not sell tickets or grant access."
+      ],
+      "entryType": "soft-destination",
+      "ticketsUrl": "https://seychelles.com/listing/anglican-cathedral-of-victoria/",
+      "ticketsLabel": "Anglican Cathedral Victoria Soft seychelles.com listing (+ Victoria explore) — do not invent SCR/EUR/USD",
+      "ticketsNote": "Soft CTA 200+TLS0 seychelles.com Anglican listing; Victoria explore Soft secondary; tourismseychelles TLS unused; regionSlug africa; do not invent SCR/EUR/USD."
+    },
+    "etiquette": {
+      "intro": "Living Anglican capital cathedral — quiet and tropical honesty.",
+      "bullets": [
+        "Quiet in the nave; yield space during services.",
+        "Modest dress; follow photography rules as posted.",
+        "Respect tropical heat limits on capital walks.",
+        "Threshold Atlas tone: Seychelles #1 Anglican cathedral — regionSlug africa; no Immaculate Conception densify."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach the Anglican Cathedral in Victoria, Mahé.",
+      "paragraphs": [
+        "Most visitors walk or take a short taxi from Victoria’s clock-tower / capital-core corridor on Mahé to the Anglican cathedral Soft-listed by seychelles.com.",
+        "Seychelles International Airport and Mahé ferry corridors feed Victoria — treat Botanical Gardens, market, and other churches as separate stops, not one sacred combo ticket.",
+        "Service times reshape access — confirm Soft listing and parish notices the day you go."
+      ],
+      "bullets": [
+        "Victoria clock-tower / capital core walk or taxi",
+        "Mahé ferry + Seychelles International air gateway",
+        "No Seychelles church one-pass myth",
+        "regionSlug africa (Oceania hub HOLD)"
+      ]
+    },
+    "bestTime": {
+      "intro": "Cooler morning capital windows; verify service times.",
+      "paragraphs": [
+        "Mid-day tropical heat densifies discomfort on Victoria walks — morning windows are usually kinder.",
+        "Service times reshape nave access — re-check Soft seychelles.com listing."
+      ],
+      "bullets": [
+        "Best: cooler morning capital window",
+        "Watch service windows",
+        "Soft seychelles.com Anglican listing",
+        "Do not invent SCR/EUR/USD"
+      ]
+    },
+    "notes": {
+      "intro": "SanctaWay Threshold Atlas notes — Seychelles #1 Anglican Cathedral Victoria.",
+      "bullets": [
+        "Opens Seychelles — capital Anglican cathedral; regionSlug africa (Oceania hub HOLD).",
+        "Soft seychelles.com listing (+ Victoria explore) — do not invent SCR/EUR/USD.",
+        "Immaculate Conception same-country densify parked; tourismseychelles TLS unused.",
+        "SanctaWay does not sell tickets, invent visa myths, or grant access."
+      ]
+    }
+  },
+  {
+    "id": "st-georges-cathedral-freetown",
+    "name": "St George’s Cathedral, Freetown, Sierra Leone",
+    "shortName": "St George’s Cathedral Freetown",
+    "location": "Central Freetown / Cotton Tree corridor, Freetown, Sierra Leone",
+    "country": "Sierra Leone",
+    "region": "Africa",
+    "regionSlug": "africa",
+    "religions": [
+      "Christian"
+    ],
+    "religionSlugs": [
+      "christian"
+    ],
+    "summary": "Freetown Anglican cathedral / national heritage household — opens Sierra Leone. Soft Visit Sierra Leone deep. Do not invent SLE/USD. ≠ live st-georges-georgetown (Guyana) — different country; do not merge.",
+    "heroImage": "https://images.unsplash.com/photo-1515542622106-78bda8ba0e5b?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": false,
+    "quickFacts": {
+      "founded": "Anglican cathedral household in central Freetown / Cotton Tree historic corridor",
+      "patron": "Christian — Anglican cathedral (St George)",
+      "unesco": "Not a World Heritage property; Freetown national heritage / tourism Soft deep",
+      "typicalVisit": "30–60 minutes nave when open + central Freetown walk"
+    },
+    "related": [
+      "st-georges-georgetown",
+      "st-michaels-cathedral-barbados",
+      "anglican-cathedral-victoria"
+    ],
+    "overview": {
+      "body": [
+        "St George’s Cathedral Freetown opens Sierra Leone on SanctaWay as the capital Anglican cathedral Soft-deep on Visit Sierra Leone — a working national-heritage household on the central Freetown / Cotton Tree corridor. This is Freetown’s St George’s, not Georgetown St George’s in Guyana (already live as st-georges-georgetown — name peer only; different country; never merge as the same shrine), not one sacred pass covering every Sierra Leonean church, and not doom-tourism framing.",
+        "Frame Soft CTA honesty: use Soft https://www.visitsierraleone.org/st-georges-cathedral/ as primary (curl-verified 200 + TLS at write). Older deep Soft paths returned 404 — unused. Nave is generally free / donation — verify service and visit windows locally; do not invent SLE or USD. Prefer Soft destination deep over OTAs.",
+        "Soft blockers: service times; heat and rain; road / Lungi gateway logistics honesty without doom framing. Pair National Museum / historic Freetown walks honestly as separate stops.",
+        "Gateway: road / water taxi from Lungi air gateway into central Freetown. Mesh carefully with Guyana St George’s as a name peer only — related[] may cite it without treating the two as one shrine or one country.",
+        "SanctaWay is informational — it does not sell tickets, invent fares, or grant nave access. Earn keep as Sierra Leone #1: lead Freetown Anglican cathedral honesty."
+      ],
+      "highlights": [
+        "Opens Sierra Leone — St George’s Cathedral Freetown Anglican / heritage household",
+        "Soft Visit Sierra Leone deep st-georges-cathedral",
+        "Nave generally free/donation — do not invent SLE/USD",
+        "≠ st-georges-georgetown (Guyana) — name peer only; never merge countries",
+        "Older deep Soft 404 unused; Lungi gateway honesty"
+      ]
+    },
+    "visit": {
+      "intro": "Soft Visit Sierra Leone St George’s deep — free/donation nave class; NEVER invent SLE/USD.",
+      "hours": "Verify https://www.visitsierraleone.org/st-georges-cathedral/ and parish notices before travel (Soft 200 + TLS). Working Anglican cathedral — service windows reshape access. Do not invent a fixed year-round tourist timetable.",
+      "tickets": "Nave generally free / donation when open — verify service / visit windows locally; do not invent SLE or USD. Soft primary https://www.visitsierraleone.org/st-georges-cathedral/. Older deep Soft paths 404 unused. Prefer Soft destination deep over OTAs. Not one ticket with every Sierra Leonean church. Not the same shrine as Georgetown St George’s (Guyana).",
+      "dress": "Active cathedral — modest dress; heat / rain honesty; quiet; photography rules as posted.",
+      "duration": "30–60 minutes nave when open; add central Freetown walk time.",
+      "access": "Central Freetown / Cotton Tree corridor. Road / water taxi from Lungi air gateway. Service times reshape access.",
+      "tips": [
+        "Use Soft Visit Sierra Leone deep — do not invent SLE/USD.",
+        "MUST ≠ Georgetown St George’s (Guyana) as the same shrine.",
+        "Modest dress; quiet in the nave during services.",
+        "Heat and rain honesty — plan shade / timing.",
+        "Older Soft deep paths 404 unused — use current deep URL.",
+        "Lungi gateway logistics — plan transfer time honestly.",
+        "SanctaWay does not sell tickets or grant access."
+      ],
+      "entryType": "soft-destination",
+      "ticketsUrl": "https://www.visitsierraleone.org/st-georges-cathedral/",
+      "ticketsLabel": "St George’s Freetown Soft Visit Sierra Leone deep — do not invent SLE/USD; ≠ Georgetown Guyana",
+      "ticketsNote": "Soft CTA 200+TLS0 visitsierraleone.org/st-georges-cathedral/; older deep 404 unused; ≠ st-georges-georgetown (Guyana); do not invent SLE/USD."
+    },
+    "etiquette": {
+      "intro": "Living Anglican cathedral in Freetown — quiet and gateway honesty.",
+      "bullets": [
+        "Quiet in the nave; yield space during services.",
+        "Modest dress; follow photography rules as posted.",
+        "Respect heat / rain limits and local heritage framing.",
+        "Threshold Atlas tone: Sierra Leone #1 — ≠ Guyana St George’s country merge."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach St George’s Cathedral in Freetown.",
+      "paragraphs": [
+        "Most visitors reach the cathedral on the central Freetown / Cotton Tree corridor after road or water-taxi transfer from the Lungi air gateway.",
+        "Treat National Museum and other historic Freetown stops as separate visits — do not invent one sacred combo ticket covering every Sierra Leonean church.",
+        "Service times reshape access — confirm Soft Visit Sierra Leone deep and parish notices the day you go. Related name peer Georgetown St George’s is a different country."
+      ],
+      "bullets": [
+        "Central Freetown / Cotton Tree corridor",
+        "Lungi air gateway + road / water taxi",
+        "No Sierra Leonean church one-pass myth",
+        "≠ Georgetown Guyana same-shrine merge"
+      ]
+    },
+    "bestTime": {
+      "intro": "Cooler morning windows; verify service times and gateway transfers.",
+      "paragraphs": [
+        "Mid-day heat densifies discomfort — morning windows are usually kinder for central Freetown walks.",
+        "Service times and Lungi transfer timing reshape the day — re-check Soft Visit Sierra Leone deep."
+      ],
+      "bullets": [
+        "Best: cooler morning after gateway transfer",
+        "Watch service windows",
+        "Soft visitsierraleone.org/st-georges-cathedral/",
+        "Do not invent SLE/USD"
+      ]
+    },
+    "notes": {
+      "intro": "SanctaWay Threshold Atlas notes — Sierra Leone #1 St George’s Cathedral Freetown.",
+      "bullets": [
+        "Opens Sierra Leone — Freetown Anglican cathedral / national heritage household.",
+        "Soft Visit Sierra Leone deep — do not invent SLE/USD.",
+        "MUST ≠ st-georges-georgetown (Guyana) — name peer only; never merge countries or shrines.",
+        "SanctaWay does not sell tickets, invent visa myths, or grant access."
+      ]
+    }
+  },
+  {
+    "id": "holy-cross-cathedral-lusaka",
+    "name": "Cathedral of the Holy Cross, Lusaka, Zambia",
+    "shortName": "Holy Cross Cathedral Lusaka",
+    "location": "Lusaka city core, Lusaka, Zambia",
+    "country": "Zambia",
+    "region": "Africa",
+    "regionSlug": "africa",
+    "religions": [
+      "Christian"
+    ],
+    "religionSlugs": [
+      "christian"
+    ],
+    "summary": "Lusaka Catholic cathedral tourism Soft clear — opens Zambia. Soft official /visit. Do not invent ZMW. ≠ Anglican Cathedral of Lusaka (Soft 403 unused).",
+    "heroImage": "https://images.unsplash.com/photo-1520637836862-4d197d17c35a?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": false,
+    "quickFacts": {
+      "founded": "Catholic cathedral household in Lusaka city core (Cathedral of the Holy Cross)",
+      "patron": "Christian — Catholic cathedral (Holy Cross)",
+      "unesco": "Not a World Heritage property; Lusaka capital tourism Soft",
+      "typicalVisit": "30–60 minutes nave when open + Lusaka city walk"
+    },
+    "related": [
+      "christuskirche-windhoek",
+      "our-lady-of-kibeho",
+      "nossa-senhora-muxima"
+    ],
+    "overview": {
+      "body": [
+        "Cathedral of the Holy Cross opens Zambia on SanctaWay as Lusaka’s Catholic cathedral Soft-published on the parish visit page — a working capital nave that tourism Soft treats as Zambia’s sacred household visit. This is Holy Cross Catholic Lusaka, not the Anglican Cathedral of Lusaka (Soft 403 unused this pass), not Livingstone densify, and not one sacred pass covering every Zambian church.",
+        "Frame Soft CTA honesty: use Soft official https://www.cathedralholycrosslusaka.com/visit as primary (curl-verified 200 + TLS at write) with Zambia Tourism Lusaka Soft secondary when up (intermittent 403 this egress — Soft secondary only). zambia.travel 403 unused; Anglican Lusaka Soft 403 unused. Nave is generally free / donation — verify Mass and visit windows from Soft / parish notice; do not invent ZMW. Prefer Soft official over OTAs.",
+        "Soft blockers: Mass times; Soft secondary intermittent; sun honesty. Pair Lusaka National Museum / city tourism honestly as separate stops.",
+        "Gateway: Lusaka city core; Kenneth Kaunda air gateway. Treat Livingstone and Anglican Lusaka densify as parked.",
+        "SanctaWay is informational — it does not sell tickets, invent fares, or grant nave access. Earn keep as Zambia #1: lead Lusaka Catholic cathedral honesty."
+      ],
+      "highlights": [
+        "Opens Zambia — Cathedral of the Holy Cross Lusaka Catholic",
+        "Soft official /visit (+ Zambia Tourism Lusaka Soft secondary)",
+        "Nave generally free/donation — do not invent ZMW",
+        "≠ Anglican Cathedral of Lusaka (Soft 403 unused)",
+        "Livingstone densify parked; Mass / sun honesty"
+      ]
+    },
+    "visit": {
+      "intro": "Soft official Holy Cross Lusaka /visit — free/donation nave class; NEVER invent ZMW.",
+      "hours": "Verify https://www.cathedralholycrosslusaka.com/visit and parish notices before travel (Soft 200 + TLS). Working Catholic cathedral — Mass windows reshape access. Do not invent a fixed year-round tourist timetable.",
+      "tickets": "Nave generally free / donation when open — verify Mass / visit windows locally; do not invent ZMW. Soft primary https://www.cathedralholycrosslusaka.com/visit (+ Zambia Tourism Lusaka Soft secondary when up). zambia.travel / Anglican Lusaka Soft 403 unused. Prefer Soft official over OTAs. Not one ticket with every Zambian church.",
+      "dress": "Active cathedral — modest dress; quiet; photography rules as posted; sun honesty.",
+      "duration": "30–60 minutes nave when open; add Lusaka city walk time.",
+      "access": "Lusaka city core. Kenneth Kaunda air gateway. Mass times reshape access.",
+      "tips": [
+        "Use Soft official /visit — do not invent ZMW.",
+        "Modest dress; quiet in the nave during Mass.",
+        "Sun honesty — plan shade / timing.",
+        "≠ Anglican Cathedral of Lusaka (Soft 403 unused this pass).",
+        "Livingstone densify parked.",
+        "Zambia Tourism Lusaka Soft secondary can intermittent 403 — Soft official remains primary.",
+        "SanctaWay does not sell tickets or grant access."
+      ],
+      "entryType": "soft-official",
+      "ticketsUrl": "https://www.cathedralholycrosslusaka.com/visit",
+      "ticketsLabel": "Holy Cross Lusaka Soft official /visit — do not invent ZMW",
+      "ticketsNote": "Soft CTA 200+TLS0 cathedralholycrosslusaka.com/visit; Zambia Tourism Lusaka Soft secondary intermittent; Anglican Lusaka Soft 403 unused; do not invent ZMW."
+    },
+    "etiquette": {
+      "intro": "Living Catholic capital cathedral — quiet and Mass honesty.",
+      "bullets": [
+        "Quiet in the nave; yield space during Mass.",
+        "Modest dress; follow photography rules as posted.",
+        "Respect sun / heat limits on city walks.",
+        "Threshold Atlas tone: Zambia #1 Catholic Holy Cross — ≠ Anglican Lusaka densify."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Holy Cross Cathedral in Lusaka.",
+      "paragraphs": [
+        "Most visitors reach the cathedral in Lusaka’s city core by road from the Kenneth Kaunda air gateway or local taxi.",
+        "Treat Lusaka National Museum and other city stops as separate visits — do not invent one sacred combo ticket covering every Zambian church.",
+        "Mass times reshape access — confirm Soft official /visit and parish notices the day you go."
+      ],
+      "bullets": [
+        "Lusaka city core road / taxi",
+        "Kenneth Kaunda air gateway",
+        "No Zambian church one-pass myth",
+        "≠ Anglican Lusaka densify"
+      ]
+    },
+    "bestTime": {
+      "intro": "Cooler morning windows; verify Mass times.",
+      "paragraphs": [
+        "Mid-day sun densifies discomfort — morning windows are usually kinder for Lusaka walks.",
+        "Mass times reshape nave access — re-check Soft official /visit."
+      ],
+      "bullets": [
+        "Best: cooler morning",
+        "Watch Mass windows",
+        "Soft cathedralholycrosslusaka.com/visit",
+        "Do not invent ZMW"
+      ]
+    },
+    "notes": {
+      "intro": "SanctaWay Threshold Atlas notes — Zambia #1 Holy Cross Cathedral Lusaka.",
+      "bullets": [
+        "Opens Zambia — Lusaka Catholic cathedral Soft official /visit.",
+        "Do not invent ZMW; Anglican Lusaka Soft 403 unused.",
+        "Livingstone densify parked.",
+        "SanctaWay does not sell tickets, invent visa myths, or grant access."
+      ]
+    }
+  },
+  {
+    "id": "nossa-senhora-baluarte",
+    "name": "Capela de Nossa Senhora do Baluarte / Chapel of Our Lady of the Rampart, Island of Mozambique",
+    "shortName": "Nossa Senhora do Baluarte",
+    "location": "Island of Mozambique (Ilha de Moçambique), Nampula Province, Mozambique",
+    "country": "Mozambique",
+    "region": "Africa",
+    "regionSlug": "africa",
+    "religions": [
+      "Christian"
+    ],
+    "religionSlugs": [
+      "christian"
+    ],
+    "summary": "Oldest surviving European building (1522) / sacred chapel on UNESCO Island of Mozambique — opens Mozambique. Soft Visit Mozambique Ilha guide (+ UNESCO 599 Soft). Do NOT invent island entry fees / MZN.",
+    "heroImage": "https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": false,
+    "quickFacts": {
+      "founded": "Chapel of Nossa Senhora do Baluarte traditionally dated 1522 on Island of Mozambique — among the oldest surviving European buildings in the southern hemisphere",
+      "patron": "Christian — Catholic chapel (Our Lady of the Rampart / Nossa Senhora do Baluarte)",
+      "unesco": "On Island of Mozambique (UNESCO World Heritage 599)",
+      "typicalVisit": "20–40 minutes at the chapel + UNESCO islandscape walk (island access separate)"
+    },
+    "related": [
+      "nossa-senhora-muxima",
+      "paramaribo-cathedral",
+      "andohalo-cathedral"
+    ],
+    "overview": {
+      "body": [
+        "Nossa Senhora do Baluarte opens Mozambique on SanctaWay as the Capela de Nossa Senhora do Baluarte on UNESCO Island of Mozambique — the famous 1522 sacred chapel Soft-framed inside Visit Mozambique’s Ilha guide as the island’s sacred household, not fortress-only tourism. This is Baluarte chapel, not São Sebastião fortress densify this pass, not Maputo densify, and not one ticket inventing island entry fees for every stop.",
+        "Frame Soft CTA honesty: use Soft https://www.visitmozambique.net/guide/ilha-de-mocambique/ as primary (curl-verified 200 + TLS at write) with UNESCO 599 Soft informational secondary (write-time intermittent 403 this egress — Soft secondary only). turismo.gov.mz TLS unused. Island / site products circulate on destination Soft — verify island access logistics locally; do NOT invent Island of Mozambique entry fees or MZN. Prefer Soft destination / UNESCO over OTAs.",
+        "Soft blockers: island access logistics (boat / bridge from Mossuril / Nampula corridor); heat / cyclone-season honesty; Soft UNESCO intermittent. Pair São Sebastião fortress / UNESCO islandscape honestly as separate stops — the chapel is the sacred household, not the whole island ticket.",
+        "Gateway: Island of Mozambique via Mossuril / Nampula air gateway corridor. Treat Maputo densify and São Sebastião fortress-only framing as parked.",
+        "SanctaWay is informational — it does not sell tickets, invent fares, or grant chapel access. Earn keep as Mozambique #1: lead Baluarte chapel / UNESCO Ilha honesty without invented island fees."
+      ],
+      "highlights": [
+        "Opens Mozambique — Capela de Nossa Senhora do Baluarte on UNESCO Ilha",
+        "Soft Visit Mozambique Ilha guide (+ UNESCO 599 Soft secondary)",
+        "Do NOT invent island entry fees / MZN",
+        "≠ São Sebastião fortress densify; Maputo densify parked",
+        "Island access logistics honesty (boat / bridge)"
+      ]
+    },
+    "visit": {
+      "intro": "Soft Visit Mozambique Ilha guide — chapel visit class; NEVER invent island entry fees / MZN.",
+      "hours": "Verify https://www.visitmozambique.net/guide/ilha-de-mocambique/ and local island notices before travel (Soft 200 + TLS). Historic chapel inside UNESCO Island of Mozambique — open windows and island access reshape the day. Do not invent a fixed year-round timetable or island fee schedule.",
+      "tickets": "Chapel visit is framed through island / destination Soft — verify island access products locally; do NOT invent Island of Mozambique entry fees or MZN. Soft primary https://www.visitmozambique.net/guide/ilha-de-mocambique/ (+ UNESCO 599 Soft informational when up). turismo.gov.mz TLS unused. Prefer Soft destination / UNESCO over OTAs. Not one invented fee covering fortress + every island stop.",
+      "dress": "Sacred chapel / UNESCO site — modest dress; quiet; photography rules as posted; heat / cyclone-season honesty; respect living community.",
+      "duration": "20–40 minutes at the chapel; add UNESCO islandscape walk time (island access separate).",
+      "access": "Island of Mozambique — boat / bridge access from Mossuril / Nampula corridor. Island logistics reshape access. Do not invent island fees.",
+      "tips": [
+        "Use Soft Visit Mozambique Ilha guide — do NOT invent island entry fees / MZN.",
+        "Modest dress; quiet at the chapel.",
+        "Heat / cyclone-season honesty — plan timing.",
+        "São Sebastião fortress is a separate stop — not fortress-only framing.",
+        "UNESCO Soft secondary can intermittent 403 — destination Soft remains primary.",
+        "Maputo densify parked this pass.",
+        "SanctaWay does not sell tickets or invent island fees."
+      ],
+      "entryType": "soft-destination",
+      "ticketsUrl": "https://www.visitmozambique.net/guide/ilha-de-mocambique/",
+      "ticketsLabel": "Baluarte Soft Visit Mozambique Ilha guide (+ UNESCO 599 Soft) — do NOT invent island fees / MZN",
+      "ticketsNote": "Soft CTA 200+TLS0 visitmozambique.net Ilha guide; UNESCO 599 Soft secondary intermittent 403; do NOT invent island entry fees / MZN."
+    },
+    "etiquette": {
+      "intro": "Living sacred chapel on a UNESCO island — quiet and community honesty.",
+      "bullets": [
+        "Quiet at the chapel; yield space to local worship.",
+        "Modest dress; follow photography rules as posted.",
+        "Respect living community and island logistics.",
+        "Threshold Atlas tone: Mozambique #1 Baluarte — no invented island fees; no fortress-only framing."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Capela de Nossa Senhora do Baluarte on Ilha de Moçambique.",
+      "paragraphs": [
+        "Most visitors reach Island of Mozambique via boat or bridge access from the Mossuril / Nampula corridor, then walk the UNESCO islandscape to the Baluarte chapel.",
+        "Nampula air gateway feeds the corridor — treat São Sebastião fortress and other island stops as separate visits; do not invent one island fee covering every sacred and fortress product.",
+        "Island logistics and weather reshape access — confirm Soft Visit Mozambique Ilha guide the day you go."
+      ],
+      "bullets": [
+        "Ilha de Moçambique boat / bridge access",
+        "Mossuril / Nampula air gateway corridor",
+        "No invented island one-fee myth",
+        "Chapel ≠ fortress densify"
+      ]
+    },
+    "bestTime": {
+      "intro": "Cooler / calmer island windows; verify logistics — never invent fees.",
+      "paragraphs": [
+        "Heat and cyclone-season weather reshape island comfort — cooler or calmer windows are usually kinder.",
+        "Island logistics reshape access — re-check Soft Visit Mozambique Ilha guide; do not invent fee schedules."
+      ],
+      "bullets": [
+        "Best: cooler / calmer island window",
+        "Watch island logistics / weather",
+        "Soft visitmozambique.net Ilha guide",
+        "Do NOT invent island fees / MZN"
+      ]
+    },
+    "notes": {
+      "intro": "SanctaWay Threshold Atlas notes — Mozambique #1 Nossa Senhora do Baluarte.",
+      "bullets": [
+        "Opens Mozambique — Capela de Nossa Senhora do Baluarte on UNESCO Island of Mozambique.",
+        "Soft Visit Mozambique Ilha guide — do NOT invent island entry fees / MZN.",
+        "São Sebastião fortress densify and Maputo densify parked.",
+        "SanctaWay does not sell tickets, invent visa myths, or grant access."
+      ]
+    }
+  },
+  {
+    "id": "nossa-senhora-muxima",
+    "name": "Sanctuary of Our Lady of Muxima / Santuário de Nossa Senhora da Muxima, Bengo, Angola",
+    "shortName": "Our Lady of Muxima",
+    "location": "Muxima / Bengo on the Kwanza River, Angola",
+    "country": "Angola",
+    "region": "Africa",
+    "regionSlug": "africa",
+    "religions": [
+      "Christian"
+    ],
+    "religionSlugs": [
+      "christian"
+    ],
+    "summary": "Angola’s major Marian pilgrimage sanctuary on the Kwanza — opens Angola. Soft PA Angola Muxima roteiro (+ visitangola.ao Soft home). Do not invent AOA. Mbanza Kongo densify parked.",
+    "heroImage": "https://images.unsplash.com/photo-1438232992991-995b7058bbb3?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": false,
+    "quickFacts": {
+      "founded": "Living Marian pilgrimage sanctuary at Muxima on the Kwanza (Bengo) — Angola’s major pilgrimage household",
+      "patron": "Christian — Catholic Marian sanctuary (Our Lady of Muxima / Nossa Senhora da Muxima)",
+      "unesco": "Not a World Heritage property; Angola pilgrimage / tourism Soft roteiro",
+      "typicalVisit": "1–2 hours grounds / sanctuary when open; feast days densify"
+    },
+    "related": [
+      "nossa-senhora-baluarte",
+      "our-lady-of-kibeho",
+      "basilica-coromoto"
+    ],
+    "overview": {
+      "body": [
+        "Nossa Senhora da Muxima opens Angola on SanctaWay as the Sanctuary of Our Lady of Muxima on the Kwanza in Bengo — Angola’s major Marian pilgrimage household Soft-published on PA Angola’s Muxima roteiro and Visit Angola Soft home. This is Muxima, not Mbanza Kongo UNESCO densify this pass, not one pilgrimage pass inventing AOA fares, and not fortress framing without the living sanctuary.",
+        "Frame Soft CTA honesty: use Soft https://www.pa-angola-tourism.com/portugu%C3%A9s/roteiro-di%C3%A1rio/muxima/ as primary (curl-verified 200 + TLS at write) with Visit Angola Soft home https://visitangola.ao/ (+ Bengo dest Soft). Diocese Soft TLS unused; minhotur SSL expired unused. Grounds are generally free / donation / arranged — verify feast and pilgrimage calendar honesty locally; do not invent AOA. Prefer Soft destination / roteiro over OTAs. Soft Portuguese-primary honesty.",
+        "Soft blockers: major Marian feast crush; road from Luanda (~2–3 h class — verify at write); Soft Portuguese-primary. Pair Kissama / Bengo tourism honestly as separate stops — do not invent one pilgrimage pass covering Mbanza Kongo.",
+        "Gateway: road from Luanda air gateway to Muxima / Bengo on the Kwanza. Treat Mbanza Kongo densify as parked this batch.",
+        "SanctaWay is informational — it does not sell tickets, invent fares, or grant sanctuary access. Earn keep as Angola #1: lead Muxima pilgrimage honesty."
+      ],
+      "highlights": [
+        "Opens Angola — Sanctuary of Our Lady of Muxima (Kwanza / Bengo)",
+        "Soft PA Angola Muxima roteiro (+ visitangola.ao Soft home)",
+        "Grounds generally free/donation/arranged — do not invent AOA",
+        "Feast crush / road honesty; Soft Portuguese-primary",
+        "Mbanza Kongo densify parked"
+      ]
+    },
+    "visit": {
+      "intro": "Soft PA Angola Muxima roteiro — free/donation/arranged class; NEVER invent AOA.",
+      "hours": "Verify https://www.pa-angola-tourism.com/portugu%C3%A9s/roteiro-di%C3%A1rio/muxima/ and local pilgrimage notices before travel (Soft 200 + TLS). Living Marian sanctuary — feast calendar and ordinary-day windows differ sharply. Do not invent a fixed year-round tourist timetable.",
+      "tickets": "Grounds generally free / donation / arranged when open — verify feast / pilgrimage calendar locally; do not invent AOA. Soft primary PA Angola Muxima roteiro (+ https://visitangola.ao/ Soft home; Bengo dest Soft). Diocese / minhotur TLS unused. Prefer Soft destination / roteiro over OTAs. Not one ticket inventing Mbanza Kongo combo.",
+      "dress": "Active Catholic sanctuary — modest dress; quiet; photography rules as posted; respect pilgrims; river / heat honesty.",
+      "duration": "1–2 hours grounds / sanctuary when open; feast days densify time and crowds.",
+      "access": "Muxima / Bengo on the Kwanza — road from Luanda air gateway (~2–3 h class; verify). Feast crush reshapes access.",
+      "tips": [
+        "Use Soft PA Angola Muxima roteiro (+ visitangola.ao) — do not invent AOA.",
+        "Modest dress; quiet among pilgrims.",
+        "Major Marian feast crush — plan early / expect densify.",
+        "Road from Luanda — verify timing; Soft Portuguese-primary honesty.",
+        "Mbanza Kongo densify parked this pass.",
+        "Diocese / minhotur TLS unused — do not cite as Soft CTA.",
+        "SanctaWay does not sell tickets or grant access."
+      ],
+      "entryType": "soft-destination",
+      "ticketsUrl": "https://www.pa-angola-tourism.com/portugu%C3%A9s/roteiro-di%C3%A1rio/muxima/",
+      "ticketsLabel": "Muxima Soft PA Angola roteiro (+ visitangola.ao Soft home) — do not invent AOA",
+      "ticketsNote": "Soft CTA 200+TLS0 PA Angola Muxima; visitangola.ao Soft home secondary; diocese/minhotur TLS unused; do not invent AOA."
+    },
+    "etiquette": {
+      "intro": "Living Marian pilgrimage sanctuary — quiet and feast honesty.",
+      "bullets": [
+        "Quiet among pilgrims; yield space during feast crush.",
+        "Modest dress; follow photography rules as posted.",
+        "Respect river / heat limits and Soft Portuguese-primary sources.",
+        "Threshold Atlas tone: Angola #1 Muxima — no Mbanza Kongo densify; no invented AOA."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach the Sanctuary of Our Lady of Muxima.",
+      "paragraphs": [
+        "Most visitors reach Muxima by road from the Luanda air gateway along the Kwanza / Bengo corridor — treat ~2–3 h class as planning guidance and verify locally.",
+        "Treat Kissama / Bengo tourism and Mbanza Kongo as separate stops — do not invent one pilgrimage combo fare.",
+        "Feast crush reshapes access — confirm Soft PA Angola Muxima roteiro and local notices the day you go."
+      ],
+      "bullets": [
+        "Road from Luanda to Muxima / Bengo / Kwanza",
+        "Luanda air gateway",
+        "No Mbanza Kongo one-pass myth",
+        "Feast crush honesty"
+      ]
+    },
+    "bestTime": {
+      "intro": "Ordinary quieter days vs major Marian feast crush; verify Soft.",
+      "paragraphs": [
+        "Ordinary days are quieter for sanctuary grounds; major Marian feast days densify pilgrims and reshape access.",
+        "Heat and road timing reshape comfort — re-check Soft PA Angola Muxima roteiro."
+      ],
+      "bullets": [
+        "Best: ordinary quieter day if avoiding crush",
+        "Watch major Marian feast densify",
+        "Soft PA Angola Muxima roteiro",
+        "Do not invent AOA"
+      ]
+    },
+    "notes": {
+      "intro": "SanctaWay Threshold Atlas notes — Angola #1 Our Lady of Muxima.",
+      "bullets": [
+        "Opens Angola — Sanctuary of Our Lady of Muxima on the Kwanza.",
+        "Soft PA Angola Muxima (+ visitangola.ao Soft home) — do not invent AOA.",
+        "Mbanza Kongo densify parked; diocese/minhotur TLS unused.",
+        "SanctaWay does not sell tickets, invent visa myths, or grant access."
+      ]
+    }
+  },
+  {
+    "id": "andohalo-cathedral",
+    "name": "Cathédrale d’Andohalo / Cathedral of the Immaculate Conception of Andohalo, Antananarivo, Madagascar",
+    "shortName": "Andohalo Cathedral",
+    "location": "Andohalo hill / haute-ville, Antananarivo, Madagascar",
+    "country": "Madagascar",
+    "region": "Africa",
+    "regionSlug": "africa",
+    "religions": [
+      "Christian"
+    ],
+    "religionSlugs": [
+      "christian"
+    ],
+    "summary": "Antananarivo hilltop Catholic cathedral tourism household — opens Madagascar. Soft madagascar-tourisme Antananarivo dest (UA clears bare 403). Do not invent MGA. Prefer over Ambohimanga (new-slug parked).",
+    "heroImage": "https://images.unsplash.com/photo-1515542622106-78bda8ba0e5b?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": false,
+    "quickFacts": {
+      "founded": "Catholic cathedral household on Andohalo hill, Antananarivo haute-ville (Immaculate Conception of Andohalo)",
+      "patron": "Christian — Catholic cathedral (Immaculate Conception / Andohalo)",
+      "unesco": "Not a World Heritage property; Antananarivo capital tourism Soft destination",
+      "typicalVisit": "30–60 minutes nave when open + Andohalo hill / haute-ville walk"
+    },
+    "related": [
+      "anglican-cathedral-victoria",
+      "christuskirche-windhoek",
+      "holy-cross-cathedral-lusaka"
+    ],
+    "overview": {
+      "body": [
+        "Andohalo Cathedral opens Madagascar on SanctaWay as the Cathédrale d’Andohalo — the hilltop Catholic cathedral Soft-framed inside madagascar-tourisme’s Antananarivo destination page as the capital’s Christian tourism household. This is Andohalo, not Ambohimanga (new religionSlug / Merina-ancestral risk — parked), not Rova palace densify framed as cathedral, and not one sacred pass covering every Antananarivo church.",
+        "Frame Soft CTA honesty: use Soft https://madagascar-tourisme.com/fr/destination/antananarivo/ as primary (curl-verified 200 + TLS with Mozilla UA at write; bare egress intermittent 403). tourisme.gov.mg SSL expired unused. Nave is generally free / donation — verify Mass and visit windows locally; do not invent MGA. Prefer Soft destination over OTAs.",
+        "Soft blockers: Soft intermittent 403 this egress (use UA / retry); hill / stair access; Mass times. Pair Rova / Analakely honestly as separate stops — do not invent one sacred pass covering Ambohimanga.",
+        "Gateway: Andohalo hill / haute-ville; walk / taxi from Ivato air gateway corridor. Treat Ambohimanga new-slug and Rova densify as parked.",
+        "SanctaWay is informational — it does not sell tickets, invent fares, or grant nave access. Earn keep as Madagascar #1: lead Andohalo cathedral honesty."
+      ],
+      "highlights": [
+        "Opens Madagascar — Cathédrale d’Andohalo Antananarivo hilltop Catholic",
+        "Soft madagascar-tourisme Antananarivo dest (UA clears bare 403)",
+        "Nave generally free/donation — do not invent MGA",
+        "Prefer over Ambohimanga (new-slug parked); Rova densify parked",
+        "Hill / stair access honesty"
+      ]
+    },
+    "visit": {
+      "intro": "Soft madagascar-tourisme Antananarivo — free/donation nave class; NEVER invent MGA.",
+      "hours": "Verify https://madagascar-tourisme.com/fr/destination/antananarivo/ and parish notices before travel (Soft 200 + TLS with UA; bare intermittent 403). Working Catholic cathedral — Mass windows reshape access. Do not invent a fixed year-round tourist timetable.",
+      "tickets": "Nave generally free / donation when open — verify Mass / visit windows locally; do not invent MGA. Soft primary https://madagascar-tourisme.com/fr/destination/antananarivo/ (+ Soft home / Andohalo search Soft when up). tourisme.gov.mg SSL expired unused. Prefer Soft destination over OTAs. Not one ticket with Ambohimanga or every Antananarivo church.",
+      "dress": "Active cathedral — modest dress; hill / stair honesty; quiet; photography rules as posted.",
+      "duration": "30–60 minutes nave when open; add Andohalo hill / haute-ville walk time.",
+      "access": "Andohalo hill / haute-ville — walk / taxi from Ivato corridor. Stair access and Mass times reshape the visit.",
+      "tips": [
+        "Use Soft madagascar-tourisme Antananarivo — do not invent MGA.",
+        "Bare curl may 403 — Soft primary clears with Mozilla UA at write.",
+        "Modest dress; quiet in the nave during Mass.",
+        "Hill / stair honesty — plan mobility.",
+        "Ambohimanga new-slug parked; prefer Andohalo this pass.",
+        "Rova densify parked as palace-not-cathedral.",
+        "SanctaWay does not sell tickets or grant access."
+      ],
+      "entryType": "soft-destination",
+      "ticketsUrl": "https://madagascar-tourisme.com/fr/destination/antananarivo/",
+      "ticketsLabel": "Andohalo Soft madagascar-tourisme Antananarivo dest — do not invent MGA (UA Soft)",
+      "ticketsNote": "Soft CTA 200+TLS0 madagascar-tourisme Antananarivo with Mozilla UA; bare intermittent 403; tourisme.gov.mg SSL unused; Ambohimanga parked; do not invent MGA."
+    },
+    "etiquette": {
+      "intro": "Living hilltop Catholic cathedral — quiet and stair honesty.",
+      "bullets": [
+        "Quiet in the nave; yield space during Mass.",
+        "Modest dress; follow photography rules as posted.",
+        "Respect hill / stair limits.",
+        "Threshold Atlas tone: Madagascar #1 Andohalo — Ambohimanga new-slug parked."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Cathédrale d’Andohalo in Antananarivo.",
+      "paragraphs": [
+        "Most visitors reach Andohalo hill in Antananarivo haute-ville by walk or taxi from the Ivato air gateway corridor.",
+        "Treat Rova, Analakely, and Ambohimanga as separate stops — do not invent one sacred combo ticket.",
+        "Mass times and Soft intermittent 403 reshape planning — confirm Soft madagascar-tourisme Antananarivo (UA) and parish notices the day you go."
+      ],
+      "bullets": [
+        "Andohalo hill / haute-ville walk or taxi",
+        "Ivato air gateway corridor",
+        "No Ambohimanga / Rova one-pass myth",
+        "Soft UA honesty"
+      ]
+    },
+    "bestTime": {
+      "intro": "Cooler morning hill windows; verify Mass times.",
+      "paragraphs": [
+        "Hill walks are usually kinder in cooler morning windows.",
+        "Mass times reshape nave access — re-check Soft madagascar-tourisme Antananarivo."
+      ],
+      "bullets": [
+        "Best: cooler morning hill window",
+        "Watch Mass windows",
+        "Soft madagascar-tourisme Antananarivo (UA)",
+        "Do not invent MGA"
+      ]
+    },
+    "notes": {
+      "intro": "SanctaWay Threshold Atlas notes — Madagascar #1 Andohalo Cathedral.",
+      "bullets": [
+        "Opens Madagascar — Cathédrale d’Andohalo Antananarivo hilltop Catholic.",
+        "Soft madagascar-tourisme Antananarivo (UA Soft) — do not invent MGA.",
+        "Ambohimanga new-slug parked; Rova densify parked.",
+        "SanctaWay does not sell tickets, invent visa myths, or grant access."
+      ]
+    }
+  },
+  {
+    "id": "grand-mosque-conakry",
+    "name": "Grand Mosque of Conakry / Grande Mosquée Fayçal, Conakry, Guinea",
+    "shortName": "Grand Mosque Conakry",
+    "location": "Belle Vue / capital core, Conakry, Guinea",
+    "country": "Guinea",
+    "region": "Africa",
+    "regionSlug": "africa",
+    "religions": [
+      "Islamic"
+    ],
+    "religionSlugs": [
+      "islamic"
+    ],
+    "summary": "Conakry landmark Friday mosque / West Africa large-mosque tourism household — opens Guinea. Soft gdb.gn tourisme Soft-home. Soft sacred deep thin. Do not invent GNF. ≠ Touba Magal-access class.",
+    "heroImage": "https://images.unsplash.com/photo-1564769625392-651b89c6bce1?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": false,
+    "quickFacts": {
+      "founded": "Grande Mosquée Fayçal / Grand Mosque of Conakry — Conakry capital Friday-mosque landmark (Belle Vue corridor)",
+      "patron": "Islamic — Friday mosque / capital landmark (Fayçal / Grand Mosque Conakry)",
+      "unesco": "Not a World Heritage property; Conakry capital Soft-home tourism framing",
+      "typicalVisit": "20–45 minutes exterior; interior only if non-Muslim visit windows allow (not guaranteed)"
+    },
+    "related": [
+      "national-mosque-abuja",
+      "mosque-of-divinity-dakar",
+      "larabanga-mosque"
+    ],
+    "overview": {
+      "body": [
+        "Grand Mosque of Conakry opens Guinea on SanctaWay as the Grande Mosquée Fayçal — Conakry’s landmark Friday mosque Soft-framed through Guinea Development Board tourisme Soft-home as the capital’s large-mosque tourism household. Soft sacred deep body is thin this pass — Soft-home is honest; this is not inventing a guided-tour product. This is Conakry Grand Mosque / Fayçal, not Touba Magal-access class (different country / class — parked), not Cairo islamic #5, and not Istanbul mosque #5.",
+        "Frame Soft CTA honesty: use Soft https://gdb.gn/tourisme/ as Soft-home primary (curl-verified 200 + TLS at write). Soft sacred deep thin — Soft-home preferred over inventing a weak deep. guineetourisme.gov.gn / visitguinee TLS unused. Exterior is often free; non-Muslim prayer-hall access is not guaranteed — verify locally; do not invent GNF. Prefer Soft Soft-home over OTAs. Honest Soft-home over honest NO_CTA this write because gdb.gn tourisme clears Soft.",
+        "Soft blockers: Soft-home thin sacred body; Friday reshapes access; non-Muslim interior uncertainty. Pair Corniche / city tourism honestly as separate stops — do not invent one sacred pass covering every Guinean mosque.",
+        "Gateway: Belle Vue / capital core; road from Conakry air gateway. Treat Touba Magal-access class as parked (different country).",
+        "SanctaWay is informational — it does not sell tickets, invent fares, or grant mosque access. Earn keep as Guinea #1: lead Conakry Grand Mosque / Fayçal landmark honesty."
+      ],
+      "highlights": [
+        "Opens Guinea — Grand Mosque / Fayçal Conakry capital Friday landmark",
+        "Soft gdb.gn tourisme Soft-home (sacred deep thin)",
+        "Exterior often free; non-Muslim interior not guaranteed — do not invent GNF",
+        "≠ Touba Magal-access class; ≠ Cairo/Istanbul densify",
+        "Friday access honesty"
+      ]
+    },
+    "visit": {
+      "intro": "Soft gdb.gn tourisme Soft-home — exterior free class; NEVER invent GNF; interior not guaranteed.",
+      "hours": "Verify https://gdb.gn/tourisme/ Soft-home and local notices before travel (Soft 200 + TLS). Living Friday mosque — Friday prayer reshapes access; non-Muslim prayer-hall access is not guaranteed. Do not invent a casual all-day interior timetable.",
+      "tickets": "Exterior often free; Soft informational Soft-home https://gdb.gn/tourisme/ (sacred deep thin this pass). Soft Soft-home preferred over inventing a weak deep or inventing GNF. guineetourisme.gov.gn / visitguinee TLS unused. Prefer Soft Soft-home over OTAs. Not one ticket inventing guided-tour products. ≠ Touba Magal-access class.",
+      "dress": "Active mosque — covered arms/legs; women hair cover if approaching prayer areas; shoes off if admitted; quiet; photography rules as posted.",
+      "duration": "20–45 minutes exterior; interior only if admitted (not guaranteed).",
+      "access": "Belle Vue / capital core, Conakry. Road from Conakry air gateway. Friday and non-Muslim interior uncertainty reshape access.",
+      "tips": [
+        "Use Soft gdb.gn tourisme Soft-home — do not invent GNF.",
+        "Sacred deep Soft thin — Soft-home honesty, not invented deep.",
+        "Non-Muslim prayer-hall access is not guaranteed — exterior-first.",
+        "Friday prayer densifies and reshapes access.",
+        "Modest dress; shoes off if admitted; photography as posted.",
+        "≠ Touba Magal-access class (different country / parked).",
+        "SanctaWay does not sell tickets or grant access."
+      ],
+      "entryType": "soft-home",
+      "ticketsUrl": "https://gdb.gn/tourisme/",
+      "ticketsLabel": "Grand Mosque Conakry Soft gdb.gn tourisme Soft-home — do not invent GNF; interior not guaranteed",
+      "ticketsNote": "Soft CTA 200+TLS0 gdb.gn/tourisme Soft-home; sacred deep thin; guineetourisme/visitguinee TLS unused; ≠ Touba; do not invent GNF."
+    },
+    "etiquette": {
+      "intro": "Living Friday mosque landmark — quiet and non-Muslim access honesty.",
+      "bullets": [
+        "Quiet; yield space during Friday prayer.",
+        "Covered arms/legs; hair cover if approaching prayer areas; shoes off if admitted.",
+        "Do not assume non-Muslim interior access.",
+        "Threshold Atlas tone: Guinea #1 Conakry Grand Mosque — Soft-home honesty; ≠ Touba."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach the Grand Mosque of Conakry.",
+      "paragraphs": [
+        "Most visitors reach the mosque in Conakry’s Belle Vue / capital-core corridor by road from the Conakry air gateway.",
+        "Treat Corniche and other city stops as separate visits — do not invent one sacred combo ticket covering every Guinean mosque.",
+        "Friday prayer and Soft-home thin sacred body reshape expectations — confirm Soft gdb.gn tourisme and local notices the day you go; interior is not guaranteed for non-Muslims."
+      ],
+      "bullets": [
+        "Belle Vue / Conakry capital core",
+        "Conakry air gateway",
+        "No Guinean mosque one-pass myth",
+        "Exterior-first / Soft-home honesty"
+      ]
+    },
+    "bestTime": {
+      "intro": "Exterior outside peak Friday crush; verify Soft-home — interior not guaranteed.",
+      "paragraphs": [
+        "Friday prayer densifies access — exterior windows outside peak Friday crush are usually kinder for landmark photography.",
+        "Non-Muslim interior remains uncertain — Soft Soft-home does not invent guided products; re-check Soft gdb.gn tourisme."
+      ],
+      "bullets": [
+        "Best: exterior outside peak Friday crush",
+        "Watch Friday reshaping",
+        "Soft gdb.gn/tourisme Soft-home",
+        "Do not invent GNF"
+      ]
+    },
+    "notes": {
+      "intro": "SanctaWay Threshold Atlas notes — Guinea #1 Grand Mosque Conakry.",
+      "bullets": [
+        "Opens Guinea — Grande Mosquée Fayçal / Grand Mosque Conakry Soft-home.",
+        "Soft gdb.gn tourisme Soft-home — sacred deep thin; do not invent GNF.",
+        "≠ Touba Magal-access class; non-Muslim interior not guaranteed.",
         "SanctaWay does not sell tickets, invent visa myths, or grant access."
       ]
     }

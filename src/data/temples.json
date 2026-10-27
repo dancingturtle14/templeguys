@@ -1863,7 +1863,7 @@
     "related": [
       "holy-sepulchre",
       "st-peters",
-      "basilica-yamoussoukro"
+      "hanging-church"
     ],
     "overview": {
       "body": [
@@ -6559,7 +6559,7 @@
     "related": [
       "acropolis-parthenon",
       "mont-saint-michel",
-      "vardzia"
+      "ostrog"
     ],
     "overview": {
       "body": [
@@ -6673,7 +6673,7 @@
     "related": [
       "church-of-the-nativity",
       "lalibela",
-      "goreme-open-air"
+      "hanging-church"
     ],
     "overview": {
       "body": [
@@ -7017,7 +7017,7 @@
     "related": [
       "golden-temple",
       "kashi-vishwanath",
-      "jama-masjid"
+      "ajmer-sharif"
     ],
     "overview": {
       "body": [
@@ -9059,7 +9059,7 @@
     "related": [
       "guadalupe",
       "lourdes",
-      "basilica-yamoussoukro"
+      "bom-jesus-congonhas"
     ],
     "overview": {
       "body": [
@@ -10638,7 +10638,7 @@
     "related": [
       "basilica-san-marco",
       "st-peters",
-      "basilica-sant-antonio"
+      "san-giovanni-rotondo"
     ],
     "overview": {
       "body": [
@@ -10862,7 +10862,7 @@
     "related": [
       "guadalupe",
       "aparecida",
-      "fatima"
+      "bom-jesus-congonhas"
     ],
     "overview": {
       "body": [
@@ -11534,7 +11534,7 @@
     "related": [
       "san-francesco-assisi",
       "basilica-san-marco",
-      "st-peters"
+      "san-giovanni-rotondo"
     ],
     "overview": {
       "body": [
@@ -12431,7 +12431,7 @@
     "related": [
       "taj-mahal",
       "sheikh-zayed-grand-mosque",
-      "hassan-ii-mosque"
+      "badshahi-mosque"
     ],
     "overview": {
       "body": [
@@ -16025,7 +16025,7 @@
     "related": [
       "wat-phra-kaew",
       "shwedagon",
-      "thien-mu"
+      "wat-xieng-thong"
     ],
     "overview": {
       "body": [
@@ -16479,7 +16479,7 @@
     "related": [
       "angkor-wat",
       "my-son",
-      "that-luang"
+      "wat-xieng-thong"
     ],
     "overview": {
       "body": [
@@ -16931,7 +16931,7 @@
     "related": [
       "lingyin-temple",
       "yonghegong",
-      "famen-temple"
+      "big-wild-goose-pagoda"
     ],
     "overview": {
       "body": [
@@ -19758,7 +19758,7 @@
     "related": [
       "goreme-open-air",
       "meteora",
-      "vardzia"
+      "ostrog"
     ],
     "overview": {
       "body": [
@@ -20323,7 +20323,7 @@
     "related": [
       "jade-buddha-temple",
       "lingyin-temple",
-      "yonghegong"
+      "big-wild-goose-pagoda"
     ],
     "overview": {
       "body": [
@@ -20855,6 +20855,908 @@
         "Confirm garni.mus.am / on-site ticket — do not invent AMD.",
         "Earn pagan Hellenistic faith-distinct from Geghard + Etchmiadzin; state reconstruction honesty.",
         "Heat, wind, and OTA combo myths are standing soft blockers.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "badshahi-mosque",
+    "name": "Badshahi Mosque (بادشاہی مسجد), Lahore",
+    "shortName": "Badshahi Mosque",
+    "location": "Walled City / Hazuri Bagh plaza opposite Alamgiri Gate of Lahore Fort, Punjab",
+    "country": "Pakistan",
+    "region": "South Asia",
+    "regionSlug": "south-asia",
+    "religions": [
+      "Islamic"
+    ],
+    "religionSlugs": [
+      "islamic"
+    ],
+    "summary": "Aurangzeb-era Mughal courtyard mega beside Lahore Fort — Pakistan tourism postcard #1 (opens Pakistan). Working Friday mosque with dress/prayer limits. Fort is a separate ticket. tourism.punjab.gov.pk / Auqaf. Do not invent PKR.",
+    "heroImage": "https://images.unsplash.com/photo-1567596142471-9c73c5e2a1d5?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "1671–1673/74 CE — commissioned by Mughal emperor Aurangzeb Alamgir; red sandstone and marble imperial mosque",
+      "patron": "Islamic — congregational Friday mosque; Tomb of Allama Iqbal at the steps is adjacent memorial landscape",
+      "unesco": "Not a standalone World Heritage listing (national / provincial iconic monument; Fort / Walled City are separately managed heritage)",
+      "typicalVisit": "1–2 hours courtyard + prayer-hall circuit; often same morning as Lahore Fort across Hazuri Bagh — separate Fort ticket"
+    },
+    "related": [
+      "jama-masjid",
+      "taj-mahal",
+      "registan"
+    ],
+    "overview": {
+      "body": [
+        "Badshahi Mosque is Pakistan’s Mughal postcard mega — the vast red-sandstone courtyard and marble domes facing Alamgiri Gate that every Lahore itinerary names as the country’s imperial islamic landmark, not a Fort selfie courtyard only.",
+        "Frame the visit as a living Friday mosque: prayer windows reshape hall access, dress and scarf expectations are active, and security at the Fort plaza can slow entry. The mosque sits opposite Lahore Fort across Hazuri Bagh; Minar-e-Pakistan and Iqbal’s tomb sit nearby — none of those share one invented sacred pass.",
+        "Official guidance: Punjab Tourism tourism.punjab.gov.pk Badshahi Mosque page and Punjab Auqaf auqaf.punjab.gov.pk. Visitor / plaza products and Fort tickets change — do not invent PKR from blogs or OTA “Lahore VIP” bundles.",
+        "Lahore gateway — airport / rail / metro / taxi to the Walled City Fort plaza. Pair Fort, Wazir Khan Mosque, or food streets without inventing one ticket covering Taxila or Islamabad’s Faisal Mosque.",
+        "Soft blockers: Friday congregational peaks; prayer-time hall limits; women headscarf / covered arms and legs typically required; shoes off in the prayer hall. SanctaWay is informational — it does not sell tickets, invent visa-free myths, or grant access."
+      ],
+      "highlights": [
+        "Opens Pakistan — Aurangzeb Mughal courtyard mega",
+        "Living Friday mosque — dress / prayer honesty",
+        "Lahore Fort is a separate ticket across Hazuri Bagh",
+        "tourism.punjab.gov.pk + Auqaf official guidance",
+        "Do not invent PKR or Taxila / Faisal one-pass myths"
+      ]
+    },
+    "visit": {
+      "intro": "Punjab Tourism / Auqaf — living mosque honesty; Fort separate; no invent PKR.",
+      "hours": "Mosque visitor / prayer windows — verify Punjab Tourism and mosque administration notices before travel. Early morning or late afternoon for courtyard light; Friday congregational peaks reshape non-worship access.",
+      "tickets": "Grounds / visitor products as published by Auqaf / tourism authorities; Lahore Fort is a separate ticketed site. Do not invent PKR from blogs or OTA “Lahore VIP.” Prefer tourism.punjab.gov.pk and Auqaf notices over opaque packages.",
+      "dress": "Active Mughal Friday mosque — covered arms and legs; women headscarf typically required; shoes off in the prayer hall; quiet during prayer; follow posted photography rules.",
+      "duration": "1–2 hours mosque circuit; half-day common when paired with Fort (separate ticket).",
+      "access": "Lahore gateway — road / metro / taxi to Walled City / Hazuri Bagh plaza opposite Alamgiri Gate. Security screening common. Not the same ticket as Lahore Fort, Minar-e-Pakistan, Taxila, or Faisal Mosque.",
+      "tips": [
+        "Confirm visitor windows on tourism.punjab.gov.pk / Auqaf — do not invent PKR.",
+        "Lahore Fort across Hazuri Bagh is a separate ticket — buy Fort products through official Fort channels.",
+        "Friday prayer peaks reshape hall access; plan courtyard time around prayer.",
+        "Covered dress + headscarf for women; shoes off in the prayer hall.",
+        "Do not invent one pass covering Taxila or Islamabad Faisal Mosque.",
+        "Prefer official Punjab / Auqaf guidance over street “VIP mosque” sellers.",
+        "SanctaWay does not sell tickets or grant access."
+      ],
+      "entryType": "mixed",
+      "ticketsUrl": "https://tourism.punjab.gov.pk/badshahi-mosque",
+      "ticketsLabel": "Punjab Tourism — Badshahi Mosque (verify visitor / Auqaf products; Fort separate; do not invent PKR)",
+      "ticketsNote": "Living mosque — prayer limits; Fort = separate ticket; do not invent PKR or combo myths."
+    },
+    "etiquette": {
+      "intro": "Active Friday mosque — dress, prayer, photography.",
+      "bullets": [
+        "Covered arms/legs; women headscarf typically required.",
+        "Shoes off in the prayer hall; quiet during prayer.",
+        "Follow posted photography rules; respect worshippers.",
+        "Threshold Atlas tone: Aurangzeb imperial mosque — not Fort selfie courtyard only."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Badshahi from Lahore gateways.",
+      "paragraphs": [
+        "Most visitors reach the Fort / Badshahi plaza by taxi, ride-hail, or metro + walk from central Lahore. The mosque faces Alamgiri Gate across Hazuri Bagh.",
+        "Buy or verify Fort tickets through official Fort / Walled City channels when pairing — mosque visitor products are separate. Do not invent PKR.",
+        "Taxila and Islamabad’s Faisal Mosque are separate day/region trips — do not invent one Pakistan sacred pass."
+      ],
+      "bullets": [
+        "Lahore → Walled City / Hazuri Bagh plaza",
+        "Fort = separate ticket opposite Alamgiri Gate",
+        "tourism.punjab.gov.pk + Auqaf guidance",
+        "No Taxila / Faisal one-pass myth"
+      ]
+    },
+    "bestTime": {
+      "intro": "Courtyard light mornings; avoid Friday peaks if you need hall access.",
+      "paragraphs": [
+        "Early morning or late afternoon usually gives better courtyard light and thinner non-worship queues. Friday congregational peaks reshape access.",
+        "Heat and security lines at the Fort plaza matter in summer — carry water and allow buffer time."
+      ],
+      "bullets": [
+        "Best: early morning / late afternoon courtyard light",
+        "Friday prayer peaks reshape hall access",
+        "Verify visitor windows before travel",
+        "Do not invent PKR / Fort combo myths"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm visitor / Auqaf products on tourism.punjab.gov.pk — do not invent PKR.",
+        "Lahore Fort is separate across Hazuri Bagh — earn mosque vs Fort honesty.",
+        "Prayer-time limits and dress/scarf rules are standing soft blockers.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "ostrog",
+    "name": "Ostrog Monastery (Манастир Острог), Montenegro",
+    "shortName": "Ostrog",
+    "location": "Cliff above Bjelopavlići plain near Danilovgrad / Nikšić (central Montenegro)",
+    "country": "Montenegro",
+    "region": "Europe",
+    "regionSlug": "europe",
+    "religions": [
+      "Christian"
+    ],
+    "religionSlugs": [
+      "christian"
+    ],
+    "summary": "Serbian Orthodox cliff-face rock monastery — Montenegro pilgrimage postcard #1 (opens Montenegro). Upper vs Lower monastery; steep stairs/access. Entry commonly free / donation — verify ostrog.me. Do not invent EUR.",
+    "heroImage": "https://images.unsplash.com/photo-1555993539-1732b0258235?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "17th century cliff hermitage tradition associated with St Basil of Ostrog; Upper monastery cave churches set into the rock face",
+      "patron": "Serbian Orthodox — St Basil of Ostrog relics in the Upper monastery cave churches",
+      "unesco": "Not a standalone World Heritage listing (national pilgrimage landmark)",
+      "typicalVisit": "2–3 hours including Upper climb; half-day from Podgorica; longer day from Budva / Kotor coast"
+    },
+    "related": [
+      "meteora",
+      "rila-monastery",
+      "sumela-monastery"
+    ],
+    "overview": {
+      "body": [
+        "Ostrog is Montenegro’s cliff pilgrimage mega — the white Upper monastery wedged into the rock face that every Balkans itinerary names, opening Montenegro as a new country on SanctaWay after dense Gothic Europe parking.",
+        "Frame the visit as Upper vs Lower honesty: Lower monastery holds parking, larger church, and konak lanes; Upper monastery holds the cave churches and St Basil relics that draw pilgrims. The climb between them is steep — stairs, heat, and ice are real soft blockers.",
+        "Official guidance: monastery portal ostrog.me / manastirostrog.com contact pages. Entry is commonly free with voluntary donation; parking / seasonal shuttle products are separate — do not invent EUR from OTA “Ostrog VIP” bundles.",
+        "Podgorica / Nikšić / Budva gateways — mountain road with narrow switchbacks. Coast day-trips are common but long; do not invent one sacred pass covering Kotor, Cetinje, and Ostrog as a single ticket.",
+        "Soft blockers: steep Upper stairs; summer heat; winter ice; St Basil feast crowds; photography limits inside cave churches. SanctaWay is informational — it does not sell tickets or grant access."
+      ],
+      "highlights": [
+        "Opens Montenegro — Orthodox cliff pilgrimage postcard",
+        "Upper cave churches vs Lower monastery / parking",
+        "Entry commonly free / donation — do not invent EUR",
+        "ostrog.me official monastery portal",
+        "Stairs / heat / ice access honesty"
+      ]
+    },
+    "visit": {
+      "intro": "ostrog.me — Upper vs Lower; free/donation honesty; no invent EUR; not a Kotor combo.",
+      "hours": "Living monastery daytime windows — commonly cited ~06:00–17:00 summer / earlier close cooler months; verify monastery notices. Feast of St Basil and Orthodoxy calendar days reshape queues.",
+      "tickets": "Entry commonly free with voluntary donation. Parking and seasonal lower–upper shuttle products are separate cash lanes as published locally — do not invent EUR. Prefer ostrog.me / monastery guidance over scalper “Ostrog VIP.”",
+      "dress": "Active Orthodox monastery — covered shoulders and knees; wraps often available near Upper entrance; women may cover heads in churches (follow local practice); quiet at relics; no photography inside cave churches when posted.",
+      "duration": "2–3 hours including Upper climb; half-day from Podgorica common.",
+      "access": "Podgorica (~1 h) / Nikšić / Danilovgrad road gateways; Budva–Kotor coast day-trips ~2–2.5 h each way. Narrow switchback final approach. Upper parking limited — lower lot + steep walk / seasonal shuttle common.",
+      "tips": [
+        "Confirm hours on ostrog.me — do not invent EUR entry fees.",
+        "Plan Upper vs Lower: steep climb or seasonal shuttle from lower parking.",
+        "Covered shoulders/knees; quiet at St Basil relics; no cave-church photos when posted.",
+        "Morning cooler for the climb; St Basil feast days = long queues.",
+        "Do not invent one ticket with Kotor / Cetinje.",
+        "Nervous drivers: park lower and shuttle / taxi the final cliff road.",
+        "SanctaWay does not sell tickets or grant access."
+      ],
+      "entryType": "free",
+      "ticketsUrl": "https://ostrog.me/",
+      "ticketsLabel": "Ostrog Monastery official portal (ostrog.me) — entry commonly free / donation; verify hours",
+      "ticketsNote": "Free/donation common; parking/shuttle separate; do not invent EUR; Upper stairs honesty."
+    },
+    "etiquette": {
+      "intro": "Active Orthodox cliff monastery — dress, relics, photography.",
+      "bullets": [
+        "Covered shoulders/knees; wraps available if needed.",
+        "Quiet at St Basil relics; pilgrims first in cave churches.",
+        "No photography inside cave churches when posted; no drones on the cliff.",
+        "Threshold Atlas tone: St Basil / cliff hermitage — not canyon selfie only."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Ostrog from capital and coast.",
+      "paragraphs": [
+        "Most visitors drive or join a licensed tour from Podgorica (~1 h) or the Budva/Kotor coast (~2–2.5 h). Nikšić and Danilovgrad are closer road gateways.",
+        "Park at Lower monastery when Upper lots are full, then walk the steep pilgrim path or use a seasonal shuttle — do not invent EUR shuttle prices from blogs.",
+        "Kotor, Cetinje, and Durmitor are separate itinerary pieces — do not invent one Montenegro sacred pass."
+      ],
+      "bullets": [
+        "Podgorica → Ostrog ~1 h class",
+        "Coast day-trips longer — tours common",
+        "Lower parking + Upper climb / shuttle",
+        "No Kotor / Cetinje one-pass myth"
+      ]
+    },
+    "bestTime": {
+      "intro": "Cooler mornings; shoulder months beat July heat and feast crush.",
+      "paragraphs": [
+        "Morning usually beats heat and coach waves on the Upper climb. May–June and September are often kinder than peak July–August.",
+        "St Basil feast and major Orthodox holidays fill the relic chapel — beautiful for pilgrims, tight for casual visitors."
+      ],
+      "bullets": [
+        "Best: morning climb before heat / coaches",
+        "Shoulder months kinder than peak summer",
+        "Feast days reshape queues",
+        "Do not invent EUR / Kotor combo myths"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm hours on ostrog.me — entry commonly free/donation; do not invent EUR.",
+        "Upper vs Lower monastery and steep stairs are standing soft blockers.",
+        "Winter ice and summer heat both matter on the cliff path.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "hanging-church",
+    "name": "Hanging Church / Saint Virgin Mary’s Coptic Church (الكنيسة المعلقة), Coptic Cairo",
+    "shortName": "Hanging Church",
+    "location": "Coptic Cairo / Mar Girgis compound — suspended over Babylon Fortress gate",
+    "country": "Egypt",
+    "region": "Africa",
+    "regionSlug": "africa",
+    "religions": [
+      "Christian"
+    ],
+    "religionSlugs": [
+      "christian"
+    ],
+    "summary": "Coptic Cairo household church — suspended nave over Roman Babylon gate. Christian Africa mega distinct from Citadel Muhammad Ali + Mamluk islamic quartet + AE eight. Church often free/donation; Coptic Museum separate. Do not invent EGP.",
+    "heroImage": "https://images.unsplash.com/photo-1539650116574-75c0c6d73f6e?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Early medieval Coptic church fabric on Roman Babylon Fortress gate towers — continuous Virgin Mary dedication in Coptic Cairo",
+      "patron": "Coptic Orthodox — Saint Virgin Mary (El Muallaqa / Hanging Church)",
+      "unesco": "Not a standalone World Heritage listing (Old Cairo / Historic Cairo heritage context)",
+      "typicalVisit": "45–90 minutes church; often same morning as Coptic Museum / Ben Ezra / Babylon towers — museum = separate ticket"
+    },
+    "related": [
+      "st-catherines-sinai",
+      "lalibela",
+      "muhammad-ali-mosque"
+    ],
+    "overview": {
+      "body": [
+        "The Hanging Church is Coptic Cairo’s household mega — the suspended nave over the Roman Babylon Fortress gate that every Old Cairo morning names as Christian Egypt’s tourist-facing heart, faith-distinct from the Citadel’s Muhammad Ali Mosque and the Mamluk islamic quartet already live.",
+        "Frame the visit as living Coptic Orthodox honesty: liturgy can reshape nave access, icons deserve quiet, and the church sits inside the Coptic Cairo compound with the Coptic Museum, Ben Ezra Synagogue, and fortress towers nearby — do not invent one ticket covering all.",
+        "Official guidance: Egypt tourism destination pages and Coptic Museum ticket notices for the adjacent museum. Church entry is commonly free or donation-based; museum products are published separately — do not invent EGP from OTA “Coptic Cairo VIP” bundles.",
+        "Cairo gateway — Mar Girgis Metro stop + walk into the compound. Pair museum and Old Cairo lanes without inventing a combo that also covers Pyramids, Citadel, or Al-Azhar.",
+        "Soft blockers: liturgy closures; compound security; coach waves mid-morning. SanctaWay is informational — it does not sell tickets or grant access, and this page is not a “fifth Cairo mosque.”"
+      ],
+      "highlights": [
+        "Coptic Cairo Christian mega — not Citadel / Mamluk islamic pad",
+        "Suspended nave over Babylon Fortress gate",
+        "Church often free/donation; Coptic Museum separate",
+        "Mar Girgis Metro Old Cairo circuit",
+        "Do not invent EGP or Pyramids / Citadel one-pass"
+      ]
+    },
+    "visit": {
+      "intro": "Coptic Cairo — church vs museum honesty; no invent EGP; not a Citadel merge.",
+      "hours": "Church + tourist visiting windows — verify Coptic Orthodox / Egypt tourism notices. Morning before coach waves; liturgy times may limit nave photography and transit.",
+      "tickets": "Church often free or donation-based. Coptic Museum publishes a separate ticket — do not invent EGP. Prefer museum / official tourism notices over OTA “Coptic Cairo VIP.” Citadel / Pyramids / Al-Azhar = separate visits.",
+      "dress": "Active Coptic Orthodox church — modest dress; quiet in the nave; follow shoes / photography rules as posted; no flash on icons when restricted.",
+      "duration": "45–90 minutes church; half-morning common with Coptic Museum (separate ticket).",
+      "access": "Cairo — Mar Girgis Metro + walk into Coptic Cairo compound. Compound security common. Not the same ticket or faith framing as Citadel Muhammad Ali or the Mamluk mosque set.",
+      "tips": [
+        "Confirm church open windows and liturgy limits before travel.",
+        "Coptic Museum = separate ticket — do not invent EGP.",
+        "Do not invent one pass with Citadel, Pyramids, or Al-Azhar.",
+        "Morning before coach waves; modest dress in the nave.",
+        "Earn Coptic Christian framing — not “fifth Cairo mosque.”",
+        "Prefer official museum / tourism notices over street sellers.",
+        "SanctaWay does not sell tickets or grant access."
+      ],
+      "entryType": "free",
+      "ticketsLabel": "Church commonly free/donation — Coptic Museum separate (verify museum ticket channels; do not invent EGP)",
+      "ticketsNote": "No stable church e-ticket CTA; museum separate; liturgy limits; not Citadel/Pyramids combo."
+    },
+    "etiquette": {
+      "intro": "Active Coptic Orthodox church — liturgy, dress, icons.",
+      "bullets": [
+        "Modest dress; quiet in the nave during liturgy.",
+        "Follow shoes / photography rules as posted.",
+        "No flash on icons when restricted.",
+        "Threshold Atlas tone: suspended Virgin Mary church — not Cairo balcony selfie only."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach the Hanging Church in Coptic Cairo.",
+      "paragraphs": [
+        "Most visitors take the Metro to Mar Girgis and walk into the Coptic Cairo compound. Taxi / ride-hail to the Old Cairo gates also works.",
+        "Buy Coptic Museum tickets through official museum channels when pairing — church entry is commonly free/donation. Do not invent EGP.",
+        "Citadel Muhammad Ali, Pyramids, and Al-Azhar are separate visits — do not invent one Cairo sacred pass."
+      ],
+      "bullets": [
+        "Mar Girgis Metro → Coptic Cairo walk",
+        "Coptic Museum = separate ticket",
+        "Church often free/donation",
+        "No Citadel / Pyramids one-pass myth"
+      ]
+    },
+    "bestTime": {
+      "intro": "Morning before coaches; verify liturgy windows.",
+      "paragraphs": [
+        "Morning usually beats coach waves in the compound. Liturgy can reshape nave access — beautiful for worship atmosphere, tighter for photography walks.",
+        "Heat and security lines matter in summer — allow buffer time for the compound circuit."
+      ],
+      "bullets": [
+        "Best: morning before coach waves",
+        "Verify liturgy / visiting windows",
+        "Museum separate ticket timing",
+        "Do not invent EGP / Citadel combo myths"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Church often free/donation; Coptic Museum separate — do not invent EGP.",
+        "Earn Coptic Cairo Christian difference from Citadel Ottoman + Mamluk islamic quartet + AE eight.",
+        "Liturgy closures are a standing soft blocker.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "ajmer-sharif",
+    "name": "Ajmer Sharif Dargah / Dargah of Moinuddin Chishti, Ajmer",
+    "shortName": "Ajmer Sharif",
+    "location": "Ajmer old city dargah lanes, Rajasthan (Pushkar is a separate town)",
+    "country": "India",
+    "region": "South Asia",
+    "regionSlug": "south-asia",
+    "religions": [
+      "Islamic"
+    ],
+    "religionSlugs": [
+      "islamic"
+    ],
+    "summary": "South Asia Sufi pilgrimage mega — shrine of Khwaja Moinuddin Chishti. Living dargah with ziyarat etiquette, crowd/security honesty. Generally free; offerings optional. tourism.rajasthan.gov.in / Incredible India. Do not invent INR.",
+    "heroImage": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Medieval Chishti Sufi shrine of Khwaja Moinuddin Chishti (d. 1236) — continuous ziyarat centre in Ajmer",
+      "patron": "Islamic — Sufi / Chishti order dargah; open to visitors of many faiths with shrine etiquette",
+      "unesco": "Not a standalone World Heritage listing (national pilgrimage landmark)",
+      "typicalVisit": "1–2 hours dargah lanes + courtyards; Urs festival peaks reshape access; Pushkar = separate town/faith"
+    },
+    "related": [
+      "jama-masjid",
+      "taj-mahal",
+      "golden-temple"
+    ],
+    "overview": {
+      "body": [
+        "Ajmer Sharif is India’s Sufi pilgrimage mega — the dargah of Khwaja Moinuddin Chishti that every Rajasthan itinerary should name as living islamic devotion, distinct from civic Jama Masjid Delhi and the Taj tomb already live.",
+        "Frame the visit as active ziyarat honesty: shoes off, head covering common in inner courtyards, photography often restricted at the tomb chamber, and narrow lane crush is real — especially at Urs. Scam “compulsory offering” pitches happen; offerings are optional.",
+        "Official guidance: Rajasthan Tourism dargah destination pages and Incredible India Ajmer Sharif notes. Ziyarat is generally free; official facilities / optional offerings as published — do not invent INR from opaque “Ajmer VIP darshan” packages.",
+        "Ajmer / Kishangarh / Jaipur gateways — rail and road to Ajmer old city, then rickshaw last mile into dargah lanes. Pushkar is a separate Brahma-town visit — do not invent one sacred pass.",
+        "Soft blockers: Urs peaks; security; narrow lanes; photography bans in inner shrine. SanctaWay is informational — it does not sell tickets or grant access."
+      ],
+      "highlights": [
+        "Living Chishti Sufi dargah mega — India islamic pilgrimage",
+        "Generally free ziyarat; offerings optional — do not invent INR",
+        "Dress / headcover / shoes-off etiquette",
+        "Pushkar = separate town and faith",
+        "tourism.rajasthan.gov.in / Incredible India guidance"
+      ]
+    },
+    "visit": {
+      "intro": "Rajasthan Tourism / Incredible India — free ziyarat honesty; no invent INR; Pushkar separate.",
+      "hours": "Dargah open long hours for ziyarat — verify dargah committee / Rajasthan Tourism notices. Dawn and evening qawwali atmosphere; Urs festival peaks reshape crowd and access.",
+      "tickets": "Generally free ziyarat. Optional offerings and official facilities as published — do not invent INR. Prefer dargah committee / Rajasthan Tourism / Incredible India over opaque “VIP darshan” packages. Pushkar = separate visit.",
+      "dress": "Active Sufi shrine — modest covered dress; head covering common for all genders in inner courtyards; remove shoes; no non-halal items; follow langar / offering lanes; photography often banned at tomb chamber.",
+      "duration": "1–2 hours dargah circuit; longer at Urs.",
+      "access": "Ajmer rail / road gateway; rickshaw last mile into old-city dargah lanes. Security screening common. Not the same ticket or town as Pushkar, Jaipur Amber, or Jama Masjid Delhi.",
+      "tips": [
+        "Confirm visiting etiquette on tourism.rajasthan.gov.in / Incredible India — do not invent INR.",
+        "Offerings are optional — decline scam “compulsory” charges.",
+        "Shoes off; head covering in inner courtyards; no tomb-chamber photos when banned.",
+        "Urs peaks = extreme crush; arrive early or avoid if crowd-sensitive.",
+        "Do not invent one pass with Pushkar or Amber Fort.",
+        "Prefer official tourism / committee guidance over lane touts.",
+        "SanctaWay does not sell tickets or grant access."
+      ],
+      "entryType": "free",
+      "ticketsUrl": "https://www.tourism.rajasthan.gov.in/content/rajasthan-tourism/en/tourist-destinations/the-ajmer-sharif-dargah.html",
+      "ticketsLabel": "Rajasthan Tourism — Ajmer Sharif Dargah (ziyarat generally free; verify etiquette; do not invent INR)",
+      "ticketsNote": "Free ziyarat common; offerings optional; Pushkar separate; Urs crush honesty."
+    },
+    "etiquette": {
+      "intro": "Active Sufi dargah — dress, shoes, photography, offerings.",
+      "bullets": [
+        "Modest dress; head covering common in inner courtyards.",
+        "Remove shoes; quiet respect at the tomb chamber.",
+        "Photography/videography often banned inside — follow posted rules.",
+        "Threshold Atlas tone: Moinuddin Chishti / Chishti order — not pink-city shopping add-on."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Ajmer Sharif.",
+      "paragraphs": [
+        "Most visitors reach Ajmer by rail or road from Jaipur / Delhi corridors, then rickshaw into the old-city dargah lanes.",
+        "Ziyarat is generally free — do not invent INR. Official tourism pages describe etiquette; ignore opaque VIP package pitches.",
+        "Pushkar sits in a separate town with a different faith centre — do not invent one Ajmer–Pushkar sacred pass."
+      ],
+      "bullets": [
+        "Jaipur / rail → Ajmer old city",
+        "Rickshaw last mile to dargah lanes",
+        "Ziyarat generally free",
+        "Pushkar = separate town"
+      ]
+    },
+    "bestTime": {
+      "intro": "Dawn / evening atmosphere; Urs = peak crush.",
+      "paragraphs": [
+        "Dawn and evening often give stronger dargah atmosphere with qawwali energy. Midday heat in Rajasthan summers is harsh in the lanes.",
+        "Urs festival is the spiritual high point and the hardest access window — plan lodging and patience accordingly."
+      ],
+      "bullets": [
+        "Best: dawn / evening ziyarat windows",
+        "Urs = peak devotion and crush",
+        "Verify etiquette before travel",
+        "Do not invent INR / Pushkar combo myths"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm etiquette on Rajasthan Tourism / Incredible India — do not invent INR.",
+        "Urs crush, photography bans, and scam offering pitches are standing soft blockers.",
+        "Pushkar is a separate town/faith — earn Sufi mega difference from Jama Masjid civic mosque.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "bom-jesus-congonhas",
+    "name": "Sanctuary of Bom Jesus do Congonhas (Santuário do Bom Jesus de Matosinhos), Congonhas",
+    "shortName": "Bom Jesus Congonhas",
+    "location": "Basílica hill, Congonhas, Minas Gerais (≈80–90 min class from Belo Horizonte)",
+    "country": "Brazil",
+    "region": "Americas",
+    "regionSlug": "americas",
+    "religions": [
+      "Christian"
+    ],
+    "religionSlugs": [
+      "christian"
+    ],
+    "summary": "UNESCO Baroque Passion sanctuary + Aleijadinho prophets — Brazil Christian #2 after live Aparecida. ≠ Aparecida Marian basilica; ≠ Bom Jesus do Monte (Braga, PT). Church often free; Museu de Congonhas separate. Do not invent BRL.",
+    "heroImage": "https://images.unsplash.com/photo-1483729558449-99ef09a8c325?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "1757 foundation class by Feliciano Mendes; Baroque sanctuary completed later with Aleijadinho soapstone prophets and Passos chapels",
+      "patron": "Catholic — Bom Jesus de Matosinhos (Passion / crucified Christ devotion); pilgrimage and ex-voto tradition",
+      "unesco": "Sanctuary of Bom Jesus do Congonhas (1985)",
+      "typicalVisit": "2–3 hours sanctuary terraces + basilica + optional Museu de Congonhas; day trip from Belo Horizonte"
+    },
+    "related": [
+      "aparecida",
+      "lujan",
+      "guadalupe"
+    ],
+    "overview": {
+      "body": [
+        "Bom Jesus do Congonhas is Brazil’s UNESCO Baroque sanctuary mega — the hilltop Passion complex and Aleijadinho soapstone prophets that every Minas Gerais itinerary should name as Americas Christian art+pilgrimage, not an archaeology pad and not the Marian basilica at Aparecida already live.",
+        "Frame the visit with disambiguation honesty: this is Congonhas, Minas Gerais — not Bom Jesus do Monte in Braga, Portugal, and not Aparecida in São Paulo state. Outdoor Stations / prophets are heritage sculpture; do not climb statues.",
+        "Official guidance: municipal Congonhas tourism pages, IPHAN heritage framing, and Museu de Congonhas (site museum). Basilica / sanctuary grounds are commonly free or donation-based; museum products are published separately — do not invent BRL from OTA bundles.",
+        "Belo Horizonte gateway — road to Congonhas town (~80–90 min class). Pair Ouro Preto churches only as a separate itinerary piece — do not invent one Minas sacred pass covering Aparecida.",
+        "Soft blockers: hill stairs and heat; feast calendar access shifts; museum closed Mondays as commonly published. SanctaWay is informational — it does not sell tickets or grant access."
+      ],
+      "highlights": [
+        "UNESCO Baroque Passion sanctuary + Aleijadinho prophets",
+        "≠ Aparecida Marian mega; ≠ Braga PT Bom Jesus do Monte",
+        "Church often free; Museu de Congonhas separate",
+        "IPHAN / Congonhas tourism guidance",
+        "Do not invent BRL or Aparecida one-pass"
+      ]
+    },
+    "visit": {
+      "intro": "Congonhas / IPHAN / Museu — church vs museum honesty; no invent BRL; not Aparecida.",
+      "hours": "Sanctuary / basilica daytime windows — commonly cited early morning to evening; night illumination patterns vary. Verify Congonhas tourism / sanctuary notices. Museu de Congonhas typically Tue–Sun (closed Monday as published) — confirm before travel.",
+      "tickets": "Basilica / sanctuary grounds commonly free or donation-based. Museu de Congonhas publishes separate admission — do not invent BRL. Prefer sanctuary / museum / IPHAN-linked notices over scalpers. Aparecida = separate state visit.",
+      "dress": "Active Catholic sanctuary — modest dress in the basilica; quiet inside; outdoor prophets / Passos are heritage sculpture — stay on marked paths; no climbing statues.",
+      "duration": "2–3 hours sanctuary circuit + museum when open; day trip from Belo Horizonte common.",
+      "access": "Belo Horizonte gateway — road / bus / tour to Congonhas (~80–90 min class). Hill stairs and heat matter. Not the same site as Aparecida or Bom Jesus do Monte (Braga, PT).",
+      "tips": [
+        "Confirm museum hours — often closed Monday; do not invent BRL.",
+        "Disambiguate Congonhas (MG) from Aparecida (SP) and Braga PT Bom Jesus do Monte.",
+        "Morning light on outdoor prophets; feast days reshape access.",
+        "Modest dress in basilica; no climbing Aleijadinho statues.",
+        "Do not invent one pass with Aparecida or Ouro Preto churches.",
+        "Prefer Congonhas tourism / museum guidance over street sellers.",
+        "SanctaWay does not sell tickets or grant access."
+      ],
+      "entryType": "mixed",
+      "ticketsUrl": "http://museu.congonhas.mg.gov.br/",
+      "ticketsLabel": "Museu de Congonhas (site museum) — sanctuary/basilica commonly free; verify museum products; do not invent BRL",
+      "ticketsNote": "Church free/donation common; museum separate; ≠ Aparecida / ≠ Braga PT."
+    },
+    "etiquette": {
+      "intro": "Active Catholic Passion sanctuary — dress, sculpture respect.",
+      "bullets": [
+        "Modest dress in the basilica; quiet during liturgy.",
+        "Do not climb prophets / Passos sculptures — heritage fabric.",
+        "Stay on marked terrace paths.",
+        "Threshold Atlas tone: Bom Jesus / Aleijadinho Passos — not Minas Instagram staircase only."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Congonhas from Belo Horizonte.",
+      "paragraphs": [
+        "Most visitors reach Congonhas by road from Belo Horizonte (~80–90 min class) via bus, tour, or car. The sanctuary sits on the Basílica hill in town.",
+        "Sanctuary entry is commonly free; buy Museu de Congonhas tickets through official museum channels when pairing — do not invent BRL.",
+        "Aparecida is a separate São Paulo-state Marian pilgrimage — do not invent one Brazil Christian pass."
+      ],
+      "bullets": [
+        "Belo Horizonte → Congonhas ~80–90 min",
+        "Sanctuary hill in town",
+        "Museum = separate ticket",
+        "Aparecida = different site/state"
+      ]
+    },
+    "bestTime": {
+      "intro": "Morning prophet light; verify Monday museum closure.",
+      "paragraphs": [
+        "Morning usually gives better light on the outdoor prophets and thinner terrace crowds. Confirm museum open days — Monday closure is commonly published.",
+        "Feast calendar and Holy Week can fill the sanctuary — strong for pilgrimage atmosphere, tighter for casual photography."
+      ],
+      "bullets": [
+        "Best: morning light on prophets",
+        "Verify museum Tue–Sun pattern",
+        "Feast / Holy Week reshape access",
+        "Do not invent BRL / Aparecida combo myths"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm Museu de Congonhas products — do not invent BRL; sanctuary often free.",
+        "Disambiguate from Aparecida and from Braga PT Bom Jesus do Monte.",
+        "Hill stairs / heat and Monday museum patterns are standing soft blockers.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "big-wild-goose-pagoda",
+    "name": "Giant Wild Goose Pagoda / Daci’en Temple (大雁塔 / 大慈恩寺), Xi’an",
+    "shortName": "Big Wild Goose Pagoda",
+    "location": "Daci’en Temple / Dayan Pagoda north-square cluster, Yanta District, Xi’an",
+    "country": "China",
+    "region": "East Asia",
+    "regionSlug": "east-asia",
+    "religions": [
+      "Buddhist"
+    ],
+    "religionSlugs": [
+      "buddhist"
+    ],
+    "summary": "Tang Xuanzang pagoda inside Daci’en Temple — Xi’an city Buddhist mega. ≠ Famen (Fufeng relic day-trip). Temple grounds vs pagoda-climb products; WeChat 大慈恩寺 real-name tickets. Do not invent CNY.",
+    "heroImage": "https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "652 CE Tang pagoda tradition under Xuanzang at Daci’en Temple to house scriptures from India; major later rebuilds of the brick pagoda",
+      "patron": "Buddhist — Ci’en / Xuanzang translation history; active monastery halls + historic pagoda climb",
+      "unesco": "Component of Silk Roads: the Routes Network of Chang’an-Tianshan Corridor (2014)",
+      "typicalVisit": "2–3 hours temple + optional pagoda climb; urban Xi’an cluster — not a Famen Fufeng day-trip"
+    },
+    "related": [
+      "famen-temple",
+      "jade-buddha-temple",
+      "lingyin-temple"
+    ],
+    "overview": {
+      "body": [
+        "Giant Wild Goose Pagoda is Xi’an’s city Buddhist mega — the Tang brick pagoda inside Daci’en Temple that every Xi’an itinerary names, distinct from live Famen Temple as a Fufeng relic day-trip outside the wall cluster.",
+        "Frame the visit as temple vs climb honesty: temple-grounds admission and pagoda-climb products are separate. North Square fountains and Grand Tang Mall sit outside the ticketed temple — free urban landscape, not the sacred core.",
+        "Official tickets: WeChat mini-program 大慈恩寺 (Da Ci’en Temple) for real-name temple entry; pagoda climb commonly sold on site. Do not invent CNY from blogs or random OTA “Wild Goose VIP” bundles. Prefer temple / Xi’an cultural notices.",
+        "Xi’an metro (Dayan Ta station class) / taxi to the Daci’en / north-square cluster. Pair Bell Tower or Muslim Quarter without inventing one pass covering Terracotta Warriors or Famen.",
+        "Soft blockers: climb stamina and height; peak-day queues; square event noise outside the temple. SanctaWay is informational — it does not sell tickets or grant access, and this page is not a Four Sacred Mountains substitute."
+      ],
+      "highlights": [
+        "Xi’an city Tang pagoda — ≠ Famen Fufeng relic complex",
+        "Temple grounds vs pagoda-climb separate products",
+        "WeChat 大慈恩寺 real-name tickets — do not invent CNY",
+        "Silk Roads World Heritage component",
+        "No Terracotta / Famen one-pass myth"
+      ]
+    },
+    "visit": {
+      "intro": "WeChat 大慈恩寺 — temple vs climb honesty; no invent CNY; not Famen / Terracotta merge.",
+      "hours": "Temple + pagoda climb daytime windows — verify Daci’en / Xi’an cultural-ticket notices. Morning before fountain-square show crowds; national holidays reshape queues.",
+      "tickets": "Temple grounds vs pagoda-climb products as published. Book temple entry via official WeChat mini-program 大慈恩寺 when required; climb often on-site. Do not invent CNY. Prefer temple / cultural ticketing over opaque OTA. Famen and Terracotta = separate visits.",
+      "dress": "Active Buddhist monastery + historic pagoda — modest dress; quiet in halls; follow incense lanes; pagoda interior photography rules as posted.",
+      "duration": "2–3 hours temple circuit + optional climb; urban half-day common.",
+      "access": "Xi’an metro / taxi to Dayan Pagoda / Daci’en cluster inside the urban tourist core. North Square outside is free. Not the same day-ticket as Famen (Fufeng) or Terracotta.",
+      "tips": [
+        "Use WeChat 大慈恩寺 for temple real-name tickets when required — do not invent CNY.",
+        "Pagoda climb is a separate product — confirm on site / notices.",
+        "Do not invent one pass with Famen or Terracotta Warriors.",
+        "Morning before square event crowds; climb stamina required.",
+        "Earn Xi’an city-pagoda framing vs Famen Fufeng relic day-trip.",
+        "Prefer official temple channels over random OTA VIP.",
+        "SanctaWay does not sell tickets or grant access."
+      ],
+      "entryType": "paid",
+      "ticketsLabel": "WeChat 大慈恩寺 — Daci’en Temple real-name tickets (pagoda climb separate; do not invent CNY)",
+      "ticketsNote": "No stable public English e-ticket URL; WeChat official; climb separate; ≠ Famen / Terracotta."
+    },
+    "etiquette": {
+      "intro": "Active Buddhist temple + historic pagoda — dress, incense, climb rules.",
+      "bullets": [
+        "Modest dress; quiet in halls.",
+        "Follow incense lanes; do not block worshippers.",
+        "Pagoda photography rules as posted; no unsafe climbing behaviour.",
+        "Threshold Atlas tone: Xuanzang / Ci’en history — not north-square fountain only."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Daci’en / Dayan Pagoda in Xi’an.",
+      "paragraphs": [
+        "Most visitors take Xi’an Metro to the Dayan Pagoda station area or taxi to the north-square / Daci’en cluster. The pagoda sits inside the ticketed temple.",
+        "Book temple entry on WeChat 大慈恩寺 when real-name reservation is required; buy climb products as published — do not invent CNY.",
+        "Famen Temple is a Fufeng day-trip; Terracotta is a separate east-side visit — do not invent one Xi’an sacred pass."
+      ],
+      "bullets": [
+        "Metro / taxi → Dayan Pagoda / Daci’en",
+        "WeChat 大慈恩寺 temple tickets",
+        "Climb = separate product",
+        "Famen / Terracotta = separate visits"
+      ]
+    },
+    "bestTime": {
+      "intro": "Morning before square crowds; holidays = long climb queues.",
+      "paragraphs": [
+        "Morning usually beats coach and fountain-square crowds. National holidays fill both temple and climb lanes.",
+        "Evening square shows are urban entertainment outside the temple ticket — plan sacred time separately."
+      ],
+      "bullets": [
+        "Best: morning temple / climb",
+        "Holidays reshape queues",
+        "Verify WeChat reservation rules",
+        "Do not invent CNY / Famen combo myths"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm WeChat 大慈恩寺 products — do not invent CNY; climb separate.",
+        "Earn Xi’an city-pagoda difference from live famen-temple Fufeng relic complex.",
+        "Climb stamina and peak queues are standing soft blockers.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "wat-xieng-thong",
+    "name": "Wat Xieng Thong (ວັດຊຽງທອງ), Luang Prabang",
+    "shortName": "Wat Xieng Thong",
+    "location": "Peninsula tip wat cluster, Luang Prabang (UNESCO town)",
+    "country": "Laos",
+    "region": "Southeast Asia",
+    "regionSlug": "southeast-asia",
+    "religions": [
+      "Buddhist"
+    ],
+    "religionSlugs": [
+      "buddhist"
+    ],
+    "summary": "Luang Prabang royal monastery crown — UNESCO-town postcard. ≠ That Luang (Vientiane) · ≠ Vat Phou (Champasak). Foreigner entrance fee as published; verify tourismluangprabang.org. Do not invent LAK/USD.",
+    "heroImage": "https://images.unsplash.com/photo-1528181304800-259b08848526?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "16th-century royal monastery foundation class; continuous Luang Prabang Buddhist landmark with tree-of-life rear mosaic",
+      "patron": "Theravada Buddhist — royal / funeral chapel tradition within Luang Prabang wat landscape",
+      "unesco": "Within Town of Luang Prabang World Heritage (1995)",
+      "typicalVisit": "1–2 hours wat circuit; walkable peninsula cluster — not a Vientiane or Champasak same-ticket myth"
+    },
+    "related": [
+      "that-luang",
+      "vat-phou",
+      "doi-suthep"
+    ],
+    "overview": {
+      "body": [
+        "Wat Xieng Thong is Luang Prabang’s royal monastery crown — the peninsula-tip wat and tree-of-life mosaic that every UNESCO-town itinerary names, distinct from live That Luang in Vientiane and Vat Phou in Champasak far south.",
+        "Frame the visit as living Lao Buddhist honesty: covered shoulders and knees, shoes off in the sim, quiet respect, and dawn alms-giving as town-wide etiquette — not a ticketed show and not a Bali densify peer.",
+        "Official guidance: Tourism Luang Prabang wat pages. Foreigner entrance fees are published at temple booths / tourism notices and can change — do not invent LAK or USD from blogs or opaque “VIP wat hop” tours.",
+        "Luang Prabang town — walk or tuk-tuk to the peninsula tip. Pair Palace Museum and other LP wats without inventing one pass covering That Luang or Vat Phou.",
+        "Soft blockers: wet-season storms; dry-season cruise-coach peaks; fee schedule changes. SanctaWay is informational — it does not sell tickets or grant access."
+      ],
+      "highlights": [
+        "Luang Prabang royal monastery crown — UNESCO town",
+        "≠ That Luang Vientiane · ≠ Vat Phou Champasak",
+        "Foreigner fee as published — do not invent LAK/USD",
+        "Tree-of-life mosaic + living monastery etiquette",
+        "tourismluangprabang.org guidance"
+      ]
+    },
+    "visit": {
+      "intro": "Tourism Luang Prabang — foreigner fee honesty; no invent LAK; not That Luang / Vat Phou merge.",
+      "hours": "Temple daytime visiting windows — verify temple / Lao tourism notices. Morning quieter for the mosaic rear wall; dawn alms-giving is town etiquette, not a ticketed performance.",
+      "tickets": "Official foreigner entrance fee as published at the temple booth / Tourism Luang Prabang notices — fees can change; do not invent LAK or USD. Prefer temple booth / tourismlaos / tourismluangprabang.org over opaque tour VIP bundles. That Luang and Vat Phou = separate regions.",
+      "dress": "Active Lao Buddhist monastery — covered shoulders and knees; remove shoes in the sim; quiet; no climbing roofs or naga rails; respectful alms-giving if attending (no touching monks / blocking the route).",
+      "duration": "1–2 hours wat circuit; easy to combine with other peninsula wats the same morning.",
+      "access": "Walk / tuk-tuk within Luang Prabang town to the peninsula tip. Airport / boat gateway to LP. Not the same ticket or region as That Luang (Vientiane) or Vat Phou (Champasak).",
+      "tips": [
+        "Pay the published foreigner fee at the booth — do not invent LAK/USD from blogs.",
+        "Morning quieter for tree-of-life mosaic photography.",
+        "Covered shoulders/knees; shoes off in the sim.",
+        "Do not invent one pass with That Luang or Vat Phou.",
+        "Alms-giving = respectful etiquette, not a staged ticketed show.",
+        "Prefer tourismluangprabang.org / temple booth over opaque VIP hops.",
+        "SanctaWay does not sell tickets or grant access."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://www.tourismluangprabang.org/things-to-do/buddhism/wat-xiengthong",
+      "ticketsLabel": "Tourism Luang Prabang — Wat Xieng Thong (verify current foreigner fee at booth; do not invent LAK/USD)",
+      "ticketsNote": "Fee as published / can change; ≠ That Luang / Vat Phou; alms etiquette honesty."
+    },
+    "etiquette": {
+      "intro": "Active Lao Buddhist royal monastery — dress, shoes, alms.",
+      "bullets": [
+        "Covered shoulders/knees; shoes off in the sim.",
+        "Quiet; no climbing roofs / naga rails.",
+        "Alms-giving: kneel/respect distance; no touching monks; do not block the route.",
+        "Threshold Atlas tone: royal monastery / funeral chapel — not LP sunset bar temple."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Wat Xieng Thong in Luang Prabang.",
+      "paragraphs": [
+        "Most visitors walk or tuk-tuk within Luang Prabang town to the peninsula tip wat cluster after flying or boating into LP.",
+        "Pay the published foreigner entrance fee at the temple booth — do not invent LAK/USD. Confirm current amounts on tourismluangprabang.org notices when listed.",
+        "That Luang (Vientiane) and Vat Phou (Champasak) are separate regions of Laos — do not invent one Lao sacred pass."
+      ],
+      "bullets": [
+        "Walk / tuk-tuk in LP peninsula tip",
+        "Temple booth foreigner fee",
+        "tourismluangprabang.org guidance",
+        "No That Luang / Vat Phou one-pass"
+      ]
+    },
+    "bestTime": {
+      "intro": "Morning mosaic light; dry-season coaches vs wet-season storms.",
+      "paragraphs": [
+        "Morning usually gives quieter mosaic viewing before cruise-coach waves in the dry season.",
+        "Wet-season storms can interrupt outdoor courtyard time — still worth verifying open windows."
+      ],
+      "bullets": [
+        "Best: morning before coach waves",
+        "Dry season busier; wet season storm risk",
+        "Verify current foreigner fee",
+        "Do not invent LAK / Vientiane combo myths"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm foreigner fee at booth / tourismluangprabang.org — do not invent LAK/USD (schedules can change).",
+        "Earn LP crown difference from live that-luang and vat-phou.",
+        "Alms etiquette and coach peaks are standing soft blockers.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "san-giovanni-rotondo",
+    "name": "Sanctuary of Saint Pio of Pietrelcina / Santa Maria delle Grazie, San Giovanni Rotondo",
+    "shortName": "San Giovanni Rotondo",
+    "location": "San Giovanni Rotondo, Gargano / Foggia province, Apulia",
+    "country": "Italy",
+    "region": "Europe",
+    "regionSlug": "europe",
+    "religions": [
+      "Christian"
+    ],
+    "religionSlugs": [
+      "christian"
+    ],
+    "summary": "Padre Pio pilgrimage city — among the world’s highest Christian shrine visitor volumes. Old Santa Maria delle Grazie + new Chiesa San Pio (Renzo Piano). Churches generally free; museum/house products separate. conventosantuariopadrepio.it. Do not invent EUR.",
+    "heroImage": "https://images.unsplash.com/photo-1529260830199-42c24126f198?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "20th-century Capuchin pilgrimage centre around Padre Pio of Pietrelcina; modern Chiesa San Pio (Renzo Piano) alongside older Santa Maria delle Grazie",
+      "patron": "Catholic — Saint Pio of Pietrelcina (Padre Pio); stigmata devotion and pilgrimage sanctuary",
+      "unesco": "Not a standalone World Heritage listing (major modern pilgrimage sanctuary)",
+      "typicalVisit": "Half-day to full day sanctuary circuit (old + new church, crypt, optional museum); pilgrimage coaches common from Foggia / Bari / Naples corridors"
+    },
+    "related": [
+      "san-francesco-assisi",
+      "basilica-sant-antonio",
+      "lourdes"
+    ],
+    "overview": {
+      "body": [
+        "San Giovanni Rotondo is Italy’s modern Padre Pio pilgrimage mega — among the world’s highest Christian shrine visitor volumes, faith-distinct from live Assisi and Padua and from parked Gothic Italy denseness.",
+        "Frame the visit as old vs new church honesty: Santa Maria delle Grazie and the crypt / cell lanes sit beside the vast newer Chiesa San Pio (Renzo Piano). Ufficio Pellegrinaggi on the San Pio square helps groups; individual visits are generally free to the churches.",
+        "Official guidance: Convento Santuario di San Pio conventosantuariopadrepio.it (orari, pellegrinaggi, visita). Churches generally free; museum / house products as published — do not invent EUR from scalper packages. Prefer the official sanctuary channels.",
+        "Foggia / Bari / Naples gateways — road and pilgrimage coaches to the Gargano town. Do not invent one pass covering Assisi, Loreto, or the Vatican.",
+        "Soft blockers: feast-day crush; old vs new church confusion; lodging peaks around Padre Pio calendar days. SanctaWay is informational — it does not sell tickets or grant access."
+      ],
+      "highlights": [
+        "Padre Pio pilgrimage mega visitor volume",
+        "Old Santa Maria delle Grazie + new Chiesa San Pio",
+        "Churches generally free — do not invent EUR",
+        "conventosantuariopadrepio.it official sanctuary",
+        "≠ Assisi / Padua Gothic denseness merge"
+      ]
+    },
+    "visit": {
+      "intro": "conventosantuariopadrepio.it — old vs new church; free churches; no invent EUR; not Assisi/Vatican merge.",
+      "hours": "Sanctuary / crypt / museum windows — verify official Orari pages on conventosantuariopadrepio.it. Early morning Mass quieter; feast days of Padre Pio reshape queues and town lodging. Published patterns commonly list Santa Maria delle Grazie long open hours and Chiesa San Pio daytime windows.",
+      "tickets": "Churches generally free. Museum / house / guided-group products as published via Ufficio Pellegrinaggi — do not invent EUR. Prefer conventosantuariopadrepio.it over scalper packages. Assisi / Loreto / Vatican = separate pilgrimages.",
+      "dress": "Active major Catholic pilgrimage shrine — modest dress in churches; quiet at tomb / crypt; no flash where posted; follow volunteer steward lanes.",
+      "duration": "Half-day to full day for old + new church, crypt, and optional museum lanes.",
+      "access": "Foggia / Bari / Naples road and coach gateways to San Giovanni Rotondo on the Gargano. Sanctuary complex is walkable in town once arrived. Not the same ticket as Assisi or Padua.",
+      "tips": [
+        "Confirm Orari on conventosantuariopadrepio.it — do not invent EUR.",
+        "Map old Santa Maria delle Grazie vs new Chiesa San Pio before you arrive.",
+        "Early morning quieter; feast days = lodging and queue peaks.",
+        "Modest dress; quiet at crypt / tomb; follow steward lanes.",
+        "Do not invent one pass with Assisi, Loreto, or Vatican.",
+        "Ufficio Pellegrinaggi helps groups — individuals usually free-walk churches.",
+        "SanctaWay does not sell tickets or grant access."
+      ],
+      "entryType": "free",
+      "ticketsUrl": "https://conventosantuariopadrepio.it/it/",
+      "ticketsLabel": "Convento Santuario Padre Pio (conventosantuariopadrepio.it) — churches generally free; verify Orari / pellegrinaggi",
+      "ticketsNote": "Churches free; museum/group products separate; do not invent EUR; ≠ Assisi/Loreto/Vatican combo."
+    },
+    "etiquette": {
+      "intro": "Active Padre Pio pilgrimage shrine — dress, crypt, stewards.",
+      "bullets": [
+        "Modest dress in all churches.",
+        "Quiet at tomb / crypt; pilgrims first.",
+        "No flash where posted; follow volunteer stewards.",
+        "Threshold Atlas tone: Padre Pio / stigmata devotion — not Gargano architecture day-trip only."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach San Giovanni Rotondo.",
+      "paragraphs": [
+        "Most visitors arrive by road or pilgrimage coach via Foggia, Bari, or Naples corridors onto the Gargano. Local buses and taxis serve the sanctuary zone in town.",
+        "Churches are generally free — verify Orari and any museum products on conventosantuariopadrepio.it. Do not invent EUR.",
+        "Assisi, Padua, Loreto, and the Vatican are separate pilgrimages — do not invent one Italy sacred pass."
+      ],
+      "bullets": [
+        "Foggia / Bari / Naples → Gargano road/coach",
+        "conventosantuariopadrepio.it Orari",
+        "Churches generally free",
+        "No Assisi / Vatican one-pass myth"
+      ]
+    },
+    "bestTime": {
+      "intro": "Early Mass quieter; feast calendar reshapes the town.",
+      "paragraphs": [
+        "Early morning Mass and crypt windows are usually quieter than midday coach waves. Padre Pio feast calendar days fill lodging and queues.",
+        "Shoulder seasons on the Gargano often balance weather and crowd better than peak summer weekends."
+      ],
+      "bullets": [
+        "Best: early morning sanctuary windows",
+        "Feast days = peak crush",
+        "Verify Orari before travel",
+        "Do not invent EUR / Assisi combo myths"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm Orari on conventosantuariopadrepio.it — churches generally free; do not invent EUR.",
+        "Old vs new church confusion and feast crush are standing soft blockers.",
+        "Earn Padre Pio mega volume difference from live Assisi / Padua.",
         "SanctaWay is informational; it does not sell tickets or grant access.",
         "Hero image is an Unsplash placeholder pending visual / Commons pass."
       ]

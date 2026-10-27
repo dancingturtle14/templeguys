@@ -600,7 +600,7 @@
     "related": [
       "wat-pho",
       "wat-arun",
-      "ayutthaya"
+      "that-luang"
     ],
     "overview": {
       "body": [
@@ -1175,7 +1175,7 @@
     "related": [
       "blue-mosque",
       "hassan-ii-mosque",
-      "imam-mosque-isfahan"
+      "suleymaniye-mosque"
     ],
     "overview": {
       "body": [
@@ -2776,7 +2776,7 @@
     "related": [
       "meenakshi",
       "golden-temple",
-      "pashupatinath"
+      "akshardham-delhi"
     ],
     "overview": {
       "body": [
@@ -3002,7 +3002,7 @@
     "related": [
       "hassan-ii-mosque",
       "hagia-sophia",
-      "registan"
+      "suleymaniye-mosque"
     ],
     "overview": {
       "body": [
@@ -3691,7 +3691,7 @@
     "related": [
       "wat-pho",
       "borobudur",
-      "kek-lok-si"
+      "that-luang"
     ],
     "overview": {
       "body": [
@@ -4843,7 +4843,7 @@
     "related": [
       "blue-mosque",
       "hagia-sophia",
-      "sultan-hassan"
+      "ibn-tulun"
     ],
     "overview": {
       "body": [
@@ -5647,7 +5647,7 @@
     "related": [
       "kashi-vishwanath",
       "golden-temple",
-      "brihadeeswarar"
+      "akshardham-delhi"
     ],
     "overview": {
       "body": [
@@ -6903,7 +6903,7 @@
     "related": [
       "meenakshi",
       "borobudur",
-      "mahabalipuram"
+      "elephanta-caves"
     ],
     "overview": {
       "body": [
@@ -7585,7 +7585,7 @@
     "related": [
       "shwedagon",
       "angkor-wat",
-      "sukhothai"
+      "kyaiktiyo"
     ],
     "overview": {
       "body": [
@@ -7812,7 +7812,7 @@
     "related": [
       "hassan-ii-mosque",
       "mezquita-cordoba",
-      "sultan-hassan"
+      "ibn-tulun"
     ],
     "overview": {
       "body": [
@@ -8040,7 +8040,7 @@
     "related": [
       "meenakshi",
       "kashi-vishwanath",
-      "batu-caves"
+      "akshardham-delhi"
     ],
     "overview": {
       "body": [
@@ -8608,7 +8608,7 @@
     "related": [
       "ellora",
       "mahabodhi",
-      "sanchi"
+      "elephanta-caves"
     ],
     "overview": {
       "body": [
@@ -8721,7 +8721,7 @@
     "related": [
       "meenakshi",
       "ellora",
-      "mahabalipuram"
+      "rameshwaram"
     ],
     "overview": {
       "body": [
@@ -12655,7 +12655,7 @@
     "related": [
       "wat-phra-kaew",
       "wat-pho",
-      "shwedagon"
+      "kyaiktiyo"
     ],
     "overview": {
       "body": [
@@ -12767,7 +12767,7 @@
     "related": [
       "st-peters",
       "notre-dame",
-      "rila-monastery"
+      "trinity-sergius-lavra"
     ],
     "overview": {
       "body": [
@@ -13999,7 +13999,7 @@
     "related": [
       "blue-mosque",
       "hagia-sophia",
-      "sheikh-lotfollah"
+      "suleymaniye-mosque"
     ],
     "overview": {
       "body": [
@@ -14223,7 +14223,7 @@
     "related": [
       "lourdes",
       "fatima",
-      "rila-monastery"
+      "trinity-sergius-lavra"
     ],
     "overview": {
       "body": [
@@ -14447,7 +14447,7 @@
     "related": [
       "kairouan",
       "hassan-ii-mosque",
-      "blue-mosque"
+      "ibn-tulun"
     ],
     "overview": {
       "body": [
@@ -14559,7 +14559,7 @@
     "related": [
       "meenakshi",
       "khajuraho",
-      "mahabalipuram"
+      "rameshwaram"
     ],
     "overview": {
       "body": [
@@ -14672,7 +14672,7 @@
     "related": [
       "brihadeeswarar",
       "meenakshi",
-      "hampi"
+      "elephanta-caves"
     ],
     "overview": {
       "body": [
@@ -15010,7 +15010,7 @@
     "related": [
       "ayutthaya",
       "wat-phra-kaew",
-      "bagan"
+      "that-luang"
     ],
     "overview": {
       "body": [
@@ -15122,7 +15122,7 @@
     "related": [
       "jasna-gora",
       "montserrat",
-      "st-basils"
+      "trinity-sergius-lavra"
     ],
     "overview": {
       "body": [
@@ -15428,6 +15428,910 @@
         "Confirm visit windows and Domschatz fares on aachenerdom.de — do not invent EUR.",
         "Cathedral free ≠ treasury; liturgy vs tourist route honesty.",
         "Carolingian Palatine Chapel is the differentiator — not Gothic clone padding.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "ibn-tulun",
+    "name": "Mosque of Ahmad Ibn Tulun (مسجد أحمد بن طولون), Cairo",
+    "shortName": "Ibn Tulun",
+    "location": "Sayyida Zaynab / Al-Saliba, Cairo",
+    "country": "Egypt",
+    "region": "Africa",
+    "regionSlug": "africa",
+    "religions": [
+      "Islamic"
+    ],
+    "religionSlugs": [
+      "islamic"
+    ],
+    "summary": "Oldest surviving intact mosque fabric in Cairo — Tulunid spiral-minaret mega at al-Qata'i. MOTA / egymonuments.gov.eg lists visitor hours with free admission — do not invent EGP ticket. Prayer-time soft closures; Gayer-Anderson Museum next door is a separate paid MOTA product. Prefer ministry pages over OTA skip-the-line.",
+    "heroImage": "https://images.unsplash.com/photo-1572252009286-268acec5ca0a?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Ahmad Ibn Tulun, 876–879 CE; Tulunid capital al-Qata'i; later restorations keep the courtyard + spiral minaret fabric intact",
+      "patron": "Islamic — Sunni congregational mosque (Tulunid Abbasid-governor foundation; living prayer continues)",
+      "unesco": "Not individually inscribed; major Cairo Islamic monument under Ministry of Tourism & Antiquities care",
+      "typicalVisit": "60–90 minutes courtyard + minaret when open; Gayer-Anderson next door needs a separate MOTA ticket + buffer"
+    },
+    "related": [
+      "sultan-hassan",
+      "kairouan",
+      "hassan-ii-mosque"
+    ],
+    "overview": {
+      "body": [
+        "The Mosque of Ahmad Ibn Tulun is Cairo's oldest surviving intact mosque fabric — the Tulunid congregational mega of al-Qata'i, still framed by its vast courtyard and famous spiral minaret rather than as a thin Islamic Cairo photo stop.",
+        "Frame the visit as Tulunid capital piety + Abbasid-governor independence honesty — not spiral minaret selfie only. Active mosque etiquette: shoulders and knees covered; remove shoes; quiet during prayer; women head covering customary.",
+        "Official tickets: Ministry of Tourism & Antiquities price lists show Mosque of Ibn Tulun with no paid entry tiers — free admission. Tips for shoe-keep or minaret unlock are customary soft costs — do not invent an EGP ticket. Gayer-Anderson Museum (Bayt al-Kritliyya) next door is a separate paid MOTA product. Prefer egymonuments.gov.eg / mota.gov.eg over random OTA Ibn Tulun skip-the-line.",
+        "MOTA visitor window commonly ~09:00–17:00 (Ramadan earlier close class) — verify egymonuments.gov.eg / mota.gov.eg. Enter at least 1 hour before close. Avoid Friday noon prayer crush; courtyard light is best mid-morning or late afternoon.",
+        "Soft blockers: prayer closures; minaret tip vs official free-entry confusion; do not invent one Islamic Cairo ticket covering Sultan Hassan + Ibn Tulun + Al-Azhar. Al-Azhar stays parked this batch. SanctaWay is informational — it does not sell tickets or grant access."
+      ],
+      "highlights": [
+        "Oldest intact mosque fabric in Cairo — Tulunid courtyard + spiral minaret",
+        "MOTA free admission — do not invent EGP ticket",
+        "Gayer-Anderson Museum = separate paid MOTA product",
+        "Prayer-time / Friday noon soft closures",
+        "Pair with Sultan Hassan on foot — not one combo ticket"
+      ]
+    },
+    "visit": {
+      "intro": "MOTA free admission — verify hours; Gayer-Anderson separate.",
+      "hours": "MOTA visitor window commonly ~09:00–17:00 (Ramadan earlier close class) — verify egymonuments.gov.eg / mota.gov.eg. Enter at least 1 h before close. Avoid Friday noon prayer crush; mid-morning / late-afternoon courtyard light is kinder.",
+      "tickets": "Ministry lists Mosque of Ibn Tulun with free admission — no paid entry tiers. Shoe-keep / minaret unlock tips are customary soft costs — do not invent EGP. Gayer-Anderson Museum next door = separate MOTA ticket. Prefer egymonuments.gov.eg / mota.gov.eg over OTA skip-the-line products.",
+      "dress": "Active mosque — shoulders/knees covered; remove shoes; quiet during prayer; women head covering customary.",
+      "duration": "60–90 minutes courtyard + minaret when accessible; add separate time if visiting Gayer-Anderson.",
+      "access": "Sayyida Zaynab / Al-Saliba — taxi or ride-hail from downtown or the Citadel area; ~15–20 min walk class from Sultan Hassan through historic streets. Uneven floors and minaret stairs are real soft blockers.",
+      "tips": [
+        "Confirm free admission on egymonuments.gov.eg / mota.gov.eg — do not invent EGP.",
+        "Gayer-Anderson Museum is a separate MOTA ticket next door.",
+        "Avoid inventing one Islamic Cairo combo with Sultan Hassan or Al-Azhar.",
+        "Arrive at least 1 h before close; Friday noon prayer soft-closes the hall.",
+        "Modest dress; shoes off; quiet during prayer.",
+        "Minaret unlock tips are not an official ticket — state the difference.",
+        "Hard-warn random OTA Ibn Tulun skip-the-line products."
+      ],
+      "entryType": "free",
+      "ticketsUrl": "https://egymonuments.gov.eg/",
+      "ticketsLabel": "Egypt Monuments / MOTA — Ibn Tulun (free admission; verify hours)",
+      "ticketsNote": "Free admission per MOTA lists; Gayer-Anderson separate; do not invent EGP."
+    },
+    "etiquette": {
+      "intro": "Active Tulunid mosque — quiet during prayer.",
+      "bullets": [
+        "Shoulders and knees covered; women head covering customary.",
+        "Remove shoes; quiet during prayer; do not walk through salah.",
+        "Minaret tips are soft costs — not an invented EGP ticket.",
+        "Threshold Atlas tone: Tulunid al-Qata'i capital piety + Abbasid-governor independence."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Ibn Tulun in historic Cairo.",
+      "paragraphs": [
+        "Reach Sayyida Zaynab / Al-Saliba by taxi or ride-hail from downtown Cairo or the Citadel corridor. From live Sultan Hassan it is roughly a 15–20 minute walk through historic streets — useful pairing, not a shared ticket.",
+        "The mosque courtyard is free under MOTA framing; buy a separate MOTA ticket only if you add Gayer-Anderson Museum next door. Do not invent a paid Islamic Cairo combo covering Sultan Hassan + Ibn Tulun + Al-Azhar.",
+        "Watch uneven floors and minaret stairs. Enter with at least 1 hour before the published close, and expect soft closures around Friday noon prayer."
+      ],
+      "bullets": [
+        "Taxi / ride-hail to Sayyida Zaynab / Al-Saliba",
+        "~15–20 min walk class from Sultan Hassan",
+        "Free mosque; Gayer-Anderson = separate MOTA ticket",
+        "Friday noon + uneven floors soft blockers"
+      ]
+    },
+    "bestTime": {
+      "intro": "Mid-morning or late-afternoon courtyard; avoid Friday noon crush.",
+      "paragraphs": [
+        "Mid-morning and late afternoon usually give kinder courtyard light and thinner visitor flow than midday heat on open brick. Enter at least 1 hour before close.",
+        "Friday noon prayer and Ramadan earlier-close class are real soft blockers — verify egymonuments.gov.eg / mota.gov.eg rather than inventing fixed hours."
+      ],
+      "bullets": [
+        "Best: mid-morning / late afternoon",
+        "Verify ~09:00–17:00 / Ramadan earlier close",
+        "Avoid Friday noon prayer crush",
+        "Do not invent fixed EGP ticket windows"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm free admission and hours on egymonuments.gov.eg / mota.gov.eg — do not invent EGP.",
+        "Gayer-Anderson is separate; Al-Azhar stays parked this batch.",
+        "Do not invent one ticket covering Sultan Hassan + Ibn Tulun + Al-Azhar.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "suleymaniye-mosque",
+    "name": "Süleymaniye Mosque (Süleymaniye Camii), Istanbul",
+    "shortName": "Süleymaniye Mosque",
+    "location": "Süleymaniye quarter, Fatih, Istanbul",
+    "country": "Türkiye",
+    "region": "Middle East",
+    "regionSlug": "middle-east",
+    "religions": [
+      "Islamic"
+    ],
+    "religionSlugs": [
+      "islamic"
+    ],
+    "summary": "Mimar Sinan's Ottoman imperial masterpiece above the Golden Horn — working congregational mosque with free entry and five-prayer + Friday noon tourist closures of the prayer hall. Earns keep vs live Hagia Sophia + Blue Mosque as a distinct Sinan külliye. Do not invent TRY tickets or third-party skip-the-line; verify Diyanet / mosque notices / kulturportali.gov.tr.",
+    "heroImage": "https://images.unsplash.com/photo-1541432901042-2d8bd64b4a9b?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Kanuni Sultan Süleyman; architect Mimar Sinan; completed 1557; imperial külliye (mosque + madrasa + hospital + kitchen)",
+      "patron": "Islamic — Sunni Ottoman imperial congregational mosque (living prayer continues)",
+      "unesco": "Within Historic Areas of Istanbul UNESCO World Heritage context; major imperial mosque under Diyanet / vakif care",
+      "typicalVisit": "45–90 minutes courtyard + hall when open; prayer-time hall closures; hill climb from Eminönü / Beyazit"
+    },
+    "related": [
+      "hagia-sophia",
+      "blue-mosque",
+      "imam-mosque-isfahan"
+    ],
+    "overview": {
+      "body": [
+        "Süleymaniye Mosque is Sinan's Ottoman imperial masterpiece above the Golden Horn — a working congregational mosque that earns its own page beside live Hagia Sophia and the Blue Mosque as a distinct külliye, not a third blue-dome postcard clone.",
+        "Frame the visit as Kanuni Süleyman + Mimar Sinan külliye honesty (mosque, madrasa, hospital, kitchen) — not Istanbul mosque trio selfie only. Active imperial mosque etiquette: shoulders and knees covered; women headscarf (loan often available); remove shoes; silence during prayer; no tourist walking through salah.",
+        "Official tickets: free entry; donations voluntary. Do not invent a TRY Süleymaniye ticket. Hard-warn third-party skip-the-line products. Any separate complex museums or vakif products — verify live; do not invent bundles with Hagia Sophia museum tickets. Prefer Diyanet / mosque notices and kulturportali.gov.tr over OTA inventing.",
+        "Working mosque — tourist entry commonly daytime with five-prayer and Friday noon closures of the prayer hall. Courtyard and exterior are often freer than the hall — verify mosque notices. Late afternoon light over the Golden Horn is popular; arrive with prayer-schedule margin.",
+        "Soft blockers: Istanbul mosque density after Hagia Sophia + Blue Mosque — this page must earn Sinan / neighbourhood / prayer-closure logistics; Friday noon hall close; hill climb; do not invent one pass for all imperial mosques. SanctaWay is informational — it does not sell tickets or grant access."
+      ],
+      "highlights": [
+        "Sinan Ottoman imperial külliye — distinct from Hagia Sophia + Blue Mosque",
+        "Free working mosque — do not invent TRY entry",
+        "Five-prayer + Friday noon hall closures",
+        "Courtyard often freer than the prayer hall",
+        "No third-party skip-the-line; no invent imperial-mosque pass"
+      ]
+    },
+    "visit": {
+      "intro": "Free Sinan imperial mosque — prayer-time hall closures; no invent TRY.",
+      "hours": "Working mosque — tourist entry commonly daytime with five-prayer + Friday noon closures of the prayer hall — verify Diyanet / mosque notices / kulturportali.gov.tr. Courtyard + exterior often freer than the hall. Late-afternoon Golden Horn light is popular.",
+      "tickets": "Free entry; donations voluntary. Do not invent TRY Süleymaniye ticket. Hard-warn third-party skip-the-line. Separate museums / vakif products if any = verify live — do not invent bundles with Hagia Sophia museum tickets.",
+      "dress": "Active imperial mosque — shoulders/knees covered; women headscarf (loan often available); remove shoes; silence during prayer; no walking through salah.",
+      "duration": "45–90 minutes courtyard + hall when open; buffer around prayer times.",
+      "access": "Süleymaniye quarter above the Golden Horn — tram + uphill walk or taxi from Eminönü or Beyazit. Hill climb is a soft blocker; mesh with Hagia Sophia + Blue Mosque without cloning Istanbul mosque trio prose.",
+      "tips": [
+        "Entry is free — do not invent TRY tickets or skip-the-line products.",
+        "Check prayer times; Friday noon closes the hall to tourists.",
+        "Courtyard may stay usable when the hall is closed for salah.",
+        "Dress: shoulders/knees; women headscarf; shoes off.",
+        "Do not invent one pass covering Hagia Sophia + Blue Mosque + Süleymaniye.",
+        "Hill climb from Eminönü / Beyazit — plan water and pace.",
+        "Prefer Diyanet / mosque notices over random OTA bundles."
+      ],
+      "entryType": "free",
+      "ticketsUrl": "https://www.kulturportali.gov.tr/",
+      "ticketsLabel": "Culture portal / mosque notices — Süleymaniye (free; verify prayer closures)",
+      "ticketsNote": "Free working mosque; prayer-time hall closures; do not invent TRY or skip-the-line."
+    },
+    "etiquette": {
+      "intro": "Living Ottoman imperial mosque — silence during salah.",
+      "bullets": [
+        "Shoulders and knees covered; women headscarf (loan often available).",
+        "Remove shoes; no tourist walking through prayer.",
+        "Do not invent paid skip-the-line into the prayer hall.",
+        "Threshold Atlas tone: Kanuni Süleyman + Mimar Sinan külliye honesty."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Süleymaniye above the Golden Horn.",
+      "paragraphs": [
+        "From Eminönü or Beyazit, take a tram stop then walk uphill into the Süleymaniye quarter, or take a taxi to the mosque terrace. The climb is short but steep — a real soft blocker in summer heat.",
+        "Entry is free. Time your arrival around the five daily prayers and Friday noon, when the prayer hall closes to tourists. The courtyard is often still walkable when the hall is closed.",
+        "Pair thoughtfully with live Hagia Sophia and Blue Mosque without inventing a shared imperial-mosque ticket — each site has its own access rules."
+      ],
+      "bullets": [
+        "Tram + uphill walk / taxi from Eminönü or Beyazit",
+        "Free entry; prayer-time hall closures",
+        "Courtyard freer than hall during salah",
+        "No invent shared pass with Hagia / Blue"
+      ]
+    },
+    "bestTime": {
+      "intro": "Late-afternoon terrace light; avoid Friday noon hall close.",
+      "paragraphs": [
+        "Late afternoon often gives kinder light over the Golden Horn from the terrace. Arrive with margin before the next prayer if you want the hall interior.",
+        "Friday noon and each of the five daily prayers close the hall to tourists — verify mosque notices rather than inventing a fixed open window."
+      ],
+      "bullets": [
+        "Best: late-afternoon terrace / courtyard",
+        "Verify five-prayer + Friday noon closures",
+        "Hall interior needs prayer-schedule margin",
+        "Do not invent fixed TRY ticket hours"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm prayer closures on mosque / Diyanet / kulturportali.gov.tr notices — free entry; do not invent TRY.",
+        "Earn keep vs Hagia Sophia + Blue Mosque: Sinan külliye + neighbourhood logistics.",
+        "Do not invent one pass for all imperial mosques.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "elephanta-caves",
+    "name": "Elephanta Caves / Gharapuri (एलिफंटा गुफाएँ), Mumbai harbour",
+    "shortName": "Elephanta Caves",
+    "location": "Elephanta Island (Gharapuri), Mumbai Harbour",
+    "country": "India",
+    "region": "South Asia",
+    "regionSlug": "south-asia",
+    "religions": [
+      "Hindu"
+    ],
+    "religionSlugs": [
+      "hindu"
+    ],
+    "summary": "UNESCO rock-cut Saiva mega on Mumbai harbour — Mahesa-murti Cave 1 icon. ASI e-tickets asi.paygov.org.in (Mumbai Circle to Elephanta); Gateway of India ferry is a separate Maharashtra Maritime Board / counter product. Commonly closed Monday; monsoon ferry cancellation honesty. Do not invent INR; ASI is not the ferry.",
+    "heroImage": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Rock-cut Saiva caves roughly 5th–8th c. CE class; Mahesa-murti (Trimurti) Cave 1 is the global draw",
+      "patron": "Hindu — Saiva rock-cut sacred landscape (archaeological; not a living garbhagriha ticket product)",
+      "unesco": "UNESCO World Heritage — Elephanta Caves",
+      "typicalVisit": "Half-day Mumbai harbour trip: ferry ~1 h each way + hillside caves; Monday closed"
+    },
+    "related": [
+      "ellora",
+      "ajanta",
+      "mahabalipuram"
+    ],
+    "overview": {
+      "body": [
+        "Elephanta Caves (Gharapuri) are Mumbai harbour's UNESCO rock-cut Saiva mega — the Mahesa-murti (Trimurti) of Cave 1 is the global draw, but the island group is more than one chamber.",
+        "Frame the visit as Konkan rock-cut Saivism + harbour-island honesty — not Mumbai boat picnic only. Modest dress; no climbing or touching reliefs; flash rules as posted.",
+        "Official tickets: ASI Indian Heritage e-tickets — asi.paygov.org.in (Mumbai Circle to Elephanta Caves). Indian / SAARC-BIMSTEC / foreign tiers; under-15 free when published. The ferry from Gateway of India / Apollo Bunder (or Belapur Jetty from Navi Mumbai) is separate — Gateway counter / Maharashtra Maritime Board Belapur booking (mahammb.maharashtra.gov.in). Do not invent INR; do not sell OTA Elephanta combo as an ASI product without verify; state ASI is not the ferry.",
+        "ASI commonly 09:00–17:00, closed Monday — verify asi.nic.in World Heritage Elephanta page. First boats ~09:00; last outbound mid-afternoon — leave a return-ferry buffer. Monsoon cancellations are real.",
+        "Soft blockers: Monday close; monsoon ferries; long stair heat; Cave 1 is not the whole island group myth; do not invent Ellora day-trip same ticket. SanctaWay is informational — it does not sell tickets or grant access."
+      ],
+      "highlights": [
+        "UNESCO harbour-island Saiva rock-cut mega",
+        "ASI e-tickets: asi.paygov.org.in — ferry is separate",
+        "Commonly closed Monday; monsoon boat honesty",
+        "Under-15 free when ASI publishes it",
+        "Cave 1 is not the whole island — do not invent Ellora combo"
+      ]
+    },
+    "visit": {
+      "intro": "ASI + separate Gateway ferry — closed Monday; no invent INR.",
+      "hours": "ASI commonly 09:00–17:00, closed Monday — verify asi.nic.in. First boats ~09:00; last outbound mid-afternoon — keep return-ferry buffer. Monsoon cancellation honesty.",
+      "tickets": "ASI e-tickets via asi.paygov.org.in (Mumbai Circle to Elephanta Caves). Indian / SAARC-BIMSTEC / foreign tiers; under-15 free when published. Ferry = separate Gateway counter / mahammb.maharashtra.gov.in Belapur booking. Do not invent INR; ASI is not the ferry; warn OTA combo myths.",
+      "dress": "Archaeological Saiva sacred landscape — modest dress; no climbing / touching reliefs; flash as posted.",
+      "duration": "Half day from South Mumbai including ferry both ways; hillside stairs need heat buffer.",
+      "access": "Gateway of India / Apollo Bunder ferry (~1 h) to Elephanta Island, then steps / toy-train stub to the cave hillside. Belapur Jetty alternate from Navi Mumbai. Monday closed (ASI + typical ferry). Monsoon soft blocker.",
+      "tips": [
+        "Skip Mondays — ASI and typical ferries are closed.",
+        "Buy ASI on asi.paygov.org.in; ferry is a separate product.",
+        "Do not invent INR or treat OTA combo as ASI.",
+        "Keep return-ferry buffer — last boats leave mid-afternoon class.",
+        "Monsoon: expect cancellations; stairs get slippery.",
+        "Cave 1 (Mahesa-murti) is the star — the island group is larger.",
+        "Do not invent same-ticket Ellora / Ajanta day-trips."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://asi.paygov.org.in/asi-webapp/",
+      "ticketsLabel": "ASI e-ticketing (Elephanta Caves) — ferry separate",
+      "ticketsNote": "ASI is not the Gateway ferry; closed Monday; under-15 free when published; do not invent INR."
+    },
+    "etiquette": {
+      "intro": "UNESCO Saiva rock-cut landscape — no climbing reliefs.",
+      "bullets": [
+        "Modest dress; no climbing or touching sculpture.",
+        "Flash and photo rules as posted inside Cave 1.",
+        "Quiet near the Mahesa-murti — Threshold Atlas tone, not picnic only.",
+        "ASI ticket and ferry ticket are different products."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Elephanta from Mumbai.",
+      "paragraphs": [
+        "Most visitors take the ferry from Gateway of India / Apollo Bunder (~1 hour) to Elephanta Island, then climb steps or use the short toy-train stub toward the cave hillside. Belapur Jetty is an alternate from Navi Mumbai via Maharashtra Maritime Board booking.",
+        "Buy the ASI monument ticket on asi.paygov.org.in separately from the ferry. Do not invent a single INR combo that pretends ASI sells the boat.",
+        "Plan Monday as a closed day. In monsoon, confirm boats before you commit the morning — cancellations and slippery stairs are common soft blockers."
+      ],
+      "bullets": [
+        "Gateway ferry ~1 h to island + hillside steps",
+        "ASI e-ticket is not the ferry ticket",
+        "Monday closed; monsoon cancellation honesty",
+        "Return-ferry buffer mid-afternoon"
+      ]
+    },
+    "bestTime": {
+      "intro": "First boats on open days; avoid Monday and heavy monsoon.",
+      "paragraphs": [
+        "First morning boats on Tuesday–Sunday usually give cooler stairs and more return options. Midday basalt heat on the hillside is intense — water and hat matter.",
+        "Monday is commonly closed. Monsoon months need boat-cancellation honesty rather than inventing a guaranteed harbour picnic."
+      ],
+      "bullets": [
+        "Best: first Tuesday–Sunday boats",
+        "Verify ASI 09:00–17:00 / Monday close",
+        "Monsoon ferry soft blocker",
+        "Heat on hillside stairs"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm ASI tiers on asi.paygov.org.in and ferry on Gateway / mahammb — do not invent INR.",
+        "ASI is not the ferry; Monday close; monsoon boats.",
+        "Cave 1 is not the whole island; Ellora is a separate day and ticket.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "akshardham-delhi",
+    "name": "Swaminarayan Akshardham (स्वामिनारायण अक्षरधाम), New Delhi",
+    "shortName": "Akshardham Delhi",
+    "location": "Noida Link Road / Pramukh Swami Maharaj Marg, New Delhi",
+    "country": "India",
+    "region": "South Asia",
+    "regionSlug": "south-asia",
+    "religions": [
+      "Hindu"
+    ],
+    "religionSlugs": [
+      "hindu"
+    ],
+    "summary": "One of India's highest-throughput sacred complexes — BAPS Swaminarayan Akshardham, New Delhi. Mandir darshan free (no appointment); exhibitions / water show paid on-site per akshardham.com. Closed Monday; large security screening; no large bags. Do not invent INR; not the Gandhinagar campus.",
+    "heroImage": "https://images.unsplash.com/photo-1587474260584-136574528ed5?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Opened 2005; BAPS Swaminarayan Sanstha; contemporary Hindu monumental complex on the Yamuna floodplain corridor",
+      "patron": "Hindu — Swaminarayan (BAPS); living mandir darshan + exhibition campus",
+      "unesco": "Not a UNESCO World Heritage site; major contemporary Hindu pilgrimage / visitor complex",
+      "typicalVisit": "3–5 hours mandir + optional exhibitions; water show after sunset when running; Monday closed"
+    },
+    "related": [
+      "tirupati",
+      "kashi-vishwanath",
+      "meenakshi"
+    ],
+    "overview": {
+      "body": [
+        "Swaminarayan Akshardham in New Delhi is one of India's highest-throughput sacred complexes — a BAPS mandir campus where free darshan sits beside paid exhibitions and a seasonal water show.",
+        "Frame the visit as BAPS devotion + contemporary Hindu monumental complex honesty — not theme-park India only. Modest dress; no meat, alcohol, or tobacco on campus; phone and camera rules as posted for mandir vs exhibitions.",
+        "Official tickets: mandir complex entry and darshan are free (no appointment). Exhibitions and water show are paid on-site counters per akshardham.com (published adult / senior / child exhibition tiers — do not invent INR as frozen forever; verify live). Groups of 50+ use the advance request page. Prefer the official site over scalpers. Soft-warn: this is not Gandhinagar Akshardham (different campus).",
+        "Complex commonly Tue–Sun, first entry ~10:00 / last entry ~18:30; closed Monday — verify akshardham.com/visitor-info/. Mandir darshan windows can run longer than exhibition ticket windows; water show after sunset when running.",
+        "Soft blockers: Monday close; bag and security rules (no large bags — vehicle leave / cloak rules per site); exhibition queue is not free darshan; water-show seasonal / slot honesty; do not invent online skip-the-line mandir ticket (darshan is free). SanctaWay is informational — it does not sell tickets or grant access."
+      ],
+      "highlights": [
+        "BAPS Delhi mega — free mandir darshan",
+        "Exhibitions / water show paid on-site via akshardham.com",
+        "Closed Monday; security + no large bags",
+        "Do not invent INR or online mandir skip-the-line",
+        "Not Gandhinagar Akshardham"
+      ]
+    },
+    "visit": {
+      "intro": "Free darshan — paid exhibitions/water show; closed Monday.",
+      "hours": "Commonly Tue–Sun first entry ~10:00 / last entry ~18:30; closed Monday — verify akshardham.com/visitor-info/. Mandir darshan windows may outlast exhibition ticket windows; water show after sunset when running.",
+      "tickets": "Mandir entry + darshan free (no appointment). Exhibitions / water show = paid on-site per akshardham.com — verify live adult/senior/child tiers; do not invent INR. Group 50+ advance request page. Prefer official site; no invent online mandir skip-the-line.",
+      "dress": "Living Swaminarayan Hindu complex — modest dress; no meat/alcohol/tobacco on campus; phone/camera rules as posted for mandir vs exhibitions.",
+      "duration": "3–5 hours for mandir + selected exhibitions; add evening buffer if attending the water show.",
+      "access": "Akshardham Metro (~350 m walk) preferred; NH24 / Pramukh Swami Maharaj Marg. Airport / NZM rail with metro transfer. Large security screening — arrive early; no large bags (vehicle leave / cloak rules per site).",
+      "tips": [
+        "Skip Mondays — the complex is commonly closed.",
+        "Darshan is free — do not invent online mandir skip-the-line tickets.",
+        "Buy exhibitions / water show only at official on-site counters per akshardham.com.",
+        "Do not invent frozen INR tiers — verify live.",
+        "No large bags; expect security screening time.",
+        "This is Delhi Akshardham — not Gandhinagar.",
+        "Water show is seasonal / slotted — confirm before you plan sunset only."
+      ],
+      "entryType": "free",
+      "ticketsUrl": "https://akshardham.com/visitor-info/",
+      "ticketsLabel": "Akshardham Delhi — official visitor info (free darshan; paid exhibitions)",
+      "ticketsNote": "Free darshan; exhibitions/water show paid on-site; closed Monday; do not invent INR."
+    },
+    "etiquette": {
+      "intro": "Living BAPS campus — modest dress, no meat/alcohol/tobacco.",
+      "bullets": [
+        "Modest dress; follow phone/camera rules for mandir vs exhibitions.",
+        "No meat, alcohol, or tobacco on campus.",
+        "Security screening is mandatory — travel light.",
+        "Threshold Atlas tone: BAPS devotion + contemporary Hindu monumental honesty."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Akshardham in New Delhi.",
+      "paragraphs": [
+        "Akshardham Metro station is the preferred approach (~350 m walk). From the airport or NZM rail, transfer by metro rather than inventing a door-to-door VIP drop that skips security.",
+        "Arrive early for screening. Leave large bags in the vehicle or use cloak rules as posted — bag policy is a hard soft-blocker for day-pack travellers.",
+        "Mandir darshan needs no ticket. Buy exhibition or water-show products only at official on-site counters after you confirm live tiers on akshardham.com."
+      ],
+      "bullets": [
+        "Akshardham Metro ~350 m walk",
+        "Security screening — no large bags",
+        "Free darshan; paid exhibitions on-site",
+        "Monday closed"
+      ]
+    },
+    "bestTime": {
+      "intro": "Tue–Sun opening window; evenings for water show when running.",
+      "paragraphs": [
+        "Tuesday–Sunday opening windows are the only honest plan — Monday is commonly closed. Early entry helps clear security before exhibition queues build.",
+        "If you want the water show, confirm the evening slot on akshardham.com rather than inventing a nightly guarantee."
+      ],
+      "bullets": [
+        "Best: early Tue–Sun entry",
+        "Verify last-entry ~18:30 class",
+        "Water show = confirm evening slots",
+        "Monday closed honesty"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm hours and exhibition tiers on akshardham.com — do not invent INR.",
+        "Free darshan is not paid exhibitions/water show; Monday close; bag rules.",
+        "Delhi campus is not Gandhinagar Akshardham.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "rameshwaram",
+    "name": "Ramanathaswamy Temple (இராமநாதசுவாமி கோயில்), Rameswaram",
+    "shortName": "Rameshwaram",
+    "location": "Rameswaram Island, Tamil Nadu",
+    "country": "India",
+    "region": "South Asia",
+    "regionSlug": "south-asia",
+    "religions": [
+      "Hindu"
+    ],
+    "religionSlugs": [
+      "hindu"
+    ],
+    "summary": "Char Dham south + Jyotirlinga living Saiva mega on Rameswaram island — Ramanathaswamy Temple. General darshan commonly free; special / quick darshan + abhishekam via HRCE portal rameswaramramanathar.hrce.tn.gov.in. Traditional dress strongly enforced; midday close honesty. Distinct from Tamil UNESCO Chola/Pallava pair. Do not invent INR.",
+    "heroImage": "https://images.unsplash.com/photo-1582510003544-4d00bce9d6cc?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Living Saiva pilgrimage of deep antiquity; present corridor fabric largely Nayaka–later expansions on older sanctum tradition",
+      "patron": "Hindu — Saiva (Char Dham south + Jyotirlinga; living HR&CE temple)",
+      "unesco": "Not individually inscribed as UNESCO WH; major Char Dham / Jyotirlinga living temple",
+      "typicalVisit": "2–4 hours darshan + theertham circuit; midday close; feast-day crush"
+    },
+    "related": [
+      "meenakshi",
+      "brihadeeswarar",
+      "kashi-vishwanath"
+    ],
+    "overview": {
+      "body": [
+        "Ramanathaswamy Temple on Rameswaram island is Char Dham's southern pillar and a Jyotirlinga living Saiva house — an island pilgrimage mega distinct from the just-shipped Tamil UNESCO Chola/Pallava pair.",
+        "Frame the visit as Rama-setu pilgrimage + corridor architecture honesty — not longest corridor Instagram only. Traditional dress is strongly enforced (dhoti / saree-salwar class); remove footwear; phones often prohibited inside (East Gate cloak class); theertham bath modestly.",
+        "Official tickets: general darshan commonly free; special / quick darshan and abhishekam products via the HRCE temple portal rameswaramramanathar.hrce.tn.gov.in (also hrce.tn.gov.in). Spatika often counter-only when published. Do not invent INR; prefer HRCE over random Rameshwaram VIP .com sites.",
+        "Living-temple windows commonly ~04:00/05:00–13:00 and ~15:00–20:00/21:00 with midday close — verify rameswaramramanathar.hrce.tn.gov.in. Early Spatika / general darshan; feast days = crush.",
+        "Soft blockers: midday close; dress enforcement; theertham vs darshan ticket confusion; do not invent one ticket with Brihadeeswarar. SanctaWay is informational — it does not sell tickets or grant access."
+      ],
+      "highlights": [
+        "Char Dham south + Jyotirlinga living temple",
+        "HRCE portal — free general vs paid special darshan",
+        "Traditional dress strongly enforced; midday close",
+        "Agni Theertham + 22 theerthams need time buffer",
+        "Not a Tamil UNESCO Chola/Pallava redo"
+      ]
+    },
+    "visit": {
+      "intro": "HRCE living Char Dham — free general darshan; dress + midday close honesty.",
+      "hours": "Commonly ~04:00/05:00–13:00 and ~15:00–20:00/21:00 with midday close — verify rameswaramramanathar.hrce.tn.gov.in. Early Spatika / general darshan; feast days = crush.",
+      "tickets": "General darshan commonly free; special / quick darshan + abhishekam via HRCE portal rameswaramramanathar.hrce.tn.gov.in / hrce.tn.gov.in. Spatika often counter-only when published. Do not invent INR; prefer HRCE over random VIP .com sites.",
+      "dress": "Living Saiva Char Dham / Jyotirlinga — traditional dress strongly enforced (dhoti / saree-salwar class); remove footwear; phones often prohibited inside (cloak East Gate class); theertham bath modestly.",
+      "duration": "2–4 hours for darshan + selected theerthams; feast days need hours of buffer.",
+      "access": "Rameswaram rail / Madurai airport + road (~4 h class) / Pamban bridge approach. Temple walkable from the station area. Pair Agni Theertham sea bath + 22 theerthams with time buffer — not one rushed selfie stop.",
+      "tips": [
+        "Verify hours on rameswaramramanathar.hrce.tn.gov.in — midday close is real.",
+        "General darshan free; special products only via HRCE — do not invent INR.",
+        "Dress for enforcement: dhoti / saree-salwar class.",
+        "Phones often prohibited inside — use East Gate cloak.",
+        "Theertham circuit is not a paid darshan ticket myth.",
+        "Do not invent one ticket with Brihadeeswarar / Mahabalipuram.",
+        "Feast days: expect crush; arrive for the early window."
+      ],
+      "entryType": "free",
+      "ticketsUrl": "https://rameswaramramanathar.hrce.tn.gov.in/",
+      "ticketsLabel": "HRCE — Ramanathaswamy Temple (verify darshan products)",
+      "ticketsNote": "General darshan free; special/abhishekam via HRCE; do not invent INR; midday close honesty."
+    },
+    "etiquette": {
+      "intro": "Living Char Dham Saiva temple — traditional dress, quiet near sanctum.",
+      "bullets": [
+        "Traditional dress strongly enforced; footwear off.",
+        "Phones often prohibited inside — follow cloak rules.",
+        "Theertham bath modestly; silence near the garbhagriha.",
+        "Threshold Atlas tone: Rama-setu pilgrimage + corridor architecture honesty."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Ramanathaswamy on Rameswaram island.",
+      "paragraphs": [
+        "Reach Rameswaram by rail, or fly Madurai and continue by road (~4 hours class) across the Pamban bridge approach. From the station area the temple is walkable.",
+        "Plan Agni Theertham and the 22 theerthams with real time — they are part of the pilgrimage rhythm, not a five-minute photo loop before darshan.",
+        "Buy special darshan or abhishekam only through the HRCE portal when you need them. General darshan is commonly free; do not invent a shared ticket with Brihadeeswarar."
+      ],
+      "bullets": [
+        "Rail / Madurai + road via Pamban",
+        "Temple walkable from station area",
+        "Theertham circuit needs buffer",
+        "HRCE special products — do not invent INR"
+      ]
+    },
+    "bestTime": {
+      "intro": "Early morning darshan; respect midday close.",
+      "paragraphs": [
+        "Early Spatika / general darshan windows usually mean thinner lines before the forenoon crush. Midday closure is part of the living-temple rhythm — plan a break, then return for the afternoon–evening window.",
+        "Feast days bring heavy crush — verify rameswaramramanathar.hrce.tn.gov.in rather than inventing a quiet festival visit."
+      ],
+      "bullets": [
+        "Best: early morning opening window",
+        "State midday close honestly",
+        "Verify feast-day crush on HRCE",
+        "Avoid inventing same-day VIP myths"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm hours and special darshan on rameswaramramanathar.hrce.tn.gov.in — do not invent INR.",
+        "Dress enforcement + midday close are real soft blockers.",
+        "Char Dham / Jyotirlinga — not a Tamil UNESCO Chola/Pallava redo; no shared ticket with Brihadeeswarar.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "that-luang",
+    "name": "Pha That Luang (ພຣະທາດຫຼວງ), Vientiane",
+    "shortName": "That Luang",
+    "location": "That Luang Square, Vientiane",
+    "country": "Laos",
+    "region": "Southeast Asia",
+    "regionSlug": "southeast-asia",
+    "religions": [
+      "Buddhist"
+    ],
+    "religionSlugs": [
+      "buddhist"
+    ],
+    "summary": "Laos national sacred symbol — golden stupa on banknotes and the national emblem. Outer plaza commonly free; inner cloister paid on-site (foreign vs Lao tiers drift — do not invent LAK; cash kip). Verify booth / Tourism Laos notices. Boun That Luang festival crush honesty. Vat Phou is a separate Champasak day (parked).",
+    "heroImage": "https://images.unsplash.com/photo-1559592413-7cec4d0cae2b?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Lan Xang royal stupa tradition (16th c. rebuild class on older foundations); national emblem and banknote symbol of Laos",
+      "patron": "Buddhist — Theravada national sanctuary (living pilgrimage; festival Boun That Luang)",
+      "unesco": "Not individually inscribed as UNESCO WH; national sacred symbol of Laos",
+      "typicalVisit": "60–90 minutes plaza + inner cloister; festival November lunar crush"
+    },
+    "related": [
+      "wat-phra-kaew",
+      "shwedagon",
+      "sukhothai"
+    ],
+    "overview": {
+      "body": [
+        "Pha That Luang is Laos's national sacred symbol — the golden stupa of Vientiane that appears on the emblem and banknotes, still a capital day-visit mega rather than a thin gold lump photo stop.",
+        "Frame the visit as Lan Xang royal stupa + national emblem honesty. Shoulders and knees covered; women may rent a sinh skirt at the gate; remove shoes in the cloister; quiet.",
+        "Official tickets: outer plaza and flanking temples commonly free; inner cloister paid on-site (foreign vs Lao tiers — published figures drift; do not invent LAK; cash kip). Prefer the site booth / official Tourism Laos notices over random OTA. Festival free-entry days when announced by KPL = state as temporary.",
+        "Inner cloister commonly ~08:00–17:00 class (midday break sometimes reported; Tue–Sun patterns vary by source) — verify on-site / Tourism Laos notices. Outer plaza is freer. Boun That Luang (usually November lunar) = festival crush + possible rule changes.",
+        "Soft blockers: midday cloister break; cash-only booth; festival road closures; Vat Phou is a separate Champasak day (parked this batch — do not invent one Laos sacred pass). SanctaWay is informational — it does not sell tickets or grant access."
+      ],
+      "highlights": [
+        "Laos national stupa — emblem / banknote symbol",
+        "Outer plaza free; inner cloister paid on-site",
+        "Cash LAK honesty — do not invent fares",
+        "Boun That Luang festival crush",
+        "Vat Phou = separate Champasak day (parked)"
+      ]
+    },
+    "visit": {
+      "intro": "National stupa — outer free / inner paid; cash LAK; no invent fares.",
+      "hours": "Inner cloister commonly ~08:00–17:00 class (midday break sometimes reported) — verify on-site / Tourism Laos. Outer plaza freer. Boun That Luang (Nov lunar) = crush + possible rule changes.",
+      "tickets": "Outer plaza + flanking temples commonly free; inner cloister paid on-site (foreign vs Lao tiers drift — do not invent LAK; cash kip). Prefer site booth / Tourism Laos notices over OTA. Festival free-entry days when announced = temporary.",
+      "dress": "Highest national Buddhist sanctuary — shoulders/knees covered; women may rent sinh skirt at gate; remove shoes in cloister; quiet.",
+      "duration": "60–90 minutes plaza + inner cloister; festival days need hours of buffer.",
+      "access": "~4 km NE of Vientiane centre / Patuxay — tuk-tuk / Loca / taxi from Wattay (~20–30 min). Outer plaza walkable circuit. Cash for the inner booth.",
+      "tips": [
+        "Outer plaza is free — pay only for the inner cloister at the booth.",
+        "Bring cash kip — do not invent LAK fares from old blogs.",
+        "Shoulders/knees covered; sinh rental often available for women.",
+        "Shoes off in the cloister; keep quiet.",
+        "Midday cloister break is sometimes reported — ask on site.",
+        "Boun That Luang: expect crush and road closures.",
+        "Vat Phou is Champasak — do not invent one Laos sacred pass."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://www.tourismlaos.org/",
+      "ticketsLabel": "Tourism Laos / on-site booth — That Luang (verify LAK; cash)",
+      "ticketsNote": "Outer free / inner paid on-site; do not invent LAK; cash kip honesty."
+    },
+    "etiquette": {
+      "intro": "National Buddhist sanctuary — modest dress, shoes off in cloister.",
+      "bullets": [
+        "Shoulders and knees covered; women may rent sinh at the gate.",
+        "Remove shoes in the cloister; quiet near the stupa.",
+        "Cash for inner tickets — do not invent LAK online fares.",
+        "Threshold Atlas tone: Lan Xang royal stupa + national emblem honesty."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach That Luang in Vientiane.",
+      "paragraphs": [
+        "That Luang sits about 4 km northeast of central Vientiane / Patuxay. Take a tuk-tuk, Loca, or taxi from Wattay or the centre (~20–30 minutes).",
+        "Walk the outer plaza freely. Pay the inner cloister fee only at the on-site booth in cash kip — published foreign vs Lao tiers drift, so do not invent a fixed LAK number.",
+        "Vat Phou in Champasak is a separate south-Laos day and is parked this batch — do not invent a shared national sacred pass."
+      ],
+      "bullets": [
+        "Tuk-tuk / Loca / taxi from centre or Wattay",
+        "Outer plaza free; inner booth cash LAK",
+        "Festival road closures in November lunar",
+        "Vat Phou = separate Champasak visit"
+      ]
+    },
+    "bestTime": {
+      "intro": "Morning cloister; festival November lunar means crush.",
+      "paragraphs": [
+        "Morning usually means kinder light on the gold and thinner plaza crowds. Ask on site whether a midday cloister break is in force that day.",
+        "Boun That Luang (usually November lunar) is the national festival — expect crush, possible temporary free-entry announcements, and road closures rather than inventing a quiet festival visit."
+      ],
+      "bullets": [
+        "Best: morning opening window",
+        "Verify cloister hours on site",
+        "Boun That Luang: crush honesty",
+        "Do not invent fixed LAK fare tables"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm inner cloister fee on site / Tourism Laos — do not invent LAK; cash kip.",
+        "Outer free is not inner paid; midday break sometimes reported.",
+        "Vat Phou stays parked — not one Laos sacred pass.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "kyaiktiyo",
+    "name": "Kyaiktiyo Pagoda / Golden Rock (ကျိုက်ထီးရိုးဘုရား), Mon State",
+    "shortName": "Kyaiktiyo / Golden Rock",
+    "location": "Kyaikto / Kinpun base, Mon State",
+    "country": "Myanmar",
+    "region": "Southeast Asia",
+    "regionSlug": "southeast-asia",
+    "religions": [
+      "Buddhist"
+    ],
+    "religionSlugs": [
+      "buddhist"
+    ],
+    "summary": "Myanmar national pilgrimage mega — balancing boulder + stupa above Kinpun. Truck + foot approach; foreign entry fee on-site / tourism channels (USD/MMK figures drift — do not invent). Tourism Myanmar class tourismmyanmar.org. Soft Myanmar travel / visa honesty; gender-platform custom stated without sensationalism; monsoon path slippery.",
+    "heroImage": "https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Mon State pilgrimage tradition around the gold-leafed balancing boulder and stupa; living Burmese Buddhist devotion",
+      "patron": "Buddhist — Theravada national pilgrimage (living platform devotion)",
+      "unesco": "Not individually inscribed as UNESCO WH; major national pilgrimage of Myanmar",
+      "typicalVisit": "Full-day minimum from Yangon; overnight Kinpun / mountain hotels common for sunrise"
+    },
+    "related": [
+      "shwedagon",
+      "bagan",
+      "that-luang"
+    ],
+    "overview": {
+      "body": [
+        "Kyaiktiyo Pagoda (Golden Rock) is Myanmar's national balancing-boulder pilgrimage — a gold-leafed rock and stupa above Kinpun that still draws overnight pilgrims for sunrise, not only defying-gravity selfies.",
+        "Frame the visit as balancing-rock relic devotion + Mon State pilgrimage honesty. Shoulders and knees covered; shoes off on the platform; men traditionally approach the rock closer than women on some published custom maps — state gender-platform rules honestly without sensationalism; quiet near the boulder.",
+        "Official tickets: foreign entry fee commonly collected on-site / tourism channels (USD/MMK class figures drift — do not invent). Truck seat from Kinpun is separate from the pagoda fee. Prefer Tourism Myanmar / on-site desks (tourismmyanmar.org class) over random OTA Golden Rock VIP.",
+        "Pilgrimage site — daylight and evening illumination are popular; exact desk hours vary — verify local notices / tourismmyanmar.org. Full-day minimum from Yangon; overnight Kinpun or mountain hotels common for sunrise. Monsoon path slippery honesty.",
+        "Soft blockers: Myanmar visa / travel advisories (state without fearmongering); truck + hike fitness; gender-platform custom; monsoon; do not invent Bagan combo ticket. SanctaWay is informational — it does not sell tickets or grant access."
+      ],
+      "highlights": [
+        "Myanmar national Golden Rock pilgrimage",
+        "On-site / Tourism Myanmar foreign fee — do not invent USD/MMK",
+        "Truck from Kinpun + final foot approach",
+        "Gender-platform custom honesty (no sensationalism)",
+        "Myanmar travel soft blocker; no Bagan combo myth"
+      ]
+    },
+    "visit": {
+      "intro": "National pilgrimage — on-site fee + separate truck; Myanmar travel soft honesty.",
+      "hours": "Pilgrimage site — daylight / evening illumination popular; exact desk hours vary — verify local notices / tourismmyanmar.org. Sunrise overnight stays common. Monsoon path slippery.",
+      "tickets": "Foreign entry fee commonly on-site / tourism channels (USD/MMK figures drift — do not invent). Truck seat separate from pagoda fee. Prefer Tourism Myanmar / on-site desks over OTA Golden Rock VIP.",
+      "dress": "Active Burmese Buddhist pilgrimage — shoulders/knees covered; shoes off on platform; gender-platform approach custom stated honestly without sensationalism; quiet near the boulder.",
+      "duration": "Full-day minimum from Yangon; overnight recommended for sunrise.",
+      "access": "Yangon to Kinpun base (bus / car ~4–5 h class) then open-truck uphill then final foot approach to the rock. Fitness and monsoon footing matter. Confirm current Myanmar travel / visa rules before you plan.",
+      "tips": [
+        "Confirm foreign fee on site / Tourism Myanmar — do not invent USD/MMK.",
+        "Truck seat is separate from the pagoda entry fee.",
+        "Shoulders/knees covered; shoes off on the platform.",
+        "State gender-platform custom honestly — follow posted local guidance.",
+        "Monsoon: slippery path honesty; overnight for sunrise is common.",
+        "Myanmar visa / travel advisories — check without fearmongering.",
+        "Do not invent a Bagan combo ticket."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://tourismmyanmar.org/",
+      "ticketsLabel": "Tourism Myanmar / on-site — Kyaiktiyo (verify foreign fee)",
+      "ticketsNote": "On-site / tourism fee drift — do not invent USD/MMK; truck separate; Myanmar travel soft honesty."
+    },
+    "etiquette": {
+      "intro": "Living Burmese pilgrimage — quiet on the platform.",
+      "bullets": [
+        "Shoulders and knees covered; shoes off on the platform.",
+        "Follow posted gender-platform guidance without sensationalism.",
+        "Quiet near the boulder; no invent VIP rock-access tickets.",
+        "Threshold Atlas tone: balancing-rock relic devotion + Mon State pilgrimage."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Kyaiktiyo from Yangon.",
+      "paragraphs": [
+        "From Yangon, take a bus or car to Kinpun base (~4–5 hours class). From Kinpun, board the open truck uphill, then finish on foot to the rock platform.",
+        "Pay the foreign pagoda fee at on-site / tourism desks and the truck seat separately. Published USD/MMK figures drift — do not invent a frozen fare from an old blog.",
+        "Confirm current Myanmar travel and visa conditions before you commit. Monsoon footing and fitness for the truck-plus-hike approach are real soft blockers; overnight near Kinpun or on the mountain is common for sunrise."
+      ],
+      "bullets": [
+        "Yangon to Kinpun (~4–5 h) then truck then foot",
+        "Pagoda fee is not the truck seat",
+        "Myanmar visa / travel soft honesty",
+        "Monsoon + fitness soft blockers"
+      ]
+    },
+    "bestTime": {
+      "intro": "Sunrise overnight; monsoon means slippery paths.",
+      "paragraphs": [
+        "Overnight stays make sunrise illumination realistic after the Yangon day transfer. Daylight visits work if you start very early from the city.",
+        "Monsoon months need slippery-path honesty rather than inventing a guaranteed dry truck ride. Always re-check local desk hours and travel advisories."
+      ],
+      "bullets": [
+        "Best: overnight for sunrise",
+        "Verify desk hours locally",
+        "Monsoon path soft blocker",
+        "Do not invent fixed USD/MMK tables"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm foreign fee on site / tourismmyanmar.org — do not invent USD/MMK.",
+        "Truck separate; gender-platform custom honesty; monsoon footing.",
+        "Myanmar travel / visa soft blocker — state without fearmongering; no Bagan combo.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "trinity-sergius-lavra",
+    "name": "Trinity Lavra of St. Sergius (Троице-Сергиева лавра), Sergiev Posad",
+    "shortName": "Trinity Sergius Lavra",
+    "location": "Sergiev Posad, Moscow Oblast",
+    "country": "Russia",
+    "region": "Europe",
+    "regionSlug": "europe",
+    "religions": [
+      "Christian"
+    ],
+    "religionSlugs": [
+      "christian"
+    ],
+    "summary": "UNESCO Russian Orthodox spiritual heart — stavropegial Trinity Lavra of St. Sergius at Sergiev Posad. Grounds / churches pilgrimage-open commonly free; museum / treasury products paid via lavra.ru / museum-sp.ru / sp-mz.ru. Do not invent RUB or skip-the-line into the shrine. Russia travel / visa soft honesty; Kyiv Pechersk parked; Athos stays deferred.",
+    "heroImage": "https://images.unsplash.com/photo-1513326738677-b964603b136d?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Founded by St Sergius of Radonezh (14th c.); stavropegial lavra; Russian Orthodox spiritual centre for centuries",
+      "patron": "Christian — Russian Orthodox (stavropegial lavra; living liturgical life)",
+      "unesco": "UNESCO World Heritage — Architectural Ensemble of the Trinity Sergius Lavra in Sergiev Posad",
+      "typicalVisit": "3–5 hours Moscow day-trip: rail + lavra circuit + optional museums; feast of St Sergius = crush"
+    },
+    "related": [
+      "rila-monastery",
+      "st-basils",
+      "jasna-gora"
+    ],
+    "overview": {
+      "body": [
+        "The Trinity Lavra of St. Sergius at Sergiev Posad is UNESCO's Russian Orthodox spiritual heart — a stavropegial lavra that still hosts pilgrimage and liturgy, not a blue onion Instagram only stop.",
+        "Frame the visit as St Sergius of Radonezh + Russian Orthodox spiritual centre honesty. Shoulders and knees covered in churches; head covering for women customary; silence during services; no flash toward iconostasis / relics.",
+        "Official tickets: grounds and church pilgrimage entry commonly free; museum / Treasures and Relics / treasury products paid via museum-sp.ru / sp-mz.ru and lavra.ru guidance; guided Pilgrimage Centre tours separate when offered (lavra.ru/excursions). Do not invent RUB; do not sell skip-the-line into the shrine myth.",
+        "Lavra grounds commonly early morning–evening class (~05:00–21:00 published class) — verify lavra.ru. Active liturgy schedule; museum / treasury shorter hours (often Wed–Sun patterns on museum-sp.ru / sp-mz.ru). Feast of St Sergius = expect crush.",
+        "Soft blockers: museum vs free courtyard confusion; liturgy vs tourist route; Russia travel / visa honesty without fearmongering; Kyiv Pechersk stays parked; Athos stays deferred (Rila/Lavra are not an Athos permit substitute). SanctaWay is informational — it does not sell tickets or grant access."
+      ],
+      "highlights": [
+        "UNESCO Russian Orthodox stavropegial lavra",
+        "Grounds / churches commonly free; museums paid",
+        "lavra.ru / museum-sp.ru / sp-mz.ru — do not invent RUB",
+        "Liturgy closures + feast-day crush",
+        "Russia visa soft honesty; Athos stays deferred"
+      ]
+    },
+    "visit": {
+      "intro": "Free lavra pilgrimage — museums paid; Russia travel soft honesty.",
+      "hours": "Grounds commonly early morning–evening class (~05:00–21:00 published class) — verify lavra.ru. Museums / treasury shorter (often Wed–Sun on museum-sp.ru / sp-mz.ru). Feast of St Sergius = crush.",
+      "tickets": "Grounds / church pilgrimage commonly free; museum / Treasures and Relics / treasury paid via museum-sp.ru / sp-mz.ru; Pilgrimage Centre tours via lavra.ru/excursions when offered. Do not invent RUB; no skip-the-line into the shrine myth.",
+      "dress": "Active stavropegial lavra — shoulders/knees covered in churches; head covering for women customary; silence during services; no flash toward iconostasis / relics.",
+      "duration": "3–5 hours for Moscow day-trip rail + lavra circuit; add museum time; feast days need more buffer.",
+      "access": "Moscow Yaroslavsky to Sergiev Posad rail (~1–1.5 h) + walk / local bus to Lavra walls. Day-trip mega from Moscow. Confirm current Russia travel / visa rules before you plan.",
+      "tips": [
+        "Check lavra.ru for grounds hours and liturgy notices.",
+        "Museums paid via museum-sp.ru / sp-mz.ru — grounds free is not treasury.",
+        "Do not invent RUB or shrine skip-the-line tickets.",
+        "Dress for church — shoulders/knees; women cover heads.",
+        "Silence and no flash during services / at relics.",
+        "Russia visa / travel soft honesty — verify without fearmongering.",
+        "Athos stays deferred — Lavra does not substitute Athos permits."
+      ],
+      "entryType": "free",
+      "ticketsUrl": "https://www.lavra.ru/",
+      "ticketsLabel": "Lavra.ru / museum-sp.ru — Trinity Sergius (free grounds; paid museums)",
+      "ticketsNote": "Grounds/churches free; museums paid; do not invent RUB; Russia travel soft honesty."
+    },
+    "etiquette": {
+      "intro": "Living Russian Orthodox lavra — silence in churches.",
+      "bullets": [
+        "Shoulders and knees covered in churches; women head covering customary.",
+        "Silence during services; no flash toward iconostasis / relics.",
+        "Museum tickets are separate from free courtyard access.",
+        "Threshold Atlas tone: St Sergius of Radonezh + Russian Orthodox spiritual centre."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach the Lavra from Moscow.",
+      "paragraphs": [
+        "From Moscow Yaroslavsky station, take the rail to Sergiev Posad (~1–1.5 hours), then walk or take a local bus to the Lavra walls. It is a classic Moscow day-trip mega.",
+        "Courtyard and church pilgrimage entry are commonly free. Buy museum or treasury tickets only if you want those products via museum-sp.ru / sp-mz.ru — do not invent a paid shrine skip-the-line.",
+        "Confirm current Russia travel and visa conditions before you plan. Liturgy can close tourist routes through churches temporarily — follow posted guidance rather than inventing open-altar access."
+      ],
+      "bullets": [
+        "Moscow Yaroslavsky to Sergiev Posad rail",
+        "Walk / local bus to Lavra walls",
+        "Grounds free; museums on museum-sp.ru / sp-mz.ru",
+        "Russia travel / visa soft honesty"
+      ]
+    },
+    "bestTime": {
+      "intro": "Early weekday grounds; feast of St Sergius means crush.",
+      "paragraphs": [
+        "Early weekdays usually mean quieter courtyards and easier church entry between liturgies. Museum hours are often shorter and may skip Mondays/Tuesdays — verify museum-sp.ru / sp-mz.ru.",
+        "Feast of St Sergius brings national pilgrimage crush — expect fuller trains and longer queues rather than inventing a quiet feast-day visit."
+      ],
+      "bullets": [
+        "Best: early weekday morning",
+        "Verify museum Wed–Sun class hours",
+        "Feast of St Sergius: crush honesty",
+        "Do not invent fixed RUB ticket tables"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm hours on lavra.ru and museum tiers on museum-sp.ru / sp-mz.ru — do not invent RUB.",
+        "Grounds/churches free is not museums; liturgy vs tourist route honesty.",
+        "Russia travel / visa soft blocker; Kyiv Pechersk parked; Athos stays deferred.",
         "SanctaWay is informational; it does not sell tickets or grant access.",
         "Hero image is an Unsplash placeholder pending visual / Commons pass."
       ]

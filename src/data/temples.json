@@ -17502,8 +17502,8 @@
       "body": [
         "Olympia is the Panhellenic sanctuary of Zeus and the origin landscape of the Olympic Games — stadium, temple ruins, Philippeion class monuments, and the adjacent Archaeological Museum — still distinct from live Acropolis and Delphi, and not a Gothic cathedral clone.",
         "Frame the visit as Zeus sanctuary + Olympic truce / Games origin honesty. Modest practical dress; no climbing temple stylobates or entering roped cellas; follow museum photo rules.",
-        "Official tickets: Hellenic MoC e-tickets — odysseus.culture.gr / ticket.tap.gr class portals. Combined site+museum products are common — verify official culture/ticket portals — do not invent EUR. Prefer state portals over scalpers.",
-        "Greek MoC seasonal hours (summer longer / winter shorter) — verify odysseus.culture.gr. Morning before tour buses from Katakolo cruises is usually the calmest class.",
+        "Official tickets: Hellenic MoC / ODAP e-tickets. odysseus.culture.gr does not complete TLS (curl 35) and ticket.tap.gr does not resolve from our checks — verify MoC / ODAP e-ticket portals when they load. Combined site+museum products are common — do not invent EUR. Prefer state portals over scalpers. Visit Greece is official visitor info, not a fare table.",
+        "Greek MoC seasonal hours (summer longer / winter shorter) — verify MoC / ODAP e-ticket portals when they load. Morning before tour buses from Katakolo cruises is usually the calmest class.",
         "Soft blockers: Peloponnese transfer time; cruise-day crush; do not invent combo with Delphi / Acropolis as one ticket; Europe denseness — page earns ancient-greek Panhellenic difference. SanctaWay is informational — it does not sell tickets or grant access."
       ],
       "highlights": [
@@ -17516,8 +17516,8 @@
     },
     "visit": {
       "intro": "Greek MoC sanctuary — site+museum products; no invent EUR.",
-      "hours": "MoC seasonal hours (summer longer / winter shorter) — verify odysseus.culture.gr / ticket.tap.gr class portals. Morning before cruise buses.",
-      "tickets": "Hellenic MoC e-tickets — odysseus.culture.gr / ticket.tap.gr class. Combined site+museum products common — verify official portals — do not invent EUR. Prefer state portals over scalpers. Do not invent combo with Delphi / Acropolis.",
+      "hours": "MoC seasonal hours (summer longer / winter shorter) — verify MoC / ODAP e-ticket portals when they load. Morning before cruise buses.",
+      "tickets": "Hellenic MoC / ODAP e-tickets — verify state portals when they load. odysseus.culture.gr does not complete TLS (curl 35); ticket.tap.gr does not resolve from our checks, so neither is the clickable CTA. Combined site+museum products common — do not invent EUR. Prefer state portals over scalpers. Visit Greece is official visitor info, not a fare table. Do not invent combo with Delphi / Acropolis.",
       "dress": "Archaeological Panhellenic sanctuary — modest practical dress; no climbing stylobates / entering roped cellas; museum photo rules as posted.",
       "duration": "2–3 hours site + museum; plan transfer time from Athens or Katakolo.",
       "access": "Athens → Olympia coach / train+bus / rental (~3.5–4.5 h class) or cruise Katakolo day-trip; site + Archaeological Museum adjacent.",
@@ -17531,9 +17531,9 @@
         "Prefer state portals over scalper “Olympia skip-the-line.”"
       ],
       "entryType": "paid",
-      "ticketsUrl": "https://odysseus.culture.gr/",
-      "ticketsLabel": "Hellenic MoC / ODAP — Olympia site & museum (odysseus.culture.gr; verify ticket.tap.gr)",
-      "ticketsNote": "MoC e-tickets; site+museum products vary; do not invent EUR."
+      "ticketsUrl": "https://www.visitgreece.gr/en/mainland/peloponnese/ancient-olympia",
+      "ticketsLabel": "Visit Greece — Ancient Olympia",
+      "ticketsNote": "odysseus.culture.gr does not complete TLS (curl 35); ticket.tap.gr does not resolve. Verify MoC / ODAP e-ticket portals when they load. Visit Greece is official visitor info, not a fare table — do not invent EUR. Prefer state portals over scalpers."
     },
     "etiquette": {
       "intro": "Panhellenic archaeological sanctuary — no climbing stylobates.",
@@ -17548,7 +17548,7 @@
       "intro": "How visitors usually reach Olympia in the western Peloponnese.",
       "paragraphs": [
         "From Athens expect roughly 3.5–4.5 hours by coach, train+bus, or rental car into Elis. Cruise passengers often arrive from Katakolo — that day-trip pattern drives midday crush.",
-        "Buy Hellenic MoC e-tickets via odysseus.culture.gr / ticket.tap.gr class portals. Confirm whether your product covers the archaeological site, the museum, or both — do not invent EUR.",
+        "Hellenic MoC / ODAP e-tickets: verify state portals when they load. odysseus.culture.gr does not complete TLS and ticket.tap.gr does not resolve, so they are not the clickable CTA. Confirm whether your product covers the archaeological site, the museum, or both — do not invent EUR. Prefer state portals over scalpers.",
         "Delphi and the Acropolis are separate MoC tickets and separate travel days. Do not invent one Hellenic sacred pass covering all three."
       ],
       "bullets": [
@@ -17561,7 +17561,7 @@
     "bestTime": {
       "intro": "Morning before cruise buses; verify seasonal MoC hours.",
       "paragraphs": [
-        "Morning usually beats the Katakolo coach wave. Summer hours run longer than winter — verify odysseus.culture.gr rather than inventing EUR windows.",
+        "Morning usually beats the Katakolo coach wave. Summer hours run longer than winter — verify MoC / ODAP e-ticket portals when they load rather than inventing EUR windows.",
         "Midday heat on open sanctuary ground is a soft blocker in high summer — water and shade matter."
       ],
       "bullets": [
@@ -17574,7 +17574,7 @@
     "notes": {
       "intro": "Notes · Verify before visit",
       "bullets": [
-        "Confirm MoC site+museum products on odysseus.culture.gr / ticket.tap.gr — do not invent EUR.",
+        "Confirm MoC site+museum products on MoC / ODAP e-ticket portals when they load — do not invent EUR. odysseus.culture.gr does not complete TLS (curl 35); ticket.tap.gr does not resolve. Visit Greece is official visitor info, not a fare table.",
         "Delphi and Acropolis are separate tickets — do not merge.",
         "Cruise-day crush and Peloponnese transfer time are soft blockers.",
         "SanctaWay is informational; it does not sell tickets or grant access.",

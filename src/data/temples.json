@@ -1404,7 +1404,7 @@
     "related": [
       "milan-duomo",
       "st-peters",
-      "hallgrimskirkja"
+      "koekelberg"
     ],
     "overview": {
       "body": [
@@ -3002,7 +3002,7 @@
     "related": [
       "hassan-ii-mosque",
       "hagia-sophia",
-      "gazi-husrev-beg-mosque"
+      "ethem-bey-mosque"
     ],
     "overview": {
       "body": [
@@ -4843,7 +4843,7 @@
     "related": [
       "blue-mosque",
       "hagia-sophia",
-      "al-fateh-mosque"
+      "larabanga-mosque"
     ],
     "overview": {
       "body": [
@@ -7812,7 +7812,7 @@
     "related": [
       "hassan-ii-mosque",
       "mezquita-cordoba",
-      "al-azhar"
+      "larabanga-mosque"
     ],
     "overview": {
       "body": [
@@ -14897,7 +14897,7 @@
     "related": [
       "imam-mosque-isfahan",
       "blue-mosque",
-      "bibi-heybat-mosque"
+      "sulaiman-too"
     ],
     "overview": {
       "body": [
@@ -15347,7 +15347,7 @@
     "related": [
       "cologne-cathedral",
       "notre-dame",
-      "nidaros-cathedral"
+      "roskilde-cathedral"
     ],
     "overview": {
       "body": [
@@ -18513,7 +18513,7 @@
     "related": [
       "st-peters",
       "aparecida",
-      "namugongo"
+      "koekelberg"
     ],
     "overview": {
       "body": [
@@ -24033,7 +24033,7 @@
     "related": [
       "guadalupe",
       "aparecida",
-      "hill-of-crosses"
+      "basilica-cerrito"
     ],
     "overview": {
       "body": [
@@ -24145,7 +24145,7 @@
     "related": [
       "aparecida",
       "lujan",
-      "hill-of-crosses"
+      "basilica-cerrito"
     ],
     "overview": {
       "body": [
@@ -24368,7 +24368,7 @@
     "related": [
       "registan",
       "faisal-mosque",
-      "bibi-heybat-mosque"
+      "sulaiman-too"
     ],
     "overview": {
       "body": [
@@ -24704,7 +24704,7 @@
     "related": [
       "sagrada-familia",
       "mont-saint-michel",
-      "hallgrimskirkja"
+      "riga-dome"
     ],
     "overview": {
       "body": [
@@ -25040,7 +25040,7 @@
     "related": [
       "sagrada-familia",
       "guadalupe",
-      "aparecida"
+      "santiago-cathedral-chile"
     ],
     "overview": {
       "body": [
@@ -25152,7 +25152,7 @@
     "related": [
       "basilica-voto-nacional",
       "cartago-basilica",
-      "guadalupe"
+      "santiago-cathedral-chile"
     ],
     "overview": {
       "body": [
@@ -25376,7 +25376,7 @@
     "related": [
       "aachen-cathedral",
       "santiago-de-compostela",
-      "mont-saint-michel"
+      "roskilde-cathedral"
     ],
     "overview": {
       "body": [
@@ -25600,7 +25600,7 @@
     "related": [
       "temppeliaukio",
       "sagrada-familia",
-      "nidaros-cathedral"
+      "riga-dome"
     ],
     "overview": {
       "body": [
@@ -26160,7 +26160,7 @@
     "related": [
       "blue-mosque",
       "suleymaniye-mosque",
-      "hala-sultan-tekke"
+      "ethem-bey-mosque"
     ],
     "overview": {
       "body": [
@@ -26241,6 +26241,902 @@
         "Opens Bosnia and Herzegovina — Gazi Husrev-beg / Begova džamija.",
         "Honest NO_CTA for mosque — ghb.ba tips only; do not invent BAM.",
         "Soft blockers: prayer-time; museum≠mosque ticket; Istanbul densify parked.",
+        "SanctaWay does not sell tickets, invent visa myths, or grant access."
+      ]
+    }
+  },
+  {
+    "id": "koekelberg",
+    "name": "National Basilica of the Sacred Heart / Koekelberg, Brussels",
+    "shortName": "Koekelberg Basilica",
+    "location": "Parvis de la Basilique 1, 1083 Ganshoren / Koekelberg, Brussels, Belgium",
+    "country": "Belgium",
+    "region": "Europe",
+    "regionSlug": "europe",
+    "religions": [
+      "Christian"
+    ],
+    "religionSlugs": [
+      "christian"
+    ],
+    "summary": "Belgium’s Art Deco national basilica on Koekelberg hill (opens Belgium). Soft CTA basilicakoekelberg.be (+ guided-tours EN) — panorama / museum / nave; billetterie TLS soft — do not use. Do not invent EUR. No Brussels church one-pass myth.",
+    "heroImage": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Foundation stone 1905; major Art Deco construction through mid-20th c.; consecrated as national basilica of the Sacred Heart",
+      "patron": "Christian — Catholic National Basilica of the Sacred Heart (Koekelberg)",
+      "unesco": "Not a World Heritage property; Belgian national landmark / monumental Art Deco basilica",
+      "typicalVisit": "1.5–2.5 hours nave + panorama / museum products when open"
+    },
+    "related": [
+      "sagrada-familia",
+      "basilica-yamoussoukro",
+      "mont-saint-michel"
+    ],
+    "overview": {
+      "body": [
+        "Koekelberg opens Belgium on SanctaWay as the National Basilica of the Sacred Heart — a monumental Art Deco national basilica on the Koekelberg hill above Brussels, with panorama terrace, museums, and nave visit products — not a free Instagram dome-only stop and not one pass covering every Brussels church.",
+        "Frame Soft CTA honesty: use the official site https://www.basilicakoekelberg.be/ (curl-verified 200 + TLS) and the guided-tours EN page. Gallery / museums / panorama entrance classes are cited on the official guided-tours page. Do not invent EUR. Prefer the official site over OTA markups.",
+        "Soft blocker: billetterie.basilicakoekelberg.be failed TLS this pass — do not link the broken shop until it clears 200 + TLS. Panorama and gallery access can close for liturgy, events, or maintenance — verify the week calendar on the official site before you climb.",
+        "Gateway: Brussels metro / tram toward Simonis / Elisabeth, then the walk up Koekelberg hill. Pair Atomium / Basilix tourism without inventing one sacred combo ticket for all Brussels churches.",
+        "Soft blockers to restate: panorama closures; climb / accessibility; group-guide booking via official form; Art Deco / national-basilica honesty ahead of “Brussels Instagram dome only.” SanctaWay is informational — it does not sell tickets, invent fares, or grant access."
+      ],
+      "highlights": [
+        "Opens Belgium — Art Deco national basilica on Koekelberg hill",
+        "Soft CTA basilicakoekelberg.be (+ guided-tours) — do not invent EUR",
+        "Billetterie TLS soft — do not use broken shop",
+        "Panorama / museum / nave products when published open",
+        "No Brussels church one-pass myth"
+      ]
+    },
+    "visit": {
+      "intro": "Soft official basilica site — panorama / museum / nave; verify EUR and week calendar; billetterie TLS soft — do not use.",
+      "hours": "Verify https://www.basilicakoekelberg.be/ (and ?lang=en) before travel (200 + TLS). Working national basilica — liturgy and events reshape gallery / panorama access; plan-time notices can close the panorama on specific dates. Do not treat blog hours as final.",
+      "tickets": "Gallery / museums / panorama entrance cited on official guided-tours page (EUR classes on https://www.basilicakoekelberg.be/guided-tours/?lang=en — 200 + TLS). Soft CTA: https://www.basilicakoekelberg.be/. Do not invent EUR. Do NOT use billetterie.basilicakoekelberg.be until TLS clears. Prefer official site over OTAs. Not one ticket with every Brussels church.",
+      "dress": "Active Catholic national basilica — modest dress; quiet in the nave; photography rules as posted; Art Deco / panorama honesty ahead of Instagram-only framing.",
+      "duration": "1.5–2.5 hours nave + panorama / museum when open; longer with guided tour.",
+      "access": "Metro / tram to Simonis / Elisabeth + walk up Koekelberg hill. Climb and accessibility matter for panorama. Group-guide booking via official form. Liturgy / event closures reshape gallery windows.",
+      "tips": [
+        "Use basilicakoekelberg.be Soft CTA — do not invent EUR from OTAs.",
+        "Skip billetterie.basilicakoekelberg.be while TLS fails.",
+        "Check week calendar for panorama / gallery closures before you climb.",
+        "Modest dress and quiet in the nave; follow posted photo rules.",
+        "Pair Atomium tourism separately — no Brussels church one-pass.",
+        "Book group guides via the official form, not scalpers.",
+        "SanctaWay does not sell tickets or grant access."
+      ],
+      "entryType": "soft-official",
+      "ticketsUrl": "https://www.basilicakoekelberg.be/",
+      "ticketsLabel": "Koekelberg Soft official basilica site — panorama / museum / guided tours (verify EUR; billetterie TLS soft — do not use; do not invent fares)",
+      "ticketsNote": "Soft CTA 200+TLS0; guided-tours EN OK; billetterie TLS fail — do not use; panorama closures; no Brussels one-pass; do not invent EUR."
+    },
+    "etiquette": {
+      "intro": "Living national basilica — nave and liturgy respect.",
+      "bullets": [
+        "Quiet in the nave; yield space during services and events.",
+        "Modest dress; follow posted photography rules on panorama and galleries.",
+        "Do not invent free panorama access outside published windows.",
+        "Threshold Atlas tone: Belgium #1 Art Deco national basilica — not dome Instagram-only tourism."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Koekelberg Basilica in Brussels.",
+      "paragraphs": [
+        "Most visitors ride Brussels metro or tram toward Simonis / Elisabeth, then walk up the Koekelberg hill to the basilica parvis.",
+        "The site is a national monument precinct — treat surrounding parish churches and Atomium tourism as separate stops, not a single sacred combo ticket.",
+        "Accessibility and climb effort matter for panorama visitors — plan time and confirm gallery open status before ascending."
+      ],
+      "bullets": [
+        "Metro / tram Simonis–Elisabeth + hill walk",
+        "Panorama / museum optional separate products",
+        "No Brussels church one-pass myth",
+        "Verify week calendar before climb"
+      ]
+    },
+    "bestTime": {
+      "intro": "Clear-weather weekdays for panorama; always verify liturgy and event closures.",
+      "paragraphs": [
+        "Weekday mornings often give calmer nave and panorama windows — still verify the official calendar for gallery closures.",
+        "Feast and event days can reshape access; treat Soft CTA hours as orientation and re-check the day you go."
+      ],
+      "bullets": [
+        "Best: clear weekday for panorama + nave",
+        "Watch liturgy / event closures",
+        "Billetterie soft — stick to official site",
+        "Do not invent EUR / Brussels combo"
+      ]
+    },
+    "notes": {
+      "intro": "SanctaWay Threshold Atlas notes — Belgium #1 Art Deco national basilica.",
+      "bullets": [
+        "Opens Belgium — Koekelberg as national Sacred Heart basilica.",
+        "Soft CTA basilicakoekelberg.be — do not invent EUR; billetterie TLS soft.",
+        "Soft blockers: panorama closures; climb/accessibility; no Brussels densify one-pass.",
+        "SanctaWay does not sell tickets, invent visa myths, or grant access."
+      ]
+    }
+  },
+  {
+    "id": "roskilde-cathedral",
+    "name": "Roskilde Cathedral / Roskilde Domkirke, Denmark",
+    "shortName": "Roskilde Cathedral",
+    "location": "Domkirkepladsen 3, 4000 Roskilde, Denmark",
+    "country": "Denmark",
+    "region": "Europe",
+    "regionSlug": "europe",
+    "religions": [
+      "Christian"
+    ],
+    "religionSlugs": [
+      "christian"
+    ],
+    "summary": "Denmark’s UNESCO World Heritage royal burial cathedral in Roskilde (opens Denmark). Soft CTA roskildedomkirke.dk/besoeg — published DKK entrée; EN paths flaky — DK is source of truth. Do not invent DKK. Not +Grundtvig same batch.",
+    "heroImage": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Episcopal seat from the 12th c.; brick Gothic cathedral fabric with successive royal burial chapels; UNESCO World Heritage",
+      "patron": "Christian — Lutheran cathedral of Roskilde; royal burial church of Denmark",
+      "unesco": "UNESCO World Heritage — Roskilde Cathedral",
+      "typicalVisit": "1.5–2.5 hours nave + royal chapels / museum / gallery products when open"
+    },
+    "related": [
+      "nidaros-cathedral",
+      "aachen-cathedral",
+      "westminster-abbey"
+    ],
+    "overview": {
+      "body": [
+        "Roskilde Cathedral opens Denmark on SanctaWay as the UNESCO World Heritage royal burial cathedral west of Copenhagen — ticketed visitor products for royal graves, chapels, museum, and gallery — not a free Instagram brick facade and not one pass covering every Zealand church. Grundtvig stays parked (one Denmark only).",
+        "Frame Soft CTA honesty: use https://roskildedomkirke.dk/besoeg (curl-verified 200 + TLS). The official visit hub publishes entrée classes for royal graves / chapels / museum / gallery. Do not invent DKK. Prefer the official site over OTA markups.",
+        "Hours are published on roskildedomkirke.dk/info/aabningstider and the /besoeg hub (200 + TLS). Liturgy, concerts, and royal events reshape crypt/chapel access — verify at travel time. EN /en paths were flaky/CF this pass — treat Danish official pages as source of truth until EN stabilises.",
+        "Gateway: S-train from Copenhagen to Roskilde (~25–30 min class) + walk to Domkirkepladsen. Pair Viking Ship Museum tourism without inventing one free pass covering all Zealand churches.",
+        "Soft blockers: service and concert closures; EN path instability; royal-event reshaping; no Grundtvig densify. SanctaWay is informational — it does not sell tickets, invent fares, or grant access."
+      ],
+      "highlights": [
+        "Opens Denmark — UNESCO royal burial cathedral",
+        "Soft CTA roskildedomkirke.dk/besoeg — do not invent DKK",
+        "EN paths flaky — DK official is source of truth",
+        "S-train from Copenhagen + walk",
+        "Grundtvig parked — one Denmark only"
+      ]
+    },
+    "visit": {
+      "intro": "Soft official visit hub — published DKK entrée for royal graves / chapels / museum; verify hours; EN flaky.",
+      "hours": "Verify https://roskildedomkirke.dk/besoeg and https://roskildedomkirke.dk/info/aabningstider before travel (200 + TLS). Liturgy, concerts, and royal events reshape crypt/chapel access. EN /en paths can be flaky — prefer DK pages as source of truth.",
+      "tickets": "Official /besoeg publishes entrée for royal graves / chapels / museum / gallery (DKK adult / senior / student / free under-18 classes cited on official page). Soft CTA https://roskildedomkirke.dk/besoeg (200 + TLS). Do not invent DKK. Prefer official site over OTAs. Copenhagen Card note is official-card class only — do not invent third-party skip lines. Not one ticket with every Zealand church.",
+      "dress": "Active Lutheran cathedral + UNESCO royal burial church — quiet in chapels; no flash on tombs; photography rules as posted.",
+      "duration": "1.5–2.5 hours nave + royal chapels; longer with museum / gallery products.",
+      "access": "S-train Copenhagen–Roskilde + walk to Domkirkepladsen. Service and concert closures apply. Pair Viking Ship Museum as separate tourism — not a sacred combo pass.",
+      "tips": [
+        "Use roskildedomkirke.dk/besoeg Soft CTA — do not invent DKK.",
+        "Prefer DK opening-hours pages if EN paths flake.",
+        "Quiet in royal chapels; no flash on tombs.",
+        "Watch liturgy / concert / royal-event closures.",
+        "Pair Viking Ship Museum separately — no Zealand church one-pass.",
+        "Grundtvig is not this page — one Denmark only.",
+        "SanctaWay does not sell tickets or grant access."
+      ],
+      "entryType": "soft-official",
+      "ticketsUrl": "https://roskildedomkirke.dk/besoeg",
+      "ticketsLabel": "Roskilde Domkirke Soft official visit hub — royal graves / chapels / museum (verify DKK; EN flaky — DK source of truth; do not invent fares)",
+      "ticketsNote": "Soft CTA 200+TLS0; published DKK entrée; EN flaky; liturgy/concert closures; no Grundtvig densify; do not invent DKK."
+    },
+    "etiquette": {
+      "intro": "Living UNESCO royal burial cathedral — chapel and tomb respect.",
+      "bullets": [
+        "Quiet in chapels; yield space during services and concerts.",
+        "No flash photography on tombs; follow posted rules.",
+        "Do not invent free crypt access outside published ticket classes.",
+        "Threshold Atlas tone: Denmark #1 UNESCO royal cathedral — not brick Instagram-only tourism."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Roskilde Cathedral from Copenhagen.",
+      "paragraphs": [
+        "Most visitors take the S-train from Copenhagen to Roskilde (~25–30 minutes class), then walk from the station to Domkirkepladsen.",
+        "The cathedral sits in the historic centre — treat the Viking Ship Museum and surrounding parish churches as separate stops, not a single sacred combo ticket.",
+        "If you hold an official city card that lists Roskilde products, verify the card’s own terms — do not invent third-party skip-the-line myths."
+      ],
+      "bullets": [
+        "S-train Copenhagen → Roskilde + walk",
+        "Viking Ship Museum optional separate",
+        "No Zealand church one-pass myth",
+        "Verify official card terms if using one"
+      ]
+    },
+    "bestTime": {
+      "intro": "Shoulder weekdays for quieter chapels; summer longer daylight — still verify liturgy calendars.",
+      "paragraphs": [
+        "Weekday mornings often give calmer royal-chapel windows — still verify /besoeg and opening-hours pages the day you go.",
+        "Concert and royal-event days reshape crypt access; treat Soft CTA hours as orientation."
+      ],
+      "bullets": [
+        "Best: weekday for chapels + nave",
+        "Watch liturgy / concert / royal events",
+        "EN flaky — use DK official",
+        "Do not invent DKK / Zealand combo"
+      ]
+    },
+    "notes": {
+      "intro": "SanctaWay Threshold Atlas notes — Denmark #1 UNESCO royal burial cathedral.",
+      "bullets": [
+        "Opens Denmark — Roskilde Domkirke as UNESCO World Heritage royal burial cathedral.",
+        "Soft CTA roskildedomkirke.dk/besoeg — do not invent DKK; EN flaky.",
+        "Soft blockers: liturgy/concert closures; no Grundtvig densify (one Denmark only).",
+        "SanctaWay does not sell tickets, invent visa myths, or grant access."
+      ]
+    }
+  },
+  {
+    "id": "riga-dome",
+    "name": "Riga Cathedral / Rīgas Doms, Latvia",
+    "shortName": "Riga Cathedral",
+    "location": "Doma laukums 1, Centra rajons, Riga, Latvia",
+    "country": "Latvia",
+    "region": "Europe",
+    "regionSlug": "europe",
+    "religions": [
+      "Christian"
+    ],
+    "religionSlugs": [
+      "christian"
+    ],
+    "summary": "Latvia’s largest medieval church in Riga Old Town — famous Walcker organ + balcony/tower products (opens Latvia). Soft CTA doms.lv Visitor Information — published EUR admission; organ balcony / tower / concerts are separate. Do not invent EUR. Lund/Uppsala parked.",
+    "heroImage": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Founded 1211; brick medieval cathedral fabric with later rebuilds; seat of the Lutheran archbishop; famed Walcker organ",
+      "patron": "Christian — Lutheran Cathedral of Riga (Rīgas Doms); archbishop’s seat",
+      "unesco": "Within Riga Historic Centre World Heritage context; cathedral itself is the Baltic region’s largest medieval church landmark",
+      "typicalVisit": "1–2 hours nave; longer with organ balcony / tower booked products"
+    },
+    "related": [
+      "nidaros-cathedral",
+      "hallgrimskirkja",
+      "temppeliaukio"
+    ],
+    "overview": {
+      "body": [
+        "Riga Dome opens Latvia on SanctaWay as the largest medieval church in the Baltics — Rīgas Doms on Doma laukums in Old Town — with published admission plus separate organ-balcony and tower products — not a free Instagram square facade and not one pass covering every Riga church. Sweden Lund/Uppsala stay parked.",
+        "Frame Soft CTA honesty: use official Visitor Information https://www.doms.lv/en/pages/47 (curl-verified 200 + TLS). Admission fee classes (EUR adult / youth / under-10 free) are published there. Do not invent EUR. Prefer the official page over OTA markups.",
+        "Organ balcony and tower require pre-booking per official pages — label them clearly as separate products. Do not merge concert tickets (e.g. bilesuserviss.lv) as cathedral entry. Worship reshapes nave access — verify week hours on the official visitor page.",
+        "Gateway: walk Riga Old Town to Doma laukums; airport bus / train as city gateway. Pair Old Town tourism without inventing one ticket covering all Riga churches.",
+        "Soft blockers: concert setup; balcony booking lead time; worship windows. SanctaWay is informational — it does not sell tickets, invent fares, or grant access."
+      ],
+      "highlights": [
+        "Opens Latvia — Baltic medieval cathedral + Walcker organ",
+        "Soft CTA doms.lv Visitor Information — do not invent EUR",
+        "Organ balcony / tower are separate booked products",
+        "Do not merge concert tickets as entry",
+        "Lund/Uppsala parked — new-country open not Sweden densify"
+      ]
+    },
+    "visit": {
+      "intro": "Soft official Visitor Information — published EUR admission; balcony/tower separate; verify worship hours.",
+      "hours": "Verify https://www.doms.lv/en/pages/47 before travel (200 + TLS). Official Visitor Information lists Mon–Sat / Sunday windows; worship reshapes nave. Concert setup can close or reshape access — treat blog hours as non-final.",
+      "tickets": "Admission fee published on Visitor Information (EUR adult / youth / under-10 free). Soft CTA https://www.doms.lv/en/pages/47 (200 + TLS). Organ balcony + tower require pre-booking per official pages — label clearly; do not merge concert tickets as cathedral entry. Do not invent EUR. Prefer official site over OTAs.",
+      "dress": "Active Lutheran archbishop’s seat — quiet; no wander during worship; photography rules as posted; organ-balcony / tower etiquette as booked.",
+      "duration": "1–2 hours nave; longer with pre-booked organ balcony or tower.",
+      "access": "Walk Old Town to Doma laukums. Airport bus / train gateway. Balcony booking lead time matters. Concert setup can reshape nave plans.",
+      "tips": [
+        "Use doms.lv/en/pages/47 Soft CTA — do not invent EUR.",
+        "Pre-book organ balcony / tower — they are not free walk-ups.",
+        "Do not treat concert tickets as cathedral entry.",
+        "Quiet during worship; follow posted photo rules.",
+        "Pair Old Town stops separately — no Riga church one-pass.",
+        "Check Visitor Information hours the day you go.",
+        "SanctaWay does not sell tickets or grant access."
+      ],
+      "entryType": "soft-official",
+      "ticketsUrl": "https://www.doms.lv/en/pages/47",
+      "ticketsLabel": "Rīgas Doms Soft official Visitor Information — admission / balcony / tower orientation (verify EUR; concerts separate; do not invent fares)",
+      "ticketsNote": "Soft CTA 200+TLS0; published EUR; balcony/tower pre-book; do not merge concerts as entry; no Sweden densify; do not invent EUR."
+    },
+    "etiquette": {
+      "intro": "Living archbishop’s cathedral — nave and organ respect.",
+      "bullets": [
+        "Quiet in the nave; no wander during worship.",
+        "Follow balcony / tower staff instructions when booked.",
+        "Do not invent free tower access outside booked products.",
+        "Threshold Atlas tone: Latvia #1 Baltic medieval + organ — not square Instagram-only tourism."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Riga Cathedral in Old Town.",
+      "paragraphs": [
+        "Most visitors walk Riga Old Town to Doma laukums after arriving by airport bus or train into the city.",
+        "The cathedral sits on the main square — treat surrounding parish churches and museums as separate stops, not a single sacred combo ticket.",
+        "If you want organ balcony or tower access, book ahead on official channels rather than assuming walk-up capacity."
+      ],
+      "bullets": [
+        "Walk Old Town → Doma laukums",
+        "Airport bus / train city gateway",
+        "Balcony / tower pre-book optional",
+        "No Riga church one-pass myth"
+      ]
+    },
+    "bestTime": {
+      "intro": "Weekdays for quieter nave; organ concerts are separate ticketed events — plan around them.",
+      "paragraphs": [
+        "Weekday openings listed on Visitor Information are usually the calmest for nave photography and quiet — still verify worship reshaping.",
+        "Concert days can close or limit tourist access; balcony and tower need lead time — do not invent same-day capacity."
+      ],
+      "bullets": [
+        "Best: weekday Visitor Information windows",
+        "Watch worship / concert setup",
+        "Pre-book balcony / tower",
+        "Do not invent EUR / Riga combo"
+      ]
+    },
+    "notes": {
+      "intro": "SanctaWay Threshold Atlas notes — Latvia #1 Baltic medieval cathedral.",
+      "bullets": [
+        "Opens Latvia — Rīgas Doms as largest Baltic medieval church + organ.",
+        "Soft CTA doms.lv Visitor Information — do not invent EUR; balcony/tower separate.",
+        "Soft blockers: concert setup; booking lead time; Lund/Uppsala parked.",
+        "SanctaWay does not sell tickets, invent visa myths, or grant access."
+      ]
+    }
+  },
+  {
+    "id": "ethem-bey-mosque",
+    "name": "Et'hem Bey Mosque, Tirana",
+    "shortName": "Et'hem Bey Mosque",
+    "location": "Sheshi Skënderbej, Tirana, Albania",
+    "country": "Albania",
+    "region": "Europe",
+    "regionSlug": "europe",
+    "religions": [
+      "Islamic"
+    ],
+    "religionSlugs": [
+      "islamic"
+    ],
+    "summary": "Tirana Skanderbeg Square islamic postcard mosque (opens Albania). Honest NO_CTA — entry generally free when open; dedicated e-ticket TLS soft / tirana.al POI 500 this pass. Informational tirana.al / akt.gov.al only. Do not invent ALL/EUR.",
+    "heroImage": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Late 18th–early 19th c. Ottoman-era mosque on Skanderbeg Square; closed in communist era and reopened as a living mosque / postcard landmark",
+      "patron": "Islamic — Sunni mosque; Tirana’s iconic square mosque associated with Et'hem Bey",
+      "unesco": "Not a separate World Heritage listing; national cultural landmark on Skanderbeg Square",
+      "typicalVisit": "30–60 minutes exterior + hall outside prayer times when open to visitors"
+    },
+    "related": [
+      "gazi-husrev-beg-mosque",
+      "blue-mosque",
+      "hala-sultan-tekke"
+    ],
+    "overview": {
+      "body": [
+        "Et'hem Bey Mosque opens Albania on SanctaWay as Tirana’s Skanderbeg Square islamic postcard mosque — a living Ottoman-era hall beside the square museums — not a ticketed Instagram prop and not one sacred pass covering every Tirana mosque.",
+        "Frame honest NO_CTA: entry is generally free when the mosque is open to visitors. Dedicated mosque e-ticket channels were TLS-soft this pass; tirana.al Et'hem POI returned HTTP 500. Do not invent ALL/EUR. Informational orientation only via city/tourism homes such as tirana.al / akt.gov.al (200 + TLS) — not as fake ticket shops.",
+        "Visit outside the five prayers; tourism sources conflict on exact tourist windows — verify local notice / AKT / Tirana pages at travel time and do not invent a casual timetable.",
+        "Gateway: walk from Tirana centre to Skanderbeg Square; airport / bus as city gateway. Pair square museums without inventing one sacred combo for all Tirana mosques.",
+        "Soft blockers: prayer interruptions; square event closures. SanctaWay is informational — it does not sell tickets, invent fares, or grant access."
+      ],
+      "highlights": [
+        "Opens Albania — Skanderbeg Square islamic postcard mosque",
+        "Honest NO_CTA — generally free when open",
+        "Prayer-time interruptions reshape hall access",
+        "tirana.al POI soft — info homes only",
+        "No Balkans densify / no invent ALL/EUR"
+      ]
+    },
+    "visit": {
+      "intro": "Honest NO_CTA — generally free when open to visitors; verify prayer windows; do not invent ALL/EUR.",
+      "hours": "Working Ottoman-era mosque — visit outside the five prayers. Tourism sources conflict on exact tourist windows — verify local notice / AKT / Tirana pages before you go; do not invent a casual timetable. Square events can reshape access.",
+      "tickets": "Entry generally free when open to visitors → honest NO_CTA (ticketsUrl cleared). Dedicated official e-ticket TLS soft; tirana.al Et'hem POI HTTP 500 this pass. Informational related links only to https://tirana.al/ / https://akt.gov.al/ (200 + TLS) — not ticket CTAs. Do not invent ALL/EUR.",
+      "dress": "Active mosque — covered arms/legs; women hair cover; shoes off; quiet; photography rules as posted; prayer-time interruptions.",
+      "duration": "30–60 minutes exterior + hall when visitor windows allow.",
+      "access": "Walk Skanderbeg Square from Tirana centre. Airport / bus gateway. Prayer times and square events interrupt tourist access. Pair museums as separate stops.",
+      "tips": [
+        "Honest NO_CTA — do not invent ALL/EUR ticket products.",
+        "Visit outside prayer times; yield the hall when worship begins.",
+        "Cover arms/legs; women hair cover; shoes off.",
+        "Ask before photography; follow posted rules.",
+        "Pair square museums separately — no Tirana mosque one-pass.",
+        "Treat tirana.al / akt.gov.al as info only, not e-ticket shops.",
+        "SanctaWay does not sell tickets or grant access."
+      ],
+      "entryType": "free",
+      "ticketsUrl": null,
+      "ticketsLabel": "Et'hem Bey Mosque — honest NO_CTA (generally free when open; tirana.al / akt.gov.al info only — not mosque e-ticket; do not invent ALL/EUR)",
+      "ticketsNote": "Honest NO_CTA; free when open; prayer interruptions; tirana.al POI soft; no invent fares; Albania #1 postcard mosque."
+    },
+    "etiquette": {
+      "intro": "Living mosque on a civic square — prayer and dress respect.",
+      "bullets": [
+        "Shoes off; covered arms/legs; women hair cover.",
+        "Quiet; leave promptly when prayer begins.",
+        "Do not invent paid entry or casual all-day tourist hours.",
+        "Threshold Atlas tone: Albania #1 Tirana postcard mosque — not square selfie-only tourism."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Et'hem Bey Mosque in Tirana.",
+      "paragraphs": [
+        "Most visitors walk to Skanderbeg Square from Tirana’s centre after arriving by air or long-distance bus.",
+        "The mosque sits on the main square — treat the National History Museum and other square landmarks as separate stops, not a single sacred combo ticket.",
+        "Allow buffer for prayer interruptions; do not plan a fixed indoor photo slot without local confirmation."
+      ],
+      "bullets": [
+        "Walk to Skanderbeg Square",
+        "Airport / bus city gateway",
+        "Square museums optional separate",
+        "No Tirana mosque one-pass myth"
+      ]
+    },
+    "bestTime": {
+      "intro": "Between prayers on calmer weekdays; avoid inventing fixed tourist hours.",
+      "paragraphs": [
+        "Mid-morning or mid-afternoon gaps between prayers are often the practical visitor windows — still verify local notice the day you go.",
+        "Square festivals and state events can reshape access; keep plans flexible."
+      ],
+      "bullets": [
+        "Best: between prayers on weekdays",
+        "Watch square event closures",
+        "No invented timetable",
+        "Do not invent ALL/EUR"
+      ]
+    },
+    "notes": {
+      "intro": "SanctaWay Threshold Atlas notes — Albania #1 Tirana postcard mosque.",
+      "bullets": [
+        "Opens Albania — Et'hem Bey as Skanderbeg Square islamic postcard mosque.",
+        "Honest NO_CTA — generally free; do not invent ALL/EUR.",
+        "Soft blockers: prayer interruptions; tirana.al POI soft; no Balkans densify.",
+        "SanctaWay does not sell tickets, invent visa myths, or grant access."
+      ]
+    }
+  },
+  {
+    "id": "santiago-cathedral-chile",
+    "name": "Santiago Metropolitan Cathedral / Catedral Metropolitana de Santiago, Chile",
+    "shortName": "Santiago Cathedral (Chile)",
+    "location": "Plaza de Armas, Santiago Centro, Santiago, Chile",
+    "country": "Chile",
+    "region": "Americas",
+    "regionSlug": "americas",
+    "religions": [
+      "Christian"
+    ],
+    "religionSlugs": [
+      "christian"
+    ],
+    "summary": "Chile’s national cathedral on Plaza de Armas (opens Chile). Soft CTA catedraldesantiago.cl (+ peregrinos_visitantes) — nave free/donation class; audioguía desk. Do not invent CLP. MUST NOT confuse with live santiago-de-compostela (Spain). La Tirana parked.",
+    "heroImage": "https://images.unsplash.com/photo-1439066615861-d1af74d74000?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Colonial cathedral seat on Plaza de Armas with successive rebuilds; present neoclassical fabric largely 18th–19th c.; Chile’s metropolitan / national cathedral",
+      "patron": "Christian — Catholic Metropolitan Cathedral of Santiago de Chile",
+      "unesco": "Not a separate World Heritage listing; national cathedral on Plaza de Armas historic centre",
+      "typicalVisit": "45–90 minutes nave + optional desk audioguía"
+    },
+    "related": [
+      "basilica-voto-nacional",
+      "leon-cathedral-nicaragua",
+      "basilica-higuey"
+    ],
+    "overview": {
+      "body": [
+        "Santiago Metropolitan Cathedral opens Chile on SanctaWay as the national cathedral on Plaza de Armas in Santiago Centro — a living Catholic metropolitan seat with published pilgrim/visitor hours — not Spain’s Santiago de Compostela, not a Camino endpoint, and not one pass covering every Santiago church. Live id santiago-de-compostela remains the Spanish shrine; never merge Compostela tickets or related as the same place.",
+        "Frame Soft CTA honesty: use https://www.catedraldesantiago.cl/ and peregrinos_visitantes.php (curl-verified 200 + TLS). Nave visit is generally free / donation class; cultural audioguía at desk (languages cited on official page). Do not invent CLP. Prefer the official Chilean cathedral site over OTAs.",
+        "Hours are published on the official peregrinos_visitantes page — verify at travel time; Mass reshapes nave access. Plaza protests and civic events adjacent can reshape approach — plan buffer.",
+        "Gateway: Metro Plaza de Armas + walk. Pair Plaza / Museo Histórico without inventing one pass covering all Santiago churches. La Tirana festival Marian stays parked (seasonal soft).",
+        "Soft blockers: liturgy; plaza civic events; Compostela name confusion. SanctaWay is informational — it does not sell tickets, invent fares, or grant access."
+      ],
+      "highlights": [
+        "Opens Chile — national cathedral on Plaza de Armas",
+        "Soft CTA catedraldesantiago.cl — do not invent CLP",
+        "≠ Santiago de Compostela (Spain) — different shrine",
+        "Nave free/donation; audioguía desk Soft",
+        "La Tirana parked — capital cathedral this pass"
+      ]
+    },
+    "visit": {
+      "intro": "Soft official Chilean cathedral site — nave free/donation; audioguía desk; verify hours; ≠ Compostela.",
+      "hours": "Verify https://www.catedraldesantiago.cl/peregrinos_visitantes.php before travel (200 + TLS). Official page publishes weekday / weekend windows; Mass reshapes nave. Do not treat Compostela (Spain) hours as this cathedral.",
+      "tickets": "Nave visit generally free / donation class; cultural audioguía at desk (languages cited on official page). Soft CTA https://www.catedraldesantiago.cl/ (+ peregrinos_visitantes) — 200 + TLS. Do not invent CLP. Do NOT use Spanish Compostela booking URLs (visitas.catedraldesantiago.es) — that is a different shrine in Spain. Prefer Chilean official site over OTAs.",
+      "dress": "Active Catholic national cathedral — modest dress; quiet; heat / altitude honesty for Andean visitors; photography rules as posted.",
+      "duration": "45–90 minutes nave; longer with desk audioguía.",
+      "access": "Metro Plaza de Armas + walk. Liturgy and plaza civic events reshape approach. Pair Museo Histórico as separate tourism — not a sacred combo pass with Compostela or other Santiago churches.",
+      "tips": [
+        "Use catedraldesantiago.cl Soft CTA — do not invent CLP.",
+        "Never book via Spanish Compostela visitas.catedraldesantiago.es for this Chile cathedral.",
+        "Check peregrinos_visitantes hours the day you go — Mass reshapes nave.",
+        "Modest dress; quiet; follow posted photo rules.",
+        "Allow buffer for Plaza de Armas civic events.",
+        "Pair plaza museums separately — no Santiago church one-pass.",
+        "SanctaWay does not sell tickets or grant access."
+      ],
+      "entryType": "soft-official",
+      "ticketsUrl": "https://www.catedraldesantiago.cl/",
+      "ticketsLabel": "Catedral de Santiago (Chile) Soft official site — pilgrim/visitor hours + audioguía desk (verify CLP; ≠ Compostela Spain; do not invent fares)",
+      "ticketsNote": "Soft CTA 200+TLS0; nave free/donation; audioguía desk; MUST ≠ Compostela; liturgy/plaza events; do not invent CLP."
+    },
+    "etiquette": {
+      "intro": "Living national cathedral — liturgy and plaza respect.",
+      "bullets": [
+        "Quiet in the nave; yield space during Mass.",
+        "Modest dress; follow posted photography rules.",
+        "Do not confuse this Chilean cathedral with Compostela pilgrimage rites.",
+        "Threshold Atlas tone: Chile #1 national cathedral — not Camino-Spain merge tourism."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Santiago Metropolitan Cathedral (Chile).",
+      "paragraphs": [
+        "Most visitors ride Metro to Plaza de Armas and walk to the cathedral facade on the plaza.",
+        "This is Santiago de Chile — not Santiago de Compostela in Galicia, Spain. Do not bring Compostela pilgrim-office expectations or Spanish cathedral roof tickets here.",
+        "Treat Museo Histórico Nacional and other plaza landmarks as separate stops, not a single sacred combo ticket."
+      ],
+      "bullets": [
+        "Metro Plaza de Armas + walk",
+        "Chile ≠ Compostela Spain",
+        "Plaza museums optional separate",
+        "No Santiago church one-pass myth"
+      ]
+    },
+    "bestTime": {
+      "intro": "Weekday gaps between Masses; watch plaza civic calendars.",
+      "paragraphs": [
+        "Weekday windows on peregrinos_visitantes are usually the calmest for nave visit — still verify Mass reshaping the day you go.",
+        "Plaza protests and civic events can slow approach; keep plans flexible and do not invent CLP."
+      ],
+      "bullets": [
+        "Best: weekday between Masses",
+        "Watch liturgy / plaza events",
+        "≠ Compostela hours or tickets",
+        "Do not invent CLP"
+      ]
+    },
+    "notes": {
+      "intro": "SanctaWay Threshold Atlas notes — Chile #1 national cathedral (≠ Compostela).",
+      "bullets": [
+        "Opens Chile — Catedral Metropolitana on Plaza de Armas.",
+        "Soft CTA catedraldesantiago.cl — do not invent CLP; never merge Compostela Spain tickets.",
+        "Soft blockers: liturgy; plaza civic events; La Tirana parked.",
+        "SanctaWay does not sell tickets, invent visa myths, or grant access."
+      ]
+    }
+  },
+  {
+    "id": "basilica-cerrito",
+    "name": "Basílica Nacional del Cerrito de la Victoria / Santuario Nacional del Sagrado Corazón, Montevideo",
+    "shortName": "Basílica del Cerrito",
+    "location": "Bruno Méndez ~3880, Cerrito de la Victoria, Montevideo, Uruguay",
+    "country": "Uruguay",
+    "region": "Americas",
+    "regionSlug": "americas",
+    "religions": [
+      "Christian"
+    ],
+    "religionSlugs": [
+      "christian"
+    ],
+    "summary": "Uruguay’s national Sacred Heart / Marian hill basilica on Cerrito de la Victoria (opens Uruguay). Honest NO_CTA — nave free/donation; descubrimontevideo deep-link 404; montevideo.gub.uy TLS/HTTP soft this pass; no ticket product. Do not invent UYU.",
+    "heroImage": "https://images.unsplash.com/photo-1482192505345-5655af888cc4?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "National Sanctuary of the Sacred Heart inaugurated 1919 on Cerrito hill; major fabric through mid-20th c.; national historic monument class",
+      "patron": "Christian — Catholic National Sanctuary of the Sacred Heart (popularly Iglesia / Basílica del Cerrito de la Victoria)",
+      "unesco": "Not a World Heritage property; Uruguayan national historic monument / national sanctuary landmark",
+      "typicalVisit": "45–90 minutes hill approach + nave when open"
+    },
+    "related": [
+      "caacupe",
+      "cartago-basilica",
+      "basilica-higuey"
+    ],
+    "overview": {
+      "body": [
+        "Basílica del Cerrito opens Uruguay on SanctaWay as the national Sacred Heart sanctuary on Cerrito de la Victoria hill in Montevideo — a living Catholic national shrine with free/donation nave access when open — not a ticketed Instagram red facade and not one pass covering Ciudad Vieja cathedral densify.",
+        "Frame honest NO_CTA: nave is generally free / donation. The plan-time city tourism deep-link on descubrimontevideo.uy returned HTTP 404 this write; montevideo.gub.uy tourism page failed HTTPS TLS / returned HTTP 500 on http. Proprietary basilica sites remain TLS-soft. No clean official e-ticket URL cleared 200 + TLS — ticketsUrl cleared. Do not invent UYU.",
+        "Hours conflict across parish / tourism sources — verify parish notice or local tourism desk at travel time; do not invent a fixed casual timetable. Feast-day crush and hill weather reshape visits.",
+        "Gateway: bus / taxi to Cerrito de la Victoria hill (Bruno Méndez). Pair city tourism without inventing one pass covering Ciudad Vieja densify. Panama / El Salvador thin CTA stay parked.",
+        "Soft blockers: TLS-soft official web; feast-day crush; hill wind / weather. SanctaWay is informational — it does not sell tickets, invent fares, or grant access."
+      ],
+      "highlights": [
+        "Opens Uruguay — national Sacred Heart / Cerrito hill sanctuary",
+        "Honest NO_CTA — nave free/donation; no cleared ticket URL",
+        "descubrimontevideo deep-link 404 this pass",
+        "Hill wind / feast crush honesty",
+        "No Ciudad Vieja densify one-pass"
+      ]
+    },
+    "visit": {
+      "intro": "Honest NO_CTA — nave free/donation; no cleared 200+TLS ticket URL; verify parish hours.",
+      "hours": "Working national basilica / sanctuary — Mass and visit windows via parish / archdiocese / city tourism notices. Plan-time city tourism deep-links were soft (404 / TLS fail) — verify hours at write/travel from parish notice; do not invent a fixed timetable.",
+      "tickets": "Nave generally free / donation → honest NO_CTA (ticketsUrl cleared). No official e-ticket product cleared curl -L 200 + TLS this pass (descubrimontevideo deep-link 404; montevideo.gub.uy TLS/HTTP soft; proprietary basilica TLS soft). Do not invent UYU. Prefer re-find a working city tourism URL later rather than inventing a shop.",
+      "dress": "Active Catholic national Marian / Sacred Heart shrine — modest dress; quiet at sanctuary; hill wind / weather honesty.",
+      "duration": "45–90 minutes hill approach + nave when open.",
+      "access": "Bus / taxi to Cerrito de la Victoria (Bruno Méndez). Hill weather and feast-day crush reshape visits. Pair Ciudad Vieja stops separately — not a densify combo.",
+      "tips": [
+        "Honest NO_CTA — do not invent UYU ticket products.",
+        "Verify parish / local notice for hours — city deep-links soft this pass.",
+        "Modest dress; quiet at the sanctuary.",
+        "Allow hill wind / weather buffer.",
+        "Expect feast-day crush; arrive early or off-peak.",
+        "Pair Ciudad Vieja separately — no Montevideo densify one-pass.",
+        "SanctaWay does not sell tickets or grant access."
+      ],
+      "entryType": "free",
+      "ticketsUrl": null,
+      "ticketsLabel": "Basílica del Cerrito — honest NO_CTA (nave free/donation; city tourism deep-link 404 / TLS soft this pass; no ticket product; do not invent UYU)",
+      "ticketsNote": "Honest NO_CTA; free/donation; deep-link 404; montevideo.gub.uy soft; feast crush; hill weather; do not invent UYU."
+    },
+    "etiquette": {
+      "intro": "Living national sanctuary — modest dress and quiet.",
+      "bullets": [
+        "Quiet at the sanctuary; yield space during Mass.",
+        "Modest dress; follow posted photography rules.",
+        "Do not invent paid entry or fake e-ticket shops.",
+        "Threshold Atlas tone: Uruguay #1 national Cerrito shrine — not red-facade Instagram-only tourism."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Basílica del Cerrito in Montevideo.",
+      "paragraphs": [
+        "Most visitors take a city bus or taxi to the Cerrito de la Victoria hill around Bruno Méndez — it is not on the main Ciudad Vieja tourist loop.",
+        "The basilica crowns a residential hill — treat downtown cathedrals and Ciudad Vieja stops as separate visits, not a single densify combo.",
+        "Hill weather and evening wind can reshape comfort; plan daylight where possible and confirm open status locally."
+      ],
+      "bullets": [
+        "Bus / taxi to Cerrito hill (Bruno Méndez)",
+        "Not on main Ciudad Vieja loop",
+        "Hill weather honesty",
+        "No Montevideo densify one-pass"
+      ]
+    },
+    "bestTime": {
+      "intro": "Daylight weekday visits; avoid inventing feast-day capacity.",
+      "paragraphs": [
+        "Daylight weekdays are usually calmer for nave photography and quiet — still verify parish hours because web sources conflict.",
+        "Feast days bring crush; proprietary and city tourism pages were soft this pass — rely on local confirmation."
+      ],
+      "bullets": [
+        "Best: daylight weekday",
+        "Watch feast-day crush",
+        "Web hours soft — confirm locally",
+        "Do not invent UYU"
+      ]
+    },
+    "notes": {
+      "intro": "SanctaWay Threshold Atlas notes — Uruguay #1 national Cerrito sanctuary.",
+      "bullets": [
+        "Opens Uruguay — Basílica / Santuario Nacional del Cerrito de la Victoria.",
+        "Honest NO_CTA — nave free/donation; deep-link 404 / TLS soft; do not invent UYU.",
+        "Soft blockers: feast crush; hill weather; no Ciudad Vieja densify.",
+        "SanctaWay does not sell tickets, invent visa myths, or grant access."
+      ]
+    }
+  },
+  {
+    "id": "larabanga-mosque",
+    "name": "Larabanga Mosque, Savannah Region, Ghana",
+    "shortName": "Larabanga Mosque",
+    "location": "Larabanga, West Gonja, Savannah Region, Ghana (Mole National Park corridor)",
+    "country": "Ghana",
+    "region": "Africa",
+    "regionSlug": "africa",
+    "religions": [
+      "Islamic"
+    ],
+    "religionSlugs": [
+      "islamic"
+    ],
+    "summary": "Ancient Sudano-Sahelian mosque on Ghana’s Mole corridor (opens Ghana). Soft CTA Visit Ghana attraction page — informational; desk/site fee classes circulate in guides — do not invent GHS. Djenné stays soft-parked. Road seasonality honesty.",
+    "heroImage": "https://images.unsplash.com/photo-1472214103451-9374bd1c798e?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Ancient Sudano-Sahelian mud-brick mosque in Larabanga; living village mosque and West African heritage landmark on the Mole tourism corridor",
+      "patron": "Islamic — living village mosque; Sudano-Sahelian architectural tradition",
+      "unesco": "Not a separate World Heritage listing this pass; national / regional heritage landmark frequently paired with Mole tourism",
+      "typicalVisit": "45–90 minutes village approach + exterior / hall when guides and prayer windows allow"
+    },
+    "related": [
+      "kairouan",
+      "hassan-ii-mosque",
+      "namugongo"
+    ],
+    "overview": {
+      "body": [
+        "Larabanga Mosque opens Ghana on SanctaWay as the ancient Sudano-Sahelian mosque on the Savannah Region corridor toward Mole National Park — a living village mosque and West Africa tourist household name — not a fake Djenné ticket clone and not one sacred pass covering Accra densify. Djenné stays soft-parked.",
+        "Frame Soft CTA honesty: use Visit Ghana attraction page https://visitghana.com/attractions/larabanga-mosque/ (curl-verified 200 + TLS; CF intermittent). It is informational Soft CTA — not an e-ticket shop. Site/desk fee classes circulate in guides — do not invent GHS; if you need a fare, confirm at the desk / community arrangement on site.",
+        "Daylight visits are common; prayer times reshape hall access; harmattan and rainy-season road honesty matter on the Tamale–Mole corridor — verify Visit Ghana / local notice at travel time.",
+        "Gateway: road from Tamale toward Mole National Park with a Larabanga village stop. Pair Mole safari tourism without inventing one sacred combo covering Accra mosques.",
+        "Soft blockers: road seasonality; guide pressure; mud-architecture conservation (no climbing). SanctaWay is informational — it does not sell tickets, invent fares, or grant access."
+      ],
+      "highlights": [
+        "Opens Ghana — ancient Sudano-Sahelian mosque on Mole corridor",
+        "Soft Visit Ghana CTA — informational; do not invent GHS",
+        "Prayer-time + road seasonality honesty",
+        "No climbing historic mud structure",
+        "Djenné stays soft-parked — not related"
+      ]
+    },
+    "visit": {
+      "intro": "Soft Visit Ghana informational CTA — confirm any desk fee locally; do not invent GHS; prayer + road honesty.",
+      "hours": "Living village mosque + tourist visit — daylight common; prayer times reshape hall access. Harmattan / rainy-season roads reshape arrival — verify Visit Ghana / local notice before you travel; do not invent fixed indoor hours.",
+      "tickets": "Soft informational CTA https://visitghana.com/attractions/larabanga-mosque/ (200 + TLS; CF intermittent). Site/desk fee classes circulate in guides — do not invent GHS; confirm at desk / community arrangement on site. Prefer Soft Visit Ghana over opaque OTA “tickets.” Not a Djenné e-ticket clone.",
+      "dress": "Active mosque + heritage monument — covered arms/legs; women hair cover; shoes off; ask before photography; respect village guides; no climbing historic mud structure.",
+      "duration": "45–90 minutes village approach + exterior / hall when allowed.",
+      "access": "Road from Tamale toward Mole; Larabanga village stop. Road seasonality and guide arrangements matter. Pair Mole safari separately — no Accra densify one-pass.",
+      "tips": [
+        "Use Visit Ghana Soft CTA — do not invent GHS fares.",
+        "Confirm any desk / community fee on site — not from blogs.",
+        "Cover arms/legs; women hair cover; shoes off.",
+        "Ask before photography; respect guides.",
+        "Do not climb or lean on historic mud fabric.",
+        "Plan road seasonality (harmattan / rains) on the Mole corridor.",
+        "SanctaWay does not sell tickets or grant access."
+      ],
+      "entryType": "soft-official",
+      "ticketsUrl": "https://visitghana.com/attractions/larabanga-mosque/",
+      "ticketsLabel": "Visit Ghana Soft attraction page — Larabanga Mosque orientation (informational; confirm any desk fee locally; do not invent GHS)",
+      "ticketsNote": "Soft CTA 200+TLS0 (CF intermittent); no invent GHS; prayer/road seasonality; mud conservation; Djenné parked; do not invent fares."
+    },
+    "etiquette": {
+      "intro": "Living village mosque + heritage monument — dress and conservation respect.",
+      "bullets": [
+        "Shoes off; covered arms/legs; women hair cover.",
+        "Ask before photography; follow guide instructions.",
+        "Never climb or damage mud-brick fabric.",
+        "Threshold Atlas tone: Ghana #1 Sudano-Sahelian ancient mosque — not Djenné ticket-clone tourism."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Larabanga Mosque on the Mole corridor.",
+      "paragraphs": [
+        "Most visitors travel by road from Tamale toward Mole National Park and stop in Larabanga village — treat the mosque as a heritage/living-mosque stop, not an Accra day-trip densify.",
+        "Road conditions vary with harmattan dust and rainy-season mud — build buffer and confirm local transport the day you go.",
+        "Mole safari tourism is a separate product; do not invent one sacred pass covering Accra mosques or soft-parked Djenné."
+      ],
+      "bullets": [
+        "Road Tamale → Mole corridor / Larabanga stop",
+        "Road seasonality honesty",
+        "Mole safari optional separate",
+        "No Accra / Djenné densify myth"
+      ]
+    },
+    "bestTime": {
+      "intro": "Dry-season daylight for road reliability; still respect prayer windows.",
+      "paragraphs": [
+        "Drier months usually ease road access on the Mole corridor — still verify local conditions and prayer windows the day you visit.",
+        "Rainy-season visits are possible but slower; never invent GHS or fixed hall hours from blogs."
+      ],
+      "bullets": [
+        "Best: dry-season daylight",
+        "Watch prayer interruptions",
+        "Road seasonality buffer",
+        "Do not invent GHS"
+      ]
+    },
+    "notes": {
+      "intro": "SanctaWay Threshold Atlas notes — Ghana #1 Sudano-Sahelian mosque.",
+      "bullets": [
+        "Opens Ghana — Larabanga as ancient Sudano-Sahelian living mosque.",
+        "Soft Visit Ghana CTA — informational; do not invent GHS.",
+        "Soft blockers: road seasonality; guide pressure; mud conservation; Djenné parked.",
+        "SanctaWay does not sell tickets, invent visa myths, or grant access."
+      ]
+    }
+  },
+  {
+    "id": "sulaiman-too",
+    "name": "Sulaiman-Too / Sulayman Mountain, Osh, Kyrgyzstan",
+    "shortName": "Sulaiman-Too",
+    "location": "Sulaiman-Too Sacred Mountain precinct, Osh, Kyrgyzstan",
+    "country": "Kyrgyzstan",
+    "region": "Middle East",
+    "regionSlug": "middle-east",
+    "religions": [
+      "Islamic"
+    ],
+    "religionSlugs": [
+      "islamic"
+    ],
+    "summary": "UNESCO World Heritage sacred mountain islamic pilgrimage + museum caves in Osh (opens Kyrgyzstan). Honest NO_CTA — paths free/donation class; museum may be desk-ticketed but no clean e-ticket URL cleared. visitkyrgyzstan.kg / tourism.kg homes info only. Do not invent KGS.",
+    "heroImage": "https://images.unsplash.com/photo-1418065460487-3e41a6c84dc5?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Long-inhabited sacred mountain with prehistoric and islamic pilgrimage layers; UNESCO World Heritage cultural landscape at Osh",
+      "patron": "Islamic — living sacred mountain pilgrimage precinct (Sulaiman-Too / Sulayman Mountain) with museum caves",
+      "unesco": "UNESCO World Heritage — Sulaiman-Too Sacred Mountain",
+      "typicalVisit": "2–3+ hours climb / path circuit + optional museum caves when desk open"
+    },
+    "related": [
+      "hazrat-sultan-mosque",
+      "registan",
+      "bibi-heybat-mosque"
+    ],
+    "overview": {
+      "body": [
+        "Sulaiman-Too opens Kyrgyzstan on SanctaWay as the UNESCO World Heritage sacred mountain islamic pilgrimage precinct above Osh — outdoor shrines, paths, and museum caves — not a doom-tourism Soviet museum meme and not one ticket covering all Fergana shrines. RegionSlug middle-east peers Kazakhstan / Uzbekistan Central Asia framing.",
+        "Frame honest NO_CTA: mountain paths are generally free / donation class; museum components may be desk-ticketed locally. visitkyrgyzstan.kg and tourism.kg homes cleared 200 + TLS but deep-links were thin this pass — no clean official e-ticket URL → ticketsUrl cleared. Do not invent KGS.",
+        "Daylight outdoor visit; museum desk hours are local — verify tourism.kg / visitkyrgyzstan / museum notice at travel time. Winter ice and summer heat reshape climb honesty.",
+        "Gateway: Osh city climb / path to the UNESCO precinct; air / road from Bishkek is longer. Pair Osh bazaar without inventing one ticket covering all Fergana shrines. No Uzbekistan densify.",
+        "Soft blockers: heat / climb fitness; museum fee ambiguity; petroglyph / sacred-rock conservation. SanctaWay is informational — it does not sell tickets, invent fares, or grant access."
+      ],
+      "highlights": [
+        "Opens Kyrgyzstan — UNESCO sacred mountain islamic pilgrimage",
+        "Honest NO_CTA — paths free/donation; no clean e-ticket",
+        "Museum caves may be desk-ticketed — confirm locally",
+        "Climb / weather honesty",
+        "No Fergana / Uzbekistan densify one-pass"
+      ]
+    },
+    "visit": {
+      "intro": "Honest NO_CTA — sacred mountain paths free/donation; museum desk local; do not invent KGS.",
+      "hours": "Outdoor sacred mountain + museum caves — daylight primary. Museum desk hours are local — verify tourism.kg / visitkyrgyzstan / museum notice before you go; winter ice honesty. Do not invent fixed all-season indoor hours.",
+      "tickets": "Mountain paths generally free / donation class; museum component may be desk-ticketed — no clean official e-ticket URL this pass → honest NO_CTA (ticketsUrl cleared). visitkyrgyzstan.kg / tourism.kg homes (200 + TLS) are informational only, not ticket shops. Do not invent KGS. Prefer re-find museum desk URL later.",
+      "dress": "Living islamic pilgrimage mountain — modest dress; quiet at shrines/caves; no damage to petroglyphs / sacred rocks; photography rules as posted; Soviet-era museum framing honesty without doom tourism.",
+      "duration": "2–3+ hours climb / path circuit; longer with museum caves.",
+      "access": "Osh city paths to the UNESCO precinct; fitness and heat/ice matter. Pair Osh bazaar separately. Air / road from Bishkek is a longer gateway — not a casual Fergana densify hop.",
+      "tips": [
+        "Honest NO_CTA — do not invent KGS e-tickets.",
+        "Confirm any museum desk fee locally.",
+        "Modest dress; quiet at shrines and caves.",
+        "Do not damage petroglyphs / sacred rocks.",
+        "Plan climb fitness + heat / ice honesty.",
+        "Pair Osh bazaar separately — no Fergana one-pass.",
+        "SanctaWay does not sell tickets or grant access."
+      ],
+      "entryType": "free",
+      "ticketsUrl": null,
+      "ticketsLabel": "Sulaiman-Too — honest NO_CTA (paths free/donation; museum desk local; visitkyrgyzstan/tourism.kg info only — not e-ticket; do not invent KGS)",
+      "ticketsNote": "Honest NO_CTA; free/donation paths; museum desk ambiguity; climb/weather; no Uzbekistan densify; do not invent KGS."
+    },
+    "etiquette": {
+      "intro": "Living sacred mountain pilgrimage — shrine and rock respect.",
+      "bullets": [
+        "Modest dress; quiet at shrines and caves.",
+        "Never damage petroglyphs or sacred rocks.",
+        "Do not invent paid path tickets or doom-tourism framing.",
+        "Threshold Atlas tone: Kyrgyzstan #1 UNESCO sacred mountain — not Soviet meme tourism."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Sulaiman-Too in Osh.",
+      "paragraphs": [
+        "Most visitors base in Osh and climb or walk marked paths into the UNESCO sacred mountain precinct above the city.",
+        "Bishkek air / road gateways are longer — treat Sulaiman-Too as an Osh-centred visit, not a same-day Fergana densify circuit with Uzbekistan sites.",
+        "Museum caves may require a local desk stop — confirm hours on arrival rather than inventing KGS online fares."
+      ],
+      "bullets": [
+        "Osh city climb / path to precinct",
+        "Bishkek gateway is longer",
+        "Museum desk optional local",
+        "No Fergana densify one-pass"
+      ]
+    },
+    "bestTime": {
+      "intro": "Late spring–early autumn for safer paths; winter ice honesty.",
+      "paragraphs": [
+        "Late spring through early autumn usually offers the most practical daylight climb windows — still verify museum desk hours and heat risk.",
+        "Winter visits need ice honesty; do not invent year-round e-ticket products."
+      ],
+      "bullets": [
+        "Best: late spring–early autumn daylight",
+        "Winter ice honesty",
+        "Confirm museum desk locally",
+        "Do not invent KGS"
+      ]
+    },
+    "notes": {
+      "intro": "SanctaWay Threshold Atlas notes — Kyrgyzstan #1 UNESCO sacred mountain.",
+      "bullets": [
+        "Opens Kyrgyzstan — Sulaiman-Too as UNESCO islamic pilgrimage mountain.",
+        "Honest NO_CTA — paths free/donation; do not invent KGS.",
+        "Soft blockers: climb/weather; museum fee ambiguity; no Uzbekistan densify.",
         "SanctaWay does not sell tickets, invent visa myths, or grant access."
       ]
     }

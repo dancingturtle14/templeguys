@@ -2663,7 +2663,7 @@
     "related": [
       "lumbini",
       "borobudur",
-      "sarnath"
+      "kushinagar"
     ],
     "overview": {
       "body": [
@@ -4728,7 +4728,7 @@
     "related": [
       "mahabodhi",
       "paro-taktsang",
-      "sarnath"
+      "kushinagar"
     ],
     "overview": {
       "body": [
@@ -5875,7 +5875,7 @@
     "related": [
       "stonehenge",
       "petra",
-      "newgrange"
+      "garni"
     ],
     "overview": {
       "body": [
@@ -6559,7 +6559,7 @@
     "related": [
       "acropolis-parthenon",
       "mont-saint-michel",
-      "sumela-monastery"
+      "vardzia"
     ],
     "overview": {
       "body": [
@@ -7472,7 +7472,7 @@
     "related": [
       "acropolis-parthenon",
       "meteora",
-      "mount-nemrut"
+      "epidauros"
     ],
     "overview": {
       "body": [
@@ -13439,7 +13439,7 @@
     "related": [
       "temple-of-heaven",
       "potala",
-      "longmen-grottoes"
+      "jongmyo"
     ],
     "overview": {
       "body": [
@@ -14447,7 +14447,7 @@
     "related": [
       "kairouan",
       "hassan-ii-mosque",
-      "al-azhar"
+      "muhammad-ali-mosque"
     ],
     "overview": {
       "body": [
@@ -14784,7 +14784,7 @@
     "related": [
       "mahabodhi",
       "sanchi",
-      "lumbini"
+      "kushinagar"
     ],
     "overview": {
       "body": [
@@ -15460,7 +15460,7 @@
     "related": [
       "sultan-hassan",
       "kairouan",
-      "al-azhar"
+      "muhammad-ali-mosque"
     ],
     "overview": {
       "body": [
@@ -16931,7 +16931,7 @@
     "related": [
       "lingyin-temple",
       "yonghegong",
-      "shaolin-temple"
+      "famen-temple"
     ],
     "overview": {
       "body": [
@@ -17496,7 +17496,7 @@
     "related": [
       "acropolis-parthenon",
       "delphi",
-      "mount-nemrut"
+      "epidauros"
     ],
     "overview": {
       "body": [
@@ -18739,7 +18739,7 @@
     "related": [
       "meteora",
       "rila-monastery",
-      "sumela-monastery"
+      "etchmiadzin"
     ],
     "overview": {
       "body": [
@@ -19758,7 +19758,7 @@
     "related": [
       "goreme-open-air",
       "meteora",
-      "geghard"
+      "vardzia"
     ],
     "overview": {
       "body": [
@@ -19952,6 +19952,909 @@
         "Confirm CMN / menhirs-carnac.fr guided tiers — do not invent EUR.",
         "Exterior path ≠ paid guided circuit among the stones.",
         "No Mont-Saint-Michel combo; no invented church framing.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "etchmiadzin",
+    "name": "Mother See of Holy Etchmiadzin (Մայր Աթոռ Սուրբ Էջմիածին), Vagharshapat",
+    "shortName": "Etchmiadzin",
+    "location": "Vagharshapat / Ejmiatsin, Armavir Province (west of Yerevan)",
+    "country": "Armenia",
+    "region": "Middle East",
+    "regionSlug": "middle-east",
+    "religions": [
+      "Christian"
+    ],
+    "religionSlugs": [
+      "christian"
+    ],
+    "summary": "UNESCO Cathedral & Churches of Echmiatsin — Armenian Apostolic Mother See and Catholicos seat. Institutional Armenia mega after live Geghard. Cathedral grounds free; treasury/museum lanes separate. armenia.travel / armenianchurch.org. Do not invent AMD.",
+    "heroImage": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "4th century — Mother Cathedral tradition under St. Gregory the Illuminator / King Trdat III; continuous Mother See of the Armenian Apostolic Church",
+      "patron": "Armenian Apostolic — Mother See / Catholicos of All Armenians; Holy Lance and treasury relics",
+      "unesco": "Cathedral and Churches of Echmiatsin and the Archaeological Site of Zvartnots (2000)",
+      "typicalVisit": "Half-day from Yerevan (~30–40 min west); often paired with Zvartnots on a separate visit — not a Garni/Geghard same-ticket myth"
+    },
+    "related": [
+      "geghard",
+      "holy-sepulchre",
+      "meteora"
+    ],
+    "overview": {
+      "body": [
+        "Etchmiadzin is Armenia’s Mother See mega — the Catholicos seat and Mother Cathedral fabric at Vagharshapat that every Armenian Apostolic itinerary names as the institutional heart of the church, not a generic Yerevan day-trip church stop.",
+        "Frame the visit as living Mother See honesty: active liturgy in the cathedral, museum/treasury lanes for manuscripts and relics (Holy Lance tradition), and the wider UNESCO Echmiatsin church cluster. Zvartnots ruins sit on the same UNESCO listing but are a separate visit — do not invent one ticket covering both.",
+        "Official guidance: Mother See armenianchurch.org (museums / hours) and armenia.travel destination pages. Cathedral grounds are typically free; Treasury / Ruben Sevak museum products are published separately — do not invent AMD from blogs or OTA “Etchmiadzin VIP” bundles.",
+        "Yerevan gateway — marshrutka / taxi / tour west to Vagharshapat (~30–40 min class). This is not the same-day east gorge circuit as Garni + Geghard; do not invent a single Armenia sacred pass covering Mother See + Garni + Geghard.",
+        "Soft blockers: liturgy can reshape nave access; treasury closed Mondays as commonly published — verify before travel; dress and head-cover expectations in active Apostolic space. SanctaWay is informational — it does not sell tickets or grant access."
+      ],
+      "highlights": [
+        "Armenian Apostolic Mother See / Catholicos seat",
+        "UNESCO Echmiatsin cathedral & churches cluster",
+        "Cathedral grounds free; treasury/museum separate — do not invent AMD",
+        "armenianchurch.org + armenia.travel official guidance",
+        "Separate from Garni / Geghard day-circuit and from Zvartnots ruins"
+      ]
+    },
+    "visit": {
+      "intro": "Mother See / armenia.travel — treasury vs cathedral honesty; no invent AMD; not a Garni/Geghard merge.",
+      "hours": "Cathedral / grounds daytime window — verify Mother See notices. Treasury museums commonly Tue–Sun (closed Monday as published) — confirm armenianchurch.org Museums pages before travel. Liturgy can reshape nave access.",
+      "tickets": "Cathedral grounds typically free. Alex and Marie Manoogian Treasury Museum / Ruben Sevak Museum publish separate products on armenianchurch.org Museums — do not invent AMD. Prefer Mother See / armenia.travel over opaque OTA “Etchmiadzin VIP.” Zvartnots = separate visit.",
+      "dress": "Active Armenian Apostolic Mother See — covered shoulders/knees; women often headscarf in cathedral (follow posted / local practice); quiet in liturgy; no flash on restricted treasury displays.",
+      "duration": "1.5–3 hours Mother See circuit + treasury when open; half-day common from Yerevan.",
+      "access": "Yerevan gateway — road west to Vagharshapat / Ejmiatsin (~30–40 min class). Marshrutka / taxi / licensed tour common. Not the same ticket or same-site as Garni / Geghard (east/southeast day).",
+      "tips": [
+        "Confirm treasury hours on armenianchurch.org Museums — often closed Monday.",
+        "Do not invent AMD from blogs or OTA VIP bundles.",
+        "Do not invent one ticket with Garni / Geghard / Zvartnots.",
+        "Morning before tour groups; feast / Catholicos calendar can reshape access.",
+        "Modest dress + quiet in liturgy; headscarf practice as posted.",
+        "Prefer Mother See / armenia.travel guidance over street sellers.",
+        "SanctaWay does not sell tickets or grant access."
+      ],
+      "entryType": "mixed",
+      "ticketsUrl": "https://www.armenianchurch.org/en/Museums-at-the-Mother-See/",
+      "ticketsLabel": "Mother See museums — Treasury / Ruben Sevak (armenianchurch.org; cathedral grounds typically free)",
+      "ticketsNote": "Grounds free; museum products as published — do not invent AMD; Zvartnots / Garni / Geghard separate."
+    },
+    "etiquette": {
+      "intro": "Active Mother See — liturgy, dress, treasury rules.",
+      "bullets": [
+        "Covered shoulders/knees; headscarf practice in cathedral as posted.",
+        "Quiet during liturgy; do not walk through worshippers’ space.",
+        "No flash / restricted photography in treasury when posted.",
+        "Threshold Atlas tone: Mother Cathedral / Catholicos seat — not Yerevan day-trip church only."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Etchmiadzin from Yerevan.",
+      "paragraphs": [
+        "Most visitors reach Vagharshapat by road west from Yerevan (~30–40 min class). Marshrutka from central stations, taxi, or licensed half-day tour are common.",
+        "Buy or verify museum products on Mother See armenianchurch.org Museums pages when you want the treasury. Cathedral grounds are typically free — do not invent AMD.",
+        "Garni and Geghard are a separate east/southeast day from Yerevan. Zvartnots ruins are nearby but a separate visit — do not invent one Armenia sacred pass."
+      ],
+      "bullets": [
+        "Yerevan → Vagharshapat ~30–40 min west",
+        "Mother See museums on armenianchurch.org",
+        "Garni / Geghard = separate day/tickets",
+        "Zvartnots = separate visit"
+      ]
+    },
+    "bestTime": {
+      "intro": "Morning before groups; verify Monday treasury closure.",
+      "paragraphs": [
+        "Morning usually beats coach waves on the grounds. Confirm treasury open days — Monday closure is commonly published.",
+        "Feast days and Catholicos calendar events can fill the cathedral — beautiful for liturgy atmosphere, tighter for casual photography walks."
+      ],
+      "bullets": [
+        "Best: morning before tour groups",
+        "Verify treasury Tue–Sun pattern",
+        "Liturgy / feast days reshape nave access",
+        "Do not invent AMD / Garni combo myths"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm Mother See museum hours and products on armenianchurch.org — do not invent AMD.",
+        "Garni / Geghard / Zvartnots are separate — earn Mother See institutional difference from rock monastery and pagan temple.",
+        "Liturgy closures and Monday treasury patterns are standing soft blockers.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "vardzia",
+    "name": "Vardzia Cave Monastery (ვარძია), Samtskhe–Javakheti",
+    "shortName": "Vardzia",
+    "location": "Mtkvari canyon cliff complex near Aspindza, Samtskhe–Javakheti, Georgia",
+    "country": "Georgia",
+    "region": "Middle East",
+    "regionSlug": "middle-east",
+    "religions": [
+      "Christian"
+    ],
+    "religionSlugs": [
+      "christian"
+    ],
+    "summary": "Cliff-face cave-city monastery postcard of medieval Georgia — ticketed museum-reserve under National Agency for Cultural Heritage Preservation (heritagesites.ge). Distinct from Geghard rock church and Sümela Pontic cliff. Long transfer from Tbilisi. Do not invent GEL.",
+    "heroImage": "https://images.unsplash.com/photo-1609137144813-7d9921338f24?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "12th–13th century — Queen Tamar–era rock-cut monastic city (cave streets, painted church, fortress fabric)",
+      "patron": "Georgian Orthodox historic cave monastery — active chapel zones within museum-reserve",
+      "unesco": "Not a standalone World Heritage listing (national cultural heritage museum-reserve)",
+      "typicalVisit": "Full day from Tbilisi (~3–4 h each way class) or overnight Borjomi / Akhaltsikhe; often pair Rabati / Khertvisi on separate tickets"
+    },
+    "related": [
+      "geghard",
+      "sumela-monastery",
+      "meteora"
+    ],
+    "overview": {
+      "body": [
+        "Vardzia is Georgia’s cliff cave-city monastery mega — rock-cut streets, painted church, and fortress fabric clinging to the Mtkvari canyon wall — a Caucasus tourist household name distinct from Geghard’s rock-cut church and Sümela’s Pontic cliff museum.",
+        "Frame the visit as Queen Tamar / rock-cut monastic city honesty: some chapels remain active worship zones inside a ticketed museum-reserve; other caves are conservation or viewing fabric. Do not pitch it as a cave Instagram set only.",
+        "Official tickets: National Agency for Cultural Heritage Preservation of Georgia museum-reserve tariffs — heritagesites.ge service pages. Adult / citizen / guide / audio / shuttle products publish there — do not invent GEL from blogs or OTA “Vardzia VIP.” Note: this is heritage museum-reserve ticketing, not Agency of Protected Areas park ticketing.",
+        "Tbilisi / Borjomi / Akhaltsikhe gateway — long south-west road into the canyon (~3–4 h class from Tbilisi). Day tours common; winter ice on paths; some caves closed for conservation.",
+        "Soft blockers: long transfer; stairs and uneven cave floors; seasonal weather; do not invent combo tickets with Geghard or Sümela. Svetitskhoveli / Jvari densify stay parked. SanctaWay is informational — it does not sell tickets or grant access."
+      ],
+      "highlights": [
+        "Cliff-face cave-city monastic complex",
+        "heritagesites.ge museum-reserve tickets — do not invent GEL",
+        "Active chapel zones vs museum caves honesty",
+        "Long Tbilisi transfer; stairs / ice soft blockers",
+        "Separate from Geghard / Sümela — no combo myth"
+      ]
+    },
+    "visit": {
+      "intro": "Georgia heritage museum-reserve — heritagesites.ge; no invent GEL; not Geghard/Sümela merge.",
+      "hours": "Cave complex daytime window — verify National Agency for Cultural Heritage Preservation / heritagesites.ge notices and on-site boards. Morning light in cave streets; winter ice soft blocker.",
+      "tickets": "Museum-reserve ticket on-site / official heritage channels — heritagesites.ge tariffs page. Adult / Georgian pupil-student-pensioner / guide / audio / uphill shuttle products as published — do not invent GEL. Prefer official over random OTA. Rabati / Khertvisi = separate tickets.",
+      "dress": "Historic cave monastery with active chapel zones — modest dress; quiet in painted church; no climbing off-path cave facades; no drone without permit.",
+      "duration": "2–3 hours on-site circuit; full day from Tbilisi including transfer.",
+      "access": "Tbilisi / Borjomi / Akhaltsikhe gateway — road into Mtkvari canyon (~3–4 h class from Tbilisi). Licensed day-tour, private driver, or staged overnight common. Pair Rabati / Khertvisi without inventing one ticket.",
+      "tips": [
+        "Confirm tariffs on heritagesites.ge — do not invent GEL.",
+        "Budget a full day from Tbilisi for transfer + site time.",
+        "Wear shoes for stairs / uneven caves; watch winter ice.",
+        "Do not invent combo with Geghard or Sümela.",
+        "Modest dress; quiet in painted / active chapel zones.",
+        "Some caves close for conservation — follow posted barriers.",
+        "Prefer official heritage ticket over opaque OTA VIP."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://www.heritagesites.ge/ka/service/34",
+      "ticketsLabel": "National Agency for Cultural Heritage — museum-reserve tariffs (heritagesites.ge; Vardzia listed)",
+      "ticketsNote": "Heritage museum-reserve ticket — not APA park ticket; do not invent GEL; Rabati/Khertvisi separate."
+    },
+    "etiquette": {
+      "intro": "Cave monastery museum-reserve — chapels, frescoes, path safety.",
+      "bullets": [
+        "Modest dress; quiet in painted church / active chapel zones.",
+        "Stay on marked paths; no off-path climbing of cave facades.",
+        "No drone without permit; follow conservation closures.",
+        "Threshold Atlas tone: Queen Tamar rock-cut monastic city — not cave Airbnb Instagram only."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Vardzia from Tbilisi / Borjomi.",
+      "paragraphs": [
+        "Most visitors day-trip from Tbilisi by licensed tour or private driver (~3–4 h class each way into the Mtkvari canyon). Borjomi or Akhaltsikhe overnights shorten the transfer.",
+        "Buy the museum-reserve ticket via official heritage channels / on-site — confirm current products on heritagesites.ge. Do not invent GEL from old blogs.",
+        "Rabati fortress and Khertvisi castle are common same-region pairs on separate tickets. Do not invent a single Georgia cave-monastery pass with Geghard or Sümela."
+      ],
+      "bullets": [
+        "Tbilisi ~3–4 h class each way",
+        "heritagesites.ge museum-reserve ticket",
+        "Rabati / Khertvisi = separate tickets",
+        "Winter ice / stairs soft blockers"
+      ]
+    },
+    "bestTime": {
+      "intro": "Morning light; avoid ice and peak coach congestion when possible.",
+      "paragraphs": [
+        "Morning light in the cave streets is usually kinder for walking and photos. Summer heat on the exposed cliff approach is a soft blocker.",
+        "Winter ice on stairs and paths is a real access issue — verify conditions before committing to a long transfer day."
+      ],
+      "bullets": [
+        "Best: morning for light + quieter caves",
+        "Winter ice soft blocker",
+        "Long transfer — start early from Tbilisi",
+        "Do not invent GEL / Geghard combo myths"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm heritagesites.ge tariffs — do not invent GEL; this is heritage museum-reserve ticketing (not APA park).",
+        "Geghard / Sümela are separate countries/sites — earn cave-city difference.",
+        "Long transfer, stairs, ice, and conservation closures are standing soft blockers.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "epidauros",
+    "name": "Sanctuary of Asklepios at Epidaurus (Ασκληπιείο Επιδαύρου), Argolis",
+    "shortName": "Epidauros",
+    "location": "Ancient Epidauros sanctuary near Ligourio, Argolis, Peloponnese",
+    "country": "Greece",
+    "region": "Europe",
+    "regionSlug": "europe",
+    "religions": [
+      "Ancient Greek"
+    ],
+    "religionSlugs": [
+      "ancient-greek"
+    ],
+    "summary": "UNESCO Asklepieion — Panhellenic healing sanctuary of Asklepios plus the famous theatre. Hellenic MoC / Hellenic Heritage e-ticket. Day ruin ticket ≠ festival performance ticket. Distinct from Acropolis / Delphi / Olympia. Do not invent EUR.",
+    "heroImage": "https://images.unsplash.com/photo-1555993539-1732b0258235?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Classical–Hellenistic Asklepieion (Panhellenic healing cult centre; theatre among the best-preserved of antiquity)",
+      "patron": "Ancient Greek — Asklepios healing sanctuary (incubation / abaton tradition) + festival theatre landscape",
+      "unesco": "Sanctuary of Asklepios at Epidaurus (1988)",
+      "typicalVisit": "Half-day from Nafplio (~30–40 min); longer day from Athens; museum + sanctuary + theatre on published MoC product"
+    },
+    "related": [
+      "delphi",
+      "olympia",
+      "acropolis-parthenon"
+    ],
+    "overview": {
+      "body": [
+        "Epidauros is the Asklepieion mega — Panhellenic healing sanctuary of Asklepios with Tholos, abaton incubation landscape, museum, and the famous theatre — sacred peer to Delphi and Olympia, not a theatre-acoustics selfie stop only.",
+        "Frame the visit as Asklepios incubation / healing cult honesty ahead of theatre trivia. The UNESCO sanctuary, archaeological museum, and theatre sit in one Hellenic MoC site ecology; festival performance nights are a separate ticket class from the day archaeological visit.",
+        "Official tickets: Hellenic Heritage / MoC e-ticket — hh.gr destination page and official ticketing channels. Full/reduced products covering theatre + archaeological site + museum publish there — do not invent EUR from blogs or scalpers. Prefer MoC / Hellenic Heritage over opaque OTA.",
+        "Nafplio / Athens gateway — road to Ancient Epidauros (~30–40 min from Nafplio; longer from Athens). Bus, tour, or car common. Mycenae and Nafplio fortress are separate tickets — do not invent one Argolid pass.",
+        "Soft blockers: summer heat on the open sanctuary; coach peak midday; timed-entry patterns when published. SanctaWay is informational — it does not sell tickets or grant access."
+      ],
+      "highlights": [
+        "UNESCO Asklepieion healing sanctuary + theatre",
+        "Hellenic Heritage / MoC e-ticket — do not invent EUR",
+        "Day ruin ticket ≠ festival performance ticket",
+        "Lead healing-sanctuary framing ahead of theatre trivia",
+        "Separate from Mycenae / Nafplio fortress one-pass myths"
+      ]
+    },
+    "visit": {
+      "intro": "Hellenic MoC Asklepieion — hh.gr / official e-ticket; no invent EUR; not Mycenae merge.",
+      "hours": "Hellenic MoC archaeological daytime window — verify odysseus.culture.gr / hh.gr seasonal hours and last entry. Morning quieter for museum + sanctuary; summer heat on open ground.",
+      "tickets": "Hellenic Heritage / MoC e-ticket for Sanctuary of Asklepios — hh.gr destination + official ticketing. Theatre + archaeological site + museum as published combined product; festival performance tickets are separate — do not invent EUR. Prefer MoC over scalpers.",
+      "dress": "Ancient healing sanctuary — modest practical dress; no entering roped temple foundations; no climbing theatre cavea beyond posted; quiet at Tholos / abaton zones.",
+      "duration": "2–3.5 hours sanctuary + museum + theatre circuit; half-day common from Nafplio.",
+      "access": "Nafplio gateway (~30–40 min) or Athens longer day. Road / bus / licensed tour. Mycenae and Nafplio fortress = separate tickets.",
+      "tips": [
+        "Buy MoC / Hellenic Heritage e-ticket via hh.gr — do not invent EUR.",
+        "Day archaeological ticket ≠ Epidaurus Festival performance ticket.",
+        "Morning beats heat and coach peak on the open sanctuary.",
+        "Do not invent one Argolid pass with Mycenae / Nafplio fortress.",
+        "Lead with Asklepieion healing framing — not acoustics-only trivia.",
+        "Stay off roped foundations; respect theatre seating limits.",
+        "Confirm seasonal hours / last entry before travel."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://www.hh.gr/destinations/epidaurus-asclepius-sanctuary/",
+      "ticketsLabel": "Hellenic Heritage — Sanctuary of Asklepios at Epidaurus (hh.gr; MoC e-ticket)",
+      "ticketsNote": "Site+museum+theatre day product as published; festival tickets separate; do not invent EUR."
+    },
+    "etiquette": {
+      "intro": "Asklepieion sanctuary — foundations, theatre, museum rules.",
+      "bullets": [
+        "No entering roped temple foundations; no climbing beyond posted theatre limits.",
+        "Quiet at Tholos / abaton zones; modest practical dress.",
+        "Keep Mycenae / Nafplio fortress as separate tickets.",
+        "Threshold Atlas tone: Asklepios healing cult — not acoustics selfie only."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Epidauros from Nafplio / Athens.",
+      "paragraphs": [
+        "Most visitors reach the sanctuary by road from Nafplio (~30–40 min class) or as a longer day from Athens. Bus, private driver, or licensed tour are common.",
+        "Buy the Hellenic MoC / Hellenic Heritage e-ticket via official channels (hh.gr destination page). Do not invent EUR from old guidebooks.",
+        "Mycenae and the Nafplio fortress are separate archaeological products. Do not invent a single Argolid sacred pass."
+      ],
+      "bullets": [
+        "Nafplio ~30–40 min; Athens longer day",
+        "hh.gr / MoC e-ticket",
+        "Mycenae / Nafplio fortress = separate",
+        "Morning start for heat management"
+      ]
+    },
+    "bestTime": {
+      "intro": "Morning quieter; watch summer heat and festival nights.",
+      "paragraphs": [
+        "Morning is usually kinder for the museum and open sanctuary before coach peak and heat. Confirm last-entry on MoC / hh.gr pages.",
+        "Festival performance evenings are a different ticket and crowd pattern — do not confuse them with the day ruin visit."
+      ],
+      "bullets": [
+        "Best: morning before heat + coaches",
+        "Summer heat soft blocker",
+        "Festival night ≠ day archaeological ticket",
+        "Do not invent EUR / Mycenae combo myths"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm MoC / Hellenic Heritage e-ticket on hh.gr — do not invent EUR.",
+        "Earn Asklepieion healing sanctuary framing vs theatre-only tourist myth.",
+        "Heat, coach peak, and festival vs day-ticket confusion are standing soft blockers.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "famen-temple",
+    "name": "Famen Temple (法门寺), Fufeng, Shaanxi",
+    "shortName": "Famen Temple",
+    "location": "Famen Town, Fufeng County, Baoji (Xi’an-region west), Shaanxi",
+    "country": "China",
+    "region": "East Asia",
+    "regionSlug": "east-asia",
+    "religions": [
+      "Buddhist"
+    ],
+    "religionSlugs": [
+      "buddhist"
+    ],
+    "summary": "Finger-relic pagoda complex — Tang true-body relic tradition plus modern Famen Cultural Scenic Area (合十舍利塔 / museum). Xi’an-region day-trip household without Four Sacred Mountains stack. Official WeChat 法门文化景区 real-name tickets. Do not invent CNY.",
+    "heroImage": "https://images.unsplash.com/photo-1528164344705-47542687000d?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Tang-era Famen Temple relic tradition (finger-bone / true-body pagoda fame); modern cultural scenic area with Namaste Dagoba complex",
+      "patron": "Buddhist — finger-relic veneration complex; monastery + museum / scenic-area lanes",
+      "unesco": "Not a standalone World Heritage listing (national 5A-class cultural scenic area)",
+      "typicalVisit": "Day trip from Xi’an (~1–1.5 h class west to Fufeng); tour bus / private car common — not inside Xi’an city-wall cluster"
+    },
+    "related": [
+      "jade-buddha-temple",
+      "lingyin-temple",
+      "yonghegong"
+    ],
+    "overview": {
+      "body": [
+        "Famen Temple is the Shaanxi finger-relic mega — Tang true-body pagoda tradition and the modern Famen Cultural Scenic Area (合十舍利塔 landmark + museum lanes) that Xi’an-region itineraries name as a Buddhist household day trip, not a Terracotta Warriors mall add-on.",
+        "Frame the visit as relic-complex honesty: monastery fabric, museum displays, and scenic-area products can be bundled or separated as published; public finger-relic veneration is calendar-limited — do not promise daily darshan of the relic itself.",
+        "Official tickets: scenic-area real-name products via official WeChat 法门文化景区 (on-site windows also common). Peak/off-peak and shuttle products publish on official notices — do not invent CNY from blogs or random OTA “Famen VIP.” Prefer official WeChat / on-site over opaque packages.",
+        "Xi’an gateway — road west to Fufeng (~1–1.5 h class). Not inside the Xi’an city-wall cluster (Bell Tower / Muslim Quarter). Do not invent one ticket with Terracotta Warriors or Big Wild Goose Pagoda.",
+        "Soft blockers: tour-bus peak; museum bag checks; relic-veneration calendar limits; earn keep as relic complex vs Four Sacred Mountains stack (Emei live; Wutai/Putuo/Jiuhua parked). SanctaWay is informational — it does not sell tickets or grant access."
+      ],
+      "highlights": [
+        "Finger-relic / true-body pagoda Buddhist complex",
+        "Official WeChat 法门文化景区 — do not invent CNY",
+        "Xi’an-region day trip — not city-wall cluster",
+        "Relic public veneration is calendar-limited",
+        "Not a Terracotta / Big Wild Goose combo myth"
+      ]
+    },
+    "visit": {
+      "intro": "Famen Cultural Scenic Area — official WeChat real-name; no invent CNY; not Terracotta merge.",
+      "hours": "Temple + museum / scenic-area daytime window — verify official WeChat 法门文化景区 notices (last entry vs close; holiday shifts). Morning before tour waves.",
+      "tickets": "Official WeChat 法门文化景区 real-name tickets (on-site windows when offered). Scenic-area products may bundle Namaste Dagoba / museum lanes as published; monastery vs scenic-area framing can differ by product — do not invent CNY. Prefer official over random OTA “Famen VIP.”",
+      "dress": "Active Buddhist monastery + relic museum — modest dress; no unauthorized photography of certain relic displays; quiet in halls; follow incense / offering lanes.",
+      "duration": "3–5 hours scenic + temple/museum circuit; full day common from Xi’an including transfer.",
+      "access": "Xi’an gateway — road west to Fufeng (~1–1.5 h class). Tour bus / private car common. Not inside Xi’an city wall. Terracotta / Big Wild Goose = separate tickets.",
+      "tips": [
+        "Book/verify via official WeChat 法门文化景区 — do not invent CNY.",
+        "Do not invent one ticket with Terracotta Warriors / Big Wild Goose Pagoda.",
+        "Assume finger-relic public veneration is calendar-limited — verify announcements.",
+        "Morning before tour-bus peak; carry passport for real-name entry.",
+        "Modest dress; follow photo rules in relic / museum halls.",
+        "Shuttle inside scenic area may be a separate published product.",
+        "Earn relic-complex framing — not Four Sacred Mountains substitute."
+      ],
+      "entryType": "paid",
+      "ticketsLabel": "WeChat 法门文化景区 — Famen Cultural Scenic Area real-name tickets",
+      "ticketsNote": "Official WeChat-first (no stable English deep-link ticket URL); on-site when offered; do not invent CNY; not Terracotta combo."
+    },
+    "etiquette": {
+      "intro": "Buddhist relic complex — monastery, museum, scenic-area rules.",
+      "bullets": [
+        "Modest dress; quiet in halls; follow incense / offering lanes.",
+        "Photo rules on relic displays as posted — no unauthorized close-ups.",
+        "Keep Terracotta / Big Wild Goose as separate tickets.",
+        "Threshold Atlas tone: finger-relic / true-body pagoda — not Terracotta add-on mall temple."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Famen from Xi’an.",
+      "paragraphs": [
+        "Most visitors reach Fufeng by road west from Xi’an (~1–1.5 h class) on licensed tour bus or private car. High-speed rail + local transfer patterns also exist — verify current station pairings.",
+        "Buy real-name tickets via official WeChat 法门文化景区 when required. Do not invent CNY from old posts or OTA VIP packages.",
+        "Terracotta Warriors and Big Wild Goose Pagoda are separate Xi’an-region products. Do not invent a single Shaanxi sacred pass."
+      ],
+      "bullets": [
+        "Xi’an → Fufeng ~1–1.5 h west",
+        "Official WeChat 法门文化景区",
+        "Terracotta / Big Wild Goose = separate",
+        "Morning start for tour-bus management"
+      ]
+    },
+    "bestTime": {
+      "intro": "Morning before tour waves; verify relic-veneration calendar.",
+      "paragraphs": [
+        "Morning usually beats coach congestion at the scenic gates. Confirm last entry on official WeChat notices.",
+        "Public finger-relic veneration follows published calendars — do not assume daily display."
+      ],
+      "bullets": [
+        "Best: morning before tour buses",
+        "Relic veneration calendar soft blocker",
+        "Verify WeChat hours / products",
+        "Do not invent CNY / Terracotta combo myths"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm official WeChat 法门文化景区 products — do not invent CNY; no stable English ticket deep-link.",
+        "Earn relic-complex difference vs mountain-stack ban and vs Terracotta combo myth.",
+        "Tour-bus peak, real-name checks, and relic calendar limits are standing soft blockers.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "muhammad-ali-mosque",
+    "name": "Mosque of Muhammad Ali / Alabaster Mosque (مسجد محمد علي), Cairo Citadel",
+    "shortName": "Muhammad Ali Mosque",
+    "location": "Saladin Citadel plateau, Islamic Cairo",
+    "country": "Egypt",
+    "region": "Africa",
+    "regionSlug": "africa",
+    "religions": [
+      "Islamic"
+    ],
+    "religionSlugs": [
+      "islamic"
+    ],
+    "summary": "Ottoman Citadel postcard — Alabaster Mosque inside Salah al-Din Citadel. Included in Citadel MOTA ticket (egymonuments.com). Tourist-open with dress/scarf rules. Distinct from Al-Azhar / Ibn Tulun / Sultan Hassan scholarly trio. Do not invent EGP.",
+    "heroImage": "https://images.unsplash.com/photo-1572252009286-268acec5ca0a?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "19th century — Muhammad Ali Pasha Ottoman-state mosque on the Citadel (Alabaster Mosque fame)",
+      "patron": "Islamic — Ottoman Cairo state mosque inside Saladin Citadel; active prayer hall with visitor lanes",
+      "unesco": "Within Historic Cairo World Heritage context (Citadel monuments)",
+      "typicalVisit": "1–2 hours mosque + Citadel viewpoints; often paired with other Citadel museums on the same Citadel ticket ecology"
+    },
+    "related": [
+      "sultan-hassan",
+      "ibn-tulun",
+      "hassan-ii-mosque"
+    ],
+    "overview": {
+      "body": [
+        "Muhammad Ali Mosque is Cairo’s Citadel Ottoman postcard — the Alabaster Mosque on the Saladin Citadel plateau that every Cairo skyline itinerary names, distinct from the live Mamluk/Fatimid scholarly trio of Al-Azhar, Ibn Tulun, and Sultan Hassan.",
+        "Frame the visit as Ottoman state mosque / Muhammad Ali Pasha honesty inside an active prayer space: dress and scarf rules apply; prayer times can limit hall access; courtyard and Cairo views are part of the Citadel circuit.",
+        "Official tickets: MOTA Citadel product — egymonuments.com Salah Eldin Citadel. The mosque is included in the Citadel ticket ecology as published (no separate “mosque-only” myth) — do not invent EGP. Prefer MOTA / egymonuments.com over OTA “Citadel VIP.”",
+        "Cairo Islamic / Citadel gateway — taxi or tour to the plateau. Timing is separate from Al-Azhar / Khan el-Khalili walking cluster. Do not invent one ticket with Pyramids, Saqqara, or Al-Azhar.",
+        "Soft blockers: Citadel security queues; prayer-time hall limits; heat on the plateau. Earn Ottoman Citadel postcard vs scholarly seminary #4 claim. Hanging Church Coptic Cairo stays parked. SanctaWay is informational — it does not sell tickets or grant access."
+      ],
+      "highlights": [
+        "Ottoman Citadel Alabaster Mosque postcard",
+        "MOTA Citadel ticket — egymonuments.com; do not invent EGP",
+        "Mosque included in Citadel product (verify bundling)",
+        "Dress / scarf / shoes-off prayer-hall rules",
+        "Distinct from Al-Azhar / Ibn Tulun / Sultan Hassan trio"
+      ]
+    },
+    "visit": {
+      "intro": "MOTA Citadel — egymonuments.com; no invent EGP; not Al-Azhar/Pyramids merge.",
+      "hours": "Citadel + mosque daytime window — verify egymonuments.com / MOTA Citadel hours (last entry; Ramadan shifts). Morning cooler; sunset courtyard views popular.",
+      "tickets": "MOTA e-tickets — egymonuments.com Salah Eldin Citadel. Foreign / student / Egyptian tiers as published; mosque visit via Citadel entry bundling — do not invent EGP. Prefer MOTA over OTA. Al-Azhar / Sultan Hassan / Pyramids / Saqqara = separate products.",
+      "dress": "Active mosque inside Citadel — covered arms/legs; women headscarf typically required; shoes off in prayer hall; quiet during prayer; photography rules as posted.",
+      "duration": "1–2 hours mosque + Citadel viewpoints; longer if adding Citadel museums on the same ticket ecology.",
+      "access": "Cairo taxi / tour to Saladin Citadel plateau. Separate timing from Al-Azhar / Khan el-Khalili walk. Not a Pyramids combo.",
+      "tips": [
+        "Buy MOTA Citadel e-ticket on egymonuments.com — do not invent EGP.",
+        "Mosque is inside Citadel ticket ecology — verify current bundling.",
+        "Bring scarf / modest dress; shoes off in prayer hall.",
+        "Do not invent combo with Pyramids / Saqqara / Al-Azhar.",
+        "Prayer times can limit hall access — plan courtyard time.",
+        "Earn Ottoman Citadel postcard vs Mamluk scholarly trio.",
+        "Prefer MOTA over random OTA “Citadel VIP.”"
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://egymonuments.com/locations/details/SalahElDin",
+      "ticketsLabel": "MoTA e-tickets — Salah Eldin Citadel (egymonuments.com; mosque included as published)",
+      "ticketsNote": "Citadel ticket ecology; mosque not a separate invent-EGP product; Al-Azhar/Pyramids separate."
+    },
+    "etiquette": {
+      "intro": "Active Ottoman mosque inside Citadel — dress and prayer rules.",
+      "bullets": [
+        "Covered arms/legs; women headscarf typically required; shoes off in prayer hall.",
+        "Quiet during prayer; follow posted photography rules.",
+        "Keep Al-Azhar / Sultan Hassan / Pyramids / Saqqara as separate tickets.",
+        "Threshold Atlas tone: Ottoman state mosque / Muhammad Ali Pasha — not Alabaster Instagram only."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach the Citadel mosque from central Cairo.",
+      "paragraphs": [
+        "Most visitors reach the Saladin Citadel by taxi or licensed tour from central / Islamic Cairo. Allow time for plateau security queues.",
+        "Buy the MOTA Citadel ticket on egymonuments.com. Do not invent EGP from old PDFs or tour handouts.",
+        "Al-Azhar, Ibn Tulun, Sultan Hassan, the Pyramids, and Saqqara are separate MOTA or mosque products. Do not invent a single Cairo sacred pass."
+      ],
+      "bullets": [
+        "Taxi / tour to Citadel plateau",
+        "egymonuments.com Citadel e-ticket",
+        "Al-Azhar / Pyramids / Saqqara = separate",
+        "Allow security queue time"
+      ]
+    },
+    "bestTime": {
+      "intro": "Morning cooler; watch prayer-time hall limits.",
+      "paragraphs": [
+        "Morning is usually cooler on the plateau and calmer before coach waves. Confirm last entry on egymonuments.com.",
+        "Prayer times can reshape prayer-hall visitor access — courtyard and exterior views remain part of the Citadel circuit."
+      ],
+      "bullets": [
+        "Best: morning before heat + coaches",
+        "Prayer-time hall limits soft blocker",
+        "Verify MOTA Citadel hours / last entry",
+        "Do not invent EGP / Pyramids combo myths"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm MOTA Citadel e-ticket on egymonuments.com — do not invent EGP.",
+        "Earn Ottoman Citadel postcard vs Al-Azhar / Ibn Tulun / Sultan Hassan scholarly trio.",
+        "Security queues, dress/scarf rules, and prayer-time limits are standing soft blockers.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "kushinagar",
+    "name": "Kushinagar / Kushinara (कुशीनगर) Parinirvana Temple Cluster, Uttar Pradesh",
+    "shortName": "Kushinagar",
+    "location": "Kushinagar pilgrimage town, eastern Uttar Pradesh (Gorakhpur gateway)",
+    "country": "India",
+    "region": "South Asia",
+    "regionSlug": "south-asia",
+    "religions": [
+      "Buddhist"
+    ],
+    "religionSlugs": [
+      "buddhist"
+    ],
+    "summary": "Buddha’s Parinirvana / cremation-stupa pilgrimage city — Mahaparinirvana Temple reclining Buddha, Ramabhar Stupa, museum lanes. Closes life-circuit with live Lumbini / Mahabodhi / Sarnath. UP tourism + temple-trust / ASI visitor lanes. Do not invent INR.",
+    "heroImage": "https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Ancient Kushinara — traditional site of the Buddha’s Parinirvana; Mahaparinirvana Temple reclining image and Ramabhar cremation stupa landscape",
+      "patron": "Buddhist — Parinirvana pilgrimage city; temple-trust and ASI / museum visitor lanes",
+      "unesco": "Not a standalone World Heritage listing (major Buddhist pilgrimage city on the life-circuit)",
+      "typicalVisit": "Half- to full-day temple cluster from Gorakhpur (~1.5–2 h); Buddhist-circuit coaches from Sarnath / Patna / Lumbini border routes"
+    },
+    "related": [
+      "lumbini",
+      "mahabodhi",
+      "sarnath"
+    ],
+    "overview": {
+      "body": [
+        "Kushinagar is the Parinirvana mega — the pilgrimage town of the Buddha’s death and cremation-stupa landscape that closes the life-circuit with live Lumbini (birth), Mahabodhi (enlightenment), and Sarnath (first teaching).",
+        "Frame the visit as Parinirvana / Ramabhar honesty: Mahaparinirvana Temple reclining Buddha, associated stupas, and museum lanes serve pilgrims and tourists together. This is not an “UP ruins checklist” stop.",
+        "Official / honest tickets: temple-trust, ASI, and museum products as published on site and via UP / district tourism notices (kushinagar.nic.in places-of-interest). Some shrine lanes are donation-first; museum may be separate — do not invent INR from package “Buddhist circuit VIP” fares.",
+        "Gorakhpur gateway (rail/air) — road to Kushinagar (~1.5–2 h class). India–Nepal border formalities are separate if chaining Lumbini — do not invent a visa-free one-ticket myth covering Nepal + Bodh Gaya + Sarnath.",
+        "Soft blockers: extreme summer heat; circuit-coach pressure; multiple shrines with different fee patterns. Kedarnath/Badrinath seasonal stay parked. SanctaWay is informational — it does not sell tickets or grant access."
+      ],
+      "highlights": [
+        "Buddha Parinirvana / cremation-stupa pilgrimage city",
+        "Closes life-circuit with Lumbini / Mahabodhi / Sarnath",
+        "Temple-trust / ASI / museum lanes — do not invent INR",
+        "Gorakhpur gateway; Lumbini border = separate formalities",
+        "Dawn / dusk pilgrimage atmosphere; summer heat soft blocker"
+      ]
+    },
+    "visit": {
+      "intro": "Parinirvana cluster — temple-trust / ASI honesty; no invent INR; not Lumbini one-ticket myth.",
+      "hours": "Mahaparinirvana Temple / Ramabhar Stupa / museum daytime windows — verify UP tourism / temple-trust / on-site notices. Dawn and dusk pilgrimage atmosphere; summer heat extreme.",
+      "tickets": "Temple-trust / ASI / museum products as published — do not invent INR. Some shrines donation-first; museum separate when ticketed. Prefer official / trust counters over opaque package “Buddhist circuit VIP” fares. Lumbini (Nepal) / Bodh Gaya / Sarnath = separate sites and tickets.",
+      "dress": "Active Buddhist pilgrimage — modest dress; shoes off in temples; quiet at reclining Buddha; no climbing stupas; photography rules in shrine halls as posted.",
+      "duration": "3–5 hours main cluster; full day if adding peripheral monasteries / museum depth.",
+      "access": "Gorakhpur gateway — road (~1.5–2 h). Buddhist-circuit coaches common. Lumbini (Nepal) requires separate border formalities — not one ticket.",
+      "tips": [
+        "Verify temple-trust / ASI / museum products on site — do not invent INR.",
+        "Do not invent one ticket covering Lumbini (Nepal) + Bodh Gaya + Sarnath.",
+        "Shoes off in temples; quiet at the reclining Buddha.",
+        "Summer heat is extreme — carry water; prefer early/late light.",
+        "Photography rules in shrine halls as posted.",
+        "Prefer official / trust counters over opaque circuit VIP packages.",
+        "Earn Parinirvana circuit close with live Lumbini / Mahabodhi / Sarnath."
+      ],
+      "entryType": "verify",
+      "ticketsUrl": "https://kushinagar.nic.in/places-of-interest/",
+      "ticketsLabel": "Kushinagar district — places of interest (UP; temple-trust / ASI lanes on site)",
+      "ticketsNote": "Mixed donation / ASI / museum patterns — verify on site; do not invent INR; Lumbini separate country."
+    },
+    "etiquette": {
+      "intro": "Active Parinirvana pilgrimage — temples and stupas.",
+      "bullets": [
+        "Modest dress; shoes off in temples; quiet at reclining Buddha.",
+        "No climbing stupas; photo rules in shrine halls as posted.",
+        "Keep Lumbini / Mahabodhi / Sarnath as separate sites and tickets.",
+        "Threshold Atlas tone: Parinirvana / cremation-stupa — not UP ruins checklist."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Kushinagar from Gorakhpur / the Buddhist circuit.",
+      "paragraphs": [
+        "Most visitors reach Kushinagar by road from Gorakhpur (~1.5–2 h class) after rail or air into Gorakhpur. Buddhist-circuit coaches also link from Sarnath / Patna routes.",
+        "Pay temple-trust / ASI / museum products as published on site. Do not invent INR from package handouts.",
+        "Lumbini sits across the Nepal border with separate formalities and tickets. Do not invent a single India–Nepal Buddhist circuit pass."
+      ],
+      "bullets": [
+        "Gorakhpur → Kushinagar ~1.5–2 h",
+        "Temple-trust / ASI / museum on-site products",
+        "Lumbini (Nepal) = separate border + tickets",
+        "Heat management — early start"
+      ]
+    },
+    "bestTime": {
+      "intro": "Cooler months; dawn/dusk pilgrimage light; avoid peak heat.",
+      "paragraphs": [
+        "Cooler months are kinder for the open stupa landscape. Dawn and dusk carry strong pilgrimage atmosphere.",
+        "Summer heat in the Gangetic plain is a hard soft-blocker for midday walking — plan shade and water."
+      ],
+      "bullets": [
+        "Best: cooler months; dawn/dusk light",
+        "Summer heat soft blocker",
+        "Verify shrine / museum hours on site",
+        "Do not invent INR / Lumbini one-ticket myths"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm temple-trust / ASI / museum products on site — do not invent INR.",
+        "Earn Parinirvana circuit close with Lumbini / Mahabodhi / Sarnath — no Nepal one-ticket myth.",
+        "Heat and circuit-coach pressure are standing soft blockers.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "jongmyo",
+    "name": "Jongmyo Shrine (종묘), Seoul",
+    "shortName": "Jongmyo",
+    "location": "Jongno-gu, Seoul (metro / walk from Jongno palace cluster)",
+    "country": "South Korea",
+    "region": "East Asia",
+    "regionSlug": "east-asia",
+    "religions": [
+      "Confucian"
+    ],
+    "religionSlugs": [
+      "confucian"
+    ],
+    "summary": "UNESCO Joseon royal ancestral shrine — Korea Heritage / Royal Palaces and Tombs Center ticketed. Clearest confucian #2 after live Qufu. Guided/limited hall patterns on weekdays; ritual (Jerye) days reshape access. Do not invent KRW.",
+    "heroImage": "https://images.unsplash.com/photo-1538485399081-7191377e8241?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Joseon dynasty royal ancestral shrine (1390s foundation class; continuous state ancestral rite tradition)",
+      "patron": "Confucian — Joseon royal ancestral spirit tablets / Jongmyo Jerye ritual landscape",
+      "unesco": "Jongmyo Shrine (1995); Jongmyo Jerye and its music recognized on intangible heritage lists",
+      "typicalVisit": "1.5–3 hours; often pair Changdeokgung / Changgyeonggung without inventing one ticket covering all palaces"
+    },
+    "related": [
+      "qufu-confucius",
+      "temple-of-heaven",
+      "nikko-tosho-gu"
+    ],
+    "overview": {
+      "body": [
+        "Jongmyo is Seoul’s royal ancestral shrine mega — the Joseon Confucian spirit-tablet landscape and UNESCO ritual grounds that every Korea Heritage itinerary should name as confucian #2 after live Qufu, not a Buddhist temple densify after Bulguksa / Haeinsa.",
+        "Frame the visit as Joseon royal ancestral rite honesty: Jeongjeon and Yeongnyeongjeon halls, ritual courtyards, and music tradition. Weekday access is often timed/guided; some halls have limited open patterns — verify before travel.",
+        "Official tickets: Korea Heritage / Royal Palaces and Tombs Center — royal.khs.go.kr Jongmyo pages. Palace combo tickets may or may not include Jongmyo as published — state clearly and do not invent KRW. Prefer official over scalpers.",
+        "Seoul metro (Jongno) — walk to Jongmyo. Often pair Changdeokgung / Changgyeonggung on separate or combo products as published — do not invent one pass covering all palaces plus Bulguksa / Haeinsa.",
+        "Soft blockers: guided-only / limited hall patterns; ritual (Jerye) day closures or reshaped access; Tuesday close patterns when published. SanctaWay is informational — it does not sell tickets or grant access."
+      ],
+      "highlights": [
+        "UNESCO Joseon royal ancestral shrine",
+        "royal.khs.go.kr Korea Heritage tickets — do not invent KRW",
+        "Confucian #2 after Qufu — not a Buddhist temple pitch",
+        "Weekday guided/limited hall patterns — verify",
+        "Palace combo honesty — Changdeok/Changgyeong separate logic"
+      ]
+    },
+    "visit": {
+      "intro": "Korea Heritage Jongmyo — royal.khs.go.kr; no invent KRW; not Buddhist temple / palace mega-merge.",
+      "hours": "Korea Heritage site hours — verify royal.khs.go.kr Jongmyo pages (seasonal close; Tuesday patterns when published). Weekday timed/guided entry common; weekend/holiday general admission patterns as listed. Ritual days reshape access.",
+      "tickets": "Korea Heritage / Royal Palaces and Tombs Center ticketing — royal.khs.go.kr. Adult / youth / free-eligible tiers and Culture Day patterns as published — do not invent KRW. Palace combo products may or may not include Jongmyo — verify on official pages. Prefer official over scalpers.",
+      "dress": "Royal Confucian ancestral shrine — modest quiet dress; no picnicking in ritual courtyards; stay on marked paths; no touching spirit tablets / shrines.",
+      "duration": "1.5–3 hours shrine circuit (guided segments may set pace).",
+      "access": "Seoul metro to Jongno area — walk to Jongmyo. Pair Changdeokgung / Changgyeonggung without inventing one ticket covering all unless official combo says so.",
+      "tips": [
+        "Check royal.khs.go.kr Jongmyo hours / guided rules before travel — do not invent KRW.",
+        "Weekdays may require timed guided entry — reserve when the system requires it.",
+        "Do not invent combo with Bulguksa / Haeinsa.",
+        "Palace combo may or may not include Jongmyo — read the official product.",
+        "Modest quiet dress; no picnic in ritual courtyards.",
+        "Ritual (Jerye) days reshape access — verify calendar.",
+        "Earn confucian ancestral shrine framing — not Buddhist temple pitch."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://royal.khs.go.kr/ROYAL/contents/R702000000.do?schGroupCode=jms",
+      "ticketsLabel": "Royal Palaces and Tombs Center — Jongmyo hours / admission (royal.khs.go.kr)",
+      "ticketsNote": "Korea Heritage ticketed; guided/limited patterns; palace combo honesty; do not invent KRW."
+    },
+    "etiquette": {
+      "intro": "Royal Confucian ancestral shrine — courtyards and halls.",
+      "bullets": [
+        "Modest quiet dress; stay on marked paths; no touching spirit tablets.",
+        "No picnicking in ritual courtyards; follow guided routes when required.",
+        "Keep Bulguksa / Haeinsa / other palaces as separate logic unless official combo says otherwise.",
+        "Threshold Atlas tone: Joseon royal ancestral rite — not Seoul palace garden selfie."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Jongmyo in Seoul.",
+      "paragraphs": [
+        "Most visitors take Seoul metro to the Jongno area and walk to Jongmyo. It sits in the same broad palace district as Changdeokgung / Changgyeonggung.",
+        "Buy Korea Heritage tickets via royal.khs.go.kr / on-site channels as published. Do not invent KRW from blogs.",
+        "Do not invent a single ticket covering Jongmyo + every Seoul palace + Gyeongju temples. Read official combo products carefully."
+      ],
+      "bullets": [
+        "Seoul metro → Jongno walk",
+        "royal.khs.go.kr Jongmyo pages",
+        "Palace combo honesty — verify inclusion",
+        "Weekday guided entry soft blocker"
+      ]
+    },
+    "bestTime": {
+      "intro": "Check guided vs general-admission days; avoid assuming open halls.",
+      "paragraphs": [
+        "Weekend / holiday general-admission patterns are often easier for independent visitors; weekdays may be guided-only — confirm on royal.khs.go.kr.",
+        "Ritual (Jerye) days are culturally important but can reshape tourist access — verify the calendar before you go."
+      ],
+      "bullets": [
+        "Best: verify guided vs open-day pattern first",
+        "Ritual day access soft blocker",
+        "Seasonal hour shifts on official pages",
+        "Do not invent KRW / palace mega-combo myths"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm royal.khs.go.kr Jongmyo hours and tickets — do not invent KRW.",
+        "Earn confucian #2 after Qufu — not Buddhist temple densify.",
+        "Guided/limited halls and ritual-day reshaping are standing soft blockers.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "garni",
+    "name": "Temple of Garni (Գառնիի տաճար), Kotayk",
+    "shortName": "Garni",
+    "location": "Garni village plateau / fortress, Kotayk Province (east of Yerevan)",
+    "country": "Armenia",
+    "region": "Middle East",
+    "regionSlug": "middle-east",
+    "religions": [
+      "Ancient Greek"
+    ],
+    "religionSlugs": [
+      "ancient-greek"
+    ],
+    "summary": "1st-century Ionic Greco-Roman temple reconstruction inside fortress — classic Geghard day-pair. Pagan Hellenistic faith-distinct from Etchmiadzin Mother See and Geghard rock monastery. Ticketed museum-reserve (garni.mus.am / armenia.travel). Do not invent AMD.",
+    "heroImage": "https://images.unsplash.com/photo-1555993539-1732b0258235?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "1st century CE Ionic temple (Hellenistic / Greco-Roman sacred fabric; major modern reconstruction after collapse)",
+      "patron": "Ancient Greek / Hellenistic — Ionic temple inside fortress; nearby church / khachkar landscape separate",
+      "unesco": "Not a standalone World Heritage listing (national historic-cultural museum-reserve)",
+      "typicalVisit": "Half-day from Yerevan (~40–50 min east) almost always paired with Geghard further up the gorge — separate site tickets"
+    },
+    "related": [
+      "geghard",
+      "olympia",
+      "acropolis-parthenon"
+    ],
+    "overview": {
+      "body": [
+        "Garni is Armenia’s pagan Hellenistic mega — the Ionic colonnade temple on the fortress plateau that every Geghard day-pair names, faith-distinct from the Christian Mother See at Etchmiadzin and the rock monastery at Geghard.",
+        "Frame the visit with reconstruction candour: the standing Ionic temple is a major modern rebuild after historical collapse — still a first-century sacred/fortress site, not a “Roman selfie set only.” Nearby church and khachkar zones deserve quiet respect.",
+        "Official tickets: Garni Historical-Cultural Museum-Reserve — garni.mus.am / armenia.travel guidance. Site ticket on-site / official channels — do not invent AMD. Geghard is separate (often free/donation). Prefer official over OTA “Garni+Geghard VIP” opaque bundles.",
+        "Yerevan gateway — road east to Garni (~40–50 min class); almost always same-day with Geghard further up the gorge. Taxi / tour standard. Symphony of Stones gorge walk ≠ temple ticket.",
+        "Soft blockers: reconstruction honesty (original vs rebuild); gorge wind; summer heat on exposed plateau; do not invent one ticket with Etchmiadzin / Geghard. SanctaWay is informational — it does not sell tickets or grant access."
+      ],
+      "highlights": [
+        "Ionic Greco-Roman temple on fortress plateau",
+        "garni.mus.am / armenia.travel — do not invent AMD",
+        "Geghard day-pair — separate tickets",
+        "Reconstruction candour — original vs rebuild",
+        "Faith-distinct from Etchmiadzin Mother See"
+      ]
+    },
+    "visit": {
+      "intro": "Garni museum-reserve — garni.mus.am; no invent AMD; not Etchmiadzin/Geghard one-pass.",
+      "hours": "Ticketed temple fortress daytime — verify garni.mus.am / armenia.travel / on-site notices. Morning or late afternoon for Ionic colonnade light; summer heat on exposed plateau.",
+      "tickets": "Site ticket on-site / official museum-reserve channels — garni.mus.am. Do not invent AMD. Geghard is separate (often free/donation). Prefer armenia.travel / official over OTA “Garni+Geghard VIP” opaque bundles. Etchmiadzin = separate west-of-Yerevan day.",
+      "dress": "Reconstructed Greco-Roman Ionic temple inside fortress — modest practical dress; no climbing colonnade / stylobate when restricted; respect nearby church / khachkar zones.",
+      "duration": "1–2 hours temple fortress; half-day with Geghard including transfers.",
+      "access": "Yerevan east (~40–50 min). Same-day Geghard common — separate tickets. Symphony of Stones gorge walk ≠ temple ticket.",
+      "tips": [
+        "Buy site ticket via official / on-site — do not invent AMD.",
+        "Geghard is separate — do not invent one Garni+Geghard pass from OTA VIP.",
+        "State reconstruction history honestly (rebuild after collapse).",
+        "No climbing colonnade when restricted.",
+        "Etchmiadzin is a different west-of-Yerevan day — not one Armenia pass.",
+        "Symphony of Stones walk ≠ temple ticket.",
+        "Morning or late light for colonnade; watch plateau heat/wind."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://garni.mus.am/en/",
+      "ticketsLabel": "Garni Historical-Cultural Museum-Reserve (garni.mus.am; armenia.travel guidance)",
+      "ticketsNote": "Site ticket; Geghard separate; do not invent AMD; reconstruction honesty."
+    },
+    "etiquette": {
+      "intro": "Hellenistic temple fortress — colonnade and nearby Christian fabric.",
+      "bullets": [
+        "No climbing colonnade / stylobate when restricted.",
+        "Modest practical dress; respect nearby church / khachkar zones.",
+        "Keep Geghard / Etchmiadzin as separate tickets / days.",
+        "Threshold Atlas tone: 1st-c. Hellenistic sacred / fortress with reconstruction candour — not Roman selfie set only."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Garni from Yerevan (Geghard pair).",
+      "paragraphs": [
+        "Most visitors take a taxi or licensed tour east from Yerevan (~40–50 min class) and continue to Geghard further up the gorge the same day.",
+        "Buy the Garni museum-reserve ticket on site / official channels (garni.mus.am). Do not invent AMD from OTA VIP bundles.",
+        "Geghard and Etchmiadzin are separate. Do not invent one Armenia sacred pass covering pagan temple + Mother See + rock monastery."
+      ],
+      "bullets": [
+        "Yerevan → Garni ~40–50 min east",
+        "garni.mus.am site ticket",
+        "Geghard same-day common — separate ticket",
+        "Etchmiadzin = different west day"
+      ]
+    },
+    "bestTime": {
+      "intro": "Morning or late colonnade light; watch plateau heat.",
+      "paragraphs": [
+        "Morning or late afternoon usually gives kinder light on the Ionic colonnade and cooler plateau walking.",
+        "Summer midday heat and gorge wind are soft blockers — carry water and a layer."
+      ],
+      "bullets": [
+        "Best: morning or late colonnade light",
+        "Plateau heat / wind soft blocker",
+        "Verify museum-reserve hours",
+        "Do not invent AMD / Etchmiadzin one-pass myths"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm garni.mus.am / on-site ticket — do not invent AMD.",
+        "Earn pagan Hellenistic faith-distinct from Geghard + Etchmiadzin; state reconstruction honesty.",
+        "Heat, wind, and OTA combo myths are standing soft blockers.",
         "SanctaWay is informational; it does not sell tickets or grant access.",
         "Hero image is an Unsplash placeholder pending visual / Commons pass."
       ]

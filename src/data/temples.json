@@ -1290,7 +1290,7 @@
     "related": [
       "church-of-the-nativity",
       "western-wall",
-      "mount-nebo"
+      "bethany-beyond-jordan"
     ],
     "overview": {
       "body": [
@@ -1634,7 +1634,7 @@
     "related": [
       "milan-duomo",
       "sagrada-familia",
-      "st-basils"
+      "basilica-yamoussoukro"
     ],
     "overview": {
       "body": [
@@ -1863,7 +1863,7 @@
     "related": [
       "holy-sepulchre",
       "st-peters",
-      "axum"
+      "basilica-yamoussoukro"
     ],
     "overview": {
       "body": [
@@ -3230,7 +3230,7 @@
     "related": [
       "stonehenge",
       "santiago-de-compostela",
-      "goreme-open-air"
+      "geghard"
     ],
     "overview": {
       "body": [
@@ -3921,7 +3921,7 @@
     "related": [
       "petra",
       "chichen-itza",
-      "coricancha"
+      "cahokia"
     ],
     "overview": {
       "body": [
@@ -4958,7 +4958,7 @@
     "related": [
       "holy-sepulchre",
       "western-wall",
-      "mount-nebo"
+      "bethany-beyond-jordan"
     ],
     "overview": {
       "body": [
@@ -5188,7 +5188,7 @@
     "related": [
       "acropolis-parthenon",
       "machu-picchu",
-      "gobekli-tepe"
+      "newgrange"
     ],
     "overview": {
       "body": [
@@ -5875,7 +5875,7 @@
     "related": [
       "stonehenge",
       "petra",
-      "olympia"
+      "newgrange"
     ],
     "overview": {
       "body": [
@@ -6217,7 +6217,7 @@
     "related": [
       "chichen-itza",
       "machu-picchu",
-      "monte-alban"
+      "el-tajin"
     ],
     "overview": {
       "body": [
@@ -6331,7 +6331,7 @@
     "related": [
       "karnak",
       "petra",
-      "hatshepsut-temple"
+      "edfu"
     ],
     "overview": {
       "body": [
@@ -6559,7 +6559,7 @@
     "related": [
       "acropolis-parthenon",
       "mont-saint-michel",
-      "olympia"
+      "geghard"
     ],
     "overview": {
       "body": [
@@ -7359,7 +7359,7 @@
     "related": [
       "stonehenge",
       "petra",
-      "acropolis-parthenon"
+      "newgrange"
     ],
     "overview": {
       "body": [
@@ -7472,7 +7472,7 @@
     "related": [
       "acropolis-parthenon",
       "meteora",
-      "olympia"
+      "mount-nemrut"
     ],
     "overview": {
       "body": [
@@ -9059,7 +9059,7 @@
     "related": [
       "guadalupe",
       "lourdes",
-      "lujan"
+      "basilica-yamoussoukro"
     ],
     "overview": {
       "body": [
@@ -9964,7 +9964,7 @@
     "related": [
       "machu-picchu",
       "teotihuacan",
-      "coricancha"
+      "cahokia"
     ],
     "overview": {
       "body": [
@@ -11198,7 +11198,7 @@
     "related": [
       "machu-picchu",
       "tiwanaku",
-      "petra"
+      "cahokia"
     ],
     "overview": {
       "body": [
@@ -12543,7 +12543,7 @@
     "related": [
       "abu-simbel",
       "karnak",
-      "luxor-temple"
+      "edfu"
     ],
     "overview": {
       "body": [
@@ -15122,7 +15122,7 @@
     "related": [
       "jasna-gora",
       "montserrat",
-      "trinity-sergius-lavra"
+      "geghard"
     ],
     "overview": {
       "body": [
@@ -17044,7 +17044,7 @@
     "related": [
       "teotihuacan",
       "chichen-itza",
-      "monte-alban"
+      "el-tajin"
     ],
     "overview": {
       "body": [
@@ -17157,7 +17157,7 @@
     "related": [
       "karnak",
       "abu-simbel",
-      "hatshepsut-temple"
+      "edfu"
     ],
     "overview": {
       "body": [
@@ -17383,7 +17383,7 @@
     "related": [
       "teotihuacan",
       "templo-mayor",
-      "palenque"
+      "el-tajin"
     ],
     "overview": {
       "body": [
@@ -17496,7 +17496,7 @@
     "related": [
       "acropolis-parthenon",
       "delphi",
-      "meteora"
+      "mount-nemrut"
     ],
     "overview": {
       "body": [
@@ -17609,7 +17609,7 @@
     "related": [
       "hagia-sophia",
       "meteora",
-      "holy-sepulchre"
+      "mount-nemrut"
     ],
     "overview": {
       "body": [
@@ -17948,7 +17948,7 @@
     "related": [
       "petra",
       "holy-sepulchre",
-      "church-of-the-nativity"
+      "bethany-beyond-jordan"
     ],
     "overview": {
       "body": [
@@ -18142,6 +18142,910 @@
         "Confirm Hatshepsut / Deir el-Bahari MOTA tiers on egymonuments.com — do not invent EGP.",
         "Valley of the Kings is separate; Karnak / Luxor Temple are east-bank separate tickets.",
         "Heat midday is a soft blocker on open terraces.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "el-tajin",
+    "name": "El Tajín, Veracruz",
+    "shortName": "El Tajín",
+    "location": "Near Papantla, Veracruz (Classic Veracruz / Totonac ceremonial city)",
+    "country": "Mexico",
+    "region": "Americas",
+    "regionSlug": "americas",
+    "religions": [
+      "Mesoamerican"
+    ],
+    "religionSlugs": [
+      "mesoamerican"
+    ],
+    "summary": "UNESCO Classic Veracruz ceremonial city — Pyramid of the Niches postcard mega after live Maya / Zapotec / Teotihuacan. INAH archaeological zone — boleto online/on-site; do not invent MXN. Heat + humidity; Voladores de Papantla plaza schedule ≠ zone ticket.",
+    "heroImage": "https://images.unsplash.com/photo-1518638150340-f706e86654de?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Classic Veracruz ceremonial city (peak roughly Epiclassic; later occupation layers)",
+      "patron": "Mesoamerican — Classic Veracruz / Totonac ceremonial city (Tajín / thunder associations; archaeological sacred city)",
+      "unesco": "UNESCO World Heritage — El Tajín, Pre-Hispanic City",
+      "typicalVisit": "2–3 hours core zone + site museum when open; Voladores plaza schedule separate when posted"
+    },
+    "related": [
+      "teotihuacan",
+      "monte-alban",
+      "templo-mayor"
+    ],
+    "overview": {
+      "body": [
+        "El Tajín is the Classic Veracruz ceremonial mega near Papantla — Pyramid of the Niches, ballcourts, and relief programmes — still a distinct visit from live Maya capitals (Uxmal / Chichén) and Zapotec Monte Albán, not a second Teotihuacan selfie merge.",
+        "Frame the visit as niche geometry + ballcourt ritual honesty. Modest practical dress; no climbing the Niche Pyramid when restricted; no drone without permit.",
+        "Official tickets: INAH boleto — online ventadeboletosenlinea.inah.gob.mx and on-site. Mexican vs foreign tiers; Sunday-free rules when published — do not invent MXN. Prefer INAH over random OTA “Tajín VIP.”",
+        "INAH zone commonly daytime (verify inah.gob.mx / Lugares INAH / site desk). Morning before heat and coach peak is usually the calmest class; Voladores de Papantla plaza performances follow a separate posted schedule.",
+        "Soft blockers: Gulf heat / humidity; Voladores show ≠ zone ticket; do not invent combo with El Zapotal / Cempoala / Chichén as one pass; earn Classic Veracruz niches capital vs Maya / Zapotec / Teotihuacan. SanctaWay is informational — it does not sell tickets or grant access."
+      ],
+      "highlights": [
+        "UNESCO Classic Veracruz — Pyramid of the Niches",
+        "INAH boleto online + on-site — do not invent MXN",
+        "Distinct from Maya / Monte Albán / Teotihuacan",
+        "Morning before heat and coach peak",
+        "Voladores plaza ≠ zone admission"
+      ]
+    },
+    "visit": {
+      "intro": "INAH Classic Veracruz zone — boleto honesty; no invent MXN; not a Maya combo.",
+      "hours": "INAH zone commonly daytime; last-entry vs close as posted — verify inah.gob.mx / Lugares INAH / site desk. Morning Niche Pyramid light before heat.",
+      "tickets": "INAH boleto — ventadeboletosenlinea.inah.gob.mx and on-site. Mexican vs foreign tiers; Sunday-free when published — do not invent MXN. Prefer INAH over OTA. Voladores plaza schedule is separate when posted.",
+      "dress": "Archaeological Classic Veracruz ceremonial city — modest practical dress; no climbing restricted structures; no drone without permit.",
+      "duration": "2–3 hours core zone + site museum when open; Voladores plaza is a separate schedule product.",
+      "access": "Poza Rica / Papantla / Veracruz City gateways; ADO / rental common; often day from Veracruz or overnight Papantla — not a Chichén / Teotihuacan same-ticket myth.",
+      "tips": [
+        "Buy INAH boleto online or on-site — do not invent MXN.",
+        "Do not invent combo with Chichén / Monte Albán / Cempoala.",
+        "Morning beats midday Gulf heat and humidity.",
+        "No climbing Niche Pyramid where posted — follow ropes.",
+        "Voladores performances are not zone admission.",
+        "Heat / humidity soft blocker — water + shade + sun cover.",
+        "Prefer INAH over random OTA “Tajín VIP.”"
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://ventadeboletosenlinea.inah.gob.mx/",
+      "ticketsLabel": "INAH e-tickets — El Tajín zone (ventadeboletosenlinea.inah.gob.mx)",
+      "ticketsNote": "INAH boleto; Mexican/foreign tiers; Sunday-free when published; do not invent MXN."
+    },
+    "etiquette": {
+      "intro": "Archaeological Classic Veracruz capital — stay off restricted climbs.",
+      "bullets": [
+        "No climbing restricted structures; Niche Pyramid rules as posted.",
+        "Modest practical dress; no drone without permit.",
+        "Keep Maya / Monte Albán / Teotihuacan as separate ticketed visits.",
+        "Threshold Atlas tone: niche geometry + ballcourt ritual — not Veracruz ruins selfie only."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach El Tajín from Papantla / Veracruz / Poza Rica.",
+      "paragraphs": [
+        "Papantla and Poza Rica are the usual near gateways; Veracruz City is a longer road day. Reach the zone by ADO coach + local taxi, rental car, or organized day. This is Classic Veracruz country — not on the Yucatán Maya circuit.",
+        "Buy the INAH zone boleto on ventadeboletosenlinea.inah.gob.mx or at the desk. Mexican vs foreign tiers and Sunday-free rules when published — do not invent MXN from old blogs.",
+        "Voladores de Papantla plaza shows and nearby sites (Cempoala / El Zapotal class) are separate products. Do not invent a single Veracruz sacred pass covering Maya capitals."
+      ],
+      "bullets": [
+        "Papantla / Poza Rica gateways; Veracruz longer day",
+        "ADO / rental / taxi — not Maya same-ticket",
+        "INAH boleto online or on-site",
+        "Voladores / nearby sites = separate"
+      ]
+    },
+    "bestTime": {
+      "intro": "Morning Niche Pyramid light before Gulf heat and coach peak.",
+      "paragraphs": [
+        "Morning usually beats midday heat / humidity on open plazas and the coach crush around the Niches. Late afternoon can work if heat is manageable — verify last-entry vs close.",
+        "Major Mexican holidays may affect hours when posted — check inah.gob.mx / Lugares INAH rather than inventing MXN windows."
+      ],
+      "bullets": [
+        "Best: morning Niche Pyramid light",
+        "Midday heat / humidity soft blocker",
+        "Verify holiday hours on INAH notices",
+        "Do not invent MXN / combo myths"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm INAH boleto tiers on ventadeboletosenlinea.inah.gob.mx — do not invent MXN.",
+        "Maya / Monte Albán / Teotihuacan are separate — do not merge.",
+        "Voladores plaza ≠ zone admission.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "cahokia",
+    "name": "Cahokia Mounds State Historic Site, Illinois",
+    "shortName": "Cahokia",
+    "location": "Collinsville, Illinois (St. Louis metro east) — Mississippian sacred city",
+    "country": "United States",
+    "region": "Americas",
+    "regionSlug": "americas",
+    "religions": [
+      "Prehistoric"
+    ],
+    "religionSlugs": [
+      "prehistoric"
+    ],
+    "summary": "UNESCO Mississippian sacred city — Monks Mound civic-ceremonial capital; first USA sacred landscape on SanctaWay. Illinois DNR / Cahokia Mounds official channels — grounds commonly free with suggested donation; do not invent USD as a required fare. Summer heat / winter ice; Indigenous Mississippian honesty.",
+    "heroImage": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Mississippian civic-ceremonial capital (peak roughly 1050–1350 CE class; earlier and later layers)",
+      "patron": "Prehistoric — Mississippian sacred city (Monks Mound / plaza ceremonial landscape; Indigenous ancestral city)",
+      "unesco": "UNESCO World Heritage — Cahokia Mounds State Historic Site",
+      "typicalVisit": "2–4 hours mounds + Interpretive Center lobby when open; gallery hours change with NAGPRA / renovation notices"
+    },
+    "related": [
+      "stonehenge",
+      "tiwanaku",
+      "teotihuacan"
+    ],
+    "overview": {
+      "body": [
+        "Cahokia is the Mississippian sacred-city mega east of St. Louis — Monks Mound, plazas, and Woodhenge class alignments — the first United States sacred landscape on SanctaWay, not a Midwest hill walk only and not an invented NPS unit myth (Illinois DNR state historic site with UNESCO status).",
+        "Frame the visit as Indigenous Mississippian civic-ceremonial capital honesty. Modest practical dress; stay on marked paths; no digging / metal detecting; respect mound slopes as posted.",
+        "Official access: Cahokia Mounds / IL DNR channels — grounds commonly open dawn–dusk with no required admission fee; suggested donations and Interpretive Center hours are published on cahokiamounds.org — do not invent USD as a mandatory fare. Prefer official site over third-party “mound tour” opacity.",
+        "Interpretive Center lobby / gallery hours change (renovation and NAGPRA-related gallery closures have been posted) — verify cahokiamounds.org before travel. Summer heat on Monks Mound climb; winter ice on paths.",
+        "Soft blockers: heat / ice; some mounds view-only; do not invent combo with Gateway Arch as one ticket; page must not overclaim living temple practice. SanctaWay is informational — it does not sell tickets or grant access."
+      ],
+      "highlights": [
+        "UNESCO Mississippian capital — Monks Mound",
+        "First USA sacred landscape on SanctaWay",
+        "Official cahokiamounds.org — free grounds / donation honesty",
+        "Interpretive Center hours can change — verify",
+        "Indigenous Mississippian framing — not hill-walk only"
+      ]
+    },
+    "visit": {
+      "intro": "Illinois DNR / Cahokia Mounds — free grounds honesty; no invent USD fare.",
+      "hours": "Grounds commonly dawn–dusk daily; Interpretive Center lobby / gallery hours as posted on cahokiamounds.org (often Wed–Sun class while exhibits change) — verify before travel.",
+      "tickets": "No required admission or parking fee is the published baseline on official Cahokia channels; suggested donations support the site — do not invent USD as a mandatory fare. Prefer cahokiamounds.org / IL DNR notices over third-party tour opacity. Grounds access can differ from museum gallery hours.",
+      "dress": "Mississippian sacred city — modest practical dress; stay on marked paths; no digging / metal detecting; respect mound slopes as posted.",
+      "duration": "2–4 hours mounds + Interpretive Center when open; do not invent a Gateway Arch combo ticket.",
+      "access": "St. Louis metro east — I-55 / local roads to Collinsville IL Interpretive Center; MetroLink + taxi/rideshare class possible. Pair Gateway Arch exterior without inventing one ticket.",
+      "tips": [
+        "Check cahokiamounds.org for Interpretive Center open/closed notices.",
+        "Grounds are commonly free — suggested donation is not a invented mandatory USD fare.",
+        "Summer heat on Monks Mound — water, sun cover, early start.",
+        "Winter ice on paths — footwear honesty.",
+        "Stay on marked paths; no digging / metal detecting.",
+        "Do not invent combo with Gateway Arch as one ticket.",
+        "Prefer official Cahokia / IL DNR over opaque “mound VIP” tours."
+      ],
+      "entryType": "free",
+      "ticketsUrl": "https://cahokiamounds.org/visit/",
+      "ticketsLabel": "Cahokia Mounds official — Plan Your Visit (cahokiamounds.org; free grounds / donation honesty)",
+      "ticketsNote": "No required admission fee on official baseline; suggested donations; Interpretive Center hours vary — verify; do not invent USD fare."
+    },
+    "etiquette": {
+      "intro": "Indigenous Mississippian sacred city — paths, mounds, no digging.",
+      "bullets": [
+        "Stay on marked paths; respect mound slopes as posted.",
+        "No digging / metal detecting; dogs on leash where allowed.",
+        "Threshold Atlas tone: Monks Mound civic-ceremonial capital — not Midwest hill walk only.",
+        "Do not overclaim living temple practice; Indigenous ancestral framing honesty."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Cahokia from St. Louis metro.",
+      "paragraphs": [
+        "Collinsville, Illinois sits about eight miles east of downtown St. Louis. Most visitors drive via I-55 / I-255 / IL-111 to the Interpretive Center; MetroLink plus taxi or rideshare is a class option without a private car.",
+        "Confirm Interpretive Center lobby / gallery hours on cahokiamounds.org — they can differ from dawn–dusk grounds access, and gallery closures for NAGPRA / renovation work have been posted honestly.",
+        "Gateway Arch and downtown St. Louis are separate attractions. Do not invent a single metro sacred pass covering Cahokia and Arch tickets."
+      ],
+      "bullets": [
+        "Collinsville IL — St. Louis metro east",
+        "I-55 / local roads or MetroLink + taxi",
+        "Verify Interpretive Center hours on cahokiamounds.org",
+        "Gateway Arch = separate visit"
+      ]
+    },
+    "bestTime": {
+      "intro": "Shoulder seasons quieter; summer heat and winter ice are soft blockers.",
+      "paragraphs": [
+        "Shoulder seasons are often quieter on the mounds. Summer heat on Monks Mound climb is real — early morning helps. Winter ice and wind on exposed slopes are soft blockers.",
+        "Confirm Interpretive Center hours rather than inventing USD windows or assuming gallery access matches grounds access."
+      ],
+      "bullets": [
+        "Best: shoulder seasons / early morning",
+        "Summer heat soft blocker on Monks Mound",
+        "Winter ice soft blocker",
+        "Verify Center hours — do not invent USD fare"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm hours and donation guidance on cahokiamounds.org — do not invent USD as a required fare.",
+        "State historic site (IL DNR) with UNESCO status — not an invented NPS unit myth.",
+        "Gallery closures for NAGPRA / renovation can be posted — check open/closed notices.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "edfu",
+    "name": "Temple of Horus at Edfu (معبد إدفو), Aswan Governorate",
+    "shortName": "Edfu",
+    "location": "Edfu town, Nile west bank between Luxor and Aswan",
+    "country": "Egypt",
+    "region": "Africa",
+    "regionSlug": "africa",
+    "religions": [
+      "Ancient Egyptian"
+    ],
+    "religionSlugs": [
+      "ancient-egyptian"
+    ],
+    "summary": "Best-preserved Ptolemaic Temple of Horus — every Nile cruise midpoint stop; MOTA egymonuments.com. Distinct from live Luxor cluster (Karnak / Luxor Temple / Hatshepsut) and Aswan Philae / Abu Simbel. Do not invent EGP; Kom Ombo / Dendara = separate tickets.",
+    "heroImage": "https://images.unsplash.com/photo-1539650116574-75c0c6d73f6e?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Ptolemaic Temple of Horus (construction begun under Ptolemy III; completed under later Ptolemies)",
+      "patron": "Ancient Egyptian — Horus of Edfu (Ptolemaic temple; mammisi / birth-house fabric)",
+      "unesco": "Part of the broader Egyptian monumental landscape; ticketed MOTA monument (verify egymonuments.gov.eg / egymonuments.com)",
+      "typicalVisit": "90–120 minutes temple circuit; Nile cruise calèche / taxi from dock common"
+    },
+    "related": [
+      "karnak",
+      "philae",
+      "hatshepsut-temple"
+    ],
+    "overview": {
+      "body": [
+        "Edfu is the Nile midpoint Horus temple mega — best-preserved Ptolemaic fabric, falcon statues, and mammisi (birth house) — still a distinct stop from live Luxor east/west bank denseness and from Philae / Abu Simbel farther south, not a cruise photo-stop only.",
+        "Frame the visit as Horus myth cycle + Ptolemaic relief honesty. Modest practical dress; no climbing pylons off-path; no touching reliefs; photo rules in sanctuary as posted.",
+        "Official tickets: MOTA e-tickets — egymonuments.com (Temple of Horus at Edfu product). Foreign / student / Egyptian tiers — do not invent EGP. Kom Ombo, Dendara, and Luxor temples are separate tickets.",
+        "MOTA daytime window — verify egymonuments.gov.eg / egymonuments.com. Morning before cruise groups peak; midday heat intense.",
+        "Soft blockers: Egypt ancient-egyptian denseness — page earns Nile midpoint Horus difference vs Luxor + Philae / Abu Simbel; cruise calèche pressure; do not invent “one Nile temple pass.” SanctaWay is informational — it does not sell tickets or grant access."
+      ],
+      "highlights": [
+        "Best-preserved Ptolemaic Temple of Horus",
+        "MOTA egymonuments.com — do not invent EGP",
+        "Nile cruise midpoint — distinct from Luxor denseness",
+        "Morning before cruise group peak",
+        "Kom Ombo / Dendara = separate tickets"
+      ]
+    },
+    "visit": {
+      "intro": "MOTA Horus temple — e-ticket honesty; no invent EGP; not a Luxor merge.",
+      "hours": "MOTA daytime window — verify egymonuments.gov.eg / egymonuments.com (last-entry vs close as published). Morning before cruise groups.",
+      "tickets": "MOTA e-tickets — egymonuments.com Temple of Horus at Edfu. Foreign / student / Egyptian tiers — do not invent EGP. Prefer MOTA over OTA. Kom Ombo / Dendara / Luxor temples / Valley of the Kings = separate products.",
+      "dress": "Ptolemaic Temple of Horus — modest practical dress; no climbing pylons off-path; no touching reliefs; sanctuary photo rules as posted.",
+      "duration": "90–120 minutes temple circuit; mammisi included when open on the circuit.",
+      "access": "Nile cruise mid-stop between Luxor and Aswan; or road from Luxor (~2 h class) / Aswan. Town calèche / taxi from dock to temple common — negotiate calmly; temple ticket is separate.",
+      "tips": [
+        "Buy MOTA e-ticket on egymonuments.com — do not invent EGP.",
+        "Do not invent one Nile temple pass with Luxor / Philae / Abu Simbel.",
+        "Morning beats cruise group crush and midday heat.",
+        "Calèche from dock is separate commercial — temple ticket is MOTA.",
+        "No climbing pylons off-path; no touching reliefs.",
+        "Kom Ombo and Dendara stay separate tickets (B20+ densify).",
+        "Prefer MOTA over random OTA “Edfu VIP.”"
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://egymonuments.com/locations/details/TheTempleOfHorusAtEdfu",
+      "ticketsLabel": "MoTA e-tickets — Temple of Horus at Edfu (egymonuments.com; separate from Luxor / VoK)",
+      "ticketsNote": "MOTA e-ticket; foreign/student/Egyptian tiers; do not invent EGP; not a Luxor or Kom Ombo combo."
+    },
+    "etiquette": {
+      "intro": "Ptolemaic Horus temple — reliefs, pylons, sanctuary rules.",
+      "bullets": [
+        "No climbing pylons off-path; no touching reliefs.",
+        "Modest practical dress; sanctuary photo rules as posted.",
+        "Keep Luxor temples / Philae / Abu Simbel as separate tickets.",
+        "Threshold Atlas tone: Horus myth cycle + mammisi — not cruise photo stop only."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Edfu from Nile cruise / Luxor / Aswan.",
+      "paragraphs": [
+        "Most visitors arrive on a Nile cruise mid-stop between Luxor and Aswan; road transfers from Luxor (~2 h class) or Aswan are also common. From the dock, town calèche or taxi to the temple gate is the usual last mile.",
+        "Buy the MOTA temple ticket on egymonuments.com (Temple of Horus at Edfu). Foreign / student / Egyptian tiers are published — do not invent EGP from old blogs or cruise handouts.",
+        "Kom Ombo, Dendara, Karnak, Luxor Temple, Hatshepsut, Philae, and Abu Simbel are separate MOTA products. Do not invent a single Nile sacred pass."
+      ],
+      "bullets": [
+        "Nile cruise mid-stop or Luxor / Aswan road",
+        "Calèche / taxi from dock — separate commercial",
+        "MOTA e-ticket on egymonuments.com",
+        "Other Nile temples = separate tickets"
+      ]
+    },
+    "bestTime": {
+      "intro": "Morning before cruise groups and midday heat.",
+      "paragraphs": [
+        "Morning usually beats the cruise-group wave and the intense midday heat on the open court. Confirm last-entry vs close on MOTA pages.",
+        "Ramadan / seasonal hour shifts can be published — verify egymonuments.gov.eg / egymonuments.com rather than inventing EGP windows."
+      ],
+      "bullets": [
+        "Best: morning before cruise peak",
+        "Midday heat soft blocker",
+        "Verify MOTA hours / last entry",
+        "Do not invent EGP / Nile combo myths"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm MOTA e-ticket tiers on egymonuments.com — do not invent EGP.",
+        "Luxor denseness and Philae / Abu Simbel are separate — earn Nile midpoint Horus difference.",
+        "Kom Ombo / Dendara stay parked as separate stops.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "basilica-yamoussoukro",
+    "name": "Basilica of Our Lady of Peace (Basilique Notre-Dame de la Paix), Yamoussoukro",
+    "shortName": "Yamoussoukro Basilica",
+    "location": "Yamoussoukro, Côte d'Ivoire (capital district)",
+    "country": "Côte d'Ivoire",
+    "region": "Africa",
+    "regionSlug": "africa",
+    "religions": [
+      "Christian"
+    ],
+    "religionSlugs": [
+      "christian"
+    ],
+    "summary": "Among the world’s largest churches — Félix Houphouët-Boigny foundation; St. Peter’s–inspired dome scale. Ticketed visitor circuit via official basilica gate — do not invent XOF. Liturgy vs tourist lanes; Abidjan transfer honesty; opens non-Egypt West Africa Christian mega.",
+    "heroImage": "https://images.unsplash.com/photo-1438032005730-c779502df39b?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Late 20th century foundation; consecrated as minor basilica (Houphouët-Boigny gift / Marian sanctuary)",
+      "patron": "Christian — Our Lady of Peace (Catholic minor basilica; active liturgy)",
+      "unesco": "Not a UNESCO World Heritage inscription; major modern Catholic pilgrimage / visitor landmark",
+      "typicalVisit": "60–90 minutes guided visitor circuit when ticketed; Mass attendance ≠ tourist ticket"
+    },
+    "related": [
+      "st-peters",
+      "aparecida",
+      "lalibela"
+    ],
+    "overview": {
+      "body": [
+        "The Basilica of Our Lady of Peace in Yamoussoukro is the West Africa Christian mega — among the world’s largest churches, Houphouët-Boigny foundation, St. Peter’s–inspired dome scale — opening SanctaWay’s non-Egypt Africa Christian coverage beyond Lalibela / Axum, not “dictator folly Instagram only.”",
+        "Frame the visit as active Catholic basilica + Marian sanctuary honesty. Shoulders/knees covered; silence in the nave; follow photo rules (often restricted during liturgy).",
+        "Official tickets: Paid visitor circuit / guided visit via official basilica gate and basiliquenotredame-delapaix.com channels when published — do not invent XOF. Prefer basilica / official tourism pages over random OTA. Mass attendance is not the tourist ticket.",
+        "Visitor hours commonly daytime with guided departures — verify basilica / diocese / Côte d’Ivoire tourism notices. Mid-morning for dome/interior light when open to tourists; Sunday / feast days may shift after Mass.",
+        "Soft blockers: liturgy closures; dome stairs; Abidjan transfer time (~2.5–3 h class); security/ID norms as posted; do not invent combo with Abidjan cathedral. Côte d’Ivoire travel: follow current official advisories without scare copy. SanctaWay is informational — it does not sell tickets or grant access."
+      ],
+      "highlights": [
+        "Among the world’s largest churches — Yamoussoukro",
+        "Official basilica visitor circuit — do not invent XOF",
+        "Active liturgy vs tourist lanes",
+        "Non-Egypt West Africa Christian mega",
+        "Abidjan transfer honesty (~2.5–3 h class)"
+      ]
+    },
+    "visit": {
+      "intro": "Active Catholic basilica — guided visitor circuit; no invent XOF; liturgy ≠ tourist ticket.",
+      "hours": "Visitor circuit commonly daytime with guided departures; Sunday / feast days may follow Mass — verify basiliquenotredame-delapaix.com / basilica desk.",
+      "tickets": "Paid visitor / guided circuit via official basilica gate and basiliquenotredame-delapaix.com when published — do not invent XOF. Prefer basilica over OTA. Mass attendance ≠ tourist ticket. Photography / drone rules as posted.",
+      "dress": "Active Catholic basilica — shoulders and knees covered; silence in the nave; follow photo rules during liturgy.",
+      "duration": "60–90 minutes guided visitor circuit when ticketed; dome access rules as posted.",
+      "access": "Yamoussoukro capital district — road from Abidjan (~2.5–3 h class) or domestic flight; local taxi to basilica precinct. Not an Abidjan cathedral same-ticket myth.",
+      "tips": [
+        "Pay official basilica visitor rates — do not invent XOF.",
+        "Mass attendance is not the tourist circuit ticket.",
+        "Shoulders/knees covered; silence in the nave.",
+        "Follow photo rules; drones need prior authorisation when posted.",
+        "Abidjan transfer is a soft blocker — plan time honestly.",
+        "Do not invent combo with Abidjan cathedral.",
+        "Check current official travel advisories without scare copy."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://www.basiliquenotredame-delapaix.com/visiter.php",
+      "ticketsLabel": "Basilica Notre-Dame de la Paix — visitor booking / gate (basiliquenotredame-delapaix.com)",
+      "ticketsNote": "Guided visitor circuit when ticketed; liturgy ≠ tourist ticket; do not invent XOF."
+    },
+    "etiquette": {
+      "intro": "Active Marian basilica — dress, silence, liturgy lanes.",
+      "bullets": [
+        "Shoulders and knees covered; silence in the nave.",
+        "Respect liturgy; tourist circuit may pause during Mass.",
+        "Photo / drone rules as posted — ask before professional gear.",
+        "Threshold Atlas tone: Houphouët-Boigny foundation + dome scale — not folly Instagram only."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach the basilica from Abidjan / Yamoussoukro.",
+      "paragraphs": [
+        "Most international visitors fly into Abidjan, then road (~2.5–3 h class) or domestic flight to Yamoussoukro. Local taxi reaches the basilica precinct from town.",
+        "Buy the visitor circuit via the official basilica gate / basiliquenotredame-delapaix.com channels when published. Tiers can differ for nationals / regional / other visitors — do not invent XOF from old blogs.",
+        "Abidjan’s own churches are separate visits. Do not invent a single Côte d’Ivoire sacred pass."
+      ],
+      "bullets": [
+        "Abidjan → Yamoussoukro road or domestic flight",
+        "Local taxi to basilica precinct",
+        "Official basilica visitor circuit",
+        "Abidjan churches = separate"
+      ]
+    },
+    "bestTime": {
+      "intro": "Mid-morning for interior light; Sunday / feast days follow Mass.",
+      "paragraphs": [
+        "Mid-morning often gives better interior / dome light when tourist circuits run. Sunday and feast days may shift visitor departures until after Mass — verify before you go.",
+        "Heat and transfer fatigue from Abidjan are soft blockers — plan an honest day length rather than inventing XOF windows."
+      ],
+      "bullets": [
+        "Best: mid-morning visitor circuit",
+        "Sunday / feast — after Mass class",
+        "Abidjan transfer time soft blocker",
+        "Do not invent XOF"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm visitor tiers on basiliquenotredame-delapaix.com / gate — do not invent XOF.",
+        "Liturgy vs tourist lanes — Mass ≠ tourist ticket.",
+        "Follow current official Côte d’Ivoire travel advisories without scare copy.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "mount-nemrut",
+    "name": "Nemrut Dağı (Mount Nemrut), Adıyaman",
+    "shortName": "Mount Nemrut",
+    "location": "Kahta / Adıyaman Province — Commagene summit hierothesion (~2,200 m class)",
+    "country": "Türkiye",
+    "region": "Middle East",
+    "regionSlug": "middle-east",
+    "religions": [
+      "Ancient Greek"
+    ],
+    "religionSlugs": [
+      "ancient-greek"
+    ],
+    "summary": "UNESCO Commagene summit hierothesion — colossal terrace heads of Antiochus I’s syncretic Zeus-Oromasdes programme. Seasonal high-altitude access honesty (winter snow can close the road Dec–Mar class — verify Adıyaman museum). muze.gov.tr / park ticket — do not invent TRY. Dawn/dusk terraces; cold wind even in summer.",
+    "heroImage": "https://images.unsplash.com/photo-1609137144813-7d9921338f24?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Commagene royal hierothesion of Antiochus I (1st century BCE tumulus and terraces)",
+      "patron": "Ancient Greek / Hellenistic Commagene — Zeus-Oromasdes syncretic programme (Apollo-Mithras-Helios-Hermes and royal ancestor cult; not a Greek temple clone)",
+      "unesco": "UNESCO World Heritage — Nemrut Dağ",
+      "typicalVisit": "Sunrise or sunset terrace visit + hike from summit car park; allow jeep/road transfer time from Kahta"
+    },
+    "related": [
+      "gobekli-tepe",
+      "goreme-open-air",
+      "olympia"
+    ],
+    "overview": {
+      "body": [
+        "Mount Nemrut is the Commagene summit sanctuary mega — colossal terrace heads, tumulus, and Antiochus I’s syncretic Zeus-Oromasdes / Apollo-Mithras-Helios-Hermes programme at roughly 2,200 m — parked from Batch18 until seasonal access honesty could lead the page, not a “Game of Thrones head selfie only.”",
+        "Frame the visit as Hellenistic Commagene royal hierothesion honesty (reuse ancient-greek slug; page must say Commagene, not Greek temple clone). Modest practical layers; no climbing colossal heads / thrones; no drone without permit.",
+        "Official tickets: Paid Ministry / national park archaeological-site ticket when required — muze.gov.tr / Turkish Museums Nemrut pages / on-site Kahta class — do not invent TRY. Jeep or sunrise-tour transfer is a separate commercial product. Prefer official museum/park over opaque “Nemrut VIP sunrise” bundling.",
+        "Seasonal summit access: typically late spring–autumn is the reliable window; December–March class winter snow can close or restrict the mountain road — Adıyaman museum notices say verify before travel. Sunrise east terrace / sunset west terrace are the classic products; cold wind even in summer; hours can follow sunrise/sunset.",
+        "Soft blockers: altitude / cold / scramble paths; seasonal road closures; do not invent combo with Göbekli / Göreme as one pass. SanctaWay is informational — it does not sell tickets or grant access."
+      ],
+      "highlights": [
+        "UNESCO Commagene summit — colossal terrace heads",
+        "Seasonal high-altitude honesty — winter road may close",
+        "muze.gov.tr / park ticket — do not invent TRY",
+        "Sunrise east / sunset west terrace classic",
+        "Not Göbekli / Göreme same-ticket"
+      ]
+    },
+    "visit": {
+      "intro": "Commagene summit — seasonal/altitude honesty first; no invent TRY.",
+      "hours": "Hours follow season and sunrise/sunset — verify muze.gov.tr / Adıyaman museum / Turkish Museums Nemrut pages. Winter (roughly Dec–Mar) road access can close or change — confirm before you go. Sunrise sessions may open earlier than daytime hours.",
+      "tickets": "Paid Ministry / archaeological-site ticket when required — muze.gov.tr / Turkish Museums Nemrut / on-site. MüzeKart / Museum Pass rules when published — do not invent TRY. Jeep/tour transfer is separate commercial. Prefer official over opaque sunrise VIP bundling.",
+      "dress": "High-altitude Commagene hierothesion — warm layers even in summer dawn; sturdy shoes for scramble paths; no climbing heads / thrones; no drone without permit.",
+      "duration": "2–3 hours at the terraces plus road / jeep time from Kahta; sunrise or sunset products need early starts.",
+      "access": "Kahta / Adıyaman base → mountain road + hike/jeep to summit car park; Gaziantep or Adıyaman air gateways. Sunrise / sunset tour products common — ticket and transfer are separate.",
+      "tips": [
+        "Lead with seasonality — winter snow can close the road; verify Adıyaman museum.",
+        "Altitude ~2,200 m — cold wind at dawn even in August; layers + early start.",
+        "Pay official muze.gov.tr / site rates — do not invent TRY.",
+        "No climbing colossal heads or thrones.",
+        "Jeep/tour transfer ≠ Ministry ticket — budget both honestly.",
+        "Do not invent combo with Göbekli Tepe or Göreme.",
+        "Sunrise east terrace / sunset west terrace — pick one product, not both casually."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://muze.gov.tr/muze-detay?DistId=MRK&SectionId=ADN01",
+      "ticketsLabel": "Turkish Ministry museums — Mount Nemrut archaeological site (muze.gov.tr; verify seasonal hours)",
+      "ticketsNote": "Ministry/park ticket when required; MüzeKart rules when valid; winter road may close — verify; do not invent TRY."
+    },
+    "etiquette": {
+      "intro": "Commagene hierothesion — no climbing heads; altitude respect.",
+      "bullets": [
+        "Do not climb colossal heads, thrones, or tumulus where restricted.",
+        "Warm layers; sturdy shoes; no drone without permit.",
+        "Keep Göbekli Tepe and Göreme as separate visits.",
+        "Threshold Atlas tone: Antiochus I syncretic programme — not head-selfie only; say Commagene honestly."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Nemrut from Kahta / Adıyaman / Gaziantep.",
+      "paragraphs": [
+        "Kahta and Adıyaman are the usual bases; Gaziantep is a common air gateway with a longer road day. The last stretch is mountain road plus a steep walk (often 15–20 minutes class) from the summit car park to the terraces.",
+        "Buy the Ministry / site ticket via muze.gov.tr / Turkish Museums channels or on-site when open. Jeep and sunrise-tour transfers are separate commercial products — do not invent TRY from bundled OTA prices.",
+        "Göbekli Tepe (Şanlıurfa) and Göreme (Cappadocia) are separate regions and tickets. Do not invent a single Southeast Anatolia sacred pass."
+      ],
+      "bullets": [
+        "Kahta / Adıyaman base; Gaziantep air gateway",
+        "Mountain road + summit hike; jeep tours common",
+        "Ministry ticket + transfer = separate costs",
+        "Göbekli / Göreme = separate visits"
+      ]
+    },
+    "bestTime": {
+      "intro": "Late spring–autumn reliable; winter snow can close the road — state upfront.",
+      "paragraphs": [
+        "The reliable visitor window is typically late spring through autumn. December–March class winter conditions can close or restrict the mountain road — Adıyaman museum notices ask you to confirm before travel. That seasonality is why this page leads with access honesty.",
+        "Sunrise on the east terrace and sunset on the west terrace are the classic products. Even in summer, dawn is cold and windy at altitude — dress and start time matter more than inventing TRY windows."
+      ],
+      "bullets": [
+        "Best: late spring–autumn; sunrise or sunset terrace",
+        "Winter Dec–Mar: road may close — verify",
+        "Altitude cold / wind soft blocker year-round at dawn",
+        "Do not invent TRY / Göbekli combo myths"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm seasonal road/hours with Adıyaman museum / muze.gov.tr before winter travel.",
+        "Altitude ~2,200 m — early start, layers, scramble honesty.",
+        "Do not invent TRY; jeep transfer is separate commercial.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "geghard",
+    "name": "Geghard Monastery (Գեղարդ), Kotayk",
+    "shortName": "Geghard",
+    "location": "Azat Valley, Kotayk Province — ~40–50 min class from Yerevan",
+    "country": "Armenia",
+    "region": "Middle East",
+    "regionSlug": "middle-east",
+    "religions": [
+      "Christian"
+    ],
+    "religionSlugs": [
+      "christian"
+    ],
+    "summary": "UNESCO rock-cut Armenian Apostolic monastery — partially carved into the cliff; spear-relic tradition; Armenia new country on SanctaWay. Living monastery etiquette; entry commonly free/donation — do not invent AMD. Garni Temple is a separate ticketed pagan site — classic day pair, not one pass.",
+    "heroImage": "https://images.unsplash.com/photo-1590077428593-a55bb07c4665?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Medieval Armenian rock monastery (main churches largely 13th century fabric on earlier sacred site tradition)",
+      "patron": "Christian — Armenian Apostolic living monastery (Geghard / “spear” relic tradition; rock-cut katholikon)",
+      "unesco": "UNESCO World Heritage — Monastery of Geghard and the Upper Azat Valley",
+      "typicalVisit": "60–90 minutes monastery; often same-day with Garni Temple exterior (separate ticket)"
+    },
+    "related": [
+      "meteora",
+      "rila-monastery",
+      "goreme-open-air"
+    ],
+    "overview": {
+      "body": [
+        "Geghard is the Armenian rock-monastery mega — UNESCO cliff-carved churches, khachkars, and spear-relic tradition — opening Armenia as a new country on SanctaWay, not a Garni combo viewpoint only.",
+        "Frame the visit as living Armenian Apostolic monastery honesty. Head covering / modest dress often expected (scarves available class); quiet in rock-cut churches; no flash on khachkars.",
+        "Official access: Entry / donation practice as published — commonly free with welcome donations; do not invent AMD. Prefer armenia.travel / monastery notices over random OTA. Garni Temple is a separate ticketed pagan temple site — classic day pair, not one merged ticket.",
+        "Living monastery daytime visitor window — verify Armenian Church / tourism notices. Morning quieter than midday coach crush; winter ice on paths.",
+        "Soft blockers: ice; ceremony days; Garni combo myth; Etchmiadzin Mother See parked as Armenia #2 for later. SanctaWay is informational — it does not sell tickets or grant access."
+      ],
+      "highlights": [
+        "UNESCO Armenian rock-cut monastery",
+        "Armenia new country on SanctaWay",
+        "Living monastery — modest dress / quiet",
+        "Commonly free / donation — do not invent AMD",
+        "Garni = separate ticketed day-pair"
+      ]
+    },
+    "visit": {
+      "intro": "Living Armenian rock monastery — free/donation honesty; Garni separate.",
+      "hours": "Daytime visitor window — verify armenia.travel / monastery notices. Morning quieter; winter hours can shorten.",
+      "tickets": "Entry commonly free with welcome donations — do not invent AMD. Prefer armenia.travel / monastery notices over OTA. Garni Temple is a separate paid archaeological site — do not merge tickets.",
+      "dress": "Active Armenian Apostolic monastery — head covering / modest dress often expected; quiet in rock-cut churches; no flash on khachkars.",
+      "duration": "60–90 minutes monastery; Garni often adds a separate stop the same day.",
+      "access": "Yerevan → Geghard (~40–50 min class) by marshrutka / taxi / tour; often paired with Garni Temple exterior — separate sites and tickets.",
+      "tips": [
+        "Expect free/donation entry — do not invent AMD.",
+        "Modest dress / head covering — scarves often available.",
+        "Quiet in rock-cut churches; no flash on khachkars.",
+        "Garni is a separate ticketed pagan temple — classic pair, not one pass.",
+        "Morning beats midday coach crush.",
+        "Winter ice on paths — footwear honesty.",
+        "Etchmiadzin stays a separate later Armenia visit — do not invent one Armenia sacred pass."
+      ],
+      "entryType": "free",
+      "ticketsUrl": "https://armenia.travel/en/destination/the-monastery-of-geghard-and-the-upper-azat-valley/",
+      "ticketsLabel": "Armenia Travel — Geghard Monastery & Upper Azat Valley (verify hours; free/donation honesty)",
+      "ticketsNote": "Commonly free/donation; Garni separate ticket; do not invent AMD."
+    },
+    "etiquette": {
+      "intro": "Living Armenian Apostolic monastery — dress, quiet, khachkars.",
+      "bullets": [
+        "Head covering / modest dress often expected.",
+        "Quiet in rock-cut churches; no flash on carved surfaces.",
+        "Keep Garni as a separate ticketed visit.",
+        "Threshold Atlas tone: spear-relic tradition + cliff-carved katholikon — not Garni viewpoint only."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Geghard from Yerevan.",
+      "paragraphs": [
+        "From Yerevan expect about 40–50 minutes to the Azat Valley monastery. Marshrutka, taxi, and day tours are common; many itineraries continue to or from Garni Temple.",
+        "Geghard entry is commonly free with donations welcome — do not invent AMD. Confirm any posted notices via armenia.travel / monastery channels rather than OTA fare tables.",
+        "Garni Temple is a separate ticketed pagan site a short drive away. Do not invent a single Armenia sacred pass covering Geghard, Garni, and Etchmiadzin."
+      ],
+      "bullets": [
+        "Yerevan ~40–50 min",
+        "Marshrutka / taxi / tour common",
+        "Free/donation entry — verify notices",
+        "Garni = separate ticketed stop"
+      ]
+    },
+    "bestTime": {
+      "intro": "Morning quieter; winter ice soft blocker.",
+      "paragraphs": [
+        "Morning usually beats the midday coach crush in the rock-cut churches. Shoulder seasons can be calmer than peak summer.",
+        "Winter ice on valley paths is a soft blocker — confirm daylight hours rather than inventing AMD windows."
+      ],
+      "bullets": [
+        "Best: morning before coach peak",
+        "Winter ice soft blocker",
+        "Verify daytime visitor window",
+        "Do not invent AMD / Garni merge"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm free/donation practice and hours via armenia.travel / monastery notices — do not invent AMD.",
+        "Garni Temple is separate — classic day pair, not one ticket.",
+        "Etchmiadzin Mother See parked for a later Armenia page.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "newgrange",
+    "name": "Newgrange (Sí an Bhrú) / Brú na Bóinne, County Meath",
+    "shortName": "Newgrange",
+    "location": "Boyne Valley, County Meath — via Brú na Bóinne Visitor Centre, Donore",
+    "country": "Ireland",
+    "region": "Europe",
+    "regionSlug": "europe",
+    "religions": [
+      "Prehistoric"
+    ],
+    "religionSlugs": [
+      "prehistoric"
+    ],
+    "summary": "UNESCO passage tomb — winter-solstice illumination fame; Stonehenge peer; Ireland 0→1 on SanctaWay. OPW / Heritage Ireland timed tickets + mandatory visitor-centre shuttle — do not invent EUR. Solstice lottery ≠ day ticket; passage tomb ≠ church.",
+    "heroImage": "https://images.unsplash.com/photo-1596484552834-6a58f110ff1e?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Neolithic passage tomb (radiocarbon tradition c. 3200 BCE class — older than many Egyptian pyramids)",
+      "patron": "Prehistoric — Brú na Bóinne passage-tomb ceremonial landscape (solstice alignment; megalithic art)",
+      "unesco": "UNESCO World Heritage — Brú na Bóinne - Archaeological Ensemble of the Bend of the Boyne",
+      "typicalVisit": "Timed OPW tour via Visitor Centre shuttle; chamber capacity-limited; Knowth access patterns differ"
+    },
+    "related": [
+      "stonehenge",
+      "gobekli-tepe",
+      "cahokia"
+    ],
+    "overview": {
+      "body": [
+        "Newgrange is Ireland’s passage-tomb mega — UNESCO Brú na Bóinne, kerbstone art, and winter-solstice chamber illumination fame — the Stonehenge peer that earns SanctaWay’s sole Europe slot this batch, not a Celtic fantasy cave and not a church.",
+        "Frame the visit as Neolithic ceremonial landscape honesty. Modest practical dress; no touching kerbstone art; silence in the chamber when asked; photography rules as posted.",
+        "Official tickets: OPW / Heritage Ireland timed tickets — heritageireland.ie / official Brú na Bóinne booking channels — do not invent EUR. Prefer OPW over scalpers. Solstice lottery / special access is a separate famous product, not the ordinary day ticket.",
+        "Visitor-centre-first rule: you go to Brú na Bóinne Visitor Centre (Donore) and take the mandatory shuttle to the tombs — no casual drive-up to the Newgrange kerb. Chambers are capacity-limited; book ahead.",
+        "Soft blockers: timed-entry sellouts; winter weather; Knowth / Dowth access patterns differ — state clearly; do not invent “one Boyne pass” covering unrelated castles. SanctaWay is informational — it does not sell tickets or grant access."
+      ],
+      "highlights": [
+        "UNESCO Brú na Bóinne passage tomb — solstice fame",
+        "OPW timed tickets — do not invent EUR",
+        "Mandatory Visitor Centre shuttle — no kerb drive-up",
+        "Solstice lottery ≠ ordinary day ticket",
+        "Ireland 0→1 prehistoric peer to Stonehenge"
+      ]
+    },
+    "visit": {
+      "intro": "OPW timed tickets + Visitor Centre shuttle — no invent EUR; solstice ≠ day ticket.",
+      "hours": "OPW / Heritage Ireland timed sessions — verify heritageireland.ie / Brú na Bóinne pages. Capacity-limited; last tours vs close as published.",
+      "tickets": "OPW timed tickets via official Heritage Ireland / Brú na Bóinne booking channels — do not invent EUR. Prefer OPW over scalpers (invalid resale risk). Solstice lottery / special access ≠ ordinary day ticket. Knowth access patterns can differ — read the product you buy.",
+      "dress": "Neolithic passage tomb — modest practical dress; no touching kerbstone art; silence in chamber when asked; photography rules as posted.",
+      "duration": "Allow half-day class including Visitor Centre exhibits + shuttle + guided tomb visit; Knowth may be a separate or combined product when offered.",
+      "access": "Dublin → Brú na Bóinne Visitor Centre (Donore / Boyne Valley) ~1 h; mandatory centre shuttle to tombs — no casual drive-up to Newgrange kerb.",
+      "tips": [
+        "Book OPW / Heritage Ireland timed tickets ahead — sellouts are real.",
+        "Start at the Visitor Centre — shuttle is mandatory.",
+        "Do not invent EUR from old blogs or scalper listings.",
+        "Solstice lottery is a separate product — not the day ticket.",
+        "No touching kerbstones; silence in the chamber when asked.",
+        "Knowth / Dowth rules can differ — read your ticket product.",
+        "Passage tomb ≠ church — Threshold Atlas prehistoric framing."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://heritageireland.ie/places-to-visit/bru-na-boinne-visitor-centre-newgrange-knowth-and-dowth/",
+      "ticketsLabel": "Heritage Ireland / OPW — Brú na Bóinne Visitor Centre (Newgrange timed tickets)",
+      "ticketsNote": "OPW timed tickets; Visitor Centre shuttle mandatory; solstice lottery ≠ day ticket; do not invent EUR."
+    },
+    "etiquette": {
+      "intro": "Neolithic passage tomb — kerbstones, chamber silence, no scalpers.",
+      "bullets": [
+        "No touching kerbstone art; follow chamber instructions.",
+        "Photography rules as posted — ask guides when unsure.",
+        "Use official OPW tickets only — resale risk is real.",
+        "Threshold Atlas tone: solstice alignment + megalithic art — not Celtic fantasy cave; not a church."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Newgrange via Brú na Bóinne Visitor Centre.",
+      "paragraphs": [
+        "From Dublin expect about an hour to the Brú na Bóinne Visitor Centre at Donore in the Boyne Valley. All ordinary visits start at the centre; a shuttle takes you to the tombs — you do not drive up to the Newgrange kerb.",
+        "Buy timed tickets on official Heritage Ireland / OPW channels. Do not invent EUR and do not buy from scalpers — Heritage Ireland warns that unofficial tickets can be refused.",
+        "Knowth and Dowth have different access patterns. Do not invent a single Boyne Valley pass covering unrelated medieval castles."
+      ],
+      "bullets": [
+        "Dublin ~1 h to Visitor Centre (Donore)",
+        "Mandatory centre shuttle to tombs",
+        "OPW / Heritage Ireland timed tickets",
+        "Knowth / Dowth = check product"
+      ]
+    },
+    "bestTime": {
+      "intro": "Book ahead year-round; solstice is a separate lottery product.",
+      "paragraphs": [
+        "Timed tickets sell out — book as far ahead as the official release window allows. Shoulder seasons can be calmer than peak summer coach days.",
+        "Winter-solstice chamber illumination is a separate, capacity-limited lottery / special product — do not treat it as the ordinary day ticket, and do not invent EUR for either product."
+      ],
+      "bullets": [
+        "Best: book OPW timed tickets early",
+        "Shoulder seasons quieter than peak summer",
+        "Solstice lottery = separate product",
+        "Do not invent EUR / scalper myths"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm OPW timed tickets on heritageireland.ie — do not invent EUR.",
+        "Visitor Centre shuttle is mandatory — no kerb drive-up.",
+        "Solstice lottery ≠ day ticket; passage tomb ≠ church.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "bethany-beyond-jordan",
+    "name": "Baptism Site of Jesus Christ / Al-Maghtas (المغطس), Jordan Valley",
+    "shortName": "Bethany Beyond Jordan",
+    "location": "Jordan Valley east bank — ~20–50 min class from Dead Sea hotels / Amman",
+    "country": "Jordan",
+    "region": "Middle East",
+    "regionSlug": "middle-east",
+    "religions": [
+      "Christian"
+    ],
+    "religionSlugs": [
+      "christian"
+    ],
+    "summary": "UNESCO Baptism Site Al-Maghtas — Elijah’s Hill, baptism pools, Jordan River approaches. Official baptismsite.com tickets; check Jordan Pass add-on coverage when published — do not invent JOD. Mesh with live Mount Nebo as separate day/ticket. Not Qasr el-Yahud (West Bank); no Al-Aqsa framing.",
+    "heroImage": "https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Early Christian pilgrimage / baptism tradition landscape (archaeological churches and pools; UNESCO Al-Maghtas)",
+      "patron": "Christian — Baptism Site of Jesus Christ / Al-Maghtas (pilgrimage archaeological park; Elijah’s Hill)",
+      "unesco": "UNESCO World Heritage — Baptism Site “Bethany Beyond the Jordan” (Al-Maghtas)",
+      "typicalVisit": "1–2 hours standard visit with included shuttle/guide class; Express product when offered"
+    },
+    "related": [
+      "mount-nebo",
+      "holy-sepulchre",
+      "church-of-the-nativity"
+    ],
+    "overview": {
+      "body": [
+        "Bethany Beyond Jordan (Al-Maghtas) is the UNESCO Baptism Site mega on the Jordan River east bank — Elijah’s Hill, ancient baptism pools, and river approaches — the natural Jordan pilgrimage day after live Mount Nebo / Madaba, not a Dead Sea spa add-on only.",
+        "Frame the visit as Christian pilgrimage Baptism Site honesty. Modest dress; quiet at river approaches; follow marked paths in the archaeological zone. This page is Al-Maghtas only — not Qasr el-Yahud on the West Bank, and not Al-Aqsa framing.",
+        "Official tickets: Paid entry via baptismsite.com / official Baptism Site channels; check whether Jordan Pass covers or offers an add-on on your travel date — do not invent JOD. Prefer official site over random OTA. Mount Nebo and Madaba map church are separate products.",
+        "Site daytime window — verify baptismsite.com (winter / summer last-entry differ; Ramadan hours when posted). Heat is extreme in summer Jordan Valley; winter milder.",
+        "Soft blockers: summer heat; river water contact rules as posted; do not invent combo with Petra / Wadi Rum; do not merge tickets with Mount Nebo. SanctaWay is informational — it does not sell tickets or grant access."
+      ],
+      "highlights": [
+        "UNESCO Baptism Site Al-Maghtas",
+        "Official baptismsite.com tickets — do not invent JOD",
+        "Jordan pilgrimage day after Mount Nebo (separate ticket)",
+        "Not Qasr el-Yahud; no Al-Aqsa framing",
+        "Summer Jordan Valley heat soft blocker"
+      ]
+    },
+    "visit": {
+      "intro": "Official Baptism Site tickets — verify Jordan Pass coverage; no invent JOD; not Nebo merge.",
+      "hours": "Daytime window — verify baptismsite.com (winter last entry earlier than summer; Ramadan hours when posted). Morning cooler in summer heat.",
+      "tickets": "Paid entry via baptismsite.com / official Baptism Site channels; standard visit commonly includes shuttle + local guide class — verify published products. Jordan Pass coverage / add-on for Bethany varies by product year — check jordanpass.jo and baptismsite.com rather than inventing JOD. Mount Nebo / Madaba = separate. Prefer official over OTA.",
+      "dress": "Christian pilgrimage Baptism Site — modest dress (shoulders / knees covered class); quiet at Jordan River approaches; follow marked archaeological paths.",
+      "duration": "1–2 hours standard visit; Express highlight product when offered — check baptismsite.com.",
+      "access": "Amman / Dead Sea hotels → Baptism Site (~20–50 min class depending on start); often same-day with Mount Nebo / Madaba as separate stops — not Petra same-day casually.",
+      "tips": [
+        "Buy via baptismsite.com / official channels — do not invent JOD.",
+        "Check Jordan Pass coverage or add-on for your date — do not assume inclusion.",
+        "Modest dress; quiet at river approaches.",
+        "Mount Nebo is a separate ticket — classic day pair, not one merge.",
+        "Do not conflate with Qasr el-Yahud (West Bank side).",
+        "No Al-Aqsa framing creep — this page is Al-Maghtas only.",
+        "Summer Jordan Valley heat — water, sun cover, morning start."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://baptismsite.com/how-to-visit/",
+      "ticketsLabel": "Baptism Site of Jesus Christ — How to Visit (baptismsite.com; verify Jordan Pass add-on)",
+      "ticketsNote": "Official Baptism Site ticket; Jordan Pass coverage/add-on varies — verify; do not invent JOD; not Mount Nebo merge."
+    },
+    "etiquette": {
+      "intro": "Pilgrimage Baptism Site — modest dress, quiet, marked paths.",
+      "bullets": [
+        "Modest dress; quiet at river approaches and pools.",
+        "Follow marked paths in the archaeological zone.",
+        "Keep Mount Nebo / Madaba / Petra as separate visits.",
+        "Threshold Atlas tone: Al-Maghtas baptism tradition + Elijah’s Hill — not Dead Sea spa only; no Al-Aqsa framing; not Qasr el-Yahud."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Al-Maghtas from Amman / Dead Sea.",
+      "paragraphs": [
+        "From Dead Sea hotels expect about 20 minutes class; from Amman often around 50 minutes class. Many visitors pair the Baptism Site with Mount Nebo and Madaba the same day as separate stops — Petra is not a casual same-day add-on.",
+        "Buy via baptismsite.com / official Baptism Site channels. Jordan Pass may offer coverage or an add-on depending on product year — verify jordanpass.jo and baptismsite.com rather than inventing JOD.",
+        "Qasr el-Yahud on the West Bank is a different baptism-tradition site under different access rules — do not conflate. Mount Nebo tickets stay separate. No Al-Aqsa framing on this page."
+      ],
+      "bullets": [
+        "Dead Sea ~20 min / Amman ~50 min class",
+        "Often paired with Nebo / Madaba (separate tickets)",
+        "Official baptismsite.com — verify Jordan Pass",
+        "Not Qasr el-Yahud; not Petra same-day casually"
+      ]
+    },
+    "bestTime": {
+      "intro": "Morning in summer heat; winter milder — verify last entry.",
+      "paragraphs": [
+        "Summer Jordan Valley heat is extreme — morning starts help. Winter is milder but still verify last-entry times on baptismsite.com.",
+        "Ramadan hours can shorten last entry when posted — confirm rather than inventing JOD windows."
+      ],
+      "bullets": [
+        "Best: morning in summer heat",
+        "Winter milder — still verify last entry",
+        "Ramadan hours when posted",
+        "Do not invent JOD / Nebo merge"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm official Baptism Site ticket / Jordan Pass add-on on baptismsite.com + jordanpass.jo — do not invent JOD.",
+        "Mount Nebo is separate; Qasr el-Yahud is a different site; no Al-Aqsa framing.",
+        "River water contact and photo rules as posted.",
         "SanctaWay is informational; it does not sell tickets or grant access.",
         "Hero image is an Unsplash placeholder pending visual / Commons pass."
       ]

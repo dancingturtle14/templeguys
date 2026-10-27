@@ -1404,7 +1404,7 @@
     "related": [
       "milan-duomo",
       "st-peters",
-      "st-basils"
+      "temppeliaukio"
     ],
     "overview": {
       "body": [
@@ -1749,7 +1749,7 @@
     "related": [
       "chichen-itza",
       "st-peters",
-      "cartago-basilica"
+      "basilica-voto-nacional"
     ],
     "overview": {
       "body": [
@@ -2548,7 +2548,7 @@
     "related": [
       "holy-sepulchre",
       "church-of-the-nativity",
-      "dohany-synagogue"
+      "old-new-synagogue"
     ],
     "overview": {
       "body": [
@@ -3230,7 +3230,7 @@
     "related": [
       "stonehenge",
       "santiago-de-compostela",
-      "geghard"
+      "melk-abbey"
     ],
     "overview": {
       "body": [
@@ -4036,7 +4036,7 @@
     "related": [
       "chartres",
       "notre-dame",
-      "jeronimos"
+      "temppeliaukio"
     ],
     "overview": {
       "body": [
@@ -9059,7 +9059,7 @@
     "related": [
       "guadalupe",
       "lourdes",
-      "caacupe"
+      "basilica-voto-nacional"
     ],
     "overview": {
       "body": [
@@ -14897,7 +14897,7 @@
     "related": [
       "imam-mosque-isfahan",
       "blue-mosque",
-      "hazrat-sultan-mosque"
+      "bibi-heybat-mosque"
     ],
     "overview": {
       "body": [
@@ -15122,7 +15122,7 @@
     "related": [
       "jasna-gora",
       "montserrat",
-      "temple-of-saint-sava"
+      "voronet"
     ],
     "overview": {
       "body": [
@@ -15347,7 +15347,7 @@
     "related": [
       "cologne-cathedral",
       "notre-dame",
-      "chartres"
+      "melk-abbey"
     ],
     "overview": {
       "body": [
@@ -22692,7 +22692,7 @@
     "related": [
       "guadalupe",
       "aparecida",
-      "cartago-basilica"
+      "leon-cathedral-nicaragua"
     ],
     "overview": {
       "body": [
@@ -23027,7 +23027,7 @@
     "related": [
       "sheikh-zayed-grand-mosque",
       "hassan-ii-mosque",
-      "omar-ali-saifuddien-mosque"
+      "kuwait-grand-mosque"
     ],
     "overview": {
       "body": [
@@ -23586,7 +23586,7 @@
     "related": [
       "kiev-pechersk-lavra",
       "st-basils",
-      "rila-monastery"
+      "voronet"
     ],
     "overview": {
       "body": [
@@ -23698,7 +23698,7 @@
     "related": [
       "western-wall",
       "holy-sepulchre",
-      "dome-of-the-rock"
+      "old-new-synagogue"
     ],
     "overview": {
       "body": [
@@ -23921,7 +23921,7 @@
     "related": [
       "sultan-qaboos-mosque",
       "sheikh-zayed-grand-mosque",
-      "hassan-ii-mosque"
+      "kuwait-grand-mosque"
     ],
     "overview": {
       "body": [
@@ -24033,7 +24033,7 @@
     "related": [
       "guadalupe",
       "aparecida",
-      "el-cobre"
+      "leon-cathedral-nicaragua"
     ],
     "overview": {
       "body": [
@@ -24368,7 +24368,7 @@
     "related": [
       "registan",
       "faisal-mosque",
-      "sultan-qaboos-mosque"
+      "bibi-heybat-mosque"
     ],
     "overview": {
       "body": [
@@ -24449,6 +24449,902 @@
         "Opens Kazakhstan — Hazrat Sultan Mosque in Astana.",
         "Free entry; prefer Astana naming; do not invent KZT.",
         "Soft blockers: prayer windows; winter cold; Turkestan densify / Bibi-Khanym parked.",
+        "SanctaWay does not sell tickets, invent visa myths, or grant access."
+      ]
+    }
+  },
+  {
+    "id": "melk-abbey",
+    "name": "Melk Abbey / Stift Melk, Melk (Wachau)",
+    "shortName": "Melk Abbey",
+    "location": "Abt-Berthold-Dietmayr-Straße 1, Melk, Lower Austria (Wachau), Austria",
+    "country": "Austria",
+    "region": "Europe",
+    "regionSlug": "europe",
+    "religions": [
+      "Christian"
+    ],
+    "religionSlugs": [
+      "christian"
+    ],
+    "summary": "Benedictine Baroque UNESCO mega on the Danube Wachau (opens Austria). Ticketed abbey museum / Marble Hall / library / church via official stiftmelk.at — seasonal hours; winter often guided-only. Do not invent EUR; Göttweig densify parked.",
+    "heroImage": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Benedictine community from the 11th c.; present Baroque complex largely early 18th c. under Jakob Prandtauer",
+      "patron": "Christian — Benedictine; Saint Coloman as abbey patron; active monastery + visitor museum",
+      "unesco": "Within Wachau Cultural Landscape UNESCO World Heritage (1990)",
+      "typicalVisit": "2–3 hours abbey circuit + park in season; longer with guided tour"
+    },
+    "related": [
+      "mont-saint-michel",
+      "aachen-cathedral",
+      "santiago-de-compostela"
+    ],
+    "overview": {
+      "body": [
+        "Melk Abbey opens Austria on SanctaWay as the Wachau’s Benedictine Baroque mega — a ticketed living monastery with museum rooms, Marble Hall, library, and abbey church above the Danube — not a Gothic clone inside an already-covered country and not a free wander covering Göttweig densify.",
+        "Frame ticket honesty: visit products and published EUR prices live on the official Stift Melk opening-hours-and-prices page. Individual guests may visit with or without a guided tour in the main season; winter windows often shift toward guided-only slots. Do not invent EUR from OTA “VIP library” markups — prefer the official prices page and tours@stiftmelk.at for groups.",
+        "Published 2026 windows on stiftmelk.at (verify before travel): late March–1 Nov class abbey visit roughly 09:00–16:30 or 09:00–17:30 by month with earlier last admission; Abbey Park opens on a related spring–autumn schedule; early November–early January offers shorter day windows; mid-winter January–mid-March is visit-only-with-guide at fixed German/English slots. Treat the official page as source of truth.",
+        "Vienna or Linz gateways — ÖBB rail to Melk, then uphill walk or local shuttle; Wachau ship and bike corridors serve the valley. Pair Wachau wine villages as a separate circuit — do not invent one sacred pass covering Göttweig or Artstetten.",
+        "Soft blockers: last-admission cuts; winter guided-only regime; park seasonality; monastic enclosure respect in church and library. SanctaWay is informational — it does not sell tickets, invent visa myths, or grant access."
+      ],
+      "highlights": [
+        "Opens Austria — Wachau Benedictine UNESCO mega",
+        "Official stiftmelk.at prices / hours — do not invent EUR",
+        "Seasonal day windows; winter often guided-only",
+        "Marble Hall, library, church, museum, park (in season)",
+        "No Göttweig densify one-pass myth"
+      ]
+    },
+    "visit": {
+      "intro": "Ticketed abbey visit via official stiftmelk.at — verify seasonal hours and EUR prices; winter guided-only class.",
+      "hours": "Verify https://www.stiftmelk.at/en/visit-experience/opening-hours-prices-guided-tours/ before travel. 2026 published class: late Mar–1 Nov abbey visit with/without guide ~09:00–16:30 or 09:00–17:30 by month (last admission earlier); Abbey Park spring–autumn separate close; early Nov–early Jan shorter day windows; mid-Jan–mid-Mar visit only with guide at fixed G/E slots. Do not treat blog hours as final.",
+      "tickets": "Ticketed museum / Marble Hall / library / church / bastion circuit; park included in season per official tariff. Prices published in € on stiftmelk.at — do not invent EUR. Guided-tour surcharge and group booking via official contacts (tours@stiftmelk.at class). Prefer Stift Melk ticket office / official page over OTA “VIP library.”",
+      "dress": "Active Benedictine abbey + tourist museum — modest dress in church; quiet in church and library; photography rules as posted; respect monastic enclosure and liturgy.",
+      "duration": "2–3 hours abbey circuit + park in season; longer with guided tour (~50 min supplement class).",
+      "access": "ÖBB to Melk from Vienna/Linz; uphill walk or local options to the abbey hill. Last admission cuts apply. Winter guided-only reshapes walk-up. Not one ticket with Göttweig.",
+      "tips": [
+        "Confirm opening hours, last admission, and € prices on stiftmelk.at — do not invent EUR.",
+        "In mid-winter expect guided-only slots (German/English) rather than free roam.",
+        "Arrive before last admission; park hours can differ from the abbey circuit.",
+        "Book groups via official abbey tour contacts; skip opaque OTA “VIP library” markups.",
+        "Modest dress and quiet in church and library; follow posted photo rules.",
+        "Pair Wachau valley separately — do not invent one pass covering Göttweig densify.",
+        "SanctaWay does not sell tickets or grant access."
+      ],
+      "entryType": "ticketed",
+      "ticketsUrl": "https://www.stiftmelk.at/en/visit-experience/opening-hours-prices-guided-tours/",
+      "ticketsLabel": "Stift Melk official — opening hours, prices & guided tours (ticketed abbey visit; verify €; do not invent fares)",
+      "ticketsNote": "Ticketed; seasonal hours; winter guided-only class; park seasonality; no Göttweig combo; do not invent EUR."
+    },
+    "etiquette": {
+      "intro": "Living Benedictine abbey — church, library, and enclosure respect.",
+      "bullets": [
+        "Modest dress in the abbey church; keep voices low in church and library.",
+        "Follow posted photography rules; do not invent free photography in restricted rooms.",
+        "Yield space during liturgy or monastic use.",
+        "Threshold Atlas tone: living Austria Benedictine UNESCO mega — not yellow-facade Instagram-only tourism."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Melk Abbey in the Wachau.",
+      "paragraphs": [
+        "Most visitors take ÖBB rail to Melk from Vienna or Linz, then walk uphill or use local options to the abbey complex above the Danube.",
+        "Wachau river ships and the valley bike path serve Melk as a stop — treat them as valley transport, not a sacred combo ticket.",
+        "Göttweig and other Lower Austria monasteries are separate visits — do not invent one Austria Benedictine pass."
+      ],
+      "bullets": [
+        "Vienna / Linz → ÖBB Melk",
+        "Abbey hill walk / local shuttle",
+        "Wachau ship / bike corridor optional",
+        "No Göttweig one-pass myth"
+      ]
+    },
+    "bestTime": {
+      "intro": "Late spring–early autumn for full day windows and park; mid-winter is guided-slot planning.",
+      "paragraphs": [
+        "April–October class offers the longest published abbey and park windows — still verify last admission. Weekday mornings are usually thinner than peak Danube cruise disembarkations.",
+        "Mid-winter guided-only slots need advance attention to German/English tour times on the official page."
+      ],
+      "bullets": [
+        "Best: Apr–Oct weekday morning circuit",
+        "Watch last admission cuts",
+        "Winter: guided-only fixed slots",
+        "Do not invent EUR / Göttweig combo"
+      ]
+    },
+    "notes": {
+      "intro": "SanctaWay Threshold Atlas notes — Austria #1 Benedictine UNESCO mega.",
+      "bullets": [
+        "Opens Austria — Stift Melk on the Wachau Cultural Landscape UNESCO.",
+        "Official stiftmelk.at hours/prices CTA — do not invent EUR.",
+        "Soft blockers: winter guided-only; last admission; park seasonality; no Göttweig densify.",
+        "SanctaWay does not sell tickets, invent visa myths, or grant access."
+      ]
+    }
+  },
+  {
+    "id": "voronet",
+    "name": "Voroneț Monastery / Mănăstirea Voroneț, Bucovina",
+    "shortName": "Voroneț Monastery",
+    "location": "Voroneț village near Gura Humorului, Suceava County, Bucovina, Romania",
+    "country": "Romania",
+    "region": "Europe",
+    "regionSlug": "europe",
+    "religions": [
+      "Christian"
+    ],
+    "religionSlugs": [
+      "christian"
+    ],
+    "summary": "“Voroneț blue” painted monastery — Churches of Moldavia UNESCO (opens Romania). On-site visit tariff via official manastireavoronet.ro; Soft CTA (crawler walls possible). Active nunnery — interior photo ban class. Do not invent RON.",
+    "heroImage": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Founded 1488 under Stephen the Great; exterior frescoes famously 16th c.; active Orthodox women’s monastery",
+      "patron": "Christian — Romanian Orthodox; St George dedication class; painted monastery of Moldavia",
+      "unesco": "Churches of Moldavia UNESCO World Heritage (1993) — Voroneț among the painted churches",
+      "typicalVisit": "1–1.5 hours exterior frescoes + church; longer on a Bucovina painted-monastery day circuit"
+    },
+    "related": [
+      "rila-monastery",
+      "temple-of-saint-sava",
+      "kiev-pechersk-lavra"
+    ],
+    "overview": {
+      "body": [
+        "Voroneț opens Romania on SanctaWay as Bucovina’s painted-monastery household name — the “Voroneț blue” Last Judgment exterior fresco inside the Churches of Moldavia UNESCO set — not a free hop-on covering Humor, Moldovița, and Sucevița as one official pass.",
+        "Frame ticket honesty: on-site visit tariffs (adult / student / exterior photo classes) are published on the official monastery site. Prefer manastireavoronet.ro and the pay desk on site. Do not invent RON from tour-bus markups. Soft CTA: some crawlers see bot walls; browsers usually reach the official pages — verify before travel.",
+        "Working nunnery hours commonly cite roughly ~08:30–19:00 summer / ~09:00–17:00 winter class — verify program-si-tarife on the official site. Liturgy windows reshape interior access and guide availability.",
+        "Suceava gateway — road to Gura Humorului / Voroneț village; private transfer or painted-monastery day tours are common. Pair Humor / Moldovița as separate stops with their own desks — not one Moldavia free pass.",
+        "Soft blockers: interior photography generally banned without monastic permission; exterior photo fee class; liturgy vs tourist guide; rural last-mile in winter. SanctaWay is informational — it does not sell tickets, invent visa myths, or grant access."
+      ],
+      "highlights": [
+        "Opens Romania — Bucovina painted-monastery UNESCO",
+        "Official manastireavoronet.ro Soft CTA — do not invent RON",
+        "Active nunnery — modest dress; interior photo ban class",
+        "Liturgy windows reshape access",
+        "No Humor/Moldovița one-pass myth"
+      ]
+    },
+    "visit": {
+      "intro": "On-site tariff Soft CTA via manastireavoronet.ro — verify hours/tariffs; pay desk on site; do not invent RON.",
+      "hours": "Working Orthodox women’s monastery — tourism sources commonly cite ~08:30–19:00 summer / ~09:00–17:00 winter class. Verify https://www.manastireavoronet.ro/program-si-tarife-vizitare/ (and home page) before travel. Liturgy windows reshape interior access and guide availability — do not treat blog hours as final.",
+      "tickets": "On-site visit tariff published on the official monastery site (adult / student / exterior photo classes as posted). Prefer manastireavoronet.ro + pay desk over opaque tour markups. Soft CTA: crawler/bot walls happen; browsers usually reach the site — if blocked, pay on site and treat the URL as informational. Do not invent RON. Not one ticket covering all Moldavia UNESCO churches.",
+      "dress": "Active Orthodox women’s monastery — modest dress (shoulders/knees; wrap often expected); quiet; stand as posted during services; no interior photography without monastic permission.",
+      "duration": "1–1.5 hours fresco exterior + church; longer on a multi-monastery Bucovina day.",
+      "access": "Suceava → road to Gura Humorului / Voroneț. Private transfer / day tour common. Winter rural last-mile is a soft blocker. Not one ticket with Humor or Moldovița.",
+      "tips": [
+        "Confirm program and tariffs on manastireavoronet.ro — do not invent RON.",
+        "Expect Soft CTA / occasional crawler 403; browsers and the on-site desk remain the practical path.",
+        "No interior photos without permission; exterior photo fee classes may apply.",
+        "Dress modestly; bring a wrap if needed for shoulders.",
+        "Plan liturgy windows as pause points for tourist circulation.",
+        "Pair Humor / Moldovița as separate paid stops — no Bucovina hop-on myth.",
+        "SanctaWay does not sell tickets or grant access."
+      ],
+      "entryType": "ticketed",
+      "ticketsUrl": "https://www.manastireavoronet.ro/",
+      "ticketsLabel": "Mănăstirea Voroneț official — visit program & tariffs Soft CTA (pay desk on site; crawler walls possible; verify; do not invent RON)",
+      "ticketsNote": "On-site tariff Soft CTA; liturgy windows; interior photo ban; no Humor/Moldovița combo; do not invent RON."
+    },
+    "etiquette": {
+      "intro": "Active Orthodox nunnery — fresco tourism second to monastic life.",
+      "bullets": [
+        "Modest dress; cover shoulders and knees; accept wrap guidance.",
+        "Quiet in church; follow standing sides during services as posted.",
+        "No interior photography without monastic permission; respect exterior photo rules.",
+        "Threshold Atlas tone: living Romania painted-monastery UNESCO — not blue-wall Instagram-only tourism."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Voroneț Monastery in Bucovina.",
+      "paragraphs": [
+        "Most visitors base in Suceava or Gura Humorului and continue by road, private transfer, or a painted-monastery day tour to Voroneț village.",
+        "Humor, Moldovița, and Sucevița are separate monastery stops with their own access rules — do not invent one Moldavia UNESCO free pass.",
+        "Confirm return transport before evening liturgy and winter dark on rural roads."
+      ],
+      "bullets": [
+        "Suceava gateway → Gura Humorului / Voroneț",
+        "Private transfer / day tour common",
+        "Rural last-mile soft blocker in winter",
+        "No Humor/Moldovița one-pass myth"
+      ]
+    },
+    "bestTime": {
+      "intro": "Late spring–early autumn for longer light on exterior frescoes; weekday mornings quieter.",
+      "paragraphs": [
+        "Weekday mid-morning usually means thinner coach groups and clearer fresco light on the exterior Last Judgment wall.",
+        "Winter short days and cold last-mile access still work — confirm hours and dress for weather as well as monastic rules."
+      ],
+      "bullets": [
+        "Best: weekday morning fresco light",
+        "Liturgy windows reshape interior access",
+        "Soft CTA / pay desk honesty",
+        "Do not invent RON / Bucovina combo"
+      ]
+    },
+    "notes": {
+      "intro": "SanctaWay Threshold Atlas notes — Romania #1 painted-monastery UNESCO.",
+      "bullets": [
+        "Opens Romania — Voroneț within Churches of Moldavia UNESCO.",
+        "Soft official CTA manastireavoronet.ro — crawler walls possible; pay desk on site; do not invent RON.",
+        "Soft blockers: liturgy; interior photo ban; winter last-mile; no Humor densify as one pass.",
+        "SanctaWay does not sell tickets, invent visa myths, or grant access."
+      ]
+    }
+  },
+  {
+    "id": "temppeliaukio",
+    "name": "Temppeliaukio Church / Temppeliaukion kirkko (Rock Church), Helsinki",
+    "shortName": "Temppeliaukio Church",
+    "location": "Lutherinkatu 3, Töölö, Helsinki, Finland",
+    "country": "Finland",
+    "region": "Europe",
+    "regionSlug": "europe",
+    "religions": [
+      "Christian"
+    ],
+    "religionSlugs": [
+      "christian"
+    ],
+    "summary": "Bedrock Lutheran rock church — Helsinki must-see (~900k/yr class; opens Finland). Ticketed sightseeing via temppeliaukionkirkko.fi; closed to sightseeing during services, weddings, concerts. Do not invent EUR; Helsinki Cathedral densify parked.",
+    "heroImage": "https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Designed by Timo and Tuomo Suomalainen; consecrated 1969 as a Lutheran parish church quarried into bedrock",
+      "patron": "Christian — Evangelical Lutheran Church of Finland; active parish + major tourist sight",
+      "unesco": "Not a standalone World Heritage listing (national modern sacred landmark)",
+      "typicalVisit": "45–75 minutes interior + plaza; longer if a concert is open to ticketed audience"
+    },
+    "related": [
+      "sagrada-familia",
+      "mont-saint-michel",
+      "aachen-cathedral"
+    ],
+    "overview": {
+      "body": [
+        "Temppeliaukio opens Finland on SanctaWay as Helsinki’s rock-church tourist mega — a living Lutheran parish quarried into bedrock with copper-dome light — not a free cave Instagram walkabout and not a combo ticket covering Helsinki Cathedral densify.",
+        "Frame ticket honesty: adult visitor day-tickets are published on the official church site; minors / Helsinki Card / Museum Card classes may be free as posted. Buy at the desk or via official advance links. Do not invent EUR. Closed to sightseeing during Sunday service, weddings, funerals, christenings, and concerts — check the week-ahead calendar.",
+        "Hours update frequently on temppeliaukionkirkko.fi / temppeliaukiochurch.fi — verify before you go. Gallery access is stairs-only (no lift) — physical honesty matters.",
+        "Helsinki Kamppi / Töölö — walk about 10 minutes from Kamppi to Lutherinkatu 3; tram/bus options serve the square. Pair Design District as a separate city stroll — not one sacred pass.",
+        "Soft blockers: service/concert closures; stairs-only gallery; large luggage restricted. SanctaWay is informational — it does not sell tickets, invent visa myths, or grant access."
+      ],
+      "highlights": [
+        "Opens Finland — Helsinki rock-church mega",
+        "Official temppeliaukionkirkko.fi tickets — do not invent EUR",
+        "Closed to sightseeing during worship / events",
+        "Gallery stairs-only — no lift",
+        "No Helsinki Cathedral densify one-pass myth"
+      ]
+    },
+    "visit": {
+      "intro": "Ticketed sightseeing via official temppeliaukionkirkko.fi — check weekly hours and event closures; do not invent EUR.",
+      "hours": "Open most days for sightseeing — hours are updated weekly on https://www.temppeliaukionkirkko.fi/en/. Closed to sightseeing during Sunday service, weddings, funerals, christenings, and concerts. Verify the week-ahead calendar; do not treat static blog hours as final.",
+      "tickets": "Adult visitor day-ticket published on the official site; minors / Helsinki Card / Museum Card classes free as posted. Buy at desk or official advance link. Prefer temppeliaukionkirkko.fi over street hawkers. Do not invent EUR. Not one ticket with Helsinki Cathedral.",
+      "dress": "Active Lutheran parish church + major tourist sight — quiet during visits; no sightseeing walkabout during worship; photography rules as posted; large luggage restricted.",
+      "duration": "45–75 minutes interior + plaza.",
+      "access": "Walk ~10 min from Kamppi to Lutherinkatu 3, Töölö; tram/bus options. Gallery is stairs-only (no lift). Event closures reshape access. Not one ticket with Helsinki Cathedral.",
+      "tips": [
+        "Check this week’s hours and closures on temppeliaukionkirkko.fi before you go.",
+        "Buy the official day-ticket — do not invent EUR or trust street hawkers.",
+        "Do not plan a sightseeing walk-through during Sunday service, weddings, or concerts.",
+        "Gallery has stairs only — no lift; travel light.",
+        "Keep voices low; follow posted photography rules.",
+        "Pair Design District separately — no Helsinki Cathedral densify combo.",
+        "SanctaWay does not sell tickets or grant access."
+      ],
+      "entryType": "ticketed",
+      "ticketsUrl": "https://www.temppeliaukionkirkko.fi/en/",
+      "ticketsLabel": "Temppeliaukio Church official — visitor tickets & weekly hours (verify €; closed during services/events; do not invent fares)",
+      "ticketsNote": "Ticketed sightseeing; weekly hours; service/concert closures; stairs-only gallery; no Helsinki Cathedral combo; do not invent EUR."
+    },
+    "etiquette": {
+      "intro": "Active Lutheran parish first — tourist rock-church second.",
+      "bullets": [
+        "Yield entirely during worship, weddings, funerals, and posted events.",
+        "Keep voices low; follow photography rules.",
+        "Travel light; large luggage is restricted.",
+        "Threshold Atlas tone: living Finland rock church — not cave Instagram-only tourism."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Temppeliaukio Church in Helsinki.",
+      "paragraphs": [
+        "Most visitors walk about ten minutes from Kamppi to Lutherinkatu 3 in Töölö, or take a tram/bus to the square.",
+        "Helsinki Cathedral and Senate Square are a separate city circuit — do not invent one sacred pass.",
+        "Confirm return options before evening concert changeovers when sightseeing may be closed."
+      ],
+      "bullets": [
+        "Kamppi / Töölö → Lutherinkatu 3",
+        "Walk ~10 min or tram/bus",
+        "Stairs-only gallery — no lift",
+        "No Helsinki Cathedral one-pass myth"
+      ]
+    },
+    "bestTime": {
+      "intro": "Weekday daytime between posted sightseeing windows; always re-check the weekly calendar.",
+      "paragraphs": [
+        "Weekday mid-morning usually means thinner queues inside the rock hall. Copper-dome daylight is the architectural point — still an active parish.",
+        "Sunday mornings and concert days are devotion/event first — sightseeing closes; plan another slot."
+      ],
+      "bullets": [
+        "Best: weekday mid-morning sightseeing window",
+        "Re-check weekly hours every visit",
+        "Service/concert = no sightseeing",
+        "Do not invent EUR / cathedral combo"
+      ]
+    },
+    "notes": {
+      "intro": "SanctaWay Threshold Atlas notes — Finland #1 rock church.",
+      "bullets": [
+        "Opens Finland — Temppeliaukio Lutheran rock church in Helsinki.",
+        "Official temppeliaukionkirkko.fi CTA — do not invent EUR.",
+        "Soft blockers: service/concert closures; stairs-only gallery; no Helsinki Cathedral densify.",
+        "SanctaWay does not sell tickets, invent visa myths, or grant access."
+      ]
+    }
+  },
+  {
+    "id": "old-new-synagogue",
+    "name": "Old-New Synagogue / Staronová synagoga / Altneuschul, Prague",
+    "shortName": "Old-New Synagogue",
+    "location": "Červená / Pařížská area, Josefov (Jewish Quarter), Prague 1, Czech Republic",
+    "country": "Czech Republic",
+    "region": "Europe",
+    "regionSlug": "europe",
+    "religions": [
+      "Jewish"
+    ],
+    "religionSlugs": [
+      "jewish"
+    ],
+    "summary": "Oldest active synagogue in Europe — Josefov Jewish Museum circuit (opens Czech Republic; jewish #3 after Western Wall + Dohány). Combined ticket via jewishmuseum.cz; Saturday / Jewish holiday closures. Do not invent CZK.",
+    "heroImage": "https://images.unsplash.com/photo-1515542622106-78bda8ba0e5b?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Gothic synagogue completed late 13th c.; continuous Jewish worship with interruptions; iconic Josefov landmark",
+      "patron": "Jewish — active synagogue; part of Prague’s Jewish Museum visitor circuit",
+      "unesco": "Within Historic Centre of Prague UNESCO World Heritage (1992)",
+      "typicalVisit": "45–90 minutes Old-New + adjacent Josefov sites on the combined ticket"
+    },
+    "related": [
+      "western-wall",
+      "dohany-synagogue",
+      "holy-sepulchre"
+    ],
+    "overview": {
+      "body": [
+        "The Old-New Synagogue opens the Czech Republic on SanctaWay and deepens jewish coverage as Europe’s oldest active synagogue — a living sanctuary inside Prague’s Josefov, not a pretty Gothic attic and not a free wander through Pinkas, Spanish, Maisel, and Klausen.",
+        "Frame ticket honesty: Jewish Museum Prague sells a combined ticket circuit that includes the Old-New Synagogue among iconic Josefov sites. Prefer the official e-shop / visit / pricelist pages on jewishmuseum.cz. Do not invent CZK from street hawkers.",
+        "Saturday and Jewish holiday closures reshape access — the Old-New remains an active synagogue. Verify opening-hours on the museum site before travel. Security screening is normal; arrive with light bags.",
+        "Prague Old Town / Josefov — walk from Staroměstská / Pařížská into the Jewish Quarter circuit. Pair Pinkas (Shoah memorial honesty), Spanish, Maisel, and Klausen as the ticketed museum set — not free circulation through all five.",
+        "Soft blockers: Shabbat / holiday close; dress/kippah rules; security; do not invent a combo with Dohány Budapest as one pass. SanctaWay is informational — it does not sell tickets, invent visa myths, or grant access."
+      ],
+      "highlights": [
+        "Opens Czech Republic — oldest active synagogue in Europe",
+        "jewish #3 after Western Wall + Dohány",
+        "Jewish Museum Prague combined ticket — do not invent CZK",
+        "Saturday / Jewish holiday closures",
+        "No Dohány Budapest one-pass myth"
+      ]
+    },
+    "visit": {
+      "intro": "Jewish Museum Prague combined ticket includes Old-New — official e-shop/visit; Sat/holiday closed; do not invent CZK.",
+      "hours": "Verify Jewish Museum Prague opening hours on https://www.jewishmuseum.cz/en/info/visit/ before travel. Saturday and Jewish holidays close the circuit; the Old-New remains an active synagogue. Seasonal hours change — do not treat blog hours as final.",
+      "tickets": "Jewish Museum Prague combined ticket circuit includes the Old-New Synagogue among iconic Josefov sites. Prefer official e-shop https://www.jewishmuseum.cz/en/e-shop-en/ and pricelist pages. Do not invent CZK. Prefer museum e-shop over street hawkers. Not one ticket with Dohány Budapest.",
+      "dress": "Active synagogue + heritage museum complex — covered shoulders/knees; men may need kippah as posted; quiet in sanctuary; Holocaust memorial honesty at Pinkas; only authorized circulation.",
+      "duration": "45–90 minutes Old-New + adjacent Josefov ticketed sites.",
+      "access": "Walk from Staroměstská / Pařížská into Josefov. Security screening common. Shabbat/holiday closures. Not one ticket with Dohány.",
+      "tips": [
+        "Buy the Jewish Museum Prague combined ticket via the official e-shop — do not invent CZK.",
+        "Skip Saturday and Jewish holidays for tourist visits — the synagogue is closed then.",
+        "Cover shoulders/knees; men follow posted kippah guidance.",
+        "Arrive early for security; travel light.",
+        "At Pinkas, treat the Shoah memorial with quiet honesty — not a photo prop.",
+        "Do not invent a combo pass with Dohány Synagogue in Budapest.",
+        "SanctaWay does not sell tickets or grant access."
+      ],
+      "entryType": "ticketed",
+      "ticketsUrl": "https://www.jewishmuseum.cz/en/e-shop-en/",
+      "ticketsLabel": "Jewish Museum in Prague official e-shop — combined Josefov ticket incl. Old-New Synagogue (verify CZK; Sat/holiday closed; do not invent fares)",
+      "ticketsNote": "Combined museum ticket; Shabbat/holiday close; dress/kippah; no Dohány combo; do not invent CZK."
+    },
+    "etiquette": {
+      "intro": "Active synagogue + Josefov memorial honesty.",
+      "bullets": [
+        "Cover shoulders and knees; follow kippah guidance for men as posted.",
+        "Quiet in the sanctuary; no tourist chatter during prayer if present.",
+        "Treat Pinkas Shoah memorial with solemn respect.",
+        "Threshold Atlas tone: living Czech jewish landmark — not attic Gothic Instagram tourism."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach the Old-New Synagogue in Prague.",
+      "paragraphs": [
+        "Most visitors walk from Staroměstská metro or along Pařížská into Josefov’s Jewish Quarter.",
+        "Pinkas, Spanish, Maisel, and Klausen are part of the same ticketed museum set — circulate only where your ticket and staff allow.",
+        "Dohány in Budapest is a separate country visit — do not invent one Central Europe jewish pass."
+      ],
+      "bullets": [
+        "Old Town / Josefov walk from Staroměstská",
+        "Combined Jewish Museum ticket circuit",
+        "Security screening common",
+        "No Dohány Budapest one-pass myth"
+      ]
+    },
+    "bestTime": {
+      "intro": "Weekday mornings outside Jewish holidays; never assume Saturday access.",
+      "paragraphs": [
+        "Weekday mid-morning usually means shorter security lines and quieter sanctuary time before peak Old Town crowds.",
+        "Friday late afternoon approaching Shabbat and all day Saturday are the wrong window for tourist entry — plan Sunday–Friday daytime instead, still checking holiday calendars."
+      ],
+      "bullets": [
+        "Best: weekday morning Josefov circuit",
+        "Closed Sat / Jewish holidays",
+        "Official e-shop over hawkers",
+        "Do not invent CZK / Dohány combo"
+      ]
+    },
+    "notes": {
+      "intro": "SanctaWay Threshold Atlas notes — Czech Republic #1 + jewish #3.",
+      "bullets": [
+        "Opens Czech Republic — Old-New Synagogue in Prague Josefov.",
+        "Official jewishmuseum.cz e-shop CTA — do not invent CZK.",
+        "Soft blockers: Shabbat/holiday close; dress/kippah; security; no Dohány densify as one pass.",
+        "SanctaWay does not sell tickets, invent visa myths, or grant access."
+      ]
+    }
+  },
+  {
+    "id": "kuwait-grand-mosque",
+    "name": "Kuwait Grand Mosque / المسجد الكبير, Kuwait City",
+    "shortName": "Kuwait Grand Mosque",
+    "location": "Grand Mosque precinct near Liberation Tower axis, Kuwait City, Kuwait",
+    "country": "Kuwait",
+    "region": "Middle East",
+    "regionSlug": "middle-east",
+    "religions": [
+      "Islamic"
+    ],
+    "religionSlugs": [
+      "islamic"
+    ],
+    "summary": "National capital grand mosque — Ministry of Awqaf booked free guided tours for visitors (opens Kuwait). Honest NO_CTA at write (Awqaf e-services TLS flaky); keep free-tour honesty. Fri/weekend soft. Do not invent KWD; no Haram day-trip myth.",
+    "heroImage": "https://images.unsplash.com/photo-1564507592333-c60657eea523?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "National capital mosque opened late 20th c. as Kuwait City’s monumental congregational landmark",
+      "patron": "Islamic — Ministry of Awqaf & Islamic Affairs visitor-tour program; active national mosque",
+      "unesco": "Not a standalone World Heritage listing (national capital landmark)",
+      "typicalVisit": "45–90 minutes on a booked Awqaf guided tour"
+    },
+    "related": [
+      "sultan-qaboos-mosque",
+      "sheikh-zayed-grand-mosque",
+      "al-fateh-mosque"
+    ],
+    "overview": {
+      "body": [
+        "Kuwait Grand Mosque opens Kuwait on SanctaWay as the capital’s monumental islamic visitor program — booked free guided tours through the Ministry of Awqaf, not a casual walk-in hall and not a Saudi Haram day-trip myth.",
+        "Frame access honesty: non-Muslim / visitor access is via Awqaf guided-tour booking, typically Sunday–Thursday fixed morning and late-afternoon slots. Friday and weekend access is a soft exception path (email/WhatsApp class) — verify current Awqaf form notices. Tours are generally free — do not invent KWD.",
+        "Prefer the official Individual Field Tour form on eservices.awqaf.gov.kw as the Soft CTA (tour booking, not a fare). Language fields often include AR/EN/FR. Prefer Awqaf over cruise “VIP mosque” markups.",
+        "Kuwait City centre — taxi / ride-hail to the Grand Mosque precinct near the Liberation Tower axis. Pair Kuwait Towers waterfront as a separate civic stop — not one sacred pass covering Failaka densify.",
+        "Soft blockers: advance form required; Fri/weekend soft path; dress/hair cover; prayer-time honesty inside an active national mosque. SanctaWay is informational — it does not sell tickets, invent visa myths, or grant access."
+      ],
+      "highlights": [
+        "Opens Kuwait — capital Awqaf guided-tour mosque",
+        "Free booked tours — honest NO_CTA (Awqaf TLS flaky at write); do not invent KWD",
+        "Typically Sun–Thu slots; Fri/weekend soft",
+        "Not a casual walk-in hall",
+        "No Mecca/Medina Haram day-trip myth"
+      ]
+    },
+    "visit": {
+      "intro": "Free Awqaf guided tours by advance form — honest NO_CTA (e-services TLS flaky at write); do not invent KWD.",
+      "hours": "Visitor access is via Ministry of Awqaf booked guided tours, typically Sunday–Thursday fixed morning and late-afternoon classes — not a casual daytime walk-in. Friday/weekend soft exception path via email/WhatsApp as published on Awqaf notices. Verify the Individual Field Tour form notices before travel; do not treat blog hours as final.",
+      "tickets": "Tours generally free via Ministry of Awqaf Individual Field Tour booking — not a fare. Soft blocker at write: eservices.awqaf.gov.kw TLS/connectivity flaky from this environment → honest NO_CTA for ticketsUrl. Keep free-tour honesty in copy; re-verify Awqaf channels before travel. Prefer Awqaf over cruise “VIP mosque.” Do not invent KWD.",
+      "dress": "Active national grand mosque — covered arms/legs; women hair cover / abaya as required on tour; shoes off; quiet; photography rules as tour staff state.",
+      "duration": "45–90 minutes guided tour class.",
+      "access": "Taxi / ride-hail to Grand Mosque precinct near Liberation Tower, Kuwait City. Advance form required. Fri/weekend soft. Not a Haram day-trip framing.",
+      "tips": [
+        "Book the Awqaf Individual Field Tour form in advance — do not expect walk-in.",
+        "Tours are free — decline opaque “VIP mosque” markups; do not invent KWD.",
+        "Plan Sunday–Thursday slots first; treat Friday/weekend as soft exception only.",
+        "Cover arms/legs; women follow hair cover / abaya guidance on tour; remove shoes.",
+        "Follow photography rules stated by tour staff.",
+        "Pair Kuwait Towers separately — no Failaka / Haram day-trip myth.",
+        "SanctaWay does not sell tickets or grant access."
+      ],
+      "entryType": "free",
+      "ticketsUrl": null,
+      "ticketsLabel": "Kuwait Grand Mosque — honest NO_CTA (Awqaf free guided tours by advance form Soft; eservices.awqaf.gov.kw TLS flaky at write — clear ticketsUrl; keep free-tour honesty; do not invent KWD)",
+      "ticketsNote": "Honest NO_CTA after TLS flaky on Awqaf e-services form; free advance tour honesty retained in copy; Sun–Thu slots; Fri/weekend soft; dress/hair cover; no Haram myth; do not invent KWD."
+    },
+    "etiquette": {
+      "intro": "Active national grand mosque — booked tour, dress, prayer respect.",
+      "bullets": [
+        "Cover arms and legs; women cover hair / follow abaya guidance on tour.",
+        "Remove shoes; keep voices low; yield when prayer begins.",
+        "Follow photography rules from tour staff.",
+        "Threshold Atlas tone: living Kuwait capital mosque — not Haram day-trip tourism."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Kuwait Grand Mosque.",
+      "paragraphs": [
+        "Most visitors take a taxi or ride-hail to the Grand Mosque precinct near the Liberation Tower axis in Kuwait City.",
+        "Kuwait Towers and the waterfront are a separate civic stop — do not invent one sacred pass.",
+        "Confirm your Awqaf booking slot and ID requirements before you leave the hotel."
+      ],
+      "bullets": [
+        "Kuwait City → Grand Mosque / Liberation Tower axis",
+        "Taxi / ride-hail common",
+        "Advance Awqaf form required",
+        "No Haram day-trip myth"
+      ]
+    },
+    "bestTime": {
+      "intro": "Booked Sun–Thu tour slots; avoid assuming Friday walk-in.",
+      "paragraphs": [
+        "Sunday–Thursday morning or late-afternoon Awqaf slots are the practical visitor window — book ahead.",
+        "Friday midday prayer and weekend soft paths are the wrong default plan for first-time visitors."
+      ],
+      "bullets": [
+        "Best: booked Sun–Thu Awqaf slot",
+        "Free tour — no invent KWD",
+        "Fri/weekend soft only",
+        "No Haram day-trip framing"
+      ]
+    },
+    "notes": {
+      "intro": "SanctaWay Threshold Atlas notes — Kuwait #1 capital mosque.",
+      "bullets": [
+        "Opens Kuwait — Grand Mosque Awqaf visitor-tour program.",
+        "Soft CTA Awqaf free tour form — do not invent KWD.",
+        "Soft blockers: advance booking; Fri/weekend soft; dress/hair cover; no Mecca/Medina myth.",
+        "SanctaWay does not sell tickets, invent visa myths, or grant access."
+      ]
+    }
+  },
+  {
+    "id": "basilica-voto-nacional",
+    "name": "Basílica del Voto Nacional / Basilica of the National Vow, Quito",
+    "shortName": "Basílica del Voto Nacional",
+    "location": "Carchi y Venezuela, Centro Histórico, Quito, Ecuador",
+    "country": "Ecuador",
+    "region": "Americas",
+    "regionSlug": "americas",
+    "religions": [
+      "Christian"
+    ],
+    "religionSlugs": [
+      "christian"
+    ],
+    "summary": "Quito neo-Gothic national basilica + climbable towers postcard (opens Ecuador). Soft CTA basilicaquito.com (volunteer-run); prefer on-site desk for nave vs tower fees. Do not invent USD; Las Lajas densify parked.",
+    "heroImage": "https://images.unsplash.com/photo-1605649487212-47bdab064df7?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "National vow basilica begun late 19th c.; neo-Gothic landmark of Quito; towers remain a major climb product",
+      "patron": "Christian — Roman Catholic national basilica; Sacred Heart / national vow dedication class",
+      "unesco": "Within City of Quito UNESCO World Heritage (1978)",
+      "typicalVisit": "1–2 hours nave + towers; longer with altitude rest"
+    },
+    "related": [
+      "sagrada-familia",
+      "guadalupe",
+      "aparecida"
+    ],
+    "overview": {
+      "body": [
+        "Basílica del Voto Nacional opens Ecuador on SanctaWay as Quito’s neo-Gothic national basilica — nave plus climbable towers postcard — not a fee-invented Mitad del Mundo sacred combo and not Las Lajas Colombia densify.",
+        "Frame fee honesty: nave and tower products are paid at the on-site desk. Published USD figures conflict across volunteer and older tourism-board notes — do not invent USD. Soft CTA: basilicaquito.com is volunteer-run (200 + TLS OK at write) for visitor orientation; treat the desk as source of truth for current prices. Archdiocese parish pages help for mass/contact.",
+        "Working basilica daytime windows commonly cite roughly ~09:00–17:30 nave class; tower hours may differ — verify at the desk. Mass times reshape nave use. Altitude and steep tower climbs are physical soft blockers.",
+        "Quito Centro Histórico — walk or taxi to Carchi y Venezuela; towers are visible citywide. Pair Plaza Grande / Compañía as separate church stops — not one Quito churches ticket.",
+        "Soft blockers: altitude / tower fitness; nave vs tower fee clarity; volunteer site vs desk. SanctaWay is informational — it does not sell tickets, invent visa myths, or grant access."
+      ],
+      "highlights": [
+        "Opens Ecuador — Quito national neo-Gothic basilica",
+        "Soft CTA basilicaquito.com — desk is price truth; do not invent USD",
+        "Nave + climbable towers (altitude honesty)",
+        "Mass windows reshape nave use",
+        "No Las Lajas / Mitad del Mundo sacred combo myth"
+      ]
+    },
+    "visit": {
+      "intro": "Pay desk on site for nave/towers — Soft volunteer CTA basilicaquito.com; do not invent USD.",
+      "hours": "Working basilica daytime windows commonly cite ~09:00–17:30 nave class; tower hours may differ. Mass times reshape nave use. Verify at the on-site desk and Soft visitor site https://basilicaquito.com/ before travel — do not treat conflicting blog hours as final.",
+      "tickets": "Nave and tower products are paid at the official desk. USD figures conflict across volunteer pages and older tourism notes — do not invent USD. Soft CTA: https://basilicaquito.com/ (volunteer-run orientation). Prefer on-site desk as source of truth. Archdiocese parish pages for mass/contact. Not one ticket with Mitad del Mundo or Las Lajas.",
+      "dress": "Active Catholic national basilica — modest dress; quiet at sanctuary; tower climb physical honesty (steep / altitude); photography rules as posted.",
+      "duration": "1–2 hours nave + towers; allow altitude rest.",
+      "access": "Centro Histórico Quito — Carchi y Venezuela. Towers are steep with altitude soft blocker. Fee clarity nave vs towers at desk. Not one ticket with Mitad del Mundo.",
+      "tips": [
+        "Pay nave/tower fees at the desk — do not invent USD from old blogs.",
+        "Use basilicaquito.com only as Soft orientation; desk wins on price.",
+        "Respect altitude: climb slowly; towers are steep.",
+        "Modest dress; quiet at the sanctuary; follow photo rules.",
+        "Check mass times if you need a quiet nave walk.",
+        "Pair Plaza Grande / Compañía separately — no Mitad del Mundo sacred combo; Las Lajas stays parked.",
+        "SanctaWay does not sell tickets or grant access."
+      ],
+      "entryType": "ticketed",
+      "ticketsUrl": "https://basilicaquito.com/",
+      "ticketsLabel": "Basílica del Voto Nacional Soft visitor site (volunteer-run) — orientation only; pay nave/tower desk on site (verify USD; do not invent fares)",
+      "ticketsNote": "Soft volunteer CTA; desk is price truth; altitude/tower fitness; no Mitad del Mundo/Las Lajas combo; do not invent USD."
+    },
+    "etiquette": {
+      "intro": "Active national basilica — sanctuary quiet and tower safety.",
+      "bullets": [
+        "Modest dress; keep voices low at the sanctuary.",
+        "Follow posted photography rules.",
+        "On towers: respect staff limits, steep climbs, and altitude.",
+        "Threshold Atlas tone: living Ecuador national vow basilica — not tower Instagram-only tourism."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Basílica del Voto Nacional in Quito.",
+      "paragraphs": [
+        "Most visitors walk or take a taxi within Quito’s Centro Histórico to Carchi y Venezuela — the towers are a city skyline landmark.",
+        "Plaza Grande and La Compañía are separate church stops — do not invent one Quito churches pass.",
+        "Allow extra time for altitude when planning the tower climb after arrival from sea level."
+      ],
+      "bullets": [
+        "Quito Centro Histórico → Carchi y Venezuela",
+        "Walk / taxi common",
+        "Altitude soft blocker for towers",
+        "No Mitad del Mundo / Las Lajas one-pass myth"
+      ]
+    },
+    "bestTime": {
+      "intro": "Weekday daytime for thinner tower queues; clear Andean light helps exteriors.",
+      "paragraphs": [
+        "Weekday mid-morning usually means shorter desk lines before cruise/day-tour peaks. Afternoon cloud can move in quickly at altitude.",
+        "Avoid inventing a fixed USD from memory — re-check the desk the day you climb."
+      ],
+      "bullets": [
+        "Best: weekday mid-morning nave + towers",
+        "Desk price truth over blogs",
+        "Altitude / steep climb honesty",
+        "Do not invent USD / Las Lajas combo"
+      ]
+    },
+    "notes": {
+      "intro": "SanctaWay Threshold Atlas notes — Ecuador #1 national basilica.",
+      "bullets": [
+        "Opens Ecuador — Basílica del Voto Nacional in Quito Centro Histórico.",
+        "Soft CTA basilicaquito.com — desk is price truth; do not invent USD.",
+        "Soft blockers: altitude/tower fitness; fee clarity; Las Lajas densify parked.",
+        "SanctaWay does not sell tickets, invent visa myths, or grant access."
+      ]
+    }
+  },
+  {
+    "id": "leon-cathedral-nicaragua",
+    "name": "Cathedral-Basilica of the Assumption / Catedral de León, León",
+    "shortName": "León Cathedral (Nicaragua)",
+    "location": "Parque Central / cathedral square, León, Nicaragua",
+    "country": "Nicaragua",
+    "region": "Americas",
+    "regionSlug": "americas",
+    "religions": [
+      "Christian"
+    ],
+    "religionSlugs": [
+      "christian"
+    ],
+    "summary": "León Cathedral UNESCO WHS (2011) — rooftop/dome tourist climb (opens Nicaragua). Nave generally free/donation; rooftop cash desk on site. Honest NO_CTA — no strong cathedral e-ticket URL; do not link Spain’s León cathedral. Do not invent NIO/USD.",
+    "heroImage": "https://images.unsplash.com/photo-1523906834658-6e24ef2386f9?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Colonial-era cathedral-basilica; major rebuild phases; UNESCO inscription 2011 for the León Cathedral",
+      "patron": "Christian — Roman Catholic cathedral-basilica of the Assumption; Diocese of León",
+      "unesco": "León Cathedral UNESCO World Heritage (2011)",
+      "typicalVisit": "45–90 minutes nave + rooftop/dome climb"
+    },
+    "related": [
+      "basilica-voto-nacional",
+      "cartago-basilica",
+      "guadalupe"
+    ],
+    "overview": {
+      "body": [
+        "León Cathedral opens Nicaragua on SanctaWay as the country’s UNESCO cathedral-basilica mega — a working church with a famous rooftop/dome climb — not Spain’s León cathedral and not a Granada densify one-pass.",
+        "Frame ticket honesty: the nave is generally free or donation; rooftop/dome access is a local cash desk product. No strong official cathedral e-ticket URL cleared this pass → honest NO_CTA for ticketsUrl. Do not invent NIO/USD. Do not point any CTA at Spain’s catedraldeleon.org (wrong León).",
+        "Visit León tourism pages (visitleon.info class) help with planning tips only — not a ticket checkout. Midday close class is common in tropical cities; rooftop windows can differ from nave hours — verify on-site notices.",
+        "León city centre — walk from Parque Central; Managua gateway about 1.5–2 hours by road. Pair León museums / Cerro Negro as separate tourism — not one sacred pass covering Granada cathedral densify.",
+        "Soft blockers: heat / midday close; rooftop fitness and shoe rules; fee clarity at the cash desk. SanctaWay is informational — it does not sell tickets, invent visa myths, or grant access."
+      ],
+      "highlights": [
+        "Opens Nicaragua — León Cathedral UNESCO WHS",
+        "Honest NO_CTA — rooftop cash desk on site; do not invent NIO/USD",
+        "Nave generally free/donation",
+        "Do not link Spain’s León cathedral",
+        "No Granada densify one-pass myth"
+      ]
+    },
+    "visit": {
+      "intro": "Honest NO_CTA — nave free/donation; rooftop cash desk on site; verify price at desk; do not invent NIO/USD.",
+      "hours": "Working cathedral — midday close class common in tropical cities; rooftop/dome visits have separate desk windows. Verify Visit León tips and on-site notices before travel — do not treat blog hours as final.",
+      "tickets": "Nave generally free / donation. Rooftop/dome is a local cash desk product (Córdoba / USD classes cited unofficially) — do not invent NIO/USD. Honest NO_CTA: no strong official cathedral e-ticket URL. Do not link Spain’s catedraldeleon.org (wrong León). Visit León tourism OK for planning tips only.",
+      "dress": "Active Catholic cathedral-basilica + UNESCO monument — modest dress; quiet in nave; rooftop: shoes-off / steep climb / time limits as desk states; heat honesty.",
+      "duration": "45–90 minutes nave + rooftop/dome.",
+      "access": "León centre at Parque Central; Managua ~1.5–2 h road. Heat / midday close soft blockers. Rooftop fitness / shoe rules. Not Spain León; not Granada combo.",
+      "tips": [
+        "Treat nave as free/donation; buy rooftop only at the local cash desk — do not invent NIO/USD.",
+        "Honest NO_CTA — there is no reliable cathedral e-ticket URL for this León.",
+        "Never follow Spain’s León cathedral sites — wrong country.",
+        "Expect heat and possible midday close; confirm rooftop windows on site.",
+        "Modest dress; follow shoe-off / time-limit rules on the roof.",
+        "Pair Cerro Negro / museums separately — no Granada cathedral densify pass.",
+        "SanctaWay does not sell tickets or grant access."
+      ],
+      "entryType": "free",
+      "ticketsUrl": null,
+      "ticketsLabel": "León Cathedral (Nicaragua) — honest NO_CTA (nave free/donation; rooftop cash desk on site — verify price; do not invent NIO/USD; not Spain León)",
+      "ticketsNote": "Honest NO_CTA; rooftop desk on site; heat/midday close; wrong-country Spain León trap; no Granada combo; do not invent fares."
+    },
+    "etiquette": {
+      "intro": "Active UNESCO cathedral — nave devotion and rooftop safety.",
+      "bullets": [
+        "Modest dress; quiet in the nave.",
+        "Follow rooftop shoe / time / safety rules exactly.",
+        "Do not confuse this León with Spain’s cathedral of the same name.",
+        "Threshold Atlas tone: living Nicaragua UNESCO cathedral — not roof Instagram-only tourism."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach León Cathedral in Nicaragua.",
+      "paragraphs": [
+        "Most visitors walk from Parque Central in León to the cathedral square — it is the city’s monumental core.",
+        "Managua is the usual air/road gateway (~1.5–2 hours). Granada is a separate city circuit — do not invent one Nicaragua cathedral pass.",
+        "Carry cash for the rooftop desk; card acceptance is not something to invent."
+      ],
+      "bullets": [
+        "León Parque Central walk",
+        "Managua gateway ~1.5–2 h",
+        "Cash desk for rooftop",
+        "No Spain León / Granada one-pass myth"
+      ]
+    },
+    "bestTime": {
+      "intro": "Early morning or late afternoon to dodge peak heat; confirm rooftop desk windows.",
+      "paragraphs": [
+        "Early morning usually means cooler roof stone and thinner queues. Midday heat and possible close are real soft blockers.",
+        "Golden-hour roof views are popular — still an active cathedral; keep voices low near the nave."
+      ],
+      "bullets": [
+        "Best: early morning nave + roof",
+        "Heat / midday close soft blockers",
+        "Honest NO_CTA — desk price truth",
+        "Do not invent NIO/USD / Spain León trap"
+      ]
+    },
+    "notes": {
+      "intro": "SanctaWay Threshold Atlas notes — Nicaragua #1 UNESCO cathedral.",
+      "bullets": [
+        "Opens Nicaragua — León Cathedral UNESCO WHS (2011).",
+        "Honest NO_CTA — rooftop cash desk; do not invent NIO/USD; not Spain León.",
+        "Soft blockers: heat/midday close; roof fitness; Granada densify parked.",
+        "SanctaWay does not sell tickets, invent visa myths, or grant access."
+      ]
+    }
+  },
+  {
+    "id": "bibi-heybat-mosque",
+    "name": "Bibi-Heybat Mosque / Bibiheybət Ziyarətgahı, Baku",
+    "shortName": "Bibi-Heybat Mosque",
+    "location": "Bibiheybət shrine precinct on the bay coast road south of central Baku, Azerbaijan",
+    "country": "Azerbaijan",
+    "region": "Middle East",
+    "regionSlug": "middle-east",
+    "religions": [
+      "Islamic"
+    ],
+    "religionSlugs": [
+      "islamic"
+    ],
+    "summary": "Baku bay shrine-mosque tourist postcard — rebuilt after Soviet demolition (opens Azerbaijan). Free visit/prayer class; honest NO_CTA (bibiheybet.com is info/prayer times, not tickets). Do not invent AZN; not Bibi-Khanym Samarkand.",
+    "heroImage": "https://images.unsplash.com/photo-1565008576549-57569a49371d?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Historic ziyarat shrine-mosque on Baku bay; demolished in the Soviet period and later rebuilt as today’s postcard complex",
+      "patron": "Islamic — ziyarat shrine dedicated to a revered female figure in local tradition; active mosque",
+      "unesco": "Not a standalone World Heritage listing (national bay landmark)",
+      "typicalVisit": "45–75 minutes halls + bay exterior; longer with shore photos"
+    },
+    "related": [
+      "registan",
+      "hazrat-sultan-mosque",
+      "sultan-qaboos-mosque"
+    ],
+    "overview": {
+      "body": [
+        "Bibi-Heybat opens Azerbaijan on SanctaWay as Baku’s bay shrine-mosque postcard — a rebuilt ziyarat complex after Soviet demolition — not Bibi-Khanym in Samarkand and not a ticketed monument product.",
+        "Frame ticket honesty: entry is generally free. Official bibiheybet.com publishes shrine/prayer information more than tourist tickets → honest NO_CTA for ticketsUrl. Prefer the site as informational notes only if useful. Do not invent AZN.",
+        "Working shrine-mosque — visit outside the five prayers. Third-party hour ranges conflict — do not invent a fixed tourist timetable; verify prayer times on the official site and expect interruptions at each prayer.",
+        "Baku bay south — taxi / ride-hail to the Bibiheybət precinct on the coast road; postcard views from the shore. Pair Old City / Flame Towers as separate civic stops — not one sacred pass covering Sheki densify.",
+        "Soft blockers: prayer-time interruptions; rebuilt-mosque / Soviet-demolition history honesty; dress and shrine etiquette. SanctaWay is informational — it does not sell tickets, invent visa myths, or grant access."
+      ],
+      "highlights": [
+        "Opens Azerbaijan — Baku bay shrine-mosque postcard",
+        "Honest NO_CTA — free visit; bibiheybet.com info only",
+        "Rebuilt after Soviet demolition — history honesty",
+        "Prayer windows reshape access",
+        "Not Bibi-Khanym Samarkand; no Sheki densify one-pass"
+      ]
+    },
+    "visit": {
+      "intro": "Honest NO_CTA — free shrine-mosque visit; bibiheybet.com for prayer/info only; do not invent AZN.",
+      "hours": "Working shrine-mosque — visit outside the five daily prayers. Official https://www.bibiheybet.com/en/ publishes prayer times more than a tourist timetable. Third-party hour ranges conflict — do not invent fixed tourist hours; verify prayer times and expect pauses.",
+      "tickets": "Entry generally free — no ticket product on the official shrine site → honest NO_CTA. Prefer bibiheybet.com as informational related reading only, not a tickets CTA. Do not invent AZN. Not Bibi-Khanym Samarkand; not one pass with Taza Pir densify.",
+      "dress": "Active mosque + ziyarat shrine — covered arms/legs; women hair cover; shoes off in prayer halls; quiet; shrine etiquette; photography rules as posted.",
+      "duration": "45–75 minutes halls + bay exterior.",
+      "access": "Taxi / ride-hail to Bibiheybət on Baku’s southern bay coast road. Prayer times pause visitor circulation. Rebuilt history honesty. Not Bibi-Khanym; not Sheki combo.",
+      "tips": [
+        "Treat entry as free — honest NO_CTA; do not invent AZN.",
+        "Use bibiheybet.com for prayer/info only — not a ticket checkout.",
+        "Arrive between prayers; expect pauses at the five daily times.",
+        "Cover arms/legs; women cover hair; remove shoes in halls.",
+        "Read the rebuilt / Soviet-demolition history with respect — not a novelty pitch.",
+        "Do not confuse with Bibi-Khanym in Samarkand; pair Old City separately — no Sheki densify pass.",
+        "SanctaWay does not sell tickets or grant access."
+      ],
+      "entryType": "free",
+      "ticketsUrl": null,
+      "ticketsLabel": "Bibi-Heybat Mosque — honest NO_CTA (free visit/prayer; bibiheybet.com informational only — not tickets; do not invent AZN; not Bibi-Khanym Samarkand)",
+      "ticketsNote": "Honest NO_CTA; free; prayer windows; rebuilt history honesty; wrong-site Bibi-Khanym trap; no Sheki combo; do not invent fares."
+    },
+    "etiquette": {
+      "intro": "Active ziyarat mosque — dress, prayer pauses, shrine respect.",
+      "bullets": [
+        "Cover arms and legs; women cover hair; remove shoes in halls.",
+        "Yield space when prayer begins; keep voices low at the shrine.",
+        "Follow posted photography rules.",
+        "Threshold Atlas tone: living Azerbaijan bay shrine — not Bibi-Khanym densify tourism."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Bibi-Heybat Mosque in Baku.",
+      "paragraphs": [
+        "Most visitors take a taxi or ride-hail south along the bay coast road to the Bibiheybət shrine precinct.",
+        "Old City and Flame Towers are separate civic stops — do not invent one Baku sacred pass.",
+        "Bibi-Khanym in Samarkand is a different country and monument — never merge the two."
+      ],
+      "bullets": [
+        "Baku bay south → Bibiheybət precinct",
+        "Taxi / ride-hail common",
+        "Shore postcard views",
+        "No Bibi-Khanym / Sheki one-pass myth"
+      ]
+    },
+    "bestTime": {
+      "intro": "Between prayers; clear bay light for exteriors without inventing a fixed tourist timetable.",
+      "paragraphs": [
+        "Late morning between prayer windows usually works for quieter halls and bay photos. Always re-check prayer times.",
+        "Friday midday is the wrong default for a first casual visit — plan around congregational prayer."
+      ],
+      "bullets": [
+        "Best: between prayers, clear bay light",
+        "Honest NO_CTA — free visit",
+        "Prayer pauses are soft blockers",
+        "Do not invent AZN / Bibi-Khanym trap"
+      ]
+    },
+    "notes": {
+      "intro": "SanctaWay Threshold Atlas notes — Azerbaijan #1 bay shrine-mosque.",
+      "bullets": [
+        "Opens Azerbaijan — Bibi-Heybat on Baku bay.",
+        "Honest NO_CTA — free; bibiheybet.com info only; do not invent AZN.",
+        "Soft blockers: prayer windows; rebuilt history honesty; Bibi-Khanym / Sheki densify parked.",
         "SanctaWay does not sell tickets, invent visa myths, or grant access."
       ]
     }

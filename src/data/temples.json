@@ -1749,7 +1749,7 @@
     "related": [
       "chichen-itza",
       "st-peters",
-      "monserrate"
+      "el-cobre"
     ],
     "overview": {
       "body": [
@@ -3691,7 +3691,7 @@
     "related": [
       "wat-pho",
       "borobudur",
-      "that-luang"
+      "buddha-tooth-relic-temple"
     ],
     "overview": {
       "body": [
@@ -4383,7 +4383,7 @@
     "related": [
       "mahabodhi",
       "borobudur",
-      "anuradhapura"
+      "buddha-tooth-relic-temple"
     ],
     "overview": {
       "body": [
@@ -4843,7 +4843,7 @@
     "related": [
       "blue-mosque",
       "hagia-sophia",
-      "faisal-mosque"
+      "sultan-qaboos-mosque"
     ],
     "overview": {
       "body": [
@@ -7926,7 +7926,7 @@
     "related": [
       "chartres",
       "mont-saint-michel",
-      "jasna-gora"
+      "our-lady-of-lebanon"
     ],
     "overview": {
       "body": [
@@ -9059,7 +9059,7 @@
     "related": [
       "guadalupe",
       "lourdes",
-      "monserrate"
+      "el-cobre"
     ],
     "overview": {
       "body": [
@@ -9285,7 +9285,7 @@
     "related": [
       "fatima",
       "lourdes",
-      "rila-monastery"
+      "our-lady-of-lebanon"
     ],
     "overview": {
       "body": [
@@ -10862,7 +10862,7 @@
     "related": [
       "guadalupe",
       "aparecida",
-      "quiapo-church"
+      "saint-joseph-oratory"
     ],
     "overview": {
       "body": [
@@ -10974,7 +10974,7 @@
     "related": [
       "hassan-ii-mosque",
       "blue-mosque",
-      "imam-reza-shrine"
+      "sultan-qaboos-mosque"
     ],
     "overview": {
       "body": [
@@ -12431,7 +12431,7 @@
     "related": [
       "taj-mahal",
       "sheikh-zayed-grand-mosque",
-      "badshahi-mosque"
+      "sixty-dome-mosque"
     ],
     "overview": {
       "body": [
@@ -18513,7 +18513,7 @@
     "related": [
       "st-peters",
       "aparecida",
-      "lalibela"
+      "notre-dame-dafrique"
     ],
     "overview": {
       "body": [
@@ -18852,7 +18852,7 @@
     "related": [
       "stonehenge",
       "gobekli-tepe",
-      "carnac"
+      "ggantija"
     ],
     "overview": {
       "body": [
@@ -19871,7 +19871,7 @@
     "related": [
       "stonehenge",
       "newgrange",
-      "gobekli-tepe"
+      "ggantija"
     ],
     "overview": {
       "body": [
@@ -20887,7 +20887,7 @@
     "related": [
       "jama-masjid",
       "taj-mahal",
-      "faisal-mosque"
+      "sixty-dome-mosque"
     ],
     "overview": {
       "body": [
@@ -21676,7 +21676,7 @@
     "related": [
       "san-francesco-assisi",
       "basilica-sant-antonio",
-      "quiapo-church"
+      "saint-joseph-oratory"
     ],
     "overview": {
       "body": [
@@ -21902,7 +21902,7 @@
     "related": [
       "guadalupe",
       "aparecida",
-      "lujan"
+      "notre-dame-dafrique"
     ],
     "overview": {
       "body": [
@@ -22662,6 +22662,900 @@
         "Distinct from live temple-of-the-tooth (Kandy).",
         "SanctaWay is informational; it does not sell tickets or grant access.",
         "Hero image is an Unsplash placeholder pending visual / Commons pass."
+      ]
+    }
+  },
+  {
+    "id": "el-cobre",
+    "name": "Basilica of Our Lady of Charity of El Cobre / Basílica de Nuestra Señora de la Caridad del Cobre, Santiago de Cuba",
+    "shortName": "El Cobre (Cachita)",
+    "location": "Cerro de la Cantera hillside sanctuary, El Cobre village, Santiago de Cuba Province",
+    "country": "Cuba",
+    "region": "Americas",
+    "regionSlug": "americas",
+    "religions": [
+      "Christian"
+    ],
+    "religionSlugs": [
+      "christian"
+    ],
+    "summary": "Cuba’s national Marian shrine (Cachita) — papal crowns + Hemingway Nobel medal offerings (opens Cuba). Free working sanctuary ~20 km from Santiago. Sept 8 feast crush + Cuba travel-docs honesty. Do not invent CUP/USD.",
+    "heroImage": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Shrine tradition from 1612 image find in the Bay of Nipe; present basilica mid-20th century; national Marian patron of Cuba",
+      "patron": "Christian — Our Lady of Charity of El Cobre (Cachita); national Marian shrine",
+      "unesco": "Not a standalone World Heritage listing (national pilgrimage landmark)",
+      "typicalVisit": "1–2 hours sanctuary + Sala de los Milagros; longer on feast / novena days"
+    },
+    "related": [
+      "guadalupe",
+      "aparecida",
+      "lujan"
+    ],
+    "overview": {
+      "body": [
+        "El Cobre is Cuba’s national Marian shrine — the hillside sanctuary of Our Lady of Charity (Cachita) that opens the country on SanctaWay as living devotion and national identity, not a Santiago day-trip photo stop densify.",
+        "Frame devotion honesty: pilgrims leave offerings in Sala de los Milagros; papal crowns and historic gifts (including Hemingway’s Nobel medal tradition) sit inside a working Catholic basilica, not a museum-only shell.",
+        "Entry is generally free / donation — do not invent CUP or USD from OTA “Virgin VIP” packages. Prefer Archdiocese of Santiago / sanctuary notices over opaque tour markups. Guides often cite daytime windows around 06:30–18:00 class; confirm locally before travel.",
+        "Santiago de Cuba gateway — road ~20 km to El Cobre village / Cerro de la Cantera. Taxi, tour, or colectivo common. Pair Santiago churches without inventing one sacred pass covering Havana or Trinidad.",
+        "Soft blockers: Cuba travel documentation; local transport and energy-grid friction; post-storm repair honesty when material; 8 September feast crush. SanctaWay is informational — it does not sell tickets, invent visa myths, or grant access."
+      ],
+      "highlights": [
+        "Opens Cuba — national Marian shrine (Cachita)",
+        "Free / donation working sanctuary — do not invent CUP/USD",
+        "Sept 8 feast reshapes access into mass pilgrimage",
+        "Santiago gateway ~20 km; no Havana one-pass myth",
+        "Cuba travel-docs + transport honesty"
+      ]
+    },
+    "visit": {
+      "intro": "Free / donation national shrine — Cuba docs honesty; no invent CUP/USD.",
+      "hours": "Working sanctuary daytime windows — guides commonly cite ~06:30–18:00 class; confirm Archdiocese of Santiago / sanctuary notices before travel. Weekday mornings quieter. 8 September feast and novena days reshape access into mass pilgrimage.",
+      "tickets": "Entry generally free / donation — do not invent CUP or USD. Prefer archdiocese / sanctuary guidance over opaque “Virgin VIP” packages. No invent combo covering Havana or Trinidad as one pass.",
+      "dress": "Active Catholic national shrine — modest dress; quiet at Cachita chapel / Sala de los Milagros offerings; no climbing votive displays; photography rules as posted.",
+      "duration": "1–2 hours sanctuary circuit; longer on feast days.",
+      "access": "Santiago de Cuba → road ~20 km to El Cobre hillside. Taxi / tour / colectivo common. Stairs and hillside approaches. Cuba travel documentation is a standing soft blocker. Not one ticket with Havana.",
+      "tips": [
+        "Confirm sanctuary hours with Archdiocese / local notices — do not invent CUP/USD.",
+        "Plan Sept 8 feast as pilgrimage crush, not a quiet photo stop.",
+        "Modest dress; quiet at offerings / Sala de los Milagros.",
+        "Budget Cuba docs, local transport friction, and energy-grid honesty into the day.",
+        "Do not invent one pass covering Havana, Trinidad, or Santiago civil museums.",
+        "Prefer sanctuary / parish guidance over opaque tour markups.",
+        "SanctaWay does not sell tickets or grant access."
+      ],
+      "entryType": "free",
+      "ticketsLabel": "Archdiocese of Santiago / El Cobre sanctuary notices — free/donation entry (verify hours; do not invent CUP/USD)",
+      "ticketsNote": "Free/donation; Cuba travel docs; Sept 8 feast crush; no Havana combo; do not invent fares."
+    },
+    "etiquette": {
+      "intro": "Active national Marian shrine — dress, offerings, feast crush.",
+      "bullets": [
+        "Modest dress in basilica and chapel areas.",
+        "Quiet at Cachita chapel and votive offerings; do not climb displays.",
+        "Follow posted photography rules; feast days reshape steward lanes.",
+        "Threshold Atlas tone: living Cuba national shrine — not ruins-only tourism."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach El Cobre from Santiago de Cuba.",
+      "paragraphs": [
+        "Most visitors base in Santiago de Cuba and take a taxi, organised tour, or colectivo ~20 km to El Cobre village and the Cerro de la Cantera hillside sanctuary.",
+        "Local transport and energy-grid friction can reshape day plans — keep buffer time. Confirm return options before leaving Santiago.",
+        "Havana and Trinidad are separate city trips — do not invent one Cuba sacred pass."
+      ],
+      "bullets": [
+        "Santiago de Cuba → El Cobre (~20 km)",
+        "Taxi / tour / colectivo common",
+        "Hillside sanctuary approaches",
+        "No Havana / Trinidad one-pass myth"
+      ]
+    },
+    "bestTime": {
+      "intro": "Weekday mornings quieter; treat Sept 8 as pilgrimage peak.",
+      "paragraphs": [
+        "Arrive on a weekday morning for thinner queues and quieter chapel time. Late afternoon light on the hillside can be strong — heat and stairs still apply.",
+        "8 September feast and surrounding novena days turn the sanctuary into mass pilgrimage — plan devotion first, not a rushed photo stop."
+      ],
+      "bullets": [
+        "Best: weekday morning sanctuary quiet",
+        "Sept 8 feast = mass pilgrimage crush",
+        "Heat / hillside stairs soft blockers",
+        "Do not invent CUP/USD / Havana combo"
+      ]
+    },
+    "notes": {
+      "intro": "SanctaWay Threshold Atlas notes — Cuba #1 Marian.",
+      "bullets": [
+        "Opens Cuba — national Marian shrine of Our Lady of Charity (Cachita).",
+        "Free/donation; do not invent CUP/USD or Havana one-pass myths.",
+        "Soft blockers: Cuba travel docs; transport/energy friction; Sept 8 feast; post-storm repair honesty when material.",
+        "SanctaWay does not sell tickets, invent visa myths, or grant access."
+      ]
+    }
+  },
+  {
+    "id": "our-lady-of-lebanon",
+    "name": "Our Lady of Lebanon / Notre Dame du Liban, Harissa",
+    "shortName": "Our Lady of Lebanon",
+    "location": "Harissa hill sanctuary overlooking Jounieh Bay, Keserwan District",
+    "country": "Lebanon",
+    "region": "Middle East",
+    "regionSlug": "middle-east",
+    "religions": [
+      "Christian"
+    ],
+    "religionSlugs": [
+      "christian"
+    ],
+    "summary": "Maronite national shrine + bronze Virgin overlooking Jounieh Bay (opens Lebanon). Sanctuary free/donation vs Jounieh téléférique/funicular ticketed separately — do not invent LBP. Regional advisory honesty. ololb.org / teleferiquelb.com.",
+    "heroImage": "https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Late-19th / early-20th century Maronite national shrine; large bronze Virgin statue overlooking the bay",
+      "patron": "Christian — Maronite national shrine of Our Lady of Lebanon",
+      "unesco": "Not a standalone World Heritage listing (national pilgrimage landmark)",
+      "typicalVisit": "1–2 hours sanctuary + statue platform; add téléférique/funicular time separately"
+    },
+    "related": [
+      "guadalupe",
+      "lourdes",
+      "montserrat"
+    ],
+    "overview": {
+      "body": [
+        "Our Lady of Lebanon at Harissa is Lebanon’s Maronite national shrine — the hillside Virgin overlooking Jounieh Bay that opens the country on SanctaWay as Levant pilgrimage, not a Baalbek densify or photo-only viewpoint.",
+        "Frame transport honesty: Beirut / Jounieh road and taxi approaches are one path; the Jounieh Téléférique plus funicular to the sanctuary (teleferiquelb.com) is a separate ticketed product. Road and cable are not one fare.",
+        "Sanctuary access is generally free / donation — verify ololb.org. Do not invent LBP for either sanctuary or cable (currency volatility — point to official teleferique rates). Prefer ololb.org / teleferiquelb.com over scalpers.",
+        "Late afternoon light over Jounieh Bay is popular; Marian feast peaks reshape queues. Shared Christian–Muslim visitor respect is common at this site — state calmly without inventing doctrine.",
+        "Soft blockers: regional security / travel-advisory honesty; cable weather closures; stairs at the statue. SanctaWay is informational — it does not sell tickets, invent visa myths, or grant access."
+      ],
+      "highlights": [
+        "Opens Lebanon — Maronite national shrine at Harissa",
+        "Sanctuary free/donation ≠ téléférique/funicular ticket",
+        "Do not invent LBP (currency volatility)",
+        "ololb.org / teleferiquelb.com official sources",
+        "Regional advisory + cable weather honesty"
+      ]
+    },
+    "visit": {
+      "intro": "ololb.org sanctuary free vs teleferiquelb cable — no invent LBP.",
+      "hours": "Sanctuary open long daily hours — verify ololb.org. Téléférique/funicular operates on published seasonal windows (often Tue–Sun class; Monday closures and weather/wind stoppages common) — verify teleferiquelb.com before travel. Late afternoon bay light; Marian feasts reshape queues.",
+      "tickets": "Sanctuary generally free / donation. Téléférique/funicular ticketed separately on teleferiquelb.com — do not invent LBP. Prefer official sanctuary and cable operators over scalpers. Baalbek / Qadisha = separate visits (Baalbek soft-parked).",
+      "dress": "Active Maronite national shrine — modest dress in basilica / chapel; quiet at statue platform; shared visitor respect; photography rules as posted.",
+      "duration": "1–2 hours sanctuary + statue; add cable transfer time.",
+      "access": "Beirut / Jounieh gateway — road/taxi to Harissa, or Jounieh Téléférique + funicular. Stairs at statue platform. Cable weather closures. Regional travel advisories are a standing soft blocker. Not one ticket with Baalbek.",
+      "tips": [
+        "Confirm sanctuary hours on ololb.org; cable hours/fares on teleferiquelb.com — do not invent LBP.",
+        "Treat road and téléférique as separate products.",
+        "Modest dress; quiet at statue platform.",
+        "Check regional travel advisories and cable weather closures before departure.",
+        "Do not invent one pass covering Baalbek or Qadisha.",
+        "Prefer official operators over street scalpers.",
+        "SanctaWay does not sell tickets or grant access."
+      ],
+      "entryType": "mixed",
+      "ticketsUrl": "https://www.ololb.org/",
+      "ticketsLabel": "Our Lady of Lebanon (ololb.org) — sanctuary free/donation; téléférique = teleferiquelb.com separate (verify LBP; do not invent fares)",
+      "ticketsNote": "Sanctuary free vs cable ticketed; LBP volatility; regional advisory; Baalbek parked."
+    },
+    "etiquette": {
+      "intro": "Active Maronite national shrine — dress, statue, shared visitors.",
+      "bullets": [
+        "Modest dress in basilica / chapel areas.",
+        "Quiet at the bronze Virgin statue platform.",
+        "Respect shared Christian–Muslim visitor traffic without inventing doctrine.",
+        "Threshold Atlas tone: living Lebanon national shrine — not viewpoint-only tourism."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Harissa from Beirut / Jounieh.",
+      "paragraphs": [
+        "Most visitors reach Harissa by road or taxi from Beirut / Jounieh, or take the Jounieh Téléférique and connecting funicular to the sanctuary hill. Confirm teleferiquelb.com hours and weather status the same day.",
+        "Cable and road are separate products — do not invent one LBP fare covering both sanctuary and transport.",
+        "Baalbek and Qadisha Valley are separate journeys — do not invent one Lebanon sacred pass."
+      ],
+      "bullets": [
+        "Beirut / Jounieh → Harissa road or cable",
+        "Téléférique + funicular = separate tickets",
+        "Statue stairs / hillside approaches",
+        "No Baalbek one-pass myth"
+      ]
+    },
+    "bestTime": {
+      "intro": "Late afternoon bay light; avoid cable weather closures.",
+      "paragraphs": [
+        "Late afternoon often gives strong light over Jounieh Bay from the statue platform. Mornings can be quieter for sanctuary prayer time.",
+        "Marian feast peaks and weekend cable queues reshape access — check teleferiquelb.com for wind / maintenance closures."
+      ],
+      "bullets": [
+        "Best: late afternoon bay light (verify cable)",
+        "Quiet: weekday sanctuary mornings",
+        "Feast peaks + cable weather soft blockers",
+        "Do not invent LBP / Baalbek combo"
+      ]
+    },
+    "notes": {
+      "intro": "SanctaWay Threshold Atlas notes — Lebanon #1.",
+      "bullets": [
+        "Opens Lebanon — Maronite national shrine at Harissa.",
+        "Sanctuary free/donation; téléférique separate — do not invent LBP.",
+        "Soft blockers: regional advisories; cable weather; statue stairs; Baalbek parked.",
+        "SanctaWay does not sell tickets, invent visa myths, or grant access."
+      ]
+    }
+  },
+  {
+    "id": "saint-joseph-oratory",
+    "name": "Saint Joseph’s Oratory of Mount Royal / Oratoire Saint-Joseph, Montréal",
+    "shortName": "Saint Joseph’s Oratory",
+    "location": "3800 Queen Mary Road, Côte-des-Neiges / Mount Royal, Montréal, Québec",
+    "country": "Canada",
+    "region": "Americas",
+    "regionSlug": "americas",
+    "religions": [
+      "Christian"
+    ],
+    "religionSlugs": [
+      "christian"
+    ],
+    "summary": "World’s largest Saint Joseph shrine — ~2M pilgrims/visitors (opens Canada). Shrine free ~06:30–21:00; museum CAD separate on saint-joseph.org. Stairs/dome + winter ice honesty. Do not invent CAD.",
+    "heroImage": "https://images.unsplash.com/photo-1519834785169-98be25ec3f84?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Early 20th century shrine of Saint Brother André; dome basilica completed mid-century; world’s largest Saint Joseph shrine",
+      "patron": "Christian — Saint Joseph; Oratory of Mount Royal pilgrimage shrine",
+      "unesco": "Not a standalone World Heritage listing (major national / international pilgrimage landmark)",
+      "typicalVisit": "2–3 hours basilica / crypt / votive chapel; add museum (~10:00–16:30) and seasonal Way of the Cross garden"
+    },
+    "related": [
+      "lourdes",
+      "san-giovanni-rotondo",
+      "guadalupe"
+    ],
+    "overview": {
+      "body": [
+        "Saint Joseph’s Oratory is Montréal’s pilgrimage mega — the Mount Royal shrine that opens Canada on SanctaWay as high-volume Catholic devotion, not an Old Montréal densify or viewpoint-only postcard.",
+        "Frame free vs paid honesty: shrine access is generally free daily ~06:30–21:00; the Oratory Museum runs a shorter daytime window with published CAD admission on saint-joseph.org — do not invent CAD from blogs or OTA “Montréal VIP.”",
+        "Official schedules, parking products, guided tours, and museum rates live on saint-joseph.org. Prefer the Oratory over opaque packages. Garden of the Way of the Cross is seasonal (May–Thanksgiving class).",
+        "Montréal metro / bus to Côte-des-Neiges / Queen Mary Road; parking products separate. Pair Mount Royal lookouts without inventing one sacred pass covering Notre-Dame Basilica Old Montréal or Sainte-Anne-de-Beaupré.",
+        "Soft blockers: dome / stairs stamina; winter ice; group-bus fee lanes. SanctaWay is informational — it does not sell tickets, invent visa myths, or grant access."
+      ],
+      "highlights": [
+        "Opens Canada — world’s largest Saint Joseph shrine",
+        "Free shrine ≠ museum CAD (saint-joseph.org)",
+        "Shrine ~06:30–21:00; museum shorter daytime window",
+        "Do not invent CAD or Old Montréal one-pass myths",
+        "Stairs / dome / winter ice honesty"
+      ]
+    },
+    "visit": {
+      "intro": "saint-joseph.org — free shrine vs museum CAD; no invent fares.",
+      "hours": "Shrine open daily approximately 06:30–21:00 — verify saint-joseph.org access schedule (doors often close ~10 minutes early). Oratory Museum daily ~10:00–16:30 (ticket counter closes ~16:00). Garden of the Way of the Cross seasonal. Schedules may change for liturgy / holy weeks.",
+      "tickets": "Shrine access generally free. Museum / guided-tour / group products as published on saint-joseph.org — do not invent CAD. Prefer official Oratory over OTA “Montréal VIP.” Notre-Dame Old Montréal and Sainte-Anne-de-Beaupré = separate visits.",
+      "dress": "Active major Catholic shrine — modest dress in basilica / crypt / votive chapel; quiet at Brother André’s tomb; no flash where posted; follow steward lanes.",
+      "duration": "2–3 hours shrine circuit; add museum and seasonal garden time.",
+      "access": "STM metro / bus to Côte-des-Neiges / Queen Mary Road; parking products as published. Dome stairs and long indoor corridors. Winter ice on outdoor approaches. Group-bus fee lanes possible. Not one ticket with Old Montréal.",
+      "tips": [
+        "Confirm shrine and museum hours on saint-joseph.org — do not invent CAD.",
+        "Treat free shrine and paid museum as separate products.",
+        "Budget stairs / dome stamina; winter visitors: ice and footwear honesty.",
+        "Quiet at Brother André’s tomb; modest dress in sacred spaces.",
+        "Do not invent one pass covering Notre-Dame Old Montréal or Sainte-Anne-de-Beaupré.",
+        "Prefer official Oratory parking / tour products over opaque packages.",
+        "SanctaWay does not sell tickets or grant access."
+      ],
+      "entryType": "mixed",
+      "ticketsUrl": "https://saint-joseph.org/en/access-to-the-shrine-and-schedule/",
+      "ticketsLabel": "Saint Joseph’s Oratory — official access & schedule (shrine free; museum CAD as published; do not invent fares)",
+      "ticketsNote": "Free shrine vs museum CAD; stairs/dome; winter ice; no Old Montréal / Sainte-Anne combo."
+    },
+    "etiquette": {
+      "intro": "Active major Catholic shrine — dress, tomb, photography.",
+      "bullets": [
+        "Modest dress in basilica, crypt, and votive chapel.",
+        "Quiet at Brother André’s tomb; no flash where posted.",
+        "Follow steward lanes during liturgy and group tours.",
+        "Threshold Atlas tone: living pilgrimage mega — not dome-viewpoint tourism only."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach the Oratory from Montréal.",
+      "paragraphs": [
+        "Most visitors use STM metro / bus to the Côte-des-Neiges / Queen Mary Road area, then walk up to the Oratory. Parking products and rates are published on saint-joseph.org and are separate from shrine entry.",
+        "Guided tours and museum admission are optional paid products — do not assume they are included with free shrine entry.",
+        "Notre-Dame Basilica in Old Montréal and Sainte-Anne-de-Beaupré are separate journeys — do not invent one Canada sacred pass."
+      ],
+      "bullets": [
+        "Montréal STM → Côte-des-Neiges / Queen Mary",
+        "Parking products separate (official rates)",
+        "Free shrine; museum optional CAD",
+        "No Old Montréal / Sainte-Anne one-pass myth"
+      ]
+    },
+    "bestTime": {
+      "intro": "Morning shrine quiet; museum within daytime window.",
+      "paragraphs": [
+        "Arrive near opening for quieter crypt and votive-chapel time before coach waves. Museum visits need the published daytime window — ticket counter often closes before museum close.",
+        "Winter ice and holy-week schedules can reshape outdoor and indoor flow — verify saint-joseph.org the same week."
+      ],
+      "bullets": [
+        "Best: morning shrine quiet",
+        "Museum: daytime window only (verify)",
+        "Winter ice / liturgy soft blockers",
+        "Do not invent CAD / combo myths"
+      ]
+    },
+    "notes": {
+      "intro": "SanctaWay Threshold Atlas notes — Canada #1.",
+      "bullets": [
+        "Opens Canada — world’s largest Saint Joseph shrine (~2M visitors).",
+        "Free shrine; museum CAD on saint-joseph.org — do not invent fares.",
+        "Soft blockers: stairs/dome; winter ice; group-bus fees; Sainte-Anne densify parked.",
+        "SanctaWay does not sell tickets, invent visa myths, or grant access."
+      ]
+    }
+  },
+  {
+    "id": "sultan-qaboos-mosque",
+    "name": "Sultan Qaboos Grand Mosque / جَامِع السُّلْطَان قَابُوس ٱلْأَكْبَر, Muscat",
+    "shortName": "Sultan Qaboos Grand Mosque",
+    "location": "Al Ghubrah / Bawshar, Muscat, Oman",
+    "country": "Oman",
+    "region": "Middle East",
+    "regionSlug": "middle-east",
+    "religions": [
+      "Islamic"
+    ],
+    "religionSlugs": [
+      "islamic"
+    ],
+    "summary": "Muscat capital marble mosque postcard — carpet + chandelier mega (opens Oman). Non-Muslim window Sat–Thu morning only (official mosque ~08:30–11:00); Friday closed. Experience Oman lists OMR admission — re-verify; do not invent OMR. Dress/hair cover required.",
+    "heroImage": "https://images.unsplash.com/photo-1564769625905-50e93615e769?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Inaugurated 2001 under Sultan Qaboos bin Said; ~416,000 m² complex; main hall ~6,500 worshippers",
+      "patron": "Islamic — Sultanate capital grand mosque",
+      "unesco": "Not a standalone World Heritage listing (capital monumental islamic landmark)",
+      "typicalVisit": "60–90 minutes inside the non-Muslim morning window; arrive at opening, not 10:30"
+    },
+    "related": [
+      "sheikh-zayed-grand-mosque",
+      "hassan-ii-mosque",
+      "faisal-mosque"
+    ],
+    "overview": {
+      "body": [
+        "Sultan Qaboos Grand Mosque is Muscat’s capital islamic postcard mega — the sandstone-and-marble complex that opens Oman on SanctaWay as a morning-window visitor site, not a Nizwa Fort densify or UAE Sheikh Zayed one-pass myth.",
+        "Frame non-Muslim hours honesty first: the official mosque site (sultanqaboosgrandmosque.com) states non-Muslims may visit every day except Friday from 08:30–11:00. Experience Oman lists Sat–Thu ~08:00–11:00 and an admission product — sources conflict on exact start time and fee; plan the narrower 08:30 window and re-verify OMR before travel. Do not invent OMR.",
+        "Dress is enforced: covered arms/legs; women hair cover required; shoes off in prayer halls; quiet; photography as posted. Abaya/scarf may be available at the gate — bring your own as the primary plan.",
+        "Muscat gateway — road / taxi to Al Ghubrah / Bawshar complex; coach parking common. Pair Mutrah / Opera without inventing one sacred pass covering Nizwa or Wahiba.",
+        "Soft blockers: narrow morning window; Friday visitor ban; dress enforcement; heat on marble. SanctaWay is informational — it does not sell tickets, invent visa myths, or grant access."
+      ],
+      "highlights": [
+        "Opens Oman — Muscat capital grand mosque mega",
+        "Non-Muslim window Sat–Thu morning only; Friday closed",
+        "Official mosque ~08:30–11:00 — arrive at opening",
+        "Re-verify OMR (Experience Oman vs mosque site) — do not invent",
+        "Dress / hair cover required; no Nizwa / UAE one-pass myth"
+      ]
+    },
+    "visit": {
+      "intro": "sultanqaboosgrandmosque.com — morning-only window; re-verify OMR.",
+      "hours": "Non-Muslim visitors: every day except Friday, officially 08:30–11:00 on sultanqaboosgrandmosque.com (Experience Oman lists Sat–Thu ~08:00–11:00). Friday closed to visitors. Arrive at opening — 10:30 leaves too little time after dress checks. Verify both sources the morning of visit.",
+      "tickets": "Experience Oman has listed an admission product (commonly cited OMR figure on tourism pages) — re-verify live before travel; the mosque’s own site emphasises hours/dress more than fares. Do not invent OMR from blogs or cruise “VIP.” Prefer official mosque / Experience Oman over opaque packages. Nizwa = separate visit.",
+      "dress": "Active grand mosque — covered arms/legs; women hair cover required; shoes off in prayer halls; quiet; photography rules as posted; bring own abaya/scarf as primary plan (gate coverings if available are backup).",
+      "duration": "60–90 minutes inside the morning window.",
+      "access": "Muscat road / taxi to Al Ghubrah / Bawshar. Narrow morning visitor window; Friday ban; heat on marble courtyards. Not one ticket with Nizwa Fort or UAE Sheikh Zayed.",
+      "tips": [
+        "Plan Sat–Thu morning; Friday is closed to non-Muslim visitors.",
+        "Use the narrower 08:30–11:00 official window; arrive at opening.",
+        "Re-verify any OMR admission on Experience Oman / gate — do not invent fares.",
+        "Women: hair cover; everyone: covered arms/legs; shoes off in halls.",
+        "Do not invent one pass covering Nizwa, Wahiba, or UAE mosques.",
+        "Prefer sultanqaboosgrandmosque.com + Experience Oman over cruise VIP markups.",
+        "SanctaWay does not sell tickets or grant access."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://sultanqaboosgrandmosque.com/",
+      "ticketsLabel": "Sultan Qaboos Grand Mosque official — visitor hours/dress (re-verify OMR on Experience Oman; do not invent fares)",
+      "ticketsNote": "Morning-only Sat–Thu; Friday closed; OMR sources conflict — verify live; no Nizwa/UAE combo."
+    },
+    "etiquette": {
+      "intro": "Active grand mosque — dress, shoes, quiet.",
+      "bullets": [
+        "Covered arms/legs; women must cover hair.",
+        "Shoes off before prayer halls; keep quiet.",
+        "Follow photography rules; do not block worshippers.",
+        "Threshold Atlas tone: living capital mosque — not mall-tourism clone."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach the mosque from Muscat.",
+      "paragraphs": [
+        "Most visitors take a taxi or tour vehicle to the Al Ghubrah / Bawshar complex from Muscat hotels or the airport corridor. Coach parking is common; plan to arrive before the visitor window opens.",
+        "The non-Muslim visit is morning-only — do not schedule it after a late Mutrah breakfast if you need the full hall time.",
+        "Nizwa Fort and Wahiba sands are separate day trips — do not invent one Oman sacred pass. UAE Sheikh Zayed is a different country visit."
+      ],
+      "bullets": [
+        "Muscat → Al Ghubrah / Bawshar taxi / tour",
+        "Arrive at opening of morning window",
+        "Friday closed to non-Muslim visitors",
+        "No Nizwa / UAE one-pass myth"
+      ]
+    },
+    "bestTime": {
+      "intro": "Arrive at 08:30 opening; cooler months easier on marble.",
+      "paragraphs": [
+        "The entire non-Muslim visit must fit the morning window — treat 08:30 arrival as mandatory planning, not optional. Heat on marble is harsher in summer afternoons you cannot use anyway.",
+        "November–March is generally kinder for outdoor courtyard time within the short window."
+      ],
+      "bullets": [
+        "Best: arrive at official opening",
+        "Window closes 11:00 — do not cut it fine",
+        "Friday closed; summer heat soft blocker",
+        "Do not invent OMR / combo myths"
+      ]
+    },
+    "notes": {
+      "intro": "SanctaWay Threshold Atlas notes — Oman #1.",
+      "bullets": [
+        "Opens Oman — Muscat capital grand mosque mega.",
+        "Sat–Thu morning-only non-Muslim window; Friday closed.",
+        "Soft blockers: OMR fee conflict (re-verify); dress/hair cover; heat; no Nizwa/UAE combo.",
+        "SanctaWay does not sell tickets, invent visa myths, or grant access."
+      ]
+    }
+  },
+  {
+    "id": "ggantija",
+    "name": "Ġgantija Temples / Temples of Ġgantija, Xagħra, Gozo",
+    "shortName": "Ġgantija",
+    "location": "Ġgantija Archaeological Park, John Otto Bayer Street, Xagħra, Gozo, Malta",
+    "country": "Malta",
+    "region": "Europe",
+    "regionSlug": "europe",
+    "religions": [
+      "Prehistoric"
+    ],
+    "religionSlugs": [
+      "prehistoric"
+    ],
+    "summary": "Among the world’s oldest freestanding megalithic temples — UNESCO Megalithic Temples of Malta (opens Malta). Heritage Malta ticketed park + Ta’ Kola Windmill combo. Gozo ferry transfer honesty. Do not invent EUR or Hypogeum one-pass.",
+    "heroImage": "https://images.unsplash.com/photo-1555881403-51cafa500307?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Late Neolithic megalithic temples ~3800–2000 BCE; UNESCO Megalithic Temples of Malta",
+      "patron": "Prehistoric — Neolithic temple complex / Heritage Malta archaeological park",
+      "unesco": "World Heritage — Megalithic Temples of Malta",
+      "typicalVisit": "~1 hour Interpretation Centre + temple pathway; add Ta’ Kola Windmill if on combo"
+    },
+    "related": [
+      "newgrange",
+      "carnac",
+      "stonehenge"
+    ],
+    "overview": {
+      "body": [
+        "Ġgantija is Malta’s prehistoric UNESCO crown on Gozo — among the world’s oldest freestanding megalithic temples — opening the country on SanctaWay as Neolithic temple honesty, not “Gozo Instagram rocks” densify.",
+        "Frame park honesty: entry is via the Heritage Malta Interpretation Centre with outdoor pathway to the temples. Official products include a Ġgantija + Ta’ Kola Windmill combo as published on heritagemalta.mt — do not invent EUR from street hawkers.",
+        "Seasonal hours (verify heritagemalta.mt): summer often 10:00–18:00; winter shorter; January–February Tuesday closures common; closed 1 Jan, Good Friday, 24/25/31 Dec. Morning cooler on the Xagħra plateau.",
+        "Malta → Gozo ferry (Mġarr) + bus / taxi to Xagħra (~7 min from Victoria). Pair Ta’ Kola without inventing one ticket covering Ħal Saflieni Hypogeum (Malta island, timed tickets — densify parked).",
+        "Soft blockers: ferry weather / queues; summer heat; no climbing megaliths. SanctaWay is informational — it does not sell tickets, invent visa myths, or grant access."
+      ],
+      "highlights": [
+        "Opens Malta — UNESCO Neolithic megalithic temples on Gozo",
+        "Heritage Malta park + Ta’ Kola combo (verify EUR)",
+        "Gozo ferry transfer required from Malta island",
+        "Do not invent Hypogeum / Mnajdra one-pass myths",
+        "Seasonal hours + Tue winter closures honesty"
+      ]
+    },
+    "visit": {
+      "intro": "heritagemalta.mt — seasonal park hours; verify EUR; Gozo ferry.",
+      "hours": "Heritage Malta seasonal windows — commonly Mar–Oct 10:00–18:00 (last entry ~17:30); Nov–Dec ~09:00–17:00; Jan–Feb ~09:00–17:00 with Tuesday closed. Closed 1 January, Good Friday, 24/25/31 December. Verify heritagemalta.mt opening-hours before travel.",
+      "tickets": "Ġgantija Archaeological Park & Ta’ Kola Windmill combo as published on Heritage Malta (adult / youth / senior / child rates on site and store) — do not invent EUR. Prefer heritagemalta.mt e-store / booth over street hawkers. Hypogeum / Mnajdra / Tarxien = separate timed products.",
+      "dress": "Archaeological park + interpretation centre — practical sun cover; no climbing megaliths; no flash in centre; stay on paths.",
+      "duration": "~1 hour park circuit; longer with windmill combo.",
+      "access": "Malta → Gozo ferry to Mġarr, then bus / taxi to Xagħra. Interpretation Centre entrance; exit via Temples Street. Ferry weather/queues and summer heat are soft blockers. Not one ticket with Hypogeum.",
+      "tips": [
+        "Confirm seasonal hours and combo fares on heritagemalta.mt — do not invent EUR.",
+        "Budget Gozo ferry time and weather queues from Malta island.",
+        "No climbing megaliths; no flash in the Interpretation Centre.",
+        "Morning visits are cooler on the plateau.",
+        "Do not invent one pass covering Hypogeum, Mnajdra, or Tarxien.",
+        "Prefer official Heritage Malta store / booth over hawkers.",
+        "SanctaWay does not sell tickets or grant access."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://heritagemalta.mt/explore/ggantija-archaeological-park/",
+      "ticketsLabel": "Heritage Malta — Ġgantija Archaeological Park (combo with Ta’ Kola; verify EUR; do not invent fares)",
+      "ticketsNote": "Seasonal hours; Gozo ferry; no Hypogeum combo; do not invent EUR."
+    },
+    "etiquette": {
+      "intro": "UNESCO archaeological park — paths, megaliths, centre.",
+      "bullets": [
+        "Stay on paths; do not climb megaliths.",
+        "No flash photography in the Interpretation Centre.",
+        "Sun cover and water for plateau heat.",
+        "Threshold Atlas tone: Neolithic temple honesty — not Instagram-rocks tourism."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Ġgantija from Malta / Gozo.",
+      "paragraphs": [
+        "From Malta island, take the Gozo ferry to Mġarr, then bus or taxi to Xagħra. The park is about a 7-minute drive from Victoria (Rabat), Gozo.",
+        "Entrance is through the Interpretation Centre on John Otto Bayer Street; public-transport stops are nearby. Confirm ferry weather and last returns.",
+        "Ħal Saflieni Hypogeum is on Malta island with separate timed tickets — do not invent one Malta prehistoric pass."
+      ],
+      "bullets": [
+        "Malta ferry → Gozo Mġarr → Xagħra",
+        "Heritage Malta Interpretation Centre entrance",
+        "Ta’ Kola combo optional / as ticketed",
+        "No Hypogeum one-pass myth"
+      ]
+    },
+    "bestTime": {
+      "intro": "Morning cooler; verify winter Tuesday closures.",
+      "paragraphs": [
+        "Morning visits are cooler on the Xagħra plateau and often quieter before coach waves. Summer afternoons are harsh without shade on the pathway.",
+        "In deep winter, confirm Tuesday closures and shorter last-entry times on heritagemalta.mt."
+      ],
+      "bullets": [
+        "Best: morning plateau light / cooler air",
+        "Summer heat soft blocker",
+        "Jan–Feb: check Tuesday closures",
+        "Do not invent EUR / Hypogeum combo"
+      ]
+    },
+    "notes": {
+      "intro": "SanctaWay Threshold Atlas notes — Malta #1 prehistoric.",
+      "bullets": [
+        "Opens Malta — UNESCO megalithic temples on Gozo.",
+        "Heritage Malta EUR products — do not invent fares or Hypogeum combo.",
+        "Soft blockers: Gozo ferry; seasonal hours; summer heat; Hypogeum densify parked.",
+        "SanctaWay does not sell tickets, invent visa myths, or grant access."
+      ]
+    }
+  },
+  {
+    "id": "sixty-dome-mosque",
+    "name": "Sixty Dome Mosque / Shat Gambuj Masjid (ষাট গম্বুজ মসজিদ), Bagerhat",
+    "shortName": "Sixty Dome Mosque",
+    "location": "Mosque City of Bagerhat UNESCO precinct, Bagerhat, Khulna Division",
+    "country": "Bangladesh",
+    "region": "South Asia",
+    "regionSlug": "south-asia",
+    "religions": [
+      "Islamic"
+    ],
+    "religionSlugs": [
+      "islamic"
+    ],
+    "summary": "Mosque City of Bagerhat UNESCO crown — Khan Jahan Ali era (opens Bangladesh). myGOV / Archaeology e-ticket foreigner rates — portal intermittent → honest NO_CTA; do not invent BDT. Heat + Friday prayer lane honesty.",
+    "heroImage": "https://images.unsplash.com/photo-1542816417-0983c9c9ad53?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Mid-15th century Khan Jahan Ali era; Mosque City of Bagerhat UNESCO World Heritage",
+      "patron": "Islamic — historic congregational mosque + archaeological precinct",
+      "unesco": "World Heritage — Historic Mosque City of Bagerhat",
+      "typicalVisit": "1–2 hours mosque + precinct; museum separate as ticketed"
+    },
+    "related": [
+      "jama-masjid",
+      "badshahi-mosque",
+      "kairouan"
+    ],
+    "overview": {
+      "body": [
+        "Sixty Dome Mosque (Shat Gambuj Masjid) is Bangladesh’s islamic UNESCO crown — the Bagerhat Mosque City landmark that opens the country on SanctaWay as Khan Jahan Ali heritage, not an India pad densify or Dhaka Star Mosque clone.",
+        "Frame ticket honesty: Department of Archaeology / myGOV e-ticketing has published foreigner / SAARC / local rates for the heritage site and Bagerhat Museum — do not invent BDT. The myGOV e-ticket portal can be intermittent from abroad; SanctaWay uses honest NO_CTA rather than a dead URL. Prefer booth / official notices on site when the portal fails.",
+        "Prayer-entry patterns (often northern-gate devotion) may differ from ticketed museum / tourist circuits — state both honestly at visit time. Friday prayer reshapes tourist lanes.",
+        "Dhaka / Khulna / Mongla gateway — road to Bagerhat; local transport last mile. Pair Bagerhat Museum without inventing one sacred pass covering Dhaka Star Mosque or the Sundarbans.",
+        "Soft blockers: heat / humidity; day-trip logistics; e-ticket QR honesty. SanctaWay is informational — it does not sell tickets, invent visa myths, or grant access."
+      ],
+      "highlights": [
+        "Opens Bangladesh — Bagerhat UNESCO islamic mega",
+        "myGOV / Archaeology e-ticket — portal intermittent → honest NO_CTA",
+        "Do not invent BDT foreigner rates",
+        "Prayer lanes ≠ museum circuit honesty",
+        "Heat / Friday prayer / no India-pad pitch"
+      ]
+    },
+    "visit": {
+      "intro": "Archaeology / myGOV e-ticket — portal intermittent; no invent BDT.",
+      "hours": "Daytime archaeological / mosque visiting windows — commonly summer ~10:00–18:00 and winter ~09:00–17:00 class with short midday pauses; Friday prayer reshapes tourist access (often midday closure stretch). Verify Department of Archaeology / on-site notices before travel.",
+      "tickets": "Foreigner / SAARC / local e-ticket rates as published by Archaeology / myGOV — do not invent BDT. Online portal (eticketing.mygov.bd class) has been intermittent from abroad → honest NO_CTA here; buy/verify at official booth or working portal when available. Prayer-entry northern-gate patterns may differ from ticketed museum circuit. Star Mosque Dhaka = separate densify (parked).",
+      "dress": "Active historic mosque + UNESCO precinct — covered modest dress; shoes off in prayer areas; quiet during prayer; photography rules as posted.",
+      "duration": "1–2 hours mosque + precinct; add museum time.",
+      "access": "Dhaka / Khulna / Mongla road to Bagerhat; local transport last mile. Heat and humidity are standing soft blockers. Not one ticket with Sundarbans or Dhaka.",
+      "tips": [
+        "Do not invent BDT — use official Archaeology / myGOV rates when the portal works.",
+        "If e-ticket portal fails from abroad, plan booth purchase / on-site verification — SanctaWay will not invent a dead CTA.",
+        "Modest dress; shoes off in prayer areas; quiet during Friday prayer.",
+        "Morning visits beat heat and humidity.",
+        "Do not invent one pass covering Sundarbans or Dhaka Star Mosque.",
+        "Prefer official booths over street hawkers.",
+        "SanctaWay does not sell tickets or grant access."
+      ],
+      "entryType": "paid",
+      "ticketsLabel": "Dept. of Archaeology / myGOV e-ticketing — Sixty Dome / Bagerhat Museum (portal intermittent; verify BDT on site; do not invent fares)",
+      "ticketsNote": "Honest NO_CTA (e-ticket portal intermittent/403 from abroad); prayer vs museum lanes; heat; no India-pad / Sundarbans combo."
+    },
+    "etiquette": {
+      "intro": "Active historic mosque + UNESCO precinct — dress, prayer, photos.",
+      "bullets": [
+        "Modest covered dress; shoes off in prayer areas.",
+        "Quiet during prayer; respect Friday lane changes.",
+        "Follow posted photography rules.",
+        "Threshold Atlas tone: living Bagerhat UNESCO mosque — not India tourist-pad clone."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Bagerhat from Dhaka / Khulna.",
+      "paragraphs": [
+        "Most visitors reach Bagerhat by road from Dhaka, Khulna, or Mongla, then use local transport for the last mile to the Mosque City precinct.",
+        "Budget heat, humidity, and return daylight — day-trip logistics fail easily in peak summer.",
+        "Dhaka Star Mosque and Sundarbans tours are separate products — do not invent one Bangladesh sacred pass."
+      ],
+      "bullets": [
+        "Dhaka / Khulna / Mongla → Bagerhat road",
+        "Local transport last mile to precinct",
+        "Museum separate as ticketed",
+        "No Sundarbans / Star Mosque one-pass myth"
+      ]
+    },
+    "bestTime": {
+      "intro": "Morning before heat; avoid Friday prayer crush for tourist lanes.",
+      "paragraphs": [
+        "Morning visits are kinder for heat and humidity and usually quieter before coach groups. Carry water and sun cover.",
+        "Friday midday prayer windows often reshape or pause tourist circulation — plan around them rather than against them."
+      ],
+      "bullets": [
+        "Best: morning before heat",
+        "Friday prayer reshapes tourist lanes",
+        "Humidity / day-trip logistics soft blockers",
+        "Do not invent BDT / combo myths"
+      ]
+    },
+    "notes": {
+      "intro": "SanctaWay Threshold Atlas notes — Bangladesh #1.",
+      "bullets": [
+        "Opens Bangladesh — Mosque City of Bagerhat UNESCO crown.",
+        "E-ticket portal intermittent → honest NO_CTA; do not invent BDT.",
+        "Soft blockers: heat; Friday prayer; prayer vs museum lanes; Star Mosque densify parked.",
+        "SanctaWay does not sell tickets, invent visa myths, or grant access."
+      ]
+    }
+  },
+  {
+    "id": "buddha-tooth-relic-temple",
+    "name": "Buddha Tooth Relic Temple and Museum, Chinatown, Singapore",
+    "shortName": "Buddha Tooth Relic Temple",
+    "location": "South Bridge Road, Chinatown, Singapore",
+    "country": "Singapore",
+    "region": "Southeast Asia",
+    "regionSlug": "southeast-asia",
+    "religions": [
+      "Buddhist"
+    ],
+    "religionSlugs": [
+      "buddhist"
+    ],
+    "summary": "Chinatown Buddhist tourist mega + relic museum (opens Singapore). Free entry; Level-4 Sacred Relic Chamber photo ban. Modern temple (2007) honesty — ≠ Temple of the Tooth, Kandy. Do not invent SGD.",
+    "heroImage": "https://images.unsplash.com/photo-1528183429752-a97d0bf99b5a?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "Consecrated 2007; Tang-dynasty-style Chinese Buddhist temple–museum complex in Chinatown",
+      "patron": "Buddhist — Buddha tooth relic veneration + museum floors",
+      "unesco": "Not a World Heritage listing (major urban Buddhist tourist landmark)",
+      "typicalVisit": "1.5–2.5 hours halls + museums + rooftop; Level-4 relic chamber within posted ceremony windows"
+    },
+    "related": [
+      "shwedagon",
+      "temple-of-the-tooth",
+      "wat-phra-kaew"
+    ],
+    "overview": {
+      "body": [
+        "Buddha Tooth Relic Temple and Museum is Singapore’s Chinatown Buddhist household mega — opening the city-state on SanctaWay as a free urban temple–museum visit, not a Thailand/Bali densify and not the Temple of the Tooth in Kandy.",
+        "Frame modern-temple honesty: the complex was consecrated in 2007 in Tang-dynasty style and still draws major tourist volume. Entry is generally free / donation — do not invent SGD from paid “VIP relic” markups.",
+        "Dress and photo rules matter: covered shoulders/knees; wrap desk when needed; no non-vegetarian food / pets; photography often banned on Level 4 Sacred Relic / Sacred Light Hall — put cameras and phones away before that floor. Museum floors allow non-flash photography as posted.",
+        "MRT Chinatown (NE4/DT19) / Maxwell (TE18) — walk to South Bridge Road. Pair Chinatown heritage without inventing one pass covering Thian Hock Keng (densify parked) or Gardens by the Bay / Sentosa.",
+        "Soft blockers: Level-4 photo ban; dress wrap queues; elevator waits for upper floors; modern-temple framing. SanctaWay is informational — it does not sell tickets, invent visa myths, or grant access."
+      ],
+      "highlights": [
+        "Opens Singapore — Chinatown Buddhist temple–museum mega",
+        "Free / donation — do not invent SGD",
+        "Level-4 Sacred Relic Chamber: photography strictly banned",
+        "Modern temple (2007) honesty — ≠ Kandy Tooth",
+        "MRT Chinatown; Thian Hock Keng densify parked"
+      ]
+    },
+    "visit": {
+      "intro": "buddhatoothrelictemple.org.sg — free entry; Level-4 photo ban.",
+      "hours": "Temple / museum daytime — verify buddhatoothrelictemple.org.sg. Commonly cited patterns: temple long daily hours; museum and relic-chamber windows often ~09:00–18:00 class with ground-floor ceremonies extending later. Morning quieter before coach waves. Confirm Level-4 curtain / ceremony windows on official notices.",
+      "tickets": "Entry generally free / donation — do not invent SGD. Prefer temple official notices over paid “VIP relic” markup. Museums and relic floor are part of the free visit under posted rules. Thian Hock Keng = separate densify (parked).",
+      "dress": "Active Buddhist temple + museum — covered shoulders/knees; no shorts/bare shoulders; wrap desk when needed; no non-vegetarian food / pets; quiet in halls; Level-4 photography/filming banned including phones.",
+      "duration": "1.5–2.5 hours full vertical circuit.",
+      "access": "MRT Chinatown (NE4/DT19) or Maxwell (TE18) — short walk to South Bridge Road. Elevators to upper floors can queue. Dress screening at entrance. Not one pass with Gardens by the Bay / Sentosa.",
+      "tips": [
+        "Confirm hours on buddhatoothrelictemple.org.sg — do not invent SGD.",
+        "Cover shoulders/knees before arrival; use wrap desk only as backup.",
+        "Put camera and phone away before Level 4 — photography strictly prohibited in the Sacred Relic Chamber.",
+        "This is Singapore’s modern Chinatown temple (2007) — not the Temple of the Tooth in Kandy.",
+        "Do not invent one pass covering Thian Hock Keng, Gardens by the Bay, or Sentosa.",
+        "Prefer official temple notices over paid VIP relic markups.",
+        "SanctaWay does not sell tickets or grant access."
+      ],
+      "entryType": "free",
+      "ticketsUrl": "https://www.buddhatoothrelictemple.org.sg/",
+      "ticketsLabel": "Buddha Tooth Relic Temple & Museum official site — free/donation entry (Level-4 photo ban; verify hours; do not invent SGD)",
+      "ticketsNote": "Free entry; Level-4 photo ban; modern-temple honesty ≠ Kandy; no Thian Hock Keng combo."
+    },
+    "etiquette": {
+      "intro": "Active Buddhist temple–museum — dress, relic floor, food rules.",
+      "bullets": [
+        "Covered shoulders and knees; accept wrap if required.",
+        "No photography/filming on Level 4 Sacred Relic Chamber (including phones).",
+        "No non-vegetarian food or pets on premises; quiet in halls.",
+        "Threshold Atlas tone: living Singapore Buddhist household — not Kandy Tooth clone."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach the temple from Singapore MRT.",
+      "paragraphs": [
+        "Most visitors take the MRT to Chinatown (NE4/DT19) or Maxwell (TE18) and walk to South Bridge Road. Dress screening happens at the entrance before halls.",
+        "Upper museum and relic floors use elevators that queue during coach peaks — budget wait time.",
+        "Thian Hock Keng and other Chinatown temples are separate visits — do not invent one Singapore sacred pass covering Sentosa attractions."
+      ],
+      "bullets": [
+        "MRT Chinatown / Maxwell → South Bridge Road walk",
+        "Dress screening at entrance",
+        "Elevators for upper floors / rooftop",
+        "No Gardens / Sentosa / Thian Hock Keng one-pass myth"
+      ]
+    },
+    "bestTime": {
+      "intro": "Morning quieter before coach waves; Level-4 within posted windows.",
+      "paragraphs": [
+        "Morning visits are quieter and cooler before midday coach groups. Late afternoon before museum close can also be calmer if you skip peak elevator waits.",
+        "Plan Level-4 relic time inside the posted chamber window — do not assume late-evening relic access."
+      ],
+      "bullets": [
+        "Best: morning before coach waves",
+        "Level-4: within posted chamber hours",
+        "Dress / elevator soft blockers",
+        "Do not invent SGD / Kandy confusion"
+      ]
+    },
+    "notes": {
+      "intro": "SanctaWay Threshold Atlas notes — Singapore #1.",
+      "bullets": [
+        "Opens Singapore — Chinatown Buddha Tooth Relic Temple & Museum.",
+        "Free/donation; Level-4 photo ban; modern (2007) temple honesty — ≠ Kandy Tooth.",
+        "Soft blockers: dress wrap; elevator queues; Thian Hock Keng densify parked.",
+        "SanctaWay does not sell tickets, invent visa myths, or grant access."
+      ]
+    }
+  },
+  {
+    "id": "notre-dame-dafrique",
+    "name": "Basilica of Notre-Dame d’Afrique / Basilique Notre-Dame d’Afrique, Algiers",
+    "shortName": "Notre-Dame d’Afrique",
+    "location": "3 avenue Ali Ourak, Bologhine hillside above the bay, Algiers",
+    "country": "Algeria",
+    "region": "Africa",
+    "regionSlug": "africa",
+    "religions": [
+      "Christian"
+    ],
+    "religionSlugs": [
+      "christian"
+    ],
+    "summary": "Algiers hillside Marian basilica overlooking the bay — North Africa Christian household (opens Algeria). Limited visiting windows (e.g. 11:00–12:30 & 15:00–17:30); Friday afternoon / holidays closed. Free — do not invent DZD. Algeria travel honesty.",
+    "heroImage": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": true,
+    "quickFacts": {
+      "founded": "19th-century hillside basilica; Marian devotion shared across communities in Algiers",
+      "patron": "Christian — Notre-Dame d’Afrique Marian basilica",
+      "unesco": "Not a standalone World Heritage listing (Algiers Christian household landmark)",
+      "typicalVisit": "45–75 minutes nave + viewpoint approaches within published visiting slots"
+    },
+    "related": [
+      "basilica-yamoussoukro",
+      "lourdes",
+      "guadalupe"
+    ],
+    "overview": {
+      "body": [
+        "Notre-Dame d’Afrique is Algiers’ hillside Marian basilica — the bay-overlooking Christian household landmark that opens Algeria on SanctaWay as published-hours honesty, not an “Algiers viewpoint church” densify or Tipaza one-pass myth.",
+        "Frame limited windows first: official notre-dame-afrique.org cites daily visiting slots commonly 11:00–12:30 and 15:00–17:30, closed Friday afternoons and public holidays. Organised groups and filming need advance contact. Verify before travel — late-day light does not guarantee interior access.",
+        "Entry is generally free — do not invent DZD from opaque tour markups. Prefer official basilica guidance (notre-dame-afrique.org / rector contact) over street packages.",
+        "Algiers gateway — road / taxi to Bologhine hillside above the bay; stairs and approach lanes. Pair Casbah heritage without inventing one sacred pass covering Tipaza or Tlemcen.",
+        "Soft blockers: limited visiting windows; Algeria travel / security advisory honesty; hillside stairs. SanctaWay is informational — it does not sell tickets, invent visa myths, or grant access."
+      ],
+      "highlights": [
+        "Opens Algeria — Algiers Marian basilica household",
+        "Limited visiting windows — verify notre-dame-afrique.org",
+        "Friday afternoon / holiday closures honesty",
+        "Free entry — do not invent DZD",
+        "Algeria travel advisory + no Tipaza one-pass myth"
+      ]
+    },
+    "visit": {
+      "intro": "notre-dame-afrique.org — limited slots; free; Algeria travel honesty.",
+      "hours": "Official visiting windows commonly each day 11:00–12:30 and 15:00–17:30; closed Friday afternoons and public holidays — verify notre-dame-afrique.org/horaires before travel. Organised / official group visits require advance contact. Filming / interview permissions via rector as posted.",
+      "tickets": "Entry generally free — do not invent DZD. Prefer official basilica guidance over opaque tour markup. Tipaza / Tlemcen = separate visits. Djenné / Great Zimbabwe remain soft-parked elsewhere.",
+      "dress": "Active Catholic basilica — modest dress; quiet in nave; organised groups / filming may need advance permission as posted.",
+      "duration": "45–75 minutes within a published slot.",
+      "access": "Algiers road / taxi to Bologhine hillside (avenue Ali Ourak). Stairs and approach lanes. Limited windows and Algeria travel advisories are standing soft blockers. Not one ticket with Tipaza.",
+      "tips": [
+        "Confirm visiting slots on notre-dame-afrique.org/horaires — Friday afternoon is closed.",
+        "Do not invent DZD; entry is generally free.",
+        "Budget hillside stairs and approach time inside the short slots.",
+        "Check Algeria travel / security advisories before planning the visit.",
+        "Do not invent one pass covering Tipaza, Tlemcen, or Casbah museums.",
+        "Contact the basilica in advance for organised groups or filming.",
+        "SanctaWay does not sell tickets or grant access."
+      ],
+      "entryType": "free",
+      "ticketsUrl": "https://notre-dame-afrique.org/horaires/",
+      "ticketsLabel": "Basilique Notre-Dame d’Afrique — official visiting hours (free entry; Friday afternoon closed; do not invent DZD)",
+      "ticketsNote": "Limited windows; Friday afternoon / holiday close; Algeria travel honesty; free; no Tipaza combo."
+    },
+    "etiquette": {
+      "intro": "Active Catholic basilica — dress, nave, permissions.",
+      "bullets": [
+        "Modest dress; quiet in the nave.",
+        "Ask before photographing people at prayer.",
+        "Organised groups and filming: advance permission as posted.",
+        "Threshold Atlas tone: living Algiers Marian basilica — not viewpoint-only tourism."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Notre-Dame d’Afrique from Algiers.",
+      "paragraphs": [
+        "Most visitors take a taxi or organised transfer to the Bologhine hillside above the bay (3 avenue Ali Ourak). Stairs and approach lanes mean you should arrive with buffer before the short visiting slot ends.",
+        "Confirm the same-day window on notre-dame-afrique.org — missing the morning slot means waiting for the afternoon opening (unless Friday afternoon, when the basilica is closed).",
+        "Tipaza and Tlemcen are separate journeys — do not invent one Algeria sacred pass."
+      ],
+      "bullets": [
+        "Algiers → Bologhine hillside taxi / transfer",
+        "Arrive with buffer for short visiting slots",
+        "Friday afternoon closed",
+        "No Tipaza / Tlemcen one-pass myth"
+      ]
+    },
+    "bestTime": {
+      "intro": "Fit the published morning or afternoon slot; avoid Friday afternoon.",
+      "paragraphs": [
+        "Plan the visit around the published 11:00–12:30 or 15:00–17:30 windows rather than sunset viewpoint myths — interior access is what the hours control.",
+        "Friday afternoon and public holidays are closed on official notices — verify before you climb the hill."
+      ],
+      "bullets": [
+        "Best: arrive at start of a published slot",
+        "Friday afternoon closed",
+        "Hillside stairs + advisory soft blockers",
+        "Do not invent DZD / Tipaza combo"
+      ]
+    },
+    "notes": {
+      "intro": "SanctaWay Threshold Atlas notes — Algeria #1.",
+      "bullets": [
+        "Opens Algeria — Notre-Dame d’Afrique Marian basilica.",
+        "Limited visiting windows on notre-dame-afrique.org; free — do not invent DZD.",
+        "Soft blockers: Friday afternoon close; Algeria travel honesty; Tipaza densify parked; Djenné/Touba stay soft-parked.",
+        "SanctaWay does not sell tickets, invent visa myths, or grant access."
       ]
     }
   }

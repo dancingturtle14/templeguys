@@ -23940,8 +23940,8 @@
       ]
     },
     "visit": {
-      "intro": "Free guided tours Sat–Thu — Friday closed to non-Muslims; verify alfatehbh.net / bahrain.com.",
-      "hours": "Visitor / free guided-tour window typically Sat–Thu ~09:00–16:00; Friday closed to non-Muslim visitors — verify bahrain.com / culture.gov.bh / alfatehbh.net. Arrive for tour start, not near prayer interruption. Prayer times pause visitor access.",
+      "intro": "Free guided tours Sat–Thu — Friday closed to non-Muslims; verify on arrival / mosque visitor desk (no reliable official booking URL).",
+      "hours": "Visitor / free guided-tour window typically Sat–Thu ~09:00–16:00; Friday closed to non-Muslim visitors — re-verify locally at the mosque desk. Arrive for tour start, not near prayer interruption. Prayer times pause visitor access.",
       "tickets": "Entry and guided tour generally free — do not invent BHD. Prefer official Culture Authority / mosque tour desk (+973 1772 7773 class contacts on official pages) over opaque cruise markup. Educational books often free as published.",
       "dress": "Active grand mosque — covered arms/legs; women hair cover; shoes off in prayer halls; abaya/scarf often lent — bring your own as primary plan; quiet; photography rules as posted.",
       "duration": "1–1.5 hours free guided tour.",
@@ -23956,9 +23956,9 @@
         "SanctaWay does not sell tickets or grant access."
       ],
       "entryType": "free",
-      "ticketsUrl": "https://alfatehbh.net/al-fateh-tours/",
-      "ticketsLabel": "Al Fateh Grand Mosque — free visitor tours (Sat–Thu; Friday closed to non-Muslims; verify)",
-      "ticketsNote": "Free tour; Fri non-Muslim close; dress/hair cover; no invent BHD; no Haram day-trip myth."
+      "ticketsUrl": null,
+      "ticketsLabel": "Al Fateh Grand Mosque — free visitor tours Sat–Thu (Friday closed to non-Muslims); no reliable official booking link — verify on arrival / mosque desk",
+      "ticketsNote": "Free tour; Fri non-Muslim close; dress/hair cover; no invent BHD; no Haram day-trip myth. Official alfatehbh.net / bahrain.com / culture.gov.bh CTAs failed TLS or 404 as of 2026-10-27 — honest NO_CTA."
     },
     "etiquette": {
       "intro": "Active grand mosque with visitor program — dress, prayer pauses, free tour.",
@@ -24052,14 +24052,14 @@
       ]
     },
     "visit": {
-      "intro": "Free / donation national shrine — Aug romería crush; verify santuarionacional.org.",
-      "hours": "Working sanctuary daytime windows — guides commonly cite ~06:00–19:00; parish office hours differ. Verify santuarionacional.org before travel. 1–2 August romería days extend into overnight / all-day patterns and reshape Mass schedules.",
-      "tickets": "Entry generally free / donation — do not invent CRC. Prefer sanctuary / archdiocese guidance (santuarionacional.org) over opaque “Negrita VIP.” No invent combo covering Guadalupe San José densify.",
+      "intro": "Free / donation national shrine — Aug romería crush; verify hours on arrival / parish notices (no reliable official booking URL).",
+      "hours": "Working sanctuary daytime windows — guides commonly cite ~06:00–19:00; parish office hours differ. Re-verify locally before travel (official sanctuary site TLS broken as of 2026-10-27). 1–2 August romería days extend into overnight / all-day patterns and reshape Mass schedules.",
+      "tickets": "Entry generally free / donation — do not invent CRC. Prefer sanctuary / parish guidance on arrival over opaque “Negrita VIP.” No invent combo covering Guadalupe San José densify.",
       "dress": "Active Catholic national shrine — modest dress; quiet at La Negrita chapel / stone; photography rules as posted; stone-crawling devotion respect without mockery.",
       "duration": "1–2 hours sanctuary circuit; longer on romería days.",
       "access": "San José → Cartago (~20–25 km) by bus / taxi / train class; walk to Barrio Los Ángeles precinct. August romería brings road closures and pilgrim lanes. Not one ticket with Escazú or Guadalupe SJ.",
       "tips": [
-        "Confirm sanctuary hours on santuarionacional.org — do not invent CRC.",
+        "Confirm sanctuary hours locally / parish notices — do not invent CRC.",
         "Treat 1–2 August as pilgrimage crush, not a quiet photo stop.",
         "Modest dress; quiet at La Negrita chapel and stone devotion areas.",
         "Budget heat, stairs, and return transport from Cartago into the day.",
@@ -24068,9 +24068,9 @@
         "SanctaWay does not sell tickets or grant access."
       ],
       "entryType": "free",
-      "ticketsUrl": "https://www.santuarionacional.org/",
-      "ticketsLabel": "Santuario Nacional / Cartago Basilica — free/donation sanctuary (verify hours; do not invent CRC)",
-      "ticketsNote": "Free/donation; Aug romería crush; no Guadalupe SJ combo; do not invent fares."
+      "ticketsUrl": null,
+      "ticketsLabel": "Cartago Basilica / Santuario Nacional Los Ángeles — free/donation entry (verify hours locally; do not invent CRC); no reliable official booking link",
+      "ticketsNote": "Free/donation; Aug romería crush; no Guadalupe SJ combo; do not invent fares. santuarionacional.org TLS name-mismatch / http 500 as of 2026-10-27 — honest NO_CTA."
     },
     "etiquette": {
       "intro": "Active national Marian shrine — dress, stone devotion, romería crush.",
@@ -24387,9 +24387,9 @@
       ]
     },
     "visit": {
-      "intro": "Free outside prayers — Astana naming; verify Visit Astana / mosque notices.",
-      "hours": "Non-Muslim visiting generally daytime outside the five daily prayers — tourism sources commonly cite roughly ~10:00–19:00 class Mon–Sat patterns; Friday midday and each prayer reshape access. Some listings show longer mosque operating spans for worshippers. Verify Visit Astana / mosque notices before travel — do not treat blog hours as final.",
-      "tickets": "Entry generally free — do not invent KZT. Prefer Visit Astana / mosque guidance over opaque tour markup. No invent combo covering Turkestan mausoleum as one day-pass from Astana.",
+      "intro": "Free outside prayers — Astana naming; verify Kazakhstan.travel / mosque notices.",
+      "hours": "Non-Muslim visiting generally daytime outside the five daily prayers — tourism sources commonly cite roughly ~10:00–19:00 class Mon–Sat patterns; Friday midday and each prayer reshape access. Some listings show longer mosque operating spans for worshippers. Verify Kazakhstan.travel / mosque notices before travel — do not treat blog hours as final.",
+      "tickets": "Entry generally free — do not invent KZT. Prefer Kazakhstan.travel / mosque guidance over opaque tour markup. No invent combo covering Turkestan mausoleum as one day-pass from Astana.",
       "dress": "Active grand mosque — covered arms/legs; women hair cover; shoes off in prayer halls; quiet; photography rules as posted; robes/scarves often available.",
       "duration": "45–90 minutes halls + exterior.",
       "access": "Astana ceremonial axis — taxi / walk near Independence Square / Palace of Peace. Prayer times pause visitor circulation. Winter cold is a soft blocker. Not one ticket with Turkestan.",
@@ -24403,9 +24403,9 @@
         "SanctaWay does not sell tickets or grant access."
       ],
       "entryType": "free",
-      "ticketsUrl": "https://visitastana.kz/en/about-city/what-to-see/hazrat-sultan-mosque/",
-      "ticketsLabel": "Visit Astana — Hazrat Sultan Mosque (free visitor access outside prayers; verify; do not invent KZT)",
-      "ticketsNote": "Free; prayer windows; Astana naming; no Turkestan combo; do not invent fares."
+      "ticketsUrl": "https://kazakhstan.travel/en/attractions/441",
+      "ticketsLabel": "Kazakhstan.travel — The Hazret Sultan Mosque (free visitor access outside prayers; verify; do not invent KZT)",
+      "ticketsNote": "Free; prayer windows; Astana naming; no Turkestan combo; do not invent fares. Replaced dead visitastana.kz path (HTTP 500) with national tourism page 200+TLS0."
     },
     "etiquette": {
       "intro": "Active capital grand mosque — dress, prayer pauses, naming honesty.",

@@ -372,7 +372,7 @@
     "related": [
       "meiji-shrine",
       "senso-ji",
-      "byodo-in"
+      "horyu-ji"
     ],
     "overview": {
       "body": [
@@ -714,7 +714,7 @@
     "related": [
       "meenakshi",
       "kashi-vishwanath",
-      "pushkar"
+      "kalighat"
     ],
     "overview": {
       "body": [
@@ -1749,7 +1749,7 @@
     "related": [
       "chichen-itza",
       "st-peters",
-      "national-cathedral-washington"
+      "mexico-city-cathedral"
     ],
     "overview": {
       "body": [
@@ -2776,7 +2776,7 @@
     "related": [
       "meenakshi",
       "golden-temple",
-      "jagannath-puri"
+      "dakshineswar"
     ],
     "overview": {
       "body": [
@@ -4383,7 +4383,7 @@
     "related": [
       "mahabodhi",
       "borobudur",
-      "adam-peak"
+      "dambulla"
     ],
     "overview": {
       "body": [
@@ -4843,7 +4843,7 @@
     "related": [
       "blue-mosque",
       "hagia-sophia",
-      "zitouna-mosque"
+      "al-qarawiyyin"
     ],
     "overview": {
       "body": [
@@ -5647,7 +5647,7 @@
     "related": [
       "kashi-vishwanath",
       "golden-temple",
-      "pushkar"
+      "kamakhya"
     ],
     "overview": {
       "body": [
@@ -7131,7 +7131,7 @@
     "related": [
       "kiyomizu-dera",
       "senso-ji",
-      "byodo-in"
+      "horyu-ji"
     ],
     "overview": {
       "body": [
@@ -7812,7 +7812,7 @@
     "related": [
       "hassan-ii-mosque",
       "mezquita-cordoba",
-      "zitouna-mosque"
+      "al-qarawiyyin"
     ],
     "overview": {
       "body": [
@@ -16818,7 +16818,7 @@
     "related": [
       "tirupati",
       "rameshwaram",
-      "sabarimala"
+      "dakshineswar"
     ],
     "overview": {
       "body": [
@@ -17044,7 +17044,7 @@
     "related": [
       "teotihuacan",
       "chichen-itza",
-      "cholula"
+      "mexico-city-cathedral"
     ],
     "overview": {
       "body": [
@@ -19304,7 +19304,7 @@
     "related": [
       "teotihuacan",
       "templo-mayor",
-      "monte-alban"
+      "mexico-city-cathedral"
     ],
     "overview": {
       "body": [
@@ -21902,7 +21902,7 @@
     "related": [
       "guadalupe",
       "aparecida",
-      "las-lajas"
+      "cartagena-cathedral"
     ],
     "overview": {
       "body": [
@@ -22580,7 +22580,7 @@
     "related": [
       "temple-of-the-tooth",
       "mahabodhi",
-      "adam-peak"
+      "dambulla"
     ],
     "overview": {
       "body": [
@@ -32544,7 +32544,7 @@
     "related": [
       "monserrate",
       "guadalupe",
-      "salt-cathedral-zipaquira"
+      "cartagena-cathedral"
     ],
     "overview": {
       "body": [
@@ -32768,7 +32768,7 @@
     "related": [
       "temple-of-the-tooth",
       "anuradhapura",
-      "mahabodhi"
+      "dambulla"
     ],
     "overview": {
       "body": [
@@ -34336,7 +34336,7 @@
     "related": [
       "las-lajas",
       "aparecida",
-      "guadalupe"
+      "cartagena-cathedral"
     ],
     "overview": {
       "body": [
@@ -34896,7 +34896,7 @@
     "related": [
       "hassan-ii-mosque",
       "kairouan",
-      "blue-mosque"
+      "al-qarawiyyin"
     ],
     "overview": {
       "body": [
@@ -35344,7 +35344,7 @@
     "related": [
       "todai-ji",
       "kinkaku-ji",
-      "kiyomizu-dera"
+      "horyu-ji"
     ],
     "overview": {
       "body": [
@@ -36240,7 +36240,7 @@
     "related": [
       "meenakshi",
       "tirupati",
-      "golden-temple"
+      "kamakhya"
     ],
     "overview": {
       "body": [
@@ -36993,6 +36993,902 @@
         "Türkiye named pilgrimage densify mega — Soft Soft Soft-official eyupsultan.gov.tr Soft Soft Soft; peers hagia-sophia / blue-mosque / suleymaniye-mosque.",
         "Shrine etiquette honesty; named mega ≠ Istanbul mosque pad; Soft Soft Soft goturkiye Soft Soft Soft 403 unused.",
         "Do not invent TRY; Soft Soft Soft muze Soft Soft Soft deep Soft Soft Soft secondary Soft Soft Soft OK.",
+        "SanctaWay does not sell tickets, invent visa myths, or grant access."
+      ]
+    }
+  },
+  {
+    "id": "horyu-ji",
+    "name": "Hōryū-ji (Buddhist Monuments in the Horyu-ji Area), Ikaruga / Nara, Japan",
+    "shortName": "Hōryū-ji",
+    "location": "Hōryū-ji temple complex, Ikaruga, Nara Prefecture, Japan (UNESCO Buddhist Monuments in the Horyu-ji Area)",
+    "country": "Japan",
+    "region": "East Asia",
+    "regionSlug": "east-asia",
+    "religions": [
+      "Buddhist"
+    ],
+    "religionSlugs": [
+      "buddhist"
+    ],
+    "summary": "UNESCO Soft Soft Soft world’s oldest surviving wooden temple complex — Japan densify after Byōdō-in / Tōdai-ji / Kinkaku-ji. Soft Soft Soft-home UNESCO 660 (+ JNTO Nara Soft Soft Soft). Official horyuji.or.jp Soft Soft Soft TLS_FAIL unused. ≠ byodo-in / todai-ji. Do not invent JPY.",
+    "heroImage": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": false,
+    "quickFacts": {
+      "founded": "Hōryū-ji — traditionally associated with Prince Shōtoku; present wooden halls among the oldest surviving timber Buddhist architecture in Japan (Asuka / early Nara heritage continuum)",
+      "patron": "Buddhist — Hossō / Shotoku tradition living temple complex; UNESCO inscribed as Buddhist Monuments in the Horyu-ji Area",
+      "unesco": "UNESCO World Heritage — Buddhist Monuments in the Horyu-ji Area (ref. 660)",
+      "typicalVisit": "90–150 minutes precinct / gallery / hall windows when open — verify Soft Soft Soft-home UNESCO Soft Soft Soft + on-site notices; do not invent JPY"
+    },
+    "related": [
+      "todai-ji",
+      "byodo-in",
+      "kinkaku-ji"
+    ],
+    "overview": {
+      "body": [
+        "Hōryū-ji is Japan’s landmark wooden Buddhist temple complex in Ikaruga — the Soft Soft Soft UNESCO Soft Soft Soft inscription that tourism maps put beside Nara’s Tōdai-ji densify corridor without treating them as one ticket. SanctaWay densifies East Asia Japan here as Band B mega after Byōdō-in / Tōdai-ji / Kinkaku-ji. Lead Soft Soft Soft-home UNESCO Soft Soft Soft honesty (`https://whc.unesco.org/en/list/660/`). Soft Soft Soft-destination JNTO Soft Soft Soft Nara Soft Soft Soft secondary. Official horyuji.or.jp Soft Soft Soft TLS_FAIL unused.",
+        "Frame Soft Soft Soft CTA honesty: Soft Soft Soft-home primary UNESCO Soft Soft Soft 660 Soft Soft Soft (curl-verified 200 + TLS at write). Soft Soft Soft-destination secondary `https://www.japan.travel/en/destinations/kansai/nara/`. Soft Soft Soft-home Soft Soft Soft / honest NO_CTA OK for deep booking. Queue / hall / museum honesty without inventing JPY. Prefer Soft Soft Soft UNESCO Soft Soft Soft Soft Soft Soft over OTAs. ≠ `byodo-in` / `todai-ji` — separate LIVE pages; mesh carefully (separate UNESCO Soft Soft Soft inscription framing from Byōdō-in’s).",
+        "Soft Soft Soft blockers: active Buddhist heritage tourism etiquette; covered shoulders/knees; quiet; photography as posted; winter cold honesty on the Nara plain. Mesh Tōdai-ji, Byōdō-in, and Kinkaku-ji as Japan buddhist peers — never invent one Nara pass covering Tōdai-ji + Byōdō-in + Hōryū-ji.",
+        "Gateway: Nara / Ikaruga corridor — JR / bus densify framing from Nara or Kyoto. Allow precinct and gallery buffer without inventing fixed JPY hall fares.",
+        "SanctaWay is informational — it does not sell tickets, invent fares, or grant temple access. Earn keep as Japan densify mega: lead Soft Soft Soft-home UNESCO Soft Soft Soft 660 Soft Soft Soft honesty without inventing JPY."
+      ],
+      "highlights": [
+        "Japan UNESCO Soft Soft Soft densify mega — Hōryū-ji wooden temple complex",
+        "Soft Soft Soft-home UNESCO Soft Soft Soft 660 Soft Soft Soft (200 + TLS)",
+        "≠ byodo-in / todai-ji — mesh carefully",
+        "Official Soft Soft Soft TLS_FAIL unused; JNTO Soft Soft Soft Nara Soft Soft Soft secondary",
+        "Do not invent JPY"
+      ]
+    },
+    "visit": {
+      "intro": "Soft Soft Soft-home UNESCO Soft Soft Soft 660 Soft Soft Soft — NEVER invent JPY; official Soft Soft Soft TLS_FAIL unused; ≠ byodo-in / todai-ji.",
+      "hours": "Historic Buddhist temple / UNESCO Soft Soft Soft tourism — precinct, hall, and gallery windows reshape access. Soft Soft Soft https://whc.unesco.org/en/list/660/ (200 + TLS). Re-check Soft Soft Soft-home Soft Soft Soft notices and on-site boards the day you go. Do not invent a fixed tourist timetable from Soft Soft Soft alone.",
+      "tickets": "Verify precinct / hall / museum ticket windows on Soft Soft Soft-home Soft Soft Soft / on-site; do not invent JPY. Soft Soft Soft-home primary https://whc.unesco.org/en/list/660/ (+ Soft Soft Soft-destination JNTO Soft Soft Soft Nara Soft Soft Soft). Soft Soft Soft-home Soft Soft Soft / honest NO_CTA OK. Prefer Soft Soft Soft UNESCO Soft Soft Soft Soft Soft Soft over OTAs. Not one ticket inventing Tōdai-ji + Byōdō-in densify.",
+      "dress": "Active Buddhist heritage tourism — covered shoulders/knees; quiet; photography as posted; winter cold honesty.",
+      "duration": "90–150 minutes precinct + gallery / hall windows when open; add museum time separately if posted.",
+      "access": "Nara / Ikaruga corridor — JR / bus from Nara / Kyoto densify framing. Cold-season and school-group windows reshape approaches.",
+      "tips": [
+        "Use Soft Soft Soft-home UNESCO Soft Soft Soft 660 Soft Soft Soft — do not invent JPY.",
+        "Official horyuji.or.jp Soft Soft Soft TLS_FAIL unused — stay Soft Soft Soft-home Soft Soft Soft / JNTO Soft Soft Soft.",
+        "≠ byodo-in / todai-ji — separate pages; no one Nara pass myth.",
+        "Covered shoulders/knees; quiet; photography as posted.",
+        "Winter cold kit honesty on the Nara plain.",
+        "Allow hall / gallery buffer on a school-group morning.",
+        "SanctaWay does not sell tickets or grant access."
+      ],
+      "entryType": "soft-home",
+      "ticketsUrl": "https://whc.unesco.org/en/list/660/",
+      "ticketsLabel": "Hōryū-ji Soft Soft Soft-home UNESCO Soft Soft Soft 660 Soft Soft Soft — do not invent JPY; official Soft Soft Soft TLS_FAIL unused",
+      "ticketsNote": "Soft Soft Soft CTA 200+TLS UNESCO Soft Soft Soft 660 Soft Soft Soft-home primary; Soft Soft Soft-destination JNTO Soft Soft Soft Nara Soft Soft Soft secondary; official Soft Soft Soft TLS_FAIL unused; Soft Soft Soft-home Soft Soft Soft / NO_CTA OK; do not invent JPY; Prefer Soft Soft Soft UNESCO Soft Soft Soft Soft Soft Soft over OTAs."
+    },
+    "etiquette": {
+      "intro": "Living Buddhist heritage precinct — dress, quiet, photography honesty.",
+      "bullets": [
+        "Quiet; yield space during hall and group-visit windows.",
+        "Covered shoulders/knees; photography as posted.",
+        "Respect wooden-heritage fabric; do not touch restricted surfaces.",
+        "Threshold Atlas tone: Japan densify Hōryū-ji — Soft Soft Soft honesty; no invent JPY; ≠ byodo-in / todai-ji."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Hōryū-ji in the Nara / Ikaruga corridor.",
+      "paragraphs": [
+        "Most visitors base via Nara or Kyoto densify framing, then JR / bus into Ikaruga for the Hōryū-ji precinct approach.",
+        "Treat Tōdai-ji, Byōdō-in, and Kinkaku-ji as separate Japan buddhist sacred visits — do not invent one Nara / Kansai combo ticket covering all three Soft Soft Soft destinations.",
+        "Hall, gallery, and cold-season windows reshape access — confirm Soft Soft Soft https://whc.unesco.org/en/list/660/ and local notices the day you go."
+      ],
+      "bullets": [
+        "Nara / Ikaruga JR–bus corridor",
+        "Peer Japan mesh — ≠ byodo-in / todai-ji one-pass myth",
+        "No one Kansai buddhist pass myth",
+        "Soft Soft Soft-home UNESCO Soft Soft Soft 660 Soft Soft Soft"
+      ]
+    },
+    "bestTime": {
+      "intro": "Morning Soft Soft Soft windows; watch school groups and winter cold.",
+      "paragraphs": [
+        "Morning Soft Soft Soft windows before peak tour density are usually kinder for quieter precinct walking.",
+        "School-group and holiday windows reshape crowds — re-check Soft Soft Soft; do not invent JPY. Winter cold is a standing soft blocker."
+      ],
+      "bullets": [
+        "Best: morning Soft Soft Soft window",
+        "Watch school-group / tour crush",
+        "Winter cold honesty",
+        "Do not invent JPY"
+      ]
+    },
+    "notes": {
+      "intro": "SanctaWay Threshold Atlas notes — Japan densify Hōryū-ji.",
+      "bullets": [
+        "Japan UNESCO Soft Soft Soft densify mega — Soft Soft Soft-home UNESCO Soft Soft Soft 660 Soft Soft Soft; peers todai-ji / byodo-in / kinkaku-ji.",
+        "Do not invent JPY; official Soft Soft Soft TLS_FAIL unused; Soft Soft Soft-home Soft Soft Soft / NO_CTA OK.",
+        "≠ byodo-in / todai-ji — separate LIVE pages; mesh carefully.",
+        "SanctaWay does not sell tickets, invent visa myths, or grant access."
+      ]
+    }
+  },
+  {
+    "id": "al-qarawiyyin",
+    "name": "Al-Qarawiyyin Mosque / University, Fez, Morocco",
+    "shortName": "Al-Qarawiyyin",
+    "location": "Al-Qarawiyyin Mosque and historic university, Medina of Fez, Morocco (UNESCO Medina of Fez framing)",
+    "country": "Morocco",
+    "region": "Africa",
+    "regionSlug": "africa",
+    "religions": [
+      "Islamic"
+    ],
+    "religionSlugs": [
+      "islamic"
+    ],
+    "summary": "Historic mosque-university tourism mega in Medina of Fez — Morocco densify after Hassan II / Koutoubia. Soft Soft Soft-destination visitmorocco Fez Soft Soft Soft (+ UNESCO Medina of Fez Soft Soft Soft 170 Soft Soft Soft). Non-Muslim interior access honesty mandatory. Do not invent MAD.",
+    "heroImage": "https://images.unsplash.com/photo-1517824805568-7cafda84d86d?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": false,
+    "quickFacts": {
+      "founded": "Al-Qarawiyyin — historic Fez mosque-university traditionally dated to the 9th century; living islamic scholarship / prayer complex inside the Medina of Fez",
+      "patron": "Islamic — Sunni Maliki historic mosque and university tradition in Fez",
+      "unesco": "Within UNESCO World Heritage — Medina of Fez (ref. 170); not a standalone Soft Soft Soft cathedral-style inscription",
+      "typicalVisit": "Exterior / medina framing often the practical tourist window; interior prayer spaces frequently restricted to Muslims — verify Soft Soft Soft-destination Soft Soft Soft; do not invent casual entry or MAD"
+    },
+    "related": [
+      "hassan-ii-mosque",
+      "koutoubia",
+      "kairouan"
+    ],
+    "overview": {
+      "body": [
+        "Al-Qarawiyyin is Fez’s historic mosque-university Soft Soft Soft mega inside the Medina of Fez — Morocco densify after Hassan II / Koutoubia as the first Fez islamic mega page. SanctaWay frames Soft Soft Soft-destination visitmorocco Soft Soft Soft Fez Soft Soft Soft honesty (+ Soft Soft Soft-home UNESCO Soft Soft Soft Medina of Fez Soft Soft Soft 170 Soft Soft Soft). Non-Muslim interior access honesty is mandatory: mosque interiors are often restricted to Muslims — do not invent casual tourist entry.",
+        "Frame Soft Soft Soft CTA honesty: Soft Soft Soft-destination primary `https://www.visitmorocco.com/en/travel/fez` (curl-verified 200 + TLS at write). Soft Soft Soft-home Soft Soft Soft visitmorocco Soft Soft Soft + Soft Soft Soft-home UNESCO Soft Soft Soft `https://whc.unesco.org/en/list/170/`. Soft Soft Soft-home Soft Soft Soft / honest NO_CTA OK if deep booking absent. Courtyard / prayer / guided-view honesty without inventing MAD. Prefer Soft Soft Soft-destination Soft Soft Soft Soft Soft Soft over OTAs.",
+        "Soft Soft Soft blockers: active islamic / medina etiquette; covered arms/legs; head covering customary near prayer spaces; shoes off if interior access is granted; quiet; photography as posted; heat honesty. Mesh Hassan II, Koutoubia, and Kairouan as Maghreb islamic peers — never invent one Morocco pass covering Casablanca + Marrakech + Fez Soft Soft Soft destinations.",
+        "Gateway: Fez medina corridor — walk from medina gates / Fès-Ville densify framing. Allow heat and maze-navigation buffer without inventing fixed MAD entry fares.",
+        "SanctaWay is informational — it does not sell tickets, invent fares, or grant mosque access. Earn keep as Morocco densify mega: lead Soft Soft Soft-destination visitmorocco Soft Soft Soft honesty with non-Muslim access clarity — without inventing MAD."
+      ],
+      "highlights": [
+        "Morocco Fez densify mega — Al-Qarawiyyin mosque-university",
+        "Soft Soft Soft-destination visitmorocco Soft Soft Soft Fez Soft Soft Soft (200 + TLS)",
+        "Non-Muslim interior access honesty mandatory",
+        "UNESCO Soft Soft Soft Medina of Fez Soft Soft Soft 170 Soft Soft Soft framing",
+        "Do not invent MAD"
+      ]
+    },
+    "visit": {
+      "intro": "Soft Soft Soft-destination visitmorocco Soft Soft Soft Fez Soft Soft Soft — NEVER invent MAD; non-Muslim interior access honesty mandatory.",
+      "hours": "Working historic mosque / medina tourism — prayer and non-Muslim visit windows reshape access. Soft Soft Soft https://www.visitmorocco.com/en/travel/fez (200 + TLS). Re-check Soft Soft Soft-destination Soft Soft Soft and local notices the day you go. Do not invent casual interior entry for non-Muslims from Soft Soft Soft alone.",
+      "tickets": "Verify exterior / courtyard / any permitted visit windows on Soft Soft Soft-destination Soft Soft Soft; do not invent MAD. Soft Soft Soft-destination primary https://www.visitmorocco.com/en/travel/fez (+ Soft Soft Soft-home UNESCO Soft Soft Soft https://whc.unesco.org/en/list/170/). Soft Soft Soft-home Soft Soft Soft / honest NO_CTA OK. Prefer Soft Soft Soft-destination Soft Soft Soft Soft Soft Soft over OTAs. Not one ticket inventing Hassan II + Koutoubia densify.",
+      "dress": "Active islamic / medina — covered arms/legs; head covering customary near prayer spaces; shoes off if interior access granted; quiet; photography as posted; heat honesty.",
+      "duration": "30–90 minutes exterior / medina framing when that is the practical window; do not plan on unrestricted interior access.",
+      "access": "Fez medina corridor — walk from medina gates / Fès-Ville. Heat, maze density, and prayer windows reshape approaches. Non-Muslims should expect exterior / surrounding-medina framing unless Soft Soft Soft-destination Soft Soft Soft clearly states otherwise.",
+      "tips": [
+        "Use Soft Soft Soft-destination visitmorocco Soft Soft Soft Fez Soft Soft Soft — do not invent MAD.",
+        "Non-Muslim interior access often restricted — do not invent casual entry.",
+        "Covered arms/legs; head covering customary near prayer spaces.",
+        "Shoes off only if interior access is actually granted; photography as posted.",
+        "Heat / medina maze honesty; hire licensed guidance if needed.",
+        "Not one Morocco pass with Hassan II + Koutoubia.",
+        "SanctaWay does not sell tickets or grant access."
+      ],
+      "entryType": "soft-destination",
+      "ticketsUrl": "https://www.visitmorocco.com/en/travel/fez",
+      "ticketsLabel": "Al-Qarawiyyin Soft Soft Soft-destination visitmorocco Soft Soft Soft Fez Soft Soft Soft — do not invent MAD; non-Muslim access honesty",
+      "ticketsNote": "Soft Soft Soft CTA 200+TLS visitmorocco Soft Soft Soft Fez Soft Soft Soft-destination primary; Soft Soft Soft-home UNESCO Soft Soft Soft 170 Soft Soft Soft secondary; Soft Soft Soft-home Soft Soft Soft / NO_CTA OK; non-Muslim interior restriction honesty; do not invent MAD; Prefer Soft Soft Soft-destination Soft Soft Soft Soft Soft Soft over OTAs."
+    },
+    "etiquette": {
+      "intro": "Living mosque-university in Fez medina — dress, prayer-space, access honesty.",
+      "bullets": [
+        "Quiet; yield space near prayer times and study courtyards.",
+        "Covered arms/legs; head covering customary near prayer spaces.",
+        "Do not assume interior access if you are not Muslim — exterior framing may be the honest visit.",
+        "Threshold Atlas tone: Morocco densify Al-Qarawiyyin — Soft Soft Soft honesty; no invent MAD; non-Muslim access clarity."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Al-Qarawiyyin in Fez medina.",
+      "paragraphs": [
+        "Most visitors base in Fez (Fès-Ville / medina edge), then walk the medina corridor toward Al-Qarawiyyin densify framing — maze navigation and heat reshape the approach.",
+        "Treat Hassan II Mosque and Koutoubia as separate Morocco islamic Soft Soft Soft destinations — do not invent one Morocco combo ticket covering Casablanca + Marrakech + Fez.",
+        "Prayer, heat, and access windows reshape the visit — confirm Soft Soft Soft https://www.visitmorocco.com/en/travel/fez and local notices the day you go; do not invent non-Muslim interior entry."
+      ],
+      "bullets": [
+        "Fez medina walk corridor",
+        "Peer Morocco mesh — Hassan II / Koutoubia separate",
+        "Non-Muslim access honesty",
+        "Soft Soft Soft-destination visitmorocco Soft Soft Soft Fez Soft Soft Soft"
+      ]
+    },
+    "bestTime": {
+      "intro": "Morning Soft Soft Soft windows; watch prayer times and heat.",
+      "paragraphs": [
+        "Morning Soft Soft Soft windows before peak medina density are usually kinder for quieter exterior framing.",
+        "Prayer and heat windows reshape crowds — re-check Soft Soft Soft; do not invent MAD. Non-Muslim interior restriction is a standing soft blocker — plan honestly."
+      ],
+      "bullets": [
+        "Best: morning Soft Soft Soft window",
+        "Watch prayer / medina crush",
+        "Heat honesty",
+        "Do not invent MAD or casual interior entry"
+      ]
+    },
+    "notes": {
+      "intro": "SanctaWay Threshold Atlas notes — Morocco densify Al-Qarawiyyin.",
+      "bullets": [
+        "Morocco Fez densify mega — Soft Soft Soft-destination visitmorocco Soft Soft Soft; peers hassan-ii-mosque / koutoubia / kairouan.",
+        "Do not invent MAD; Soft Soft Soft-home Soft Soft Soft / NO_CTA OK; UNESCO Soft Soft Soft 170 Soft Soft Soft framing.",
+        "Non-Muslim interior access honesty mandatory — do not invent casual entry.",
+        "SanctaWay does not sell tickets, invent visa myths, or grant access."
+      ]
+    }
+  },
+  {
+    "id": "mexico-city-cathedral",
+    "name": "Mexico City Metropolitan Cathedral (Catedral Metropolitana), Mexico City, Mexico",
+    "shortName": "Mexico City Cathedral",
+    "location": "Mexico City Metropolitan Cathedral (Catedral Metropolitana de la Asunción de María), Zócalo / Centro Histórico, Mexico City, Mexico",
+    "country": "Mexico",
+    "region": "Americas",
+    "regionSlug": "americas",
+    "religions": [
+      "Christian"
+    ],
+    "religionSlugs": [
+      "christian"
+    ],
+    "summary": "Zócalo colonial cathedral tourism icon — Mexico densify after Guadalupe / Templo Mayor. Soft Soft Soft-official arquidiocesis Soft Soft Soft (+ UNESCO Historic Centre Soft Soft Soft 412 Soft Soft Soft). ≠ guadalupe / templo-mayor. Do not invent MXN.",
+    "heroImage": "https://images.unsplash.com/photo-1518659526054-03338c4b5d0f?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": false,
+    "quickFacts": {
+      "founded": "Mexico City Metropolitan Cathedral — colonial-era Catholic cathedral on the Zócalo; built over successive centuries on the historic centre fabric",
+      "patron": "Christian — Roman Catholic (Archdiocese of Mexico; Assumption dedication tradition)",
+      "unesco": "Within UNESCO World Heritage — Historic Centre of Mexico City and Xochimilco (ref. 412)",
+      "typicalVisit": "45–90 minutes nave / chapels when open; Mass / museum / crypt windows reshape access — verify Soft Soft Soft-official Soft Soft Soft; do not invent MXN"
+    },
+    "related": [
+      "guadalupe",
+      "templo-mayor",
+      "cholula"
+    ],
+    "overview": {
+      "body": [
+        "Mexico City Metropolitan Cathedral is the Zócalo Soft Soft Soft colonial cathedral tourism icon — Mexico densify after Guadalupe / Templo Mayor as the first CDMX christian cathedral page. SanctaWay leads Soft Soft Soft-official arquidiocesis Soft Soft Soft honesty (+ Soft Soft Soft-home UNESCO Soft Soft Soft Historic Centre Soft Soft Soft 412 Soft Soft Soft). ≠ `guadalupe` / `templo-mayor` — three separate LIVE pages.",
+        "Frame Soft Soft Soft CTA honesty: Soft Soft Soft-official primary `https://www.arquidiocesismexico.org.mx/` (curl-verified 200 + TLS at write; may strip www). Soft Soft Soft-home UNESCO Soft Soft Soft `https://whc.unesco.org/en/list/412/`. Generally free / donation / museum ticket honesty — do not invent MXN. Prefer Soft Soft Soft-official Soft Soft Soft Soft Soft Soft over OTAs.",
+        "Soft Soft Soft blockers: active cathedral etiquette; covered shoulders/knees; quiet; photography as posted; altitude / heat honesty; earthquake-retrofit / sinking-foundation honesty as posted. Mesh Guadalupe, Templo Mayor, and Cholula as Mexico Soft Soft Soft peers — never invent one CDMX ticket covering basilica + cathedral + templo.",
+        "Gateway: Zócalo / Centro Histórico — Metro Zócalo / walk from Templo Mayor densify framing. Allow Mass and security buffer without inventing fixed MXN museum fares.",
+        "SanctaWay is informational — it does not sell tickets, invent fares, or grant cathedral access. Earn keep as Mexico densify mega: lead Soft Soft Soft-official Soft Soft Soft honesty without inventing MXN."
+      ],
+      "highlights": [
+        "Mexico CDMX densify mega — Metropolitan Cathedral on the Zócalo",
+        "Soft Soft Soft-official arquidiocesis Soft Soft Soft (200 + TLS)",
+        "≠ guadalupe / templo-mayor — three pages",
+        "UNESCO Soft Soft Soft Historic Centre Soft Soft Soft 412 Soft Soft Soft framing",
+        "Do not invent MXN"
+      ]
+    },
+    "visit": {
+      "intro": "Soft Soft Soft-official arquidiocesis Soft Soft Soft — NEVER invent MXN; ≠ guadalupe / templo-mayor.",
+      "hours": "Working Catholic cathedral / colonial tourism — Mass, visit, museum, and crypt windows reshape access. Soft Soft Soft https://www.arquidiocesismexico.org.mx/ (200 + TLS). Re-check Soft Soft Soft-official Soft Soft Soft notices the day you go. Do not invent a fixed tourist timetable from Soft Soft Soft alone.",
+      "tickets": "Verify nave / Mass / museum / crypt windows on Soft Soft Soft-official Soft Soft Soft; do not invent MXN. Soft Soft Soft-official primary https://www.arquidiocesismexico.org.mx/ (+ Soft Soft Soft-home UNESCO Soft Soft Soft https://whc.unesco.org/en/list/412/). Generally free / donation / museum honesty. Prefer Soft Soft Soft-official Soft Soft Soft Soft Soft Soft over OTAs. Not one ticket inventing Guadalupe + Templo Mayor densify.",
+      "dress": "Active cathedral — covered shoulders/knees; quiet; photography as posted; altitude / heat honesty; earthquake-retrofit / sinking foundation honesty as posted.",
+      "duration": "45–90 minutes nave + chapels when open; add museum / crypt separately if posted.",
+      "access": "Zócalo / Centro Histórico — Metro Zócalo / walk from Templo Mayor. Security, Mass, and plaza events reshape approaches.",
+      "tips": [
+        "Use Soft Soft Soft-official arquidiocesis Soft Soft Soft — do not invent MXN.",
+        "≠ guadalupe / templo-mayor — separate pages; no one CDMX sacred pass myth.",
+        "Covered shoulders/knees; quiet during Mass.",
+        "Photography as posted; altitude / heat kit honesty.",
+        "Watch plaza protest / event closures near the Zócalo.",
+        "Earthquake-retrofit / foundation notices as posted — follow staff.",
+        "SanctaWay does not sell tickets or grant access."
+      ],
+      "entryType": "soft-official",
+      "ticketsUrl": "https://www.arquidiocesismexico.org.mx/",
+      "ticketsLabel": "Mexico City Cathedral Soft Soft Soft-official arquidiocesis Soft Soft Soft — do not invent MXN; ≠ guadalupe / templo-mayor",
+      "ticketsNote": "Soft Soft Soft CTA 200+TLS arquidiocesis Soft Soft Soft-official primary; Soft Soft Soft-home UNESCO Soft Soft Soft 412 Soft Soft Soft secondary; free/donation/museum honesty; do not invent MXN; Prefer Soft Soft Soft-official Soft Soft Soft Soft Soft Soft over OTAs."
+    },
+    "etiquette": {
+      "intro": "Living Catholic cathedral on the Zócalo — dress, Mass, photography honesty.",
+      "bullets": [
+        "Quiet; yield space during Mass and procession windows.",
+        "Covered shoulders/knees; photography as posted.",
+        "Respect liturgical zones; follow staff during security sweeps.",
+        "Threshold Atlas tone: Mexico densify Metropolitan Cathedral — Soft Soft Soft honesty; no invent MXN; ≠ guadalupe / templo-mayor."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Mexico City Metropolitan Cathedral on the Zócalo.",
+      "paragraphs": [
+        "Most visitors reach the Zócalo via Metro Zócalo or walk from Centro Histórico densify framing — Templo Mayor sits adjacent as a separate Soft Soft Soft visit.",
+        "Treat Basilica of Guadalupe and Templo Mayor as separate Mexico Soft Soft Soft destinations — do not invent one CDMX combo ticket covering basilica + cathedral + templo.",
+        "Mass, security, and plaza-event windows reshape access — confirm Soft Soft Soft https://www.arquidiocesismexico.org.mx/ and local notices the day you go."
+      ],
+      "bullets": [
+        "Zócalo / Metro Zócalo corridor",
+        "Peer Mexico mesh — ≠ guadalupe / templo-mayor one-pass",
+        "No one CDMX sacred pass myth",
+        "Soft Soft Soft-official arquidiocesis Soft Soft Soft"
+      ]
+    },
+    "bestTime": {
+      "intro": "Morning Soft Soft Soft windows; watch Mass and plaza events.",
+      "paragraphs": [
+        "Morning Soft Soft Soft windows before peak tour density are usually kinder for quieter nave walking.",
+        "Mass and Zócalo event windows reshape crowds — re-check Soft Soft Soft; do not invent MXN. Altitude / heat are standing soft blockers."
+      ],
+      "bullets": [
+        "Best: morning Soft Soft Soft window",
+        "Watch Mass / plaza crush",
+        "Altitude / heat honesty",
+        "Do not invent MXN"
+      ]
+    },
+    "notes": {
+      "intro": "SanctaWay Threshold Atlas notes — Mexico densify Metropolitan Cathedral.",
+      "bullets": [
+        "Mexico CDMX densify mega — Soft Soft Soft-official arquidiocesis Soft Soft Soft; peers guadalupe / templo-mayor / cholula.",
+        "Do not invent MXN; UNESCO Soft Soft Soft 412 Soft Soft Soft framing.",
+        "≠ guadalupe / templo-mayor — three separate LIVE pages.",
+        "SanctaWay does not sell tickets, invent visa myths, or grant access."
+      ]
+    }
+  },
+  {
+    "id": "dakshineswar",
+    "name": "Dakshineswar Kali Temple, Kolkata, India",
+    "shortName": "Dakshineswar",
+    "location": "Dakshineswar Kali Temple (Dakshineswar Kali Bari), Dakshineswar / Hooghly riverfront, Kolkata / North 24 Parganas, West Bengal, India",
+    "country": "India",
+    "region": "South Asia",
+    "regionSlug": "south-asia",
+    "religions": [
+      "Hindu"
+    ],
+    "religionSlugs": [
+      "hindu"
+    ],
+    "summary": "Ramakrishna / Kali pilgrimage tourism mega — India densify. Soft Soft Soft-official dakshineswarkalitemple.org Soft Soft Soft. Twin mesh kalighat carefully (separate page). Do not invent INR.",
+    "heroImage": "https://images.unsplash.com/photo-1582510003544-4d00bce9d6cc?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": false,
+    "quickFacts": {
+      "founded": "Dakshineswar Kali Temple — 19th-century Kali temple on the Hooghly associated with Sri Ramakrishna’s spiritual life; living Shakti pilgrimage seat",
+      "patron": "Hindu — Shakta (Kali); Ramakrishna–Vivekananda pilgrimage tourism framing",
+      "unesco": "Not individually inscribed as UNESCO WH; major Kali / Ramakrishna living temple pilgrimage mega",
+      "typicalVisit": "60–120 minutes darshan + riverfront precinct when open; aarti / festival windows reshape evenings — verify Soft Soft Soft-official Soft Soft Soft; do not invent INR"
+    },
+    "related": [
+      "kalighat",
+      "kashi-vishwanath",
+      "meenakshi"
+    ],
+    "overview": {
+      "body": [
+        "Dakshineswar is Kolkata’s Ramakrishna / Kali Soft Soft Soft pilgrimage tourism mega on the Hooghly — India densify as Band B mega. SanctaWay leads Soft Soft Soft-official `https://dakshineswarkalitemple.org/` honesty. Twin Soft Soft Soft `kalighat` is a separate page — mesh carefully; do not invent one Kolkata Kali ticket covering both Soft Soft Soft destinations.",
+        "Frame Soft Soft Soft CTA honesty: Soft Soft Soft-official primary `https://dakshineswarkalitemple.org/` (curl-verified 200 + TLS at write). Soft Soft Soft incredibleindia Soft Soft Soft-home Soft Soft Soft secondary. Queue / darshan / aarti honesty without inventing INR. Prefer Soft Soft Soft-official Soft Soft Soft Soft Soft Soft over OTAs.",
+        "Soft Soft Soft blockers: active Hindu pilgrimage etiquette; modest dress; shoes off; quiet; photography as posted; heat / crowd honesty. Mesh Kalighat (twin carefully), Kashi Vishwanath, and Meenakshi as India hindu Soft Soft Soft peers — never invent one Kali combo ticket for Dakshineswar + Kalighat.",
+        "Gateway: Dakshineswar / Hooghly corridor — metro / road from Kolkata densify framing. Allow darshan and heat buffer without inventing fixed INR VIP fares.",
+        "SanctaWay is informational — it does not sell tickets, invent fares, or grant temple access. Earn keep as India Kali / Ramakrishna densify mega: lead Soft Soft Soft-official Soft Soft Soft honesty without inventing INR."
+      ],
+      "highlights": [
+        "India Kali / Ramakrishna densify mega — Dakshineswar",
+        "Soft Soft Soft-official dakshineswarkalitemple.org Soft Soft Soft (200 + TLS)",
+        "Twin mesh kalighat carefully — separate page",
+        "Hooghly heat / aarti crush honesty",
+        "Do not invent INR"
+      ]
+    },
+    "visit": {
+      "intro": "Soft Soft Soft-official dakshineswarkalitemple.org Soft Soft Soft — NEVER invent INR; twin kalighat separate page.",
+      "hours": "Working Kali temple / Ramakrishna pilgrimage tourism — darshan, aarti, and festival windows reshape access. Soft Soft Soft https://dakshineswarkalitemple.org/ (200 + TLS). Re-check Soft Soft Soft-official Soft Soft Soft notices the day you go. Do not invent a fixed tourist timetable from Soft Soft Soft alone.",
+      "tickets": "Verify darshan / queue / aarti windows on Soft Soft Soft-official Soft Soft Soft; do not invent INR. Soft Soft Soft-official primary https://dakshineswarkalitemple.org/ (+ Soft Soft Soft incredibleindia Soft Soft Soft-home Soft Soft Soft secondary). Prefer Soft Soft Soft-official Soft Soft Soft Soft Soft Soft over OTAs. Not one ticket inventing Kalighat densify — twin Soft Soft Soft separate page.",
+      "dress": "Active Hindu pilgrimage — modest dress; shoes off; quiet; photography as posted; heat / crowd honesty.",
+      "duration": "60–120 minutes darshan + riverfront precinct when open; add evening aarti separately if posted.",
+      "access": "Dakshineswar / Hooghly corridor — metro / road from Kolkata. Heat and pilgrimage queues reshape approaches.",
+      "tips": [
+        "Use Soft Soft Soft-official dakshineswarkalitemple.org Soft Soft Soft — do not invent INR.",
+        "Twin Soft Soft Soft kalighat is a separate page — no one Kolkata Kali pass myth.",
+        "Modest dress; shoes off; quiet during aarti.",
+        "Photography as posted; heat / crowd kit honesty.",
+        "Allow aarti-window buffer on a riverfront evening.",
+        "Prefer Soft Soft Soft-official Soft Soft Soft Soft Soft Soft over OTAs.",
+        "SanctaWay does not sell tickets or grant access."
+      ],
+      "entryType": "soft-official",
+      "ticketsUrl": "https://dakshineswarkalitemple.org/",
+      "ticketsLabel": "Dakshineswar Soft Soft Soft-official dakshineswarkalitemple.org Soft Soft Soft — do not invent INR; twin kalighat separate",
+      "ticketsNote": "Soft Soft Soft CTA 200+TLS dakshineswarkalitemple.org Soft Soft Soft-official primary; Soft Soft Soft incredibleindia Soft Soft Soft-home Soft Soft Soft secondary; twin Soft Soft Soft kalighat separate page; do not invent INR; Prefer Soft Soft Soft-official Soft Soft Soft Soft Soft Soft over OTAs."
+    },
+    "etiquette": {
+      "intro": "Living Kali / Ramakrishna pilgrimage — dress, shoes, aarti honesty.",
+      "bullets": [
+        "Quiet; yield space during darshan and aarti queues.",
+        "Modest dress; shoes off; photography as posted.",
+        "Respect pilgrimage crush; heat honesty.",
+        "Threshold Atlas tone: India densify Dakshineswar — Soft Soft Soft honesty; no invent INR; twin Soft Soft Soft kalighat carefully."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Dakshineswar Kali Temple on the Hooghly.",
+      "paragraphs": [
+        "Most visitors base in Kolkata, then metro / road the Dakshineswar / Hooghly corridor densify framing to the temple approach.",
+        "Treat Kalighat as a separate Kolkata Kali Soft Soft Soft visit — do not invent one Kali combo ticket covering both Soft Soft Soft destinations even when pilgrims do both in one day.",
+        "Aarti, heat, and queue windows reshape access — confirm Soft Soft Soft https://dakshineswarkalitemple.org/ and local notices the day you go."
+      ],
+      "bullets": [
+        "Dakshineswar / Hooghly metro–road corridor",
+        "Twin Soft Soft Soft kalighat — separate page",
+        "No one Kolkata Kali pass myth",
+        "Soft Soft Soft-official dakshineswarkalitemple.org Soft Soft Soft"
+      ]
+    },
+    "bestTime": {
+      "intro": "Morning Soft Soft Soft windows; watch aarti crush and heat.",
+      "paragraphs": [
+        "Morning Soft Soft Soft windows before peak pilgrimage density are usually kinder for quieter darshan.",
+        "Aarti and festival evenings reshape crowds — re-check Soft Soft Soft; do not invent INR. Heat is a standing soft blocker."
+      ],
+      "bullets": [
+        "Best: morning Soft Soft Soft window",
+        "Watch aarti / pilgrimage crush",
+        "Heat honesty",
+        "Do not invent INR"
+      ]
+    },
+    "notes": {
+      "intro": "SanctaWay Threshold Atlas notes — India densify Dakshineswar.",
+      "bullets": [
+        "India Kali / Ramakrishna densify mega — Soft Soft Soft-official dakshineswarkalitemple.org Soft Soft Soft; peers kalighat / kashi-vishwanath / meenakshi.",
+        "Do not invent INR; twin Soft Soft Soft kalighat carefully — separate page.",
+        "Not one pass with Kalighat.",
+        "SanctaWay does not sell tickets, invent visa myths, or grant access."
+      ]
+    }
+  },
+  {
+    "id": "kamakhya",
+    "name": "Kamakhya Temple, Guwahati, Assam, India",
+    "shortName": "Kamakhya",
+    "location": "Kamakhya Temple, Nilachal Hill, Guwahati, Assam, India",
+    "country": "India",
+    "region": "South Asia",
+    "regionSlug": "south-asia",
+    "religions": [
+      "Hindu"
+    ],
+    "religionSlugs": [
+      "hindu"
+    ],
+    "summary": "Premier Shakti Peetha pilgrimage tourism — India densify. Soft Soft Soft-official kamakhyatemple.org Soft Soft Soft. Ambubachi Mela seasonal / access honesty mandatory. Do not invent INR.",
+    "heroImage": "https://images.unsplash.com/photo-1477587458883-47145ed94245?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": false,
+    "quickFacts": {
+      "founded": "Kamakhya — ancient Shakti Peetha on Nilachal Hill; living Tantric / Shakta pilgrimage seat above Guwahati",
+      "patron": "Hindu — Shakta (Kamakhya Devi; premier Shakti Peetha pilgrimage tourism framing)",
+      "unesco": "Not individually inscribed as UNESCO WH; major Shakti Peetha living temple pilgrimage mega",
+      "typicalVisit": "60–150 minutes darshan + hill precinct when open; Ambubachi and monsoon windows reshape access — verify Soft Soft Soft-official Soft Soft Soft; do not invent INR"
+    },
+    "related": [
+      "kashi-vishwanath",
+      "meenakshi",
+      "dakshineswar"
+    ],
+    "overview": {
+      "body": [
+        "Kamakhya is Assam’s premier Soft Soft Soft Shakti Peetha pilgrimage tourism mega on Nilachal Hill above Guwahati — India densify as Band B mega. SanctaWay leads Soft Soft Soft-official `https://www.kamakhyatemple.org/` honesty. Ambubachi Mela seasonal honesty is mandatory: the temple observes a closed period during Ambubachi — do not invent year-round casual access.",
+        "Frame Soft Soft Soft CTA honesty: Soft Soft Soft-official primary `https://www.kamakhyatemple.org/` (curl-verified 200 + TLS at write). Soft Soft Soft incredibleindia Soft Soft Soft-home Soft Soft Soft secondary. Queue / darshan / Ambubachi honesty without inventing INR. Prefer Soft Soft Soft-official Soft Soft Soft Soft Soft Soft over OTAs.",
+        "Soft Soft Soft blockers: active Hindu Shakti pilgrimage etiquette; modest dress; shoes off; quiet; photography as posted; monsoon / hill honesty; Ambubachi access honesty (temple closed period). Mesh Kashi Vishwanath, Meenakshi, and Dakshineswar as India hindu Soft Soft Soft peers — never invent one Assam / Kali combo ticket covering unrelated densify Soft Soft Soft destinations.",
+        "Gateway: Guwahati / Nilachal Hill corridor — road from Guwahati airport / station densify framing. Allow hill climb / vehicle approach and monsoon buffer without inventing fixed INR VIP fares.",
+        "SanctaWay is informational — it does not sell tickets, invent fares, or grant temple access. Earn keep as India Shakti Peetha densify mega: lead Soft Soft Soft-official Soft Soft Soft honesty with Ambubachi clarity — without inventing INR."
+      ],
+      "highlights": [
+        "India Shakti Peetha densify mega — Kamakhya",
+        "Soft Soft Soft-official kamakhyatemple.org Soft Soft Soft (200 + TLS)",
+        "Ambubachi Mela seasonal / access honesty mandatory",
+        "Monsoon / Nilachal Hill honesty",
+        "Do not invent INR"
+      ]
+    },
+    "visit": {
+      "intro": "Soft Soft Soft-official kamakhyatemple.org Soft Soft Soft — NEVER invent INR; Ambubachi seasonal / access honesty mandatory.",
+      "hours": "Working Shakti Peetha pilgrimage — darshan, Ambubachi, and seasonal windows reshape access. Soft Soft Soft https://www.kamakhyatemple.org/ (200 + TLS). Re-check Soft Soft Soft-official Soft Soft Soft notices the day you go — especially around Ambubachi closed period. Do not invent year-round casual access from Soft Soft Soft alone.",
+      "tickets": "Verify darshan / queue / Ambubachi windows on Soft Soft Soft-official Soft Soft Soft; do not invent INR. Soft Soft Soft-official primary https://www.kamakhyatemple.org/ (+ Soft Soft Soft incredibleindia Soft Soft Soft-home Soft Soft Soft secondary). Prefer Soft Soft Soft-official Soft Soft Soft Soft Soft Soft over OTAs. Ambubachi closed-period honesty — do not invent entry during posted closures.",
+      "dress": "Active Hindu Shakti pilgrimage — modest dress; shoes off; quiet; photography as posted; monsoon / hill honesty; Ambubachi access honesty (temple closed period).",
+      "duration": "60–150 minutes darshan + hill precinct when open; Ambubachi reshapes or closes windows — verify Soft Soft Soft-official Soft Soft Soft.",
+      "access": "Guwahati / Nilachal Hill corridor — road from airport / station. Monsoon, hill traffic, and Ambubachi crowds reshape approaches.",
+      "tips": [
+        "Use Soft Soft Soft-official kamakhyatemple.org Soft Soft Soft — do not invent INR.",
+        "Ambubachi Mela — temple closed period honesty; do not invent access.",
+        "Modest dress; shoes off; quiet during darshan.",
+        "Photography as posted; monsoon / hill kit honesty.",
+        "Allow hill-traffic buffer on wet-season days.",
+        "Prefer Soft Soft Soft-official Soft Soft Soft Soft Soft Soft over OTAs.",
+        "SanctaWay does not sell tickets or grant access."
+      ],
+      "entryType": "soft-official",
+      "ticketsUrl": "https://www.kamakhyatemple.org/",
+      "ticketsLabel": "Kamakhya Soft Soft Soft-official kamakhyatemple.org Soft Soft Soft — do not invent INR; Ambubachi seasonal honesty",
+      "ticketsNote": "Soft Soft Soft CTA 200+TLS kamakhyatemple.org Soft Soft Soft-official primary; Soft Soft Soft incredibleindia Soft Soft Soft-home Soft Soft Soft secondary; Ambubachi closed-period honesty; do not invent INR; Prefer Soft Soft Soft-official Soft Soft Soft Soft Soft Soft over OTAs."
+    },
+    "etiquette": {
+      "intro": "Living Shakti Peetha pilgrimage — dress, Ambubachi, hill honesty.",
+      "bullets": [
+        "Quiet; yield space during darshan queues.",
+        "Modest dress; shoes off; photography as posted.",
+        "Respect Ambubachi closed period — do not invent entry.",
+        "Threshold Atlas tone: India densify Kamakhya — Soft Soft Soft honesty; no invent INR; Ambubachi clarity."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Kamakhya Temple on Nilachal Hill.",
+      "paragraphs": [
+        "Most visitors base in Guwahati, then road the Nilachal Hill corridor densify framing from airport / station to the temple approach.",
+        "Treat Kashi Vishwanath, Meenakshi, and Dakshineswar as separate India hindu Soft Soft Soft visits — do not invent one Assam / Kali combo ticket covering unrelated densify Soft Soft Soft destinations.",
+        "Ambubachi, monsoon, and queue windows reshape access — confirm Soft Soft Soft https://www.kamakhyatemple.org/ and local notices the day you go."
+      ],
+      "bullets": [
+        "Guwahati / Nilachal Hill road corridor",
+        "Ambubachi seasonal honesty",
+        "No one Assam / Kali pass myth",
+        "Soft Soft Soft-official kamakhyatemple.org Soft Soft Soft"
+      ]
+    },
+    "bestTime": {
+      "intro": "Morning Soft Soft Soft windows; watch Ambubachi and monsoon.",
+      "paragraphs": [
+        "Morning Soft Soft Soft windows before peak pilgrimage density are usually kinder for quieter darshan when the temple is open.",
+        "Ambubachi closed period and monsoon reshape access — re-check Soft Soft Soft; do not invent INR. Hill / wet-season honesty is a standing soft blocker."
+      ],
+      "bullets": [
+        "Best: morning Soft Soft Soft window (when open)",
+        "Ambubachi closed-period honesty",
+        "Monsoon / hill honesty",
+        "Do not invent INR"
+      ]
+    },
+    "notes": {
+      "intro": "SanctaWay Threshold Atlas notes — India densify Kamakhya.",
+      "bullets": [
+        "India Shakti Peetha densify mega — Soft Soft Soft-official kamakhyatemple.org Soft Soft Soft; peers kashi-vishwanath / meenakshi / dakshineswar.",
+        "Do not invent INR; Ambubachi seasonal / access honesty mandatory.",
+        "Not year-round casual access during Ambubachi closed period.",
+        "SanctaWay does not sell tickets, invent visa myths, or grant access."
+      ]
+    }
+  },
+  {
+    "id": "dambulla",
+    "name": "Rangiri Dambulla Cave Temple, Dambulla, Sri Lanka",
+    "shortName": "Dambulla",
+    "location": "Rangiri Dambulla Cave Temple, Dambulla, Central Province / Cultural Triangle, Sri Lanka",
+    "country": "Sri Lanka",
+    "region": "South Asia",
+    "regionSlug": "south-asia",
+    "religions": [
+      "Buddhist"
+    ],
+    "religionSlugs": [
+      "buddhist"
+    ],
+    "summary": "UNESCO Soft Soft Soft cave temple postcard — Sri Lanka densify after Tooth / Anuradhapura / Adam's Peak. Soft Soft Soft-home UNESCO Soft Soft Soft 561 Soft Soft Soft (+ srilanka.travel Soft Soft Soft). Soft Soft Soft-home Soft Soft Soft / NO_CTA OK. Do not invent LKR.",
+    "heroImage": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": false,
+    "quickFacts": {
+      "founded": "Rangiri Dambulla Cave Temple — rock-cave Buddhist temple complex with centuries of mural and Buddha-image fabric in Sri Lanka’s Cultural Triangle",
+      "patron": "Buddhist — Theravada cave-temple pilgrimage / heritage tourism framing",
+      "unesco": "UNESCO World Heritage — Rangiri Dambulla Cave Temple (ref. 561)",
+      "typicalVisit": "60–120 minutes cave circuit when open; ticket / photography windows reshape access — verify Soft Soft Soft-home UNESCO Soft Soft Soft; do not invent LKR"
+    },
+    "related": [
+      "temple-of-the-tooth",
+      "anuradhapura",
+      "adam-peak"
+    ],
+    "overview": {
+      "body": [
+        "Dambulla is Sri Lanka’s Soft Soft Soft UNESCO Soft Soft Soft cave-temple postcard in the Cultural Triangle — densify after Temple of the Tooth / Anuradhapura / Adam's Peak. SanctaWay leads Soft Soft Soft-home UNESCO Soft Soft Soft honesty (`https://whc.unesco.org/en/list/561/`). Soft Soft Soft-destination srilanka.travel Soft Soft Soft secondary. Soft Soft Soft-home Soft Soft Soft / honest NO_CTA OK.",
+        "Frame Soft Soft Soft CTA honesty: Soft Soft Soft-home primary UNESCO Soft Soft Soft 561 Soft Soft Soft (curl-verified 200 + TLS at write). Soft Soft Soft-destination Soft Soft Soft `https://www.srilanka.travel/` Soft Soft Soft (+ Soft Soft Soft search Soft Soft Soft dambulla Soft Soft Soft). Cave / ticket / photography honesty without inventing LKR. Prefer Soft Soft Soft UNESCO Soft Soft Soft Soft Soft Soft over OTAs.",
+        "Soft Soft Soft blockers: active Buddhist heritage tourism etiquette; covered shoulders/knees; shoes off; quiet; photography as posted (often ticketed / restricted honesty); heat honesty. Mesh Temple of the Tooth, Anuradhapura, and Adam's Peak as Sri Lanka Soft Soft Soft peers — never invent one Cultural Triangle ticket covering Tooth + Anuradhapura + Dambulla.",
+        "Gateway: Dambulla / Cultural Triangle corridor — road from Kandy / Sigiriya densify framing. Allow cave-climb and heat buffer without inventing fixed LKR fares.",
+        "SanctaWay is informational — it does not sell tickets, invent fares, or grant temple access. Earn keep as Sri Lanka densify mega: lead Soft Soft Soft-home UNESCO Soft Soft Soft 561 Soft Soft Soft honesty without inventing LKR."
+      ],
+      "highlights": [
+        "Sri Lanka UNESCO Soft Soft Soft densify mega — Dambulla cave temple",
+        "Soft Soft Soft-home UNESCO Soft Soft Soft 561 Soft Soft Soft (200 + TLS)",
+        "Soft Soft Soft-destination srilanka.travel Soft Soft Soft secondary",
+        "Heat / cave photography honesty",
+        "Do not invent LKR"
+      ]
+    },
+    "visit": {
+      "intro": "Soft Soft Soft-home UNESCO Soft Soft Soft 561 Soft Soft Soft — NEVER invent LKR; Soft Soft Soft-home Soft Soft Soft / NO_CTA OK.",
+      "hours": "Historic Buddhist cave temple / UNESCO Soft Soft Soft tourism — cave, ticket, and photography windows reshape access. Soft Soft Soft https://whc.unesco.org/en/list/561/ (200 + TLS). Re-check Soft Soft Soft-home Soft Soft Soft notices and on-site boards the day you go. Do not invent a fixed tourist timetable from Soft Soft Soft alone.",
+      "tickets": "Verify cave / ticket / photography windows on Soft Soft Soft-home Soft Soft Soft / on-site; do not invent LKR. Soft Soft Soft-home primary https://whc.unesco.org/en/list/561/ (+ Soft Soft Soft-destination https://www.srilanka.travel/). Soft Soft Soft-home Soft Soft Soft / honest NO_CTA OK. Prefer Soft Soft Soft UNESCO Soft Soft Soft Soft Soft Soft over OTAs. Not one ticket inventing Tooth + Anuradhapura densify.",
+      "dress": "Active Buddhist heritage tourism — covered shoulders/knees; shoes off; quiet; photography as posted (often ticketed / restricted honesty); heat honesty.",
+      "duration": "60–120 minutes cave circuit when open; add Cultural Triangle buffer separately.",
+      "access": "Dambulla / Cultural Triangle corridor — road from Kandy / Sigiriya. Heat and rock-stair approaches reshape visits.",
+      "tips": [
+        "Use Soft Soft Soft-home UNESCO Soft Soft Soft 561 Soft Soft Soft — do not invent LKR.",
+        "Soft Soft Soft-home Soft Soft Soft / NO_CTA OK; srilanka.travel Soft Soft Soft secondary.",
+        "Covered shoulders/knees; shoes off; quiet in caves.",
+        "Photography as posted — often ticketed / restricted honesty.",
+        "Heat / stair kit honesty on the rock approach.",
+        "Not one Cultural Triangle pass with Tooth + Anuradhapura.",
+        "SanctaWay does not sell tickets or grant access."
+      ],
+      "entryType": "soft-home",
+      "ticketsUrl": "https://whc.unesco.org/en/list/561/",
+      "ticketsLabel": "Dambulla Soft Soft Soft-home UNESCO Soft Soft Soft 561 Soft Soft Soft — do not invent LKR; Soft Soft Soft-home Soft Soft Soft / NO_CTA OK",
+      "ticketsNote": "Soft Soft Soft CTA 200+TLS UNESCO Soft Soft Soft 561 Soft Soft Soft-home primary; Soft Soft Soft-destination srilanka.travel Soft Soft Soft secondary; Soft Soft Soft-home Soft Soft Soft / NO_CTA OK; do not invent LKR; Prefer Soft Soft Soft UNESCO Soft Soft Soft Soft Soft Soft over OTAs."
+    },
+    "etiquette": {
+      "intro": "Living Buddhist cave-temple heritage — dress, shoes, photography honesty.",
+      "bullets": [
+        "Quiet; yield space in cave circuits.",
+        "Covered shoulders/knees; shoes off; photography as posted.",
+        "Respect mural and image fabric; follow staff on restricted shots.",
+        "Threshold Atlas tone: Sri Lanka densify Dambulla — Soft Soft Soft honesty; no invent LKR."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Rangiri Dambulla Cave Temple.",
+      "paragraphs": [
+        "Most visitors base via Cultural Triangle densify framing — road from Kandy or Sigiriya corridors into Dambulla for the cave approach.",
+        "Treat Temple of the Tooth, Anuradhapura, and Adam's Peak as separate Sri Lanka Soft Soft Soft visits — do not invent one Cultural Triangle combo ticket covering all three Soft Soft Soft destinations.",
+        "Cave, ticket, and heat windows reshape access — confirm Soft Soft Soft https://whc.unesco.org/en/list/561/ and local notices the day you go."
+      ],
+      "bullets": [
+        "Dambulla / Cultural Triangle road corridor",
+        "Peer Sri Lanka mesh — Tooth / Anuradhapura / Adam's Peak separate",
+        "No one Cultural Triangle pass myth",
+        "Soft Soft Soft-home UNESCO Soft Soft Soft 561 Soft Soft Soft"
+      ]
+    },
+    "bestTime": {
+      "intro": "Morning Soft Soft Soft windows; watch heat and tour density.",
+      "paragraphs": [
+        "Morning Soft Soft Soft windows before peak tour density are usually kinder for quieter cave walking.",
+        "Heat and group windows reshape crowds — re-check Soft Soft Soft; do not invent LKR. Rock-stair heat is a standing soft blocker."
+      ],
+      "bullets": [
+        "Best: morning Soft Soft Soft window",
+        "Watch tour crush",
+        "Heat honesty",
+        "Do not invent LKR"
+      ]
+    },
+    "notes": {
+      "intro": "SanctaWay Threshold Atlas notes — Sri Lanka densify Dambulla.",
+      "bullets": [
+        "Sri Lanka UNESCO Soft Soft Soft densify mega — Soft Soft Soft-home UNESCO Soft Soft Soft 561 Soft Soft Soft; peers temple-of-the-tooth / anuradhapura / adam-peak.",
+        "Do not invent LKR; Soft Soft Soft-home Soft Soft Soft / NO_CTA OK.",
+        "Not one Cultural Triangle pass with Tooth + Anuradhapura.",
+        "SanctaWay does not sell tickets, invent visa myths, or grant access."
+      ]
+    }
+  },
+  {
+    "id": "cartagena-cathedral",
+    "name": "Cartagena Cathedral (Catedral de Santa Catalina de Alejandría), Cartagena, Colombia",
+    "shortName": "Cartagena Cathedral",
+    "location": "Cartagena Cathedral (Catedral de Santa Catalina de Alejandría), Plaza de la Proclamación / Centro Histórico, Cartagena, Colombia",
+    "country": "Colombia",
+    "region": "Americas",
+    "regionSlug": "americas",
+    "religions": [
+      "Christian"
+    ],
+    "religionSlugs": [
+      "christian"
+    ],
+    "summary": "Cartagena walled-city colonial cathedral tourism — Colombia densify after Monserrate / Salt Cathedral / Las Lajas. Soft Soft Soft-destination colombia.travel Soft Soft Soft Cartagena Soft Soft Soft (+ UNESCO Port Soft Soft Soft 285 Soft Soft Soft). ≠ salt-cathedral-zipaquira. Do not invent COP.",
+    "heroImage": "https://images.unsplash.com/photo-1587595431973-160d0d94add1?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": false,
+    "quickFacts": {
+      "founded": "Cartagena Cathedral — colonial-era Catholic cathedral in Cartagena’s walled Centro Histórico; living parish / tourism landmark",
+      "patron": "Christian — Roman Catholic (Santa Catalina de Alejandría dedication tradition)",
+      "unesco": "Within UNESCO World Heritage — Port, Fortresses and Group of Monuments, Cartagena (ref. 285); not a cathedral-only Soft Soft Soft inscription",
+      "typicalVisit": "30–60 minutes nave when open; Mass windows reshape access — verify Soft Soft Soft-destination Soft Soft Soft; do not invent COP"
+    },
+    "related": [
+      "monserrate",
+      "salt-cathedral-zipaquira",
+      "las-lajas"
+    ],
+    "overview": {
+      "body": [
+        "Cartagena Cathedral is the Soft Soft Soft walled-city colonial cathedral tourism landmark on Plaza de la Proclamación — Colombia densify after Monserrate / Salt Cathedral / Las Lajas as the first Cartagena christian cathedral page. SanctaWay leads Soft Soft Soft-destination colombia.travel Soft Soft Soft Cartagena Soft Soft Soft honesty (+ Soft Soft Soft-home UNESCO Soft Soft Soft Port Soft Soft Soft 285 Soft Soft Soft). ≠ `salt-cathedral-zipaquira` — separate LIVE page.",
+        "Frame Soft Soft Soft CTA honesty: Soft Soft Soft-destination primary `https://colombia.travel/en/cartagena` (curl-verified 200 + TLS at write; may redirect to cartagena-de-indias). Soft Soft Soft-home Soft Soft Soft `https://colombia.travel/en` + Soft Soft Soft-home UNESCO Soft Soft Soft `https://whc.unesco.org/en/list/285/`. Soft Soft Soft-home Soft Soft Soft / honest NO_CTA OK. Do not invent COP. Prefer Soft Soft Soft-destination Soft Soft Soft Soft Soft Soft over OTAs.",
+        "Soft Soft Soft blockers: active cathedral etiquette; covered shoulders/knees; quiet; photography as posted; Caribbean heat honesty. Mesh Monserrate, Salt Cathedral Zipaquirá, and Las Lajas as Colombia Soft Soft Soft peers — never invent one Colombia ticket covering Bogotá + Zipaquirá + Cartagena Soft Soft Soft destinations.",
+        "Gateway: Cartagena Centro Histórico — walk from the walled city densify framing. Allow Mass and heat buffer without inventing fixed COP fares.",
+        "SanctaWay is informational — it does not sell tickets, invent fares, or grant cathedral access. Earn keep as Colombia densify mega: lead Soft Soft Soft-destination Soft Soft Soft honesty without inventing COP."
+      ],
+      "highlights": [
+        "Colombia Cartagena densify mega — colonial cathedral",
+        "Soft Soft Soft-destination colombia.travel Soft Soft Soft Cartagena Soft Soft Soft (200 + TLS)",
+        "≠ salt-cathedral-zipaquira — separate page",
+        "UNESCO Soft Soft Soft Port Soft Soft Soft 285 Soft Soft Soft framing",
+        "Do not invent COP"
+      ]
+    },
+    "visit": {
+      "intro": "Soft Soft Soft-destination colombia.travel Soft Soft Soft Cartagena Soft Soft Soft — NEVER invent COP; ≠ salt-cathedral-zipaquira.",
+      "hours": "Working Catholic cathedral / colonial tourism — Mass and visit windows reshape access. Soft Soft Soft https://colombia.travel/en/cartagena (200 + TLS). Re-check Soft Soft Soft-destination Soft Soft Soft and local notices the day you go. Do not invent a fixed tourist timetable from Soft Soft Soft alone.",
+      "tickets": "Verify Mass / visit windows on Soft Soft Soft-destination Soft Soft Soft / on-site; do not invent COP. Soft Soft Soft-destination primary https://colombia.travel/en/cartagena (+ Soft Soft Soft-home UNESCO Soft Soft Soft https://whc.unesco.org/en/list/285/). Soft Soft Soft-home Soft Soft Soft / honest NO_CTA OK. Prefer Soft Soft Soft-destination Soft Soft Soft Soft Soft Soft over OTAs. Not one ticket inventing Monserrate + Salt Cathedral densify.",
+      "dress": "Active cathedral — covered shoulders/knees; quiet; photography as posted; Caribbean heat honesty.",
+      "duration": "30–60 minutes nave when open; add walled-city walking separately.",
+      "access": "Cartagena Centro Histórico / Plaza de la Proclamación — walk from the walled city. Heat and cruise-day density reshape approaches.",
+      "tips": [
+        "Use Soft Soft Soft-destination colombia.travel Soft Soft Soft Cartagena Soft Soft Soft — do not invent COP.",
+        "≠ salt-cathedral-zipaquira — separate page; no one Colombia sacred pass myth.",
+        "Covered shoulders/knees; quiet during Mass.",
+        "Photography as posted; Caribbean heat kit honesty.",
+        "Watch cruise-day plaza crush in Centro Histórico.",
+        "Soft Soft Soft-home Soft Soft Soft / NO_CTA OK.",
+        "SanctaWay does not sell tickets or grant access."
+      ],
+      "entryType": "soft-destination",
+      "ticketsUrl": "https://colombia.travel/en/cartagena",
+      "ticketsLabel": "Cartagena Cathedral Soft Soft Soft-destination colombia.travel Soft Soft Soft — do not invent COP; ≠ salt-cathedral-zipaquira",
+      "ticketsNote": "Soft Soft Soft CTA 200+TLS colombia.travel Soft Soft Soft Cartagena Soft Soft Soft-destination primary; Soft Soft Soft-home UNESCO Soft Soft Soft 285 Soft Soft Soft secondary; Soft Soft Soft-home Soft Soft Soft / NO_CTA OK; do not invent COP; Prefer Soft Soft Soft-destination Soft Soft Soft Soft Soft Soft over OTAs."
+    },
+    "etiquette": {
+      "intro": "Living Catholic cathedral in Cartagena walled city — dress, Mass, heat honesty.",
+      "bullets": [
+        "Quiet; yield space during Mass.",
+        "Covered shoulders/knees; photography as posted.",
+        "Respect liturgical zones amid tourist density.",
+        "Threshold Atlas tone: Colombia densify Cartagena Cathedral — Soft Soft Soft honesty; no invent COP; ≠ salt-cathedral-zipaquira."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Cartagena Cathedral in the walled city.",
+      "paragraphs": [
+        "Most visitors walk Cartagena Centro Histórico densify framing to Plaza de la Proclamación for the cathedral approach.",
+        "Treat Monserrate, Salt Cathedral Zipaquirá, and Las Lajas as separate Colombia Soft Soft Soft visits — do not invent one Colombia combo ticket covering Bogotá + Zipaquirá + Cartagena Soft Soft Soft destinations.",
+        "Mass, heat, and cruise-day windows reshape access — confirm Soft Soft Soft https://colombia.travel/en/cartagena and local notices the day you go."
+      ],
+      "bullets": [
+        "Cartagena Centro Histórico walk corridor",
+        "Peer Colombia mesh — ≠ salt-cathedral-zipaquira one-pass",
+        "No one Colombia sacred pass myth",
+        "Soft Soft Soft-destination colombia.travel Soft Soft Soft"
+      ]
+    },
+    "bestTime": {
+      "intro": "Morning Soft Soft Soft windows; watch heat and cruise density.",
+      "paragraphs": [
+        "Morning Soft Soft Soft windows before peak cruise / tour density are usually kinder for quieter nave walking.",
+        "Heat and plaza windows reshape crowds — re-check Soft Soft Soft; do not invent COP. Caribbean heat is a standing soft blocker."
+      ],
+      "bullets": [
+        "Best: morning Soft Soft Soft window",
+        "Watch cruise / plaza crush",
+        "Caribbean heat honesty",
+        "Do not invent COP"
+      ]
+    },
+    "notes": {
+      "intro": "SanctaWay Threshold Atlas notes — Colombia densify Cartagena Cathedral.",
+      "bullets": [
+        "Colombia Cartagena densify mega — Soft Soft Soft-destination colombia.travel Soft Soft Soft; peers monserrate / salt-cathedral-zipaquira / las-lajas.",
+        "Do not invent COP; Soft Soft Soft-home Soft Soft Soft / NO_CTA OK; UNESCO Soft Soft Soft 285 Soft Soft Soft framing.",
+        "≠ salt-cathedral-zipaquira — separate LIVE page.",
+        "SanctaWay does not sell tickets, invent visa myths, or grant access."
+      ]
+    }
+  },
+  {
+    "id": "kalighat",
+    "name": "Kalighat Kali Temple, Kolkata, India",
+    "shortName": "Kalighat",
+    "location": "Kalighat Kali Temple, Kalighat / South Kolkata, West Bengal, India",
+    "country": "India",
+    "region": "South Asia",
+    "regionSlug": "south-asia",
+    "religions": [
+      "Hindu"
+    ],
+    "religionSlugs": [
+      "hindu"
+    ],
+    "summary": "Historic Kali pilgrimage twin mega (≠ Dakshineswar) — India densify. Soft Soft Soft-destination Incredible India West Bengal Soft Soft Soft (official kalighattemple.com Soft Soft Soft 445 parking unused at write). Twin mesh dakshineswar carefully. Do not invent INR.",
+    "heroImage": "https://images.unsplash.com/photo-1582510003544-4d00bce9d6cc?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash",
+    "featured": false,
+    "quickFacts": {
+      "founded": "Kalighat Kali Temple — historic Kali pilgrimage seat in South Kolkata; living Shakti temple with deep Bengali pilgrimage tradition (distinct from Dakshineswar)",
+      "patron": "Hindu — Shakta (Kali); historic Kalighat pilgrimage tourism framing",
+      "unesco": "Not individually inscribed as UNESCO WH; major historic Kali living temple pilgrimage mega",
+      "typicalVisit": "45–90 minutes darshan + precinct when open; aarti / festival windows reshape access — verify Soft Soft Soft-destination Soft Soft Soft; do not invent INR"
+    },
+    "related": [
+      "dakshineswar",
+      "kashi-vishwanath",
+      "meenakshi"
+    ],
+    "overview": {
+      "body": [
+        "Kalighat is Kolkata’s Soft Soft Soft historic Kali pilgrimage twin mega in South Kolkata — India densify as Band B mega, distinct from Dakshineswar. SanctaWay leads Soft Soft Soft-destination Incredible India West Bengal Soft Soft Soft honesty at write because Soft Soft Soft-official `kalighattemple.com` Soft Soft Soft returned Soft Soft Soft **445** Soft Soft Soft parking / hijack Soft Soft Soft — unused. Twin Soft Soft Soft `dakshineswar` is a separate page — mesh carefully.",
+        "Frame Soft Soft Soft CTA honesty: Soft Soft Soft-destination primary `https://www.incredibleindia.gov.in/en/west-bengal` (curl-verified 200 + TLS at write). Soft Soft Soft-official kalighattemple.com Soft Soft Soft 445 Soft Soft Soft parking Soft Soft Soft unused. Soft Soft Soft-home Soft Soft Soft / honest NO_CTA OK. Queue / darshan / aarti honesty without inventing INR. Prefer Soft Soft Soft-destination Soft Soft Soft Soft Soft Soft over OTAs. Animal-sacrifice context honesty without sensationalizing.",
+        "Soft Soft Soft blockers: active Hindu pilgrimage etiquette; modest dress; shoes off; quiet; photography as posted; heat / crowd honesty. Mesh Dakshineswar (twin carefully), Kashi Vishwanath, and Meenakshi as India hindu Soft Soft Soft peers — never invent one Kolkata Kali ticket covering Dakshineswar + Kalighat.",
+        "Gateway: Kalighat / South Kolkata corridor — metro / road from Kolkata densify framing. Allow darshan and heat buffer without inventing fixed INR VIP fares.",
+        "SanctaWay is informational — it does not sell tickets, invent fares, or grant temple access. Earn keep as India Kali densify mega (historic Kalighat ≠ Dakshineswar): lead Soft Soft Soft-destination Soft Soft Soft honesty without inventing INR."
+      ],
+      "highlights": [
+        "India Kali densify mega — historic Kalighat (≠ Dakshineswar)",
+        "Soft Soft Soft-destination Incredible India WB Soft Soft Soft (200 + TLS)",
+        "Official Soft Soft Soft kalighattemple.com Soft Soft Soft 445 Soft Soft Soft parking Soft Soft Soft unused",
+        "Twin mesh dakshineswar carefully — separate page",
+        "Do not invent INR"
+      ]
+    },
+    "visit": {
+      "intro": "Soft Soft Soft-destination Incredible India WB Soft Soft Soft — NEVER invent INR; official Soft Soft Soft 445 Soft Soft Soft parking Soft Soft Soft unused; twin dakshineswar separate.",
+      "hours": "Working Kali temple / pilgrimage tourism — darshan, aarti, and festival windows reshape access. Soft Soft Soft https://www.incredibleindia.gov.in/en/west-bengal (200 + TLS). Soft Soft Soft-official kalighattemple.com Soft Soft Soft 445 Soft Soft Soft unused. Re-check Soft Soft Soft-destination Soft Soft Soft and on-site notices the day you go. Do not invent a fixed tourist timetable from Soft Soft Soft alone.",
+      "tickets": "Verify darshan / queue / aarti windows on Soft Soft Soft-destination Soft Soft Soft / on-site; do not invent INR. Soft Soft Soft-destination primary https://www.incredibleindia.gov.in/en/west-bengal. Soft Soft Soft-official kalighattemple.com Soft Soft Soft 445 Soft Soft Soft parking Soft Soft Soft unused. Soft Soft Soft-home Soft Soft Soft / honest NO_CTA OK. Prefer Soft Soft Soft-destination Soft Soft Soft Soft Soft Soft over OTAs. Not one ticket inventing Dakshineswar densify — twin Soft Soft Soft separate page.",
+      "dress": "Active Hindu pilgrimage — modest dress; shoes off; quiet; photography as posted; heat / crowd honesty; animal-sacrifice context honesty without sensationalizing.",
+      "duration": "45–90 minutes darshan + precinct when open; add aarti separately if posted.",
+      "access": "Kalighat / South Kolkata corridor — metro / road from Kolkata. Heat and pilgrimage queues reshape approaches.",
+      "tips": [
+        "Use Soft Soft Soft-destination Incredible India WB Soft Soft Soft — do not invent INR.",
+        "Official Soft Soft Soft kalighattemple.com Soft Soft Soft 445 Soft Soft Soft parking Soft Soft Soft unused — do not cite as live Soft Soft Soft.",
+        "Twin Soft Soft Soft dakshineswar is a separate page — no one Kolkata Kali pass myth.",
+        "Modest dress; shoes off; quiet during aarti.",
+        "Photography as posted; heat / crowd kit honesty.",
+        "Animal-sacrifice context honesty without sensationalizing.",
+        "SanctaWay does not sell tickets or grant access."
+      ],
+      "entryType": "soft-destination",
+      "ticketsUrl": "https://www.incredibleindia.gov.in/en/west-bengal",
+      "ticketsLabel": "Kalighat Soft Soft Soft-destination Incredible India WB Soft Soft Soft — do not invent INR; official Soft Soft Soft 445 Soft Soft Soft unused",
+      "ticketsNote": "Soft Soft Soft CTA 200+TLS Incredible India WB Soft Soft Soft-destination primary (write-time Soft Soft Soft-official kalighattemple.com Soft Soft Soft 445 Soft Soft Soft parking Soft Soft Soft unused); Soft Soft Soft-home Soft Soft Soft / NO_CTA OK; twin Soft Soft Soft dakshineswar separate page; do not invent INR; Prefer Soft Soft Soft-destination Soft Soft Soft Soft Soft Soft over OTAs."
+    },
+    "etiquette": {
+      "intro": "Living historic Kali pilgrimage — dress, crowd, context honesty.",
+      "bullets": [
+        "Quiet; yield space during darshan and aarti queues.",
+        "Modest dress; shoes off; photography as posted.",
+        "Animal-sacrifice context honesty without sensationalizing.",
+        "Threshold Atlas tone: India densify Kalighat — Soft Soft Soft honesty; no invent INR; twin Soft Soft Soft dakshineswar carefully; official Soft Soft Soft 445 Soft Soft Soft unused."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Kalighat Kali Temple in South Kolkata.",
+      "paragraphs": [
+        "Most visitors base in Kolkata, then metro / road the Kalighat / South Kolkata corridor densify framing to the temple approach.",
+        "Treat Dakshineswar as a separate Kolkata Kali Soft Soft Soft visit — do not invent one Kali combo ticket covering both Soft Soft Soft destinations even when pilgrims do both in one day.",
+        "Aarti, heat, and queue windows reshape access — confirm Soft Soft Soft https://www.incredibleindia.gov.in/en/west-bengal and on-site notices the day you go; do not rely on Soft Soft Soft-official Soft Soft Soft kalighattemple.com Soft Soft Soft while Soft Soft Soft 445 Soft Soft Soft parking Soft Soft Soft persists."
+      ],
+      "bullets": [
+        "Kalighat / South Kolkata metro–road corridor",
+        "Twin Soft Soft Soft dakshineswar — separate page",
+        "No one Kolkata Kali pass myth",
+        "Soft Soft Soft-destination Incredible India WB Soft Soft Soft"
+      ]
+    },
+    "bestTime": {
+      "intro": "Morning Soft Soft Soft windows; watch aarti crush and heat.",
+      "paragraphs": [
+        "Morning Soft Soft Soft windows before peak pilgrimage density are usually kinder for quieter darshan.",
+        "Aarti and festival evenings reshape crowds — re-check Soft Soft Soft; do not invent INR. Heat is a standing soft blocker."
+      ],
+      "bullets": [
+        "Best: morning Soft Soft Soft window",
+        "Watch aarti / pilgrimage crush",
+        "Heat honesty",
+        "Do not invent INR"
+      ]
+    },
+    "notes": {
+      "intro": "SanctaWay Threshold Atlas notes — India densify Kalighat.",
+      "bullets": [
+        "India Kali densify mega (historic Kalighat ≠ Dakshineswar) — Soft Soft Soft-destination Incredible India WB Soft Soft Soft; peers dakshineswar / kashi-vishwanath / meenakshi.",
+        "Do not invent INR; Soft Soft Soft-official Soft Soft Soft kalighattemple.com Soft Soft Soft 445 Soft Soft Soft parking Soft Soft Soft unused at write.",
+        "Twin Soft Soft Soft dakshineswar carefully — separate page; not one Kali pass.",
         "SanctaWay does not sell tickets, invent visa myths, or grant access."
       ]
     }

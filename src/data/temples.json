@@ -7131,7 +7131,7 @@
     "related": [
       "kiyomizu-dera",
       "senso-ji",
-      "horyu-ji"
+      "ginkaku-ji"
     ],
     "overview": {
       "body": [
@@ -35344,7 +35344,7 @@
     "related": [
       "todai-ji",
       "kinkaku-ji",
-      "horyu-ji"
+      "ginkaku-ji"
     ],
     "overview": {
       "body": [
@@ -37024,7 +37024,7 @@
     "related": [
       "todai-ji",
       "byodo-in",
-      "kinkaku-ji"
+      "ginkaku-ji"
     ],
     "overview": {
       "body": [
@@ -37890,6 +37890,121 @@
         "Do not invent INR; Soft Soft Soft-official Soft Soft Soft kalighattemple.com Soft Soft Soft 445 Soft Soft Soft parking Soft Soft Soft unused at write.",
         "Twin Soft Soft Soft dakshineswar carefully — separate page; not one Kali pass.",
         "SanctaWay does not sell tickets, invent visa myths, or grant access."
+      ]
+    }
+  },
+  {
+    "id": "ginkaku-ji",
+    "name": "Ginkaku-ji (Silver Pavilion / Higashiyama Jishō-ji), Kyoto",
+    "shortName": "Ginkaku-ji",
+    "location": "Sakyo-ku, Kyoto (Higashiyama / Philosopher’s Path corridor)",
+    "country": "Japan",
+    "region": "East Asia",
+    "regionSlug": "east-asia",
+    "religions": [
+      "Buddhist"
+    ],
+    "religionSlugs": [
+      "buddhist"
+    ],
+    "summary": "Rinzai Zen Silver Pavilion gardens in eastern Kyoto — Shōkoku-ji lineage, UNESCO Ancient Kyoto. Separate site and admission from Kinkaku-ji. Soft Soft Soft official shokoku-ji.jp ginkakuji Access for hours and fees.",
+    "heroImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Ginkaku-ji_%28Silver_pavilion%29.jpg/1920px-Ginkaku-ji_%28Silver_pavilion%29.jpg",
+    "heroCredit": "Marie-Sophie Mejan / Wikimedia Commons",
+    "featured": false,
+    "quickFacts": {
+      "founded": "Ashikaga Yoshimasa’s Higashiyama villa; became Higashiyama Jishō-ji (Ginkaku-ji) of the Shōkoku-ji Rinzai lineage",
+      "patron": "Rinzai Zen (Shōkoku-ji school) — Silver Pavilion / Kannonden gardens",
+      "unesco": "Part of UNESCO Historic Monuments of Ancient Kyoto (site 688)",
+      "typicalVisit": "About 30 minutes on the published garden circuit (official FAQ); add queue and hillside-overlook buffer"
+    },
+    "related": [
+      "kinkaku-ji",
+      "kiyomizu-dera",
+      "byodo-in"
+    ],
+    "overview": {
+      "body": [
+        "Ginkaku-ji — formally Higashiyama Jishō-ji, often called the Silver Pavilion — is a Rinzai Zen temple in Sakyo-ku, Kyoto, of the Shōkoku-ji lineage. It sits in the UNESCO Historic Monuments of Ancient Kyoto (site 688). Visitors come for moss and sand gardens, the bamboo-lined approach, and the hillside path overlooking the pavilion and eastern Kyoto — not for a gold-leaf spectacle like Kinkaku-ji.",
+        "Ginkaku-ji and Kinkaku-ji are sister Shōkoku-ji-group temples with separate gates and separate admissions. On ordinary days you visit the gardens; the Kannonden (the pavilion itself) is not open to the public. Selected buildings such as the Tōgudō, Hōjō, and Roseitei open only during special spring and autumn viewings — verify the official FAQ.",
+        "Hours are seasonal: summer (1 March – 30 November) 8:30 a.m. – 5:00 p.m.; winter (1 December – 28 February) 9:00 a.m. – 4:30 p.m. Open all year round. Admission hours may change for special exhibitions. Official FAQ departure guidance is about 5:20 p.m. in summer and about 4:50 p.m. in winter — arrive with margin.",
+        "Paid admission at the gate per official Access: General 1,000 yen; primary and middle school students 500 yen. No group discount. Fees may change for special exhibitions. Soft Soft Soft CTA is the temple’s own Access page — SanctaWay does not sell tickets and does not invent third-party booking URLs.",
+        "SanctaWay is informational. Re-check https://www.shokoku-ji.jp/en/ginkakuji/access/ and the FAQ before travel; combine with the Philosopher’s Path only if daylight and legs allow — that is a neighbourhood tip, not a temple package."
+      ],
+      "highlights": [
+        "Rinzai Zen Silver Pavilion — gardens on ordinary days; pavilion interior not public",
+        "Summer 8:30–17:00 / winter 9:00–16:30 — verify shokoku-ji.jp",
+        "Gate admission: General 1,000 yen; primary·middle school 500 yen",
+        "Separate site and ticket from Kinkaku-ji",
+        "UNESCO Historic Monuments of Ancient Kyoto"
+      ]
+    },
+    "visit": {
+      "intro": "Active Zen temple; paid gate admission; gardens on ordinary days — Soft Soft Soft official Access.",
+      "hours": "Summer (1 March – 30 November): 8:30 a.m. – 5:00 p.m. Winter (1 December – 28 February): 9:00 a.m. – 4:30 p.m. Open all year round. Hours may change for special exhibitions — verify shokoku-ji.jp EN Access / FAQ. FAQ departure ~5:20 p.m. summer / ~4:50 p.m. winter.",
+      "tickets": "Paid admission at the gate. Official Access: General 1,000 yen; primary and middle school students 500 yen. No group discount. Fees may change for special exhibitions. Soft Soft Soft official: shokoku-ji.jp EN ginkakuji Access. SanctaWay does not sell tickets and does not invent booking URLs.",
+      "dress": "Modest outdoor clothes for garden walking. Quiet demeanour on an active Zen path; do not expect indoor hall access on a normal day.",
+      "duration": "Official FAQ: about 30 minutes for the garden circuit. Add buffer for bus-stop walk, queues, photos, and the hillside overlook.",
+      "access": "Garden paths; wheelchair possible on much of the route with some scenic spots excepted (grounds map). Accessible toilet next to the gift shop. Pets only if carried or in a carrier. No Wi-Fi on the grounds.",
+      "tips": [
+        "Use shokoku-ji.jp EN ginkakuji Access / FAQ only for official hours and fees.",
+        "Budget General 1,000 yen (or 500 yen primary/middle school) unless a special exhibition notice says otherwise.",
+        "City Bus to Ginkakuji-michi or Ginkakuji-mae — confirm route numbers on the day.",
+        "Gardens only on ordinary days; Kannonden is not open to the public.",
+        "Separate admissions from Kinkaku-ji — do not treat them as one ticket.",
+        "Jōtenkaku Museum is a separate Shōkoku-ji group site — check its own pages.",
+        "Arrive with margin before last entry / departure times."
+      ],
+      "entryType": "paid",
+      "ticketsUrl": "https://www.shokoku-ji.jp/en/ginkakuji/access/",
+      "ticketsLabel": "Ginkaku-ji official access & admission (Shōkoku-ji)",
+      "ticketsNote": "Gate admission — General 1,000 yen; primary and middle school 500 yen per official Access (verified). Fees may change for special exhibitions. Soft Soft Soft official Access only; no invented e-ticket CTA."
+    },
+    "etiquette": {
+      "intro": "Active Rinzai Zen temple — quiet gardens, working temple first.",
+      "bullets": [
+        "Dress modestly; keep voices low — not a theme park.",
+        "Follow photo signs; do not block the path for portraits.",
+        "Do not expect indoor hall access on a normal day.",
+        "Observe last-entry and departure times so staff can close on schedule.",
+        "Stay on paths; follow posted signs and staff direction.",
+        "Treat the site as a functioning Zen temple first."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Ginkaku-ji from central Kyoto.",
+      "paragraphs": [
+        "Address (official English spelling): 2 Ginakuji-cho, Sakyo-ku, Kyoto 606-8402 Japan. Temple office (Japanese only): 075-771-5725. Source: official Access.",
+        "Kyoto City Bus is the practical default. Official Access lists Ginkakuji-michi (City Bus No. 5, 7, 32, 102, 203, 204) and Ginkakuji-mae (EX100, 105). From the stop, follow signs to the gate; allow a short uphill walk on busy days. Route numbers can change — confirm on the day.",
+        "From other Shōkoku-ji group sites (official): Shokoku-ji — board Doshisha-mae, alight Ginkakuji-michi (102, 203); Kinkaku-ji — board Kinkakuji-michi, alight Ginkakuji-michi (102, 204). Eastern Kyoto / Philosopher’s Path neighbourhood; taxi from Kyoto Station works but can be slow in peak traffic. Official Access notes parking aimed mainly at tour buses and taxis; prefer bus or taxi if unsure."
+      ],
+      "bullets": [
+        "City Bus → Ginkakuji-michi / Ginkakuji-mae",
+        "Short walk uphill to the gate",
+        "Confirm bus route numbers on the day",
+        "Separate stop and ticket from Kinkaku-ji"
+      ]
+    },
+    "bestTime": {
+      "intro": "Weekday mornings calmer; spring and autumn densest for foliage.",
+      "paragraphs": [
+        "Weekday mornings are usually calmer. Spring and autumn are busiest for foliage and photography — leave extra time for the gate queue. Official FAQ: a typical visit is about 30 minutes; linger longer only if you want more garden photos and the hillside overlook.",
+        "Respect seasonal closing windows. Summer last admission aligns with 5:00 p.m.; winter enter until 4:30 p.m. Do not treat last entry as a full garden circuit."
+      ],
+      "bullets": [
+        "Weekday morning for thinner queues",
+        "Spring / autumn = peak beauty + crowds",
+        "~30 minutes typical garden circuit",
+        "Arrive with margin before last entry"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm hours and admission on shokoku-ji.jp EN ginkakuji Access / FAQ.",
+        "General 1,000 yen; primary and middle school 500 yen — official Access; may change for special exhibitions.",
+        "Silver Pavilion ≠ Golden Pavilion — separate sites, separate admissions.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero: Marie-Sophie Mejan photographic of Ginkaku-ji / Wikimedia Commons."
       ]
     }
   }

@@ -372,7 +372,7 @@
     "related": [
       "meiji-shrine",
       "senso-ji",
-      "horyu-ji"
+      "yakushi-ji"
     ],
     "overview": {
       "body": [
@@ -2776,7 +2776,7 @@
     "related": [
       "meenakshi",
       "golden-temple",
-      "dakshineswar"
+      "vaishno-devi"
     ],
     "overview": {
       "body": [
@@ -4843,7 +4843,7 @@
     "related": [
       "blue-mosque",
       "hagia-sophia",
-      "al-qarawiyyin"
+      "moulay-idriss"
     ],
     "overview": {
       "body": [
@@ -7017,7 +7017,7 @@
     "related": [
       "golden-temple",
       "kashi-vishwanath",
-      "ajmer-sharif"
+      "fatehpur-sikri"
     ],
     "overview": {
       "body": [
@@ -7131,7 +7131,7 @@
     "related": [
       "kiyomizu-dera",
       "senso-ji",
-      "ginkaku-ji"
+      "tenryu-ji"
     ],
     "overview": {
       "body": [
@@ -7699,7 +7699,7 @@
     "related": [
       "todai-ji",
       "kinkaku-ji",
-      "seokguram"
+      "songgwangsa"
     ],
     "overview": {
       "body": [
@@ -8040,7 +8040,7 @@
     "related": [
       "meenakshi",
       "kashi-vishwanath",
-      "sabarimala"
+      "vaishno-devi"
     ],
     "overview": {
       "body": [
@@ -9624,7 +9624,7 @@
     "related": [
       "bulguksa",
       "todai-ji",
-      "seokguram"
+      "songgwangsa"
     ],
     "overview": {
       "body": [
@@ -12431,7 +12431,7 @@
     "related": [
       "taj-mahal",
       "sheikh-zayed-grand-mosque",
-      "sixty-dome-mosque"
+      "fatehpur-sikri"
     ],
     "overview": {
       "body": [
@@ -15912,7 +15912,7 @@
     "related": [
       "meenakshi",
       "brihadeeswarar",
-      "somnath"
+      "dwarkadhish"
     ],
     "overview": {
       "body": [
@@ -21225,7 +21225,7 @@
     "related": [
       "jama-masjid",
       "taj-mahal",
-      "golden-temple"
+      "fatehpur-sikri"
     ],
     "overview": {
       "body": [
@@ -22015,7 +22015,7 @@
     "related": [
       "guadalupe",
       "aparecida",
-      "manila-cathedral"
+      "san-agustin"
     ],
     "overview": {
       "body": [
@@ -32656,7 +32656,7 @@
     "related": [
       "quiapo-church",
       "immaculate-conception-cathedral-dili",
-      "manila-cathedral"
+      "san-agustin"
     ],
     "overview": {
       "body": [
@@ -33440,7 +33440,7 @@
     "related": [
       "quiapo-church",
       "cebu-sto-nino",
-      "immaculate-conception-cathedral-dili"
+      "san-agustin"
     ],
     "overview": {
       "body": [
@@ -34896,7 +34896,7 @@
     "related": [
       "hassan-ii-mosque",
       "kairouan",
-      "al-qarawiyyin"
+      "moulay-idriss"
     ],
     "overview": {
       "body": [
@@ -35344,7 +35344,7 @@
     "related": [
       "todai-ji",
       "kinkaku-ji",
-      "ginkaku-ji"
+      "tenryu-ji"
     ],
     "overview": {
       "body": [
@@ -35680,7 +35680,7 @@
     "related": [
       "rameshwaram",
       "jagannath-puri",
-      "somnath"
+      "dwarkadhish"
     ],
     "overview": {
       "body": [
@@ -35792,7 +35792,7 @@
     "related": [
       "tirupati",
       "jagannath-puri",
-      "kedarnath"
+      "dwarkadhish"
     ],
     "overview": {
       "body": [
@@ -36688,7 +36688,7 @@
     "related": [
       "bulguksa",
       "haeinsa",
-      "jogyesa"
+      "songgwangsa"
     ],
     "overview": {
       "body": [
@@ -37024,7 +37024,7 @@
     "related": [
       "todai-ji",
       "byodo-in",
-      "ginkaku-ji"
+      "yakushi-ji"
     ],
     "overview": {
       "body": [
@@ -37136,7 +37136,7 @@
     "related": [
       "hassan-ii-mosque",
       "koutoubia",
-      "kairouan"
+      "moulay-idriss"
     ],
     "overview": {
       "body": [
@@ -37472,7 +37472,7 @@
     "related": [
       "kashi-vishwanath",
       "meenakshi",
-      "dakshineswar"
+      "vaishno-devi"
     ],
     "overview": {
       "body": [
@@ -37920,7 +37920,7 @@
     "related": [
       "kinkaku-ji",
       "kiyomizu-dera",
-      "byodo-in"
+      "tenryu-ji"
     ],
     "overview": {
       "body": [
@@ -38005,6 +38005,926 @@
         "Silver Pavilion ≠ Golden Pavilion — separate sites, separate admissions.",
         "SanctaWay is informational; it does not sell tickets or grant access.",
         "Hero: Marie-Sophie Mejan photographic of Ginkaku-ji / Wikimedia Commons."
+      ]
+    }
+  },
+  {
+    "id": "fatehpur-sikri",
+    "name": "Fatehpur Sikri, Agra",
+    "shortName": "Fatehpur Sikri",
+    "location": "Fatehpur Sikri, Agra district, Uttar Pradesh",
+    "country": "India",
+    "region": "South Asia",
+    "regionSlug": "south-asia",
+    "religions": [
+      "Islamic"
+    ],
+    "religionSlugs": [
+      "islamic"
+    ],
+    "summary": "UNESCO Mughal capital complex near Agra — India densify after the Taj mesh. Confirm precinct, mosque, and museum windows on UNESCO / Incredible India; do not invent INR or one Agra ticket covering Taj + Fatehpur.",
+    "heroImage": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash — Mughal / Agra corridor placeholder",
+    "featured": false,
+    "quickFacts": {
+      "founded": "Akbar’s planned capital (late 16th century); later largely abandoned as a working capital",
+      "patron": "Mughal imperial complex with Friday mosque precinct and palace courts",
+      "unesco": "UNESCO World Heritage — Fatehpur Sikri (site 255)",
+      "typicalVisit": "Half-day from Agra when heat and queues allow; verify precinct windows before you go"
+    },
+    "related": [
+      "taj-mahal",
+      "jama-masjid",
+      "ajmer-sharif"
+    ],
+    "overview": {
+      "body": [
+        "Fatehpur Sikri is Akbar’s planned Mughal capital on the ridge west of Agra — red sandstone courts, the Buland Darwaza approach, and an active mosque precinct inside a UNESCO World Heritage landscape (site 255). SanctaWay treats it as an India densify mega after the Taj mesh, not as a second Taj page.",
+        "Visitors come for palace courts, the Jama Masjid complex within the site, and the sense of a short-lived imperial city frozen in sandstone. Living prayer spaces and tourist courts sit side by side — follow posted shoe and photography rules in the mosque precinct.",
+        "Hours and ticket windows for the archaeological precinct, museum rooms, and mosque access can differ. Confirm the day you travel on UNESCO listing pages and Incredible India’s Fatehpur Sikri destination notes — SanctaWay does not invent INR fares or a fixed tourist timetable.",
+        "Agra corridor framing is useful: many travellers day-trip from Agra by road. Do not invent one Agra ticket that covers both the Taj Mahal and Fatehpur Sikri — they are separate sites with separate admissions when tickets apply.",
+        "SanctaWay is informational. Prefer the UNESCO clear CTA and Incredible India destination pages over OTAs; re-check heat, footwear, and prayer-time courtesy before you go."
+      ],
+      "highlights": [
+        "UNESCO Mughal capital complex (site 255) near Agra",
+        "Palace courts + mosque precinct — follow posted rules",
+        "Confirm hours and fees on UNESCO / Incredible India — no invented INR",
+        "Separate from Taj Mahal admission — no one Agra pass myth",
+        "Heat honesty on the ridge; carry water and modest cover"
+      ]
+    },
+    "visit": {
+      "intro": "UNESCO heritage / mosque precinct tourism — confirm hours and tickets on UNESCO and Incredible India; do not invent INR.",
+      "hours": "Historic Mughal / UNESCO tourism — precinct, mosque, and museum windows can differ by season and prayer needs. Confirm published hours on UNESCO list 255 and Incredible India’s Fatehpur Sikri page the day you go. Do not invent a fixed tourist timetable.",
+      "tickets": "Verify archaeological / monument tickets and any mosque-precinct rules on official or destination pages. Clear CTA: UNESCO https://whc.unesco.org/en/list/255/ (Incredible India Fatehpur Sikri secondary). Prefer those over OTAs. Do not invent INR. Taj Mahal remains a separate ticket.",
+      "dress": "Covered shoulders and knees for the mosque precinct; shoes off where posted; quiet voices; photography as posted; heat kit for the open courts.",
+      "duration": "About 2–4 hours on site when heat and queues allow; add Agra road buffer for a half-day loop.",
+      "access": "Ridge courts with steps and uneven sandstone; heat reshapes mid-day visits. Wheelchair / stroller honesty varies by court — ask on site and prefer cooler hours.",
+      "tips": [
+        "Use UNESCO list 255 / Incredible India for clear hours and ticket posture — do not invent INR.",
+        "Treat Taj Mahal as a separate site and ticket.",
+        "Carry water, sun cover, and modest clothes for the mosque precinct.",
+        "Shoes off and quiet where prayer is active.",
+        "Photography as posted; do not block prayer lanes for portraits.",
+        "Prefer morning or late-afternoon light over peak heat.",
+        "SanctaWay does not sell tickets or grant access."
+      ],
+      "entryType": "soft-home",
+      "ticketsUrl": "https://whc.unesco.org/en/list/255/",
+      "ticketsLabel": "UNESCO Fatehpur Sikri (site 255) — confirm hours & tickets",
+      "ticketsNote": "Soft-home UNESCO CTA; Incredible India Fatehpur Sikri secondary. Verify fares on official/ASI or destination pages — do not invent INR. Prefer UNESCO / Incredible India over OTAs."
+    },
+    "etiquette": {
+      "intro": "Active heritage with a working mosque precinct — courtesy first.",
+      "bullets": [
+        "Cover shoulders and knees; carry a scarf if unsure.",
+        "Remove shoes where posted; keep bags neat at shoe racks.",
+        "Keep voices low near prayer; do not walk through rows of worshippers.",
+        "Follow photography signs; no flash where banned.",
+        "Stay off fragile sandstone edges and closed chambers.",
+        "Treat staff direction as final on busy prayer days."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Fatehpur Sikri from the Agra corridor.",
+      "paragraphs": [
+        "Most travellers approach by road from Agra along the Fatehpur corridor. Allow traffic and heat buffer; confirm driver / bus return windows before you leave the city.",
+        "Pairing with the Taj Mahal is common as two Agra-area stops on different tickets and different gates — plan sequence around heat and mosque prayer courtesy, not a fictional combined pass.",
+        "Local taxis, hired cars, and some day tours advertise the ridge; re-check pickup points the morning you go. Rail travellers usually change in Agra first rather than expecting a station at the palace gate."
+      ],
+      "bullets": [
+        "Road from Agra is the practical default",
+        "Separate stop and ticket from the Taj Mahal",
+        "Confirm return transport before midday heat",
+        "Ask drivers about shoe / bag stops at the mosque gate"
+      ]
+    },
+    "bestTime": {
+      "intro": "Cooler hours and clearer winter light beat summer midday heat.",
+      "paragraphs": [
+        "Early morning and late afternoon are kinder on open sandstone. Winter months are popular for cooler walking; festival and weekend crowds thicken queues at the main courts.",
+        "Respect prayer windows in the mosque precinct — a quieter court visit can still mean a paused camera and covered shoulders."
+      ],
+      "bullets": [
+        "Morning / late afternoon for heat relief",
+        "Winter walking is usually easier than peak summer",
+        "Weekdays calmer than weekend tour surges",
+        "Build prayer-time courtesy into the plan"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm hours and tickets via UNESCO list 255 and Incredible India — no invented INR.",
+        "Mosque precinct rules can differ from palace-court tourism — follow posted signs.",
+        "Taj Mahal is a separate SanctaWay page and a separate admission.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero: Unsplash Agra / Mughal corridor placeholder — visual pass later."
+      ]
+    }
+  },
+  {
+    "id": "vaishno-devi",
+    "name": "Mata Vaishno Devi, Katra",
+    "shortName": "Vaishno Devi",
+    "location": "Trikuta Hills / Katra, Reasi district, Jammu & Kashmir",
+    "country": "India",
+    "region": "South Asia",
+    "regionSlug": "south-asia",
+    "religions": [
+      "Hindu"
+    ],
+    "religionSlugs": [
+      "hindu"
+    ],
+    "summary": "Premier Himalayan Devi pilgrimage above Katra — India densify. Confirm darshan, yatra, and seasonal windows on the official board site maavaishnodevi.org; do not invent INR.",
+    "heroImage": "https://images.unsplash.com/photo-1605649487212-47bdab064df7?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash — Himalayan pilgrimage corridor placeholder",
+    "featured": false,
+    "quickFacts": {
+      "founded": "Ancient Devi shrine tradition on Trikuta; modern yatra managed under the shrine board",
+      "patron": "Vaishno Devi / Mata Rani pilgrimage",
+      "unesco": "Not a UNESCO World Heritage temple listing — working pilgrimage destination",
+      "typicalVisit": "Full yatra day from Katra when weather and queue windows allow; verify board notices"
+    },
+    "related": [
+      "kashi-vishwanath",
+      "kamakhya",
+      "tirupati"
+    ],
+    "overview": {
+      "body": [
+        "Mata Vaishno Devi is one of India’s major Himalayan Devi pilgrimages, approached from Katra on the Trikuta hills. SanctaWay frames it as an India densify mega — working darshan and yatra logistics first, not a casual sightseeing stop.",
+        "Pilgrims walk, take ponies, or use posted mechanised / helicopter options when those services run. Weather, crowd control, and board notices reshape the day more than any guidebook timetable.",
+        "Confirm registration, darshan, and seasonal advisories on the official shrine board site https://www.maavaishnodevi.org/ — that is the clear CTA. SanctaWay does not invent INR fares, helicopter rates, or a fixed yatra clock.",
+        "Dress for cold wind, long queues, and modest temple approach. Photography and shoe rules follow posted signs near the sanctum; mountain honesty matters more than packing light for Instagram.",
+        "SanctaWay is informational. Prefer the official board over OTAs; do not invent one Jammu & Kashmir ticket covering Amarnath or other Himalayan yatras."
+      ],
+      "highlights": [
+        "Major Himalayan Devi yatra from Katra",
+        "Official board CTA: maavaishnodevi.org",
+        "Confirm darshan / seasonal / weather windows — no invented INR",
+        "Mountain cold, crowd, and altitude honesty",
+        "Separate from other J&K yatras — no combined pass myth"
+      ]
+    },
+    "visit": {
+      "intro": "Working Hindu pilgrimage — confirm darshan and yatra windows on maavaishnodevi.org; do not invent INR.",
+      "hours": "Working pilgrimage — darshan, yatra track, and seasonal / weather windows reshape access. Confirm published notices on https://www.maavaishnodevi.org/ the day you travel. Do not invent a fixed tourist timetable.",
+      "tickets": "Verify yatra registration, darshan, and any paid services (when offered) only on the official board site. Clear CTA: https://www.maavaishnodevi.org/. Prefer official over OTAs. Do not invent INR or helicopter fares.",
+      "dress": "Modest pilgrimage dress; warm layers for altitude and night returns; shoes as posted near the sanctum; quiet during darshan.",
+      "duration": "A full yatra day from Katra is common; add buffer for queues, weather holds, and return light.",
+      "access": "Steep track and crowd-control gates; mobility varies by service day. Helicopter / battery / pony options exist only when posted — verify, do not assume.",
+      "tips": [
+        "Use maavaishnodevi.org only for official registration and notices — do not invent INR.",
+        "Pack cold-weather layers even in shoulder seasons.",
+        "Modest dress; follow shoe and photography signs near the sanctum.",
+        "Start early enough for return daylight unless the board says otherwise.",
+        "Treat Amarnath and other yatras as separate logistics.",
+        "Prefer official board channels over scalpers.",
+        "SanctaWay does not sell tickets or grant access."
+      ],
+      "entryType": "soft-official",
+      "ticketsUrl": "https://www.maavaishnodevi.org/",
+      "ticketsLabel": "Mata Vaishno Devi official shrine board",
+      "ticketsNote": "Soft-official primary (browser-UA 200 at write; simple bot UA may see 403). Verify registration and any fees on the official board — do not invent INR. Prefer official over OTAs."
+    },
+    "etiquette": {
+      "intro": "Active Devi pilgrimage — queue patience and modest dress.",
+      "bullets": [
+        "Dress modestly; keep voices low in darshan lines.",
+        "Follow shoe and bag rules as posted near the sanctum.",
+        "Photography only where allowed — never force a shot in the queue.",
+        "Do not push past elderly or family groups on the track.",
+        "Obey police and board crowd-control directions.",
+        "Treat the mountain path as sacred working ground, not a trail race."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach the Vaishno Devi yatra from Katra.",
+      "paragraphs": [
+        "Katra is the base town. Most travellers reach Katra by road or rail via the Jammu corridor, then begin the yatra from posted gates after any required registration.",
+        "Helicopter and other mechanised segments run only when the board and operators publish them — confirm on the official site rather than assuming a same-day seat.",
+        "Do not invent one Jammu & Kashmir pass covering Amarnath densify; plan Vaishno Devi as its own logistics day with weather buffer."
+      ],
+      "bullets": [
+        "Katra base → posted yatra gates",
+        "Jammu corridor road / rail common approach",
+        "Confirm helicopter / battery services only when posted",
+        "Build weather and queue buffer into return plans"
+      ]
+    },
+    "bestTime": {
+      "intro": "Clear-weather windows beat festival crush when your legs allow.",
+      "paragraphs": [
+        "Shoulder seasons with stable weather are easier for first-time walkers. Peak festival periods bring denser queues and tighter crowd control — read board advisories.",
+        "Winter can mean ice, cold wind, and shorter comfortable daylight — pack accordingly and verify track notices."
+      ],
+      "bullets": [
+        "Check board weather / track advisories first",
+        "Festival peaks = longer queues",
+        "Winter = cold kit mandatory",
+        "Start early for calmer track segments"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm registration and darshan on maavaishnodevi.org — no invented INR.",
+        "Mountain weather can close or slow the yatra without guidebook warning.",
+        "Other Himalayan yatras are separate SanctaWay / logistics stories.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero: Unsplash Himalayan corridor placeholder — visual pass later."
+      ]
+    }
+  },
+  {
+    "id": "dwarkadhish",
+    "name": "Dwarkadhish Temple, Dwarka",
+    "shortName": "Dwarkadhish",
+    "location": "Dwarka, Devbhumi Dwarka district, Gujarat",
+    "country": "India",
+    "region": "South Asia",
+    "regionSlug": "south-asia",
+    "religions": [
+      "Hindu"
+    ],
+    "religionSlugs": [
+      "hindu"
+    ],
+    "summary": "Char Dham Krishna temple on the Gujarat coast — India densify after Kedarnath / Badrinath / Rameshwaram. Confirm darshan and aarti on dwarkadhish.org; do not invent INR. Separate page from Somnath.",
+    "heroImage": "https://images.unsplash.com/photo-1582510003544-4d00bce9d6cc?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash — Indian temple corridor placeholder",
+    "featured": false,
+    "quickFacts": {
+      "founded": "Ancient Krishna / Dwarka temple tradition on the Gujarat coast; living Char Dham pilgrimage site",
+      "patron": "Dwarkadhish / Krishna",
+      "unesco": "Not framed here as a UNESCO monument page — working pilgrimage temple",
+      "typicalVisit": "1–2 hours darshan + waterfront buffer when queues allow; verify aarti windows"
+    },
+    "related": [
+      "rameshwaram",
+      "kedarnath",
+      "badrinath"
+    ],
+    "overview": {
+      "body": [
+        "Dwarkadhish Temple in Dwarka is a major Krishna pilgrimage on Gujarat’s coast and one of the Char Dham pillars many travellers mesh with Rameshwaram, Kedarnath, and Badrinath. SanctaWay keeps it as its own page — not a Somnath Jyotirlinga twin.",
+        "The old town lanes, temple shikhara, and evening aarti energy draw pilgrims year-round. Heat, coastal humidity, and festival calendars reshape queues more than any single guidebook hour.",
+        "Confirm darshan, aarti, and visitor notices on the official temple site https://www.dwarkadhish.org/ — the clear CTA. SanctaWay does not invent INR, VIP-lane prices, or a fixed tourist timetable.",
+        "Modest dress, shoes off, and photography as posted remain the baseline. Pair Char Dham peers for itinerary inspiration only — there is no invented one Char Dham pass covering all four.",
+        "SanctaWay is informational. Prefer the official temple site over OTAs; re-check festival closures before you travel."
+      ],
+      "highlights": [
+        "Char Dham Krishna temple in coastal Dwarka",
+        "Official CTA: dwarkadhish.org",
+        "Confirm darshan / aarti — no invented INR",
+        "Separate from Somnath (Jyotirlinga peer page)",
+        "Coastal heat and festival-queue honesty"
+      ]
+    },
+    "visit": {
+      "intro": "Working Krishna / Char Dham pilgrimage — confirm darshan on dwarkadhish.org; do not invent INR.",
+      "hours": "Working temple — darshan, aarti, and festival windows reshape access. Confirm published notices on https://www.dwarkadhish.org/ the day you go. Do not invent a fixed tourist timetable.",
+      "tickets": "Verify darshan / special-entry rules only via the official temple site. Clear CTA: https://www.dwarkadhish.org/. Incredible India secondary OK for destination context. Prefer official over OTAs. Do not invent INR.",
+      "dress": "Modest Hindu pilgrimage dress; shoes off in the temple; quiet during aarti; photography as posted; coastal heat kit.",
+      "duration": "About 60–120 minutes for darshan and lanes when queues are moderate; add aarti buffer if you stay for evening rites.",
+      "access": "Old-town lanes and temple thresholds; crowd pressure on festival days. Mobility varies — ask stewards if you need assistance routes.",
+      "tips": [
+        "Use dwarkadhish.org for official notices — do not invent INR.",
+        "Somnath is a separate SanctaWay page — no combined Gujarat pass myth.",
+        "Modest dress; shoes off; quiet during aarti.",
+        "Photography as posted only.",
+        "Carry water and sun cover for coastal heat.",
+        "Mesh Char Dham peers for itinerary only — separate logistics each.",
+        "SanctaWay does not sell tickets or grant access."
+      ],
+      "entryType": "soft-official",
+      "ticketsUrl": "https://www.dwarkadhish.org/",
+      "ticketsLabel": "Dwarkadhish Temple official site",
+      "ticketsNote": "Soft-official primary. Verify darshan and any fees on the official site — do not invent INR. Prefer official over OTAs. ≠ Somnath."
+    },
+    "etiquette": {
+      "intro": "Active Krishna temple — aarti courtesy and modest dress.",
+      "bullets": [
+        "Cover shoulders and legs; remove shoes where posted.",
+        "Keep voices low in the sanctum queue.",
+        "Do not block aarti sightlines for photos.",
+        "Follow priest and volunteer directions on festival days.",
+        "Avoid touching sacred objects unless invited.",
+        "Treat the temple as working worship first."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Dwarkadhish from the Gujarat coast corridor.",
+      "paragraphs": [
+        "Dwarka connects by rail and road through the Gujarat network; many travellers stage via Ahmedabad or Jamnagar before the final coastal leg.",
+        "From Dwarka station or bus stands, local autos and short walks reach the old-town temple lanes — confirm drop points that respect temple vehicle limits.",
+        "Char Dham peers (Rameshwaram, Kedarnath, Badrinath) are separate journeys; do not invent one pass covering the set."
+      ],
+      "bullets": [
+        "Rail / road via Ahmedabad or Jamnagar common",
+        "Short local hop into old-town lanes",
+        "Confirm festival traffic holds",
+        "Separate logistics from Somnath and other Char Dham stops"
+      ]
+    },
+    "bestTime": {
+      "intro": "Cooler months and non-festival weekdays ease coastal queues.",
+      "paragraphs": [
+        "Winter and early spring are popular for milder coastal walking. Peak festival periods bring denser darshan lines — arrive with patience.",
+        "Summer heat and humidity are real; schedule darshan earlier in the day when notices allow."
+      ],
+      "bullets": [
+        "Cooler months for easier walking",
+        "Weekdays calmer than festival peaks",
+        "Morning darshan often kinder in heat",
+        "Verify aarti timing the same day"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm darshan and aarti on dwarkadhish.org — no invented INR.",
+        "Somnath is a separate Jyotirlinga page — mesh carefully.",
+        "Char Dham peers are separate SanctaWay pages and separate trips.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero: Unsplash temple corridor placeholder — visual pass later."
+      ]
+    }
+  },
+  {
+    "id": "tenryu-ji",
+    "name": "Tenryū-ji, Arashiyama, Kyoto",
+    "shortName": "Tenryū-ji",
+    "location": "Arashiyama, Ukyo-ku, Kyoto",
+    "country": "Japan",
+    "region": "East Asia",
+    "regionSlug": "east-asia",
+    "religions": [
+      "Buddhist"
+    ],
+    "religionSlugs": [
+      "buddhist"
+    ],
+    "summary": "Rinzai headquarters temple in Arashiyama with UNESCO Kyoto garden tourism — Japan densify after Kinkaku-ji / Ginkaku-ji. Confirm garden and hall windows on tenryuji.com/en; do not invent JPY. Separate admissions from Kinkaku and Ginkaku.",
+    "heroImage": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash — Kyoto temple / garden corridor placeholder",
+    "featured": false,
+    "quickFacts": {
+      "founded": "Founded in the 14th century as a Rinzai Zen temple in Arashiyama; long tied to Ashikaga patronage",
+      "patron": "Rinzai Zen — Tenryū-ji school headquarters",
+      "unesco": "Part of UNESCO Historic Monuments of Ancient Kyoto (site 688)",
+      "typicalVisit": "About 45–90 minutes for garden + hall areas when open; verify seasonal windows"
+    },
+    "related": [
+      "kinkaku-ji",
+      "ginkaku-ji",
+      "byodo-in"
+    ],
+    "overview": {
+      "body": [
+        "Tenryū-ji is the Rinzai Zen headquarters temple in Arashiyama, western Kyoto, and part of the UNESCO Historic Monuments of Ancient Kyoto (site 688). Visitors come for the Sogenchi garden borrowed scenery toward the hills, cloud-dragon ceilings when halls are open, and the bamboo-grove neighbourhood — not for a gold- or silver-pavilion spectacle.",
+        "It sits in the same broad Kyoto UNESCO family as Kinkaku-ji and Ginkaku-ji but is a separate gate with separate admission. SanctaWay keeps three distinct pages so itineraries stay honest.",
+        "Confirm garden, hall, and seasonal special-viewing windows on the official English site https://www.tenryuji.com/en/ — the clear CTA. SanctaWay does not invent JPY fares or a single Kyoto ticket covering Arashiyama + the Golden / Silver Pavilions.",
+        "Winter cold, autumn foliage crowds, and bamboo-path congestion reshape the day. Dress for outdoor garden walking and quiet Zen courtesy.",
+        "SanctaWay is informational. Prefer the official EN site (JP site secondary) and UNESCO Kyoto context over OTAs; re-check before travel."
+      ],
+      "highlights": [
+        "Rinzai headquarters temple — Arashiyama UNESCO garden",
+        "Official EN CTA: tenryuji.com/en",
+        "Confirm garden / hall hours — no invented JPY",
+        "Separate admissions from Kinkaku-ji and Ginkaku-ji",
+        "Part of UNESCO Historic Monuments of Ancient Kyoto"
+      ]
+    },
+    "visit": {
+      "intro": "Active Rinzai temple / garden tourism — confirm hours and fees on tenryuji.com/en; do not invent JPY.",
+      "hours": "Working Rinzai / UNESCO garden tourism — garden and hall windows can be seasonal. Confirm published hours on https://www.tenryuji.com/en/ the day you go. Do not invent a fixed tourist timetable.",
+      "tickets": "Verify garden and building tickets only on the official site. Clear CTA: https://www.tenryuji.com/en/ (JP https://www.tenryuji.com/ secondary; UNESCO Kyoto 688 context OK). Prefer official over OTAs. Do not invent JPY. Kinkaku-ji and Ginkaku-ji remain separate tickets.",
+      "dress": "Covered shoulders and knees for temple courtesy; quiet outdoor clothes for garden paths; winter layers when cold; photography as posted.",
+      "duration": "About 45–90 minutes for garden circuits when halls are open; add bamboo-grove and riverside buffer separately.",
+      "access": "Garden paths with some steps; Arashiyama crowds thicken approaches. Wheelchair honesty varies by garden section — check official access notes.",
+      "tips": [
+        "Use tenryuji.com/en for official hours and fees — do not invent JPY.",
+        "Separate tickets from Kinkaku-ji and Ginkaku-ji.",
+        "Arrive early for thinner garden paths in foliage season.",
+        "Quiet voices on active Zen grounds.",
+        "Bamboo grove and river are neighbourhood tips, not temple packages.",
+        "UNESCO Kyoto secondary context only — official temple site leads.",
+        "SanctaWay does not sell tickets or grant access."
+      ],
+      "entryType": "soft-official",
+      "ticketsUrl": "https://www.tenryuji.com/en/",
+      "ticketsLabel": "Tenryū-ji official English site",
+      "ticketsNote": "Soft-official EN primary. Verify garden/hall fees on the official site — do not invent JPY. Prefer official over OTAs. Separate from Kinkaku / Ginkaku admissions."
+    },
+    "etiquette": {
+      "intro": "Active Rinzai Zen temple — garden quiet and hall rules.",
+      "bullets": [
+        "Keep voices low; no running on garden paths.",
+        "Follow photography signs inside halls and at the dragon ceiling.",
+        "Stay on stepping stones and marked routes.",
+        "Remove hats in halls when posted.",
+        "Do not picnic on temple grounds.",
+        "Treat staff direction as final on crowded foliage days."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Tenryū-ji in Arashiyama.",
+      "paragraphs": [
+        "Arashiyama is west of central Kyoto. JR Sagano Line to Saga-Arashiyama, Randen tram, or Kyoto buses are common approaches — confirm the day’s route numbers and walking signs to the temple gate.",
+        "From the station area, follow signs through tourist streets to Tenryū-ji; allow time for bamboo-path congestion that is neighbourhood traffic, not a temple queue.",
+        "Pairing with Kinkaku-ji or Ginkaku-ji is an itinerary choice across town — separate tickets, separate transit legs, no invented one Kyoto pass."
+      ],
+      "bullets": [
+        "JR / Randen / bus into Arashiyama",
+        "Short signed walk to the temple gate",
+        "Bamboo grove congestion is separate from temple admission",
+        "Separate transit from Kinkaku / Ginkaku"
+      ]
+    },
+    "bestTime": {
+      "intro": "Weekday mornings calmer; autumn foliage densest.",
+      "paragraphs": [
+        "Weekday mornings usually mean thinner garden paths. Autumn colour and cherry season bring Arashiyama-wide crowds — leave margin for both temple and neighbourhood walking.",
+        "Winter visits are quieter but cold; verify hall heating is not assumed and dress for outdoor circuits."
+      ],
+      "bullets": [
+        "Weekday morning for calmer gardens",
+        "Autumn = peak beauty + Arashiyama crowds",
+        "Winter = quiet but cold kit",
+        "Arrive with margin before last entry"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm hours and fees on tenryuji.com/en — no invented JPY.",
+        "Kinkaku-ji and Ginkaku-ji are separate SanctaWay pages and separate admissions.",
+        "UNESCO Kyoto listing is context — official temple site leads for tickets.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero: Unsplash Kyoto garden placeholder — visual pass later."
+      ]
+    }
+  },
+  {
+    "id": "yakushi-ji",
+    "name": "Yakushi-ji, Nara",
+    "shortName": "Yakushi-ji",
+    "location": "Nishinokyo, Nara",
+    "country": "Japan",
+    "region": "East Asia",
+    "regionSlug": "east-asia",
+    "religions": [
+      "Buddhist"
+    ],
+    "religionSlugs": [
+      "buddhist"
+    ],
+    "summary": "Nara Buddhist headquarters temple in Nishinokyo — Japan densify after Hōryū-ji / Tōdai-ji. Confirm hall, museum, and pagoda windows on nara-yakushiji.com; do not invent JPY. Separate admissions from Tōdai-ji and Hōryū-ji.",
+    "heroImage": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash — Nara temple corridor placeholder",
+    "featured": false,
+    "quickFacts": {
+      "founded": "Founded in the late 7th century (Hakuho); later relocated with the capital to Nara’s Nishinokyo area",
+      "patron": "Hossō school headquarters — Medicine Buddha (Yakushi Nyorai)",
+      "unesco": "Part of UNESCO Historic Monuments of Ancient Nara (with related Nara monuments)",
+      "typicalVisit": "About 60–90 minutes for grounds and open halls; verify museum / pagoda windows"
+    },
+    "related": [
+      "horyu-ji",
+      "todai-ji",
+      "byodo-in"
+    ],
+    "overview": {
+      "body": [
+        "Yakushi-ji in Nishinokyo, Nara, is a historic Hossō headquarters temple dedicated to the Medicine Buddha. Travellers come for twin pagodas when open to view, painted halls, and a quieter Nara corridor west of the deer park — SanctaWay frames it as Japan densify after Hōryū-ji and Tōdai-ji, not a duplicate of either.",
+        "The temple sits in the broader Ancient Nara heritage story. Grounds, lecture halls, and museum rooms can have different windows — always verify the official site before you assume a pagoda climb or special exhibition is open.",
+        "Confirm hours and admission on https://www.nara-yakushiji.com/ (host may redirect to https://nara-yakushiji.com/) — the clear CTA. SanctaWay does not invent JPY or one Nara ticket covering Tōdai-ji + Hōryū-ji + Yakushi-ji.",
+        "Winter cold and summer heat both matter on open courtyards. Dress for outdoor walking between halls and keep voices low on active Buddhist grounds.",
+        "SanctaWay is informational. Prefer the official temple site (JNTO Nara secondary OK for city context) over OTAs; re-check before travel."
+      ],
+      "highlights": [
+        "Hossō headquarters — Medicine Buddha temple in Nishinokyo",
+        "Official CTA: nara-yakushiji.com",
+        "Confirm hall / museum / pagoda windows — no invented JPY",
+        "Separate admissions from Tōdai-ji and Hōryū-ji",
+        "Ancient Nara heritage corridor densify"
+      ]
+    },
+    "visit": {
+      "intro": "Active Buddhist headquarters tourism — confirm hours and fees on nara-yakushiji.com; do not invent JPY.",
+      "hours": "Working Buddhist temple — hall, museum, and pagoda windows can differ. Confirm published hours on https://www.nara-yakushiji.com/ (may redirect to nara-yakushiji.com) the day you go. Do not invent a fixed tourist timetable.",
+      "tickets": "Verify gate and museum tickets only on the official site. Clear CTA: https://www.nara-yakushiji.com/. Prefer official over OTAs. Do not invent JPY. Tōdai-ji and Hōryū-ji remain separate tickets.",
+      "dress": "Covered shoulders and knees; quiet outdoor clothes; winter layers when cold; photography as posted in halls.",
+      "duration": "About 60–90 minutes for grounds and open buildings; add museum time when exhibitions are on.",
+      "access": "Courtyard paths between halls; some steps. Nishinokyo is calmer than Nara Park but still watch tour-bus surges.",
+      "tips": [
+        "Use nara-yakushiji.com for official hours and fees — do not invent JPY.",
+        "Separate tickets from Tōdai-ji and Hōryū-ji.",
+        "Confirm pagoda / special hall openings the same day.",
+        "Quiet voices on active temple grounds.",
+        "Kintetsu / bus into Nishinokyo — confirm stops on the day.",
+        "JNTO Nara pages are city context only — temple site leads for tickets.",
+        "SanctaWay does not sell tickets or grant access."
+      ],
+      "entryType": "soft-official",
+      "ticketsUrl": "https://www.nara-yakushiji.com/",
+      "ticketsLabel": "Yakushi-ji official site",
+      "ticketsNote": "Soft-official primary (www host may redirect to nara-yakushiji.com). Verify fees on the official site — do not invent JPY. Prefer official over OTAs. Separate from Tōdai-ji / Hōryū-ji."
+    },
+    "etiquette": {
+      "intro": "Active Buddhist temple — hall quiet and courtyard courtesy.",
+      "bullets": [
+        "Keep voices low inside halls.",
+        "Follow photography signs; no flash where banned.",
+        "Stay off restricted altar platforms.",
+        "Remove hats in halls when posted.",
+        "Do not eat on inner precinct paths.",
+        "Treat monks and staff direction as final."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Yakushi-ji in Nishinokyo, Nara.",
+      "paragraphs": [
+        "Nishinokyo sits west of central Nara. Kintetsu lines and local buses are the usual approaches — confirm the day’s stop names for Yakushi-ji / Nishinokyo rather than assuming a Nara Park drop-off.",
+        "From central Nara or Kintetsu Nara, plan a separate transit leg; do not invent one walking loop that casually includes Tōdai-ji, Hōryū-ji, and Yakushi-ji in a single ticketed visit.",
+        "Taxis work when buses are sparse; ask for Yakushi-ji in Nishinokyo to avoid confusion with other Yakushi-named sites."
+      ],
+      "bullets": [
+        "Kintetsu / bus to Nishinokyo",
+        "Separate transit from Nara Park / Tōdai-ji",
+        "Confirm stop names on the day",
+        "Hōryū-ji is another separate corridor and ticket"
+      ]
+    },
+    "bestTime": {
+      "intro": "Weekdays calmer; verify special openings in spring and autumn.",
+      "paragraphs": [
+        "Weekday mornings are usually quieter in Nishinokyo. Spring and autumn may bring special viewings — confirm on the official site rather than assuming year-round hall access.",
+        "Winter is colder on open courtyards; summer heat reflects off gravel — carry water and plan shade breaks."
+      ],
+      "bullets": [
+        "Weekday morning for thinner paths",
+        "Verify seasonal special viewings",
+        "Winter = cold courtyard kit",
+        "Do not rush last-entry times"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm hours and fees on nara-yakushiji.com — no invented JPY.",
+        "www host may redirect to nara-yakushiji.com — same official property.",
+        "Tōdai-ji and Hōryū-ji are separate SanctaWay pages and separate admissions.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero: Unsplash Nara corridor placeholder — visual pass later."
+      ]
+    }
+  },
+  {
+    "id": "san-agustin",
+    "name": "San Agustin Church, Intramuros, Manila",
+    "shortName": "San Agustin",
+    "location": "Intramuros, Manila",
+    "country": "Philippines",
+    "region": "Southeast Asia",
+    "regionSlug": "southeast-asia",
+    "religions": [
+      "Christian"
+    ],
+    "religionSlugs": [
+      "christian"
+    ],
+    "summary": "UNESCO Baroque church in Intramuros — Philippines densify after Manila Cathedral / Quiapo / Cebu Sto. Niño. Confirm Mass, museum, and visit windows via UNESCO list 677 and Intramuros Admin; do not invent PHP.",
+    "heroImage": "https://images.unsplash.com/photo-1555899434-94d1368aa7a9?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash — Manila / church corridor placeholder",
+    "featured": false,
+    "quickFacts": {
+      "founded": "Augustinians began the stone church in the late 16th century; present Baroque fabric is among the oldest standing in the Philippines",
+      "patron": "Roman Catholic — Order of Saint Augustine church / museum complex in Intramuros",
+      "unesco": "UNESCO World Heritage — Baroque Churches of the Philippines (site 677)",
+      "typicalVisit": "About 45–90 minutes for church and museum when open; verify Mass vs tourist windows"
+    },
+    "related": [
+      "manila-cathedral",
+      "quiapo-church",
+      "cebu-sto-nino"
+    ],
+    "overview": {
+      "body": [
+        "San Agustin Church in Intramuros is the Manila anchor of the UNESCO Baroque Churches of the Philippines (site 677). SanctaWay treats it as Philippines densify after Manila Cathedral, Quiapo, and Cebu Sto. Niño — four related but separate pages.",
+        "Visitors come for the stone Baroque nave, trompe-l’oeil ceilings, cloister museum, and the walled-city walk that ties church tourism to Intramuros streets. Heat and humidity are constant companions outdoors.",
+        "Confirm Mass, museum, and visit windows through UNESCO list 677 and the Intramuros Administration site — clear CTAs when a parish ticketing page is thin. SanctaWay does not invent PHP fares or one Manila ticket covering Quiapo + Cebu.",
+        "Dress for an active Catholic church: covered shoulders and knees, quiet during Mass, photography as posted. Museum rooms may have separate desk rules from the nave.",
+        "SanctaWay is informational. Prefer UNESCO / Intramuros over OTAs; tourism.gov.ph soft 403 is unused this batch."
+      ],
+      "highlights": [
+        "UNESCO Baroque Churches of the Philippines (site 677)",
+        "Intramuros stone church + museum complex",
+        "Confirm Mass / museum windows — no invented PHP",
+        "Separate from Manila Cathedral, Quiapo, and Cebu Sto. Niño",
+        "Heat and humidity honesty on walled-city walks"
+      ]
+    },
+    "visit": {
+      "intro": "Active Catholic / UNESCO Baroque church — confirm Mass and museum windows via UNESCO and Intramuros Admin; do not invent PHP.",
+      "hours": "Working church — Mass schedules and museum visit windows can differ. Confirm published notices via UNESCO https://whc.unesco.org/en/list/677/ and https://intramuros.gov.ph/ the day you go. Do not invent a fixed tourist timetable.",
+      "tickets": "Verify church visit and museum tickets through destination / admin pages when a parish e-ticket is not published. Clear CTA: UNESCO https://whc.unesco.org/en/list/677/ (Intramuros Admin https://intramuros.gov.ph/ secondary). Prefer those over OTAs. Do not invent PHP.",
+      "dress": "Covered shoulders and knees; quiet during Mass; photography as posted; light fabrics for heat and humidity.",
+      "duration": "About 45–90 minutes for nave and museum when both are open; add Intramuros walking buffer.",
+      "access": "Stone thresholds and cloister levels; heat reshapes mid-day visits. Ask staff about step-free routes into museum wings.",
+      "tips": [
+        "Use UNESCO 677 / Intramuros Admin for clear visit posture — do not invent PHP.",
+        "Manila Cathedral, Quiapo, and Cebu Sto. Niño are separate pages.",
+        "Cover shoulders and knees; respect Mass silence.",
+        "Photography as posted in nave and museum.",
+        "Carry water for Intramuros heat and humidity.",
+        "tourism.gov.ph soft 403 unused — prefer UNESCO / Intramuros.",
+        "SanctaWay does not sell tickets or grant access."
+      ],
+      "entryType": "soft-home",
+      "ticketsUrl": "https://whc.unesco.org/en/list/677/",
+      "ticketsLabel": "UNESCO Baroque Churches of the Philippines (site 677)",
+      "ticketsNote": "Soft-home UNESCO CTA; Intramuros Admin secondary. Verify museum/visit fees on official or admin pages — do not invent PHP. Prefer UNESCO / Intramuros over OTAs."
+    },
+    "etiquette": {
+      "intro": "Active Catholic church — Mass first, tourism second.",
+      "bullets": [
+        "Cover shoulders and knees; carry a light wrap if unsure.",
+        "Keep silence during Mass and confessions.",
+        "Follow photography signs; no flash on artworks when banned.",
+        "Do not walk through bridal or Mass processions for photos.",
+        "Stay off altar platforms unless invited.",
+        "Treat sacristans and museum staff direction as final."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach San Agustin inside Intramuros.",
+      "paragraphs": [
+        "Intramuros is walkable from several Manila Cathedral approaches — many visitors see both churches on one walled-city loop with separate courtesy stops, not one combined ticket.",
+        "Jeepneys, taxis, ride-hails, and some Pasig ferry connections reach the walls; confirm drop-off gates that still leave a short hot walk to San Agustin.",
+        "Quiapo and Cebu Sto. Niño are separate city or island logistics — do not invent one Philippines church pass."
+      ],
+      "bullets": [
+        "Walk Intramuros from Manila Cathedral corridor",
+        "Ride-hail / taxi to a signed Intramuros gate",
+        "Heat buffer between walled-city stops",
+        "Quiapo and Cebu remain separate trips / pages"
+      ]
+    },
+    "bestTime": {
+      "intro": "Morning Mass-aware visits beat mid-day heat.",
+      "paragraphs": [
+        "Early mornings are cooler for Intramuros stone streets. If you intend museum time, verify desk hours that may differ from Mass schedules.",
+        "Weekend weddings and feast days can reshape nave access — ask before assuming a long photo stop."
+      ],
+      "bullets": [
+        "Morning for cooler walking",
+        "Verify museum desk vs Mass windows",
+        "Weekday calmer than wedding-heavy Saturdays",
+        "Carry water and sun cover year-round"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm visit posture via UNESCO 677 and Intramuros Admin — no invented PHP.",
+        "Manila Cathedral, Quiapo, and Cebu Sto. Niño are separate SanctaWay pages.",
+        "tourism.gov.ph soft 403 unused this batch.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero: Unsplash Manila church placeholder — visual pass later."
+      ]
+    }
+  },
+  {
+    "id": "moulay-idriss",
+    "name": "Moulay Idriss Zerhoun, Morocco",
+    "shortName": "Moulay Idriss",
+    "location": "Moulay Idriss Zerhoun, near Meknes, Morocco",
+    "country": "Morocco",
+    "region": "Africa",
+    "regionSlug": "africa",
+    "religions": [
+      "Islamic"
+    ],
+    "religionSlugs": [
+      "islamic"
+    ],
+    "summary": "Morocco’s holy town of Idris I — Africa densify after Al-Qarawiyyin / Hassan II / Koutoubia. Confirm visit framing on Visit Morocco; non-Muslim access to some sacred spaces is restricted — do not invent casual mosque entry or MAD fares.",
+    "heroImage": "https://images.unsplash.com/photo-1517824805568-7cafda84d86d?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash — Morocco medina / hilltown placeholder",
+    "featured": false,
+    "quickFacts": {
+      "founded": "Holy town associated with Idris I; long pilgrimage standing in the Zerhoun hills above the Meknes corridor",
+      "patron": "Idris I / Moulay Idriss pilgrimage town",
+      "unesco": "Not framed here as a standalone UNESCO temple listing — living holy town / destination page",
+      "typicalVisit": "Half-day from Meknes / Fez when viewpoints and lanes are open; verify non-Muslim access limits"
+    },
+    "related": [
+      "al-qarawiyyin",
+      "hassan-ii-mosque",
+      "koutoubia"
+    ],
+    "overview": {
+      "body": [
+        "Moulay Idriss Zerhoun is Morocco’s storied holy town in the hills above the Meknes corridor, tied to Idris I. SanctaWay frames it as Morocco densify after Al-Qarawiyyin, Hassan II, and Koutoubia — a living pilgrimage town, not a casual mosque-interior checklist.",
+        "Whitewashed lanes, viewpoints over the Zerhoun landscape, and pilgrimage energy define the visit. Some sacred interiors remain restricted — especially for non-Muslims. Do not invent casual entry into spaces that local custom keeps closed.",
+        "Confirm destination framing on Visit Morocco’s Moulay Idriss Zerhoun page — the clear soft-destination CTA. SanctaWay does not invent MAD fares, a tourist mosque ticket, or a one-Morocco pass covering Hassan II + Fez.",
+        "Dress for an active Islamic holy town: covered arms and legs, head covering customary near prayer spaces, quiet photography as posted, and heat honesty on steep lanes.",
+        "SanctaWay is informational. Prefer Visit Morocco over OTAs; re-check access honesty before you promise anyone an interior visit."
+      ],
+      "highlights": [
+        "Morocco holy town of Idris I above Meknes",
+        "Visit Morocco soft-destination CTA",
+        "Non-Muslim access honesty — some spaces restricted",
+        "Confirm visit framing — no invented MAD",
+        "Mesh Fez / Casablanca / Marrakech peers carefully"
+      ]
+    },
+    "visit": {
+      "intro": "Working holy town — confirm Visit Morocco framing; non-Muslim access to some sacred spaces is restricted; do not invent MAD.",
+      "hours": "Working pilgrimage town — viewpoint, lane, and prayer-adjacent windows follow local custom more than a single gate clock. Confirm destination notes on https://www.visitmorocco.com/en/travel/moulay-idriss-zerhoun the day you go. Do not invent a fixed tourist timetable.",
+      "tickets": "There is no invented SanctaWay fare sheet. Use Visit Morocco as the clear destination CTA: https://www.visitmorocco.com/en/travel/moulay-idriss-zerhoun (Visit Morocco home secondary). Prefer destination guidance over OTAs. Do not invent MAD or a casual non-Muslim mosque ticket.",
+      "dress": "Covered arms and legs; head covering customary near prayer spaces; quiet demeanour; photography as posted; heat kit for hillside lanes.",
+      "duration": "About 2–3 hours for lanes and viewpoints when access allows; add Meknes / Volubilis corridor buffer separately.",
+      "access": "Steep medina-style lanes. Critical honesty: some mosque and shrine interiors are not open to non-Muslims — do not invent casual entry. Stay on publicly welcomed streets and viewpoints unless a local guide and posted rules clearly allow more.",
+      "tips": [
+        "Use Visit Morocco for destination framing — do not invent MAD.",
+        "Non-Muslim visitors: assume some sacred interiors are closed unless clearly posted otherwise.",
+        "Cover arms and legs; carry a scarf near prayer spaces.",
+        "Photography as posted; ask before shooting people at prayer.",
+        "Heat and hills — water and modest shoes.",
+        "Al-Qarawiyyin / Hassan II / Koutoubia are separate pages and tickets.",
+        "SanctaWay does not sell tickets or grant access."
+      ],
+      "entryType": "soft-destination",
+      "ticketsUrl": "https://www.visitmorocco.com/en/travel/moulay-idriss-zerhoun",
+      "ticketsLabel": "Visit Morocco — Moulay Idriss Zerhoun",
+      "ticketsNote": "Soft-destination CTA. Verify any local fees on the ground or official notices — do not invent MAD. Non-Muslim access to some sacred spaces is restricted; do not invent casual mosque entry. Prefer Visit Morocco over OTAs."
+    },
+    "etiquette": {
+      "intro": "Active Islamic holy town — modesty and access honesty.",
+      "bullets": [
+        "Cover arms and legs; head covering near prayer spaces is customary.",
+        "Keep voices low around mosques and shrines.",
+        "Do not attempt entry where non-Muslims are restricted.",
+        "Ask before photographing people or prayer.",
+        "Stay on welcomed lanes; do not push into private courtyards.",
+        "Follow local guide and resident direction without argument."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Moulay Idriss from the Meknes / Fez corridor.",
+      "paragraphs": [
+        "Most travellers stage via Meknes or Fez and continue by road into the Zerhoun hills. Shared grands taxis and hired cars are common — confirm return seats before late afternoon.",
+        "Volubilis is often paired as a nearby Roman site on the same corridor; that is a separate ticketed archaeology stop, not a holy-town interior pass.",
+        "Hassan II (Casablanca), Koutoubia (Marrakech), and Al-Qarawiyyin (Fez) are separate cities and separate SanctaWay pages — do not invent one Morocco sacred pass."
+      ],
+      "bullets": [
+        "Road from Meknes / Fez corridor",
+        "Confirm return taxi before dusk",
+        "Volubilis pairing is separate archaeology logistics",
+        "Major mosque peers remain separate trips"
+      ]
+    },
+    "bestTime": {
+      "intro": "Clear cooler hours beat mid-day heat on the hill.",
+      "paragraphs": [
+        "Morning light on the hillside town is kinder for walking. Summer mid-days are hot on whitewashed lanes — plan shade and water.",
+        "Pilgrimage calendar peaks can reshape crowd density; keep access honesty even when viewpoints feel open."
+      ],
+      "bullets": [
+        "Morning for cooler lanes",
+        "Avoid peak heat on steep streets",
+        "Respect pilgrimage-dense days with extra modesty",
+        "Never assume interior access from a viewpoint photo"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm destination framing on Visit Morocco — no invented MAD.",
+        "Non-Muslim access: some sacred interiors restricted — do not invent casual entry.",
+        "Al-Qarawiyyin, Hassan II, and Koutoubia are separate SanctaWay pages.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero: Unsplash Morocco hilltown placeholder — visual pass later."
+      ]
+    }
+  },
+  {
+    "id": "songgwangsa",
+    "name": "Songgwangsa, Suncheon",
+    "shortName": "Songgwangsa",
+    "location": "Songgwang-myeon, Suncheon, Jeollanam-do",
+    "country": "South Korea",
+    "region": "East Asia",
+    "regionSlug": "east-asia",
+    "religions": [
+      "Buddhist"
+    ],
+    "religionSlugs": [
+      "buddhist"
+    ],
+    "summary": "Seon Triple Jewel (僧寶) monastery in Suncheon — Korea densify after Haeinsa / Seokguram–Bulguksa. Confirm temple-stay and visit windows on songgwangsa.org; do not invent KRW. Separate from Haeinsa and Bulguksa tickets.",
+    "heroImage": "https://images.unsplash.com/photo-1545569341-9eb8b30979d9?auto=format&fit=crop&w=1600&q=80",
+    "heroCredit": "Unsplash — Korean temple mountain corridor placeholder",
+    "featured": false,
+    "quickFacts": {
+      "founded": "Historic Seon monastery in the Jogye order tradition; renowned as the Sangha Jewel among Korea’s Triple Jewels",
+      "patron": "Korean Seon / Jogye — Songgwangsa (僧寶)",
+      "unesco": "Not framed here as a standalone UNESCO inscription page — working Seon monastery / pilgrimage destination",
+      "typicalVisit": "About 60–120 minutes for public precincts; temple-stay only when programs are posted"
+    },
+    "related": [
+      "haeinsa",
+      "seokguram",
+      "bulguksa"
+    ],
+    "overview": {
+      "body": [
+        "Songgwangsa in the hills of Suncheon is Korea’s Sangha Jewel (僧寶) among the Triple Jewels of Korean Buddhism — paired in pilgrimage imagination with Haeinsa (Dharma) and Seokguram–Bulguksa (Buddha). SanctaWay keeps a dedicated page so Korea densify stays honest after those peers.",
+        "Mountain gates, courtyard halls, and Seon training atmosphere define the visit. Temple-stay and ceremonial calendars reshape access — verify rather than assume overnight programs run every week.",
+        "Confirm visit and temple-stay notices on https://www.songgwangsa.org/ — the clear official CTA (VisitKorea secondary for national tourism context). SanctaWay does not invent KRW fares or one Korea ticket covering Haeinsa + Bulguksa + Songgwangsa.",
+        "Dress for active Buddhist pilgrimage: covered shoulders and knees, quiet voices, photography as posted, and mountain weather honesty.",
+        "SanctaWay is informational. Prefer the official temple site over OTAs; tongdosa / beomeosa soft TLS failures stay unused this batch."
+      ],
+      "highlights": [
+        "Seon Triple Jewel — Sangha (僧寶) monastery in Suncheon",
+        "Official CTA: songgwangsa.org",
+        "Confirm visit / temple-stay windows — no invented KRW",
+        "Separate from Haeinsa and Seokguram–Bulguksa admissions",
+        "Mountain weather and quiet Seon courtesy"
+      ]
+    },
+    "visit": {
+      "intro": "Working Seon monastery — confirm visit and temple-stay notices on songgwangsa.org; do not invent KRW.",
+      "hours": "Working monastery — public precinct, ceremonial, and temple-stay windows can differ. Confirm published notices on https://www.songgwangsa.org/ the day you go. Do not invent a fixed tourist timetable.",
+      "tickets": "Verify any admission, parking, or temple-stay fees only via the official temple site. Clear CTA: https://www.songgwangsa.org/ (VisitKorea https://english.visitkorea.or.kr/svc/main/index.do secondary). Prefer official over OTAs. Do not invent KRW. Haeinsa and Bulguksa remain separate tickets.",
+      "dress": "Covered shoulders and knees; quiet outdoor clothes; mountain layers; photography as posted.",
+      "duration": "About 60–120 minutes for public precincts; temple-stay is a separate booked program when offered.",
+      "access": "Mountain approach roads and courtyard steps; weather can fog or ice paths in shoulder seasons. Ask on site about step-free segments.",
+      "tips": [
+        "Use songgwangsa.org for official notices — do not invent KRW.",
+        "Haeinsa and Seokguram–Bulguksa are separate pages and tickets.",
+        "Temple-stay only when the temple publishes programs — do not assume walk-in overnight.",
+        "Covered shoulders and knees; quiet Seon courtesy.",
+        "Mountain weather kit even on clear forecasts.",
+        "VisitKorea is national context — temple site leads for fees.",
+        "SanctaWay does not sell tickets or grant access."
+      ],
+      "entryType": "soft-official",
+      "ticketsUrl": "https://www.songgwangsa.org/",
+      "ticketsLabel": "Songgwangsa official site",
+      "ticketsNote": "Soft-official primary; VisitKorea secondary. Verify any fees or temple-stay rates on the official site — do not invent KRW. Prefer official over OTAs. Separate from Haeinsa / Bulguksa."
+    },
+    "etiquette": {
+      "intro": "Active Seon monastery — quiet courtyards and hall rules.",
+      "bullets": [
+        "Keep voices low; no running in courtyards.",
+        "Follow photography signs around Buddha halls.",
+        "Bow courtesy at hall thresholds when locals do.",
+        "Stay off training areas marked closed.",
+        "Do not interrupt ceremonial practice for photos.",
+        "Treat monastics and staff direction as final."
+      ]
+    },
+    "gettingThere": {
+      "intro": "How visitors usually reach Songgwangsa from the Suncheon corridor.",
+      "paragraphs": [
+        "Suncheon in Jeollanam-do is the usual staging city. Intercity buses and rail into Suncheon, then local bus or taxi toward Songgwang-myeon, are common — confirm the day’s rural bus times rather than assuming frequent returns.",
+        "Mountain roads can be slow in rain or fog; build buffer if you are continuing to other Jeolla stops the same day.",
+        "Haeinsa (Gaya) and Bulguksa / Seokguram (Gyeongju) are distant peers — separate trips and separate tickets, not one Korea temple pass."
+      ],
+      "bullets": [
+        "Stage in Suncheon then local bus / taxi",
+        "Confirm rural return buses the same morning",
+        "Mountain weather can slow the approach",
+        "Triple Jewel peers are separate regions and tickets"
+      ]
+    },
+    "bestTime": {
+      "intro": "Clear weekdays suit mountain courtyards; verify temple-stay seasons.",
+      "paragraphs": [
+        "Spring and autumn are popular for mountain colour; summer humidity and winter ice both reshape courtyard time. Weekdays are usually calmer than weekend pilgrimage surges.",
+        "Temple-stay calendars are seasonal — only book what the official site currently lists."
+      ],
+      "bullets": [
+        "Weekdays calmer in courtyards",
+        "Spring / autumn colour peaks",
+        "Winter = ice-aware footwear",
+        "Temple-stay only when posted"
+      ]
+    },
+    "notes": {
+      "intro": "Notes · Verify before visit",
+      "bullets": [
+        "Confirm visit and temple-stay on songgwangsa.org — no invented KRW.",
+        "Haeinsa, Seokguram, and Bulguksa are separate SanctaWay pages.",
+        "tongdosa / beomeosa soft TLS failures unused this batch.",
+        "SanctaWay is informational; it does not sell tickets or grant access.",
+        "Hero: Unsplash Korean temple placeholder — visual pass later."
       ]
     }
   }

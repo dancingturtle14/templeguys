@@ -9,6 +9,7 @@ import { ExplorePage } from './pages/Explore'
 import { HomePage } from './pages/Home'
 import { NotFoundPage } from './pages/NotFound'
 import { TempleDetailPage } from './pages/TempleDetail'
+import { TempleTourPage } from './pages/TempleTour'
 
 function DocumentHead() {
   const { route } = useRouter()
@@ -43,6 +44,9 @@ export default function App() {
       break
     case 'temple':
       page = <TempleDetailPage id={route.id} chapter={route.chapter ?? 'overview'} />
+      break
+    case 'temple-tour':
+      page = <TempleTourPage id={route.id} />
       break
     case 'region':
       page = (

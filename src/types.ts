@@ -82,6 +82,7 @@ export type Route =
   | { name: 'home' }
   | { name: 'explore'; q?: string; region?: string; religion?: string }
   | { name: 'temple'; id: string; chapter?: TempleChapter }
+  | { name: 'temple-tour'; id: string }
   | { name: 'region'; slug: string }
   | { name: 'religion'; slug: string }
   | { name: 'about' }

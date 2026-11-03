@@ -106,3 +106,15 @@
     background: var(--color-line);
   }
 }
+
+/* The walk’s mobile bar is one row. Leave room so the footer can scroll clear of it. */
+@media (max-width: 1023px) {
+  body:has(.tour-walk) {
+    padding-bottom: calc(3rem + env(safe-area-inset-bottom));
+  }
+
+  html:has(.tour-walk) {
+    scroll-padding-top: 4.5rem;
+    scroll-padding-bottom: calc(3rem + env(safe-area-inset-bottom));
+  }
+}

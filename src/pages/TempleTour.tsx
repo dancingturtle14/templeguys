@@ -31,7 +31,7 @@ export function TempleTourPage({ id }: { id: string }) {
           <p className="text-[0.65rem] font-semibold uppercase text-cinnabar">Walk</p>
           <h1 className="mt-3 font-display text-4xl text-balance sm:text-6xl">Fushimi Inari on foot</h1>
           <p className="mt-4 text-pretty text-lg text-ink-soft">
-            Six stops from Inari Station through the lower gates to the turnaround at Yotsutsuji. The summit loop stays closed until you open it.
+            Six stops from Inari Station to Yotsutsuji, each with must-see spots and the objects on the path. The summit loop stays closed until you open it.
           </p>
           <p className="mt-3 text-sm text-ink-muted">
             Times here are the usual visitor pattern, not a printed shrine timetable. Confirm office hours on the board or at{' '}
@@ -59,7 +59,7 @@ export function FushimiTourCard() {
       <span className="text-[0.65rem] font-semibold uppercase tracking-wide text-cinnabar">Walk</span>
       <span className="mt-1 block font-display text-2xl text-ink">On foot, stop by stop →</span>
       <span className="mt-2 block max-w-xl text-sm text-ink-soft">
-        Six stops from Inari Station through the lower gates to the Yotsutsuji turnaround. The summit loop stays closed until you open it.
+        Six stops, with must-see spots and named objects along the path. The summit loop stays closed until you open it.
       </span>
     </Link>
   )

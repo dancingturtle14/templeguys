@@ -48,11 +48,22 @@ test('tour data is six stable stops, summit optional, factual copy only', () => 
   )
   for (const stop of FUSHIMI_INARI_TOUR.stops) {
     assert.ok(stop.sentences.length >= 2 && stop.sentences.length <= 4, stop.id)
-    assert.ok(stop.images.length >= 1 && stop.images.length <= 3, stop.id)
-    assert.match(stop.images[0].src, /^https:\/\/thumb\.wikimedia\.org\//)
-    const blob = [stop.plate, stop.caption, ...stop.sentences, ...stop.chips.map((c) => c.label)].join(
-      ' ',
+    assert.ok(stop.checkpoints.length >= 2 && stop.checkpoints.length <= 4, stop.id)
+    assert.ok(stop.checkpoints.some((item) => item.kind === 'must-see'), stop.id)
+    assert.ok(
+      stop.checkpoints.some((item) => item.kind === (stop.id === 'descent' ? 'practice' : 'story')),
+      stop.id,
     )
+    const images = stop.checkpoints.flatMap((item) => (item.image ? [item.image] : []))
+    assert.ok(images.length >= 1, stop.id)
+    assert.match(images[0].src, /^https:\/\/thumb\.wikimedia\.org\//)
+    const blob = [
+      stop.plate,
+      stop.caption,
+      ...stop.sentences,
+      ...stop.chips.map((chip) => chip.label),
+      ...stop.checkpoints.flatMap((item) => [item.title, ...item.sentences]),
+    ].join(' ')
     assert.doesNotMatch(blob, LEAK)
   }
 })
@@ -82,6 +93,15 @@ test('tour page renders the walk, quiet stubs, and a closed summit', () => {
   assert.match(html, /fetchpriority="high"/i)
   assert.match(html, /Yotsutsuji/)
   assert.match(html, /Okumiya/)
+  assert.match(html, />Must-see</)
+  assert.match(html, /Traditional story/)
+  assert.match(html, /House rule/)
+  assert.match(html, /id="arrival-romon"/)
+  assert.match(html, /Toyotomi Hideyoshi/)
+  assert.match(html, /id="senbon-pillars"/)
+  assert.match(html, /id="pauses-otsuka"/)
+  assert.match(html, /id="summit-omokaru"/)
+  assert.match(html, /omokaru/)
   assert.match(html, /href="\/temple\/fushimi-inari\/etiquette"/)
   assert.match(html, /href="\/temple\/fushimi-inari\/getting-there"/)
   assert.match(html, /https:\/\/inari\.jp\/en\//)

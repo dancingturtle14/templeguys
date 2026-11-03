@@ -3,6 +3,8 @@ import { TempleImage } from './TempleImage'
 import { Link } from '../lib/router'
 import {
   FUSHIMI_INARI_TOUR,
+  type CheckpointKind,
+  type TourCheckpoint,
   type TourChip,
   type TourStop,
 } from '../data/fushimiInariTour'
@@ -79,26 +81,76 @@ function ChipList({ chips }: { chips: TourChip[] }) {
   )
 }
 
-function StopFigures({ stop, first }: { stop: TourStop; first: boolean }) {
+const KIND_LABEL: Record<CheckpointKind, string> = {
+  'must-see': 'Must-see',
+  object: 'Object',
+  story: 'Traditional story',
+  practice: 'House rule',
+}
+
+function followClick(event: { metaKey: boolean; ctrlKey: boolean; shiftKey: boolean; altKey: boolean; button: number; preventDefault: () => void }) {
+  if (event.metaKey || event.ctrlKey || event.shiftKey || event.altKey || event.button !== 0) return false
+  event.preventDefault()
+  return true
+}
+
+function CheckpointCard({
+  checkpoint,
+  priority,
+  defer,
+  onJump,
+}: {
+  checkpoint: TourCheckpoint
+  priority: boolean
+  defer: boolean
+  onJump: (id: string) => void
+}) {
+  const mustSee = checkpoint.kind === 'must-see'
   return (
-    <div className={stop.images.length > 1 ? 'mt-6 grid items-start gap-4 sm:grid-cols-2' : 'mt-6'}>
-      {stop.images.map((image, index) => (
-        <figure key={image.src}>
+    <article
+      id={checkpoint.id}
+      aria-labelledby={`${checkpoint.id}-title`}
+      className={`scroll-mt-24 scroll-mb-20 border bg-paper p-4 sm:p-5 ${
+        mustSee ? 'border-line border-l-cinnabar border-l-2' : 'border-line'
+      }`}
+    >
+      <p className="text-[0.65rem] font-semibold uppercase text-cinnabar">{KIND_LABEL[checkpoint.kind]}</p>
+      <h3 id={`${checkpoint.id}-title`} className="mt-1 font-display text-2xl text-balance">
+        <a
+          href={`#${checkpoint.id}`}
+          onClick={(event) => {
+            if (!followClick(event)) return
+            onJump(checkpoint.id)
+          }}
+          className="text-ink no-underline"
+        >
+          {checkpoint.title}
+        </a>
+      </h3>
+      <div className="mt-3 max-w-2xl space-y-2">
+        {checkpoint.sentences.map((sentence) => (
+          <p key={sentence} className="text-pretty text-sm text-ink-soft">
+            {sentence}
+          </p>
+        ))}
+      </div>
+      {checkpoint.image ? (
+        <figure className="mt-4 max-w-xl">
           <div className="overflow-hidden border border-line">
             <TempleImage
-              src={image.src}
-              alt={image.alt}
-              priority={first && index === 0}
-              defer={stop.optional}
-              aspect={image.tall ? 'tall' : 'photo'}
+              src={checkpoint.image.src}
+              alt={checkpoint.image.alt}
+              priority={priority}
+              defer={defer}
+              aspect={checkpoint.image.tall ? 'tall' : 'photo'}
             />
           </div>
           <figcaption className="mt-2 text-xs text-ink-muted">
-            {image.caption} Photo: {image.credit}
+            {checkpoint.image.caption} Photo: {checkpoint.image.credit}
           </figcaption>
         </figure>
-      ))}
-    </div>
+      ) : null}
+    </article>
   )
 }
 
@@ -121,7 +173,6 @@ function StopBody({
       </h2>
       <p className="mt-2 max-w-2xl text-ink-soft">{stop.caption}</p>
       <QuietStub stopId={stop.id} plate={stop.plate} />
-      <StopFigures stop={stop} first={first} />
       <div className="mt-5 max-w-2xl space-y-3">
         {stop.sentences.map((sentence) => (
           <p key={sentence} className="text-pretty text-ink-soft">
@@ -130,6 +181,37 @@ function StopBody({
         ))}
       </div>
       <ChipList chips={stop.chips} />
+      <div className="mt-8">
+        <h3 className="font-display text-2xl">Checkpoints</h3>
+        <ul className="mt-3 flex flex-wrap gap-x-4 gap-y-2 text-sm">
+          {stop.checkpoints.map((checkpoint) => (
+            <li key={checkpoint.id}>
+              <a
+                href={`#${checkpoint.id}`}
+                onClick={(event) => {
+                  if (!followClick(event)) return
+                  onJump(checkpoint.id)
+                }}
+                className={checkpoint.kind === 'must-see' ? 'font-semibold text-cinnabar' : 'text-ink'}
+              >
+                {checkpoint.kind === 'must-see' ? 'Must-see · ' : ''}
+                {checkpoint.title}
+              </a>
+            </li>
+          ))}
+        </ul>
+        <div className="mt-5 space-y-4">
+          {stop.checkpoints.map((checkpoint) => (
+            <CheckpointCard
+              key={checkpoint.id}
+              checkpoint={checkpoint}
+              priority={first && checkpoint.id === 'arrival-romon'}
+              defer={Boolean(stop.optional)}
+              onJump={onJump}
+            />
+          ))}
+        </div>
+      </div>
       <p className="mt-6 flex flex-wrap gap-4 text-sm">
         {nextStop ? (
           <a
@@ -256,21 +338,22 @@ export function TourWalk() {
   const holdSpy = useRef(0)
 
   const jump = useCallback((id: string) => {
-    if (id === 'summit') {
-      const details = document.getElementById('summit')
-      if (details instanceof HTMLDetailsElement) details.open = true
-    }
     const target = document.getElementById(id)
+    const details = document.getElementById('summit')
+    if (details instanceof HTMLDetailsElement && target && (id === 'summit' || details.contains(target))) {
+      details.open = true
+    }
     if (!target) return
     const reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches
     holdSpy.current = performance.now() + (reduce ? 40 : 900)
     target.scrollIntoView({ behavior: reduce ? 'auto' : 'smooth', block: 'start' })
-    setActive(id === END_ID ? END_ID : (STOPS.find((stop) => stop.id === id)?.id ?? STOPS[0].id))
+    const owner = STOPS.find((stop) => stop.id === id || stop.checkpoints.some((item) => item.id === id))
+    setActive(id === END_ID ? END_ID : (owner?.id ?? STOPS[0].id))
     const url = `${window.location.pathname}${window.location.search}#${id}`
     if (`${window.location.pathname}${window.location.search}${window.location.hash}` !== url) {
       window.history.pushState(null, '', url)
     }
-    const heading = target.querySelector('h2')
+    const heading = target.querySelector('h2, h3')
     if (heading instanceof HTMLElement) {
       heading.tabIndex = -1
       heading.focus({ preventScroll: true })

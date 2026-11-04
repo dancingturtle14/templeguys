@@ -50,6 +50,9 @@ test('tour data is six stable stops, summit optional, factual copy only', () => 
     assert.ok(stop.sentences.length >= 2 && stop.sentences.length <= 4, stop.id)
     assert.ok(stop.checkpoints.length >= 2 && stop.checkpoints.length <= 4, stop.id)
     assert.ok(stop.checkpoints.some((item) => item.kind === 'must-see'), stop.id)
+    for (const item of stop.checkpoints) {
+      if (item.kind === 'must-see') assert.ok((item.lookFor?.length ?? 0) >= 3, item.id)
+    }
     assert.ok(
       stop.checkpoints.some((item) => item.kind === (stop.id === 'descent' ? 'practice' : 'story')),
       stop.id,
@@ -62,7 +65,12 @@ test('tour data is six stable stops, summit optional, factual copy only', () => 
       stop.caption,
       ...stop.sentences,
       ...stop.chips.map((chip) => chip.label),
-      ...stop.checkpoints.flatMap((item) => [item.title, ...item.sentences]),
+      ...stop.checkpoints.flatMap((item) => [
+        item.title,
+        ...item.sentences,
+        ...(item.lookFor ?? []),
+        ...(item.prompt?.choices.flatMap((choice) => [choice.label, choice.reply]) ?? []),
+      ]),
     ].join(' ')
     assert.doesNotMatch(blob, LEAK)
   }
@@ -94,6 +102,11 @@ test('tour page renders the walk, quiet stubs, and a closed summit', () => {
   assert.match(html, /Yotsutsuji/)
   assert.match(html, /Okumiya/)
   assert.match(html, />Must-see</)
+  assert.match(html, /What to look for/)
+  assert.match(html, /Enlarge photo/)
+  assert.match(html, /Your call at the crossroads/)
+  assert.match(html, /aria-label="Walk progress"/)
+  assert.match(html, /Show every reading/)
   assert.match(html, /Traditional story/)
   assert.match(html, /House rule/)
   assert.match(html, /id="arrival-romon"/)

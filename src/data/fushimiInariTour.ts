@@ -32,11 +32,20 @@ export type TourImage = {
 /** must-see is the pin. object is a named thing. story is labeled folklore. practice is a house rule. */
 export type CheckpointKind = 'must-see' | 'object' | 'story' | 'practice'
 
+export type TourPrompt = {
+  question: string
+  choices: { label: string; reply: string }[]
+}
+
 export type TourCheckpoint = {
   id: string
   kind: CheckpointKind
   title: string
   sentences: string[]
+  /** Concrete things to find on site. Required for must-sees. */
+  lookFor?: string[]
+  /** A tap choice. Every reply is a reading, not a score. */
+  prompt?: TourPrompt
   image?: TourImage
 }
 
@@ -89,6 +98,11 @@ export const FUSHIMI_INARI_TOUR: { stops: TourStop[] } = {
             'Take a JR Nara Line local. Inari is two stops south of Kyoto Station, and many rapid trains skip it.',
             'From the ticket gates the shrine is a short walk uphill. Follow the crowd and the vermilion ahead.',
           ],
+          lookFor: [
+            'On the platform, read the train type before you board. Locals stop at Inari. Rapids often do not.',
+            'Walk out toward the shrine. It is a few uphill minutes on foot, not a bus ride.',
+            'Food stalls line this street. Eat here if you are hungry. The mountain paths restrict eating while you walk.',
+          ],
         },
         {
           id: 'arrival-romon',
@@ -97,6 +111,11 @@ export const FUSHIMI_INARI_TOUR: { stops: TourStop[] } = {
           sentences: [
             'The romon is the two-storey gate at the foot of the precinct. You walk through it, not around a ticket booth.',
             'Shrine accounts date this gate to 1589 and credit the donation to Toyotomi Hideyoshi. There is still no admission fee past it.',
+          ],
+          lookFor: [
+            'Stand in the center of the approach only long enough for the gate to frame the halls, then step to the side.',
+            'Look up: two storeys of vermilion. The upper floor is part of the gate, not a deck you climb.',
+            'There is no ticket window in the gate. You walk through.',
           ],
           image: {
             src: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Kyoto_Fushimi_Inari-taisha_Romon_5.jpg/1280px-Kyoto_Fushimi_Inari-taisha_Romon_5.jpg',
@@ -112,6 +131,11 @@ export const FUSHIMI_INARI_TOUR: { stops: TourStop[] } = {
           sentences: [
             'The temizuya just inside is a water basin, here shaped with a fox. It is for rinsing hands before you go on, not a fountain to drink from.',
             'The usual shrine order is left hand, right hand, mouth, then the handle of the ladle. If the board shows another order, follow the board.',
+          ],
+          lookFor: [
+            'Hold the ladle in your right hand for that usual order: left hand, right hand, mouth, then the handle.',
+            'Do not drink the water, and do not touch your mouth to the ladle.',
+            'The fox is the shape of the basin. The water is only for the rinse.',
           ],
           image: {
             src: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Hushimi-inari-taisha_kitune_no_chozu.jpg/1280px-Hushimi-inari-taisha_kitune_no_chozu.jpg',
@@ -158,6 +182,11 @@ export const FUSHIMI_INARI_TOUR: { stops: TourStop[] } = {
             'Behind the main sanctuary the path splits into two parallel corridors of gates, close enough that you are in shade the whole way.',
             'The dense stretch is often ten to fifteen minutes of walking. Step aside for photographs so the corridor keeps moving.',
           ],
+          lookFor: [
+            'The two corridors run side by side. Walk one, then the other if you want both.',
+            'If you stop, stand at the edge. The middle is the walking line.',
+            'Look back: the gates stack into a tunnel. Ahead, they open into the climb.',
+          ],
           image: {
             src: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Fushimi-Inari-Shrine-Senbon-Torii-2016-Luka-Peternel.jpg/1280px-Fushimi-Inari-Shrine-Senbon-Torii-2016-Luka-Peternel.jpg',
             alt: 'Dense vermilion Senbon Torii tunnel at Fushimi Inari Taisha',
@@ -189,6 +218,28 @@ export const FUSHIMI_INARI_TOUR: { stops: TourStop[] } = {
             'Black characters on the vermilion pillars name the donor and usually a date. Most donors are companies and guilds, not anonymous pilgrims.',
             'Read them as you pass. They are the record of the gift, not a backdrop to climb or to hang anything on.',
           ],
+          lookFor: [
+            'Step beside a gate and read the pillar you see when you look back downhill.',
+            'Expect a name, often a company, and a date. Not a price, and not a prayer you have to recite.',
+            'The characters are cut into the vermilion. They label the gift.',
+          ],
+          prompt: {
+            question: 'What are you most likely reading on a pillar?',
+            choices: [
+              {
+                label: 'A company name and a date',
+                reply: 'Yes. Most inscriptions name a business or a group, and a date. That is the donor record.',
+              },
+              {
+                label: 'An admission price',
+                reply: 'No. The characters are not a fare. The precinct has no admission fee.',
+              },
+              {
+                label: 'A prayer you must recite',
+                reply: 'No set prayer is printed there for visitors to perform. The writing records who gave the gate.',
+              },
+            ],
+          },
           image: {
             src: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/FUS_-_Inscribed_Senbon_torii_at_Fushimi_Inari-taisha%2C_Kyoto%2C_Japan%2C_2015.jpg/1280px-FUS_-_Inscribed_Senbon_torii_at_Fushimi_Inari-taisha%2C_Kyoto%2C_Japan%2C_2015.jpg',
             alt: 'Inscribed pillar of a Senbon torii at Fushimi Inari-taisha',
@@ -234,6 +285,28 @@ export const FUSHIMI_INARI_TOUR: { stops: TourStop[] } = {
             'The fox is Inari’s messenger, not the kami itself. Statues stand along the climb, often with a key, a jewel, or a scroll in the mouth.',
             'The key is commonly read as the key to the rice storehouse. That is the usual explanation of the object. Not every statue is labeled.',
           ],
+          lookFor: [
+            'Stand beside the statue, not between it and someone who is offering.',
+            'Look at the mouth: a key, a jewel, or a scroll. Some mouths are empty or worn smooth.',
+            'A red bib on a fox was tied by a worshipper. Leave it tied.',
+          ],
+          prompt: {
+            question: 'What is this fox holding?',
+            choices: [
+              {
+                label: 'A key',
+                reply: 'Often. The usual reading is the key to the rice storehouse. Check the statue in front of you, not a diagram.',
+              },
+              {
+                label: 'A jewel or a scroll',
+                reply: 'Also common. The mouth carries one object, not a fixed set. A jewel or a scroll is the same messenger, differently equipped.',
+              },
+              {
+                label: 'Nothing you can see',
+                reply: 'Some mouths are empty or worn. The storehouse reading belongs to the statues that still hold a key.',
+              },
+            ],
+          },
           image: {
             src: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Kitsune_Statue_at_Fushimi_Inari_%282615371311%29.jpg/800px-Kitsune_Statue_at_Fushimi_Inari_%282615371311%29.jpg',
             alt: 'Stone kitsune statue at Fushimi Inari Taisha',
@@ -264,6 +337,11 @@ export const FUSHIMI_INARI_TOUR: { stops: TourStop[] } = {
           sentences: [
             'Side paths peel off toward small shrines and more stones. The through-route is the signed one back toward Yotsutsuji.',
             'Do not cut between the trees to rejoin a switchback. The ground is roots and loose stone, and the shortcut is how people get lost.',
+          ],
+          lookFor: [
+            'At a split, follow the signed way toward Yotsutsuji, not the gap between trees.',
+            'If the gates have opened from a tunnel into spaced posts, you are past the dense Senbon stretch.',
+            'A narrow side path usually ends at more stones or a small shrine, then stops.',
           ],
         },
         {
@@ -304,6 +382,11 @@ export const FUSHIMI_INARI_TOUR: { stops: TourStop[] } = {
             'Yotsutsuji means the four-way crossroads. Paths come in from the lower gates and go on toward the upper shrines.',
             'From the dense tunnels this is commonly thirty to forty-five minutes of climbing, longer in a crowd.',
           ],
+          lookFor: [
+            'Stop in the middle of the junction and count the paths. The name means four ways.',
+            'The way down is the path you climbed. The way on is signed toward the upper shrines.',
+            'You are at a meeting of paths, not inside a single hall.',
+          ],
         },
         {
           id: 'yotsutsuji-view',
@@ -312,6 +395,11 @@ export const FUSHIMI_INARI_TOUR: { stops: TourStop[] } = {
           sentences: [
             'The junction looks south over Kyoto. On a clear day the city sits below the vermilion and the trees.',
             'It is a viewpoint, not a platform with a rail everywhere. Watch your footing at the edge.',
+          ],
+          lookFor: [
+            'Face the open side, away from the wooded climb, for the city.',
+            'Keep a step back from the edge when people are passing. It is not railed everywhere.',
+            'The view is the must-see. The stalls are the rest, not the sight.',
           ],
           image: {
             src: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/View_on_Fushimi_on_Fushimi_Inari-taisha.jpg/1280px-View_on_Fushimi_on_Fushimi_Inari-taisha.jpg',
@@ -368,6 +456,11 @@ export const FUSHIMI_INARI_TOUR: { stops: TourStop[] } = {
             'Okumiya, also written Okunomiya, is the inner sanctuary on the upper mountain, past the Yotsutsuji turnaround.',
             'It is quieter than the tunnels and still a place of worship. The same path rules apply.',
           ],
+          lookFor: [
+            'The hall is smaller than the lower sanctuary. Stay out of the worship space if people are praying.',
+            'The omokaru stone is nearby, on its base, not inside the hall and not a loose rock from the path.',
+            'Wish first if you are going to lift it, then put it back on the same base.',
+          ],
           image: {
             src: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Okunomiya_Shrine_in_Fushimi_Inari_Grand_Shrine.jpg/1280px-Okunomiya_Shrine_in_Fushimi_Inari_Grand_Shrine.jpg',
             alt: 'Okunomiya, the inner shrine at Fushimi Inari Taisha',
@@ -383,6 +476,24 @@ export const FUSHIMI_INARI_TOUR: { stops: TourStop[] } = {
             'Traditional custom, near the inner shrine: make a wish, then lift the stone. If it feels lighter than you expected, the wish is said to be favored; if heavier, less so.',
             'It is a custom of the place, not a result the shrine guarantees. Lift with your legs, and put the stone back as you found it.',
           ],
+          lookFor: [
+            'Find the stone on its base near the inner shrine. Do not pick up a random rock from the path.',
+            'There is no posted weight. You compare the lift with what you expected.',
+            'Set it back on the same base before you walk on.',
+          ],
+          prompt: {
+            question: 'After the wish, how did the stone feel?',
+            choices: [
+              {
+                label: 'Lighter than I expected',
+                reply: 'Tradition says a light lift favors the wish. The shrine does not guarantee the outcome.',
+              },
+              {
+                label: 'Heavier than I expected',
+                reply: 'Tradition says a heavy lift is the less favored reading. It is still only a custom.',
+              },
+            ],
+          },
         },
         {
           id: 'summit-forest',
@@ -432,6 +543,11 @@ export const FUSHIMI_INARI_TOUR: { stops: TourStop[] } = {
             'You can reverse the path you climbed, or follow the signed loop back toward the main shrine and the station.',
             'Both end at the precinct, not at a separate exit gate. Leave time for the walk itself, not only the train you hope to catch.',
           ],
+          lookFor: [
+            'Signs point back the way you came and around the loop. Either returns to the main shrine.',
+            'There is no second station exit on the mountain. You finish in the precinct, then walk down to the trains.',
+            'Leave daylight for the descent if you are without a light.',
+          ],
         },
         {
           id: 'descent-ema',
@@ -440,6 +556,11 @@ export const FUSHIMI_INARI_TOUR: { stops: TourStop[] } = {
           sentences: [
             'Ema are small wooden plaques. At Inari they are often fox-shaped. You write a wish and hang the plaque where the staff show you.',
             'They are sold at the counters, which keep daytime hours. The trails can still be open after the rack has closed for the night.',
+          ],
+          lookFor: [
+            'Many plaques here are fox-shaped or fox-faced, not only rectangles.',
+            'Write, then hang on the rack the staff point to. Leave other people’s plaques where they are.',
+            'The rack closes with the counters. The paths do not share that clock.',
           ],
           image: {
             src: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Ema_at_Fushimi_Inari-taisha_02.jpg/1280px-Ema_at_Fushimi_Inari-taisha_02.jpg',
@@ -455,6 +576,11 @@ export const FUSHIMI_INARI_TOUR: { stops: TourStop[] } = {
           sentences: [
             'Omamori charms and goshuin stamp books are office services, not trail services. Read the hours on the board, or check inari.jp, before you count on either.',
             'Ignore anyone outside the station selling an “entry ticket.” The precinct does not charge admission.',
+          ],
+          lookFor: [
+            'Charms are small brocade bags on shelves, grouped by the wish printed on the tag. The price is on the shelf, not in this guide.',
+            'Goshuin is a stamp desk and a book, not the same shelf as the bags.',
+            'If the tags are only in Japanese, ask. Do not guess a charm’s purpose from the color of the cloth.',
           ],
         },
         {

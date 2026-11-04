@@ -1,4 +1,4 @@
-import { useCallback, useEffect, useRef, useState } from 'react'
+import { memo, useCallback, useEffect, useRef, useState } from 'react'
 import { TempleImage } from './TempleImage'
 import { Link } from '../lib/router'
 import {
@@ -6,6 +6,7 @@ import {
   type CheckpointKind,
   type TourCheckpoint,
   type TourChip,
+  type TourImage,
   type TourStop,
 } from '../data/fushimiInariTour'
 
@@ -94,63 +95,141 @@ function followClick(event: { metaKey: boolean; ctrlKey: boolean; shiftKey: bool
   return true
 }
 
-function CheckpointCard({
+function LookPrompt({ checkpoint }: { checkpoint: TourCheckpoint }) {
+  const prompt = checkpoint.prompt
+  const [picked, setPicked] = useState<string | null>(null)
+  if (!prompt) return null
+  const choice = prompt.choices.find((item) => item.label === picked)
+  return (
+    <fieldset className="mt-4 border border-line p-3">
+      <legend className="px-1 text-sm font-medium text-ink">{prompt.question}</legend>
+      <div className="mt-2 flex flex-wrap gap-2">
+        {prompt.choices.map((item) => (
+          <button
+            key={item.label}
+            type="button"
+            aria-pressed={picked === item.label}
+            onClick={() => setPicked(item.label)}
+            className={
+              picked === item.label
+                ? 'border border-ink bg-ink px-3 py-1.5 text-sm text-paper'
+                : 'border border-line bg-paper px-3 py-1.5 text-sm text-ink'
+            }
+          >
+            {item.label}
+          </button>
+        ))}
+      </div>
+      {choice ? <p className="mt-3 max-w-2xl text-sm text-ink-soft">{choice.reply}</p> : null}
+      <details className="mt-3">
+        <summary className="cursor-pointer text-sm text-cinnabar">Show every reading</summary>
+        <ul className="mt-2 space-y-2">
+          {prompt.choices.map((item) => (
+            <li key={item.label} className="text-sm text-ink-soft">
+              <span className="font-medium text-ink">{item.label}. </span>
+              {item.reply}
+            </li>
+          ))}
+        </ul>
+      </details>
+    </fieldset>
+  )
+}
+
+const CheckpointCard = memo(function CheckpointCard({
   checkpoint,
   priority,
   defer,
-  onJump,
+  onEnlarge,
 }: {
   checkpoint: TourCheckpoint
   priority: boolean
   defer: boolean
-  onJump: (id: string) => void
+  onEnlarge: (image: TourImage) => void
 }) {
   const mustSee = checkpoint.kind === 'must-see'
   return (
-    <article
+    <details
       id={checkpoint.id}
-      aria-labelledby={`${checkpoint.id}-title`}
-      className={`scroll-mt-24 scroll-mb-20 border bg-paper p-4 sm:p-5 ${
+      open={mustSee ? true : undefined}
+      className={`scroll-mt-24 scroll-mb-20 border bg-paper ${
         mustSee ? 'border-line border-l-cinnabar border-l-2' : 'border-line'
       }`}
     >
-      <p className="text-[0.65rem] font-semibold uppercase text-cinnabar">{KIND_LABEL[checkpoint.kind]}</p>
-      <h3 id={`${checkpoint.id}-title`} className="mt-1 font-display text-2xl text-balance">
-        <a
-          href={`#${checkpoint.id}`}
-          onClick={(event) => {
-            if (!followClick(event)) return
-            onJump(checkpoint.id)
-          }}
-          className="text-ink no-underline"
-        >
+      <summary className="cursor-pointer list-none px-4 py-3 marker:content-none sm:px-5 [&::-webkit-details-marker]:hidden">
+        <span className="text-[0.65rem] font-semibold uppercase text-cinnabar">{KIND_LABEL[checkpoint.kind]}</span>
+        <span className="mt-1 block font-display text-2xl text-ink">{checkpoint.title}</span>
+      </summary>
+      <div className="border-t border-line px-4 py-4 sm:px-5">
+        <h3 id={`${checkpoint.id}-title`} className="sr-only">
           {checkpoint.title}
-        </a>
-      </h3>
-      <div className="mt-3 max-w-2xl space-y-2">
-        {checkpoint.sentences.map((sentence) => (
-          <p key={sentence} className="text-pretty text-sm text-ink-soft">
-            {sentence}
-          </p>
-        ))}
-      </div>
-      {checkpoint.image ? (
-        <figure className="mt-4 max-w-xl">
-          <div className="overflow-hidden border border-line">
-            <TempleImage
-              src={checkpoint.image.src}
-              alt={checkpoint.image.alt}
-              priority={priority}
-              defer={defer}
-              aspect={checkpoint.image.tall ? 'tall' : 'photo'}
-            />
+        </h3>
+        <div className="max-w-2xl space-y-2">
+          {checkpoint.sentences.map((sentence) => (
+            <p key={sentence} className="text-pretty text-sm text-ink-soft">
+              {sentence}
+            </p>
+          ))}
+        </div>
+        {checkpoint.lookFor?.length ? (
+          <div className="mt-4 border border-cinnabar/30 bg-cinnabar-wash/40 p-3">
+            <p className="text-[0.65rem] font-semibold uppercase text-cinnabar">What to look for</p>
+            <ul className="mt-2 space-y-2">
+              {checkpoint.lookFor.map((item) => (
+                <li key={item} className="text-sm text-ink">
+                  {item}
+                </li>
+              ))}
+            </ul>
           </div>
-          <figcaption className="mt-2 text-xs text-ink-muted">
-            {checkpoint.image.caption} Photo: {checkpoint.image.credit}
-          </figcaption>
-        </figure>
-      ) : null}
-    </article>
+        ) : null}
+        <LookPrompt checkpoint={checkpoint} />
+        {checkpoint.image ? (
+          <figure className="mt-4 max-w-xl">
+            <button
+              type="button"
+              className="block w-full border border-line text-left"
+              aria-haspopup="dialog"
+              aria-label={`Enlarge photo: ${checkpoint.image.alt}`}
+              onClick={() => onEnlarge(checkpoint.image as TourImage)}
+            >
+              <TempleImage
+                src={checkpoint.image.src}
+                alt={checkpoint.image.alt}
+                priority={priority}
+                defer={defer}
+                aspect={checkpoint.image.tall ? 'tall' : 'photo'}
+              />
+            </button>
+            <figcaption className="mt-2 text-xs text-ink-muted">
+              {checkpoint.image.caption} Photo: {checkpoint.image.credit} Tap the photo to enlarge.
+            </figcaption>
+          </figure>
+        ) : null}
+      </div>
+    </details>
+  )
+})
+
+function progressNow(active: string) {
+  if (active === END_ID) return STOPS.length
+  const index = STOPS.findIndex((stop) => stop.id === active)
+  return index === -1 ? 1 : index + 1
+}
+
+function WalkProgress({ active }: { active: string }) {
+  const now = progressNow(active)
+  return (
+    <div
+      role="progressbar"
+      aria-label="Walk progress"
+      aria-valuemin={1}
+      aria-valuemax={STOPS.length}
+      aria-valuenow={now}
+      className="h-1 bg-paper-deep"
+    >
+      <span className="block h-full bg-cinnabar" style={{ width: `${(now / STOPS.length) * 100}%` }} />
+    </div>
   )
 }
 
@@ -158,10 +237,12 @@ function StopBody({
   stop,
   first,
   onJump,
+  onEnlarge,
 }: {
   stop: TourStop
   first: boolean
   onJump: (id: string) => void
+  onEnlarge: (image: TourImage) => void
 }) {
   const next = nextTarget(stop.id)
   const nextStop = STOPS.find((item) => item.id === next)
@@ -207,11 +288,35 @@ function StopBody({
               checkpoint={checkpoint}
               priority={first && checkpoint.id === 'arrival-romon'}
               defer={Boolean(stop.optional)}
-              onJump={onJump}
+              onEnlarge={onEnlarge}
             />
           ))}
         </div>
       </div>
+      {stop.id === 'yotsutsuji' ? (
+        <fieldset className="mt-6 border border-line p-4">
+          <legend className="px-1 font-display text-2xl">Your call at the crossroads</legend>
+          <p className="max-w-2xl text-sm text-ink-soft">
+            Either choice is a complete visit. Turning back skips the forest circuit. Continuing opens the summit loop.
+          </p>
+          <div className="mt-3 flex flex-wrap gap-2">
+            <button
+              type="button"
+              onClick={() => onJump('descent')}
+              className="border border-line bg-paper px-3 py-2 text-sm font-medium"
+            >
+              Turn back down
+            </button>
+            <button
+              type="button"
+              onClick={() => onJump('summit-okumiya')}
+              className="border border-cinnabar bg-cinnabar-wash px-3 py-2 text-sm font-medium"
+            >
+              Continue to Okumiya
+            </button>
+          </div>
+        </fieldset>
+      ) : null}
       <p className="mt-6 flex flex-wrap gap-4 text-sm">
         {nextStop ? (
           <a
@@ -335,13 +440,25 @@ function JumpList({
 
 export function TourWalk() {
   const [active, setActive] = useState<string>(STOPS[0].id)
+  const [photo, setPhoto] = useState<TourImage | null>(null)
+  const photoDialog = useRef<HTMLDialogElement>(null)
   const holdSpy = useRef(0)
+
+  useEffect(() => {
+    const dialog = photoDialog.current
+    if (!dialog) return
+    if (photo && !dialog.open) dialog.showModal()
+    if (!photo && dialog.open) dialog.close()
+  }, [photo])
 
   const jump = useCallback((id: string) => {
     const target = document.getElementById(id)
-    const details = document.getElementById('summit')
-    if (details instanceof HTMLDetailsElement && target && (id === 'summit' || details.contains(target))) {
-      details.open = true
+    if (target) {
+      let node: HTMLElement | null = target
+      while (node) {
+        if (node instanceof HTMLDetailsElement) node.open = true
+        node = node.parentElement
+      }
     }
     if (!target) return
     const reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches
@@ -407,9 +524,13 @@ export function TourWalk() {
     <div className="tour-walk lg:grid lg:grid-cols-[13.5rem_minmax(0,1fr)] lg:gap-14">
       <aside className="hidden lg:block">
         <nav aria-label="Walk stops" className="sticky top-24 border border-line bg-paper">
-          <p className="border-b border-line px-3 py-3 text-[0.65rem] font-semibold uppercase text-cinnabar">
-            Stops
+          <p className="flex items-baseline justify-between border-b border-line px-3 py-3 text-[0.65rem] font-semibold uppercase text-cinnabar">
+            <span>Stops</span>
+            <span className="font-medium text-ink-muted">
+              {progressNow(active)} / {STOPS.length}
+            </span>
           </p>
+          <WalkProgress active={active} />
           <JumpList active={active} onJump={jump} layout="rail" />
         </nav>
       </aside>
@@ -433,7 +554,7 @@ export function TourWalk() {
                   </span>
                 </summary>
                 <div className="border-t border-line px-4 py-6 sm:px-6">
-                  <StopBody stop={stop} first={false} onJump={jump} />
+                  <StopBody stop={stop} first={false} onJump={jump} onEnlarge={setPhoto} />
                 </div>
               </details>
             )
@@ -445,7 +566,7 @@ export function TourWalk() {
               aria-labelledby={`${stop.id}-title`}
               className="tour-stop mt-12 scroll-mt-24 scroll-mb-20 border-t border-line pt-10 first:mt-0 first:border-t-0 first:pt-0 lg:scroll-mb-8"
             >
-              <StopBody stop={stop} first={index === 0} onJump={jump} />
+              <StopBody stop={stop} first={index === 0} onJump={jump} onEnlarge={setPhoto} />
             </section>
           )
         })}
@@ -486,6 +607,7 @@ export function TourWalk() {
       </div>
 
       <div className="fixed inset-x-0 bottom-0 z-30 border-t border-line bg-paper pb-[env(safe-area-inset-bottom)] lg:hidden">
+        <WalkProgress active={active} />
         <div className="flex h-11 max-h-[12dvh] items-stretch">
           <QuietStub stopId={activeStop.id} plate={activeStop.plate} compact />
           <nav aria-label="Walk stops" className="flex min-w-0 flex-1 items-stretch">
@@ -493,6 +615,29 @@ export function TourWalk() {
           </nav>
         </div>
       </div>
+      <dialog
+        ref={photoDialog}
+        className="w-[min(100%-2rem,56rem)] border border-line bg-paper p-4 backdrop:bg-ink/60"
+        aria-label="Enlarged photo"
+        onClose={() => setPhoto(null)}
+        onClick={(event) => {
+          if (event.target === event.currentTarget) event.currentTarget.close()
+        }}
+      >
+        {photo ? (
+          <>
+            <img src={photo.src} alt={photo.alt} className="max-h-[75dvh] w-full object-contain" />
+            <p className="mt-2 text-xs text-ink-muted">
+              {photo.caption} Photo: {photo.credit}
+            </p>
+            <form method="dialog" className="mt-3 text-right">
+              <button type="submit" className="border border-ink px-3 py-1.5 text-sm font-medium">
+                Close
+              </button>
+            </form>
+          </>
+        ) : null}
+      </dialog>
     </div>
   )
 }

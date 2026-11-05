@@ -5533,7 +5533,7 @@
     "religionSlugs": [
       "buddhist"
     ],
-    "summary": "Tokyo's oldest and most-visited Buddhist temple — Kaminarimon and Nakamise axis; temple admission free via senso-ji.jp (third-party \"tickets\" are tours, not gate entry).",
+    "summary": "Tokyo's oldest Buddhist temple — Kaminarimon–Nakamise–Hondo axis in Asakusa. Confirm Hondo hours, prayer offerings, and access on senso-ji.jp path pages.",
     "heroImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Cloudy_Sens%C5%8D-ji.jpg/1920px-Cloudy_Sens%C5%8D-ji.jpg",
     "heroCredit": "jreysp / Wikimedia Commons",
     "featured": true,
@@ -5550,75 +5550,77 @@
     ],
     "overview": {
       "body": [
-        "Senso-ji is Tokyo's oldest established Buddhist temple and among Japan's highest everyday sacred-tourism footfalls — the red Kaminarimon lantern, the Nakamise approach, Hozomon, the five-storey pagoda, and the main hall (Hondo) of Asakusa Kannon.",
+        "Sensō-ji (Asakusa Kannon) is Tokyo's oldest established Buddhist temple, centred on the Kaminarimon–Nakamise–Hondo axis in Asakusa, Taitō. Official visitor information is published on senso-ji.jp (JA/EN and other languages).",
         "Frame it as a living Buddhist monastery precinct, not a shopping-mall backdrop. Worshippers use the incense cauldron and Hondo for prayer; keep clear of ritual space when photographing. Adjacent Asakusa Shrine is a separate Shinto site — do not conflate the two.",
-        "Temple admission is free. Official information is at senso-ji.jp (EN/JA/ZH/KO). Products marketed as \"Senso-ji tickets\" online are typically kimono rentals, rickshaws, or guided tours — not gate admission. Goshuin at Yogodo is a separate desk offering with its own posted fee — verify on site; do not invent JPY.",
-        "Main hall hours are commonly 06:00–17:00 (April–September) and 06:30–17:00 (October–March) — verify senso-ji.jp. Grounds and gates remain accessible beyond hall hours; evening illumination is popular from roughly sunset into late evening.",
-        "Reach Asakusa Station on Tokyo Metro Ginza, Toei Asakusa, Tobu Skytree, or Tsukuba Express lines, then walk about five minutes to Kaminarimon. Expect shoulder-to-shoulder Nakamise density midday; dawn or late evening is kinder. New Year, Hozuki-ichi, and Hagoita-ichi are extreme peaks."
+        "Official English and Japanese visitor pages (home, visit, access, FAQ) do not publish 拝観料 / entrance / 拝観料 fee language and list no general admission ticket. Paid 志納金 appear for prayer services: ご祈祷 (kito) paper talismans from ¥5,000 (higher wood-talisman tiers on the same /visit/ table); ご回向 (memorial) from ¥3,000 — voluntary offerings for services, not a gate fee (senso-ji.jp/visit/). Do not hard-claim a free-entry line as an official senso-ji.jp line. Products marketed as “Sensō-ji tickets” online are typically kimono rentals, rickshaws, or guided tours — not gate admission.",
+        "Main hall (Hondo / 本堂開堂): 06:00–17:00 April–September; 06:30–17:00 October–March (senso-ji.jp/visit/). Goshuin at Yogodo (影向堂), west side of the Hondo — desk hours 08:00–16:30; special hours at New Year and on 9–10 July (四万六千日). Official jumotsu3 publishes desk hours and location only — no yen price; treat any seal fee as posted on site — verify at the desk; do not invent JPY (senso-ji.jp/visit/jumotsu3.html). Official visitor pages do not state round-the-clock precinct hours, 終夜, or a clocked lighting window such as sunset into late evening — plan around published Hondo clocks. Soft late-evening light is popular with visitors but is not an official senso-ji.jp line.",
+        "Nearest station: Asakusa, about a 5-minute walk (Tobu Skytree Line; Tokyo Metro Ginza Line; Tsukuba Express; Toei Asakusa Line Exit A4). Temple has no parking — official page directs drivers to Taito Ward Kaminarimon Underground Parking and nearby lots (senso-ji.jp/access/). SanctaWay is informational and does not sell tickets."
       ],
       "highlights": [
-        "Tokyo's oldest temple — Kaminarimon / Nakamise / Hondo axis",
-        "Admission free — senso-ji.jp; ignore third-party \"gate tickets\"",
-        "Living Buddhist etiquette; Asakusa Shrine is separate Shinto",
-        "Dawn or late evening beats coach waves",
-        "Goshuin / omikuji are optional desk fees — verify on site"
+        "Hondo 06:00–17:00 (Apr–Sep) / 06:30–17:00 (Oct–Mar) — senso-ji.jp/visit/",
+        "Goshuin desk Yogodo 08:00–16:30 — jumotsu3; fee posted on site (no invented JPY)",
+        "Kito paper talismans from ¥5,000; memorial from ¥3,000 — /visit/ 志納金",
+        "Asakusa Station ~5 min walk — Ginza / Toei A4 / Tobu / TX (senso-ji.jp/access/)",
+        "No general admission ticket listed on official visitor pages — do not invent a free-entry line",
+        "Living Buddhist etiquette; Asakusa Shrine next door is separate Shinto"
       ]
     },
     "visit": {
-      "intro": "Free living Buddhist temple; verify hall hours on senso-ji.jp.",
-      "hours": "Main hall commonly 06:00–17:00 (Apr–Sep) / 06:30–17:00 (Oct–Mar) — verify senso-ji.jp. Grounds/gates accessible beyond hall hours; evening illumination roughly sunset–late evening when scheduled.",
-      "tickets": "Temple admission is free — no official entry ticket. Official info: senso-ji.jp. Warn: third-party \"Senso-ji tickets\" are tours / kimono / rickshaw products, not gate admission. Goshuin at Yogodo is a separate posted desk fee — verify on site; do not invent JPY.",
-      "dress": "Modest, comfortable clothing for a living temple. Quiet shoes for the Hondo; no blocking worshippers for photos. Summer heat and winter illuminations both draw crowds — dress for weather and walking.",
+      "intro": "Living Buddhist temple. Confirm Hondo hours, prayer offerings, and access on official path pages — not invented gate fees.",
+      "hours": "Main hall (Hondo / 本堂開堂): 06:00–17:00 April–September; 06:30–17:00 October–March (senso-ji.jp/visit/). Goshuin desk (Yogodo): 08:00–16:30; New Year and 9–10 July special (senso-ji.jp/visit/jumotsu3.html). Official visitor pages do not state round-the-clock precinct hours, 終夜, or a clocked lighting window such as sunset into late evening — plan around published Hondo clocks. Soft late-evening light is popular with visitors but is not an official senso-ji.jp line. Verify on-site signage.",
+      "tickets": "Official visitor pages do not publish 拝観料 / entrance-fee language and list no general admission ticket. Prayer 志納金 on /visit/: kito paper talismans from ¥5,000; memorial from ¥3,000. Goshuin desk fee is posted on site — jumotsu3 has no yen; do not invent JPY. Warn: third-party “Sensō-ji tickets” are tours / kimono / rickshaw products, not gate admission. Prefer senso-ji.jp/visit/, /visit/jumotsu3.html, /access/, and /faq/ over OTAs.",
+      "dress": "Modest, comfortable clothing for a living temple. Quiet shoes for the Hondo; no blocking worshippers for photos. Summer heat and winter evenings both draw crowds — dress for weather and walking.",
       "duration": "1–2 hours for gates, Hondo, and grounds; allow more if combining Nakamise shopping or evening light. Skytree / Sumida waterbus are separate visits — plan honestly.",
-      "access": "Flat approach from Asakusa Station via Kaminarimon and Nakamise. Crowds are the main constraint; travel light. Pagoda is exterior viewing for most visitors. Principal image traditionally never shown.",
+      "access": "Flat approach from Asakusa Station via Kaminarimon and Nakamise. Crowds are the main constraint; travel light. Pagoda is exterior viewing for most visitors. Principal image traditionally never shown. Elevator on the west / left side of the main hall; multi-purpose toilets (senso-ji.jp/faq/).",
       "tips": [
-        "Use senso-ji.jp only for official temple info — not third-party \"tickets.\"",
+        "Use senso-ji.jp/visit/, /visit/jumotsu3.html, /access/, and /faq/ — not bare /english/ alone for hours, fees, or access clocks.",
         "Arrive at dawn or after dinner for thinner Nakamise density.",
         "Keep clear of the incense cauldron and Hondo prayer lines when photographing.",
         "Asakusa Shrine next door is Shinto — treat it as a separate visit.",
-        "Omikuji and goshuin: follow posted desk rules; do not invent fees.",
-        "Summer: heat + humidity on Nakamise; winter: illuminations are popular.",
+        "Omikuji and goshuin: follow posted desk rules; do not invent JPY (jumotsu3 has no yen).",
+        "Temple has no parking — use Taito Ward Kaminarimon Underground Parking or nearby lots (senso-ji.jp/access/).",
         "Combine carefully with Skytree — different tickets and queues."
       ],
-      "entryType": "free",
-      "ticketsUrl": "https://www.senso-ji.jp/english/",
-      "ticketsLabel": "Senso-ji official site (admission free)",
-      "ticketsNote": "No gate ticket. Third-party \"Senso-ji tickets\" are tours/experiences — not temple admission. Verify goshuin desk fees on site; do not invent JPY."
+      "entryType": "verify",
+      "ticketsUrl": "https://www.senso-ji.jp/visit/",
+      "ticketsLabel": "Sensō-ji official — visit (Hondo hours & 志納金)",
+      "ticketsNote": "No general admission ticket listed on official visitor pages. Confirm Hondo hours (06:00/06:30–17:00), goshuin desk (08:00–16:30), and prayer 志納金 on senso-ji.jp/visit/ and /visit/jumotsu3.html. Prefer official path pages over OTAs."
     },
     "etiquette": {
-      "intro": "Living Buddhist temple — quiet at the Hondo; do not block worshippers.",
+      "intro": "Living Buddhist temple — quiet at the Hondo; do not block worshippers. Official FAQ topics (senso-ji.jp/faq/):",
       "bullets": [
         "Quiet near the main hall; no loud poses in prayer space.",
-        "Incense and omikuji: follow local custom and posted signs.",
+        "Incense and omikuji: follow on-site signs; FAQ covers 観音百籤 (many unfavourable results) and tying fortunes at the designated spot — no dedicated incense Q on official FAQ.",
         "Do not block worshippers for photos at Kaminarimon or Hondo.",
+        "Doll memorials are not accepted (senso-ji.jp/faq/).",
+        "Accessibility: elevator on the west / left side of the main hall; multi-purpose toilets.",
         "Asakusa Shrine is adjacent Shinto — do not conflate rituals.",
-        "Travel light — Nakamise is often shoulder-to-shoulder.",
         "Respect that the principal Kannon image is traditionally never shown."
       ]
     },
     "gettingThere": {
-      "intro": "How visitors usually reach Senso-ji.",
+      "intro": "How visitors usually reach Sensō-ji (official access: senso-ji.jp/access/).",
       "paragraphs": [
-        "Take Tokyo Metro Ginza, Toei Asakusa, Tobu Skytree, or Tsukuba Express lines to Asakusa Station. From the exits it is roughly a five-minute walk to Kaminarimon, then along Nakamise to Hozomon and the Hondo.",
-        "Asakusa is also a Sumida waterbus and Tokyo Skytree day-trip hub. Those are separate paid attractions — do not assume a single combined ticket with the temple (the temple itself is free).",
-        "Expect dense pedestrian flow on Nakamise from mid-morning. If you need quieter access, aim for early hall opening or late evening when stalls thin out."
+        "Take Tobu Skytree Line, Tokyo Metro Ginza Line, Tsukuba Express, or Toei Asakusa Line (Exit A4) to Asakusa Station. From the exits it is roughly a five-minute walk to Kaminarimon, then along Nakamise to Hozomon and the Hondo.",
+        "The temple has no parking. Official access page directs drivers to Taito Ward Kaminarimon Underground Parking and other nearby lots.",
+        "Asakusa is also a Sumida waterbus and Tokyo Skytree day-trip hub. Those are separate paid attractions — do not assume a single combined ticket with the temple. Expect dense pedestrian flow on Nakamise from mid-morning; dawn or late evening is thinner. Nakamise shops often close around ~18:00 in tertiary visitor guides — that closing is not published on senso-ji.jp."
       ],
       "bullets": [
-        "Asakusa Station → ~5 min walk to Kaminarimon",
-        "Metro Ginza / Toei Asakusa / Tobu / TX all serve Asakusa",
-        "Skytree / waterbus are separate paid visits",
+        "Asakusa Station → ~5 min walk to Kaminarimon (senso-ji.jp/access/)",
+        "Tobu Skytree / Metro Ginza / TX / Toei Asakusa (Exit A4)",
+        "No temple parking → Kaminarimon Underground Parking / nearby lots",
         "Dawn or late evening for thinner crowds"
       ]
     },
     "bestTime": {
       "intro": "Dawn or late evening beats midday Nakamise waves.",
       "paragraphs": [
-        "Main-hall opening at dawn is the calmest worship window before souvenir stalls peak. Late evening illumination is popular and often thinner than midday coach waves.",
-        "New Year, Sanja Matsuri season energy nearby, Hozuki-ichi, and Hagoita-ichi are extreme peaks — verify event calendars if you need space to breathe."
+        "Main-hall opening at dawn is the calmest worship window before souvenir stalls peak. Soft late-evening light is popular with visitors and often thinner than midday coach waves — that soft evening pattern is not an official senso-ji.jp clocked lighting window.",
+        "New Year, Sanja Matsuri season energy nearby, Hozuki-ichi, and Hagoita-ichi are extreme peaks — verify event calendars if you need space to breathe. Align goshuin visits with desk hours 08:00–16:30."
       ],
       "bullets": [
         "Dawn hall opening for quieter worship",
-        "Late evening illumination when crowds thin",
+        "Late evening when crowds thin (not an official clocked lighting claim)",
         "Midday Nakamise = highest density",
         "Festival / market peaks: plan extra time"
       ]
@@ -5626,10 +5628,10 @@
     "notes": {
       "intro": "Notes · Verify before visit",
       "bullets": [
-        "Admission free — confirm hall hours on senso-ji.jp.",
-        "Ignore third-party products sold as \"Senso-ji entry tickets.\"",
-        "SanctaWay is informational; it does not sell tickets or grant access.",
-        "Hero image is an Unsplash placeholder pending visual / Commons pass."
+        "Official path cites: https://www.senso-ji.jp/visit/ · https://www.senso-ji.jp/visit/jumotsu3.html · https://www.senso-ji.jp/access/ · https://www.senso-ji.jp/faq/ — not bare /english/ alone for hours, fees, or access.",
+        "Do not invent a free-entry official line, round-the-clock / clocked late-evening lighting claims, or an invented Goshuin yen amount — jumotsu3 has no yen.",
+        "Hondo 06:00/06:30–17:00; goshuin desk 08:00–16:30; kito from ¥5,000; memorial from ¥3,000.",
+        "SanctaWay is informational; it does not sell tickets or grant access."
       ]
     }
   },

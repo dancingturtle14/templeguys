@@ -5,6 +5,7 @@ import { TempleChapterNav } from '../components/TempleChapterNav'
 import { TempleChapterPager } from '../components/TempleChapterPager'
 import { TempleImage } from '../components/TempleImage'
 import { TicketsCta } from '../components/TicketsCta'
+import { FushimiTourCard } from './TempleTour'
 import { TEMPLE_CHAPTERS } from '../lib/chapters'
 import { Link } from '../lib/router'
 import { getTemple, temples } from '../lib/temples'
@@ -46,6 +47,7 @@ function OverviewChapter({ temple }: { temple: Temple }) {
         <h3 className="font-display text-2xl">Highlights</h3>
         <BulletList items={temple.overview.highlights} accent />
       </div>
+      {temple.id === 'fushimi-inari' ? <FushimiTourCard /> : null}
       <div className="grid gap-3 sm:grid-cols-2">
         {TEMPLE_CHAPTERS.filter((c) => c.id !== 'overview').map((c) => (
           <Link

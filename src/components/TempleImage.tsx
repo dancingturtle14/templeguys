@@ -6,14 +6,17 @@ export function TempleImage({
   src,
   alt,
   priority = false,
+  defer = false,
   className = '',
   aspect = 'photo',
 }: {
   src: string
   alt: string
   priority?: boolean
+  /** Hidden until the visitor opens the stop. Lazy and low priority. */
+  defer?: boolean
   className?: string
-  aspect?: 'photo' | 'hero' | 'square'
+  aspect?: 'photo' | 'hero' | 'square' | 'tall'
 }) {
   const [failed, setFailed] = useState(false)
   const ratio =
@@ -21,7 +24,9 @@ export function TempleImage({
       ? 'aspect-[16/10] md:aspect-[21/9]'
       : aspect === 'square'
         ? 'aspect-square'
-        : 'aspect-[4/3]'
+        : aspect === 'tall'
+          ? 'aspect-[3/4]'
+          : 'aspect-[4/3]'
 
   return (
     <div
@@ -32,11 +37,11 @@ export function TempleImage({
         <img
           src={src}
           alt={alt}
-          width={aspect === 'hero' ? 1600 : 800}
-          height={aspect === 'hero' ? 900 : 600}
+          width={aspect === 'hero' ? 1600 : aspect === 'tall' ? 800 : 960}
+          height={aspect === 'hero' ? 900 : aspect === 'tall' ? 1066 : 720}
           className="size-full object-cover"
           loading={priority ? 'eager' : 'lazy'}
-          fetchPriority={priority ? 'high' : undefined}
+          fetchPriority={priority ? 'high' : defer ? 'low' : undefined}
           decoding="async"
           onError={() => setFailed(true)}
         />

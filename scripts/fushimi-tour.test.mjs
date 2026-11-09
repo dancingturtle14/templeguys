@@ -22,6 +22,8 @@ const STOP_IDS = [
 ]
 
 const LEAK = /Soft Soft|Soft-home|NO_CTA|consecrat/i
+const MAPS_HREF =
+  'https://www.google.com/maps/dir/?api=1&amp;destination=Fushimi+Inari+Taisha,+Kyoto&amp;travelmode=walking'
 
 test('fushimi tour route is its own path and does not become a global chapter', () => {
   assert.deepEqual(parsePath('/temple/fushimi-inari/tour', ''), {
@@ -76,13 +78,22 @@ test('tour data is six stable stops, summit optional, factual copy only', () => 
   }
 })
 
-test('tour page renders the walk, quiet stubs, and a closed summit', () => {
+test('tour page renders step player, schematic map, quiet stubs, closed summit', () => {
   const { html, title } = render('/temple/fushimi-inari/tour')
   assert.match(title, /Fushimi Inari/)
   assert.match(html, /Fushimi Inari on foot/)
+  assert.match(html, /step player/)
   assert.match(html, /aria-label="Walk stops"/)
+  assert.match(html, /aria-label="Walk progress"/)
+  assert.match(html, />Prev</)
+  assert.match(html, />Next</)
   assert.match(html, />Skip</)
   assert.match(html, /href="#tour-end"/)
+  assert.match(html, /1 \/ 6/)
+  assert.match(html, /Schematic walking route with six stops/)
+  assert.match(html, /Open walking route in Google Maps/)
+  assert.match(html, new RegExp(MAPS_HREF.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')))
+  assert.doesNotMatch(html, /<iframe[\s>]/i)
   assert.doesNotMatch(html, /<audio[\s>]/)
   assert.doesNotMatch(html, LEAK)
 
@@ -90,6 +101,7 @@ test('tour page renders the walk, quiet stubs, and a closed summit', () => {
     assert.match(html, new RegExp(`id="${id}"`))
     assert.match(html, new RegExp(`data-voice="quiet"[^>]*data-stop-id="${id}"`))
     assert.match(html, new RegExp(`href="#${id}"`))
+    assert.match(html, new RegExp(`data-tour-jump="${id}"`))
   }
 
   const summitOpen = html.match(/<details\b[^>]*\bid="summit"[^>]*>/)
@@ -105,7 +117,6 @@ test('tour page renders the walk, quiet stubs, and a closed summit', () => {
   assert.match(html, /What to look for/)
   assert.match(html, /Enlarge photo/)
   assert.match(html, /Your call at the crossroads/)
-  assert.match(html, /aria-label="Walk progress"/)
   assert.match(html, /Show every reading/)
   assert.match(html, /Traditional story/)
   assert.match(html, /House rule/)

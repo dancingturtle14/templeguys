@@ -31,7 +31,7 @@ export function TempleTourPage({ id }: { id: string }) {
           <p className="text-[0.65rem] font-semibold uppercase text-cinnabar">Walk</p>
           <h1 className="mt-3 font-display text-4xl text-balance sm:text-6xl">Fushimi Inari on foot</h1>
           <p className="mt-4 text-pretty text-lg text-ink-soft">
-            Six stops from Inari Station to Yotsutsuji, each with must-see spots and the objects on the path. The summit loop stays closed until you open it.
+            Six stops as a step player — one screen at a time — from Inari Station to Yotsutsuji. Follow the route map, or open walking directions in Google Maps. The summit loop stays closed until you open it.
           </p>
           <p className="mt-3 text-sm text-ink-muted">
             Times here are the usual visitor pattern, not a printed shrine timetable. Confirm office hours on the board or at{' '}

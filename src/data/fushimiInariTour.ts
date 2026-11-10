@@ -1,6 +1,6 @@
 import type { Route } from '../types'
 
-/** Stable ids for the Phase 2 voice player. Phase 1 has no audio. */
+/** Stable ids for the voice player. Play reads plate, caption, and sentences through speechSynthesis — no audio files. */
 export const FUSHIMI_INARI_TOUR_ID = 'fushimi-inari'
 
 export const FUSHIMI_TOUR_STOP_IDS = [
@@ -59,6 +59,10 @@ export type TourStop = {
   chips: TourChip[]
   checkpoints: TourCheckpoint[]
   optional?: boolean
+}
+
+export function tourVoiceScript(stop: Pick<TourStop, 'plate' | 'caption' | 'sentences'>): string {
+  return [stop.plate, stop.caption, ...stop.sentences].filter(Boolean).join(' ')
 }
 
 const etiquette: Route = { name: 'temple', id: FUSHIMI_INARI_TOUR_ID, chapter: 'etiquette' }

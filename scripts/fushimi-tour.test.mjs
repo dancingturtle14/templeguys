@@ -10,7 +10,7 @@ globalThis.React = React
 const jiti = createJiti(import.meta.url, { jsx: true })
 const { parsePath } = jiti('../src/lib/router.tsx')
 const { render } = jiti('../src/entry-server.tsx')
-const { FUSHIMI_INARI_TOUR, FUSHIMI_INARI_TOUR_ID } = jiti('../src/data/fushimiInariTour.ts')
+const { FUSHIMI_INARI_TOUR, FUSHIMI_INARI_TOUR_ID, tourVoiceScript } = jiti('../src/data/fushimiInariTour.ts')
 
 const STOP_IDS = [
   'arrival',
@@ -96,6 +96,10 @@ test('tour page renders step player, schematic map, quiet stubs, closed summit',
   assert.doesNotMatch(html, /<iframe[\s>]/i)
   assert.doesNotMatch(html, /<audio[\s>]/)
   assert.doesNotMatch(html, LEAK)
+  assert.doesNotMatch(html, /unavailable/)
+  assert.match(html, /aria-label="Play voice for From the station to the gate"/)
+  assert.doesNotMatch(html, /<button[^>]*\bdisabled\b[^>]*aria-label="Play voice/)
+  assert.match(html, /Voice is off for this stop\./)
 
   for (const id of STOP_IDS) {
     assert.match(html, new RegExp(`id="${id}"`))
@@ -152,4 +156,16 @@ test('sitemap lists the tour so the draft prerenders', () => {
   const xml = readFileSync(new URL('../public/sitemap.xml', import.meta.url), 'utf8')
   const paths = sitemapPathnames(xml)
   assert.ok(paths.includes('/temple/fushimi-inari/tour'))
+})
+
+test('each stop has a spoken script from its visible plate, caption, and sentences', () => {
+  for (const stop of FUSHIMI_INARI_TOUR.stops) {
+    const spoken = tourVoiceScript(stop)
+    assert.ok(spoken.includes(stop.plate), stop.id)
+    assert.ok(spoken.includes(stop.caption), stop.id)
+    for (const sentence of stop.sentences) {
+      assert.ok(spoken.includes(sentence), `${stop.id}: ${sentence.slice(0, 40)}`)
+    }
+    assert.doesNotMatch(spoken, LEAK)
+  }
 })

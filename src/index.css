@@ -107,14 +107,14 @@
   }
 }
 
-/* The walk’s mobile bar is one row. Leave room so the footer can scroll clear of it. */
+/* The walk’s mobile dock is a progress bar + control row + the iOS safe area. */
 @media (max-width: 1023px) {
   body:has(.tour-walk) {
-    padding-bottom: calc(3rem + env(safe-area-inset-bottom));
+    padding-bottom: calc(5.5rem + env(safe-area-inset-bottom, 0px));
   }
 
   html:has(.tour-walk) {
     scroll-padding-top: 4.5rem;
-    scroll-padding-bottom: calc(3rem + env(safe-area-inset-bottom));
+    scroll-padding-bottom: calc(5.5rem + env(safe-area-inset-bottom, 0px));
   }
 }

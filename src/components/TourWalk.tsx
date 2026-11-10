@@ -36,21 +36,25 @@ function QuietStub({ stopId, plate, compact = false }: { stopId: string; plate: 
       data-stop-id={stopId}
       className={
         compact
-          ? 'flex shrink-0 items-center gap-2 border-r border-line px-2.5'
+          ? 'flex shrink-0 items-center gap-1.5 border-r border-line px-2'
           : 'mt-4 flex items-center justify-between gap-3 border border-line bg-paper px-3 py-2'
       }
     >
-      <div className={compact ? '' : 'min-w-0'}>
-        <p className="text-[0.65rem] font-semibold uppercase text-cinnabar">Quiet</p>
+      <div className={compact ? 'min-w-0' : 'min-w-0'}>
+        <p className="text-[0.65rem] font-semibold uppercase leading-none text-cinnabar">Quiet</p>
         {compact ? null : <p className="text-xs text-ink-muted">Voice is off for this stop.</p>}
       </div>
       <button
         type="button"
         disabled
         aria-label={`Play voice for ${plate}, unavailable`}
-        className="inline-flex items-center gap-1.5 border border-line px-2 py-1 text-xs text-ink-muted"
+        className={
+          compact
+            ? 'inline-flex size-8 shrink-0 items-center justify-center border border-line text-ink-muted'
+            : 'inline-flex items-center gap-1.5 border border-line px-2 py-1 text-xs text-ink-muted'
+        }
       >
-        <svg viewBox="0 0 12 12" className="size-2.5" aria-hidden="true">
+        <svg viewBox="0 0 12 12" className="size-2.5 shrink-0" aria-hidden="true">
           <path d="M3 2.2v7.6L10 6 3 2.2Z" fill="currentColor" />
         </svg>
         {compact ? <span className="sr-only">Play</span> : 'Play'}
@@ -229,10 +233,9 @@ function WalkProgress({ active }: { active: string }) {
       aria-valuemin={1}
       aria-valuemax={STOPS.length}
       aria-valuenow={now}
-      className="h-1 bg-paper-deep d-flex align-items-center gap-2"
+      className="h-1 overflow-hidden bg-paper-deep"
     >
-      <span className="block h-full bg-cinnabar flex-1" style={{ width: `${(now / STOPS.length) * 100}%` }} />
-      <span className="text-[0.6rem] font-semibold text-cinnabar">{now} / {STOPS.length}</span>
+      <span className="block h-full bg-cinnabar" style={{ width: `${(now / STOPS.length) * 100}%` }} />
     </div>
   )
 }
@@ -440,25 +443,25 @@ function PlayerChrome({
   return (
     <div className="border border-line bg-paper">
       <WalkProgress active={active} />
-      <div className="flex flex-wrap items-stretch gap-0">
+      <div className="flex flex-nowrap items-stretch gap-0">
         <QuietStub stopId={atEnd ? 'descent' : activeStop.id} plate={atEnd ? 'End' : activeStop.plate} compact />
         <nav aria-label="Walk stops" className="flex min-w-0 flex-1 flex-wrap items-stretch">
           <button
             type="button"
             disabled={atStart}
             onClick={() => onJump(prev)}
-            className="inline-flex items-center justify-center border-r border-line px-3 py-2 text-xs font-semibold text-ink disabled:text-ink-muted"
+            className="inline-flex items-center justify-center border-r border-line px-2.5 py-2.5 text-xs font-semibold text-ink disabled:text-ink-muted"
           >
             Prev
           </button>
-          <p className="inline-flex items-center justify-center border-r border-line px-3 py-2 text-xs font-semibold text-cinnabar tabular-nums">
+          <p className="inline-flex items-center justify-center border-r border-line px-2.5 py-2.5 text-xs font-semibold text-cinnabar tabular-nums">
             {`${now} / ${STOPS.length}`}
           </p>
           <button
             type="button"
             disabled={atEnd}
             onClick={() => onJump(next)}
-            className="inline-flex items-center justify-center border-r border-line px-3 py-2 text-xs font-semibold text-ink disabled:text-ink-muted"
+            className="inline-flex items-center justify-center border-r border-line px-2.5 py-2.5 text-xs font-semibold text-ink disabled:text-ink-muted"
           >
             Next
           </button>
@@ -469,7 +472,7 @@ function PlayerChrome({
               event.preventDefault()
               onJump(nextTarget(active === END_ID ? 'descent' : active))
             }}
-            className="inline-flex items-center justify-center border-r border-line px-3 py-2 text-xs font-semibold text-ink no-underline"
+            className="inline-flex items-center justify-center border-r border-line px-2.5 py-2.5 text-xs font-semibold text-ink no-underline"
           >
             Skip
           </a>
@@ -481,7 +484,7 @@ function PlayerChrome({
               event.preventDefault()
               onJump(END_ID)
             }}
-            className="inline-flex items-center justify-center px-3 py-2 text-xs font-semibold text-cinnabar no-underline"
+            className="inline-flex items-center justify-center px-2.5 py-2.5 text-xs font-semibold text-cinnabar no-underline"
           >
             End
           </a>
@@ -642,7 +645,7 @@ export function TourWalk() {
         </section>
       </div>
 
-      <div className="fixed inset-x-0 bottom-0 z-30 pb-[env(safe-area-inset-bottom)] lg:hidden">
+      <div className="fixed inset-x-0 bottom-0 z-30 bg-paper pb-[max(0.75rem,env(safe-area-inset-bottom,0px))] lg:hidden">
         <PlayerChrome active={active} onJump={jump} />
       </div>
 

@@ -59,6 +59,11 @@ export function parsePath(pathname: string, search: string): Route {
   }
   if (path === '/about') return { name: 'about' }
 
+  const templeTour = path.match(/^\/temple\/([^/]+)\/tour$/)
+  if (templeTour) {
+    return { name: 'temple-tour', id: decodeURIComponent(templeTour[1]) }
+  }
+
   const templeChapter = path.match(/^\/temple\/([^/]+)\/([^/]+)$/)
   if (templeChapter && CHAPTERS.has(templeChapter[2])) {
     return {
@@ -102,6 +107,9 @@ function routeToUrl(route: Route): string {
       path = `/temple/${route.id}${ch}`
       break
     }
+    case 'temple-tour':
+      path = `/temple/${route.id}/tour`
+      break
     case 'region':
       path = `/region/${route.slug}`
       break

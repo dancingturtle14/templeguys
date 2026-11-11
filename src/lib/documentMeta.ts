@@ -78,6 +78,20 @@ export function metaForRoute(route: Route): { title: string; description: string
         ),
       }
     }
+    case 'temple-tour': {
+      if (route.id !== 'fushimi-inari') {
+        return {
+          title: `Page not found — ${BRAND}`,
+          description: clip('That path is not on the SanctaWay atlas.'),
+        }
+      }
+      return {
+        title: `On foot · Fushimi Inari Taisha — ${BRAND}`,
+        description: clip(
+          'Stop-by-step walk at Fushimi Inari Taisha, from Inari Station to the Yotsutsuji turnaround. The summit loop stays optional.',
+        ),
+      }
+    }
     case 'temple': {
       const temple = getTemple(route.id)
       const chapter = route.chapter ?? 'overview'

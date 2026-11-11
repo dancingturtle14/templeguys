@@ -106,3 +106,87 @@
     background: var(--color-line);
   }
 }
+
+/* Mobile walk: the dock is measured into --tour-dock-height. main scrolls above it. */
+@media (max-width: 1023px) {
+  html:has(.tour-walk),
+  body:has(.tour-walk) {
+    height: 100dvh;
+    overflow: clip;
+  }
+
+  body:has(.tour-walk) #root,
+  body:has(.tour-walk) #root > div {
+    height: 100dvh;
+    max-height: 100dvh;
+    min-height: 0;
+    overflow: clip;
+  }
+
+  body:has(.tour-walk) main#main {
+    flex: 1 1 auto;
+    min-height: 0;
+    overflow-y: auto;
+    overscroll-behavior: contain;
+    margin-bottom: var(--tour-dock-height, calc(2.75rem + max(1rem, env(safe-area-inset-bottom, 0px))));
+    scroll-padding-top: 0.75rem;
+    padding-bottom: 0;
+  }
+
+  body:has(.tour-walk) {
+    padding-bottom: 0;
+  }
+
+  body:has(.tour-walk) footer {
+    display: none;
+  }
+
+  /* Header sits above the scroller, so stop jumps need only a small inset. */
+  body:has(.tour-walk) .scroll-mt-24 {
+    scroll-margin-top: 0.75rem;
+  }
+
+  /* First load: route map, then the page intro, then the stop. */
+  .tour-page-body {
+    display: grid;
+  }
+
+  .tour-page-body > .tour-walk-wrap,
+  .tour-walk {
+    display: contents;
+  }
+
+  .tour-walk > aside {
+    order: 1;
+  }
+
+  .tour-intro {
+    order: 2;
+    margin-top: 0.5rem;
+  }
+
+  .tour-stage {
+    order: 3;
+    margin-top: 1.25rem;
+  }
+
+  /* Credit lives on the photo so a fully visible photo always shows both lines. */
+  figure.tour-stop-photo {
+    position: relative;
+  }
+  figure.tour-stop-photo figcaption {
+    position: absolute;
+    right: 1px;
+    bottom: 1px;
+    left: 1px;
+    margin: 0;
+    padding: 0.4rem 0.6rem;
+    background: var(--color-paper);
+    border-top: 1px solid var(--color-line);
+    font-size: 0.75rem;
+    line-height: 1.4;
+    color: var(--color-ink-muted);
+    overflow-wrap: break-word;
+    pointer-events: none;
+  }
+}

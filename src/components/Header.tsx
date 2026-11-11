@@ -266,7 +266,7 @@ export function Header() {
   const close = () => setOpen(false)
 
   return (
-    <header className="sticky top-0 z-20 border-b border-line bg-paper">
+    <header className="sticky top-0 z-20 border-b border-line bg-paper pt-[env(safe-area-inset-top,0px)]">
       <div className="mx-auto flex h-14 max-w-6xl items-center justify-between gap-4 px-4 sm:h-16 sm:px-6 lg:px-8">
         <Link to={{ name: 'home' }} className="group flex items-baseline gap-2 no-underline">
           <span className="font-display text-2xl font-medium tracking-normal text-ink sm:text-[1.65rem]">

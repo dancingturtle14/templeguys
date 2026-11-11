@@ -10,7 +10,7 @@ globalThis.React = React
 const jiti = createJiti(import.meta.url, { jsx: true })
 const { parsePath } = jiti('../src/lib/router.tsx')
 const { render } = jiti('../src/entry-server.tsx')
-const { FUSHIMI_INARI_TOUR, FUSHIMI_INARI_TOUR_ID, tourVoiceScript } = jiti('../src/data/fushimiInariTour.ts')
+const { FUSHIMI_INARI_TOUR, FUSHIMI_INARI_TOUR_ID, tourStopImage } = jiti('../src/data/fushimiInariTour.ts')
 
 const STOP_IDS = [
   'arrival',
@@ -78,7 +78,7 @@ test('tour data is six stable stops, summit optional, factual copy only', () => 
   }
 })
 
-test('tour page renders step player, schematic map, quiet stubs, closed summit', () => {
+test('tour page renders step player, schematic map, stop photos, closed summit', () => {
   const { html, title } = render('/temple/fushimi-inari/tour')
   assert.match(title, /Fushimi Inari/)
   assert.match(html, /Fushimi Inari on foot/)
@@ -97,15 +97,23 @@ test('tour page renders step player, schematic map, quiet stubs, closed summit',
   assert.doesNotMatch(html, /<audio[\s>]/)
   assert.doesNotMatch(html, LEAK)
   assert.doesNotMatch(html, /unavailable/)
-  assert.match(html, /aria-label="Play voice for From the station to the gate"/)
-  assert.doesNotMatch(html, /<button[^>]*\bdisabled\b[^>]*aria-label="Play voice/)
-  assert.match(html, /Voice is off for this stop\./)
+  assert.doesNotMatch(html, /speechSynthesis/)
+  assert.doesNotMatch(html, /data-voice/)
+  assert.doesNotMatch(html, /Play voice/)
+  assert.doesNotMatch(html, /Stop voice/)
+  assert.doesNotMatch(html, />Quiet</)
+  assert.doesNotMatch(html, /Voice is off for this stop/)
+  assert.doesNotMatch(html, /Voice is on for this stop/)
 
   for (const id of STOP_IDS) {
     assert.match(html, new RegExp(`id="${id}"`))
-    assert.match(html, new RegExp(`data-voice="quiet"[^>]*data-stop-id="${id}"`))
+    assert.match(html, new RegExp(`data-stop-image="${id}"`))
     assert.match(html, new RegExp(`href="#${id}"`))
     assert.match(html, new RegExp(`data-tour-jump="${id}"`))
+    const image = tourStopImage(FUSHIMI_INARI_TOUR.stops.find((stop) => stop.id === id))
+    assert.ok(image, id)
+    const escaped = image.src.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
+    assert.match(html, new RegExp(escaped))
   }
 
   const summitOpen = html.match(/<details\b[^>]*\bid="summit"[^>]*>/)
@@ -158,14 +166,15 @@ test('sitemap lists the tour so the draft prerenders', () => {
   assert.ok(paths.includes('/temple/fushimi-inari/tour'))
 })
 
-test('each stop has a spoken script from its visible plate, caption, and sentences', () => {
+test('each stop has a Wikimedia image to show on the player screen', () => {
   for (const stop of FUSHIMI_INARI_TOUR.stops) {
-    const spoken = tourVoiceScript(stop)
-    assert.ok(spoken.includes(stop.plate), stop.id)
-    assert.ok(spoken.includes(stop.caption), stop.id)
-    for (const sentence of stop.sentences) {
-      assert.ok(spoken.includes(sentence), `${stop.id}: ${sentence.slice(0, 40)}`)
-    }
-    assert.doesNotMatch(spoken, LEAK)
+    const image = tourStopImage(stop)
+    assert.ok(image, stop.id)
+    assert.match(image.src, /^https:\/\/thumb\.wikimedia\.org\//)
+    assert.ok(image.credit.includes('Wikimedia Commons'), stop.id)
+    assert.match(image.credit, /CC BY/)
+    assert.ok(image.alt.length > 8, stop.id)
+    assert.ok(image.caption.length > 4, stop.id)
+    assert.doesNotMatch([image.alt, image.caption, image.credit].join(' '), LEAK)
   }
 })

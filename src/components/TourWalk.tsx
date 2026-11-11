@@ -1,9 +1,9 @@
-import { createContext, memo, useCallback, useContext, useEffect, useRef, useState } from 'react'
+import { memo, useCallback, useEffect, useRef, useState } from 'react'
 import { TempleImage } from './TempleImage'
 import { Link } from '../lib/router'
 import {
   FUSHIMI_INARI_TOUR,
-  tourVoiceScript,
+  tourStopImage,
   type CheckpointKind,
   type TourCheckpoint,
   type TourChip,
@@ -15,75 +15,6 @@ const STOPS = FUSHIMI_INARI_TOUR.stops
 const END_ID = 'tour-end'
 const TOUR_END_COPY =
   'The lower gates and Yotsutsuji are a complete visit for most people. The summit loop can wait for another morning.'
-const TOUR_END_VOICE = `End of the walk. ${TOUR_END_COPY}`
-
-type TourVoice = {
-  playingId: string | null
-  play: (stopId: string, text: string) => void
-  hush: () => void
-}
-
-const VoiceContext = createContext<TourVoice>({
-  playingId: null,
-  play() {},
-  hush() {},
-})
-
-function useTourVoice(): TourVoice {
-  const [playingId, setPlayingId] = useState<string | null>(null)
-  const generation = useRef(0)
-  const utterance = useRef<SpeechSynthesisUtterance | null>(null)
-
-  const hush = useCallback(() => {
-    generation.current += 1
-    utterance.current = null
-    const synth = window.speechSynthesis
-    if (synth) {
-      synth.cancel()
-      if (synth.paused) synth.resume()
-    }
-    setPlayingId(null)
-  }, [])
-
-  const play = useCallback((stopId: string, text: string) => {
-    const synth = window.speechSynthesis
-    if (!synth || !text.trim()) return
-    generation.current += 1
-    const token = generation.current
-    if (synth.speaking || synth.pending) synth.cancel()
-    const utter = new SpeechSynthesisUtterance(text)
-    utter.lang = 'en-US'
-    utter.rate = 0.95
-    utter.onend = () => {
-      if (generation.current === token) {
-        utterance.current = null
-        setPlayingId(null)
-      }
-    }
-    utter.onerror = (event) => {
-      if (event.error === 'canceled' || event.error === 'interrupted') return
-      if (generation.current === token) {
-        utterance.current = null
-        setPlayingId(null)
-      }
-    }
-    utterance.current = utter
-    setPlayingId(stopId)
-    if (synth.paused) synth.resume()
-    synth.speak(utter)
-  }, [])
-
-  useEffect(
-    () => () => {
-      generation.current += 1
-      utterance.current = null
-      window.speechSynthesis?.cancel()
-    },
-    [],
-  )
-
-  return { playingId, play, hush }
-}
 const MAPS_WALKING =
   'https://www.google.com/maps/dir/?api=1&destination=Fushimi+Inari+Taisha,+Kyoto&travelmode=walking'
 
@@ -99,74 +30,6 @@ function prevTarget(current: string) {
   const index = STOPS.findIndex((stop) => stop.id === current)
   if (index <= 0) return STOPS[0].id
   return STOPS[index - 1].id
-}
-
-function VoiceControl({
-  stopId,
-  plate,
-  text,
-  compact = false,
-}: {
-  stopId: string
-  plate: string
-  text: string
-  compact?: boolean
-}) {
-  const voice = useContext(VoiceContext)
-  const playing = voice.playingId === stopId
-  return (
-    <div
-      data-voice={playing ? 'playing' : 'quiet'}
-      data-stop-id={stopId}
-      className={
-        compact
-          ? 'flex shrink-0 items-center gap-1.5 border-r border-line px-2'
-          : 'mt-4 flex items-center justify-between gap-3 border border-line bg-paper px-3 py-2'
-      }
-    >
-      <div className="min-w-0">
-        <p className="text-[0.65rem] font-semibold uppercase leading-none text-cinnabar">{playing ? 'Voice' : 'Quiet'}</p>
-        {compact ? null : (
-          <p className="text-xs text-ink-muted">
-            {playing ? 'Voice is on for this stop.' : 'Voice is off for this stop.'}
-          </p>
-        )}
-      </div>
-      {playing ? (
-        <button
-          type="button"
-          aria-label={`Stop voice for ${plate}`}
-          onClick={voice.hush}
-          className={
-            compact
-              ? 'inline-flex size-8 shrink-0 items-center justify-center border border-line text-ink'
-              : 'inline-flex items-center gap-1.5 border border-line px-2 py-1 text-xs text-ink'
-          }
-        >
-          <svg viewBox="0 0 12 12" className="size-2.5 shrink-0" aria-hidden="true">
-            <rect x="2.4" y="2.4" width="7.2" height="7.2" fill="currentColor" />
-          </svg>
-          {compact ? <span className="sr-only">Stop</span> : 'Stop'}
-        </button>
-      ) : (
-        <button
-          type="button"
-          aria-label={`Play voice for ${plate}`}
-          onClick={() => voice.play(stopId, text)}
-          className={
-            compact
-              ? 'inline-flex size-8 shrink-0 items-center justify-center border border-line text-ink'
-              : 'inline-flex items-center gap-1.5 border border-line px-2 py-1 text-xs text-ink'
-          }
-        >
-          <svg viewBox="0 0 12 12" className="size-2.5 shrink-0" aria-hidden="true">
-            <path d="M3 2.2v7.6L10 6 3 2.2Z" fill="currentColor" />
-          </svg>
-          {compact ? <span className="sr-only">Play</span> : 'Play'}
-        </button>
-      )}
-    </div>
-  )
 }
 
 function ChipList({ chips }: { chips: TourChip[] }) {
@@ -445,16 +308,55 @@ function RouteSchematic({
   )
 }
 
+function StopPhoto({
+  stop,
+  priority = false,
+  defer = false,
+  onEnlarge,
+}: {
+  stop: TourStop
+  priority?: boolean
+  defer?: boolean
+  onEnlarge: (image: TourImage) => void
+}) {
+  const image = tourStopImage(stop)
+  if (!image) return null
+  return (
+    <figure className="mt-4" data-stop-image={stop.id}>
+      <button
+        type="button"
+        className="block w-full border border-line text-left"
+        aria-haspopup="dialog"
+        aria-label={`Enlarge photo: ${image.alt}`}
+        onClick={() => onEnlarge(image)}
+      >
+        <TempleImage
+          src={image.src}
+          alt={image.alt}
+          priority={priority}
+          defer={defer}
+          aspect={image.tall ? 'tall' : 'photo'}
+        />
+      </button>
+      <figcaption className="mt-2 text-xs text-ink-muted">
+        {image.caption} Photo: {image.credit} Tap the photo to enlarge.
+      </figcaption>
+    </figure>
+  )
+}
+
 function StopBody({
   stop,
   first,
   onJump,
   onEnlarge,
+  hidePhoto = false,
 }: {
   stop: TourStop
   first: boolean
   onJump: (id: string) => void
   onEnlarge: (image: TourImage) => void
+  hidePhoto?: boolean
 }) {
   return (
     <>
@@ -463,7 +365,9 @@ function StopBody({
         {stop.plate}
       </h2>
       <p className="mt-2 max-w-2xl text-ink-soft">{stop.caption}</p>
-      <VoiceControl stopId={stop.id} plate={stop.plate} text={tourVoiceScript(stop)} />
+      {hidePhoto ? null : (
+        <StopPhoto stop={stop} priority={first} defer={Boolean(stop.optional)} onEnlarge={onEnlarge} />
+      )}
       <div className="mt-5 max-w-2xl space-y-3">
         {stop.sentences.map((sentence) => (
           <p key={sentence} className="text-pretty text-ink-soft">
@@ -544,35 +448,27 @@ function PlayerChrome({
   const atEnd = active === END_ID
   const prev = prevTarget(active)
   const next = nextTarget(active)
-  const activeStop = STOPS.find((stop) => stop.id === active) ?? STOPS[STOPS.length - 1]
-
   return (
     <div className="border border-line bg-paper">
       <WalkProgress active={active} />
       <div className="flex flex-nowrap items-stretch gap-0">
-        <VoiceControl
-          stopId={atEnd ? END_ID : activeStop.id}
-          plate={atEnd ? 'End' : activeStop.plate}
-          text={atEnd ? TOUR_END_VOICE : tourVoiceScript(activeStop)}
-          compact
-        />
-        <nav aria-label="Walk stops" className="flex min-w-0 flex-1 flex-wrap items-stretch">
+        <nav aria-label="Walk stops" className="flex min-w-0 flex-1 flex-nowrap items-stretch">
           <button
             type="button"
             disabled={atStart}
             onClick={() => onJump(prev)}
-            className="inline-flex items-center justify-center border-r border-line px-2.5 py-2.5 text-xs font-semibold text-ink disabled:text-ink-muted"
+            className="inline-flex flex-1 items-center justify-center whitespace-nowrap border-r border-line px-2.5 py-2.5 text-xs font-semibold text-ink disabled:text-ink-muted"
           >
             Prev
           </button>
-          <p className="inline-flex items-center justify-center border-r border-line px-2.5 py-2.5 text-xs font-semibold text-cinnabar tabular-nums">
+          <p className="inline-flex items-center justify-center whitespace-nowrap border-r border-line px-2.5 py-2.5 text-xs font-semibold text-cinnabar tabular-nums">
             {`${now} / ${STOPS.length}`}
           </p>
           <button
             type="button"
             disabled={atEnd}
             onClick={() => onJump(next)}
-            className="inline-flex items-center justify-center border-r border-line px-2.5 py-2.5 text-xs font-semibold text-ink disabled:text-ink-muted"
+            className="inline-flex flex-1 items-center justify-center whitespace-nowrap border-r border-line px-2.5 py-2.5 text-xs font-semibold text-ink disabled:text-ink-muted"
           >
             Next
           </button>
@@ -583,7 +479,7 @@ function PlayerChrome({
               event.preventDefault()
               onJump(nextTarget(active === END_ID ? 'descent' : active))
             }}
-            className="inline-flex items-center justify-center border-r border-line px-2.5 py-2.5 text-xs font-semibold text-ink no-underline"
+            className="inline-flex flex-1 items-center justify-center whitespace-nowrap border-r border-line px-2.5 py-2.5 text-xs font-semibold text-ink no-underline"
           >
             Skip
           </a>
@@ -595,7 +491,7 @@ function PlayerChrome({
               event.preventDefault()
               onJump(END_ID)
             }}
-            className="inline-flex items-center justify-center px-2.5 py-2.5 text-xs font-semibold text-cinnabar no-underline"
+            className="inline-flex flex-1 items-center justify-center whitespace-nowrap px-2.5 py-2.5 text-xs font-semibold text-cinnabar no-underline"
           >
             End
           </a>
@@ -619,8 +515,6 @@ export function TourWalk() {
   const [photo, setPhoto] = useState<TourImage | null>(null)
   const photoDialog = useRef<HTMLDialogElement>(null)
   const stageRef = useRef<HTMLDivElement>(null)
-  const voice = useTourVoice()
-
   useEffect(() => {
     const dialog = photoDialog.current
     if (!dialog) return
@@ -629,7 +523,6 @@ export function TourWalk() {
   }, [photo])
 
   const jump = useCallback((id: string) => {
-    voice.hush()
     const { stopId, focusId } = resolveJump(id)
     setActive(stopId)
     const url = `${window.location.pathname}${window.location.search}#${focusId}`
@@ -657,7 +550,7 @@ export function TourWalk() {
         stageRef.current.scrollIntoView({ behavior: 'smooth', block: 'start' })
       }
     })
-  }, [voice.hush])
+  }, [])
 
   useEffect(() => {
     const fromHash = window.location.hash.replace(/^#/, '')
@@ -671,7 +564,6 @@ export function TourWalk() {
   }, [jump])
 
   return (
-    <VoiceContext.Provider value={voice}>
     <div className="tour-walk lg:grid lg:grid-cols-[14rem_minmax(0,1fr)] lg:gap-10">
       <aside className="mb-6 space-y-4 lg:mb-0">
         <div className="lg:sticky lg:top-24 lg:space-y-4">
@@ -682,7 +574,7 @@ export function TourWalk() {
         </div>
       </aside>
 
-      <div ref={stageRef} className="min-w-0 pb-24 lg:pb-8">
+      <div ref={stageRef} className="min-w-0 pb-[calc(6.5rem+env(safe-area-inset-bottom,0px))] lg:pb-8">
         {/* Player stage: one visible stop at a time (others stay in DOM for SSR / hash). */}
         {STOPS.map((stop, index) => {
           const onStage = active === stop.id
@@ -702,9 +594,10 @@ export function TourWalk() {
                   <span className="mt-1 block text-sm text-ink-soft">
                     Closed until you open it. Continue only if you are going past Yotsutsuji.
                   </span>
+                  <StopPhoto stop={stop} onEnlarge={setPhoto} />
                 </summary>
                 <div className="border-t border-line px-4 py-6 sm:px-6">
-                  <StopBody stop={stop} first={false} onJump={jump} onEnlarge={setPhoto} />
+                  <StopBody stop={stop} first={false} onJump={jump} onEnlarge={setPhoto} hidePhoto />
                 </div>
               </details>
             )
@@ -756,7 +649,7 @@ export function TourWalk() {
         </section>
       </div>
 
-      <div className="fixed inset-x-0 bottom-0 z-30 bg-paper pb-[max(0.75rem,env(safe-area-inset-bottom,0px))] lg:hidden">
+      <div className="fixed inset-x-0 bottom-0 z-30 border-t border-line bg-paper pb-[max(1rem,env(safe-area-inset-bottom,0px))] lg:hidden">
         <PlayerChrome active={active} onJump={jump} />
       </div>
 
@@ -784,6 +677,5 @@ export function TourWalk() {
         ) : null}
       </dialog>
     </div>
-    </VoiceContext.Provider>
   )
 }

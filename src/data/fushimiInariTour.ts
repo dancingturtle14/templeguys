@@ -1,6 +1,6 @@
 import type { Route } from '../types'
 
-/** Stable ids for the voice player. Play reads plate, caption, and sentences through speechSynthesis — no audio files. */
+/** Stable ids for the six-stop walk. Each stop surfaces a Wikimedia image already attached to a checkpoint. */
 export const FUSHIMI_INARI_TOUR_ID = 'fushimi-inari'
 
 export const FUSHIMI_TOUR_STOP_IDS = [
@@ -61,8 +61,8 @@ export type TourStop = {
   optional?: boolean
 }
 
-export function tourVoiceScript(stop: Pick<TourStop, 'plate' | 'caption' | 'sentences'>): string {
-  return [stop.plate, stop.caption, ...stop.sentences].filter(Boolean).join(' ')
+export function tourStopImage(stop: TourStop): TourImage | undefined {
+  return stop.checkpoints.find((item) => item.image)?.image
 }
 
 const etiquette: Route = { name: 'temple', id: FUSHIMI_INARI_TOUR_ID, chapter: 'etiquette' }
@@ -312,7 +312,7 @@ export const FUSHIMI_INARI_TOUR: { stops: TourStop[] } = {
             ],
           },
           image: {
-            src: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Kitsune_Statue_at_Fushimi_Inari_%282615371311%29.jpg/800px-Kitsune_Statue_at_Fushimi_Inari_%282615371311%29.jpg',
+            src: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Kitsune_Statue_at_Fushimi_Inari_%282615371311%29.jpg/1280px-Kitsune_Statue_at_Fushimi_Inari_%282615371311%29.jpg',
             alt: 'Stone kitsune statue at Fushimi Inari Taisha',
             credit: 'syvwlch / Wikimedia Commons (CC BY 2.0)',
             caption: 'A kitsune beside the path.',

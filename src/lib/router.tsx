@@ -108,7 +108,7 @@ function routeToUrl(route: Route): string {
       break
     }
     case 'temple-tour':
-      path = `/temple/${route.id}/tour`
+      path = `/temple/${route.id}/tour/`
       break
     case 'region':
       path = `/region/${route.slug}`

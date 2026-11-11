@@ -30,6 +30,10 @@ test('fushimi tour route is its own path and does not become a global chapter', 
     name: 'temple-tour',
     id: 'fushimi-inari',
   })
+  assert.deepEqual(parsePath('/temple/fushimi-inari/tour/', ''), {
+    name: 'temple-tour',
+    id: 'fushimi-inari',
+  })
   assert.equal(parsePath('/temple/fushimi-inari', '').name, 'temple')
   assert.equal(parsePath('/temple/fushimi-inari/visit', '').chapter, 'visit')
   assert.deepEqual(parsePath('/temple/blue-mosque/tour', ''), {
@@ -79,7 +83,8 @@ test('tour data is six stable stops, summit optional, factual copy only', () => 
 })
 
 test('tour page renders step player, schematic map, stop photos, closed summit', () => {
-  const { html, title } = render('/temple/fushimi-inari/tour')
+  const { html, title } = render('/temple/fushimi-inari/tour/')
+  assert.equal(render('/temple/fushimi-inari/tour').title, title)
   assert.match(title, /Fushimi Inari/)
   assert.match(html, /Fushimi Inari on foot/)
   assert.match(html, /step player/)
@@ -149,11 +154,12 @@ test('overview keeps its copy and adds one tour card; other places do not', () =
     overview,
     /Fushimi Inari Taisha is the head shrine of Inari in southern Kyoto/,
   )
-  assert.match(overview, /href="\/temple\/fushimi-inari\/tour"/)
-  assert.equal(overview.match(/href="\/temple\/fushimi-inari\/tour"/g).length, 1)
+  assert.match(overview, /href="\/temple\/fushimi-inari\/tour\/"/)
+  assert.equal(overview.match(/href="\/temple\/fushimi-inari\/tour\/"/g).length, 1)
+  assert.doesNotMatch(overview, /href="\/temple\/fushimi-inari\/tour"/)
 
   const visit = render('/temple/fushimi-inari/visit').html
-  assert.doesNotMatch(visit, /href="\/temple\/fushimi-inari\/tour"/)
+  assert.doesNotMatch(visit, /href="\/temple\/fushimi-inari\/tour/)
 
   const other = render('/temple/blue-mosque').html
   assert.doesNotMatch(other, /\/tour"/)
@@ -163,7 +169,7 @@ test('overview keeps its copy and adds one tour card; other places do not', () =
 test('sitemap lists the tour so the draft prerenders', () => {
   const xml = readFileSync(new URL('../public/sitemap.xml', import.meta.url), 'utf8')
   const paths = sitemapPathnames(xml)
-  assert.ok(paths.includes('/temple/fushimi-inari/tour'))
+  assert.ok(paths.includes('/temple/fushimi-inari/tour/'))
 })
 
 test('each stop has a Wikimedia image to show on the player screen', () => {

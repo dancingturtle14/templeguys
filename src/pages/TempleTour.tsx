@@ -1,3 +1,4 @@
+import { useLayoutEffect } from 'react'
 import { Breadcrumb } from '../components/Breadcrumb'
 import { TourWalk } from '../components/TourWalk'
 import { FUSHIMI_INARI_TOUR_ID } from '../data/fushimiInariTour'
@@ -6,6 +7,19 @@ import { getTemple } from '../lib/temples'
 import { NotFoundPage } from './NotFound'
 
 export function TempleTourPage({ id }: { id: string }) {
+  // Mobile walk CSS clips document scroll and moves it to #main. Reset both
+  // after the tour is in the DOM so a client entry from a scrolled overview
+  // cannot leave the window stuck mid-page behind overflow:clip.
+  useLayoutEffect(() => {
+    const reset = () => {
+      window.scrollTo(0, 0)
+      document.getElementById('main')?.scrollTo(0, 0)
+    }
+    reset()
+    const frame = requestAnimationFrame(reset)
+    return () => cancelAnimationFrame(frame)
+  }, [id])
+
   if (id !== FUSHIMI_INARI_TOUR_ID) return <NotFoundPage />
   const temple = getTemple(id)
   if (!temple) return <NotFoundPage />

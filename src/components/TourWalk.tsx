@@ -468,33 +468,10 @@ function PlayerChrome({
             type="button"
             disabled={atEnd}
             onClick={() => onJump(next)}
-            className="inline-flex flex-1 items-center justify-center whitespace-nowrap border-r border-line px-2.5 py-2.5 text-xs font-semibold text-ink disabled:text-ink-muted"
+            className="inline-flex flex-1 items-center justify-center whitespace-nowrap px-2.5 py-2.5 text-xs font-semibold text-ink disabled:text-ink-muted"
           >
             Next
           </button>
-          <a
-            href={`#${nextTarget(active === END_ID ? 'descent' : active)}`}
-            onClick={(event) => {
-              if (event.metaKey || event.ctrlKey || event.shiftKey || event.altKey || event.button !== 0) return
-              event.preventDefault()
-              onJump(nextTarget(active === END_ID ? 'descent' : active))
-            }}
-            className="inline-flex flex-1 items-center justify-center whitespace-nowrap border-r border-line px-2.5 py-2.5 text-xs font-semibold text-ink no-underline"
-          >
-            Skip
-          </a>
-          <a
-            href={`#${END_ID}`}
-            aria-current={active === END_ID ? 'location' : undefined}
-            onClick={(event) => {
-              if (event.metaKey || event.ctrlKey || event.shiftKey || event.altKey || event.button !== 0) return
-              event.preventDefault()
-              onJump(END_ID)
-            }}
-            className="inline-flex flex-1 items-center justify-center whitespace-nowrap px-2.5 py-2.5 text-xs font-semibold text-cinnabar no-underline"
-          >
-            End
-          </a>
         </nav>
       </div>
     </div>

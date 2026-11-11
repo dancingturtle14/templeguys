@@ -11,9 +11,9 @@ export function TempleTourPage({ id }: { id: string }) {
   if (!temple) return <NotFoundPage />
 
   return (
-    <article className="tour-walk">
+    <article className="tour-page">
       <div className="border-b border-line bg-paper-deep/50">
-        <div className="mx-auto max-w-6xl px-4 py-5 sm:px-6 lg:px-8">
+        <div className="mx-auto max-w-6xl px-4 py-3 sm:px-6 lg:px-8 lg:py-5">
           <Breadcrumb
             items={[
               { label: 'Home', to: { name: 'home' } },
@@ -26,8 +26,8 @@ export function TempleTourPage({ id }: { id: string }) {
         </div>
       </div>
 
-      <div className="mx-auto max-w-6xl px-4 py-8 sm:px-6 lg:px-8 lg:py-12">
-        <header className="max-w-2xl">
+      <div className="tour-page-body mx-auto max-w-6xl px-4 py-5 sm:px-6 lg:px-8 lg:py-12">
+        <header className="tour-intro max-w-2xl">
           <p className="text-[0.65rem] font-semibold uppercase text-cinnabar">Walk</p>
           <h1 className="mt-3 font-display text-4xl text-balance sm:text-6xl">Fushimi Inari on foot</h1>
           <p className="mt-4 text-pretty text-lg text-ink-soft">
@@ -42,7 +42,7 @@ export function TempleTourPage({ id }: { id: string }) {
           </p>
         </header>
 
-        <div className="mt-10">
+        <div className="tour-walk-wrap mt-10">
           <TourWalk />
         </div>
       </div>

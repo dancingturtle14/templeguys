@@ -218,9 +218,9 @@ function RouteSchematic({
   onJump: (id: string) => void
 }) {
   const activeIndex = active === END_ID ? STOPS.length - 1 : STOPS.findIndex((s) => s.id === active)
-  const height = 320
-  const top = 28
-  const bottom = height - 28
+  const height = 240
+  const top = 24
+  const bottom = height - 24
   const step = (bottom - top) / (STOPS.length - 1)
   const cx = 36
 
@@ -515,12 +515,31 @@ export function TourWalk() {
   const [photo, setPhoto] = useState<TourImage | null>(null)
   const photoDialog = useRef<HTMLDialogElement>(null)
   const stageRef = useRef<HTMLDivElement>(null)
+  const dockRef = useRef<HTMLDivElement>(null)
   useEffect(() => {
     const dialog = photoDialog.current
     if (!dialog) return
     if (photo && !dialog.open) dialog.showModal()
     if (!photo && dialog.open) dialog.close()
   }, [photo])
+
+  useEffect(() => {
+    const dock = dockRef.current
+    if (!dock) return
+    const setHeight = () => {
+      const height = dock.getBoundingClientRect().height
+      if (height > 0) {
+        document.documentElement.style.setProperty('--tour-dock-height', `${Math.ceil(height)}px`)
+      }
+    }
+    setHeight()
+    const ro = new ResizeObserver(setHeight)
+    ro.observe(dock)
+    return () => {
+      ro.disconnect()
+      document.documentElement.style.removeProperty('--tour-dock-height')
+    }
+  }, [])
 
   const jump = useCallback((id: string) => {
     const { stopId, focusId } = resolveJump(id)
@@ -538,7 +557,14 @@ export function TourWalk() {
           node = node.parentElement
         }
         const reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches
-        target.scrollIntoView({ behavior: reduce ? 'auto' : 'smooth', block: 'start' })
+        const main = document.getElementById('main')
+        const mobileDock = window.matchMedia('(max-width: 1023px)').matches
+        if (mobileDock && main) {
+          const top = target.getBoundingClientRect().top - main.getBoundingClientRect().top + main.scrollTop
+          main.scrollTo({ top, behavior: reduce ? 'auto' : 'smooth' })
+        } else {
+          target.scrollIntoView({ behavior: reduce ? 'auto' : 'smooth', block: 'start' })
+        }
         const heading =
           target.querySelector('h2, h3') ??
           (target.tagName === 'H2' || target.tagName === 'H3' ? target : null)
@@ -574,7 +600,7 @@ export function TourWalk() {
         </div>
       </aside>
 
-      <div ref={stageRef} className="min-w-0 pb-[calc(6.5rem+env(safe-area-inset-bottom,0px))] lg:pb-8">
+      <div ref={stageRef} className="tour-stage min-w-0 pb-3 lg:pb-8">
         {/* Player stage: one visible stop at a time (others stay in DOM for SSR / hash). */}
         {STOPS.map((stop, index) => {
           const onStage = active === stop.id
@@ -649,7 +675,7 @@ export function TourWalk() {
         </section>
       </div>
 
-      <div className="fixed inset-x-0 bottom-0 z-30 border-t border-line bg-paper pb-[max(1rem,env(safe-area-inset-bottom,0px))] lg:hidden">
+      <div className="fixed inset-x-0 bottom-0 z-30 border-t border-line bg-paper pb-[max(1rem,env(safe-area-inset-bottom,0px))] lg:hidden" ref={dockRef}>
         <PlayerChrome active={active} onJump={jump} />
       </div>
 

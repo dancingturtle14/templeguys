@@ -162,11 +162,31 @@
 
   .tour-intro {
     order: 2;
-    margin-top: 1.25rem;
+    margin-top: 0.5rem;
   }
 
   .tour-stage {
     order: 3;
     margin-top: 1.25rem;
+  }
+
+  /* Credit lives on the photo so a fully visible photo always shows both lines. */
+  figure.tour-stop-photo {
+    position: relative;
+  }
+  figure.tour-stop-photo figcaption {
+    position: absolute;
+    right: 1px;
+    bottom: 1px;
+    left: 1px;
+    margin: 0;
+    padding: 0.4rem 0.6rem;
+    background: var(--color-paper);
+    border-top: 1px solid var(--color-line);
+    font-size: 0.75rem;
+    line-height: 1.4;
+    color: var(--color-ink-muted);
+    overflow-wrap: break-word;
+    pointer-events: none;
   }
 }

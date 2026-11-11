@@ -322,7 +322,7 @@ function StopPhoto({
   const image = tourStopImage(stop)
   if (!image) return null
   return (
-    <figure className="mt-4" data-stop-image={stop.id}>
+    <figure className="mt-4 tour-stop-photo" data-stop-image={stop.id}>
       <button
         type="button"
         className="block w-full border border-line text-left"

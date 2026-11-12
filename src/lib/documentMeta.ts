@@ -95,6 +95,14 @@ export function metaForRoute(route: Route): { title: string; description: string
           ),
         }
       }
+      if (route.id === 'meiji-shrine') {
+        return {
+          title: `On foot · Meiji Jingū — ${BRAND}`,
+          description: clip(
+            'Stop-by-step walk at Meiji Jingū, from the Harajuku entrance along Minami-sandō to the main shrine, with the Inner Garden as a paid last stop.',
+          ),
+        }
+      }
       return {
         title: `Page not found — ${BRAND}`,
         description: clip('That path is not on the SanctaWay atlas.'),

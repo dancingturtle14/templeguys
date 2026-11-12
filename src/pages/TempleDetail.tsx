@@ -5,7 +5,7 @@ import { TempleChapterNav } from '../components/TempleChapterNav'
 import { TempleChapterPager } from '../components/TempleChapterPager'
 import { TempleImage } from '../components/TempleImage'
 import { TicketsCta } from '../components/TicketsCta'
-import { FushimiTourCard, SensoJiTourCard } from './TempleTour'
+import { FushimiTourCard, MeijiShrineTourCard, SensoJiTourCard } from './TempleTour'
 import { TEMPLE_CHAPTERS } from '../lib/chapters'
 import { Link } from '../lib/router'
 import { getTemple, temples } from '../lib/temples'
@@ -49,6 +49,7 @@ function OverviewChapter({ temple }: { temple: Temple }) {
       </div>
       {temple.id === 'fushimi-inari' ? <FushimiTourCard /> : null}
       {temple.id === 'senso-ji' ? <SensoJiTourCard /> : null}
+      {temple.id === 'meiji-shrine' ? <MeijiShrineTourCard /> : null}
       <div className="grid gap-3 sm:grid-cols-2">
         {TEMPLE_CHAPTERS.filter((c) => c.id !== 'overview').map((c) => (
           <Link

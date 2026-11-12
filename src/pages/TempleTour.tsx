@@ -8,6 +8,12 @@ import {
   SENSO_JI_TOUR_END_COPY,
   SENSO_JI_TOUR_ID,
 } from '../data/sensoJiTour'
+import {
+  MEIJI_SHRINE_MAPS_WALKING,
+  MEIJI_SHRINE_TOUR,
+  MEIJI_SHRINE_TOUR_END_COPY,
+  MEIJI_SHRINE_TOUR_ID,
+} from '../data/meijiShrineTour'
 import { Link } from '../lib/router'
 import { getTemple } from '../lib/temples'
 import { NotFoundPage } from './NotFound'
@@ -45,6 +51,20 @@ const TOURS = {
     cardTitle: 'On foot, stop by stop →',
     cardLede:
       'Six stops along the Kaminarimon–Nakamise–Hondo axis, with must-see spots and named objects. The pagoda is viewed from the precinct.',
+  },
+  [MEIJI_SHRINE_TOUR_ID]: {
+    title: 'Meiji Jingū on foot',
+    lede: 'Six stops as a step player — one screen at a time — from the Harajuku entrance along Minami-sandō to the main shrine, with the Inner Garden as a paid last stop. Follow the route map, or open walking directions in Google Maps.',
+    officialHref: 'https://www.meijijingu.or.jp/en/visit/',
+    officialLabel: 'meijijingu.or.jp',
+    officialNote:
+      'Hours, fees, and access here follow official Meiji Jingu pages. The main precinct is free; the Inner Garden and Museum have their own clocks and fees. Confirm today’s times at',
+    stops: MEIJI_SHRINE_TOUR.stops,
+    mapsWalking: MEIJI_SHRINE_MAPS_WALKING,
+    endCopy: MEIJI_SHRINE_TOUR_END_COPY,
+    cardTitle: 'On foot, stop by stop →',
+    cardLede:
+      'Six stops from the Harajuku gate along Minami-sandō to the main shrine. The Inner Garden is a paid add-on with its own hours.',
   },
 } as const
 
@@ -131,4 +151,8 @@ export function FushimiTourCard() {
 
 export function SensoJiTourCard() {
   return <TourCard id={SENSO_JI_TOUR_ID} />
+}
+
+export function MeijiShrineTourCard() {
+  return <TourCard id={MEIJI_SHRINE_TOUR_ID} />
 }

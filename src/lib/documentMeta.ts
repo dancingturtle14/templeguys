@@ -79,17 +79,25 @@ export function metaForRoute(route: Route): { title: string; description: string
       }
     }
     case 'temple-tour': {
-      if (route.id !== 'fushimi-inari') {
+      if (route.id === 'fushimi-inari') {
         return {
-          title: `Page not found — ${BRAND}`,
-          description: clip('That path is not on the SanctaWay atlas.'),
+          title: `On foot · Fushimi Inari Taisha — ${BRAND}`,
+          description: clip(
+            'Stop-by-step walk at Fushimi Inari Taisha, from Inari Station to the Yotsutsuji turnaround. The summit loop stays optional.',
+          ),
+        }
+      }
+      if (route.id === 'senso-ji') {
+        return {
+          title: `On foot · Sensō-ji — ${BRAND}`,
+          description: clip(
+            'Stop-by-step walk at Sensō-ji in Asakusa, from Kaminarimon along Nakamise to the Hondo and the five-storied pagoda.',
+          ),
         }
       }
       return {
-        title: `On foot · Fushimi Inari Taisha — ${BRAND}`,
-        description: clip(
-          'Stop-by-step walk at Fushimi Inari Taisha, from Inari Station to the Yotsutsuji turnaround. The summit loop stays optional.',
-        ),
+        title: `Page not found — ${BRAND}`,
+        description: clip('That path is not on the SanctaWay atlas.'),
       }
     }
     case 'temple': {

@@ -50,7 +50,7 @@ export type TourCheckpoint = {
 }
 
 export type TourStop = {
-  id: FushimiTourStopId
+  id: string
   index: string
   nav: string
   plate: string

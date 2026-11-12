@@ -1,4 +1,4 @@
-import { memo, useCallback, useEffect, useRef, useState } from 'react'
+import { createContext, memo, useCallback, useContext, useEffect, useRef, useState } from 'react'
 import { TempleImage } from './TempleImage'
 import { Link } from '../lib/router'
 import {
@@ -11,25 +11,42 @@ import {
   type TourStop,
 } from '../data/fushimiInariTour'
 
-const STOPS = FUSHIMI_INARI_TOUR.stops
 const END_ID = 'tour-end'
-const TOUR_END_COPY =
-  'The lower gates and Yotsutsuji are a complete visit for most people. The summit loop can wait for another morning.'
-const MAPS_WALKING =
-  'https://www.google.com/maps/dir/?api=1&destination=Fushimi+Inari+Taisha,+Kyoto&travelmode=walking'
 
-function nextTarget(current: string) {
-  if (current === END_ID) return END_ID
-  const index = STOPS.findIndex((stop) => stop.id === current)
-  if (index === -1 || index >= STOPS.length - 1) return END_ID
-  return STOPS[index + 1].id
+export type TourWalkProps = {
+  stops: TourStop[]
+  templeId: string
+  mapsWalking: string
+  endCopy: string
 }
 
-function prevTarget(current: string) {
-  if (current === END_ID) return STOPS[STOPS.length - 1].id
-  const index = STOPS.findIndex((stop) => stop.id === current)
-  if (index <= 0) return STOPS[0].id
-  return STOPS[index - 1].id
+const FUSHIMI_WALK: TourWalkProps = {
+  stops: FUSHIMI_INARI_TOUR.stops,
+  templeId: 'fushimi-inari',
+  mapsWalking:
+    'https://www.google.com/maps/dir/?api=1&destination=Fushimi+Inari+Taisha,+Kyoto&travelmode=walking',
+  endCopy:
+    'The lower gates and Yotsutsuji are a complete visit for most people. The summit loop can wait for another morning.',
+}
+
+const TourWalkContext = createContext<TourWalkProps>(FUSHIMI_WALK)
+
+function useTourWalk() {
+  return useContext(TourWalkContext)
+}
+
+function nextTarget(current: string, stops: TourStop[]) {
+  if (current === END_ID) return END_ID
+  const index = stops.findIndex((stop) => stop.id === current)
+  if (index === -1 || index >= stops.length - 1) return END_ID
+  return stops[index + 1].id
+}
+
+function prevTarget(current: string, stops: TourStop[]) {
+  if (current === END_ID) return stops[stops.length - 1].id
+  const index = stops.findIndex((stop) => stop.id === current)
+  if (index <= 0) return stops[0].id
+  return stops[index - 1].id
 }
 
 function ChipList({ chips }: { chips: TourChip[] }) {
@@ -187,24 +204,25 @@ const CheckpointCard = memo(function CheckpointCard({
   )
 })
 
-function progressNow(active: string) {
-  if (active === END_ID) return STOPS.length
-  const index = STOPS.findIndex((stop) => stop.id === active)
+function progressNow(active: string, stops: TourStop[]) {
+  if (active === END_ID) return stops.length
+  const index = stops.findIndex((stop) => stop.id === active)
   return index === -1 ? 1 : index + 1
 }
 
 function WalkProgress({ active }: { active: string }) {
-  const now = progressNow(active)
+  const { stops } = useTourWalk()
+  const now = progressNow(active, stops)
   return (
     <div
       role="progressbar"
       aria-label="Walk progress"
       aria-valuemin={1}
-      aria-valuemax={STOPS.length}
+      aria-valuemax={stops.length}
       aria-valuenow={now}
       className="h-1 overflow-hidden bg-paper-deep"
     >
-      <span className="block h-full bg-cinnabar" style={{ width: `${(now / STOPS.length) * 100}%` }} />
+      <span className="block h-full bg-cinnabar" style={{ width: `${(now / stops.length) * 100}%` }} />
     </div>
   )
 }
@@ -217,12 +235,14 @@ function RouteSchematic({
   active: string
   onJump: (id: string) => void
 }) {
-  const activeIndex = active === END_ID ? STOPS.length - 1 : STOPS.findIndex((s) => s.id === active)
+  const { stops, mapsWalking } = useTourWalk()
+  const activeIndex = active === END_ID ? stops.length - 1 : stops.findIndex((s) => s.id === active)
   const height = 240
   const top = 24
   const bottom = height - 24
-  const step = (bottom - top) / (STOPS.length - 1)
+  const step = (bottom - top) / (stops.length - 1)
   const cx = 36
+  const stopWord = stops.length === 6 ? 'six' : stops.length === 5 ? 'five' : String(stops.length)
 
   return (
     <div className="border border-line bg-paper p-4">
@@ -231,7 +251,7 @@ function RouteSchematic({
         viewBox={`0 0 160 ${height}`}
         className="mt-3 w-full max-w-[11rem]"
         role="img"
-        aria-label="Schematic walking route with six stops"
+        aria-label={`Schematic walking route with ${stopWord} stops`}
       >
         <line
           x1={cx}
@@ -242,9 +262,9 @@ function RouteSchematic({
           className="text-line"
           strokeWidth={2}
         />
-        {STOPS.map((stop, i) => {
+        {stops.map((stop, i) => {
           const y = top + step * i
-          const current = active === stop.id || (active === END_ID && i === STOPS.length - 1)
+          const current = active === stop.id || (active === END_ID && i === stops.length - 1)
           const past = activeIndex > i
           return (
             <g key={stop.id}>
@@ -297,7 +317,7 @@ function RouteSchematic({
         })}
       </svg>
       <a
-        href={MAPS_WALKING}
+        href={mapsWalking}
         target="_blank"
         rel="noopener noreferrer"
         className="mt-4 inline-flex items-center gap-1.5 border border-cinnabar/35 bg-cinnabar-wash px-3 py-1.5 text-sm font-medium text-ink no-underline"
@@ -401,7 +421,7 @@ function StopBody({
             <CheckpointCard
               key={checkpoint.id}
               checkpoint={checkpoint}
-              priority={first && checkpoint.id === 'arrival-romon'}
+              priority={first && Boolean(checkpoint.image)}
               defer={Boolean(stop.optional)}
               onEnlarge={onEnlarge}
             />
@@ -443,11 +463,12 @@ function PlayerChrome({
   active: string
   onJump: (id: string) => void
 }) {
-  const now = progressNow(active)
-  const atStart = active === STOPS[0].id
+  const { stops } = useTourWalk()
+  const now = progressNow(active, stops)
+  const atStart = active === stops[0].id
   const atEnd = active === END_ID
-  const prev = prevTarget(active)
-  const next = nextTarget(active)
+  const prev = prevTarget(active, stops)
+  const next = nextTarget(active, stops)
   return (
     <div className="border border-line bg-paper">
       <WalkProgress active={active} />
@@ -462,7 +483,7 @@ function PlayerChrome({
             Prev
           </button>
           <p className="inline-flex items-center justify-center whitespace-nowrap border-r border-line px-2.5 py-2.5 text-xs font-semibold text-cinnabar tabular-nums">
-            {`${now} / ${STOPS.length}`}
+            {`${now} / ${stops.length}`}
           </p>
           <button
             type="button"
@@ -478,16 +499,23 @@ function PlayerChrome({
   )
 }
 
-function resolveJump(id: string): { stopId: string; focusId: string } {
+function resolveJump(id: string, stops: TourStop[]): { stopId: string; focusId: string } {
   if (id === END_ID) return { stopId: END_ID, focusId: END_ID }
-  const asStop = STOPS.find((stop) => stop.id === id)
+  const asStop = stops.find((stop) => stop.id === id)
   if (asStop) return { stopId: asStop.id, focusId: asStop.id }
-  const owner = STOPS.find((stop) => stop.checkpoints.some((item) => item.id === id))
+  const owner = stops.find((stop) => stop.checkpoints.some((item) => item.id === id))
   if (owner) return { stopId: owner.id, focusId: id }
-  return { stopId: STOPS[0].id, focusId: STOPS[0].id }
+  return { stopId: stops[0].id, focusId: stops[0].id }
 }
 
-export function TourWalk() {
+export function TourWalk(props?: Partial<TourWalkProps>) {
+  const tour: TourWalkProps = {
+    stops: props?.stops ?? FUSHIMI_WALK.stops,
+    templeId: props?.templeId ?? FUSHIMI_WALK.templeId,
+    mapsWalking: props?.mapsWalking ?? FUSHIMI_WALK.mapsWalking,
+    endCopy: props?.endCopy ?? FUSHIMI_WALK.endCopy,
+  }
+  const STOPS = tour.stops
   const [active, setActive] = useState<string>(STOPS[0].id)
   const [photo, setPhoto] = useState<TourImage | null>(null)
   const photoDialog = useRef<HTMLDialogElement>(null)
@@ -519,7 +547,7 @@ export function TourWalk() {
   }, [])
 
   const jump = useCallback((id: string) => {
-    const { stopId, focusId } = resolveJump(id)
+    const { stopId, focusId } = resolveJump(id, STOPS)
     setActive(stopId)
     const url = `${window.location.pathname}${window.location.search}#${focusId}`
     if (`${window.location.pathname}${window.location.search}${window.location.hash}` !== url) {
@@ -553,7 +581,7 @@ export function TourWalk() {
         stageRef.current.scrollIntoView({ behavior: 'smooth', block: 'start' })
       }
     })
-  }, [])
+  }, [STOPS])
 
   useEffect(() => {
     const fromHash = window.location.hash.replace(/^#/, '')
@@ -567,6 +595,7 @@ export function TourWalk() {
   }, [jump])
 
   return (
+    <TourWalkContext.Provider value={tour}>
     <div className="tour-walk lg:grid lg:grid-cols-[14rem_minmax(0,1fr)] lg:gap-10">
       <aside className="mb-6 space-y-4 lg:mb-0">
         <div className="lg:sticky lg:top-24 lg:space-y-4">
@@ -628,22 +657,22 @@ export function TourWalk() {
           <h2 id="tour-end-title" className="mt-2 font-display text-3xl">
             End of the walk
           </h2>
-          <p className="mt-3 max-w-2xl text-pretty text-ink-soft">{TOUR_END_COPY}</p>
+          <p className="mt-3 max-w-2xl text-pretty text-ink-soft">{tour.endCopy}</p>
           <p className="mt-5 flex flex-wrap gap-2">
             <Link
-              to={{ name: 'temple', id: 'fushimi-inari' }}
+              to={{ name: 'temple', id: tour.templeId }}
               className="border border-line bg-paper px-3 py-1.5 text-sm font-medium text-ink no-underline"
             >
               Overview
             </Link>
             <Link
-              to={{ name: 'temple', id: 'fushimi-inari', chapter: 'etiquette' }}
+              to={{ name: 'temple', id: tour.templeId, chapter: 'etiquette' }}
               className="border border-cinnabar/35 bg-cinnabar-wash px-3 py-1.5 text-sm font-medium text-ink no-underline"
             >
               Etiquette
             </Link>
             <Link
-              to={{ name: 'temple', id: 'fushimi-inari', chapter: 'getting-there' }}
+              to={{ name: 'temple', id: tour.templeId, chapter: 'getting-there' }}
               className="border border-cinnabar/35 bg-cinnabar-wash px-3 py-1.5 text-sm font-medium text-ink no-underline"
             >
               Getting there
@@ -680,5 +709,6 @@ export function TourWalk() {
         ) : null}
       </dialog>
     </div>
+    </TourWalkContext.Provider>
   )
 }

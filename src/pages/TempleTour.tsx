@@ -1,19 +1,25 @@
 import { useLayoutEffect } from 'react'
 import { Breadcrumb } from '../components/Breadcrumb'
-import { TourWalk } from '../components/TourWalk'
 import { FUSHIMI_INARI_TOUR, FUSHIMI_INARI_TOUR_ID } from '../data/fushimiInariTour'
-import {
-  SENSO_JI_MAPS_WALKING,
-  SENSO_JI_TOUR,
-  SENSO_JI_TOUR_END_COPY,
-  SENSO_JI_TOUR_ID,
-} from '../data/sensoJiTour'
 import {
   MEIJI_SHRINE_MAPS_WALKING,
   MEIJI_SHRINE_TOUR,
   MEIJI_SHRINE_TOUR_END_COPY,
   MEIJI_SHRINE_TOUR_ID,
 } from '../data/meijiShrineTour'
+import {
+  SENSO_JI_MAPS_WALKING,
+  SENSO_JI_TOUR,
+  SENSO_JI_TOUR_END_COPY,
+  SENSO_JI_TOUR_ID,
+} from '../data/sensoJiTour'
+import { TourWalk } from '../components/TourWalk'
+import {
+  ULUWATU_MAPS_WALKING,
+  ULUWATU_TOUR,
+  ULUWATU_TOUR_END_COPY,
+  ULUWATU_TOUR_ID,
+} from '../data/uluwatuTour'
 import { Link } from '../lib/router'
 import { getTemple } from '../lib/temples'
 import { NotFoundPage } from './NotFound'
@@ -58,13 +64,26 @@ const TOURS = {
     officialHref: 'https://www.meijijingu.or.jp/en/visit/',
     officialLabel: 'meijijingu.or.jp',
     officialNote:
-      'Hours, fees, and access here follow official Meiji Jingu pages. The main precinct is free; the Inner Garden and Museum have their own clocks and fees. Confirm today’s times at',
+      'Hours, fees, and access here follow official Meiji Jingu pages. The main precinct is free; the Inner Garden and Museum have their own clocks and fees. Confirm today\'s times at',
     stops: MEIJI_SHRINE_TOUR.stops,
     mapsWalking: MEIJI_SHRINE_MAPS_WALKING,
     endCopy: MEIJI_SHRINE_TOUR_END_COPY,
     cardTitle: 'On foot, stop by stop →',
     cardLede:
       'Six stops from the Harajuku gate along Minami-sandō to the main shrine. The Inner Garden is a paid add-on with its own hours.',
+  },
+  [ULUWATU_TOUR_ID]: {
+    title: 'Pura Luhur Uluwatu on foot',
+    lede: 'Six stops as a step player — one screen at a time — from the main gate along cliffside pathways to the Kecak amphitheatre. Follow the route map, or open walking directions in Google Maps.',
+    officialHref: 'https://uluwatutemple.id/',
+    officialLabel: 'uluwatutemple.id',
+    officialNote:
+      'Hours, fees, and access here follow official Uluwatu Temple pages. The temple ticket is separate from Kecak and parking. Sarong and sash are required and provided with the temple ticket. Published fares can change. Confirm hours and fares at',
+    stops: ULUWATU_TOUR.stops,
+    mapsWalking: ULUWATU_MAPS_WALKING,
+    endCopy: ULUWATU_TOUR_END_COPY,
+    cardTitle: 'On foot, stop by stop →',
+    cardLede: 'Six stops from the main gate along cliffside pathways to the Kecak amphitheatre. The temple ticket is separate from the Kecak ticket and parking.',
   },
 } as const
 
@@ -116,7 +135,6 @@ export function TempleTourPage({ id }: { id: string }) {
             .
           </p>
         </header>
-
         <div className="tour-walk-wrap mt-10">
           <TourWalk
             key={id}
@@ -155,4 +173,8 @@ export function SensoJiTourCard() {
 
 export function MeijiShrineTourCard() {
   return <TourCard id={MEIJI_SHRINE_TOUR_ID} />
+}
+
+export function UluwatuTourCard() {
+  return <TourCard id={ULUWATU_TOUR_ID} />
 }

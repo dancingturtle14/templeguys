@@ -103,6 +103,14 @@ export function metaForRoute(route: Route): { title: string; description: string
           ),
         }
       }
+      if (route.id === 'uluwatu') {
+        return {
+          title: `On foot · Pura Luhur Uluwatu — ${BRAND}`,
+          description: clip(
+            'Stop-by-step walk at Pura Luhur Uluwatu, Bali, from the main gate along cliffside pathways to the Kecak amphitheatre.',
+          ),
+        }
+      }
       return {
         title: `Page not found — ${BRAND}`,
         description: clip('That path is not on the SanctaWay atlas.'),

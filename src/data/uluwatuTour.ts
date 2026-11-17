@@ -57,7 +57,7 @@ export const ULUWATU_TOUR: { stops: TourStop[] } = {
           sentences: [
             'This is where visitors pay the entrance fee. The temple ticket, Kecak ticket, and parking are three separate payments.',
             'Sarong and sash are provided free at the booth.',
-            'Official visitor hours and fares: International adult IDR 60,000 / child IDR 40,000; Domestic adult IDR 40,000 / child IDR 30,000. Payment is at the official booth near the main gate. Published fares can change; confirm on the day.',
+            'Official visitor hours and fares: International adult IDR 60,000 / child IDR 40,000; Domestic adult IDR 40,000 / child IDR 30,000. Homepage FAQ and heritage lists also show older International 50,000/30,000; Domestic 30,000/20,000; and some English Indonesia Travel pages list foreign fares of 100,000/50,000. Prefer the temple page figures. Payment is at the official booth near the main gate. Published fares can change; confirm on the day.',
           ],
           lookFor: [
             'The ticket booth near the main gate.',
@@ -168,7 +168,7 @@ export const ULUWATU_TOUR: { stops: TourStop[] } = {
           lookFor: [
             'The cliff edge with ocean view beyond.',
             'Limestone rock faces and coastal stone.',
-            'Stay behind any official viewpoint markers and railings.',
+            'Stay behind official viewpoint markers and follow staff guidance on cliff edge safety.'
           ],
           image: {
             src: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Cliffs_of_Uluwatu%2C_Bali%2C_Indonesia%2C_20220826_1006_1038.jpg/1280px-Cliffs_of_Uluwatu%2C_Bali%2C_Indonesia%2C_20220826_1006_1038.jpg',
@@ -186,8 +186,7 @@ export const ULUWATU_TOUR: { stops: TourStop[] } = {
             'Wear comfortable shoes with good grip for the stone pathways and steps.',
           ],
           lookFor: [
-            'Railings and markers at official viewpoints.',
-            'Uneven stone surfaces and steps along the cliff path.',
+            'Uneven stone surfaces and steps along the cliff edge; follow staff guidance.',
           ],
         },
       ],
@@ -227,9 +226,9 @@ export const ULUWATU_TOUR: { stops: TourStop[] } = {
           ],
           image: {
             src: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Kuta_Bali_Indonesia_Pura-Luhur-Uluwatu-03.jpg/1280px-Kuta_Bali_Indonesia_Pura-Luhur-Uluwatu-03.jpg',
-            alt: 'Pura Luhur Uluwatu with candi kurung and cliff backdrop',
+            alt: 'A meru shrine of Pura Luhur Uluwatu on the cliff above the Indian Ocean',
             credit: 'CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)',
-            caption: 'Pura Luhur Uluwatu viewed from Kuta with the candi kurung structure visible in the foreground',
+            caption: 'A meru shrine of Pura Luhur Uluwatu on the cliff above the Indian Ocean',
           },
         },
         {
@@ -295,9 +294,9 @@ export const ULUWATU_TOUR: { stops: TourStop[] } = {
           ],
           image: {
             src: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Luhur_Uluwatu_Temple%2C_Bali%2C_20220826_0951_1007.jpg/1280px-Luhur_Uluwatu_Temple%2C_Bali%2C_20220826_0951_1007.jpg',
-            alt: 'Stone sculpture of the inner temple area at Pura Luhur Uluwatu',
+            alt: 'A stone sculpture in the precinct of Pura Luhur Uluwatu',
             credit: 'Jakub Hałun / Wikimedia Commons (CC BY-SA 4.0)',
-            caption: 'Stone sculpture within the inner enclosure of Pura Luhur Uluwatu, representing the restricted inner temple area',
+            caption: 'A stone sculpture in the precinct of Pura Luhur Uluwatu',
           },
         },
         {
@@ -327,8 +326,7 @@ export const ULUWATU_TOUR: { stops: TourStop[] } = {
       sentences: [
         'The daily Kecak performance is staged at a cliffside amphitheatre. This is a separate product from the temple admission ticket. Gate opens at 16:00; the show runs 18:00–19:00 every day.',
         'Kecak is not a general visiting hour. The temple\'s visitor hours are 07:00–19:00 WITA. The Kecak gate 16:00 and show 18:00–19:00 are a performance timetable, never general visiting hours. Temple ticket, Kecak ticket, and parking are three separate payments.',
-        'Preferred official Kecak fare: adult IDR 150,000; child ages 2–9 IDR 75,000. Generally cash-only. Temple admission and parking are not included.',
-        'Some English Indonesia Travel pilgrimage pages list a 2025 foreign Kecak fare of IDR 200,000 — this is a conflicting figure. Do not treat as the current official fare.',
+        'Preferred official Kecak fare: adult IDR 150,000; child ages 2–9 IDR 75,000. Generally cash-only. Temple admission and parking are not included. Some English Indonesia Travel pilgrimage pages list a 2025 foreign Kecak fare of IDR 200,000 — this is a conflicting figure.',
         'Arrive before 17:00 if also watching the Kecak: gives time to enter, wear the sarong and sash, and walk the cliff paths before the 18:00 show.',
       ],
       chips: [

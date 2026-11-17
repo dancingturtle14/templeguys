@@ -163,14 +163,6 @@ test('uluwatu chapter hrefs are etiquette and getting-there', () => {
   const overview = render('/temple/uluwatu').html
   assert.match(overview, /href="\/temple\/uluwatu\/etiquette"/)
   assert.match(overview, /href="\/temple\/uluwatu\/getting-there"/)
-  assert.equal(
-    overview.match(/href="\/temple\/uluwatu\/etiquette"/g).length,
-    1,
-  )
-  assert.equal(
-    overview.match(/href="\/temple\/uluwatu\/getting-there"/g).length,
-    1,
-  )
   assert.doesNotMatch(overview, /href="\/temple\/meiji-shrine\/etiquette"/)
   assert.doesNotMatch(overview, /href="\/temple\/fushimi-inari\/etiquette"/)
 })

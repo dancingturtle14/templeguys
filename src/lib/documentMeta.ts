@@ -111,6 +111,14 @@ export function metaForRoute(route: Route): { title: string; description: string
           ),
         }
       }
+      if (route.id === 'istiqlal-mosque') {
+        return {
+          title: `On foot · Istiqlal Mosque — ${BRAND}`,
+          description: clip(
+            'Stop-by-step walk at Istiqlal Mosque in Jakarta, from the main gate along upper hallways to the inner courtyard.',
+          ),
+        }
+      }
       return {
         title: `Page not found — ${BRAND}`,
         description: clip('That path is not on the SanctaWay atlas.'),

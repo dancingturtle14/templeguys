@@ -23,6 +23,11 @@ import {
 import { Link } from '../lib/router'
 import { getTemple } from '../lib/temples'
 import { NotFoundPage } from './NotFound'
+import {
+  ISTIQLAL_MOSQUE_TOUR,
+  ISTIQLAL_MOSQUE_TOUR_ID,
+  ISTIQLAL_MOSQUE_MAPS_WALKING,
+} from '../data/istiqlalMosqueTour'
 
 const FUSHIMI_MAPS =
   'https://www.google.com/maps/dir/?api=1&destination=Fushimi+Inari+Taisha,+Kyoto&travelmode=walking'
@@ -84,6 +89,19 @@ const TOURS = {
     endCopy: ULUWATU_TOUR_END_COPY,
     cardTitle: 'On foot, stop by stop →',
     cardLede: 'Six stops from the main gate along cliffside pathways to the Kecak amphitheatre. The temple ticket is separate from the Kecak ticket and parking.',
+  },
+  [ISTIQLAL_MOSQUE_TOUR_ID]: {
+    title: 'Istiqlal Mosque on foot',
+    lede: 'Six stops as a step player — one screen at a time — from the main gate along the upper hallways to the inner courtyard. Follow the route map, or open walking directions in Google Maps.',
+    officialHref: 'https://www.istiqlal.or.id/',
+    officialLabel: 'istiqlal.or.id',
+    officialNote:
+      'Hours, fees, and access here follow official Istiqlal Mosque pages. No admission fee is published. Confirm hours and access at',
+    stops: ISTIQLAL_MOSQUE_TOUR.stops,
+    mapsWalking: ISTIQLAL_MOSQUE_MAPS_WALKING,
+    endCopy: 'The six stops — named approach, entry, upper hallways, history, tunnel connection to Jakarta Cathedral, and visitor courtyard — form a complete walk through the permitted visitor areas. Allow approximately one to two hours. The mosque has no admission fee, but group visits may register through the official mosque site.',
+    cardTitle: 'On foot, stop by stop →',
+    cardLede: 'Six stops from the main gate along the upper hallways to the inner courtyard. The mosque has no admission fee, but group visits may register through the official mosque site.',
   },
 } as const
 
@@ -177,4 +195,8 @@ export function MeijiShrineTourCard() {
 
 export function UluwatuTourCard() {
   return <TourCard id={ULUWATU_TOUR_ID} />
+}
+
+export function IstiqlalMosqueTourCard() {
+  return <TourCard id={ISTIQLAL_MOSQUE_TOUR_ID} />
 }

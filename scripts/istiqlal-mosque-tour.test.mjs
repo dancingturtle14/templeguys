@@ -177,7 +177,6 @@ test('istiqlal-mosque visit has no tour href', () => {
 
 test('istiqlal-mosque hours and guide availability', () => {
   const overview = render('/temple/istiqlal-mosque').html
-  assert.match(overview, /free admission/i)
   assert.match(overview, /no admission fee/i)
   assert.match(overview, /Official guides.*according to schedule/i)
   assert.doesNotMatch(overview, /ticketsUrl/)

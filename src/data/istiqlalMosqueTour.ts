@@ -432,7 +432,7 @@ export const ISTIQLAL_MOSQUE_TOUR: { stops: TourStop[] } = {
     },
     {
       id: 'visiting-hours',
-      index: '05',
+      index: '06',
       nav: 'Visiting Hours & Access',
       plate: 'Daily access with prayer considerations',
       caption:
@@ -440,7 +440,7 @@ export const ISTIQLAL_MOSQUE_TOUR: { stops: TourStop[] } = {
       sentences: [
         'Open daily; no admission fee (Indonesia Travel states “there is no admission fee to enter”).',
         'Tourist visiting hours may differ from prayer and religious events — confirm on the day.',
-        'If SIAPMI 04:00–22:00 is mentioned at all, label it as contact hours on the SIAPMI contact page, not a visitor timetable. Office hours are administrative only.',
+        'SIAPMI 04:00–22:00 is contact hours only, not a visitor timetable. Mosque office hours are administrative only.',
       ],
       chips: [
         { label: 'Daily open' },

@@ -12,7 +12,7 @@ const { render } = jiti('../src/entry-server.tsx')
 const { routeToUrl, parsePath } = jiti('../src/lib/router.tsx')
 const { LOCALES, getFushimiI18n } = jiti('../src/lib/fushimi-i18n.ts')
 
-const LEAK = /Not for publish|Hermes first draft|DRAFT-v1|do not invent locale|writer.?note|Soft Soft|NO_CTA|live 寫作|índice de dos cifras/i
+const LEAK = /Not for publish|Hermes first draft|DRAFT-v1|do not invent locale|writer.?note|Soft Soft|NO_CTA|live 寫作|índice de dos cifras|enlace de accesibilidad/i
 const STOP_IDS = ['arrival', 'senbon-torii', 'path-pauses', 'yotsutsuji', 'summit', 'descent']
 
 test('draft-only locale path helper lists six locales without editing the live sitemap', () => {
@@ -80,6 +80,16 @@ test('locale overview and tour prerender with Walk href, chrome, and no Play/Ski
     }
     const visit = render(`/${locale}/temple/fushimi-inari/visit/`)
     assert.match(visit.html, new RegExp(data.visit.tickets.slice(0, 24).replace(/[.*+?^${}()|[\]\\]/g, '\\$&')))
+    const skip = data.chrome.skip_to_content
+    assert.ok(skip, locale)
+    assert.doesNotMatch(skip, /\(|\)|（|）|enlace de accesibilidad/)
+    const skipRe = new RegExp(skip.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'))
+    assert.match(overview.html, skipRe, `${locale} overview skip`)
+    assert.match(tour.html, skipRe, `${locale} tour skip`)
+    assert.match(visit.html, skipRe, `${locale} visit skip`)
+    if (locale === 'es') {
+      assert.equal(skip, 'Saltar al contenido')
+    }
 
     const page = applyShell(shell, {
       html: tour.html,

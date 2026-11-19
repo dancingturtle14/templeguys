@@ -711,7 +711,7 @@
     }
   ],
   "chrome": {
-    "skip_to_content": "Saltar al contenido (enlace de accesibilidad; no es un control «Saltar» del paseo)",
+    "skip_to_content": "Saltar al contenido",
     "brand": "SanctaWay",
     "nav_explore": "Explorar",
     "nav_about": "Acerca de",

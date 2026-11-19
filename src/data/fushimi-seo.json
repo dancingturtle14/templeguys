@@ -1,0 +1,807 @@
+{
+  "generated": "2026-11-19",
+  "site": "SanctaWay",
+  "attraction": "fushimi-inari",
+  "packs": [
+    {
+      "locale": "en",
+      "page": "overview",
+      "path": "/temple/fushimi-inari/",
+      "title": "Fushimi Inari Taisha: Kyoto’s Inari Head Shrine — SanctaWay",
+      "meta": "Fushimi Inari Taisha is Kyoto’s head Inari shrine, traditionally dated to 711, known for donated Senbon Torii and fox messengers. Plan 1–3 hours, or a half day for Inariyama.",
+      "keywords": [
+        "Fushimi Inari Taisha",
+        "Fushimi Inari Shrine",
+        "Inari Ōkami",
+        "Senbon Torii",
+        "Inariyama",
+        "Kyoto",
+        "fox messengers",
+        "prayer hours"
+      ]
+    },
+    {
+      "locale": "en",
+      "page": "tour",
+      "path": "/temple/fushimi-inari/tour/",
+      "title": "Fushimi Inari Taisha Walking Tour to Yotsutsuji — SanctaWay",
+      "meta": "A six-stop walking route from JR Inari Station via the Romon and Senbon Torii to Yotsutsuji. Times are a typical visitor pattern, not a shrine timetable.",
+      "keywords": [
+        "Fushimi Inari Taisha walking tour",
+        "Inari Station",
+        "Romon",
+        "Senbon Torii",
+        "Yotsutsuji",
+        "Inariyama trail",
+        "summit loop",
+        "Kyoto walking route"
+      ]
+    },
+    {
+      "locale": "en",
+      "page": "visit",
+      "path": "/temple/fushimi-inari/visit/",
+      "title": "Fushimi Inari Taisha: Visit Hours & Prayer Times — SanctaWay",
+      "meta": "Gokito at Fushimi Inari Taisha is generally 08:30–16:30, reception until about 16:00; the shrine office phone desk is 09:00–16:00. No grounds closing time is printed.",
+      "keywords": [
+        "Fushimi Inari Taisha",
+        "visit hours",
+        "gokito",
+        "prayer times",
+        "shrine office hours",
+        "Yotsutsuji",
+        "Inariyama",
+        "Kyoto"
+      ]
+    },
+    {
+      "locale": "en",
+      "page": "etiquette",
+      "path": "/temple/fushimi-inari/etiquette/",
+      "title": "Visitor Etiquette at Fushimi Inari Taisha — SanctaWay",
+      "meta": "Fushimi Inari Taisha's official 1 January 2022 rules ban smoking, fires, drones, and eating while walking; keep narrow paths clear. Full list: inari.jp/en/request.",
+      "keywords": [
+        "Fushimi Inari Taisha etiquette",
+        "visitor rules",
+        "inari.jp/en/request",
+        "no drones",
+        "no smoking",
+        "no eating while walking",
+        "photo etiquette",
+        "guide dogs"
+      ]
+    },
+    {
+      "locale": "en",
+      "page": "getting-there",
+      "path": "/temple/fushimi-inari/getting-there/",
+      "title": "Fushimi Inari Taisha Access by JR and Keihan — SanctaWay",
+      "meta": "JR Nara Line local from Kyoto to Inari: two stops, about 5 minutes, shrine beside it; rapid/express may skip it. Keihan Fushimi-Inari is a 5-minute walk east.",
+      "keywords": [
+        "Fushimi Inari Taisha access",
+        "JR Nara Line",
+        "Inari Station",
+        "Keihan Fushimi-Inari",
+        "Kyoto Station",
+        "local train",
+        "parking",
+        "Kyoto buses"
+      ]
+    },
+    {
+      "locale": "en",
+      "page": "best-time",
+      "path": "/temple/fushimi-inari/best-time/",
+      "title": "Best Time to Visit Fushimi Inari Taisha — SanctaWay",
+      "meta": "Arrive early for quieter lower torii; midday is crowded in high season, and late afternoon thins as tour buses leave. Autumn and spring are scenic but packed.",
+      "keywords": [
+        "Fushimi Inari Taisha best time",
+        "early morning torii",
+        "weekday visit",
+        "autumn foliage",
+        "spring holidays",
+        "summer heat",
+        "winter morning",
+        "prayer hours"
+      ]
+    },
+    {
+      "locale": "en",
+      "page": "notes",
+      "path": "/temple/fushimi-inari/notes/",
+      "title": "Fushimi Inari Taisha Notes Before You Go — SanctaWay",
+      "meta": "Check Fushimi Inari Taisha's inari.jp access, request, and gokito pages—not the bare home—for rules and hours. Night paths are dark and uneven; walk with care.",
+      "keywords": [
+        "Fushimi Inari Taisha notes",
+        "inari.jp access",
+        "inari.jp request",
+        "inari.jp gokito",
+        "night walking",
+        "uneven paths",
+        "verify before you go",
+        "visit checklist"
+      ]
+    },
+    {
+      "locale": "ja",
+      "page": "overview",
+      "path": "/ja/temple/fushimi-inari/",
+      "title": "伏見稲荷大社、千本鳥居と稲荷山の京都観光 — SanctaWay",
+      "meta": "京都市伏見区にある稲荷の総本宮。711年創建と伝わる境内には千本鳥居が連なり、稲荷山（約233m）の登山道も続く。参拝時間の目安や見どころをまとめた基本案内。",
+      "keywords": [
+        "伏見稲荷大社",
+        "千本鳥居",
+        "稲荷山",
+        "京都 伏見 観光",
+        "稲荷神社",
+        "伏見稲荷 見どころ",
+        "京都 神社 参拝",
+        "伏見稲荷大社 千本鳥居 登山"
+      ]
+    },
+    {
+      "locale": "ja",
+      "page": "tour",
+      "path": "/ja/temple/fushimi-inari/tour/",
+      "title": "伏見稲荷大社の参道を歩く六つの立ち寄り — SanctaWay",
+      "meta": "稲荷駅から楼門をくぐり、千本鳥居のトンネルを抜けて四ツ辻へ向かう参道を六つの立ち寄りで案内します。各立ち寄りの見どころ、所要時間の目安、山頂巡りの有無も紹介。",
+      "keywords": [
+        "伏見稲荷大社",
+        "伏見稲荷 参道",
+        "千本鳥居 順路",
+        "四ツ辻",
+        "稲荷山 ハイキング",
+        "伏見稲荷 見どころ",
+        "伏見稲荷 徒歩 ツアー",
+        "稲荷駅 散策"
+      ]
+    },
+    {
+      "locale": "ja",
+      "page": "visit",
+      "path": "/ja/temple/fushimi-inari/visit/",
+      "title": "伏見稲荷大社の参拝時間と所要時間の目安 — SanctaWay",
+      "meta": "ご祈祷は概ね08:30〜16:30、受付は16:00頃までが目安です。下段の鳥居で45〜90分、四ツ辻まで含めると2〜3時間。服装や持ち物の注意も紹介。",
+      "keywords": [
+        "伏見稲荷大社",
+        "伏見稲荷 参拝時間",
+        "伏見稲荷 ご祈祷",
+        "伏見稲荷 所要時間",
+        "千本鳥居",
+        "四ツ辻",
+        "伏見稲荷 服装",
+        "伏見稲荷 受付"
+      ]
+    },
+    {
+      "locale": "ja",
+      "page": "etiquette",
+      "path": "/ja/temple/fushimi-inari/etiquette/",
+      "title": "伏見稲荷大社の参拝マナーと禁止事項 — SanctaWay",
+      "meta": "2022年1月1日に定められた境内の禁止事項を紹介。喫煙や火気、立入禁止区域への侵入、ドローン、指定場所以外での飲食、通路での撮影など。公式の要請はinari.jpで確認できます。",
+      "keywords": [
+        "伏見稲荷大社",
+        "伏見稲荷 マナー",
+        "伏見稲荷 禁止事項",
+        "境内 撮影 ルール",
+        "伏見稲荷 喫煙",
+        "ドローン 禁止",
+        "伏見稲荷 参拝 ルール",
+        "伏見稲荷大社 写真"
+      ]
+    },
+    {
+      "locale": "ja",
+      "page": "getting-there",
+      "path": "/ja/temple/fushimi-inari/getting-there/",
+      "title": "伏見稲荷大社のアクセスとJR稲荷駅 — SanctaWay",
+      "meta": "JR奈良線の各駅停車で京都駅から稲荷駅まで約5分、2駅。駅はすぐ隣です。京阪伏見稲荷駅からは東へ約5分。駐車場は参拝者優先で早く埋まります。",
+      "keywords": [
+        "伏見稲荷大社",
+        "JR稲荷駅",
+        "京阪伏見稲荷駅",
+        "京都駅 稲荷駅 行き方",
+        "伏見稲荷 アクセス",
+        "伏見稲荷 駐車場",
+        "JR奈良線",
+        "伏見稲荷 徒歩"
+      ]
+    },
+    {
+      "locale": "ja",
+      "page": "best-time",
+      "path": "/ja/temple/fushimi-inari/best-time/",
+      "title": "伏見稲荷大社の混雑を避ける時間帯 — SanctaWay",
+      "meta": "早朝は鳥居の写真が撮りやすく、日中は特に混み合います。日が傾くとツアーの人波が引くことも。ご祈祷は08:30〜16:30。夏は暑く、秋の紅葉期は特に混雑します。",
+      "keywords": [
+        "伏見稲荷大社",
+        "伏見稲荷 混雑",
+        "伏見稲荷 早朝",
+        "伏見稲荷 ベストシーズン",
+        "伏見稲荷 紅葉",
+        "千本鳥居 写真",
+        "伏見稲荷 平日",
+        "稲荷山 夏"
+      ]
+    },
+    {
+      "locale": "ja",
+      "page": "notes",
+      "path": "/ja/temple/fushimi-inari/notes/",
+      "title": "伏見稲荷大社を訪れる前の確認事項 — SanctaWay",
+      "meta": "参拝前に公式サイトのアクセス・ご祈祷・要請ページを照合してください。境内の閉門時刻や夜間の照明の情報は公式に掲載がなく、山道は暗く足元も悪い点に注意が必要です。",
+      "keywords": [
+        "伏見稲荷大社",
+        "伏見稲荷 公式",
+        "伏見稲荷 閉門時間",
+        "伏見稲荷 夜間",
+        "稲荷山 注意点",
+        "伏見稲荷 初穂料",
+        "伏見稲荷 アクセス",
+        "伏見稲荷 参拝 準備"
+      ]
+    },
+    {
+      "locale": "zh-hant",
+      "page": "overview",
+      "path": "/zh-hant/temple/fushimi-inari/",
+      "title": "伏見稻荷大社｜京都千本鳥居與稻荷山登山 — SanctaWay",
+      "meta": "伏見稻荷大社是京都伏見的稻荷神總本宮，境內可見捐贈的朱紅色千本鳥居與狐狸使者。多數人到訪會走千本鳥居至四辻，約一至三小時；若要完成稻荷山山頂環線，可預留半天。",
+      "keywords": [
+        "伏見稻荷大社",
+        "京都景點",
+        "千本鳥居",
+        "稻荷山",
+        "四辻",
+        "稻荷神",
+        "狐狸使者",
+        "參拜京都"
+      ]
+    },
+    {
+      "locale": "zh-hant",
+      "page": "tour",
+      "path": "/zh-hant/temple/fushimi-inari/tour/",
+      "title": "伏見稻荷大社步行導覽：JR稻荷站至四辻 — SanctaWay",
+      "meta": "以 JR 稻荷站為起點，沿六站步道路線從樓門走進千本鳥居，再到四辻折返。各站所需時間為一般訪客模式，非神社公告的時刻表，並可延伸至稻荷山山頂環線。",
+      "keywords": [
+        "伏見稻荷大社",
+        "步行導覽",
+        "JR稻荷站",
+        "千本鳥居",
+        "四辻",
+        "稻荷山登山",
+        "參拜路線"
+      ]
+    },
+    {
+      "locale": "zh-hant",
+      "page": "visit",
+      "path": "/zh-hant/temple/fushimi-inari/visit/",
+      "title": "伏見稻荷大社參拜時間與登山行程指南 — SanctaWay",
+      "meta": "伏見稻荷大社仍是現役神社。祈禱一般08:30至16:30，受理至約16:00，社務所電話窗口09:00至16:00。無公告關閉時間；御守、繪馬與御朱印另行收費，下層鳥居約45至90分鐘。",
+      "keywords": [
+        "伏見稻荷大社",
+        "參拜時間",
+        "祈禱",
+        "初穗料",
+        "稻荷山登山",
+        "千本鳥居",
+        "行程安排"
+      ]
+    },
+    {
+      "locale": "zh-hant",
+      "page": "etiquette",
+      "path": "/zh-hant/temple/fushimi-inari/etiquette/",
+      "title": "伏見稻荷大社參拜禮儀與攝影注意事項 — SanctaWay",
+      "meta": "參拜伏見稻荷大社時請禮讓動線。官方禁止吸菸、用火、進入限制區、操作無人機、損壞建築與鳥居；指定休息區外勿飲食，行走時勿進食，勿在狹窄山道擺拍阻擋通行。詳見 inari.jp。",
+      "keywords": [
+        "伏見稻荷大社",
+        "參拜禮儀",
+        "攝影禮儀",
+        "千本鳥居",
+        "禁止事項",
+        "無人機",
+        "官方參拜須知"
+      ]
+    },
+    {
+      "locale": "zh-hant",
+      "page": "getting-there",
+      "path": "/zh-hant/temple/fushimi-inari/getting-there/",
+      "title": "伏見稻荷大社交通指南：JR稻荷站與京阪伏見稻荷 — SanctaWay",
+      "meta": "前往伏見稻荷大社可搭JR奈良線普通車，京都站到稻荷站約五分鐘、兩站，出站即達。快速與特急可能不停稻荷站，請確認月台顯示；京阪伏見稻荷站步行約五分鐘。假日停車場優先參拜者且很快客滿。",
+      "keywords": [
+        "伏見稻荷大社",
+        "JR奈良線",
+        "稻荷站",
+        "京阪伏見稻荷",
+        "京都交通",
+        "參拜交通",
+        "停車場"
+      ]
+    },
+    {
+      "locale": "zh-hant",
+      "page": "best-time",
+      "path": "/zh-hant/temple/fushimi-inari/best-time/",
+      "title": "伏見稻荷大社最佳參拜時間與人潮建議 — SanctaWay",
+      "meta": "清晨是伏見稻荷大社最清靜的時段，入夜後山道較暗且不平。中午到午後旺季人潮擁擠，傍晚旅遊團離開後會鬆動些。夏季炎熱潮濕，冬季清晨寒冷但視線較佳；春秋紅葉與花期美麗又擁擠，平日較好。",
+      "keywords": [
+        "伏見稻荷大社",
+        "最佳參拜時間",
+        "清晨參拜",
+        "人潮",
+        "稻荷山登山",
+        "四季景觀",
+        "京都旅遊"
+      ]
+    },
+    {
+      "locale": "zh-hant",
+      "page": "notes",
+      "path": "/zh-hant/temple/fushimi-inari/notes/",
+      "title": "伏見稻荷大社參拜前提醒與官方資訊 — SanctaWay",
+      "meta": "出發前請查 inari.jp 頁面，確認交通、參拜與祈禱資訊。境內無公告關閉時間，御守與祈禱依初穗料另行收費；夜間山道暗且不平，請帶手電筒。本站僅提供資訊，不售票。",
+      "keywords": [
+        "伏見稻荷大社",
+        "參拜前提醒",
+        "官方資訊",
+        "inari.jp",
+        "祈禱時間",
+        "初穗料",
+        "山道夜間安全"
+      ]
+    },
+    {
+      "locale": "zh-hans",
+      "page": "overview",
+      "path": "/zh-hans/temple/fushimi-inari/",
+      "title": "伏见稻荷大社：京都千本鸟居与稻荷山 — SanctaWay",
+      "meta": "伏见稻荷大社位于京都伏见，是稻荷神总本宫，传统创建于711年，稻荷山高约233米。千本鸟居到四辻约1至3小时，山顶环线需半天，请围绕祈祷时间安排行程。",
+      "keywords": [
+        "伏见稻荷大社",
+        "京都伏见",
+        "千本鸟居",
+        "稻荷山",
+        "稻荷神",
+        "狐狸使者",
+        "京都景点",
+        "伏见稻荷大社参观"
+      ]
+    },
+    {
+      "locale": "zh-hans",
+      "page": "tour",
+      "path": "/zh-hans/temple/fushimi-inari/tour/",
+      "title": "伏见稻荷大社徒步路线：千本鸟居到四辻 — SanctaWay",
+      "meta": "从JR稻荷站出发，经楼门、千本鸟居与狐狸岔路走到四辻折返，共六站步行路线，附地图与步行导航。稻荷山顶环线可按体力延长，全程约2至3小时，用时为常见游客节奏。",
+      "keywords": [
+        "伏见稻荷大社",
+        "千本鸟居",
+        "四辻",
+        "楼门",
+        "稻荷山徒步",
+        "JR稻荷站",
+        "步行路线",
+        "伏见稻荷大社徒步"
+      ]
+    },
+    {
+      "locale": "zh-hans",
+      "page": "visit",
+      "path": "/zh-hans/temple/fushimi-inari/visit/",
+      "title": "伏见稻荷大社参拜时间、御朱印与参观须知 — SanctaWay",
+      "meta": "伏见稻荷大社祈祷一般8:30至16:30，接待截至约16:00；社务所电话窗口9:00至16:00。御守、绘马、御朱印与私人祈祷按初穗料另收费，请提前核对官方时间。",
+      "keywords": [
+        "伏见稻荷大社",
+        "参拜时间",
+        "祈祷",
+        "初穗料",
+        "御朱印",
+        "御守",
+        "绘马",
+        "伏见稻荷大社参观"
+      ]
+    },
+    {
+      "locale": "zh-hans",
+      "page": "etiquette",
+      "path": "/zh-hans/temple/fushimi-inari/etiquette/",
+      "title": "伏见稻荷大社参拜礼仪与官方禁止行为 — SanctaWay",
+      "meta": "伏见稻荷大社是在用的神社，参拜礼仪优先于拍照。官方于2022年1月1日公布禁止行为：禁烟禁火、禁入限制区、禁飞无人机、勿损坏建筑鸟居树木、指定休息区外勿饮食。",
+      "keywords": [
+        "伏见稻荷大社",
+        "参拜礼仪",
+        "禁止行为",
+        "无人机",
+        "拍照礼仪",
+        "神社规矩",
+        "指定休息区"
+      ]
+    },
+    {
+      "locale": "zh-hans",
+      "page": "getting-there",
+      "path": "/zh-hans/temple/fushimi-inari/getting-there/",
+      "title": "伏见稻荷大社交通方式：JR稻荷站与京阪 — SanctaWay",
+      "meta": "伏见稻荷大社交通方便：乘JR奈良线普通列车从京都站到稻荷站两站约5分钟，下车即到；快速或特急可能不停稻荷站，请查看站内屏幕。京阪伏见稻荷站步行约5分钟。",
+      "keywords": [
+        "伏见稻荷大社",
+        "JR奈良线",
+        "稻荷站",
+        "京阪伏见稻荷",
+        "京都站到稻荷站",
+        "交通方式",
+        "伏见稻荷大社怎么去"
+      ]
+    },
+    {
+      "locale": "zh-hans",
+      "page": "best-time",
+      "path": "/zh-hans/temple/fushimi-inari/best-time/",
+      "title": "伏见稻荷大社最佳游览时间与避开人流 — SanctaWay",
+      "meta": "伏见稻荷大社清晨人流最少，适合拍摄千本鸟居；正午前后人潮拥挤，傍晚旅行团离开后逐渐宽松。夏季登山闷热，冬季清晨寒冷但视野清晰，秋季红叶与春季假期人多，尽量选平日。",
+      "keywords": [
+        "伏见稻荷大社",
+        "最佳时间",
+        "清晨参拜",
+        "避开人流",
+        "红叶",
+        "稻荷山登山",
+        "平日游览",
+        "伏见稻荷大社游览"
+      ]
+    },
+    {
+      "locale": "zh-hans",
+      "page": "notes",
+      "path": "/zh-hans/temple/fushimi-inari/notes/",
+      "title": "伏见稻荷大社出行须知与官网核实清单 — SanctaWay",
+      "meta": "游览伏见稻荷大社前请核对官方页面：交通、参拜礼仪与祈祷时间，不要只看英文首页。山间路径黑暗不平，夜间登山风险自负，请携带照明。本站仅提供信息，不售票。",
+      "keywords": [
+        "伏见稻荷大社",
+        "出行须知",
+        "祈祷时间",
+        "夜间山路",
+        "官方信息",
+        "出发前核对",
+        "京都旅行注意"
+      ]
+    },
+    {
+      "locale": "ko",
+      "page": "overview",
+      "path": "/ko/temple/fushimi-inari/",
+      "title": "후시미 이나리 대사, 교토 이나리야마 산책 — SanctaWay",
+      "meta": "교토 후시미의 이나리 총본사 후시미 이나리 대사. 전승상 711년 창건, 233m 이나리야마와 붉은 센본 도리이 터널, 요쓰쓰지 코스를 안내합니다.",
+      "keywords": [
+        "후시미 이나리 대사",
+        "이나리 총본사",
+        "교토 신사",
+        "센본 도리이",
+        "이나리야마",
+        "여우 신",
+        "이나리 신사"
+      ]
+    },
+    {
+      "locale": "ko",
+      "page": "tour",
+      "path": "/ko/temple/fushimi-inari/tour/",
+      "title": "후시미 이나리 대사 도보 참배 코스 — SanctaWay",
+      "meta": "JR 이나리 역에서 로몬, 센본 도리이, 여우와 갈림길, 요쓰쓰지까지 이어지는 여섯 정거장 도보 참배 코스를 한 화면씩 안내합니다.",
+      "keywords": [
+        "후시미 이나리 대사",
+        "도보 참배 코스",
+        "센본 도리이",
+        "요쓰쓰지",
+        "이나리 역",
+        "로몬",
+        "JR 이나리 역"
+      ]
+    },
+    {
+      "locale": "ko",
+      "page": "visit",
+      "path": "/ko/temple/fushimi-inari/visit/",
+      "title": "후시미 이나리 대사 참배 시간과 복장 — SanctaWay",
+      "meta": "기도는 보통 08:30–16:30, 접수는 16시경까지. 아래쪽 도리이 45~90분, 요쓰쓰지 포함 2~3시간 코스와 복장 팁.",
+      "keywords": [
+        "후시미 이나리 대사",
+        "참배 시간",
+        "기도 접수",
+        "요쓰쓰지 코스",
+        "오마모리",
+        "고슈인",
+        "이나리야마 산책"
+      ]
+    },
+    {
+      "locale": "ko",
+      "page": "etiquette",
+      "path": "/ko/temple/fushimi-inari/etiquette/",
+      "title": "후시미 이나리 대사 참배 예절 안내 — SanctaWay",
+      "meta": "후시미 이나리 대사에서 금연과 화기, 출입 제한 구역, 드론, 건축물 훼손, 통행로 촬영 방해 금지 등 2022년 공지된 공식 준수 사항을 안내합니다.",
+      "keywords": [
+        "후시미 이나리 대사",
+        "참배 예절",
+        "촬영 매너",
+        "준수 사항",
+        "드론 금지",
+        "금연 구역"
+      ]
+    },
+    {
+      "locale": "ko",
+      "page": "getting-there",
+      "path": "/ko/temple/fushimi-inari/getting-there/",
+      "title": "JR 이나리 역에서 후시미 이나리 대사 — SanctaWay",
+      "meta": "후시미 이나리 대사는 JR 나라선 보통 열차로 교토역에서 이나리 역까지 2정거장 약 5분, 역 바로 옆입니다. 케이한 후시미이나리 역은 도보 5분.",
+      "keywords": [
+        "후시미 이나리 대사",
+        "JR 이나리 역",
+        "나라선",
+        "케이한 후시미이나리",
+        "교토역에서 가는 법",
+        "신사 교통"
+      ]
+    },
+    {
+      "locale": "ko",
+      "page": "best-time",
+      "path": "/ko/temple/fushimi-inari/best-time/",
+      "title": "후시미 이나리 대사 가장 좋은 방문 시기 — SanctaWay",
+      "meta": "이른 아침이 붉은 도리이를 한가롭게 볼 수 있는 가장 좋은 시간대입니다. 한낮 혼잡, 여름 더위, 겨울 추위, 단풍과 연휴 성수기 팁.",
+      "keywords": [
+        "후시미 이나리 대사",
+        "방문 시기",
+        "이른 아침",
+        "단풍",
+        "혼잡 시간",
+        "요쓰쓰지"
+      ]
+    },
+    {
+      "locale": "ko",
+      "page": "notes",
+      "path": "/ko/temple/fushimi-inari/notes/",
+      "title": "후시미 이나리 대사 방문 전 확인 사항 — SanctaWay",
+      "meta": "방문 전 공식 사이트의 오시는 길, 준수 사항, 기도 접수 시간을 확인하세요. 야간 산길은 어둡고 고르지 않아 주의가 필요합니다.",
+      "keywords": [
+        "후시미 이나리 대사",
+        "방문 전 확인",
+        "공식 안내",
+        "야간 산길",
+        "기도 접수 시간",
+        "준수 사항"
+      ]
+    },
+    {
+      "locale": "es",
+      "page": "overview",
+      "path": "/es/temple/fushimi-inari/",
+      "title": "Fushimi Inari Taisha, Kioto: torii y santuario — SanctaWay",
+      "meta": "Fushimi Inari Taisha es el santuario principal de Inari en Kioto. Camina bajo los Senbon Torii y sube al Inariyama; planifica según los horarios de oración.",
+      "keywords": [
+        "Fushimi Inari Taisha",
+        "santuario de Inari",
+        "santuario sintoísta de Kioto",
+        "Senbon Torii",
+        "Inariyama",
+        "zorro mensajero",
+        "horarios de oración",
+        "visita a Kioto"
+      ]
+    },
+    {
+      "locale": "es",
+      "page": "tour",
+      "path": "/es/temple/fushimi-inari/tour/",
+      "title": "Tour a pie por Fushimi Inari Taisha en Kioto — SanctaWay",
+      "meta": "Tour a pie en seis paradas: JR Inari, el Romon, los Senbon Torii y la subida a Yotsutsuji, con la cima como opción y tiempos orientativos para el recorrido.",
+      "keywords": [
+        "Fushimi Inari Taisha",
+        "tour a pie",
+        "Romon",
+        "Senbon Torii",
+        "Yotsutsuji",
+        "JR Inari",
+        "ruta de senderismo",
+        "Kioto"
+      ]
+    },
+    {
+      "locale": "es",
+      "page": "visit",
+      "path": "/es/temple/fushimi-inari/visit/",
+      "title": "Horarios y visita a Fushimi Inari Taisha — SanctaWay",
+      "meta": "Visita Fushimi Inari Taisha: gokito de 08:30 a 16:30 y recepción hasta las 16:00. Dedica 45-90 minutos a los torii bajos y 2-3 horas hasta Yotsutsuji.",
+      "keywords": [
+        "Fushimi Inari Taisha",
+        "horarios de visita",
+        "gokito",
+        "oración sintoísta",
+        "Yotsutsuji",
+        "duración de la visita",
+        "Inariyama",
+        "Kioto"
+      ]
+    },
+    {
+      "locale": "es",
+      "page": "etiquette",
+      "path": "/es/temple/fushimi-inari/etiquette/",
+      "title": "Normas de visita en Fushimi Inari Taisha — SanctaWay",
+      "meta": "En Fushimi Inari Taisha no se fuma ni se enciende fuego, no se usan drones ni se dañan torii y árboles, y solo se come en zonas de descanso; revisa inari.jp.",
+      "keywords": [
+        "Fushimi Inari Taisha",
+        "normas de visita",
+        "etiqueta en santuarios",
+        "fotos en el santuario",
+        "drones",
+        "inari.jp",
+        "santuario sintoísta",
+        "Kioto"
+      ]
+    },
+    {
+      "locale": "es",
+      "page": "getting-there",
+      "path": "/es/temple/fushimi-inari/getting-there/",
+      "title": "Cómo llegar en tren a Fushimi Inari Taisha — SanctaWay",
+      "meta": "Llega en la línea JR Nara: de Kioto a Inari son 2 paradas y unos 5 minutos, junto al santuario. Keihan Fushimi-Inari, a 5 minutos a pie. Prioriza el tren.",
+      "keywords": [
+        "Fushimi Inari Taisha",
+        "línea JR Nara",
+        "estación Inari",
+        "Keihan Fushimi-Inari",
+        "cómo llegar",
+        "transporte público",
+        "aparcamiento",
+        "Kioto"
+      ]
+    },
+    {
+      "locale": "es",
+      "page": "best-time",
+      "path": "/es/temple/fushimi-inari/best-time/",
+      "title": "Mejor época para visitar Fushimi Inari Taisha — SanctaWay",
+      "meta": "Visita Fushimi Inari Taisha al amanecer para evitar aglomeraciones; al mediodía hay más gente y en otoño conviene ir entre semana. El verano es húmedo.",
+      "keywords": [
+        "Fushimi Inari Taisha",
+        "mejor época",
+        "amanecer",
+        "otoño",
+        "follaje",
+        "aglomeraciones",
+        "Yotsutsuji",
+        "Kioto"
+      ]
+    },
+    {
+      "locale": "es",
+      "page": "notes",
+      "path": "/es/temple/fushimi-inari/notes/",
+      "title": "Notas antes de visitar Fushimi Inari Taisha — SanctaWay",
+      "meta": "Revisa en inari.jp las páginas oficiales de acceso, normas y gokito para transporte, reglas y horarios. Caminar de noche por el monte es bajo tu propio riesgo.",
+      "keywords": [
+        "Fushimi Inari Taisha",
+        "notas de visita",
+        "inari.jp",
+        "horarios de oración",
+        "normas",
+        "senderismo nocturno",
+        "verificar antes de ir",
+        "Kioto"
+      ]
+    },
+    {
+      "locale": "th",
+      "page": "overview",
+      "path": "/th/temple/fushimi-inari/",
+      "title": "ศาลเจ้าฟุชิมิอินาริ ศาลเจ้าหลักแห่งอินาริที่เกียวโต — SanctaWay",
+      "meta": "ศาลเจ้าฟุชิมิอินาริ ศาลเจ้าหลักของเทพอินาริในฟุชิมิ เกียวโต ก่อตั้งตามประเพณีในปี ค.ศ. 711 ภูเขาอินาริสูงราว 233 เมตร เที่ยวได้ทั้งซุ้มโทริอิเซ็นบงและเส้นทางขึ้นเขา วางแผนตามเวลากราบไหว้ที่ประกาศ",
+      "keywords": [
+        "ศาลเจ้าฟุชิมิอินาริ",
+        "ฟุชิมิ เกียวโต",
+        "ซุ้มโทริอิเซ็นบง",
+        "ภูเขาอินาริ",
+        "เที่ยวเกียวโต",
+        "ศาลเจ้าอินาริ"
+      ]
+    },
+    {
+      "locale": "th",
+      "page": "tour",
+      "path": "/th/temple/fushimi-inari/tour/",
+      "title": "ทัวร์เดินเท้าศาลเจ้าฟุชิมิอินาริ จากสถานีอินาริ ถึงโยตสึงจิ — SanctaWay",
+      "meta": "ทัวร์เดินเท้าศาลเจ้าฟุชิมิอินาริ หกจุดแวะจากสถานีอินาริ ผ่านประตูโรมอนและซุ้มโทริอิเซ็นบง ถึงโยตสึงจิ จุดกลับของนักเดินส่วนใหญ่ เส้นทางขึ้นยอดเขาเป็นทางเลือก เปิดดูแผนที่เส้นทางก่อนออกเดิน",
+      "keywords": [
+        "ศาลเจ้าฟุชิมิอินาริ",
+        "ทัวร์เดินเท้า",
+        "สถานีอินาริ",
+        "เซ็นบง โทริอิ",
+        "โยตสึงจิ",
+        "เส้นทางเดินป่า"
+      ]
+    },
+    {
+      "locale": "th",
+      "page": "visit",
+      "path": "/th/temple/fushimi-inari/visit/",
+      "title": "เวลาเที่ยวและเวลากราบไหว้ที่ศาลเจ้าฟุชิมิอินาริ — SanctaWay",
+      "meta": "ศาลเจ้าฟุชิมิอินาริมีพิธีกราบไหว้โดยทั่วไป 08:30–16:30 รับลงทะเบียนถึงประมาณ 16:00 สำนักงาน 09:00–16:00 ไม่มีเวลาปิดลานที่ประกาศไว้ โอมาโมริ เอมะ โกชูอิน และการอธิษฐานส่วนตัวมีค่าบริการ ตรวจที่ inari.jp",
+      "keywords": [
+        "ศาลเจ้าฟุชิมิอินาริ",
+        "เวลาเที่ยว",
+        "เวลากราบไหว้",
+        "โอมาโมริ",
+        "สำนักงานศาลเจ้า",
+        "inari.jp"
+      ]
+    },
+    {
+      "locale": "th",
+      "page": "etiquette",
+      "path": "/th/temple/fushimi-inari/etiquette/",
+      "title": "มารยาทเที่ยวศาลเจ้าฟุชิมิอินาริ สิ่งที่ควรทำและไม่ควรทำ — SanctaWay",
+      "meta": "มารยาทที่ศาลเจ้าฟุชิมิอินาริตามประกาศ 1 มกราคม 2022: ห้ามสูบบุหรี่ จุดไฟ โดรน เข้าเขตห้าม และห้ามกินนอกพื้นที่พักที่กำหนด ดูรายการเต็มที่ inari.jp/en/request/",
+      "keywords": [
+        "ศาลเจ้าฟุชิมิอินาริ",
+        "มารยาท",
+        "ห้ามสูบบุหรี่",
+        "โดรน",
+        "โทริอิ",
+        "inari.jp/en/request/"
+      ]
+    },
+    {
+      "locale": "th",
+      "page": "getting-there",
+      "path": "/th/temple/fushimi-inari/getting-there/",
+      "title": "การเดินทางไปศาลเจ้าฟุชิมิอินาริ รถไฟ JR อินาริและรถไฟเคฮัง — SanctaWay",
+      "meta": "เดินทางไปศาลเจ้าฟุชิมิอินาริด้วยรถไฟท้องถิ่น JR สายนารา จากสถานีเกียวโตถึงสถานีอินาริ 2 สถานี ประมาณ 5 นาที ศาลเจ้าอยู่ติดสถานี ขบวนด่วนอาจไม่จอด จากสถานีเคฮังฟุชิมิ-อินาริเดินต่อประมาณ 5 นาที",
+      "keywords": [
+        "ศาลเจ้าฟุชิมิอินาริ",
+        "การเดินทาง",
+        "สถานีอินาริ",
+        "JR สายนารา",
+        "สถานีฟุชิมิ-อินาริ",
+        "เคฮัง"
+      ]
+    },
+    {
+      "locale": "th",
+      "page": "best-time",
+      "path": "/th/temple/fushimi-inari/best-time/",
+      "title": "เวลาเที่ยวศาลเจ้าฟุชิมิอินาริ เช้าตรู่และฤดูกาลที่ควรไป — SanctaWay",
+      "meta": "ช่วงที่ดีที่ศาลเจ้าฟุชิมิอินาริคือเช้าตรู่ก่อนนักท่องเที่ยวหนาแน่น กลางวันในฤดูท่องเที่ยวแน่นขนัด ช่วงบ่ายแก่ ๆ คนเบาบางลงเมื่อรถบัสทัวร์กลับ ฤดูร้อนร้อนชื้น ใบไม้เปลี่ยนสีและวันหยุดฤดูใบไม้ผลิสวยแต่คนเยอะ วันธรรมดาจะเงียบกว่า",
+      "keywords": [
+        "ศาลเจ้าฟุชิมิอินาริ",
+        "เวลาเที่ยว",
+        "เช้าตรู่",
+        "ฤดูใบไม้ผลิ",
+        "ใบไม้เปลี่ยนสี",
+        "โยตสึงจิ",
+        "เดินป่า"
+      ]
+    },
+    {
+      "locale": "th",
+      "page": "notes",
+      "path": "/th/temple/fushimi-inari/notes/",
+      "title": "สิ่งที่ควรรู้ก่อนไปศาลเจ้าฟุชิมิอินาริ ตรวจสอบข้อมูลจากศาลเจ้า — SanctaWay",
+      "meta": "ก่อนไปศาลเจ้าฟุชิมิอินาริ ให้ตรวจเส้นทาง กฎห้าม และเวลากราบไหว้ที่ inari.jp หน้าทางการไม่ได้ระบุค่าเข้าชมทั่วไปหรือแสงสว่างตลอดคืน การเดินกลางคืนบนภูเขาเสี่ยงเอง ทางมืดและไม่เรียบ",
+      "keywords": [
+        "ศาลเจ้าฟุชิมิอินาริ",
+        "ข้อมูลก่อนเดินทาง",
+        "inari.jp",
+        "กฎการห้าม",
+        "เดินกลางคืน",
+        "ภูเขาอินาริ"
+      ]
+    }
+  ]
+}

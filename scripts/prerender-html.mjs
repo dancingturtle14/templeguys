@@ -39,7 +39,7 @@ const ROOT = '<div id="root"></div>'
  * Fill the Vite SPA shell with prerendered content.
  * Leaves GTM, stylesheet, and module script untouched.
  */
-export function applyShell(template, { html, title, description, canonical, lang = 'en' }) {
+export function applyShell(template, { html, title, description, canonical, lang = 'en', keywords }) {
   if (!template.includes(ROOT)) {
     throw new Error('SPA shell is missing <div id="root"></div>')
   }
@@ -56,7 +56,11 @@ export function applyShell(template, { html, title, description, canonical, lang
     `<meta property="og:title" content="${escapeHtml(title)}" />`,
     `<meta property="og:description" content="${escapeHtml(description)}" />`,
     `<meta property="og:url" content="${escapeHtml(canonical)}" />`,
-  ].join('\n    ')
+  ]
+  if (Array.isArray(keywords) && keywords.length > 0) {
+    headExtras.push(`<meta name="keywords" content="${escapeHtml(keywords.join(', '))}" />`)
+  }
+  const headExtraBlock = headExtras.join('\n    ')
 
   let page = template
     .replace(/<title>[\s\S]*?<\/title>/, `<title>${escapeHtml(title)}</title>`)
@@ -64,7 +68,7 @@ export function applyShell(template, { html, title, description, canonical, lang
       /<meta name="description" content="[^"]*"\s*\/?>/,
       `<meta name="description" content="${escapeHtml(description)}" />`,
     )
-    .replace('</head>', `    ${headExtras}\n  </head>`)
+    .replace('</head>', `    ${headExtraBlock}\n  </head>`)
     .replace(ROOT, `<div id="root">${html}</div>`)
   if (lang && /<html\b[^>]*\blang="[^"]*"/.test(page)) {
     page = page.replace(/<html([^>]*?)\slang="[^"]*"/, `<html$1 lang="${escapeHtml(lang)}"`)

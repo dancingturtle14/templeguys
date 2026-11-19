@@ -11,7 +11,7 @@ export function render(pathnameAndSearch: string) {
   const pathname = queryAt === -1 ? pathnameAndSearch : pathnameAndSearch.slice(0, queryAt)
   const search = queryAt === -1 ? '' : pathnameAndSearch.slice(queryAt)
   const route = parsePath(pathname, search)
-  const { title, description } = metaForRoute(route)
+  const { title, description, keywords } = metaForRoute(route)
   const locale = route.name === 'temple' || route.name === 'temple-tour' ? route.locale : undefined
   const lang = getHtmlLang(locale)
   const html = renderToString(
@@ -21,5 +21,5 @@ export function render(pathnameAndSearch: string) {
       </RouterProvider>
     </StrictMode>,
   )
-  return { html, title, description, lang }
+  return { html, title, description, keywords, lang }
 }

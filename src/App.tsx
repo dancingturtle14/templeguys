@@ -13,8 +13,8 @@ import { TempleTourPage } from './pages/TempleTour'
 
 function DocumentHead() {
   const { route } = useRouter()
-  const { title, description } = metaForRoute(route)
-  useDocumentMeta(title, description)
+  const { title, description, keywords } = metaForRoute(route)
+  useDocumentMeta(title, description, keywords)
   const jsonLd = jsonLdForRoute(route)
   if (!jsonLd) return null
   return (

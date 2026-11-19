@@ -40,6 +40,7 @@ for (const pathname of paths) {
     html: rendered.html,
     title: rendered.title,
     description: rendered.description,
+    keywords: rendered.keywords,
     canonical: canonicalUrl(pathname),
     lang: rendered.lang,
   })

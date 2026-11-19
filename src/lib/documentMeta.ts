@@ -4,6 +4,7 @@ import { TEMPLE_CHAPTERS } from './chapters'
 import { getFushimiI18n } from './fushimi-i18n'
 import { getTemple, regionLabel, religionLabel } from './temples'
 import type { Locale, Route, TempleChapter } from '../types'
+import { fushimiSeoFromRoute } from './fushimi-seo'
 
 const BRAND = 'SanctaWay'
 const HOME_TITLE = 'SanctaWay — Visit guides to the world’s sacred places'
@@ -18,6 +19,7 @@ function clip(text: string, max = 160): string {
   return `${(sp > 80 ? cut.slice(0, sp) : cut).trimEnd()}…`
 }
 
+/** Set meta description in client HTML. */
 function setMetaDescription(content: string) {
   let el = document.querySelector('meta[name="description"]')
   if (!el) {
@@ -29,15 +31,29 @@ function setMetaDescription(content: string) {
 }
 
 /** Apply document title + meta description (client-side SPA). */
-export function setDocumentMeta(title: string, description: string) {
+export function setDocumentMeta(title: string, description: string, keywords?: string[]) {
   document.title = title
   setMetaDescription(description)
+  if (keywords && keywords.length > 0) {
+    let el = document.querySelector('meta[name="keywords"]')
+    if (!el) {
+      el = document.createElement('meta')
+      el.setAttribute('name', 'keywords')
+      document.head.appendChild(el)
+    }
+    el.setAttribute('content', keywords.join(', '))
+  } else {
+    const existing = document.querySelector('meta[name="keywords"]')
+    if (existing) existing.remove()
+  }
 }
 
-export function useDocumentMeta(title: string, description: string) {
+/** Client hook: set document title + meta description on mount / navigate. */
+export function useDocumentMeta(title: string, description: string, keywords?: string[]) {
+  const keywordKey = keywords?.join(', ') ?? ''
   useEffect(() => {
-    setDocumentMeta(title, description)
-  }, [title, description])
+    setDocumentMeta(title, description, keywords)
+  }, [title, description, keywordKey])
 }
 
 function chapterLabel(chapter: TempleChapter, locale?: Locale): string {
@@ -45,7 +61,19 @@ function chapterLabel(chapter: TempleChapter, locale?: Locale): string {
   return TEMPLE_CHAPTERS.find((c) => c.id === chapter)?.label ?? chapter
 }
 
-export function metaForRoute(route: Route): { title: string; description: string } {
+export function metaForRoute(route: Route): { title: string; description: string } & { keywords?: string[] } {
+  // Check if this is a Fushimi Inari route via the new lookup
+  const fushimi = fushimiSeoFromRoute(route)
+
+  if (fushimi) {
+    // Fushimi Inari: return exact pack values, NO clipping
+    return {
+      title: fushimi.title,
+      description: fushimi.meta,
+      keywords: fushimi.keywords,
+    }
+  }
+
   switch (route.name) {
     case 'home':
       return { title: HOME_TITLE, description: HOME_DESC }

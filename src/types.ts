@@ -78,11 +78,14 @@ export type TempleChapter =
   | 'best-time'
   | 'notes'
 
+/** Non-English Fushimi preview prefixes. English stays unprefixed. */
+export type Locale = 'ja' | 'zh-hant' | 'zh-hans' | 'ko' | 'es' | 'th'
+
 export type Route =
   | { name: 'home' }
   | { name: 'explore'; q?: string; region?: string; religion?: string }
-  | { name: 'temple'; id: string; chapter?: TempleChapter }
-  | { name: 'temple-tour'; id: string }
+  | { name: 'temple'; id: string; chapter?: TempleChapter; locale?: Locale }
+  | { name: 'temple-tour'; id: string; locale?: Locale }
   | { name: 'region'; slug: string }
   | { name: 'religion'; slug: string }
   | { name: 'about' }

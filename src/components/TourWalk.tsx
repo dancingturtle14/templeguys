@@ -10,6 +10,7 @@ import {
   type TourImage,
   type TourStop,
 } from '../data/fushimiInariTour'
+import { DEFAULT_TOUR_CHROME, fillTemplate, type TourChrome } from '../lib/fushimi-i18n'
 
 const END_ID = 'tour-end'
 
@@ -18,6 +19,7 @@ export type TourWalkProps = {
   templeId: string
   mapsWalking: string
   endCopy: string
+  chrome?: TourChrome
 }
 
 const FUSHIMI_WALK: TourWalkProps = {
@@ -81,14 +83,15 @@ function ChipList({ chips }: { chips: TourChip[] }) {
   )
 }
 
-const KIND_LABEL: Record<CheckpointKind, string> = {
-  'must-see': 'Must-see',
-  object: 'Object',
-  story: 'Traditional story',
-  practice: 'House rule',
+function kindLabel(kind: CheckpointKind, chrome: TourChrome): string {
+  if (kind === 'must-see') return chrome.kindMustSee
+  if (kind === 'object') return chrome.kindObject
+  if (kind === 'story') return chrome.kindStory
+  return chrome.kindPractice
 }
 
 function LookPrompt({ checkpoint }: { checkpoint: TourCheckpoint }) {
+  const { chrome = DEFAULT_TOUR_CHROME } = useTourWalk()
   const prompt = checkpoint.prompt
   const [picked, setPicked] = useState<string | null>(null)
   if (!prompt) return null
@@ -115,7 +118,7 @@ function LookPrompt({ checkpoint }: { checkpoint: TourCheckpoint }) {
       </div>
       {choice ? <p className="mt-3 max-w-2xl text-sm text-ink-soft">{choice.reply}</p> : null}
       <details className="mt-3">
-        <summary className="cursor-pointer text-sm text-cinnabar">Show every reading</summary>
+        <summary className="cursor-pointer text-sm text-cinnabar">{chrome.showEveryReading}</summary>
         <ul className="mt-2 space-y-2">
           {prompt.choices.map((item) => (
             <li key={item.label} className="text-sm text-ink-soft">
@@ -140,6 +143,7 @@ const CheckpointCard = memo(function CheckpointCard({
   defer: boolean
   onEnlarge: (image: TourImage) => void
 }) {
+  const { chrome = DEFAULT_TOUR_CHROME } = useTourWalk()
   const mustSee = checkpoint.kind === 'must-see'
   return (
     <details
@@ -150,7 +154,7 @@ const CheckpointCard = memo(function CheckpointCard({
       }`}
     >
       <summary className="cursor-pointer list-none px-4 py-3 marker:content-none sm:px-5 [&::-webkit-details-marker]:hidden">
-        <span className="text-[0.65rem] font-semibold uppercase text-cinnabar">{KIND_LABEL[checkpoint.kind]}</span>
+        <span className="text-[0.65rem] font-semibold uppercase text-cinnabar">{kindLabel(checkpoint.kind, chrome)}</span>
         <span className="mt-1 block font-display text-2xl text-ink">{checkpoint.title}</span>
       </summary>
       <div className="border-t border-line px-4 py-4 sm:px-5">
@@ -166,7 +170,7 @@ const CheckpointCard = memo(function CheckpointCard({
         </div>
         {checkpoint.lookFor?.length ? (
           <div className="mt-4 border border-cinnabar/30 bg-cinnabar-wash/40 p-3">
-            <p className="text-[0.65rem] font-semibold uppercase text-cinnabar">What to look for</p>
+            <p className="text-[0.65rem] font-semibold uppercase text-cinnabar">{chrome.whatToLookFor}</p>
             <ul className="mt-2 space-y-2">
               {checkpoint.lookFor.map((item) => (
                 <li key={item} className="text-sm text-ink">
@@ -183,7 +187,7 @@ const CheckpointCard = memo(function CheckpointCard({
               type="button"
               className="block w-full border border-line text-left"
               aria-haspopup="dialog"
-              aria-label={`Enlarge photo: ${checkpoint.image.alt}`}
+              aria-label={fillTemplate(chrome.enlargePhoto, { alt: checkpoint.image.alt })}
               onClick={() => onEnlarge(checkpoint.image as TourImage)}
             >
               <TempleImage
@@ -195,7 +199,7 @@ const CheckpointCard = memo(function CheckpointCard({
               />
             </button>
             <figcaption className="mt-2 text-xs text-ink-muted">
-              {checkpoint.image.caption} Photo: {checkpoint.image.credit} Tap the photo to enlarge.
+              {checkpoint.image.caption} {chrome.photoPrefix} {checkpoint.image.credit} {chrome.tapToEnlarge}
             </figcaption>
           </figure>
         ) : null}
@@ -211,12 +215,12 @@ function progressNow(active: string, stops: TourStop[]) {
 }
 
 function WalkProgress({ active }: { active: string }) {
-  const { stops } = useTourWalk()
+  const { stops, chrome = DEFAULT_TOUR_CHROME } = useTourWalk()
   const now = progressNow(active, stops)
   return (
     <div
       role="progressbar"
-      aria-label="Walk progress"
+      aria-label={chrome.walkProgressAria}
       aria-valuemin={1}
       aria-valuemax={stops.length}
       aria-valuenow={now}
@@ -235,23 +239,21 @@ function RouteSchematic({
   active: string
   onJump: (id: string) => void
 }) {
-  const { stops, mapsWalking } = useTourWalk()
+  const { stops, mapsWalking, chrome = DEFAULT_TOUR_CHROME } = useTourWalk()
   const activeIndex = active === END_ID ? stops.length - 1 : stops.findIndex((s) => s.id === active)
   const height = 240
   const top = 24
   const bottom = height - 24
   const step = (bottom - top) / (stops.length - 1)
   const cx = 36
-  const stopWord = stops.length === 6 ? 'six' : stops.length === 5 ? 'five' : String(stops.length)
-
   return (
     <div className="border border-line bg-paper p-4">
-      <p className="text-[0.65rem] font-semibold uppercase text-cinnabar">Route</p>
+      <p className="text-[0.65rem] font-semibold uppercase text-cinnabar">{chrome.routeLabel}</p>
       <svg
         viewBox={`0 0 160 ${height}`}
         className="mt-3 w-full max-w-[11rem]"
         role="img"
-        aria-label={`Schematic walking route with ${stopWord} stops`}
+        aria-label={chrome.routeMapAria}
       >
         <line
           x1={cx}
@@ -309,7 +311,7 @@ function RouteSchematic({
                   style={{ fontSize: '11px', fontWeight: current ? 600 : 400 }}
                 >
                   {stop.nav}
-                  {stop.optional ? ' · opt' : ''}
+                  {stop.optional ? ` · ${chrome.optional}` : ''}
                 </text>
               </a>
             </g>
@@ -322,7 +324,7 @@ function RouteSchematic({
         rel="noopener noreferrer"
         className="mt-4 inline-flex items-center gap-1.5 border border-cinnabar/35 bg-cinnabar-wash px-3 py-1.5 text-sm font-medium text-ink no-underline"
       >
-        Open walking route in Google Maps
+        {chrome.mapsCta}
       </a>
     </div>
   )
@@ -339,6 +341,7 @@ function StopPhoto({
   defer?: boolean
   onEnlarge: (image: TourImage) => void
 }) {
+  const { chrome = DEFAULT_TOUR_CHROME } = useTourWalk()
   const image = tourStopImage(stop)
   if (!image) return null
   return (
@@ -347,7 +350,7 @@ function StopPhoto({
         type="button"
         className="block w-full border border-line text-left"
         aria-haspopup="dialog"
-        aria-label={`Enlarge photo: ${image.alt}`}
+        aria-label={fillTemplate(chrome.enlargePhoto, { alt: image.alt })}
         onClick={() => onEnlarge(image)}
       >
         <TempleImage
@@ -359,7 +362,7 @@ function StopPhoto({
         />
       </button>
       <figcaption className="mt-2 text-xs text-ink-muted">
-        {image.caption} Photo: {image.credit} Tap the photo to enlarge.
+        {image.caption} {chrome.photoPrefix} {image.credit} {chrome.tapToEnlarge}
       </figcaption>
     </figure>
   )
@@ -378,9 +381,10 @@ function StopBody({
   onEnlarge: (image: TourImage) => void
   hidePhoto?: boolean
 }) {
+  const { chrome = DEFAULT_TOUR_CHROME } = useTourWalk()
   return (
     <>
-      <p className="text-[0.65rem] font-semibold uppercase text-cinnabar">Stop {stop.index}</p>
+      <p className="text-[0.65rem] font-semibold uppercase text-cinnabar">{fillTemplate(chrome.stopPattern, { n: stop.index })}</p>
       <h2 id={`${stop.id}-title`} className="mt-2 font-display text-3xl text-balance sm:text-4xl">
         {stop.plate}
       </h2>
@@ -410,7 +414,7 @@ function StopBody({
                 }}
                 className={checkpoint.kind === 'must-see' ? 'font-semibold text-cinnabar' : 'text-ink'}
               >
-                {checkpoint.kind === 'must-see' ? 'Must-see · ' : ''}
+                {checkpoint.kind === 'must-see' ? `${chrome.kindMustSee} · ` : ''}
                 {checkpoint.title}
               </a>
             </li>
@@ -430,9 +434,9 @@ function StopBody({
       </div>
       {stop.id === 'yotsutsuji' ? (
         <fieldset className="mt-6 border border-line p-4">
-          <legend className="px-1 font-display text-2xl">Your call at the crossroads</legend>
+          <legend className="px-1 font-display text-2xl">{chrome.crossroadsHeading}</legend>
           <p className="max-w-2xl text-sm text-ink-soft">
-            Either choice is a complete visit. Turning back skips the forest circuit. Continuing opens the summit loop.
+            {chrome.crossroadsBody}
           </p>
           <div className="mt-3 flex flex-wrap gap-2">
             <button
@@ -440,14 +444,14 @@ function StopBody({
               onClick={() => onJump('descent')}
               className="border border-line bg-paper px-3 py-2 text-sm font-medium"
             >
-              Turn back down
+              {chrome.turnBack}
             </button>
             <button
               type="button"
               onClick={() => onJump('summit')}
               className="border border-cinnabar bg-cinnabar-wash px-3 py-2 text-sm font-medium"
             >
-              Continue to Okumiya
+              {chrome.continueTo}
             </button>
           </div>
         </fieldset>
@@ -463,7 +467,7 @@ function PlayerChrome({
   active: string
   onJump: (id: string) => void
 }) {
-  const { stops } = useTourWalk()
+  const { stops, chrome = DEFAULT_TOUR_CHROME } = useTourWalk()
   const now = progressNow(active, stops)
   const atStart = active === stops[0].id
   const atEnd = active === END_ID
@@ -473,14 +477,14 @@ function PlayerChrome({
     <div className="border border-line bg-paper">
       <WalkProgress active={active} />
       <div className="flex flex-nowrap items-stretch gap-0">
-        <nav aria-label="Walk stops" className="flex min-w-0 flex-1 flex-nowrap items-stretch">
+        <nav aria-label={chrome.walkStopsAria} className="flex min-w-0 flex-1 flex-nowrap items-stretch">
           <button
             type="button"
             disabled={atStart}
             onClick={() => onJump(prev)}
             className="inline-flex flex-1 items-center justify-center whitespace-nowrap border-r border-line px-2.5 py-2.5 text-xs font-semibold text-ink disabled:text-ink-muted"
           >
-            Prev
+            {chrome.prev}
           </button>
           <p className="inline-flex items-center justify-center whitespace-nowrap border-r border-line px-2.5 py-2.5 text-xs font-semibold text-cinnabar tabular-nums">
             {`${now} / ${stops.length}`}
@@ -491,7 +495,7 @@ function PlayerChrome({
             onClick={() => onJump(next)}
             className="inline-flex flex-1 items-center justify-center whitespace-nowrap px-2.5 py-2.5 text-xs font-semibold text-ink disabled:text-ink-muted"
           >
-            Next
+            {chrome.next}
           </button>
         </nav>
       </div>
@@ -514,8 +518,10 @@ export function TourWalk(props?: Partial<TourWalkProps>) {
     templeId: props?.templeId ?? FUSHIMI_WALK.templeId,
     mapsWalking: props?.mapsWalking ?? FUSHIMI_WALK.mapsWalking,
     endCopy: props?.endCopy ?? FUSHIMI_WALK.endCopy,
+    chrome: props?.chrome ?? DEFAULT_TOUR_CHROME,
   }
   const STOPS = tour.stops
+  const chrome = tour.chrome ?? DEFAULT_TOUR_CHROME
   const [active, setActive] = useState<string>(STOPS[0].id)
   const [photo, setPhoto] = useState<TourImage | null>(null)
   const photoDialog = useRef<HTMLDialogElement>(null)
@@ -620,11 +626,11 @@ export function TourWalk(props?: Partial<TourWalkProps>) {
               >
                 <summary className="cursor-pointer list-none px-4 py-4 marker:content-none [&::-webkit-details-marker]:hidden">
                   <span className="text-[0.65rem] font-semibold uppercase text-cinnabar">
-                    Stop {stop.index} · optional
+                    {fillTemplate(chrome.stopPattern, { n: stop.index })} · {chrome.optional}
                   </span>
-                  <span className="mt-1 block font-display text-3xl text-ink">Summit loop</span>
+                  <span className="mt-1 block font-display text-3xl text-ink">{chrome.summitLoop}</span>
                   <span className="mt-1 block text-sm text-ink-soft">
-                    Closed until you open it. Continue only if you are going past Yotsutsuji.
+                    {chrome.closedUntilOpen}
                   </span>
                   <StopPhoto stop={stop} onEnlarge={setPhoto} />
                 </summary>
@@ -653,9 +659,9 @@ export function TourWalk(props?: Partial<TourWalkProps>) {
           aria-labelledby="tour-end-title"
           className="tour-stop scroll-mt-24 border border-line bg-paper-deep/50 p-5 sm:p-7"
         >
-          <p className="text-[0.65rem] font-semibold uppercase text-cinnabar">End</p>
+          <p className="text-[0.65rem] font-semibold uppercase text-cinnabar">{chrome.endKicker}</p>
           <h2 id="tour-end-title" className="mt-2 font-display text-3xl">
-            End of the walk
+            {chrome.endHeading}
           </h2>
           <p className="mt-3 max-w-2xl text-pretty text-ink-soft">{tour.endCopy}</p>
           <p className="mt-5 flex flex-wrap gap-2">
@@ -663,19 +669,19 @@ export function TourWalk(props?: Partial<TourWalkProps>) {
               to={{ name: 'temple', id: tour.templeId }}
               className="border border-line bg-paper px-3 py-1.5 text-sm font-medium text-ink no-underline"
             >
-              Overview
+              {chrome.overview}
             </Link>
             <Link
               to={{ name: 'temple', id: tour.templeId, chapter: 'etiquette' }}
               className="border border-cinnabar/35 bg-cinnabar-wash px-3 py-1.5 text-sm font-medium text-ink no-underline"
             >
-              Etiquette
+              {chrome.etiquette}
             </Link>
             <Link
               to={{ name: 'temple', id: tour.templeId, chapter: 'getting-there' }}
               className="border border-cinnabar/35 bg-cinnabar-wash px-3 py-1.5 text-sm font-medium text-ink no-underline"
             >
-              Getting there
+              {chrome.gettingThere}
             </Link>
           </p>
         </section>
@@ -688,7 +694,7 @@ export function TourWalk(props?: Partial<TourWalkProps>) {
       <dialog
         ref={photoDialog}
         className="w-[min(100%-2rem,56rem)] border border-line bg-paper p-4 backdrop:bg-ink/60"
-        aria-label="Enlarged photo"
+        aria-label={chrome.enlargedPhotoAria}
         onClose={() => setPhoto(null)}
         onClick={(event) => {
           if (event.target === event.currentTarget) event.currentTarget.close()
@@ -698,11 +704,11 @@ export function TourWalk(props?: Partial<TourWalkProps>) {
           <>
             <img src={photo.src} alt={photo.alt} className="max-h-[75dvh] w-full object-contain" />
             <p className="mt-2 text-xs text-ink-muted">
-              {photo.caption} Photo: {photo.credit}
+              {photo.caption} {chrome.photoPrefix} {photo.credit}
             </p>
             <form method="dialog" className="mt-3 text-right">
               <button type="submit" className="border border-ink px-3 py-1.5 text-sm font-medium">
-                Close
+                {chrome.close}
               </button>
             </form>
           </>

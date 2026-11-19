@@ -10,6 +10,7 @@ import {
   type AnchorHTMLAttributes,
 } from 'react'
 import type { Route, TempleChapter } from '../types'
+import { isFushimiTemple, parseLocaleFromPath, stripLocaleFromPath } from './fushimi-i18n'
 
 /** Vite BASE_URL, e.g. `/` on apex domain or project Pages path. */
 function getBase(): string {
@@ -45,11 +46,16 @@ const CHAPTERS = new Set<string>([
 ])
 
 export function parsePath(pathname: string, search: string): Route {
-  const path = stripBase(pathname).replace(/\/+$/, '') || '/'
+  const appPath = stripBase(pathname)
+  const locale = parseLocaleFromPath(appPath)
+  const path = stripLocaleFromPath(appPath).replace(/\/+$/, '') || '/'
   const params = new URLSearchParams(search)
 
-  if (path === '/') return { name: 'home' }
+  if (path === '/') {
+    return locale ? { name: 'notfound' } : { name: 'home' }
+  }
   if (path === '/explore') {
+    if (locale) return { name: 'notfound' }
     return {
       name: 'explore',
       q: params.get('q') || undefined,
@@ -57,37 +63,58 @@ export function parsePath(pathname: string, search: string): Route {
       religion: params.get('religion') || undefined,
     }
   }
-  if (path === '/about') return { name: 'about' }
+  if (path === '/about') {
+    return locale ? { name: 'notfound' } : { name: 'about' }
+  }
 
   const templeTour = path.match(/^\/temple\/([^/]+)\/tour$/)
   if (templeTour) {
-    return { name: 'temple-tour', id: decodeURIComponent(templeTour[1]) }
+    const id = decodeURIComponent(templeTour[1])
+    if (locale && !isFushimiTemple(id)) return { name: 'notfound' }
+    if (locale) return { name: 'temple-tour', id, locale }
+    return { name: 'temple-tour', id }
   }
 
   const templeChapter = path.match(/^\/temple\/([^/]+)\/([^/]+)$/)
   if (templeChapter && CHAPTERS.has(templeChapter[2])) {
-    return {
-      name: 'temple',
-      id: decodeURIComponent(templeChapter[1]),
-      chapter: templeChapter[2] as TempleChapter,
-    }
+    const id = decodeURIComponent(templeChapter[1])
+    if (locale && !isFushimiTemple(id)) return { name: 'notfound' }
+    const chapter = templeChapter[2] as TempleChapter
+    if (locale) return { name: 'temple', id, chapter, locale }
+    return { name: 'temple', id, chapter }
   }
 
   const temple = path.match(/^\/temple\/([^/]+)$/)
   if (temple) {
-    return { name: 'temple', id: decodeURIComponent(temple[1]), chapter: 'overview' }
+    const id = decodeURIComponent(temple[1])
+    if (locale && !isFushimiTemple(id)) return { name: 'notfound' }
+    if (locale) return { name: 'temple', id, chapter: 'overview', locale }
+    return { name: 'temple', id, chapter: 'overview' }
   }
 
   const region = path.match(/^\/region\/([^/]+)$/)
-  if (region) return { name: 'region', slug: decodeURIComponent(region[1]) }
+  if (region) {
+    return locale ? { name: 'notfound' } : { name: 'region', slug: decodeURIComponent(region[1]) }
+  }
 
   const religion = path.match(/^\/religion\/([^/]+)$/)
-  if (religion) return { name: 'religion', slug: decodeURIComponent(religion[1]) }
+  if (religion) {
+    return locale ? { name: 'notfound' } : { name: 'religion', slug: decodeURIComponent(religion[1]) }
+  }
 
   return { name: 'notfound' }
 }
 
-function routeToUrl(route: Route): string {
+export function inheritLocale(current: Route, next: Route): Route {
+  if (next.name !== 'temple' && next.name !== 'temple-tour') return next
+  if (next.locale || !isFushimiTemple(next.id)) return next
+  if ((current.name === 'temple' || current.name === 'temple-tour') && current.locale) {
+    return { ...next, locale: current.locale }
+  }
+  return next
+}
+
+export function routeToUrl(route: Route): string {
   let path: string
   switch (route.name) {
     case 'home':
@@ -122,6 +149,15 @@ function routeToUrl(route: Route): string {
     default:
       path = '/'
   }
+
+  if (
+    (route.name === 'temple' || route.name === 'temple-tour') &&
+    route.locale &&
+    isFushimiTemple(route.id)
+  ) {
+    path = `/${route.locale}${path}`
+  }
+
   return withBase(path)
 }
 
@@ -152,17 +188,23 @@ export function RouterProvider({
     return () => window.removeEventListener('popstate', onPop)
   }, [])
 
-  const navigate = useCallback((next: Route, opts?: { replace?: boolean }) => {
-    const url = routeToUrl(next)
-    if (opts?.replace) window.history.replaceState(null, '', url)
-    else window.history.pushState(null, '', url)
-    setRoute(next)
-    window.scrollTo(0, 0)
-  }, [])
+  const navigate = useCallback(
+    (next: Route, opts?: { replace?: boolean }) => {
+      const resolved = inheritLocale(route, next)
+      const url = routeToUrl(resolved)
+      if (opts?.replace) window.history.replaceState(null, '', url)
+      else window.history.pushState(null, '', url)
+      setRoute(resolved)
+      window.scrollTo(0, 0)
+    },
+    [route],
+  )
+
+  const href = useCallback((next: Route) => routeToUrl(inheritLocale(route, next)), [route])
 
   const value = useMemo(
-    () => ({ route, navigate, href: routeToUrl }),
-    [route, navigate],
+    () => ({ route, navigate, href }),
+    [route, navigate, href],
   )
 
   return <Ctx.Provider value={value}>{children}</Ctx.Provider>

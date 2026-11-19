@@ -1,4 +1,5 @@
-import type { TempleChapter } from '../types'
+import type { Locale, TempleChapter } from '../types'
+import { chapterLabelFor } from './fushimi-i18n'
 
 export const TEMPLE_CHAPTERS: {
   id: TempleChapter
@@ -13,14 +14,23 @@ export const TEMPLE_CHAPTERS: {
   { id: 'notes', label: 'Notes', short: 'Notes' },
 ]
 
+export function chaptersFor(locale?: Locale) {
+  if (!locale) return TEMPLE_CHAPTERS
+  return TEMPLE_CHAPTERS.map((c) => {
+    const label = chapterLabelFor(c.id, locale)
+    return { ...c, label, short: label }
+  })
+}
+
 export function chapterIndex(id: TempleChapter) {
   return TEMPLE_CHAPTERS.findIndex((c) => c.id === id)
 }
 
-export function adjacentChapters(id: TempleChapter) {
-  const i = chapterIndex(id)
+export function adjacentChapters(id: TempleChapter, locale?: Locale) {
+  const list = chaptersFor(locale)
+  const i = list.findIndex((c) => c.id === id)
   return {
-    prev: i > 0 ? TEMPLE_CHAPTERS[i - 1] : null,
-    next: i >= 0 && i < TEMPLE_CHAPTERS.length - 1 ? TEMPLE_CHAPTERS[i + 1] : null,
+    prev: i > 0 ? list[i - 1] : null,
+    next: i >= 0 && i < list.length - 1 ? list[i + 1] : null,
   }
 }

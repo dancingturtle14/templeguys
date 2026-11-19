@@ -6,8 +6,9 @@ import { TempleChapterPager } from '../components/TempleChapterPager'
 import { TempleImage } from '../components/TempleImage'
 import { TicketsCta } from '../components/TicketsCta'
 import { FushimiTourCard, MeijiShrineTourCard, SensoJiTourCard, UluwatuTourCard, IstiqlalMosqueTourCard } from './TempleTour'
-import { TEMPLE_CHAPTERS } from '../lib/chapters'
-import { Link } from '../lib/router'
+import { chaptersFor } from '../lib/chapters'
+import { getFushimiI18n, localizeFushimiTemple } from '../lib/fushimi-i18n'
+import { Link, useRouter } from '../lib/router'
 import { getTemple, temples } from '../lib/temples'
 import type { Temple, TempleChapter } from '../types'
 
@@ -32,10 +33,18 @@ function BulletList({ items, accent = false }: { items: string[]; accent?: boole
   )
 }
 
+function useLocaleChrome() {
+  const { route } = useRouter()
+  const locale = route.name === 'temple' || route.name === 'temple-tour' ? route.locale : undefined
+  return { locale, chrome: locale ? getFushimiI18n(locale).chrome : null }
+}
+
 function OverviewChapter({ temple }: { temple: Temple }) {
+  const { locale, chrome } = useLocaleChrome()
+  const chapterList = chaptersFor(temple.id === 'fushimi-inari' ? locale : undefined)
   return (
     <div className="space-y-8">
-      <ChapterHeading title="Overview" lede={temple.summary} />
+      <ChapterHeading title={chrome?.chapter_overview ?? 'Overview'} lede={temple.summary} />
       <div className="space-y-4">
         {temple.overview.body.map((p) => (
           <p key={p.slice(0, 48)} className="max-w-2xl text-pretty text-ink-soft">
@@ -44,7 +53,7 @@ function OverviewChapter({ temple }: { temple: Temple }) {
         ))}
       </div>
       <div>
-        <h3 className="font-display text-2xl">Highlights</h3>
+        <h3 className="font-display text-2xl">{chrome?.highlights ?? 'Highlights'}</h3>
         <BulletList items={temple.overview.highlights} accent />
       </div>
       {temple.id === 'fushimi-inari' ? <FushimiTourCard /> : null}
@@ -53,14 +62,14 @@ function OverviewChapter({ temple }: { temple: Temple }) {
       {temple.id === 'uluwatu' ? <UluwatuTourCard /> : null}
       {temple.id === 'istiqlal-mosque' ? <IstiqlalMosqueTourCard /> : null}
       <div className="grid gap-3 sm:grid-cols-2">
-        {TEMPLE_CHAPTERS.filter((c) => c.id !== 'overview').map((c) => (
+        {chapterList.filter((c) => c.id !== 'overview').map((c) => (
           <Link
             key={c.id}
             to={{ name: 'temple', id: temple.id, chapter: c.id }}
             className="border border-line bg-paper px-4 py-3 no-underline hover:border-ink"
           >
             <span className="text-[0.65rem] font-semibold uppercase tracking-wide text-cinnabar">
-              Chapter
+              {chrome?.chapter_kicker ?? 'Chapter'}
             </span>
             <span className="mt-1 block font-display text-xl text-ink">{c.label} →</span>
           </Link>
@@ -71,10 +80,11 @@ function OverviewChapter({ temple }: { temple: Temple }) {
 }
 
 function VisitChapter({ temple }: { temple: Temple }) {
+  const { chrome } = useLocaleChrome()
   const v = temple.visit
   return (
     <div className="space-y-8">
-      <ChapterHeading title="Visit" lede={v.intro} />
+      <ChapterHeading title={chrome?.chapter_visit ?? 'Visit'} lede={v.intro} />
       <TicketsCta visit={v} />
       <div className="divide-y divide-line border border-line">
         {(
@@ -101,20 +111,22 @@ function VisitChapter({ temple }: { temple: Temple }) {
 }
 
 function EtiquetteChapter({ temple }: { temple: Temple }) {
+  const { chrome } = useLocaleChrome()
   const e = temple.etiquette
   return (
     <div className="space-y-8">
-      <ChapterHeading title="Etiquette" lede={e.intro} />
+      <ChapterHeading title={chrome?.chapter_etiquette ?? 'Etiquette'} lede={e.intro} />
       <BulletList items={e.bullets} accent />
     </div>
   )
 }
 
 function GettingThereChapter({ temple }: { temple: Temple }) {
+  const { chrome } = useLocaleChrome()
   const g = temple.gettingThere
   return (
     <div className="space-y-8">
-      <ChapterHeading title="Getting there" lede={g.intro} />
+      <ChapterHeading title={chrome?.chapter_getting_there ?? 'Getting there'} lede={g.intro} />
       <div className="space-y-4">
         {g.paragraphs.map((p) => (
           <p key={p.slice(0, 48)} className="max-w-2xl text-pretty text-ink-soft">
@@ -128,10 +140,11 @@ function GettingThereChapter({ temple }: { temple: Temple }) {
 }
 
 function BestTimeChapter({ temple }: { temple: Temple }) {
+  const { chrome } = useLocaleChrome()
   const b = temple.bestTime
   return (
     <div className="space-y-8">
-      <ChapterHeading title="Best time" lede={b.intro} />
+      <ChapterHeading title={chrome?.chapter_best_time ?? "Best time"} lede={b.intro} />
       <div className="space-y-4">
         {b.paragraphs.map((p) => (
           <p key={p.slice(0, 48)} className="max-w-2xl text-pretty text-ink-soft">
@@ -145,10 +158,11 @@ function BestTimeChapter({ temple }: { temple: Temple }) {
 }
 
 function NotesChapter({ temple }: { temple: Temple }) {
+  const { chrome } = useLocaleChrome()
   const n = temple.notes
   return (
     <div className="space-y-8">
-      <ChapterHeading title="Notes" lede={n.intro} />
+      <ChapterHeading title={chrome?.chapter_notes ?? "Notes"} lede={n.intro} />
       <div className="border border-cinnabar/25 bg-cinnabar-wash/60 p-6 sm:p-8">
         <BulletList items={n.bullets} />
       </div>
@@ -180,7 +194,10 @@ export function TempleDetailPage({
   id: string
   chapter?: TempleChapter
 }) {
-  const temple = getTemple(id)
+  const { locale, chrome } = useLocaleChrome()
+  const found = getTemple(id)
+  const temple = found && locale && id === 'fushimi-inari' ? localizeFushimiTemple(found, locale) : found
+  const chapterList = chaptersFor(id === 'fushimi-inari' ? locale : undefined)
   if (!temple) {
     return (
       <div className="mx-auto max-w-3xl px-4 py-20 text-center">
@@ -201,16 +218,17 @@ export function TempleDetailPage({
     ? related
     : temples.filter((t) => t.id !== temple.id && t.regionSlug === temple.regionSlug).slice(0, 3)
 
-  const chapterMeta = TEMPLE_CHAPTERS.find((c) => c.id === chapter) ?? TEMPLE_CHAPTERS[0]
+  const chapterMeta = chapterList.find((c) => c.id === chapter) ?? chapterList[0]
 
   return (
     <article>
       <div className="border-b border-line bg-paper-deep/50">
         <div className="mx-auto max-w-6xl px-4 py-5 sm:px-6 lg:px-8">
           <Breadcrumb
+            ariaLabel={chrome?.breadcrumb}
             items={[
-              { label: 'Home', to: { name: 'home' } },
-              { label: 'Explore', to: { name: 'explore' } },
+              { label: chrome?.crumb_home ?? 'Home', to: { name: 'home' } },
+              { label: chrome?.crumb_explore ?? 'Explore', to: { name: 'explore' } },
               { label: temple.region, to: { name: 'region', slug: temple.regionSlug } },
               {
                 label: temple.shortName,
@@ -254,13 +272,13 @@ export function TempleDetailPage({
           </header>
 
           <aside className="border border-line bg-paper-deep/40 p-5 lg:col-span-4 lg:self-start">
-            <p className="text-[0.65rem] font-semibold uppercase text-cinnabar">Quick facts</p>
+            <p className="text-[0.65rem] font-semibold uppercase text-cinnabar">{chrome?.qf_heading ?? 'Quick facts'}</p>
             <dl className="mt-4 space-y-4 text-sm">
               {[
-                ['Founded', temple.quickFacts.founded],
-                ['Visit length', temple.quickFacts.typicalVisit],
-                ['UNESCO', temple.quickFacts.unesco],
-                ['Patron / era', temple.quickFacts.patron],
+                [chrome?.qf_founded ?? 'Founded', temple.quickFacts.founded],
+                [chrome?.qf_visit_length ?? 'Visit length', temple.quickFacts.typicalVisit],
+                [chrome?.qf_unesco ?? 'UNESCO', temple.quickFacts.unesco],
+                [chrome?.qf_patron ?? 'Patron / era', temple.quickFacts.patron],
               ].map(([label, value]) => (
                 <div key={label} className="border-t border-line pt-3 first:border-t-0 first:pt-0">
                   <dt className="text-ink-muted">{label}</dt>
@@ -274,7 +292,7 @@ export function TempleDetailPage({
         {/* Mobile chapter strip */}
         <div className="mt-8 -mx-4 overflow-x-auto border-y border-line bg-paper px-4 py-2 lg:hidden">
           <div className="flex min-w-max gap-1">
-            {TEMPLE_CHAPTERS.map((c) => {
+            {chapterList.map((c) => {
               const active = c.id === chapter
               return (
                 <Link
@@ -309,9 +327,9 @@ export function TempleDetailPage({
 
         <section className="mt-16 border-t border-line pt-10">
           <div className="flex items-end justify-between gap-4">
-            <h2 className="font-display text-3xl">Related places</h2>
+            <h2 className="font-display text-3xl">{chrome?.related_places ?? 'Related places'}</h2>
             <Link to={{ name: 'explore' }} className="text-sm font-semibold text-cinnabar">
-              Explore all →
+              {chrome?.explore_all ?? 'Explore all →'}
             </Link>
           </div>
           <div className="mt-6 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">

@@ -1,7 +1,9 @@
 import { useEffect } from 'react'
+import { chapterLabelFor } from './fushimi-i18n'
 import { TEMPLE_CHAPTERS } from './chapters'
+import { getFushimiI18n } from './fushimi-i18n'
 import { getTemple, regionLabel, religionLabel } from './temples'
-import type { Route, TempleChapter } from '../types'
+import type { Locale, Route, TempleChapter } from '../types'
 
 const BRAND = 'SanctaWay'
 const HOME_TITLE = 'SanctaWay — Visit guides to the world’s sacred places'
@@ -38,7 +40,8 @@ export function useDocumentMeta(title: string, description: string) {
   }, [title, description])
 }
 
-function chapterLabel(chapter: TempleChapter): string {
+function chapterLabel(chapter: TempleChapter, locale?: Locale): string {
+  if (locale) return chapterLabelFor(chapter, locale)
   return TEMPLE_CHAPTERS.find((c) => c.id === chapter)?.label ?? chapter
 }
 
@@ -80,6 +83,13 @@ export function metaForRoute(route: Route): { title: string; description: string
     }
     case 'temple-tour': {
       if (route.id === 'fushimi-inari') {
+        if (route.locale) {
+          const i18n = getFushimiI18n(route.locale)
+          return {
+            title: i18n.tour.documentTitle,
+            description: clip(i18n.tour.lede),
+          }
+        }
         return {
           title: `On foot · Fushimi Inari Taisha — ${BRAND}`,
           description: clip(
@@ -125,8 +135,19 @@ export function metaForRoute(route: Route): { title: string; description: string
       }
     }
     case 'temple': {
-      const temple = getTemple(route.id)
       const chapter = route.chapter ?? 'overview'
+      if (route.id === 'fushimi-inari' && route.locale) {
+        const i18n = getFushimiI18n(route.locale)
+        if (chapter === 'overview') {
+          return { title: i18n.title, description: clip(i18n.meta || i18n.summary) }
+        }
+        const label = chapterLabel(chapter, route.locale)
+        return {
+          title: `${label} · ${i18n.h1} — ${BRAND}`,
+          description: clip(`${label}. ${i18n.meta || i18n.summary}`),
+        }
+      }
+      const temple = getTemple(route.id)
       if (!temple) {
         return {
           title: `Place not found — ${BRAND}`,

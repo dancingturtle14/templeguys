@@ -1,0 +1,789 @@
+{
+  "title": "伏見稻荷大社 — SanctaWay",
+  "meta": "京都的稻荷山神社 — 數千座朱紅鳥居沿稻荷山而上，一趟值得早起的登山。祈禱時間與訪客規則請以 inari.jp 為準。",
+  "h1": "伏見稻荷大社",
+  "locationLine": "伏見、京都、日本",
+  "summary": "京都的稻荷山神社 — 數千座朱紅鳥居沿稻荷山（Inariyama）而上，一趟值得早起的登山。祈禱時間與訪客規則請在 inari.jp 確認。",
+  "quickFacts": {
+    "founded": "數值",
+    "typicalVisit": "相傳 711 年；今日樣貌歷經數百年演變",
+    "unesco": "1–3 小時（千本鳥居至四辻）；繞山頂一圈約需半天",
+    "patron": "—"
+  },
+  "overview": {
+    "body": [
+      "伏見稻荷大社是稻荷神的總本社，位於京都伏見。相傳創建於 711 年，長久以來人們在這裡祈求五穀豐收、生意興隆、家宅平安與心願成就（inari.jp/en/）。狐狸（きつね／kitsune）石像作為使者守著沿途；這座神社最為人熟知的景象，是捐奉的朱紅鳥居沿聖山稻荷山（約 233 m）一路攀升而形成的隧道。",
+      "神社的主要訪客頁面（交通、參拜、首頁）沒有公布山道或境內的單一閉門時間，也沒有記載通宵開放或徹夜照明。請依公布的祈禱時間安排行程。山路崎嶇、多根瘤，入夜後昏暗 — 若停留到傍晚之後，帶一支手電筒，並走在標示的路線上（inari.jp/en/access/、inari.jp/en/request/）。",
+      "祈禱（ご祈祷／gokito）大致為 08:30–16:30，受理至約 16:00；全年皆可祈禱，惟新年與祭典日可能不同。神社事務電話桌（奉賽課）接聽電話的時間為 09:00–16:00。官方英文／日文訪客頁面未載明一般入場費或拝観料，也未列出一般門票；御守、御札與私人祈禱依神社初穂料規準另行收費 — 請不要把「免費入場」的說法歸到那些官方頁面上（inari.jp/grace/gokito/）。",
+      "多數訪客只需要走下方的千本鳥居隧道（密集鳥居路段約 10–15 分），或爬到四辻（Yotsutsuji）觀景處（上來約 30–45 分）。完整的山頂環線大約 2–3 小時，比較像森林健行，而不是拍照隧道。人潮在上午中段到下午最盛；想在人縫裡拍鳥居，接近黎明時到，或在日暮前旅遊巴士散去時回來。",
+      "想拍到空蕩的鳥居，7:00 之前就該出發。從京都中心搭計程車，三手資料常引約 ¥2,000–3,000，但這個區間沒有公布在 inari.jp 上；請當概估值，並在當天確認。",
+      "出發前值得再確認的官方頁面：交通（JR 稻荷站／京阪伏見稻荷站）、參拜（禁止行為）、祈禱（祈禱時間與初穂料）。SanctaWay 只做資訊，不售票。"
+    ],
+    "highlights": [
+      "祈禱（ご祈祷）大致 08:30–16:30；受理至約 16:00（inari.jp/grace/gokito/）",
+      "千本鳥居隧道，加上可選的稻荷山健行",
+      "JR 稻荷站距京都站約 5 分（奈良線普通列車）",
+      "京阪伏見稻荷站 — 往東步行約 5 分",
+      "主要訪客頁面沒有單一境內閉門時間 — 請依祈禱時間安排",
+      "四辻觀景處是許多訪客實際的折返點"
+    ]
+  },
+  "visit": {
+    "intro": "先把它當作一間在運作的神社，再當作風景。把體力、鞋子與人潮時間算進來。祈禱時間與行為守則請在官方頁面確認 — 不是憑空想像的門票。",
+    "hours": "祈禱（ご祈祷／gokito）：大致 08:30–16:30；受理至約 16:00；全年皆可祈禱（新年／祭典日可能不同）。神社事務電話（奉賽課）：09:00–16:00。主要訪客頁面沒有公布山道或境內的單一閉門時間，也沒有記載通宵開放或本殿（Honden）徹夜照明。入夜後山道可能昏暗；若待到晚些，帶一支手電筒。請在 inari.jp/grace/gokito/ 與現場告示查證。",
+    "tickets": "官方訪客頁面未載明入場費或拝観料，也未列出一般門票。御守、繪馬、御朱印與私人祈禱（ご祈祷）依神社初穂料規準另行收費。請不要把「免費入場」的說法歸到那些官方頁面上；站外叫賣「入場券」的人不必理會。與其看訂票平台，不如看 inari.jp/en/access/、/en/request/ 與 /grace/gokito/。",
+    "dress": "樸素、適合健行的衣著。在祈禱場所露出肩膀較為得體；多根瘤的山路上，有抓地力的登山鞋或運動鞋勝過涼鞋。帶一件雨具 — 京都的天氣變得很快。",
+    "duration": "下方鳥居 45–90 分；含四辻約 2–3 小時；含休息走完整個山頂環線約需半天。",
+    "access": "石階與土徑；扶手只在部分路段有。走過最初的鳥居隧道之後，這裡就不是平坦的神社前庭了。最下段境內之外，輪椅通行有限 — 想走最平緩的觀看路線，請就近問工作人員。",
+    "tips": [
+      "JR 奈良線普通列車：京都 → 稻荷站（2 站／約 5 分）；神社就在車站旁（inari.jp/en/access/）。",
+      "京阪本線：伏見稻荷站；往東步行約 5 分到神社（inari.jp/en/access/）。",
+      "從京都中心搭計程車，三手資料常引約 ¥2,000–3,000 — 這個數字沒有公布在 inari.jp 上；請當天確認。",
+      "想拍安靜的鳥居，7:00 之前就出發。",
+      "帶水；部分路口有販賣機（例如四辻附近），但再往上別指望。",
+      "不要為了長時間拍照堵住狹窄通道 — 保持移動，讓信眾通過（禁止行為第 16 項）。",
+      "出發前讀完 inari.jp/en/request/ 的完整禁止行為清單。"
+    ],
+    "entryType": "verify",
+    "ticketsUrl": "https://inari.jp/en/access/",
+    "ticketsLabel": "inari.jp — official access",
+    "ticketsNote": ""
+  },
+  "etiquette": {
+    "intro": "先當作一間在運作的神社，再當作拍照地點。以下為官方禁止行為（inari.jp/en/request/，2022 年 1 月 1 日公告）：",
+    "bullets": [
+      "吸菸或生火",
+      "未經允許進入限制區域（包括本殿／Honden、其他社殿／Shaden、越過柵欄／玉垣 Tamagaki 之外）",
+      "飛行無人機或其他航空器",
+      "任何損壞建築物、鳥居、樹木或類似財物的行為",
+      "在燈籠（Toro）或其他設施上放置物品",
+      "在標示區域以外留置嬰兒車",
+      "大聲喧嘩、坐在地上，或造成其他信眾困擾的行為",
+      "在標示（自由休息）區域以外飲食 — 包括邊走邊吃或站著吃",
+      "丟棄垃圾、瓶子、罐子等",
+      "不是為了參拜而停入神社停車場",
+      "靠近或餵食野生鳥獸",
+      "帶寵物散步或參拜（導盲犬等必要動物除外）",
+      "商業用途攝影，或在禁止區域攝影",
+      "穿婚紗或其他不適合參拜的服裝在境內走動",
+      "未經許可進行或發放問卷調查",
+      "在狹窄路上攝影／錄影，阻礙信眾通行",
+      "伏見稻荷大社判定為不當的其他行為"
+    ]
+  },
+  "gettingThere": {
+    "intro": "訪客通常如何抵達伏見稻荷大社（官方交通：inari.jp/en/access/）。",
+    "paragraphs": [
+      "從京都站搭 JR 奈良線普通列車，兩站（約 5 分）到稻荷站。神社就在車站旁 — 跟著神社的指標走。快速／特急列車可能不停稻荷；上車前先在月台螢幕確認普通列車的停靠方式。",
+      "從河東岸市區的飯店出發，搭京阪本線到伏見稻荷站往往很方便，然後往東步行約 5 分到神社。市區公車也通達這一帶；下車後預期還要走好幾分鐘。",
+      "神社附近的停車場優先給信眾，週末很快填滿。對觀光客而言，大眾運輸是實際的預設選項。三手訪客指南常引從京都中心搭計程車約 ¥2,000–3,000 — 這個區間沒有公布在 inari.jp 上；請當概估值，並在當天確認。"
+    ],
+    "bullets": [
+      "JR 京都 → 稻荷（奈良線普通列車），神社就在車站旁",
+      "京阪伏見稻荷站 → 步行約 5 分往東",
+      "週末尖峰時段避免開車",
+      "往京都方向的回程列車很密集 — 但健行之後仍要留緩衝"
+    ]
+  },
+  "bestTime": {
+    "intro": "人潮、暑氣與樹葉比門票更關鍵。",
+    "paragraphs": [
+      "清晨（理想上是在大量觀光人潮湧入之前）是下方鳥居最清楚的時間窗。旺季的正午人擠人。午後偏晚，旅行團的巴士離開後又會鬆一些。若有祈禱預約，請對齊ご祈祷的時間（08:30–16:30）。",
+      "夏天爬升時又熱又濕；冬天的早晨冷，但往往更清澈。秋季紅葉與春季連假很美也很擠 — 平日來會輕鬆些。"
+    ],
+    "bullets": [
+      "想拍安靜的鳥居：接近黎明時到",
+      "四辻對多數初次來訪就夠了",
+      "要走完整山頂：更早出發，若可能天黑後下山就帶手電筒",
+      "雨天：路面會濕滑 — 放慢腳步"
+    ]
+  },
+  "notes": {
+    "intro": "",
+    "bullets": [
+      "官方頁面引用：https://inari.jp/en/access/ · https://inari.jp/en/request/ · https://inari.jp/grace/gokito/ — 查時間、費用或禁止行為時，不要只看 /en/ 一個網址。",
+      "不要憑空編造境內門票費，也不要宣稱通宵開放或徹夜照明 — 主要訪客頁面對此沒有著墨。",
+      "夜間在山上行走風險自負；路面昏暗且不平。",
+      "SanctaWay 只做資訊，不售票，也不授予入場權。"
+    ]
+  },
+  "shortName": "伏見稻荷大社",
+  "tour": {
+    "title": "步行遊伏見稻荷",
+    "documentTitle": "步行 · 伏見稻荷大社 — SanctaWay",
+    "lede": "以六站的分站播放器 — 一次一屏 — 從稻荷車站走到四辻。跟著路線圖走，或在 Google 地圖開啟步行路線。山頂環線在你打開它之前保持關閉。",
+    "officialNote": "這裡的時間是一般訪客的模式，不是神社印發的時刻表。辦公的時間請看現場告示或上 inari.jp 確認",
+    "officialLabel": "inari.jp",
+    "officialHref": "https://inari.jp/en/",
+    "mapsUrl": "https://www.google.com/maps/dir/?api=1&destination=Fushimi+Inari+Taisha,+Kyoto&travelmode=walking",
+    "mapsCta": "在 Google 地圖開啟步行路線",
+    "routeLabel": "路線",
+    "endCopy": "下方的鳥居與四辻，對多數人來說已經是一趟完整的參拜。山頂環線可以留到另一個早晨。",
+    "walkCardTitle": "步行，一站一站 →",
+    "walkCardLede": "六站，沿路有必看景點與有名字的物件。山頂環線在你打開它之前保持關閉。",
+    "endHeading": "散步到此",
+    "walkKicker": "步行",
+    "crossroads": {
+      "heading": "在十字路口，由你決定",
+      "body": "兩種選擇都是完整的參拜。折返會跳過森林環線；繼續則開啟山頂一圈。",
+      "turnBack": "折返下山",
+      "continue": "繼續前往奥宮",
+      "teaser": "第 05 站 · 可選 山頂環線。在你打開它之前保持關閉。"
+    }
+  },
+  "stops": [
+    {
+      "id": "arrival",
+      "index": "01",
+      "nav": "抵達",
+      "plate": "從車站到門前",
+      "caption": "JR 奈良線的普通列車會停在稻荷，就在京都站以南兩站。",
+      "sentences": [
+        "JR 奈良線的普通列車會停在稻荷，就在京都站以南兩站。",
+        "不少快速列車不停稻荷，所以上車前先讀月台螢幕，然後往上走幾分鐘到神社。",
+        "你會穿過朱紅的樓門（romon，正門），以及一座洗手用的手水舍（temizuya），在進入社殿之前洗淨雙手。",
+        "境內與山路不收門票。"
+      ],
+      "chips": [
+        {
+          "label": "JR 稻荷站"
+        },
+        {
+          "label": "普通列車"
+        },
+        {
+          "label": "樓門"
+        },
+        {
+          "label": "手水舍"
+        },
+        {
+          "label": "免費境內"
+        }
+      ],
+      "checkpoints": [
+        {
+          "id": "arrival-station",
+          "kind": "must-see",
+          "title": "see · JR 稻荷站",
+          "sentences": [
+            "搭 JR 奈良線普通列車。稻荷在京都站以南兩站，不少快速列車不停這裡。",
+            "出了剪票口，神社就在不遠的上坡。跟著人群與眼前的朱紅走。"
+          ],
+          "lookFor": [
+            "在月台上，上車前先讀列車種別。普通車會停稻荷，快速車常常不停。",
+            "往神社的方向走。是往上坡走幾分鐘，不是搭巴士。",
+            "這條街上有小吃攤。肚子餓就在這裡吃。山路限制邊走邊吃。"
+          ]
+        },
+        {
+          "id": "arrival-romon",
+          "kind": "must-see",
+          "title": "see · 樓門，正門",
+          "sentences": [
+            "樓門是境內入口的兩層樓門。你是穿過它，而不是繞過售票亭。",
+            "神社的紀錄把這座門定為 1589 年，並說是豐臣秀吉捐建的。穿過之後，仍然不收門票。"
+          ],
+          "lookFor": [
+            "站在參道中央，只待到門框把社殿框進畫面，然後往旁邊站。",
+            "抬頭看：兩層朱紅。上層是門的一部分，不是你能爬上去的露台。",
+            "門裡沒有售票窗口。你是走過去。"
+          ],
+          "image": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Kyoto_Fushimi_Inari-taisha_Romon_5.jpg/1280px-Kyoto_Fushimi_Inari-taisha_Romon_5.jpg",
+            "credit": "Zairon / Wikimedia Commons (CC BY-SA 4.0)",
+            "alt": "京都伏見稻荷大社的朱紅兩層樓門",
+            "caption": "樓門，正門。"
+          }
+        },
+        {
+          "id": "arrival-temizuya",
+          "kind": "object",
+          "title": "狐狸造型的手水舍",
+          "sentences": [
+            "手水舍就在裡側，是一座洗手用的水盤，這裡做成狐狸的樣子。它是讓你在往前走之前洗手的，不是飲水台。",
+            "一般的順序是左手、右手、漱口，最後是長柄勺的握柄。若指示牌寫了別的順序，就依指示牌。"
+          ],
+          "lookFor": [
+            "右手持勺，依一般順序：左手、右手、漱口，然後是握柄。",
+            "不要喝水，也不要把嘴碰到勺子。",
+            "狐狸是水盤的形狀。水只用來洗。"
+          ],
+          "image": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Hushimi-inari-taisha_kitune_no_chozu.jpg/1280px-Hushimi-inari-taisha_kitune_no_chozu.jpg",
+            "credit": "KENPEI / Wikimedia Commons (CC BY 3.0)",
+            "alt": "伏見稻荷大社狐狸造型的手水舍",
+            "caption": "境內狐狸造型的手水舍。"
+          }
+        },
+        {
+          "id": "arrival-tofu",
+          "kind": "story",
+          "title": "參道上的油炸豆皮",
+          "sentences": [
+            "民間說法：狐狸據說喜歡油炸豆皮，所以車站到門前這段路上的店家，櫃裡擺滿豆皮壽司（稻荷壽司）。",
+            "那是民間解釋，不是儀式。攤販就是一般食物。要在這裡或離開山路之後吃，不要邊走邊吃。"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "senbon-torii",
+      "index": "02",
+      "nav": "千本",
+      "plate": "密集的隧道",
+      "caption": "本殿之後，路進入千本鳥居 — 兩條緊鄰的鳥居隧道，由企業與信眾捐奉。",
+      "sentences": [
+        "本殿之後，路進入千本鳥居 — 兩條緊鄰的鳥居隧道，由企業與信眾捐奉。",
+        "密集路段通常走完約 10–15 分；有人停下拍照時會更久。",
+        "鳥居很窄。靠邊走、繼續前進，讓其他人能通過。",
+        "柱子上的黑字記著捐奉者。鳥居是奉納的物件，不是用來攀爬的。"
+      ],
+      "chips": [
+        {
+          "label": "兩條隧道"
+        },
+        {
+          "label": "約 10–15 分"
+        },
+        {
+          "label": "保持前進"
+        },
+        {
+          "label": "捐奉的鳥居"
+        }
+      ],
+      "checkpoints": [
+        {
+          "id": "senbon-tunnels",
+          "kind": "must-see",
+          "title": "see · 兩條緊鄰的隧道",
+          "sentences": [
+            "本殿之後，路分成兩條平行的鳥居走廊，近到整段都在陰影裡。",
+            "密集路段通常走 10–15 分。要拍照就往旁邊站，讓走廊繼續流動。"
+          ],
+          "lookFor": [
+            "兩條走廊並排。想兩邊都走，就一條走過再走另一條。",
+            "要停下就站在邊緣。中間是行走線。",
+            "回頭看：鳥居疊成一條隧道。往前看：它們張開，接上攀升。"
+          ],
+          "image": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Fushimi-Inari-Shrine-Senbon-Torii-2016-Luka-Peternel.jpg/1280px-Fushimi-Inari-Shrine-Senbon-Torii-2016-Luka-Peternel.jpg",
+            "credit": "Luka Peternel / Wikimedia Commons (CC BY-SA 4.0)",
+            "alt": "伏見稻荷大社密集的朱紅千本鳥居隧道",
+            "caption": "千本鳥居隧道的一翼。"
+          }
+        },
+        {
+          "id": "senbon-name",
+          "kind": "object",
+          "title": "為什麼叫千本",
+          "sentences": [
+            "「千本」的意思就是「一千座鳥居」。名字就這樣留了下來。山上遠遠多於一千座，而沒有哪一個公布的數字值得你背下來。",
+            "過了最密集的隧道之後，鳥居變疏，路成為鳥居之間的攀升，而不是屋頂。"
+          ],
+          "image": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/FUS_-_Senbon_torii_path_at_Fushimi_Inari-taisha%2C_Kyoto%2C_Japan%2C_2015.jpg/960px-FUS_-_Senbon_torii_path_at_Fushimi_Inari-taisha%2C_Kyoto%2C_Japan%2C_2015.jpg",
+            "credit": "Josep M. Gracia / Wikimedia Commons (CC BY-SA 4.0)",
+            "alt": "伏見稻荷大社千本鳥居排列的紅色鳥居小徑",
+            "caption": "最緊的隧道之後，鳥居沿著攀升間隔排列。",
+            "tall": true
+          }
+        },
+        {
+          "id": "senbon-pillars",
+          "kind": "object",
+          "title": "柱子上的字",
+          "sentences": [
+            "朱紅柱上的黑字寫著捐奉者，通常還有一個日期。多數捐奉者是企業與公會，不是無名的巡禮者。",
+            "走過時讀一讀。那是奉納的紀錄，不是攀爬的背景，也不是掛東西的地方。"
+          ],
+          "lookFor": [
+            "站在鳥居旁，讀你回頭往下看時看到的那根柱子。",
+            "會看到一個名字 — 往往是公司名 — 還有一個日期。不是價格，也不是你必須背誦的祈禱文。",
+            "字是刻進朱紅裡的。它們標記的是這份奉納。"
+          ],
+          "prompt": {
+            "question": "你最容易在柱子上讀到什麼？",
+            "choices": [
+              {
+                "label": "一個公司名與一個日期",
+                "reply": "對了。多數刻字是企業或團體的名字，加上一個日期。那是捐奉的紀錄。"
+              },
+              {
+                "label": "一張入場票的價格",
+                "reply": "不對。那些字不是票價。境內不收門票。"
+              },
+              {
+                "label": "一段你必須誦讀的祈禱文",
+                "reply": "不對。那裡沒有印著要訪客誦讀的固定祈禱文。文字記的是誰捐了這座鳥居。"
+              }
+            ]
+          },
+          "image": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/FUS_-_Inscribed_Senbon_torii_at_Fushimi_Inari-taisha%2C_Kyoto%2C_Japan%2C_2015.jpg/1280px-FUS_-_Inscribed_Senbon_torii_at_Fushimi_Inari-taisha%2C_Kyoto%2C_Japan%2C_2015.jpg",
+            "credit": "Josep M. Gracia / Wikimedia Commons (CC BY-SA 4.0)",
+            "alt": "伏見稻荷大社千本鳥居刻字的柱子",
+            "caption": "鳥居柱上的捐奉刻字。"
+          }
+        },
+        {
+          "id": "senbon-gift",
+          "kind": "story",
+          "title": "為生意興隆奉納一座鳥居",
+          "sentences": [
+            "傳統說法：稻荷與稻米相連，再由稻米延伸到生意。企業奉納一座鳥居，把自己的名字刻在木上，作為那份奉納。",
+            "奉納這個行為本身就是實踐。生意會不會好轉，神社不作保證；境內也從不把這條隧道當成要買票的通道來賣。"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "path-pauses",
+      "index": "03",
+      "nav": "小駐",
+      "plate": "狐狸、石頭與岔路",
+      "caption": "石狐沿登山路站著，是稻荷的使者，口中有的叼著鑰匙，有的叼著寶玉。",
+      "sentences": [
+        "石狐沿登山路站著，是稻荷的使者，口中有的叼著鑰匙，有的叼著寶玉。",
+        "成群的丸子（otsuka）小石塔是私人奉納的石，不是一座等你去完成的祭壇。",
+        "路岔開的地方，走有標示的路線，不要從樹之間抄近路。",
+        "有人在祈禱時，放低音量、讓出空間。"
+      ],
+      "chips": [
+        {
+          "label": "狐狸"
+        },
+        {
+          "label": "丸子"
+        },
+        {
+          "label": "有標示的岔路"
+        },
+        {
+          "label": "祈禱時保持安靜"
+        }
+      ],
+      "checkpoints": [
+        {
+          "id": "pauses-kitsune",
+          "kind": "must-see",
+          "title": "see · 石狐狸",
+          "sentences": [
+            "狐狸是稻荷的使者，不是稻荷本身。石像沿登山路而立，口中常叼著鑰匙、寶玉或卷軸。",
+            "鑰匙通常被解讀為稻荷米倉的鑰匙。那是這個物件常見的解釋。不是每座石像都有標註。"
+          ],
+          "lookFor": [
+            "站在石像旁邊，不要站在它和正在奉拜的人之間。",
+            "看它的嘴：鑰匙、寶玉或卷軸。有些嘴是空的，或已被磨平。",
+            "狐狸身上的紅色圍兜是信眾繫上的。別解開。"
+          ],
+          "prompt": {
+            "question": "這隻狐狸叼著什麼？",
+            "choices": [
+              {
+                "label": "一把鑰匙",
+                "reply": "常常是。一般解讀為米倉的鑰匙。請看你眼前這座石像，不要看示意圖。"
+              },
+              {
+                "label": "寶玉或卷軸",
+                "reply": "也很常見。口中只叼一件，不是固定的組合。寶玉或卷軸是同一個使者，只是裝備不同。"
+              },
+              {
+                "label": "看不到任何東西",
+                "reply": "有些嘴是空的或已磨損。米倉的說法只適用於還叼著鑰匙的石像。"
+              }
+            ]
+          },
+          "image": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Kitsune_Statue_at_Fushimi_Inari_%282615371311%29.jpg/1280px-Kitsune_Statue_at_Fushimi_Inari_%282615371311%29.jpg",
+            "credit": "syvwlch / Wikimedia Commons (CC BY 2.0)",
+            "alt": "伏見稻荷大社的石狐像",
+            "caption": "路旁的狐狸。",
+            "tall": true
+          }
+        },
+        {
+          "id": "pauses-otsuka",
+          "kind": "object",
+          "title": "丸子石",
+          "sentences": [
+            "丸子是私人奉納的石，由個人、家庭或團體奉納，刻上名字。它們成群聚集，動輒上百。",
+            "它們不是一座等你去完成的祭壇。有人在祈禱時停下腳步，也不要把那排排石頭當成可以坐的矮牆。"
+          ],
+          "image": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Collection_of_inscribed_stones_at_Fushimi_Inari-taisha_%28164%29.jpg/1280px-Collection_of_inscribed_stones_at_Fushimi_Inari-taisha_%28164%29.jpg",
+            "credit": "Savannah Rivka / Wikimedia Commons (CC BY-SA 4.0)",
+            "alt": "伏見稻荷大社山上一排排刻字的奉納石",
+            "caption": "山上的刻字丸子。"
+          }
+        },
+        {
+          "id": "pauses-forks",
+          "kind": "must-see",
+          "title": "see · 路岔開的地方",
+          "sentences": [
+            "支路岔向小神社與更多石塔。主線是有標示、通往四辻的那條。",
+            "不要為了接回折返路段而從樹間穿越。地面是根與碎石，抄近路正是人迷路的方式。"
+          ],
+          "lookFor": [
+            "在岔口沿著往四辻的標示走，不要走樹間的縫隙。",
+            "如果鳥居從隧道豁然變成間隔的柱子，你就過了最密集的千本路段。",
+            "狹窄的支路通常通到更多石頭或小神社，然後就結束了。"
+          ]
+        },
+        {
+          "id": "pauses-messenger",
+          "kind": "story",
+          "title": "白狐",
+          "sentences": [
+            "傳統說法：狐狸為稻荷效力，白狐是石像最常採取的形象。人們留下油炸豆皮，因為狐狸據說偏好它。",
+            "請在神社那裡向稻荷祈禱。石像只是使者的形象，不是有自己儀式的另一尊神。"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yotsutsuji",
+      "index": "04",
+      "nav": "四辻",
+      "plate": "實際的折返點",
+      "caption": "四辻是稻荷山半山的十字路口，也是多數初次來訪者需要的折返點。",
+      "sentences": [
+        "四辻是稻荷山半山的十字路口，也是多數初次來訪者需要的折返點。",
+        "從下方的鳥居上來，一般約 30–45 分，視腳程與人潮而定。",
+        "路口俯瞰京都南方。平常日子這裡有一個可以歇腳、買飲料的小地方 — 但別指望再往上還有一樣的服務。",
+        "時間不夠，或對不平整的石階不安？就在這裡停。再往上的是另一趟行程。"
+      ],
+      "chips": [
+        {
+          "label": "上行約 30–45 分"
+        },
+        {
+          "label": "觀景處"
+        },
+        {
+          "label": "在此折返"
+        },
+        {
+          "label": "休息點"
+        }
+      ],
+      "checkpoints": [
+        {
+          "id": "yotsutsuji-cross",
+          "kind": "must-see",
+          "title": "see · 四條路交會的路口",
+          "sentences": [
+            "四辻的意思就是四條路交會的十字路口。路從下方的鳥居群而來，再往山上的神社去。",
+            "從最密集的隧道算起，這裡通常是 30–45 分的攀爬，人多時更久。"
+          ],
+          "lookFor": [
+            "停在路口中央，數一數有幾條路。名字就是「四條路」。",
+            "下山的路就是你走上來的那條。往上的路有標示通往山上的神社。",
+            "你在路的交會處，不是在某座殿內。"
+          ]
+        },
+        {
+          "id": "yotsutsuji-view",
+          "kind": "must-see",
+          "title": "see · 從山崖看京都",
+          "sentences": [
+            "路口朝南俯瞰京都。天氣好時，城市就在朱紅與樹木之下。",
+            "這是觀景處，不是處處有欄杆的觀景台。在邊緣要留意腳步。"
+          ],
+          "lookFor": [
+            "面向開闊的那一側，背對林間的上坡，就是城市。",
+            "人多通行時，離邊緣留一步。這裡不是到處都有欄杆。",
+            "看點是那片景色。攤販是休息，不是重點。"
+          ],
+          "image": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/View_on_Fushimi_on_Fushimi_Inari-taisha.jpg/1280px-View_on_Fushimi_on_Fushimi_Inari-taisha.jpg",
+            "credit": "Ryuch / Wikimedia Commons (CC BY-SA 3.0)",
+            "alt": "從稻荷山四辻俯瞰京都",
+            "caption": "從四辻看京都。"
+          }
+        },
+        {
+          "id": "yotsutsuji-rest",
+          "kind": "object",
+          "title": "最後一個輕鬆的休息點",
+          "sentences": [
+            "小休息攤與飲料販賣機通常就在這個路口。再往上，別指望同樣的服務。",
+            "如果帶了水，在這裡補滿。上面的環線比這個視野看起來更長。"
+          ]
+        },
+        {
+          "id": "yotsutsuji-mountain",
+          "kind": "story",
+          "title": "稻荷山與轉折",
+          "sentences": [
+            "這座山高約 233 m。這些路是一趟剛好包含著名隧道的巡禮登山，不是一座附加在山上的隧道。",
+            "多數初次來訪在這個十字路口就完整了。繼續往上是一種選擇，不是這趟散步必然的終點。"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "summit",
+      "index": "05",
+      "nav": "山頂",
+      "plate": "四辻之上",
+      "caption": "過了四辻，路線變成繞行山上神社的森林健行，包括奥宮（Okumiya），山上的內宮。",
+      "sentences": [
+        "過了四辻，路線變成繞行山上神社的森林健行，包括奥宮（Okumiya），山上的內宮。",
+        "繞一整圈含休息通常約 2–3 小時，路面是根與石階，而不是又一段密集的鳥居隧道。",
+        "帶水；如果你可能在天黑之後還在山上，帶一支手電筒。",
+        "上面的路安靜些，但它們仍屬這座在運作中的神社。請走在標示的路線上。"
+      ],
+      "chips": [
+        {
+          "label": "可選"
+        },
+        {
+          "label": "約 2–3 小時"
+        },
+        {
+          "label": "不平的森林"
+        },
+        {
+          "label": "帶手電筒"
+        }
+      ],
+      "checkpoints": [
+        {
+          "id": "summit-okumiya",
+          "kind": "must-see",
+          "title": "see · 奥宮，山上的內宮",
+          "sentences": [
+            "奥宮（也寫作 Okunomiya）是山上的內宮，在四辻折返點之後。",
+            "它比下面的隧道安靜，而且仍是祈禱的場所。同樣的路規適用。"
+          ],
+          "lookFor": [
+            "殿宇比下方的本殿小。有人在祈禱時，不要進入祈禱的空間。",
+            "重輕石（omokaru）就在附近，放在它的底座上，不在殿內，也不是路上撿的碎石。",
+            "要舉的話，先許願，然後放回同一個底座。"
+          ],
+          "image": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Okunomiya_Shrine_in_Fushimi_Inari_Grand_Shrine.jpg/1280px-Okunomiya_Shrine_in_Fushimi_Inari_Grand_Shrine.jpg",
+            "credit": "そらみみ / Wikimedia Commons (CC BY-SA 4.0)",
+            "alt": "伏見稻荷大社的奥宮",
+            "caption": "奥宮，山上的內宮。"
+          }
+        },
+        {
+          "id": "summit-omokaru",
+          "kind": "story",
+          "title": "重輕石",
+          "sentences": [
+            "傳統習俗，就在內宮附近：先許願，再舉起石頭。如果感覺比預期輕，據說願望受到眷顧；如果更重，就沒那麼順。",
+            "這是地方的習俗，不是神社保證的結果。用雙腿出力，並把石頭放回原處。"
+          ],
+          "lookFor": [
+            "在內宮附近找到放在底座上的那塊石頭。不要撿起路上隨手的石頭。",
+            "沒有公布重量。你是拿舉起的感覺和預期相比。",
+            "繼續走之前，把它放回同一個底座。"
+          ],
+          "prompt": {
+            "question": "許願之後，石頭感覺如何？",
+            "choices": [
+              {
+                "label": "比預期輕",
+                "reply": "傳統說法說，舉得輕代表願望受眷顧。神社不保證結果。"
+              },
+              {
+                "label": "比預期重",
+                "reply": "傳統說法說，舉得重是較不受眷顧的解讀。它仍然只是習俗。"
+              }
+            ]
+          }
+        },
+        {
+          "id": "summit-forest",
+          "kind": "object",
+          "title": "是森林，不是另一條隧道",
+          "sentences": [
+            "過了四辻，鳥居散成有樹林、小型神社、根與石階的環線。繞一整圈含休息通常約 2–3 小時。",
+            "帶水。若可能在日暮之後才下山，帶一支手電筒。山上沒有路燈。"
+          ]
+        },
+        {
+          "id": "summit-peaks",
+          "kind": "object",
+          "title": "幾個山頭，一圈環線",
+          "sentences": [
+            "山上的路是繞行聖山各神社的一圈，不是單一山頂平台配一個視野。",
+            "走在有標示的環線上。支路看起來像近路，而它正是平靜健行變成搜救的方式。"
+          ]
+        }
+      ],
+      "optional": true
+    },
+    {
+      "id": "descent",
+      "index": "06",
+      "nav": "出口",
+      "plate": "下山，然後是事務室",
+      "caption": "沿原路下山，或依標示的環線回到本殿與車站。",
+      "sentences": [
+        "沿原路下山，或依標示的環線回到本殿與車站。",
+        "山路和神社事務單位不在同一個時鐘上。御守、繪馬與御朱印是白天的櫃台服務，即使步道還能走。",
+        "在事務室看公布的時間，或上 inari.jp 查，再決定要不要指望蓋章或御守。",
+        "關於飲食與行為的規則在禮儀章。回京都的列車在「如何前往」。"
+      ],
+      "chips": [
+        {
+          "label": "事務時間不同"
+        },
+        {
+          "label": "御守與御朱印"
+        },
+        {
+          "label": "禮儀"
+        },
+        {
+          "label": "如何前往"
+        },
+        {
+          "label": "inari.jp"
+        }
+      ],
+      "checkpoints": [
+        {
+          "id": "descent-ways",
+          "kind": "must-see",
+          "title": "see · 兩條下山的路",
+          "sentences": [
+            "你可以沿爬升的路線往回走，或依標示的環線回到本殿與車站。",
+            "兩條路都結束在境內，不是另一座出口門。把時間留給路本身，而不只是你想趕上的那班車。"
+          ],
+          "lookFor": [
+            "指標同時指向原路與環線。兩者都回到本殿。",
+            "山上沒有第二個車站出口。你會在境內結束，然後往下走到車站。",
+            "沒有手電筒的話，替下山留一點日光。"
+          ]
+        },
+        {
+          "id": "descent-ema",
+          "kind": "object",
+          "title": "繪馬，寫願的木牌",
+          "sentences": [
+            "繪馬是小木牌。在稻荷，它們常做成狐狸的樣子。你寫下願望，掛在工作人員指示的地方。",
+            "它們在櫃台販售，而櫃台有白天的時間。步道在天黑後仍開放時，架上的牌可能已經收了。"
+          ],
+          "lookFor": [
+            "這裡的牌很多是狐狸形或狐狸臉，不只是長方形。",
+            "寫好，掛在工作人員指的架上。別動別人的牌。",
+            "架子和櫃台一同關上。山路不共用那個時鐘。"
+          ],
+          "image": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Ema_at_Fushimi_Inari-taisha_02.jpg/1280px-Ema_at_Fushimi_Inari-taisha_02.jpg",
+            "credit": "Immanuel Giel / Wikimedia Commons (CC BY-SA 4.0)",
+            "alt": "伏見稻荷大社懸掛的木牌繪馬",
+            "caption": "神社的繪馬。"
+          }
+        },
+        {
+          "id": "descent-office",
+          "kind": "object",
+          "title": "御守與御朱印櫃台",
+          "sentences": [
+            "御守與御朱記入帳本是在事務室的服務，不是步道的服務。看板上讀時間，或上 inari.jp 查，再決定要不要指望它們。",
+            "車站外有人賣「入場券」，別理會。境內不收門票。"
+          ],
+          "lookFor": [
+            "御守是架上小小的織錦袋，依標籤上的願望分類。價格在架子上，不在這份指南裡。",
+            "御朱印是蓋章的櫃台與一本本子，和袋子不同架。",
+            "標籤只有日文時，開口問；不要從布色猜一個御守的用途。"
+          ]
+        },
+        {
+          "id": "descent-eating",
+          "kind": "practice",
+          "title": "可以在哪裡吃",
+          "sentences": [
+            "神社的行為守則限制邊走邊吃。在四辻休息點吃個東西，跟在隧道裡吃不是一回事。",
+            "禮儀章列出行為守則。「如何前往」講回京都站的列車。",
+            "下方的鳥居與四辻，對多數人來說已經是一趟完整的參拜。山頂環線可以留到另一個早晨。"
+          ]
+        }
+      ]
+    }
+  ],
+  "chrome": {
+    "skip_to_content": "跳至主要內容",
+    "brand": "SanctaWay",
+    "nav_explore": "探索",
+    "nav_about": "關於",
+    "open_menu": "開啟選單",
+    "nav_primary": "主要導覽",
+    "breadcrumb": "麵包屑",
+    "crumb_home": "首頁",
+    "crumb_explore": "探索",
+    "chapter_overview": "概覽",
+    "chapter_visit": "參拜",
+    "chapter_etiquette": "禮儀",
+    "chapter_getting_there": "如何前往",
+    "chapter_best_time": "最佳時間",
+    "chapter_notes": "備註",
+    "chapters_label": "章節",
+    "chapter_kicker": "章",
+    "next_chapter_kicker": "下一章",
+    "arrow_suffix": "→",
+    "qf_heading": "基本資料",
+    "qf_founded": "創建",
+    "qf_visit_length": "參拜時間",
+    "qf_unesco": "世界遺產",
+    "qf_patron": "主祭神／時代",
+    "highlights": "亮點",
+    "tickets_kicker": "票券",
+    "tickets_heading_verify": "現場購買／自行確認",
+    "tickets_cta_label": "伏見稻荷大社 — 官方交通資訊",
+    "tickets_cta_default": "查看價格",
+    "tickets_helper": "將開啟我們查證過的訂票網站。價格會變動，付款前請在該頁確認。",
+    "walk_kicker": "步行",
+    "walk_card_title": "步行，一站一站 →",
+    "walk_card_lede": "六站，沿路有必看景點與有名字的物件。山頂環線在你打開之前保持關閉。",
+    "related_places": "相關景點",
+    "explore_all": "探索全部 →",
+    "all_places": "所有景點",
+    "on_foot_crumb": "步行",
+    "tour_h1": "Fushimi Inari on foot",
+    "route_label": "路線",
+    "maps_cta": "在 Google 地圖開啟步行路線",
+    "official_label": "inari.jp",
+    "stop_pattern": "第 {n} 站（live 寫作 第 01 站）",
+    "step_count_pattern": "1 / 6",
+    "prev": "上一站",
+    "next": "下一站",
+    "walk_progress_aria": "步行進度",
+    "walk_stops_aria": "步行各站",
+    "route_map_aria": "六站步行路線示意圖",
+    "checkpoints": "檢查點",
+    "kind_must_see": "必看",
+    "kind_object": "物件",
+    "kind_story": "傳統故事",
+    "kind_practice": "社內規矩",
+    "what_to_look_for": "該看什麼",
+    "show_every_reading": "顯示每一種解讀",
+    "tap_to_enlarge": "點擊照片可放大。",
+    "photo_prefix": "攝影：",
+    "enlarge_photo_aria": "放大照片：{alt}",
+    "enlarged_photo_aria": "放大後的照片",
+    "close": "關閉",
+    "optional": "可選",
+    "summit_loop": "山頂環線",
+    "closed_until_open": "在你打開之前保持關閉。",
+    "crossroads_heading": "在十字路口，由你決定",
+    "turn_back_down": "折返下山",
+    "continue_okumiya": "繼續前往奥宮",
+    "stop_nav_arrival": "抵達",
+    "stop_nav_senbon": "千本",
+    "stop_nav_pauses": "小駐",
+    "stop_nav_yotsutsuji": "四辻",
+    "stop_nav_summit": "山頂",
+    "stop_nav_exit": "出口",
+    "end_of_the_walk": "散步到此",
+    "end_kicker_live": "End"
+  }
+}

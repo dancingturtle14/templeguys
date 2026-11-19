@@ -1,5 +1,6 @@
-import { Link } from '../lib/router'
-import { TEMPLE_CHAPTERS } from '../lib/chapters'
+import { Link, useRouter } from '../lib/router'
+import { chaptersFor } from '../lib/chapters'
+import { getFushimiI18n } from '../lib/fushimi-i18n'
 import type { TempleChapter } from '../types'
 
 export function TempleChapterNav({
@@ -9,13 +10,17 @@ export function TempleChapterNav({
   templeId: string
   chapter: TempleChapter
 }) {
+  const { route } = useRouter()
+  const locale = route.name === 'temple' ? route.locale : undefined
+  const list = chaptersFor(templeId === 'fushimi-inari' ? locale : undefined)
+  const chrome = locale && templeId === 'fushimi-inari' ? getFushimiI18n(locale).chrome : null
   return (
     <nav aria-label="Temple chapters" className="border border-line bg-paper">
       <p className="border-b border-line px-4 py-3 text-[0.65rem] font-semibold uppercase tracking-wide text-cinnabar">
-        Chapters
+        {chrome?.chapters_label ?? 'Chapters'}
       </p>
       <ul className="py-1">
-        {TEMPLE_CHAPTERS.map((c, i) => {
+        {list.map((c, i) => {
           const active = c.id === chapter
           return (
             <li key={c.id}>

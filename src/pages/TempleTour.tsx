@@ -20,7 +20,8 @@ import {
   ULUWATU_TOUR_END_COPY,
   ULUWATU_TOUR_ID,
 } from '../data/uluwatuTour'
-import { Link } from '../lib/router'
+import { Link, useRouter } from '../lib/router'
+import { getFushimiI18n, localizeFushimiTemple, tourChromeFor } from '../lib/fushimi-i18n'
 import { getTemple } from '../lib/temples'
 import { NotFoundPage } from './NotFound'
 import {
@@ -106,6 +107,8 @@ const TOURS = {
 } as const
 
 export function TempleTourPage({ id }: { id: string }) {
+  const { route } = useRouter()
+  const locale = route.name === 'temple-tour' ? route.locale : undefined
   // Mobile walk CSS clips document scroll and moves it to #main. Reset both
   // after the tour is in the DOM so a client entry from a scrolled overview
   // cannot leave the window stuck mid-page behind overflow:clip.
@@ -117,24 +120,46 @@ export function TempleTourPage({ id }: { id: string }) {
     reset()
     const frame = requestAnimationFrame(reset)
     return () => cancelAnimationFrame(frame)
-  }, [id])
+  }, [id, locale])
 
-  const tour = TOURS[id as keyof typeof TOURS]
-  if (!tour) return <NotFoundPage />
-  const temple = getTemple(id)
-  if (!temple) return <NotFoundPage />
+  const base = TOURS[id as keyof typeof TOURS]
+  if (!base) return <NotFoundPage />
+  const found = getTemple(id)
+  if (!found) return <NotFoundPage />
+  const i18n = locale && id === 'fushimi-inari' ? getFushimiI18n(locale) : null
+  const temple = i18n ? localizeFushimiTemple(found, locale!) : found
+  const tour = i18n
+    ? {
+        ...base,
+        title: i18n.tour.title,
+        lede: i18n.tour.lede,
+        officialHref: i18n.tour.officialHref,
+        officialLabel: i18n.tour.officialLabel,
+        officialNote: i18n.tour.officialNote,
+        stops: i18n.stops,
+        mapsWalking: i18n.tour.mapsUrl,
+        endCopy: i18n.tour.endCopy,
+      }
+    : base
+  const chrome = locale && id === 'fushimi-inari' ? tourChromeFor(locale) : undefined
+  const walkKicker = i18n?.tour.walkKicker ?? i18n?.chrome.walk_kicker ?? 'Walk'
+  const crumbHome = i18n?.chrome.crumb_home ?? 'Home'
+  const crumbExplore = i18n?.chrome.crumb_explore ?? 'Explore'
+  const crumbWalk = i18n?.chrome.on_foot_crumb ?? 'On foot'
+  const crumbAria = i18n?.chrome.breadcrumb
 
   return (
     <article className="tour-page">
       <div className="border-b border-line bg-paper-deep/50">
         <div className="mx-auto max-w-6xl px-4 py-3 sm:px-6 lg:px-8 lg:py-5">
           <Breadcrumb
+            ariaLabel={crumbAria}
             items={[
-              { label: 'Home', to: { name: 'home' } },
-              { label: 'Explore', to: { name: 'explore' } },
+              { label: crumbHome, to: { name: 'home' } },
+              { label: crumbExplore, to: { name: 'explore' } },
               { label: temple.region, to: { name: 'region', slug: temple.regionSlug } },
               { label: temple.shortName, to: { name: 'temple', id: temple.id } },
-              { label: 'On foot' },
+              { label: crumbWalk },
             ]}
           />
         </div>
@@ -142,7 +167,7 @@ export function TempleTourPage({ id }: { id: string }) {
 
       <div className="tour-page-body mx-auto max-w-6xl px-4 py-5 sm:px-6 lg:px-8 lg:py-12">
         <header className="tour-intro max-w-2xl">
-          <p className="text-[0.65rem] font-semibold uppercase text-cinnabar">Walk</p>
+          <p className="text-[0.65rem] font-semibold uppercase text-cinnabar">{walkKicker}</p>
           <h1 className="mt-3 font-display text-4xl text-balance sm:text-6xl">{tour.title}</h1>
           <p className="mt-4 text-pretty text-lg text-ink-soft">{tour.lede}</p>
           <p className="mt-3 text-sm text-ink-muted">
@@ -155,11 +180,12 @@ export function TempleTourPage({ id }: { id: string }) {
         </header>
         <div className="tour-walk-wrap mt-10">
           <TourWalk
-            key={id}
+            key={`${id}:${locale ?? 'en'}`}
             stops={[...tour.stops]}
             templeId={id}
             mapsWalking={tour.mapsWalking}
             endCopy={tour.endCopy}
+            chrome={chrome}
           />
         </div>
       </div>
@@ -168,15 +194,21 @@ export function TempleTourPage({ id }: { id: string }) {
 }
 
 function TourCard({ id }: { id: keyof typeof TOURS }) {
-  const tour = TOURS[id]
+  const { route } = useRouter()
+  const locale = (route.name === 'temple' || route.name === 'temple-tour') ? route.locale : undefined
+  const base = TOURS[id]
+  const i18n = locale && id === 'fushimi-inari' ? getFushimiI18n(locale) : null
+  const cardTitle = i18n?.tour.walkCardTitle ?? base.cardTitle
+  const cardLede = i18n?.tour.walkCardLede ?? base.cardLede
+  const walkKicker = i18n?.tour.walkKicker ?? i18n?.chrome.walk_kicker ?? 'Walk'
   return (
     <Link
       to={{ name: 'temple-tour', id }}
       className="block border border-cinnabar/40 bg-paper px-4 py-4 no-underline hover:border-ink"
     >
-      <span className="text-[0.65rem] font-semibold uppercase tracking-wide text-cinnabar">Walk</span>
-      <span className="mt-1 block font-display text-2xl text-ink">{tour.cardTitle}</span>
-      <span className="mt-2 block max-w-xl text-sm text-ink-soft">{tour.cardLede}</span>
+      <span className="text-[0.65rem] font-semibold uppercase tracking-wide text-cinnabar">{walkKicker}</span>
+      <span className="mt-1 block font-display text-2xl text-ink">{cardTitle}</span>
+      <span className="mt-2 block max-w-xl text-sm text-ink-soft">{cardLede}</span>
     </Link>
   )
 }

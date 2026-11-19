@@ -1,5 +1,6 @@
-import { Link } from '../lib/router'
+import { Link, useRouter } from '../lib/router'
 import { adjacentChapters } from '../lib/chapters'
+import { getFushimiI18n } from '../lib/fushimi-i18n'
 import type { TempleChapter } from '../types'
 
 export function TempleChapterPager({
@@ -9,7 +10,10 @@ export function TempleChapterPager({
   templeId: string
   chapter: TempleChapter
 }) {
-  const { prev, next } = adjacentChapters(chapter)
+  const { route } = useRouter()
+  const locale = route.name === 'temple' ? route.locale : undefined
+  const { prev, next } = adjacentChapters(chapter, templeId === 'fushimi-inari' ? locale : undefined)
+  const chrome = locale && templeId === 'fushimi-inari' ? getFushimiI18n(locale).chrome : null
   return (
     <div className="mt-12 flex flex-col gap-3 border-t border-line pt-6 sm:flex-row sm:justify-between">
       {prev ? (
@@ -17,7 +21,7 @@ export function TempleChapterPager({
           to={{ name: 'temple', id: templeId, chapter: prev.id }}
           className="border border-line bg-paper px-4 py-3 text-sm no-underline hover:border-ink"
         >
-          <span className="block text-[0.65rem] uppercase tracking-wide text-ink-muted">Previous</span>
+          <span className="block text-[0.65rem] uppercase tracking-wide text-ink-muted">{chrome?.prev ?? 'Previous'}</span>
           <span className="font-display text-xl text-ink">← {prev.label}</span>
         </Link>
       ) : (
@@ -28,7 +32,7 @@ export function TempleChapterPager({
           to={{ name: 'temple', id: templeId, chapter: next.id }}
           className="border border-line bg-paper px-4 py-3 text-right text-sm no-underline hover:border-ink sm:ml-auto"
         >
-          <span className="block text-[0.65rem] uppercase tracking-wide text-ink-muted">Next</span>
+          <span className="block text-[0.65rem] uppercase tracking-wide text-ink-muted">{chrome?.next ?? 'Next'}</span>
           <span className="font-display text-xl text-ink">{next.label} →</span>
         </Link>
       ) : null}

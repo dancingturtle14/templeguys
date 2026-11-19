@@ -1,0 +1,789 @@
+{
+  "title": "Fushimi Inari Taisha — SanctaWay",
+  "meta": "El santuario de montaña de Inari en Kioto — miles de torii bermellón que suben por el Inariyama, y una caminata que premia salir temprano. Confirme los horarios de oración y las normas de visita en inari.jp.",
+  "h1": "Fushimi Inari Taisha",
+  "locationLine": "Fushimi, Kioto, Japón",
+  "summary": "El santuario de montaña de Inari en Kioto — miles de torii bermellón que ascienden por el Inariyama, y una caminata que recompensa madrugar. Confirme los horarios de oración y las normas de visita en inari.jp.",
+  "quickFacts": {
+    "founded": "—",
+    "typicalVisit": "—",
+    "unesco": "—",
+    "patron": "—"
+  },
+  "overview": {
+    "body": [
+      "Fushimi Inari Taisha (伏見稲荷大社) es el santuario principal de la deidad Inari en Fushimi-ku, Kioto. Desde su fundación tradicional en el año 711 d. C., ha sido un lugar de plegarias por las buenas cosechas, la prosperidad de los negocios, la seguridad del hogar y de la familia, y el cumplimiento de los deseos (inari.jp/en/). Las estatuas de zorros (kitsune) guardan los senderos como mensajeros; la imagen universal del santuario es el túnel de torii bermellón donados que asciende por el sagrado Inariyama (unos 233 m).",
+      "Las páginas principales de información al visitante (acceso, solicitud, inicio) no publican una única hora impresa de cierre para los senderos de la montaña ni para el recinto, y no documentan horarios ininterrumpidos ni iluminación nocturna para el acceso y el Honden. Planifique en torno a los horarios publicados de oración. Los senderos son irregulares, con raíces y oscuros al caer la noche: lleve una linterna si se queda hasta tarde y no abandone las rutas señalizadas (inari.jp/en/access/, inari.jp/en/request/).",
+      "La oración (ご祈祷 / gokito) suele ser de 08:30 a 16:30, con recepción hasta aproximadamente las 16:00; es durante todo el año, aunque en Año Nuevo y en días de festival puede variar. El teléfono de la oficina del santuario (奉賽課) atiende llamadas de 09:00 a 16:00. Las páginas oficiales en inglés y japonés para visitantes no indican una tarifa general de entrada / 拝観料 y no incluyen ningún billete de admisión general; los omamori, los amuletos y los servicios privados de oración se pagan por separado según la tarifa de 初穂料 del santuario — no atribuya a esas páginas oficiales una línea de entrada gratuita (inari.jp/grace/gokito/).",
+      "La mayoría de los visitantes solo necesitan los túneles inferiores de Senbon Torii (a menudo 10–15 minutos de puertas densas) o la subida hasta el mirador de Yotsutsuji (habitualmente 30–45 minutos de ascenso). El circuito completo de la cima puede llevar unas 2–3 horas y es más una caminata de bosque que un túnel de fotos. Las aglomeraciones alcanzan su punto máximo entre media mañana y la tarde; llegue al amanecer para tener espacio entre las puertas, o vuelva al caer la tarde, cuando se retiran los autobuses de las excursiones.",
+      "Páginas oficiales de senderos que conviene volver a consultar antes de viajar: acceso (JR Inari / Keihan Fushimi-Inari), solicitud (actos prohibidos) y gokito (horarios de oración y 初穂料). SanctaWay es informativo y no vende entradas."
+    ],
+    "highlights": [
+      "Oración (gokito) generalmente de 08:30 a 16:30; recepción hasta las 16:00 (inari.jp/grace/gokito/)",
+      "Túneles de Senbon Torii + caminata opcional al Inariyama",
+      "Estación de Inari (JR), a unos 5 minutos de la estación de Kioto en los trenes locales de la línea Nara",
+      "Estación de Keihan Fushimi-Inari — a unos 5 minutos a pie hacia el este",
+      "Ninguna hora impresa de cierre del recinto en las páginas principales de visitantes — planifique según los horarios de oración",
+      "El mirador de Yotsutsuji como punto de retorno práctico para muchos visitantes"
+    ]
+  },
+  "visit": {
+    "intro": "Primero un santuario en funcionamiento. Calcule su forma física, el calzado y el momento de mayor afluencia. Confirme los horarios de oración y las normas de conducta en las páginas oficiales — no en tarifas de entrada inventadas.",
+    "hours": "Oración (ご祈祷 / gokito): generalmente de 08:30 a 16:30; recepción hasta aproximadamente las 16:00; durante todo el año para la oración (Año Nuevo y días de festival pueden variar). Teléfono de la oficina del santuario (奉賽課): 09:00–16:00. Las páginas principales de visitantes no publican una única hora impresa de cierre para los senderos de la montaña ni para el recinto, y no documentan horarios ininterrumpidos ni iluminación nocturna del Honden. Los senderos pueden estar oscuros al caer la noche; lleve una linterna si se queda hasta tarde. Verifique en inari.jp/grace/gokito/ y en la señalización del lugar.",
+    "tickets": "Las páginas oficiales para visitantes no indican una tarifa de entrada / 拝観料 y no incluyen ningún billete de admisión general. Los omamori, ema, goshuin y la oración privada (gokito) se pagan por separado según la tarifa de 初穂料 del santuario. No atribuya a esas páginas oficiales una línea de entrada gratuita; ignore a quien venda «entradas» fuera de la estación. Prefiera inari.jp/en/access/, /en/request/ y /grace/gokito/ antes que los portales de reserva en línea.",
+    "dress": "Ropa modesta y lista para caminar. Los hombros cubiertos son respetuosos en los pabellones de oración; unas zapatillas de montaña o de senderismo con buen agarre superan a las sandalias en los senderos con raíces. Lleve capas para la lluvia — el tiempo de Kioto cambia con rapidez.",
+    "duration": "45–90 minutos para las puertas inferiores; 2–3 horas incluyendo Yotsutsuji; medio día para un circuito completo de la cima con descansos.",
+    "access": "Escalones de piedra y senderos de tierra de montaña; barandillas solo en algunos tramos. No es un patio llano de santuario después de los primeros túneles de torii. Accesibilidad limitada para sillas de ruedas más allá del recinto más bajo — pregunte al personal por las opciones de vista más llanas cerca del santuario principal.",
+    "tips": [
+      "JR línea Nara local: Kioto → estación de Inari (2 estaciones / ≈5 min); el santuario está justo al lado de la estación (inari.jp/en/access/).",
+      "Keihan línea principal: estación de Fushimi-Inari; unos 5 minutos a pie hacia el este hasta el santuario (inari.jp/en/access/).",
+      "Los taxis desde el centro de Kioto suelen cotizarse en unas ¥2,000–3,000 en guías terciarias — no está publicado en inari.jp; confírmelo el mismo día.",
+      "Empiece a las 7:00 si quiere fotos más tranquilas de los torii.",
+      "Lleve agua; hay máquinas expendedoras en algunos cruces (por ejemplo, cerca de Yotsutsuji), pero no cuente con ellas más arriba.",
+      "No bloquee los senderos estrechos para sesiones de fotos largas — siga avanzando para que los fieles puedan pasar (acto prohibido n.º 16).",
+      "Lea la lista completa de actos prohibidos en inari.jp/en/request/ antes de ir."
+    ],
+    "entryType": "verify",
+    "ticketsUrl": "https://inari.jp/en/access/",
+    "ticketsLabel": "inari.jp — official access",
+    "ticketsNote": "En las páginas oficiales para visitantes no figura ningún billete de admisión general. Confirme los horarios de oración (gokito 08:30–16:30) y las normas de conducta en inari.jp/grace/gokito/ y /en/request/. Prefiera las páginas oficiales de senderos antes que los portales de reserva en línea."
+  },
+  "etiquette": {
+    "intro": "Primero un santuario en funcionamiento, después un lugar para fotos. Actos prohibidos oficiales (inari.jp/en/request/, publicados el 1 de enero de 2022):",
+    "bullets": [
+      "Fumar o encender fuego",
+      "Entrar en zonas restringidas sin permiso (incluido el pabellón principal / Honden, otros edificios / Shaden y el espacio al otro lado de las vallas / Tamagaki)",
+      "Volar drones u otras aeronaves",
+      "Cualquier acto que dañe edificios, puertas torii, árboles o bienes similares",
+      "Colocar cosas encima de los faroles (Toro) u otras instalaciones",
+      "Dejar carritos de bebé sin vigilancia fuera de las zonas señalizadas",
+      "Gritar, sentarse en el suelo u otras acciones que causen molestias a los fieles",
+      "Comer o beber fuera de las zonas señalizadas (descanso libre) — incluido comer mientras se camina o de pie",
+      "Arrojar basura, botellas, latas, etc.",
+      "Aparcar en los aparcamientos del santuario si no se visita el santuario",
+      "Acercarse a aves y animales silvestres o darles de comer",
+      "Traer mascotas de paseo o de visita (salvo perros guía y otros animales necesarios)",
+      "Hacer fotografías con fines comerciales o en zonas prohibidas",
+      "Pasearse por el recinto con vestidos de novia u otros trajes inapropiados para el culto",
+      "Realizar o repartir encuestas sin permiso",
+      "Impedir el paso de los fieles tomando fotografías o grabando en senderos estrechos",
+      "Cualquier otra conducta que Fushimi Inari Taisha considere inapropiada"
+    ]
+  },
+  "gettingThere": {
+    "intro": "Por lo general, los visitantes llegan a Fushimi Inari Taisha así (acceso oficial: inari.jp/en/access/).",
+    "paragraphs": [
+      "Desde la estación de Kioto, tome un tren local de la línea JR Nara dos paradas (≈5 minutos) hasta la estación de Inari. El santuario está justo al lado de la estación — siga los carteles del santuario. Los trenes rápidos y expresos pueden saltarse Inari; confirme el patrón de paradas del local en las pantallas del andén.",
+      "Desde los hoteles del centro de la orilla este, la línea principal Keihan hasta la estación de Fushimi-Inari suele ser cómoda, y luego unos 5 minutos a pie hacia el este hasta el santuario. Los autobuses urbanos también dan servicio a la zona; espere una caminata de varios minutos desde la parada.",
+      "Los aparcamientos cercanos al santuario dan prioridad a los fieles y se llenan rápido los fines de semana. El transporte público es la opción práctica por defecto para los turistas. Las guías terciarias de visitantes suelen citar unas ¥2,000–3,000 en taxi desde el centro de Kioto — ese rango no está publicado en inari.jp; trátelo como aproximado y confírmelo el mismo día."
+    ],
+    "bullets": [
+      "JR Kioto → Inari (línea Nara local), santuario junto a la estación",
+      "Estación de Keihan Fushimi-Inari → unos 5 min a pie hacia el este",
+      "Evite conducir en los fines de semana de mayor afluencia",
+      "Los trenes de vuelta hacia Kioto son frecuentes — aun así, deje margen después de una caminata larga"
+    ]
+  },
+  "bestTime": {
+    "intro": "Las aglomeraciones, el calor y el follaje importan más que las entradas.",
+    "paragraphs": [
+      "La primera hora de la mañana (idealmente antes del flujo masivo de turistas) es la ventana más clara para los torii inferiores. Al mediodía se camina hombro con hombro en temporada alta. A última hora de la tarde puede volver a despejarse cuando se van los autobuses de las excursiones. Alinee cualquier reserva de oración con el horario de gokito (08:30–16:30).",
+      "El verano es caluroso y húmedo en la subida; las mañanas de invierno son frías pero a menudo más claras. El follaje de otoño y las vacaciones de primavera son hermosos y están abarrotados — visitar entre semana ayuda."
+    ],
+    "bullets": [
+      "Puertas más tranquilas: llegue al amanecer",
+      "Yotsutsuji basta para la mayoría de las primeras visitas",
+      "Cima completa: salga antes y lleve una linterna si puede bajar cerca del anochecer",
+      "Lluvia: los senderos se vuelven resbaladizos — vaya despacio"
+    ]
+  },
+  "notes": {
+    "intro": "Notas · Verifique antes de la visita",
+    "bullets": [
+      "Citas de las páginas oficiales: https://inari.jp/en/access/ · https://inari.jp/en/request/ · https://inari.jp/grace/gokito/ — no use solo /en/ para horarios, tarifas o actos prohibidos.",
+      "No invente una tarifa de entrada al recinto ni afirmaciones de iluminación ininterrumpida o nocturna — las páginas principales de visitantes guardan silencio sobre eso.",
+      "Caminar de noche por la montaña es bajo su propio riesgo; los senderos son oscuros e irregulares.",
+      "SanctaWay es informativo; no vende entradas ni concede acceso."
+    ]
+  },
+  "shortName": "Fushimi Inari Taisha",
+  "tour": {
+    "title": "Fushimi Inari a pie",
+    "documentTitle": "A pie · Fushimi Inari Taisha — SanctaWay",
+    "lede": "Seis paradas como un reproductor de pasos — una pantalla cada vez — desde la estación de Inari hasta Yotsutsuji. Siga el mapa de la ruta o abra indicaciones para caminar en Google Maps. El circuito de la cima permanece cerrado hasta que usted lo abra.",
+    "officialNote": "Los horarios aquí indicados son el patrón habitual de los visitantes, no un horario impreso del santuario. Confirme los horarios de oficina en el tablón o en inari.jp — https://inari.jp/en/",
+    "officialLabel": "inari.jp",
+    "officialHref": "https://inari.jp/en/",
+    "mapsUrl": "https://www.google.com/maps/dir/?api=1&destination=Fushimi+Inari+Taisha,+Kyoto&travelmode=walking",
+    "mapsCta": "Abrir la ruta a pie en Google Maps",
+    "routeLabel": "Ruta",
+    "endCopy": "Las puertas inferiores y Yotsutsuji son una visita completa para la mayoría de la gente. El circuito de la cima puede esperar a otra mañana.",
+    "walkCardTitle": "A pie, parada por parada →",
+    "walkCardLede": "Seis paradas, con lugares imprescindibles y objetos con nombre a lo largo del camino. El circuito de la cima permanece cerrado hasta que usted lo abra.",
+    "endHeading": "Fin del paseo",
+    "walkKicker": "Paseo",
+    "crossroads": {
+      "heading": "Tu decisión en la encrucijada",
+      "body": "Cualquiera de las dos opciones es una visita completa. Dar la vuelta omite el circuito del bosque. Seguir abre el circuito de la cima.",
+      "turnBack": "Bajar",
+      "continue": "Seguir hasta Okumiya",
+      "teaser": "Parada 05 · opcional Circuito de la cima. Cerrado hasta que usted lo abra."
+    }
+  },
+  "stops": [
+    {
+      "id": "arrival",
+      "index": "01",
+      "nav": "Llegada",
+      "plate": "De la estación a la puerta",
+      "caption": "El Romon, la puerta principal, y luego el temizuya.",
+      "sentences": [
+        "Los trenes locales de la línea JR Nara paran en Inari, dos paradas al sur de la estación de Kioto.",
+        "Muchos trenes rápidos se saltan Inari, así que lea la pantalla del andén antes de subir y luego camine unos minutos cuesta arriba hasta el santuario.",
+        "Pasa por el romon bermellón, la puerta principal, y por un temizuya, una pila para enjuagarse las manos antes de los edificios del santuario.",
+        "No hay tarifa de admisión por el recinto ni por los senderos de la montaña."
+      ],
+      "chips": [
+        {
+          "label": "JR Inari"
+        },
+        {
+          "label": "Tren local"
+        },
+        {
+          "label": "Romon"
+        },
+        {
+          "label": "Temizuya"
+        },
+        {
+          "label": "Recinto libre"
+        }
+      ],
+      "checkpoints": [
+        {
+          "id": "arrival-station",
+          "kind": "must-see",
+          "title": "Estación JR Inari",
+          "sentences": [
+            "Tome un local de la línea JR Nara. Inari está dos paradas al sur de la estación de Kioto, y muchos trenes rápidos se la saltan.",
+            "Desde los torniquetes, el santuario está a un corto paseo cuesta arriba. Siga a la multitud y al bermellón que se ve al frente."
+          ],
+          "lookFor": [
+            "En el andén, lea el tipo de tren antes de subir. Los locales paran en Inari. Los rápidos a menudo no.",
+            "Camine hacia el santuario. Son unos minutos cuesta arriba a pie, no un trayecto en autobús.",
+            "Hay puestos de comida a lo largo de esta calle. Si tiene hambre, coma aquí. En los senderos de la montaña se restringe comer mientras se camina."
+          ]
+        },
+        {
+          "id": "arrival-romon",
+          "kind": "must-see",
+          "title": "Romon, la puerta principal",
+          "sentences": [
+            "El romon es la puerta de dos plantas al pie del recinto. Se atraviesa, no se rodea una taquilla.",
+            "Las crónicas del santuario datan esta puerta en 1589 y atribuyen la donación a Toyotomi Hideyoshi. Tampoco hay tarifa de admisión más allá de ella."
+          ],
+          "lookFor": [
+            "Sitúese en el centro del acceso solo el tiempo suficiente para que la puerta enmarque los pabellones, y luego hágase a un lado.",
+            "Mire hacia arriba: dos plantas de bermellón. La planta superior forma parte de la puerta, no es una terraza a la que se suba.",
+            "No hay ventanilla de billetes en la puerta. Se atraviesa."
+          ],
+          "image": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Kyoto_Fushimi_Inari-taisha_Romon_5.jpg/1280px-Kyoto_Fushimi_Inari-taisha_Romon_5.jpg",
+            "credit": "Zairon / Wikimedia Commons (CC BY-SA 4.0)",
+            "alt": "Puerta romon bermellón de dos plantas en Fushimi Inari Taisha, Kioto",
+            "caption": "Romon, la puerta principal."
+          }
+        },
+        {
+          "id": "arrival-temizuya",
+          "kind": "object",
+          "title": "Temizuya del zorro",
+          "sentences": [
+            "El temizuya que hay nada más entrar es una pila de agua, aquí con forma de zorro. Sirve para enjuagarse las manos antes de seguir, no es una fuente para beber.",
+            "El orden habitual en los santuarios es mano izquierda, mano derecha, boca y luego el mango del cucharón. Si el tablón indica otro orden, siga el tablón."
+          ],
+          "lookFor": [
+            "Sujete el cucharón con la mano derecha para ese orden habitual: mano izquierda, mano derecha, boca y luego el mango.",
+            "No beba el agua y no acerque la boca al cucharón.",
+            "El zorro es la forma de la pila. El agua es solo para el enjuague."
+          ],
+          "image": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Hushimi-inari-taisha_kitune_no_chozu.jpg/1280px-Hushimi-inari-taisha_kitune_no_chozu.jpg",
+            "credit": "KENPEI / Wikimedia Commons (CC BY 3.0)",
+            "alt": "Pila temizuya con forma de zorro en Fushimi Inari Taisha",
+            "caption": "Temizuya con forma de zorro en el recinto."
+          }
+        },
+        {
+          "id": "arrival-tofu",
+          "kind": "story",
+          "title": "Tofu frito en el acceso",
+          "sentences": [
+            "Historia tradicional: se dice que a los zorros les gusta el tofu frito, y por eso el inari-zushi — bolsitas de tofu — llena las tiendas entre la estación y la puerta.",
+            "Eso es una explicación popular, no un rito. Los puestos son comida corriente. Coma aquí o después de dejar los senderos de la montaña, no mientras los camina."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "senbon-torii",
+      "index": "02",
+      "nav": "Senbon",
+      "plate": "Los túneles densos",
+      "caption": "Puertas bermellón donadas en el sendero inferior de la montaña.",
+      "sentences": [
+        "Detrás del santuario principal, el sendero entra en Senbon Torii, dos túneles contiguos de puertas donadas por empresas y fieles.",
+        "El tramo denso suele ser unos diez a quince minutos de caminata, más si la gente se detiene a fotografiar.",
+        "Las puertas son estrechas. Manténgase a un lado y siga avanzando para que otros puedan pasar.",
+        "Los nombres en los pilares registran a los donantes. Las puertas son ofrendas, no algo a lo que subirse."
+      ],
+      "chips": [
+        {
+          "label": "Dos túneles"
+        },
+        {
+          "label": "Unos 10–15 min"
+        },
+        {
+          "label": "Siga avanzando"
+        },
+        {
+          "label": "Puertas donadas"
+        }
+      ],
+      "checkpoints": [
+        {
+          "id": "senbon-tunnels",
+          "kind": "must-see",
+          "title": "Los dos túneles contiguos",
+          "sentences": [
+            "Detrás del santuario principal el sendero se divide en dos corredores paralelos de puertas, tan próximos que se va a la sombra todo el camino.",
+            "El tramo denso suele ser diez a quince minutos de caminata. Hágase a un lado para las fotos para que el corredor siga moviéndose."
+          ],
+          "lookFor": [
+            "Los dos corredores van uno al lado del otro. Camine uno y luego el otro si quiere ambos.",
+            "Si se detiene, póngase en el borde. El centro es la línea de paso.",
+            "Mire atrás: las puertas se apilan formando un túnel. Al frente, se abren hacia la subida."
+          ],
+          "image": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Fushimi-Inari-Shrine-Senbon-Torii-2016-Luka-Peternel.jpg/1280px-Fushimi-Inari-Shrine-Senbon-Torii-2016-Luka-Peternel.jpg",
+            "credit": "Luka Peternel / Wikimedia Commons (CC BY-SA 4.0)",
+            "alt": "Denso túnel bermellón de Senbon Torii en Fushimi Inari Taisha",
+            "caption": "Un ala de los túneles de Senbon Torii."
+          }
+        },
+        {
+          "id": "senbon-name",
+          "kind": "object",
+          "title": "Por qué se llama Senbon",
+          "sentences": [
+            "Senbon significa «mil puertas». El nombre se quedó. La montaña tiene muchas más de mil, y no hay una cifra publicada que memorizar.",
+            "Después de los túneles densos las puertas se separan y el sendero se convierte en una subida entre ellas, no en un techo."
+          ],
+          "image": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/FUS_-_Senbon_torii_path_at_Fushimi_Inari-taisha%2C_Kyoto%2C_Japan%2C_2015.jpg/960px-FUS_-_Senbon_torii_path_at_Fushimi_Inari-taisha%2C_Kyoto%2C_Japan%2C_2015.jpg",
+            "credit": "Josep M. Gracia / Wikimedia Commons (CC BY-SA 4.0)",
+            "alt": "Camino de puertas rojas Senbon torii en Fushimi Inari-taisha",
+            "caption": "Puertas espaciadas a lo largo de la subida tras el túnel más estrecho.",
+            "tall": true
+          }
+        },
+        {
+          "id": "senbon-pillars",
+          "kind": "object",
+          "title": "La escritura en los pilares",
+          "sentences": [
+            "Los caracteres negros sobre los pilares bermellón nombran al donante y suelen incluir una fecha. La mayoría de los donantes son empresas y gremios, no peregrinos anónimos.",
+            "Léalos al pasar. Son el registro de la ofrenda, no un telón de fondo sobre el que subirse o colgar cosas."
+          ],
+          "lookFor": [
+            "Póngase junto a una puerta y lea el pilar que ve al mirar cuesta abajo.",
+            "Espere un nombre, a menudo una empresa, y una fecha. No un precio, ni una oración que tenga que recitar.",
+            "Los caracteres están grabados en el bermellón. Etiquetan la ofrenda."
+          ],
+          "prompt": {
+            "question": "¿Qué es lo más probable que esté leyendo en un pilar?",
+            "choices": [
+              {
+                "label": "Un nombre de empresa y una fecha",
+                "reply": "Sí. La mayoría de las inscripciones nombran un negocio o un grupo, y una fecha. Es el registro del donante."
+              },
+              {
+                "label": "El precio de una entrada",
+                "reply": "No. Los caracteres no son una tarifa. El recinto no cobra admisión."
+              },
+              {
+                "label": "Una oración que debo recitar",
+                "reply": "No hay ninguna oración impresa ahí para que los visitantes la reciten. La inscripción registra quién donó la puerta."
+              }
+            ]
+          },
+          "image": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/FUS_-_Inscribed_Senbon_torii_at_Fushimi_Inari-taisha%2C_Kyoto%2C_Japan%2C_2015.jpg/1280px-FUS_-_Inscribed_Senbon_torii_at_Fushimi_Inari-taisha%2C_Kyoto%2C_Japan%2C_2015.jpg",
+            "credit": "Josep M. Gracia / Wikimedia Commons (CC BY-SA 4.0)",
+            "alt": "Pilar inscrito de un Senbon torii en Fushimi Inari-taisha",
+            "caption": "Inscripción de donante en un pilar de torii."
+          }
+        },
+        {
+          "id": "senbon-gift",
+          "kind": "story",
+          "title": "Una puerta donada por la prosperidad",
+          "sentences": [
+            "Cuenta tradicional: Inari está ligado al arroz y, a partir de ahí, al comercio. Un negocio dona una puerta y hace grabar su nombre en la madera como ofrenda.",
+            "La ofrenda es la práctica. El santuario no garantiza que el negocio vaya a mejorar, y no vende el corredor como un túnel de pago."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "path-pauses",
+      "index": "03",
+      "nav": "Pausas",
+      "plate": "Zorros, piedras y bifurcaciones",
+      "caption": "Mensajeros y piedras votivas a lo largo de la subida.",
+      "sentences": [
+        "Piedras con forma de zorro se alzan a lo largo de la subida como mensajeros de Inari, a veces con una llave o una joya en la boca.",
+        "Grupos de pequeñas otsuka son piedras votivas privadas, no un único altar que se suponga que deba completar.",
+        "Donde el sendero se bifurca, siga la ruta señalizada y no ataje entre los árboles.",
+        "Si alguien está rezando, baje la voz y déjele espacio."
+      ],
+      "chips": [
+        {
+          "label": "Kitsune"
+        },
+        {
+          "label": "Otsuka"
+        },
+        {
+          "label": "Bifurcaciones señalizadas"
+        },
+        {
+          "label": "Silencio junto a la oración"
+        }
+      ],
+      "checkpoints": [
+        {
+          "id": "pauses-kitsune",
+          "kind": "must-see",
+          "title": "Los zorros de piedra",
+          "sentences": [
+            "El zorro es el mensajero de Inari, no el kami mismo. Las estatuas se alzan a lo largo de la subida, a menudo con una llave, una joya o un pergamino en la boca.",
+            "La llave se interpreta habitualmente como la llave del almacén de arroz. Esa es la explicación habitual del objeto. No todas las estatuas llevan etiqueta."
+          ],
+          "lookFor": [
+            "Póngase junto a la estatua, no entre ella y quien esté ofreciendo.",
+            "Mire la boca: una llave, una joya o un pergamino. Algunas bocas están vacías o desgastadas.",
+            "Un babero rojo en un zorro lo ató un fiel. Déjelo atado."
+          ],
+          "prompt": {
+            "question": "¿Qué sostiene este zorro?",
+            "choices": [
+              {
+                "label": "Una llave",
+                "reply": "A menudo. La lectura habitual es la llave del almacén de arroz. Mire la estatua que tiene delante, no un esquema."
+              },
+              {
+                "label": "Una joya o un pergamino",
+                "reply": "También son comunes. La boca lleva un objeto, no un conjunto fijo. Una joya o un pergamino es el mismo mensajero, equipado de otra forma."
+              },
+              {
+                "label": "Nada que usted pueda ver",
+                "reply": "Algunas bocas están vacías o desgastadas. La lectura del almacén pertenece a las estatuas que aún sostienen una llave."
+              }
+            ]
+          },
+          "image": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Kitsune_Statue_at_Fushimi_Inari_%282615371311%29.jpg/1280px-Kitsune_Statue_at_Fushimi_Inari_%282615371311%29.jpg",
+            "credit": "syvwlch / Wikimedia Commons (CC BY 2.0)",
+            "alt": "Estatua de piedra de kitsune en Fushimi Inari Taisha",
+            "caption": "Un kitsune junto al sendero.",
+            "tall": true
+          }
+        },
+        {
+          "id": "pauses-otsuka",
+          "kind": "object",
+          "title": "Piedras otsuka",
+          "sentences": [
+            "Las otsuka son piedras votivas privadas, donadas por una persona, una familia o un grupo, y grabadas con un nombre. Se agrupan por cientos.",
+            "No son un único altar que se suponga que deba completar. Deténgase si alguien está rezando, y no trate las filas como un muro para sentarse."
+          ],
+          "image": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Collection_of_inscribed_stones_at_Fushimi_Inari-taisha_%28164%29.jpg/1280px-Collection_of_inscribed_stones_at_Fushimi_Inari-taisha_%28164%29.jpg",
+            "credit": "Savannah Rivka / Wikimedia Commons (CC BY-SA 4.0)",
+            "alt": "Filas de piedras votivas inscritas en Fushimi Inari-taisha",
+            "caption": "Otsuka inscritas en la montaña."
+          }
+        },
+        {
+          "id": "pauses-forks",
+          "kind": "must-see",
+          "title": "Donde el sendero se bifurca",
+          "sentences": [
+            "Los senderos secundarios se desprenden hacia pequeños santuarios y más piedras. La ruta de paso es la señalizada que vuelve hacia Yotsutsuji.",
+            "No ataje entre los árboles para volver a un zigzag. El suelo es de raíces y piedra suelta, y el atajo es como la gente se pierde."
+          ],
+          "lookFor": [
+            "En una bifurcación, siga el camino señalizado hacia Yotsutsuji, no el hueco entre los árboles.",
+            "Si las puertas se han abierto desde un túnel hasta postes espaciados, ya ha pasado el tramo denso de Senbon.",
+            "Un sendero lateral estrecho suele terminar en más piedras o en un pequeño santuario, y ahí se acaba."
+          ]
+        },
+        {
+          "id": "pauses-messenger",
+          "kind": "story",
+          "title": "El zorro blanco",
+          "sentences": [
+            "Historia tradicional: los kitsune sirven a Inari, y el zorro blanco es la forma que suelen adoptar las estatuas. La gente deja tofu frito porque se dice que el zorro lo prefiere.",
+            "Rece hacia Inari, en los santuarios. La estatua es la imagen del mensajero, no una deidad separada con su propio rito."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yotsutsuji",
+      "index": "04",
+      "nav": "Yotsutsuji",
+      "plate": "El punto de retorno práctico",
+      "caption": "El cruce de cuatro caminos y la vista sobre el sur de Kioto.",
+      "sentences": [
+        "Yotsutsuji es la encrucijada a media subida del Inariyama, y el punto de retorno que necesitan la mayoría de las primeras visitas.",
+        "Desde las puertas inferiores la subida suele llevar treinta a cuarenta y cinco minutos, según el ritmo y la afluencia.",
+        "El cruce mira sobre el sur de Kioto. En un día normal hay un pequeño lugar para descansar y comprar una bebida — no cuente con los mismos servicios más arriba.",
+        "¿Poco tiempo, o incomodidad con los escalones irregulares? Deténgase aquí. El camino de arriba es otra salida."
+      ],
+      "chips": [
+        {
+          "label": "Unos 30–45 min de subida"
+        },
+        {
+          "label": "Mirador"
+        },
+        {
+          "label": "Dé la vuelta aquí"
+        },
+        {
+          "label": "Zona de descanso"
+        }
+      ],
+      "checkpoints": [
+        {
+          "id": "yotsutsuji-cross",
+          "kind": "must-see",
+          "title": "El cruce de cuatro caminos",
+          "sentences": [
+            "Yotsutsuji significa la encrucijada de cuatro caminos. Los senderos llegan desde las puertas inferiores y siguen hacia los santuarios superiores.",
+            "Desde los túneles densos esto suele ser treinta a cuarenta y cinco minutos de subida, más con aglomeraciones."
+          ],
+          "lookFor": [
+            "Deténgase en el centro del cruce y cuente los senderos. El nombre significa cuatro caminos.",
+            "El camino de bajada es el que subió. El de seguir está señalizado hacia los santuarios superiores.",
+            "Está en un cruce de caminos, no dentro de un único pabellón."
+          ]
+        },
+        {
+          "id": "yotsutsuji-view",
+          "kind": "must-see",
+          "title": "Kioto desde el saliente",
+          "sentences": [
+            "El cruce mira al sur, sobre Kioto. En un día despejado la ciudad queda por debajo del bermellón y de los árboles.",
+            "Es un mirador, no una plataforma con barandilla por todas partes. Cuidado con el terreno en el borde."
+          ],
+          "lookFor": [
+            "Mire hacia el lado abierto, alejándose de la subida arbolada, para ver la ciudad.",
+            "Mantenga un paso atrás del borde cuando pase gente. No está con barandilla por todas partes.",
+            "La vista es lo imprescindible. Los puestos son el descanso, no el espectáculo."
+          ],
+          "image": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/View_on_Fushimi_on_Fushimi_Inari-taisha.jpg/1280px-View_on_Fushimi_on_Fushimi_Inari-taisha.jpg",
+            "credit": "Ryuch / Wikimedia Commons (CC BY-SA 3.0)",
+            "alt": "Vista sobre Kioto desde Yotsutsuji en el monte Inari, Fushimi Inari-taisha",
+            "caption": "Kioto desde Yotsutsuji."
+          }
+        },
+        {
+          "id": "yotsutsuji-rest",
+          "kind": "object",
+          "title": "El último descanso fácil",
+          "sentences": [
+            "Pequeños puestos de descanso y máquinas de bebidas suelen estar en este cruce. No cuente con los mismos servicios una vez que siga subiendo.",
+            "Si lleva agua, rellénela aquí. El circuito superior es una caminata más larga de lo que la vista sugiere."
+          ]
+        },
+        {
+          "id": "yotsutsuji-mountain",
+          "kind": "story",
+          "title": "Inariyama y el giro",
+          "sentences": [
+            "La montaña tiene unos 233 metros. Los senderos son una subida de peregrinación que resulta contener un túnel famoso, no un túnel con una montaña adosada.",
+            "La mayoría de las primeras visitas están completas en esta encrucijada. Seguir es una elección, no el final obligado del paseo."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "summit",
+      "index": "05",
+      "nav": "Cumbre",
+      "plate": "Por encima de Yotsutsuji",
+      "caption": "Bosque, santuarios secundarios y el santuario interior.",
+      "sentences": [
+        "Más allá de Yotsutsuji la ruta se convierte en una caminata de bosque alrededor de los santuarios superiores, incluido Okumiya, el santuario interior.",
+        "Un circuito completo suele ser unas dos a tres horas con descansos, entre raíces y escalones de piedra en lugar de otro túnel denso de puertas.",
+        "Lleve agua y una linterna si puede seguir en la montaña después del anochecer.",
+        "Los senderos superiores son más tranquilos, y siguen siendo parte del santuario en funcionamiento. No abandone la ruta señalizada."
+      ],
+      "chips": [
+        {
+          "label": "Opcional"
+        },
+        {
+          "label": "Unas 2–3 horas"
+        },
+        {
+          "label": "Bosque irregular"
+        },
+        {
+          "label": "Lleve una linterna"
+        }
+      ],
+      "checkpoints": [
+        {
+          "id": "summit-okumiya",
+          "kind": "must-see",
+          "title": "Okumiya, el santuario interior",
+          "sentences": [
+            "Okumiya, también escrito Okunomiya, es el santuario interior en la parte alta de la montaña, más allá del punto de retorno de Yotsutsuji.",
+            "Es más tranquilo que los túneles y sigue siendo un lugar de culto. Rigen las mismas normas de los senderos."
+          ],
+          "lookFor": [
+            "El pabellón es más pequeño que el santuario inferior. Manténgase fuera del espacio de culto si hay gente rezando.",
+            "La piedra omokaru está cerca, sobre su base, no dentro del pabellón ni es una piedra suelta del camino.",
+            "Pida su deseo primero si va a levantarla, y luego devuélvala a la misma base."
+          ],
+          "image": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Okunomiya_Shrine_in_Fushimi_Inari_Grand_Shrine.jpg/1280px-Okunomiya_Shrine_in_Fushimi_Inari_Grand_Shrine.jpg",
+            "credit": "そらみみ / Wikimedia Commons (CC BY-SA 4.0)",
+            "alt": "Okunomiya, el santuario interior en Fushimi Inari Taisha",
+            "caption": "Okumiya, el santuario interior."
+          }
+        },
+        {
+          "id": "summit-omokaru",
+          "kind": "story",
+          "title": "La piedra omokaru",
+          "sentences": [
+            "Costumbre tradicional, cerca del santuario interior: pida un deseo y luego levante la piedra. Si pesa menos de lo que esperaba, se dice que el deseo es favorecido; si pesa más, menos.",
+            "Es una costumbre del lugar, no un resultado que el santuario garantice. Levante con las piernas y devuelva la piedra como la encontró."
+          ],
+          "lookFor": [
+            "Encuentre la piedra sobre su base cerca del santuario interior. No recoja una piedra cualquiera del camino.",
+            "No hay un peso indicado. Usted compara el levantamiento con lo que esperaba.",
+            "Vuelva a colocarla en la misma base antes de seguir."
+          ],
+          "prompt": {
+            "question": "Después del deseo, ¿cómo pesaba la piedra?",
+            "choices": [
+              {
+                "label": "Más ligera de lo que esperaba",
+                "reply": "La tradición dice que un levantamiento ligero favorece el deseo. El santuario no garantiza el resultado."
+              },
+              {
+                "label": "Más pesada de lo que esperaba",
+                "reply": "La tradición dice que un levantamiento pesado es la lectura menos favorecida. Sigue siendo solo una costumbre."
+              }
+            ]
+          }
+        },
+        {
+          "id": "summit-forest",
+          "kind": "object",
+          "title": "Bosque, no otro túnel",
+          "sentences": [
+            "Por encima de Yotsutsuji las puertas se dispersan en un circuito arbolado de santuarios secundarios, raíces y escalones de piedra. Un circuito completo suele ser de dos a tres horas con descansos.",
+            "Lleve agua. Si puede estar bajando después del anochecer, lleve una linterna. La montaña no tiene alumbrado público."
+          ]
+        },
+        {
+          "id": "summit-peaks",
+          "kind": "object",
+          "title": "Varias cimas, un circuito",
+          "sentences": [
+            "El paseo superior es un circuito alrededor de los santuarios de la montaña sagrada, no una única plataforma en la cima con una sola vista.",
+            "No abandone el circuito señalizado. Los senderos laterales parecen atajos y son como una caminata tranquila se convierte en una búsqueda."
+          ]
+        }
+      ],
+      "optional": true
+    },
+    {
+      "id": "descent",
+      "index": "06",
+      "nav": "Salida",
+      "plate": "Bajar y luego la oficina",
+      "caption": "Los senderos siguen abiertos cuando los mostradores no.",
+      "sentences": [
+        "Baje por donde subió, o siga el circuito señalizado de vuelta hacia el santuario principal y la estación.",
+        "Los senderos de la montaña no llevan el mismo horario que la oficina del santuario. Omamori, ema y goshuin son servicios de mostrador diurnos, aunque los caminos sigan siendo transitables.",
+        "Lea los horarios publicados en la oficina, o consulte inari.jp, antes de contar con un sello o un amuleto.",
+        "Las normas sobre comida y conducta están en el capítulo de etiqueta. Los trenes de vuelta a Kioto están en Cómo llegar."
+      ],
+      "chips": [
+        {
+          "label": "La oficina tiene otro horario"
+        },
+        {
+          "label": "Omamori y goshuin"
+        },
+        {
+          "label": "Etiqueta"
+        },
+        {
+          "label": "Cómo llegar"
+        },
+        {
+          "label": "inari.jp"
+        }
+      ],
+      "checkpoints": [
+        {
+          "id": "descent-ways",
+          "kind": "must-see",
+          "title": "Dos formas de bajar",
+          "sentences": [
+            "Puede deshacer el camino que subió, o seguir el circuito señalizado de vuelta hacia el santuario principal y la estación.",
+            "Ambos terminan en el recinto, no en una puerta de salida aparte. Calcule tiempo para la caminata misma, no solo para el tren que espera tomar."
+          ],
+          "lookFor": [
+            "Los carteles señalan de vuelta por donde vino y alrededor del circuito. Cualquiera de los dos regresa al santuario principal.",
+            "No hay una segunda salida de estación en la montaña. Termina en el recinto y luego baja hasta los trenes.",
+            "Deje luz de día para el descenso si no lleva linterna."
+          ]
+        },
+        {
+          "id": "descent-ema",
+          "kind": "object",
+          "title": "Ema, las placas de deseos",
+          "sentences": [
+            "Las ema son pequeñas placas de madera. En Inari suelen tener forma de zorro. Usted escribe un deseo y cuelga la placa donde el personal le indique.",
+            "Se venden en los mostradores, que tienen horario diurno. Los senderos pueden seguir abiertos después de que el expositor haya cerrado por la noche."
+          ],
+          "lookFor": [
+            "Muchas placas aquí tienen forma de zorro o cara de zorro, no solo rectángulos.",
+            "Escriba y luego cuelgue en el expositor que le señale el personal. Deje las placas de los demás donde están.",
+            "El expositor se cierra con los mostradores. Los senderos no comparten ese horario."
+          ],
+          "image": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Ema_at_Fushimi_Inari-taisha_02.jpg/1280px-Ema_at_Fushimi_Inari-taisha_02.jpg",
+            "credit": "Immanuel Giel / Wikimedia Commons (CC BY-SA 4.0)",
+            "alt": "Placas ema de madera colgadas en Fushimi Inari-taisha",
+            "caption": "Ema en el santuario."
+          }
+        },
+        {
+          "id": "descent-office",
+          "kind": "object",
+          "title": "Omamori y el mostrador de goshuin",
+          "sentences": [
+            "Los amuletos omamori y los libros de sello goshuin son servicios de oficina, no de sendero. Lea los horarios en el tablón, o consulte inari.jp, antes de contar con ellos.",
+            "Ignore a quien, fuera de la estación, venda una «entrada». El recinto no cobra admisión."
+          ],
+          "lookFor": [
+            "Los amuletos son pequeñas bolsas de brocado en estantes, agrupadas por el deseo impreso en la etiqueta. El precio está en el estante, no en esta guía.",
+            "El goshuin es un mostrador de sellos y un libro, no el mismo estante que las bolsas.",
+            "Si las etiquetas están solo en japonés, pregunte. No adivine la finalidad de un amuleto por el color de la tela."
+          ]
+        },
+        {
+          "id": "descent-eating",
+          "kind": "practice",
+          "title": "Dónde puede comer",
+          "sentences": [
+            "Las normas de conducta del santuario restringen comer mientras se camina por los senderos. Un tentempié en la zona de descanso de Yotsutsuji no es lo mismo que comer en el túnel.",
+            "El capítulo de etiqueta enumera las normas de conducta. Cómo llegar cubre los trenes de vuelta a la estación de Kioto.",
+            "Fin del paseo",
+            "Las puertas inferiores y Yotsutsuji son una visita completa para la mayoría de la gente. El circuito de la cima puede esperar a otra mañana."
+          ]
+        }
+      ]
+    }
+  ],
+  "chrome": {
+    "skip_to_content": "Saltar al contenido",
+    "brand": "SanctaWay",
+    "nav_explore": "Explorar",
+    "nav_about": "Acerca de",
+    "open_menu": "Abrir menú",
+    "nav_primary": "Principal",
+    "breadcrumb": "Ruta de navegación",
+    "crumb_home": "Inicio",
+    "crumb_explore": "Explorar",
+    "chapter_overview": "Visión general",
+    "chapter_visit": "Visita",
+    "chapter_etiquette": "Etiqueta",
+    "chapter_getting_there": "Cómo llegar",
+    "chapter_best_time": "Mejor época",
+    "chapter_notes": "Notas",
+    "chapters_label": "Capítulos",
+    "chapter_kicker": "Capítulo",
+    "next_chapter_kicker": "Siguiente",
+    "arrow_suffix": "→",
+    "qf_heading": "Datos rápidos",
+    "qf_founded": "Fundación",
+    "qf_visit_length": "Duración de la visita",
+    "qf_unesco": "UNESCO",
+    "qf_patron": "Patrono / época",
+    "highlights": "Destacados",
+    "tickets_kicker": "Entradas",
+    "tickets_heading_verify": "Comprar en el lugar / verificar",
+    "tickets_cta_label": "Fushimi Inari Taisha — acceso oficial",
+    "tickets_cta_default": "Consultar precios",
+    "tickets_helper": "Abre el sitio de reservas que verificamos. Los precios cambian — confírmelos en esa página antes de pagar.",
+    "walk_kicker": "Paseo",
+    "walk_card_title": "A pie, parada por parada →",
+    "walk_card_lede": "Seis paradas, con lugares imprescindibles y objetos con nombre a lo largo del camino. El circuito de la cima permanece cerrado hasta que usted lo abra.",
+    "related_places": "Lugares relacionados",
+    "explore_all": "Explorar todos →",
+    "all_places": "Todos los lugares",
+    "on_foot_crumb": "A pie",
+    "tour_h1": "Fushimi Inari a pie",
+    "route_label": "Ruta",
+    "maps_cta": "Abrir la ruta a pie en Google Maps",
+    "official_label": "inari.jp",
+    "stop_pattern": "Parada {n}",
+    "step_count_pattern": "{current} / {total}",
+    "prev": "Anterior",
+    "next": "Siguiente",
+    "walk_progress_aria": "Progreso del paseo",
+    "walk_stops_aria": "Paradas del paseo",
+    "route_map_aria": "Esquema de la ruta a pie con seis paradas",
+    "checkpoints": "Puntos de interés",
+    "kind_must_see": "Imprescindible",
+    "kind_object": "Objeto",
+    "kind_story": "Historia tradicional",
+    "kind_practice": "Norma de la casa",
+    "what_to_look_for": "En qué fijarse",
+    "show_every_reading": "Mostrar todas las lecturas",
+    "tap_to_enlarge": "Toque la foto para ampliarla.",
+    "photo_prefix": "Foto:",
+    "enlarge_photo_aria": "Ampliar foto: {alt}",
+    "enlarged_photo_aria": "Foto ampliada",
+    "close": "Cerrar",
+    "optional": "opcional",
+    "summit_loop": "Circuito de la cima",
+    "closed_until_open": "Cerrado hasta que usted lo abra.",
+    "crossroads_heading": "Tu decisión en la encrucijada",
+    "turn_back_down": "Bajar",
+    "continue_okumiya": "Seguir hasta Okumiya",
+    "stop_nav_arrival": "Llegada",
+    "stop_nav_senbon": "Senbon",
+    "stop_nav_pauses": "Pausas",
+    "stop_nav_yotsutsuji": "Yotsutsuji",
+    "stop_nav_summit": "Cumbre",
+    "stop_nav_exit": "Salida",
+    "end_of_the_walk": "Fin del paseo",
+    "end_kicker_live": "Se omite: no se añade ningún botón «End»/«Fin» como control"
+  }
+}

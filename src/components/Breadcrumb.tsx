@@ -3,9 +3,9 @@ import type { Route } from '../types'
 
 type Crumb = { label: string; to?: Route }
 
-export function Breadcrumb({ items }: { items: Crumb[] }) {
+export function Breadcrumb({ items, ariaLabel = 'Breadcrumb' }: { items: Crumb[]; ariaLabel?: string }) {
   return (
-    <nav aria-label="Breadcrumb" className="text-sm text-ink-muted">
+    <nav aria-label={ariaLabel} className="text-sm text-ink-muted">
       <ol className="flex flex-wrap items-center gap-x-2 gap-y-1">
         {items.map((item, i) => (
           <li key={`${item.label}-${i}`} className="flex items-center gap-2">

@@ -1,4 +1,5 @@
 import { useEffect, useRef, useState } from 'react'
+import { getFushimiI18n } from '../lib/fushimi-i18n'
 import { Link, useRouter } from '../lib/router'
 import { regions, religions } from '../lib/temples'
 import type { Route } from '../types'
@@ -185,6 +186,8 @@ function PrimaryItems({
 }) {
   const { route } = useRouter()
   const key = routeKey(route)
+  const locale = route.name === 'temple' || route.name === 'temple-tour' ? route.locale : undefined
+  const chrome = locale ? getFushimiI18n(locale).chrome : null
   const linkClass =
     layout === 'bar'
       ? 'relative pb-0.5 text-sm font-medium no-underline'
@@ -194,7 +197,7 @@ function PrimaryItems({
     <>
       <NavLink
         to={{ name: 'explore' }}
-        label="Explore"
+        label={chrome?.nav_explore ?? "Explore"}
         active={route.name === 'explore'}
         className={linkClass}
         onNavigate={onNavigate}
@@ -219,7 +222,7 @@ function PrimaryItems({
       />
       <NavLink
         to={{ name: 'about' }}
-        label="About"
+        label={chrome?.nav_about ?? "About"}
         active={route.name === 'about'}
         className={linkClass}
         onNavigate={onNavigate}

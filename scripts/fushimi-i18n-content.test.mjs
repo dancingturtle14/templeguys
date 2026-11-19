@@ -12,7 +12,7 @@ const { render } = jiti('../src/entry-server.tsx')
 const { routeToUrl, parsePath } = jiti('../src/lib/router.tsx')
 const { LOCALES, getFushimiI18n } = jiti('../src/lib/fushimi-i18n.ts')
 
-const LEAK = /Not for publish|Hermes first draft|DRAFT-v1|do not invent locale|writer.?note|Soft Soft|NO_CTA/i
+const LEAK = /Not for publish|Hermes first draft|DRAFT-v1|do not invent locale|writer.?note|Soft Soft|NO_CTA|live 寫作|índice de dos cifras/i
 const STOP_IDS = ['arrival', 'senbon-torii', 'path-pauses', 'yotsutsuji', 'summit', 'descent']
 
 test('draft-only locale path helper lists six locales without editing the live sitemap', () => {
@@ -71,6 +71,13 @@ test('locale overview and tour prerender with Walk href, chrome, and no Play/Ski
     assert.doesNotMatch(tour.html, />Play</)
     assert.doesNotMatch(tour.html, />Skip</)
     assert.doesNotMatch(tour.html, /<button[^>]*>\s*End\s*</)
+    const stopPattern = data.chrome.stop_pattern
+    assert.match(stopPattern, /\{n\}/, locale)
+    assert.doesNotMatch(stopPattern, /live 寫作|índice de dos cifras/)
+    for (const n of ['01', '02', '03', '04', '05', '06']) {
+      const label = stopPattern.replace('{n}', n)
+      assert.match(tour.html, new RegExp(label.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')), `${locale} ${label}`)
+    }
     const visit = render(`/${locale}/temple/fushimi-inari/visit/`)
     assert.match(visit.html, new RegExp(data.visit.tickets.slice(0, 24).replace(/[.*+?^${}()|[\]\\]/g, '\\$&')))
 

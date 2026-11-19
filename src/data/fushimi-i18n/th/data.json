@@ -743,7 +743,7 @@
     "route_label": "เส้นทาง",
     "maps_cta": "เปิดเส้นทางเดินใน Google Maps",
     "official_label": "inari.jp",
-    "stop_pattern": "จุดที่ 01",
+    "stop_pattern": "จุดที่ {n}",
     "step_count_pattern": "1 / 6",
     "prev": "ก่อนหน้า",
     "next": "ต่อไป",

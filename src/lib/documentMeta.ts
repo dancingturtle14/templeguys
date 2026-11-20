@@ -6,6 +6,7 @@ import { getTemple, regionLabel, religionLabel } from './temples'
 import type { Locale, Route, TempleChapter } from '../types'
 import { fushimiSeoFromRoute } from './fushimi-seo'
 import { sensoJiSeoFromRoute } from './senso-ji-seo'
+import { meijiShrineSeoFromRoute } from './meiji-shrine-seo'
 
 const BRAND = 'SanctaWay'
 const HOME_TITLE = 'SanctaWay — Visit guides to the world’s sacred places'
@@ -83,6 +84,17 @@ export function metaForRoute(route: Route): { title: string; description: string
       title: senso.title,
       description: senso.meta,
       keywords: senso.keywords,
+    }
+  }
+
+  // Check if this is a Meiji Shrine route via the new lookup
+  const meiji = meijiShrineSeoFromRoute(route)
+  if (meiji) {
+    // Meiji Shrine: return exact pack values, NO clipping
+    return {
+      title: meiji.title,
+      description: meiji.meta,
+      keywords: meiji.keywords,
     }
   }
 

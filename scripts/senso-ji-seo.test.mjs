@@ -92,7 +92,8 @@ test('visit HTML must not contain the dropped dress line', () => {
 
 test('non-Sensō-ji pages do not get Sensō-ji keywords', () => {
   const meiji = render('/temple/meiji-shrine/tour/')
-  assert.ok(!meiji.keywords || meiji.keywords.length === 0)
+  assert.ok(meiji.keywords && meiji.keywords.length > 0)
+  assert.ok(!meiji.keywords.some((k) => /Sensō-ji|Asakusa Kannon/.test(k)))
   const uluwatu = render('/temple/uluwatu/tour/')
   assert.ok(!uluwatu.keywords || uluwatu.keywords.length === 0)
   const istiqlal = render('/temple/istiqlal-mosque/')

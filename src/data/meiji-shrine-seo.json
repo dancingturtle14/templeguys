@@ -1,0 +1,116 @@
+{
+  "generated": "2026-11-20",
+  "timezone": "Asia/Hong_Kong",
+  "site": "SanctaWay",
+  "attraction": "meiji-shrine",
+  "locale": "en",
+  "note": "Not published. Tour body unchanged. Precinct is officially free of charge; Inner Garden and Museum are paid. Treasure Museum follows the marked official status, not the live Annex / limited-open hedge.",
+  "packs": [
+    {
+      "locale": "en",
+      "page": "overview",
+      "path": "/temple/meiji-shrine/",
+      "title": "Meiji Shrine (Meiji Jingū), Shibuya, Tokyo — SanctaWay",
+      "meta": "Shinto shrine in a Shibuya forest, dedicated to Emperor Meiji and Empress Shōken. Precinct free of charge, sunrise to sunset; Inner Garden and Museum have fees.",
+      "keywords": [
+        "Meiji Shrine",
+        "Meiji Jingū",
+        "Shinto shrine Shibuya",
+        "Emperor Meiji and Empress Shōken",
+        "Tokyo forest shrine",
+        "Meiji Shrine history",
+        "Shibuya shrines"
+      ]
+    },
+    {
+      "locale": "en",
+      "page": "tour",
+      "path": "/temple/meiji-shrine/tour/",
+      "title": "Meiji Jingū on foot from the Harajuku entrance — SanctaWay",
+      "meta": "A stop-by-step walk at Meiji Jingū from the Harajuku entrance along Minami-sandō to the main shrine, with the paid Inner Garden as the last stop.",
+      "keywords": [
+        "Meiji Shrine walking tour",
+        "Harajuku entrance walk",
+        "Minami-sandō approach",
+        "Meiji Jingū on foot",
+        "forest path to main shrine",
+        "Inner Garden last stop"
+      ]
+    },
+    {
+      "locale": "en",
+      "page": "visit",
+      "path": "/temple/meiji-shrine/visit/",
+      "title": "Meiji Shrine hours, admission and garden fees — SanctaWay",
+      "meta": "Precinct open sunrise to sunset with monthly clocks; free of charge. Inner Garden ¥500; Museum ¥1,000 / ¥900, 10:00–16:30, last admission 16:00, closed Thursdays.",
+      "keywords": [
+        "Meiji Shrine opening hours",
+        "Meiji Shrine admission fee",
+        "Inner Garden ¥500",
+        "Meiji Jingu Museum hours",
+        "sunrise to sunset hours",
+        "Meiji Shrine free of charge"
+      ]
+    },
+    {
+      "locale": "en",
+      "page": "etiquette",
+      "path": "/temple/meiji-shrine/etiquette/",
+      "title": "Meiji Shrine etiquette: photos, drones and food — SanctaWay",
+      "meta": "Preserve the dignity of this sacred place: no photos at the prayer line, no drones, no running or sports. Eat, drink and smoke only in designated areas.",
+      "keywords": [
+        "Meiji Shrine etiquette",
+        "Meiji Shrine photo rules",
+        "drones at Meiji Shrine",
+        "prayer line photography",
+        "shrine rules Tokyo",
+        "designated areas eating"
+      ]
+    },
+    {
+      "locale": "en",
+      "page": "getting-there",
+      "path": "/temple/meiji-shrine/getting-there/",
+      "title": "Meiji Shrine access: stations and walking times — SanctaWay",
+      "meta": "Harajuku and Meiji-jingumae: 1-minute walk to the entrance. Sangubashi 3 min; Yoyogi and Kita-sando 5. Then at least another ten minutes to the main shrine buildings.",
+      "keywords": [
+        "Meiji Shrine access",
+        "Harajuku Station to Meiji Shrine",
+        "Meiji-jingumae Station",
+        "Sangubashi Station walk",
+        "Yoyogi Station to Meiji Shrine",
+        "Kita-sando Station"
+      ]
+    },
+    {
+      "locale": "en",
+      "page": "best-time",
+      "path": "/temple/meiji-shrine/best-time/",
+      "title": "When to visit Meiji Shrine: seasons and hours — SanctaWay",
+      "meta": "Every season is worth a visit, official Q&A says. Recheck monthly sunrise and sunset hours; irises bloom in the Inner Garden in June, when garden hours extend.",
+      "keywords": [
+        "when to visit Meiji Shrine",
+        "Meiji Shrine in June",
+        "Meiji Shrine irises",
+        "Inner Garden June hours",
+        "Meiji Shrine seasons",
+        "Tokyo shrine seasonal visit"
+      ]
+    },
+    {
+      "locale": "en",
+      "page": "notes",
+      "path": "/temple/meiji-shrine/notes/",
+      "title": "Meiji Shrine notes: check official pages first — SanctaWay",
+      "meta": "Recheck the official visit, garden, museum, access and etiquette pages before you go. Museum fees and Treasure Museum opening status are confirmed there.",
+      "keywords": [
+        "Meiji Shrine visitor notes",
+        "Meiji Shrine official pages",
+        "Meiji Jingu Museum fees",
+        "Treasure Museum status",
+        "Meiji Shrine before you go",
+        "Tokyo shrine checklist"
+      ]
+    }
+  ]
+}

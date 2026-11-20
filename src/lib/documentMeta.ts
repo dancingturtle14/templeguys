@@ -5,6 +5,7 @@ import { getFushimiI18n } from './fushimi-i18n'
 import { getTemple, regionLabel, religionLabel } from './temples'
 import type { Locale, Route, TempleChapter } from '../types'
 import { fushimiSeoFromRoute } from './fushimi-seo'
+import { sensoJiSeoFromRoute } from './senso-ji-seo'
 
 const BRAND = 'SanctaWay'
 const HOME_TITLE = 'SanctaWay — Visit guides to the world’s sacred places'
@@ -71,6 +72,17 @@ export function metaForRoute(route: Route): { title: string; description: string
       title: fushimi.title,
       description: fushimi.meta,
       keywords: fushimi.keywords,
+    }
+  }
+
+  // Check if this is a Sensō-ji route via the new lookup
+  const senso = sensoJiSeoFromRoute(route)
+  if (senso) {
+    // Sensō-ji: return exact pack values, NO clipping
+    return {
+      title: senso.title,
+      description: senso.meta,
+      keywords: senso.keywords,
     }
   }
 

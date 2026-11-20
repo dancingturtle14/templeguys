@@ -1,0 +1,125 @@
+{
+  "generated": "2026-11-20",
+  "timezone": "Asia/Hong_Kong",
+  "site": "SanctaWay",
+  "attraction": "senso-ji",
+  "locale": "en",
+  "note": "Not published. Tour body unchanged. Lighting follows official lightup notice.",
+  "packs": [
+    {
+      "locale": "en",
+      "page": "overview",
+      "path": "/temple/senso-ji/",
+      "title": "Sensō-ji (Asakusa Kannon) in Asakusa, Tokyo — SanctaWay",
+      "meta": "Sensō-ji (Asakusa Kannon) is Tokyo’s oldest established Buddhist temple, on the Kaminarimon–Nakamise–Hondo axis in Asakusa. Hondo 06:00–17:00 (06:30 Oct–Mar).",
+      "keywords": [
+        "Sensō-ji",
+        "Asakusa Kannon",
+        "Asakusa",
+        "Tokyo’s oldest temple",
+        "Kaminarimon",
+        "Nakamise",
+        "Hondo",
+        "Buddhist temple"
+      ]
+    },
+    {
+      "locale": "en",
+      "page": "tour",
+      "path": "/temple/senso-ji/tour/",
+      "title": "On Foot at Sensō-ji: Kaminarimon to the Hondo — SanctaWay",
+      "meta": "A six-stop walk at Sensō-ji in Asakusa, from Kaminarimon along Nakamise to Hōzōmon, the Hondo and the five-storied pagoda, viewed from the precinct.",
+      "keywords": [
+        "Sensō-ji walking tour",
+        "Kaminarimon",
+        "Nakamise",
+        "Hōzōmon",
+        "Hondo",
+        "five-storied pagoda",
+        "Asakusa walk"
+      ]
+    },
+    {
+      "locale": "en",
+      "page": "visit",
+      "path": "/temple/senso-ji/visit/",
+      "title": "Sensō-ji Visit Hours, Services and Lighting — SanctaWay",
+      "meta": "Sensō-ji’s Hondo is open 06:00–17:00 (06:30 Oct–Mar), with daily services at 06:00/06:30, 10:00 and 14:00. Official lighting runs from sunset until around 23:00.",
+      "keywords": [
+        "Sensō-ji visit",
+        "Hondo hours",
+        "Hondo services",
+        "prayer offerings",
+        "志納金",
+        "Sensō-ji lighting",
+        "Yogodo goshuin",
+        "Asakusa"
+      ]
+    },
+    {
+      "locale": "en",
+      "page": "etiquette",
+      "path": "/temple/senso-ji/etiquette/",
+      "title": "Visitor Etiquette at Sensō-ji (Asakusa Kannon) — SanctaWay",
+      "meta": "At Sensō-ji, place your hands together and chant Namu Kanzeon Bosatsu; keep quiet at the Hondo. Omikuji is 観音百籤. Asakusa Shrine next door is a separate Shinto site.",
+      "keywords": [
+        "Sensō-ji etiquette",
+        "Namu Kanzeon Bosatsu",
+        "omikuji",
+        "観音百籤",
+        "quiet at the Hondo",
+        "accessibility",
+        "Asakusa Shrine"
+      ]
+    },
+    {
+      "locale": "en",
+      "page": "getting-there",
+      "path": "/temple/senso-ji/getting-there/",
+      "title": "How to Get to Sensō-ji from Asakusa Station — SanctaWay",
+      "meta": "Sensō-ji is about a five-minute walk from Asakusa Station (Tobu Skytree, Ginza, TX, Toei Asakusa Exit A4). No temple parking; use Taito Ward Kaminarimon Underground Parking.",
+      "keywords": [
+        "Sensō-ji access",
+        "Asakusa Station",
+        "Tobu Skytree Line",
+        "Ginza Line",
+        "Tsukuba Express",
+        "Toei Asakusa Exit A4",
+        "Kaminarimon Underground Parking"
+      ]
+    },
+    {
+      "locale": "en",
+      "page": "best-time",
+      "path": "/temple/senso-ji/best-time/",
+      "title": "When to Visit Sensō-ji: Dawn and Evening Light — SanctaWay",
+      "meta": "Sensō-ji is quieter at the 06:00 Hondo opening (06:30 Oct–Mar); Nakamise is densest midday. Official lighting runs daily from sunset until around 23:00.",
+      "keywords": [
+        "when to visit Sensō-ji",
+        "Hondo opening hours",
+        "Nakamise crowds",
+        "Sensō-ji lighting",
+        "Hōzuki-ichi",
+        "Hagoita-ichi",
+        "goshuin hours",
+        "New Year in Asakusa"
+      ]
+    },
+    {
+      "locale": "en",
+      "page": "notes",
+      "path": "/temple/senso-ji/notes/",
+      "title": "Sensō-ji Notes: Official Pages to Check — SanctaWay",
+      "meta": "Before you go, verify Sensō-ji hours, offerings, access and lighting on official path pages: visit, jumotsu3, access, faq and lightup. Confirm any desk fee on site.",
+      "keywords": [
+        "Sensō-ji official pages",
+        "verify before you go",
+        "jumotsu3",
+        "Sensō-ji access",
+        "lightup notice",
+        "Sensō-ji FAQ",
+        "prayer 志納金"
+      ]
+    }
+  ]
+}

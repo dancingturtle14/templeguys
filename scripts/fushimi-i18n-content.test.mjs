@@ -15,11 +15,25 @@ const { LOCALES, getFushimiI18n } = jiti('../src/lib/fushimi-i18n.ts')
 const LEAK = /Not for publish|Hermes first draft|DRAFT-v1|do not invent locale|writer.?note|Soft Soft|NO_CTA|live 寫作|índice de dos cifras|enlace de accesibilidad/i
 const STOP_IDS = ['arrival', 'senbon-torii', 'path-pauses', 'yotsutsuji', 'summit', 'descent']
 
-test('draft-only locale path helper lists six locales without editing the live sitemap', () => {
-  const paths = fushimiI18nPathnames()
-  assert.equal(paths.length, 42)
+test('live sitemap lists official trailing-slash URLs including Fushimi locale pages', () => {
+  const localePaths = fushimiI18nPathnames()
+  assert.equal(localePaths.length, 42)
   const xml = readFileSync(new URL('../public/sitemap.xml', import.meta.url), 'utf8')
-  assert.doesNotMatch(xml, /\/ja\/temple\/fushimi-inari/)
+  const locs = [...xml.matchAll(/<loc>\s*([^<\s]+)\s*<\/loc>/g)].map((match) => match[1])
+  assert.equal(locs.length, 2158)
+  assert.equal(locs.length, new Set(locs).size)
+  for (const loc of locs) {
+    assert.ok(loc.startsWith('https://sanctaway.com/'), loc)
+    assert.ok(loc.endsWith('/'), loc)
+  }
+  for (const path of localePaths) {
+    assert.ok(locs.includes(`https://sanctaway.com${path}`), path)
+  }
+  const unexpected = locs.filter((loc) =>
+    /https:\/\/sanctaway\.com\/(ja|zh-hant|zh-hans|ko|es|th)\//.test(loc) &&
+    !loc.includes('/temple/fushimi-inari/'),
+  )
+  assert.deepEqual(unexpected, [])
 })
 
 test('each locale dataset matches the English tour shape and keeps the admission FLAG', () => {

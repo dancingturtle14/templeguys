@@ -21,9 +21,9 @@ test('templeJsonLd emits TouristAttraction + BreadcrumbList without invented Off
   assert.deepEqual(types, ['TouristAttraction', 'BreadcrumbList'])
 
   const place = doc['@graph'][0]
-  assert.equal(place['@id'], `${SITE}/temple/angkor-wat#place`)
+  assert.equal(place['@id'], `${SITE}/temple/angkor-wat/#place`)
   assert.equal(place.name, 'Angkor Wat')
-  assert.equal(place.url, `${SITE}/temple/angkor-wat`)
+  assert.equal(place.url, `${SITE}/temple/angkor-wat/`)
   assert.equal(place.description, angkor.summary)
   assert.equal(place.address.addressCountry, 'Cambodia')
   assert.equal(place.address.addressLocality, angkor.location)
@@ -35,7 +35,7 @@ test('templeJsonLd emits TouristAttraction + BreadcrumbList without invented Off
   const crumbs = doc['@graph'][1].itemListElement
   assert.equal(crumbs.length, 3)
   assert.equal(crumbs[0].name, 'Home')
-  assert.equal(crumbs[2].item, `${SITE}/temple/angkor-wat`)
+  assert.equal(crumbs[2].item, `${SITE}/temple/angkor-wat/`)
 })
 
 test('chapter crumb appends when not overview', () => {
@@ -44,7 +44,7 @@ test('chapter crumb appends when not overview', () => {
   const crumbs = doc['@graph'][1].itemListElement
   assert.equal(crumbs.length, 4)
   assert.equal(crumbs[3].name, 'Visit')
-  assert.equal(crumbs[3].item, `${SITE}/temple/angkor-wat/visit`)
+  assert.equal(crumbs[3].item, `${SITE}/temple/angkor-wat/visit/`)
 })
 
 test('isAccessibleForFree only when entryType is free', () => {

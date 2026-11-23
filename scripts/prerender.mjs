@@ -24,7 +24,7 @@ if (!template.includes('GTM-TF6HFGXT')) {
 }
 
 const sitemap = readFileSync(join(root, 'public', 'sitemap.xml'), 'utf8')
-const paths = [...sitemapPathnames(sitemap), ...fushimiI18nPathnames()]
+const paths = [...new Set([...sitemapPathnames(sitemap), ...fushimiI18nPathnames()])]
 
 const entryName = readdirSync(ssrDir).find((name) => /^entry-server\.(js|mjs)$/.test(name))
 if (!entryName) {
@@ -83,7 +83,7 @@ if (wall.includes('<div id="root"></div>')) {
   process.exit(1)
 }
 
-const hubPaths = paths.filter((pathname) => /^\/(?:region|religion)\/[^/]+$/.test(pathname))
+const hubPaths = paths.filter((pathname) => /^\/(?:region|religion)\/[^/]+\/?$/.test(pathname))
 if (hubPaths.length === 0) {
   console.error('sitemap has no /region or /religion hub routes to prerender')
   process.exit(1)

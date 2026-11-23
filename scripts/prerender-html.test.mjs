@@ -4,6 +4,8 @@ import { test } from 'node:test'
 import { createJiti } from 'jiti'
 import {
   applyShell,
+  canonicalUrl,
+  fushimiI18nPathnames,
   pageOutputPath,
   sitemapPathnames,
 } from './prerender-html.mjs'
@@ -65,11 +67,11 @@ test('applyShell injects title, description, canonical, and body without droppin
     html: '<main><h1>Western Wall (Kotel)</h1><p>Open 24 hours after security.</p></main>',
     title: 'Western Wall (Kotel) — SanctaWay',
     description: 'Hours and how to get there.',
-    canonical: 'https://sanctaway.com/temple/western-wall',
+    canonical: 'https://sanctaway.com/temple/western-wall/',
   })
   assert.match(page, /<title>Western Wall \(Kotel\) — SanctaWay<\/title>/)
   assert.match(page, /<meta name="description" content="Hours and how to get there\." \/>/)
-  assert.match(page, /<link rel="canonical" href="https:\/\/sanctaway\.com\/temple\/western-wall" \/>/)
+  assert.match(page, /<link rel="canonical" href="https:\/\/sanctaway\.com\/temple\/western-wall\/" \/>/)
   assert.match(page, /<h1>Western Wall \(Kotel\)<\/h1>/)
   assert.match(page, /Open 24 hours after security/)
   assert.doesNotMatch(page, /<div id="root"><\/div>/)
@@ -81,8 +83,8 @@ test('sitemap lists every region and religion hub', () => {
   const xml = readFileSync(new URL('../public/sitemap.xml', import.meta.url), 'utf8')
   const paths = new Set(sitemapPathnames(xml))
   const hubs = [
-    ...regions.map((region) => `/region/${region.slug}`),
-    ...religions.map((religion) => `/religion/${religion.slug}`),
+    ...regions.map((region) => `/region/${region.slug}/`),
+    ...religions.map((religion) => `/religion/${religion.slug}/`),
   ]
   const missing = hubs.filter((path) => !paths.has(path))
   assert.deepEqual(missing, [])
@@ -93,8 +95,39 @@ test('applyShell escapes meta text', () => {
     html: '<p>OK</p>',
     title: 'A & B',
     description: 'Say "hello"',
-    canonical: 'https://sanctaway.com/about',
+    canonical: 'https://sanctaway.com/about/',
   })
   assert.match(page, /<title>A &amp; B<\/title>/)
   assert.match(page, /content="Say &quot;hello&quot;"/)
+})
+
+test('canonicalUrl uses official trailing-slash URLs', () => {
+  assert.equal(canonicalUrl('/'), 'https://sanctaway.com/')
+  assert.equal(canonicalUrl('/explore'), 'https://sanctaway.com/explore/')
+  assert.equal(canonicalUrl('/explore/'), 'https://sanctaway.com/explore/')
+  assert.equal(canonicalUrl('/temple/western-wall'), 'https://sanctaway.com/temple/western-wall/')
+  assert.equal(canonicalUrl('/temple/western-wall/getting-there/'), 'https://sanctaway.com/temple/western-wall/getting-there/')
+  assert.equal(canonicalUrl('/ja/temple/fushimi-inari/tour/'), 'https://sanctaway.com/ja/temple/fushimi-inari/tour/')
+})
+
+test('sitemap lists trailing-slash official URLs including live Fushimi locale pages', () => {
+  const xml = readFileSync(new URL('../public/sitemap.xml', import.meta.url), 'utf8')
+  const paths = sitemapPathnames(xml)
+  assert.equal(paths.length, 2158)
+  assert.equal(paths.length, new Set(paths).size)
+  for (const path of paths) {
+    assert.ok(path.startsWith('/'), path)
+    assert.ok(path.endsWith('/'), path)
+  }
+  const localePaths = fushimiI18nPathnames()
+  assert.equal(localePaths.length, 42)
+  const set = new Set(paths)
+  for (const path of localePaths) {
+    assert.ok(set.has(path), path)
+  }
+  const unexpected = paths.filter(
+    (path) =>
+      /^\/(ja|zh-hant|zh-hans|ko|es|th)\//.test(path) && !path.includes('/temple/fushimi-inari/'),
+  )
+  assert.deepEqual(unexpected, [])
 })

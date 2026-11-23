@@ -79,11 +79,11 @@ test('routeToUrl emits trailing-slash tour hrefs and prefixes only locale Fushim
   for (const locale of LOCALES) {
     assert.equal(
       routeToUrl({ name: 'temple', id: 'fushimi-inari', chapter: 'overview', locale }),
-      `/${locale}/temple/fushimi-inari`,
+      `/${locale}/temple/fushimi-inari/`,
     )
     assert.equal(
       routeToUrl({ name: 'temple', id: 'fushimi-inari', chapter: 'visit', locale }),
-      `/${locale}/temple/fushimi-inari/visit`,
+      `/${locale}/temple/fushimi-inari/visit/`,
     )
     assert.equal(
       routeToUrl({ name: 'temple-tour', id: 'fushimi-inari', locale }),
@@ -100,9 +100,9 @@ test('Walk / chapter links inherit the current Fushimi locale', () => {
 
   const visit = inheritLocale(current, { name: 'temple', id: 'fushimi-inari', chapter: 'visit' })
   assert.equal(visit.locale, 'ja')
-  assert.equal(routeToUrl(visit), '/ja/temple/fushimi-inari/visit')
+  assert.equal(routeToUrl(visit), '/ja/temple/fushimi-inari/visit/')
 
   const senso = inheritLocale(current, { name: 'temple', id: 'senso-ji', chapter: 'overview' })
   assert.equal(senso.locale, undefined)
-  assert.equal(routeToUrl(senso), '/temple/senso-ji')
+  assert.equal(routeToUrl(senso), '/temple/senso-ji/')
 })

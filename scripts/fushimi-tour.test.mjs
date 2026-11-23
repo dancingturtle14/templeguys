@@ -143,8 +143,8 @@ test('tour page renders step player, schematic map, stop photos, closed summit',
   assert.match(html, /id="pauses-otsuka"/)
   assert.match(html, /id="summit-omokaru"/)
   assert.match(html, /omokaru/)
-  assert.match(html, /href="\/temple\/fushimi-inari\/etiquette"/)
-  assert.match(html, /href="\/temple\/fushimi-inari\/getting-there"/)
+  assert.match(html, /href="\/temple\/fushimi-inari\/etiquette\/"/)
+  assert.match(html, /href="\/temple\/fushimi-inari\/getting-there\/"/)
   assert.match(html, /https:\/\/inari\.jp\/en\//)
 })
 

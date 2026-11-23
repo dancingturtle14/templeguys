@@ -25,7 +25,7 @@ export function templeJsonLd(
   temple: Temple,
   chapter: TempleChapter = 'overview',
 ): { '@context': string; '@graph': JsonLdNode[] } {
-  const pageUrl = `${SITE}/temple/${temple.id}`
+  const pageUrl = `${SITE}/temple/${temple.id}/`
   const placeId = `${pageUrl}#place`
 
   const image: JsonLdNode | string = temple.heroCredit
@@ -77,19 +77,19 @@ export function templeJsonLd(
 
   const crumbs: { name: string; item: string }[] = [
     { name: 'Home', item: `${SITE}/` },
-    { name: 'Explore', item: `${SITE}/explore` },
+    { name: 'Explore', item: `${SITE}/explore/` },
     { name: temple.name, item: pageUrl },
   ]
   if (chapter !== 'overview') {
     crumbs.push({
       name: chapterLabel(chapter),
-      item: `${pageUrl}/${chapter}`,
+      item: `${pageUrl}${chapter}/`,
     })
   }
 
   const breadcrumb: JsonLdNode = {
     '@type': 'BreadcrumbList',
-    '@id': `${chapter === 'overview' ? pageUrl : `${pageUrl}/${chapter}`}#breadcrumb`,
+    '@id': `${chapter === 'overview' ? pageUrl : `${pageUrl}${chapter}/`}#breadcrumb`,
     itemListElement: crumbs.map((c, i) => ({
       '@type': 'ListItem',
       position: i + 1,

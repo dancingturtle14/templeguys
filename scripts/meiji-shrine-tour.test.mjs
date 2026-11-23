@@ -114,10 +114,10 @@ test('meiji-shrine tour page renders step player, stop photos, Prev / count / Ne
   assert.match(html, /Harajuku Gate/)
   assert.match(html, /Ōtorii/)
   assert.match(html, /Minami Shinmon/)
-  assert.match(html, /href="\/temple\/meiji-shrine\/etiquette"/)
-  assert.match(html, /href="\/temple\/meiji-shrine\/getting-there"/)
+  assert.match(html, /href="\/temple\/meiji-shrine\/etiquette\/"/)
+  assert.match(html, /href="\/temple\/meiji-shrine\/getting-there\/"/)
   assert.match(html, /https:\/\/www\.meijijingu\.or\.jp\//)
-  assert.doesNotMatch(html, /href="\/temple\/fushimi-inari\/etiquette"/)
+  assert.doesNotMatch(html, /href="\/temple\/fushimi-inari\/etiquette\/"/)
 })
 
 test('meiji-shrine overview adds one Walk card with a trailing-slash href; visit does not', () => {

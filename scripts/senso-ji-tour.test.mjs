@@ -114,10 +114,10 @@ test('senso-ji tour page renders step player, stop photos, Prev / count / Next o
   assert.match(html, /Kaminarimon/)
   assert.match(html, /Hōzōmon/)
   assert.match(html, /Namu Kanzeon Bosatsu/)
-  assert.match(html, /href="\/temple\/senso-ji\/etiquette"/)
-  assert.match(html, /href="\/temple\/senso-ji\/getting-there"/)
+  assert.match(html, /href="\/temple\/senso-ji\/etiquette\/"/)
+  assert.match(html, /href="\/temple\/senso-ji\/getting-there\/"/)
   assert.match(html, /https:\/\/www\.senso-ji\.jp\//)
-  assert.doesNotMatch(html, /href="\/temple\/fushimi-inari\/etiquette"/)
+  assert.doesNotMatch(html, /href="\/temple\/fushimi-inari\/etiquette\/"/)
 })
 
 test('senso-ji overview adds one Walk card with a trailing-slash href; visit does not', () => {

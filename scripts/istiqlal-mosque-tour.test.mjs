@@ -116,8 +116,8 @@ test('istiqlal-mosque tour page renders step player, stop photos, Prev / count /
   assert.doesNotMatch(html, /Harajuku Gate/)
   assert.doesNotMatch(html, /Ōtorii/)
   assert.doesNotMatch(html, /Minami Shinmon/)
-  assert.doesNotMatch(html, /href="\/temple\/meiji-shrine\/etiquette"/)
-  assert.doesNotMatch(html, /href="\/temple\/fushimi-inari\/etiquette"/)
+  assert.doesNotMatch(html, /href="\/temple\/meiji-shrine\/etiquette\/"/)
+  assert.doesNotMatch(html, /href="\/temple\/fushimi-inari\/etiquette\/"/)
 })
 
 test('istiqlal-mosque overview adds one Walk card with a trailing-slash href; visit does not', () => {
@@ -164,10 +164,10 @@ test('istiqlal-mosque tour has official istiqlal.or.id links', () => {
 
 test('istiqlal-mosque chapter hrefs are etiquette and getting-there', () => {
   const overview = render('/temple/istiqlal-mosque').html
-  assert.match(overview, /href="\/temple\/istiqlal-mosque\/etiquette"/)
-  assert.match(overview, /href="\/temple\/istiqlal-mosque\/getting-there"/)
-  assert.doesNotMatch(overview, /href="\/temple\/meiji-shrine\/etiquette"/)
-  assert.doesNotMatch(overview, /href="\/temple\/fushimi-inari\/etiquette"/)
+  assert.match(overview, /href="\/temple\/istiqlal-mosque\/etiquette\/"/)
+  assert.match(overview, /href="\/temple\/istiqlal-mosque\/getting-there\/"/)
+  assert.doesNotMatch(overview, /href="\/temple\/meiji-shrine\/etiquette\/"/)
+  assert.doesNotMatch(overview, /href="\/temple\/fushimi-inari\/etiquette\/"/)
 })
 
 test('istiqlal-mosque visit has no tour href', () => {

@@ -114,6 +114,15 @@ export function inheritLocale(current: Route, next: Route): Route {
   return next
 }
 
+/** Official app paths end with a trailing slash; query strings stay after it. */
+function withTrailingSlash(path: string): string {
+  const q = path.indexOf('?')
+  const pathname = q === -1 ? path : path.slice(0, q)
+  const search = q === -1 ? '' : path.slice(q)
+  if (pathname === '/') return pathname + search
+  return (pathname.endsWith('/') ? pathname : `${pathname}/`) + search
+}
+
 export function routeToUrl(route: Route): string {
   let path: string
   switch (route.name) {
@@ -158,7 +167,7 @@ export function routeToUrl(route: Route): string {
     path = `/${route.locale}${path}`
   }
 
-  return withBase(path)
+  return withBase(withTrailingSlash(path))
 }
 
 type RouterCtx = {

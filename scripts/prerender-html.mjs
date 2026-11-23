@@ -78,11 +78,13 @@ export function applyShell(template, { html, title, description, canonical, lang
 
 export function canonicalUrl(pathname) {
   const path = pathname.split('?')[0]
-  const clean = path === '/' ? '/' : path.replace(/\/+$/, '') || '/'
-  return new URL(clean, SITE).href
+  if (path === '/' || path === '') return `${SITE}/`
+  const clean = `/${path.replace(/^\/+/, '').replace(/\/+$/, '')}/`
+  return `${SITE}${clean}`
 }
 
-/** Draft-only Fushimi locale paths. Not written into public/sitemap.xml. */
+
+/** Fushimi locale paths, written into public/sitemap.xml. */
 export function fushimiI18nPathnames() {
   const locales = ['ja', 'zh-hant', 'zh-hans', 'ko', 'es', 'th']
   const chapters = ['visit', 'etiquette', 'getting-there', 'best-time', 'notes']

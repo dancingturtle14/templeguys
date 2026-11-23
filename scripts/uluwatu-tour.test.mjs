@@ -113,8 +113,8 @@ test('uluwatu tour page renders step player, stop photos, Prev / count / Next on
   assert.doesNotMatch(html, /Harajuku Gate/)
   assert.doesNotMatch(html, /Ōtorii/)
   assert.doesNotMatch(html, /Minami Shinmon/)
-  assert.doesNotMatch(html, /href="\/temple\/meiji-shrine\/etiquette"/)
-  assert.doesNotMatch(html, /href="\/temple\/fushimi-inari\/etiquette"/)
+  assert.doesNotMatch(html, /href="\/temple\/meiji-shrine\/etiquette\/"/)
+  assert.doesNotMatch(html, /href="\/temple\/fushimi-inari\/etiquette\/"/)
 })
 
 test('uluwatu overview adds one Walk card with a trailing-slash href; visit does not', () => {
@@ -161,10 +161,10 @@ test('uluwatu tour has official uluwatutemple.id links', () => {
 
 test('uluwatu chapter hrefs are etiquette and getting-there', () => {
   const overview = render('/temple/uluwatu').html
-  assert.match(overview, /href="\/temple\/uluwatu\/etiquette"/)
-  assert.match(overview, /href="\/temple\/uluwatu\/getting-there"/)
-  assert.doesNotMatch(overview, /href="\/temple\/meiji-shrine\/etiquette"/)
-  assert.doesNotMatch(overview, /href="\/temple\/fushimi-inari\/etiquette"/)
+  assert.match(overview, /href="\/temple\/uluwatu\/etiquette\/"/)
+  assert.match(overview, /href="\/temple\/uluwatu\/getting-there\/"/)
+  assert.doesNotMatch(overview, /href="\/temple\/meiji-shrine\/etiquette\/"/)
+  assert.doesNotMatch(overview, /href="\/temple\/fushimi-inari\/etiquette\/"/)
 })
 
 test('uluwatu visit has no tour href', () => {

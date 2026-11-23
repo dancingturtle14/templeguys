@@ -143,9 +143,10 @@ test('Non-Uluwatu pages do not get Uluwatu keywords: Fushimi EN overview keeps F
   assert.ok(!fushimi.keywords.some((k) => /Uluwatu Temple|Pura Luhur/.test(k)))
 })
 
-test('Istiqlal overview still has no keywords', () => {
+test('Istiqlal overview has keywords from the Istiqlal pack', () => {
   const istiqlal = render('/temple/istiqlal-mosque/')
-  assert.ok(!istiqlal.keywords || istiqlal.keywords.length === 0)
+  assert.ok(istiqlal.keywords && istiqlal.keywords.length > 0)
+  assert.ok(!istiqlal.keywords.some((k) => /Uluwatu Temple|Pura Luhur/.test(k)))
 })
 test('Uluwatu tour keywords equal the Uluwatu pack, not a Fushimi / Sensō-ji / Meiji pack', () => {
   const uluwatuTour = render('/temple/uluwatu/tour/')

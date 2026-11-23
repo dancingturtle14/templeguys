@@ -1,0 +1,121 @@
+{
+  "generated": "2026-11-23",
+  "timezone": "Asia/Hong_Kong",
+  "site": "SanctaWay",
+  "attraction": "istiqlal-mosque",
+  "note": "English Istiqlal per-page SEO pack; drafted 2026-11-23, aligned to official sources; conflicts marked, no free admission",
+  "packs": [
+    {
+      "locale": "en",
+      "page": "overview",
+      "path": "/temple/istiqlal-mosque/",
+      "title": "Istiqlal Mosque (Masjid Istiqlal), Jakarta — SanctaWay",
+      "meta": "Indonesia’s national mosque in Central Jakarta, opposite Jakarta Cathedral. Open daily, no admission fee to enter; tourist hours can differ from prayer.",
+      "keywords": [
+        "Istiqlal Mosque",
+        "Masjid Istiqlal",
+        "national mosque of Indonesia",
+        "Jakarta Cathedral",
+        "Central Jakarta mosque",
+        "mosque visiting hours",
+        "no admission fee"
+      ]
+    },
+    {
+      "locale": "en",
+      "page": "visit",
+      "path": "/temple/istiqlal-mosque/visit/",
+      "title": "Visiting Istiqlal Mosque: Hours and Entry — SanctaWay",
+      "meta": "Open daily: Masjid Istiqlal welcomes visitors, but tourist hours can differ from prayer and religious events. No admission fee to enter; confirm on the day.",
+      "keywords": [
+        "Istiqlal Mosque visiting hours",
+        "Masjid Istiqlal entry",
+        "visit Istiqlal Mosque",
+        "Jakarta mosque visit",
+        "open daily mosque",
+        "no admission fee",
+        "tourist visiting hours"
+      ]
+    },
+    {
+      "locale": "en",
+      "page": "etiquette",
+      "path": "/temple/istiqlal-mosque/etiquette/",
+      "title": "Istiqlal Mosque Dress Code and Etiquette — SanctaWay",
+      "meta": "Shoes off; modest dress covering aurat; women wear a jilbab or selendang. Non-Muslims may not enter the main prayer hall; upper hallways and terraces are visitable.",
+      "keywords": [
+        "Istiqlal Mosque dress code",
+        "mosque etiquette Jakarta",
+        "cover aurat",
+        "jilbab selendang",
+        "shoes off mosque",
+        "main prayer hall access",
+        "upper hallways terraces"
+      ]
+    },
+    {
+      "locale": "en",
+      "page": "getting-there",
+      "path": "/temple/istiqlal-mosque/getting-there/",
+      "title": "How to Reach Istiqlal Mosque by Train and Bus — SanctaWay",
+      "meta": "KRL Commuter Line to Stasiun Juanda, then walk; TransJakarta at Halte Juanda or Halte Istiqlal. MRT, then onward toward Pasar Baru; car via Jalan Veteran.",
+      "keywords": [
+        "Istiqlal Mosque getting there",
+        "Stasiun Juanda KRL",
+        "Halte Juanda TransJakarta",
+        "Halte Istiqlal",
+        "MRT onward to Pasar Baru",
+        "Jalan Veteran approach",
+        "Jakarta mosque transport"
+      ]
+    },
+    {
+      "locale": "en",
+      "page": "best-time",
+      "path": "/temple/istiqlal-mosque/best-time/",
+      "title": "Istiqlal Mosque Best Time to Visit: Worship — SanctaWay",
+      "meta": "No official best month is published. Friday congregational prayer and Eid are the major worship events; Ramadan hours are year-specific, so check the notice.",
+      "keywords": [
+        "best time to visit Istiqlal Mosque",
+        "Friday prayer Istiqlal",
+        "Eid at Istiqlal",
+        "Ramadan visiting hours",
+        "Istiqlal Mosque timing",
+        "Jakarta mosque calendar",
+        "year-specific Ramadan hours"
+      ]
+    },
+    {
+      "locale": "en",
+      "page": "notes",
+      "path": "/temple/istiqlal-mosque/notes/",
+      "title": "Istiqlal Mosque Visitor Notes and Contacts — SanctaWay",
+      "meta": "Contacts and re-checks for Istiqlal Mosque. SIAPMI contact hours are 04:00–22:00, not visiting hours; tourist hours can differ. SanctaWay does not sell tickets.",
+      "keywords": [
+        "Istiqlal Mosque contacts",
+        "SIAPMI contact hours",
+        "Istiqlal Mosque visitor notes",
+        "mosque re-check advice",
+        "SanctaWay no ticket sales",
+        "Istiqlal Mosque phone",
+        "Jakarta mosque information"
+      ]
+    },
+    {
+      "locale": "en",
+      "page": "tour",
+      "path": "/temple/istiqlal-mosque/tour/",
+      "title": "On Foot at Istiqlal Mosque: Six Stops — SanctaWay",
+      "meta": "On foot at Masjid Istiqlal: approach gates, entry etiquette, upper hallways, founding history, the Silaturahmi cathedral link, and visiting hours.",
+      "keywords": [
+        "Istiqlal Mosque on foot",
+        "six-stop Istiqlal walk",
+        "Istiqlal Mosque approach gates",
+        "Silaturahmi cathedral link",
+        "Istiqlal Mosque history",
+        "Istiqlal Mosque tour",
+        "upper hallways walk"
+      ]
+    }
+  ]
+}

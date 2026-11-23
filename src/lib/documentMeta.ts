@@ -8,6 +8,7 @@ import { fushimiSeoFromRoute } from './fushimi-seo'
 import { sensoJiSeoFromRoute } from './senso-ji-seo'
 import { meijiShrineSeoFromRoute } from './meiji-shrine-seo'
 import { uluwatuSeoFromRoute } from './uluwatu-seo'
+import { istiqlalMosqueSeoFromRoute } from './istiqlal-mosque-seo'
 
 const BRAND = 'SanctaWay'
 const HOME_TITLE = 'SanctaWay — Visit guides to the world’s sacred places'
@@ -107,6 +108,17 @@ export function metaForRoute(route: Route): { title: string; description: string
       title: uluwatu.title,
       description: uluwatu.meta,
       keywords: uluwatu.keywords,
+    }
+  }
+
+  // Check if this is an Istiqlal Mosque route via the new lookup
+  const istiqlal = istiqlalMosqueSeoFromRoute(route)
+  if (istiqlal) {
+    // Istiqlal Mosque: return exact pack values, NO clipping
+    return {
+      title: istiqlal.title,
+      description: istiqlal.meta,
+      keywords: istiqlal.keywords,
     }
   }
 

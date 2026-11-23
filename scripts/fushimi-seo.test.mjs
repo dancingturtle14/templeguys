@@ -73,7 +73,8 @@ test('Walk href on each Fushimi overview keeps the trailing-slash tour path', ()
 
 test('non-Fushimi pages do not get Fushimi keywords', () => {
   const istiqlal = render('/temple/istiqlal-mosque/')
-  assert.ok(!istiqlal.keywords || istiqlal.keywords.length === 0)
+  assert.ok(istiqlal.keywords && istiqlal.keywords.length > 0)
+  assert.ok(!istiqlal.keywords.some((k) => /Fushimi Inari|Senbon Torii|Inariyama/.test(k)))
   const meiji = render('/temple/meiji-shrine/tour/')
   assert.ok(meiji.keywords && meiji.keywords.length > 0)
   assert.ok(!meiji.keywords.some((k) => /Fushimi Inari|Senbon Torii|Inariyama/.test(k)))

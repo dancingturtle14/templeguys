@@ -7,6 +7,7 @@ import type { Locale, Route, TempleChapter } from '../types'
 import { fushimiSeoFromRoute } from './fushimi-seo'
 import { sensoJiSeoFromRoute } from './senso-ji-seo'
 import { meijiShrineSeoFromRoute } from './meiji-shrine-seo'
+import { uluwatuSeoFromRoute } from './uluwatu-seo'
 
 const BRAND = 'SanctaWay'
 const HOME_TITLE = 'SanctaWay — Visit guides to the world’s sacred places'
@@ -95,6 +96,17 @@ export function metaForRoute(route: Route): { title: string; description: string
       title: meiji.title,
       description: meiji.meta,
       keywords: meiji.keywords,
+    }
+  }
+
+  // Check if this is a Uluwatu route via the new lookup
+  const uluwatu = uluwatuSeoFromRoute(route)
+  if (uluwatu) {
+    // Uluwatu: return exact pack values, NO clipping
+    return {
+      title: uluwatu.title,
+      description: uluwatu.meta,
+      keywords: uluwatu.keywords,
     }
   }
 

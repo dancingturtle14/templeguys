@@ -1,0 +1,123 @@
+{
+  "generated": "2026-11-23",
+  "timezone": "Asia/Hong_Kong",
+  "site": "SanctaWay",
+  "attraction": "uluwatu",
+  "locale": "en",
+  "note": "English Uluwatu per-page SEO pack; drafted 2026-11-23, aligned to official sources; conflicts marked, no free admission",
+  "packs": [
+    {
+      "locale": "en",
+      "page": "overview",
+      "path": "/temple/uluwatu/",
+      "title": "Pura Luhur Uluwatu, Bali: Cliffside Sea Temple — SanctaWay",
+      "meta": "Pura Luhur Uluwatu is a Sad Kahyangan sea temple on a 70 m limestone cliff in Pecatu, South Kuta. Open daily 07:00–19:00 WITA. Paid entry at the official booth.",
+      "keywords": [
+        "Pura Luhur Uluwatu",
+        "Uluwatu Temple",
+        "Sad Kahyangan",
+        "Pecatu",
+        "South Kuta",
+        "Bali sea temple",
+        "limestone cliff temple"
+      ]
+    },
+    {
+      "locale": "en",
+      "page": "visit",
+      "path": "/temple/uluwatu/visit/",
+      "title": "Uluwatu Temple Opening Hours and IDR Fares — SanctaWay",
+      "meta": "Uluwatu Temple opens daily 07:00–19:00 WITA. Paid entry at the official booth: international adult/child IDR 60,000/40,000, domestic 40,000/30,000; fares can change.",
+      "keywords": [
+        "Uluwatu Temple hours",
+        "Uluwatu Temple entry fee",
+        "Uluwatu Temple admission",
+        "official ticket booth",
+        "Uluwatu opening hours 07:00",
+        "Uluwatu Temple ticket prices",
+        "domestic and international fares"
+      ]
+    },
+    {
+      "locale": "en",
+      "page": "etiquette",
+      "path": "/temple/uluwatu/etiquette/",
+      "title": "What to Wear at Uluwatu Temple: Sarong, Sash — SanctaWay",
+      "meta": "Sarong and sash are required at Uluwatu Temple and provided at the entrance. Cover shoulders and knees, respect restricted inner areas, and watch for monkeys.",
+      "keywords": [
+        "Uluwatu Temple dress code",
+        "sarong and sash",
+        "temple etiquette Bali",
+        "shoulders and knees",
+        "restricted inner shrine",
+        "monkey precautions",
+        "cliff safety"
+      ]
+    },
+    {
+      "locale": "en",
+      "page": "getting-there",
+      "path": "/temple/uluwatu/getting-there/",
+      "title": "Uluwatu Temple: Kuta and Airport Drive Times — SanctaWay",
+      "meta": "Uluwatu Temple is about 30 km from Denpasar: roughly 45 minutes from Kuta or Seminyak, 45 minutes to an hour from the airport, and 1.5–2 hours from Ubud.",
+      "keywords": [
+        "Uluwatu Temple directions",
+        "Denpasar to Uluwatu",
+        "Kuta to Uluwatu",
+        "Seminyak to Uluwatu",
+        "Ubud to Uluwatu",
+        "Uluwatu Temple travel time",
+        "airport to Uluwatu"
+      ]
+    },
+    {
+      "locale": "en",
+      "page": "best-time",
+      "path": "/temple/uluwatu/best-time/",
+      "title": "Uluwatu Temple Best Time for Kecak: Before 17:00 — SanctaWay",
+      "meta": "Uluwatu Temple is open daily 07:00–19:00 WITA. For Kecak, the gate opens at 16:00 and the show runs 18:00–19:00; arrive at the temple before 17:00.",
+      "keywords": [
+        "best time to visit Uluwatu Temple",
+        "Uluwatu sunset",
+        "Kecak show times",
+        "Kecak 18:00",
+        "arrive before 17:00",
+        "Uluwatu Temple opening hours",
+        "Bali sunset temple"
+      ]
+    },
+    {
+      "locale": "en",
+      "page": "notes",
+      "path": "/temple/uluwatu/notes/",
+      "title": "Uluwatu Temple Notes: Monkeys, Cliffs, Cash — SanctaWay",
+      "meta": "Uluwatu Temple notes: modest dress, sarong and sash at the entrance, monkey precautions, cliff safety, and cash for the separately ticketed Kecak show.",
+      "keywords": [
+        "Uluwatu Temple tips",
+        "Uluwatu Temple monkeys",
+        "cliff safety Uluwatu",
+        "cash for Kecak",
+        "Kecak ticket separate",
+        "Uluwatu Temple practical notes",
+        "Bali temple safety"
+      ]
+    },
+    {
+      "locale": "en",
+      "page": "tour",
+      "path": "/temple/uluwatu/tour/",
+      "title": "Uluwatu Temple on Foot: Six Stops to Kecak — SanctaWay",
+      "meta": "Uluwatu Temple on foot: main gate and official ticket booth, sacred forest, cliffside pathways, temple history, restricted inner shrine, and Kecak amphitheatre.",
+      "keywords": [
+        "Uluwatu Temple walk",
+        "Uluwatu Temple on foot",
+        "sacred forest Uluwatu",
+        "cliffside pathways",
+        "Kecak amphitheatre",
+        "temple history Uluwatu",
+        "restricted inner shrine",
+        "six stop walk"
+      ]
+    }
+  ]
+}

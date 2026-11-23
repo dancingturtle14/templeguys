@@ -75,7 +75,7 @@ test('uluwatu tour data is six stable stops with official-style copy and a photo
 test('uluwatu tour page renders step player, stop photos, Prev / count / Next only', () => {
   const { html, title } = render('/temple/uluwatu/tour/')
   assert.equal(render('/temple/uluwatu/tour').title, title)
-  assert.match(title, /Pura Luhur Uluwatu/)
+  assert.match(title, /Uluwatu Temple on Foot/)
   assert.match(html, /Pura Luhur Uluwatu on foot/)
   assert.match(html, /step player/)
   assert.match(html, /aria-label="Walk stops"/)

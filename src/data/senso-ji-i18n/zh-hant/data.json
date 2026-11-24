@@ -118,12 +118,12 @@
     "officialHref": "https://www.senso-ji.jp/",
     "mapsUrl": "https://www.google.com/maps/dir/?api=1&destination=Senso-ji,+2-3-1+Asakusa,+Taito+City,+Tokyo&travelmode=walking",
     "mapsCta": "在 Google 地圖開啟步行路線",
-    "routeLabel": "雷門—仲見世—寶藏門—手水舍—本堂—五重塔",
+    "routeLabel": "路線",
     "endCopy": "雷門、仲見世、寶藏門、手水舍與本堂，對大多數人來說已經是一趟完整的參拜。五重塔在境內外望，不是順道攀登的路線。",
     "walkCardTitle": "用雙腳，一站一站走 →",
     "walkCardLede": "沿雷門—仲見世—本堂一軸的六站，含必看景點與具名物件。五重塔在境內外望。",
     "endHeading": "雷門、仲見世、寶藏門、手水舍與本堂，對大多數人來說已經是一趟完整的參拜。五重塔在境內外望，不是順道攀登的路線。",
-    "walkKicker": "",
+    "walkKicker": "步行",
     "walkHref": "/zh-hant/temple/senso-ji/tour/"
   },
   "stops": [
@@ -614,6 +614,9 @@
     "object": "物件",
     "traditional_story": "傳統故事",
     "practice": "守則／做法",
-    "walk_href": "/zh-hant/temple/senso-ji/tour/"
+    "walk_href": "/zh-hant/temple/senso-ji/tour/",
+    "stop_pattern": "第 {n} 站",
+    "route_label": "路線",
+    "walk_kicker": "步行"
   }
 }

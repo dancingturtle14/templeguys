@@ -119,12 +119,12 @@
     "officialHref": "https://www.senso-ji.jp/",
     "mapsUrl": "https://www.google.com/maps/dir/?api=1&destination=Senso-ji,+2-3-1+Asakusa,+Taito+City,+Tokyo&travelmode=walking",
     "mapsCta": "구글 지도에서 도보 길찾기 열기",
-    "routeLabel": "",
+    "routeLabel": "경로",
     "endCopy": "가미나리몬, 나카미세, 호조몬, 오미즈야, 본당 — 이 다섯 곳이 대부분의 사람에게 완결된 관람 코스입니다. 오중탑은 가볍게 오르는 길이 아니라 경내에서 올려다보는 것이 원칙입니다.",
     "walkCardTitle": "걸어서, 한 정거장씩 →",
     "walkCardLede": "가미나리몬에서 나카미세, 본당으로 이어지는 여섯 정거장. 꼭 봐야 할 명소와 이름 있는 사물들을 짚습니다. 오중탑은 경내에서 올려다봅니다.",
     "endHeading": "걷기 마무리",
-    "walkKicker": "",
+    "walkKicker": "도보",
     "walkHref": "/ko/temple/senso-ji/tour/"
   },
   "stops": [
@@ -615,6 +615,9 @@
     "object": "사물",
     "traditional_story": "전통 이야기",
     "practice": "예법 / 실천",
-    "walk_href": "/ko/temple/senso-ji/tour/"
+    "walk_href": "/ko/temple/senso-ji/tour/",
+    "stop_pattern": "정거장 {n}",
+    "route_label": "경로",
+    "walk_kicker": "도보"
   }
 }

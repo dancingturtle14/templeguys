@@ -118,12 +118,12 @@
     "officialHref": "https://www.senso-ji.jp/",
     "mapsUrl": "https://www.google.com/maps/dir/?api=1&destination=Senso-ji,+2-3-1+Asakusa,+Taito+City,+Tokyo&travelmode=walking",
     "mapsCta": "Googleマップで徒歩ルートを開く",
-    "routeLabel": "雷門 → 仲見世 → 宝蔵門 → 本堂 → 五重塔",
+    "routeLabel": "ルート",
     "endCopy": "雷門、仲見世、宝蔵門、お水舎、そして本堂。ここまでで、たいていの方は一度の参拝として十分な巡りになります。五重塔は境内から眺めるもので、気軽に登る道ではありません。",
     "walkCardTitle": "歩いて、立ち寄り先ごとに →",
     "walkCardLede": "雷門から仲見世、本堂へと続く軸線に沿った六つの立ち寄り先。見どころと、名前のある造作を挙げています。五重塔は境内から眺める形になります。",
     "endHeading": "散策の終わりに",
-    "walkKicker": "",
+    "walkKicker": "徒歩",
     "walkHref": "/ja/temple/senso-ji/tour/"
   },
   "stops": [
@@ -607,6 +607,9 @@
     "object": "名物",
     "traditional_story": "由来",
     "practice": "作法",
-    "walk_href": "/ja/temple/senso-ji/tour/"
+    "walk_href": "/ja/temple/senso-ji/tour/",
+    "stop_pattern": "第 {n} 番",
+    "route_label": "ルート",
+    "walk_kicker": "徒歩"
   }
 }

@@ -115,12 +115,12 @@
     "officialHref": "https://www.senso-ji.jp/",
     "mapsUrl": "https://www.google.com/maps/dir/?api=1&destination=Senso-ji,+2-3-1+Asakusa,+Taito+City,+Tokyo&travelmode=walking",
     "mapsCta": "Abrir indicaciones de caminata en Google Maps",
-    "routeLabel": "",
+    "routeLabel": "Ruta",
     "endCopy": "Kaminarimon, Nakamise, Hōzōmon, la omizuya y el Hondo son una visita completa para la mayoría de la gente. La pagoda de cinco pisos se ve desde el recinto, no se sube como ruta casual.",
     "walkCardTitle": "A pie, parada por parada →",
     "walkCardLede": "Seis paradas a lo largo del eje Kaminarimon–Nakamise–Hondo, con puntos destacados y objetos con nombre. La pagoda se ve desde el recinto.",
     "endHeading": "Fin del recorrido",
-    "walkKicker": "",
+    "walkKicker": "Paseo",
     "walkHref": "/es/temple/senso-ji/tour/"
   },
   "stops": [
@@ -618,6 +618,9 @@
     "object": "Objeto",
     "traditional_story": "Historia tradicional",
     "practice": "Regla práctica",
-    "walk_href": "/es/temple/senso-ji/tour/"
+    "walk_href": "/es/temple/senso-ji/tour/",
+    "stop_pattern": "Parada {n}",
+    "route_label": "Ruta",
+    "walk_kicker": "Paseo"
   }
 }

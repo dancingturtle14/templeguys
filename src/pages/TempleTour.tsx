@@ -158,7 +158,7 @@ export function TempleTourPage({ id }: { id: string }) {
       : locale && id === 'senso-ji'
         ? sensoJiTourChromeFor(locale)
         : undefined
-  const walkKicker = i18n?.tour.walkKicker ?? i18n?.chrome.walk_kicker ?? 'Walk'
+  const walkKicker = i18n?.tour.walkKicker || i18n?.chrome.walk_kicker || 'Walk'
   const crumbHome = i18n?.chrome.crumb_home ?? 'Home'
   const crumbExplore = i18n?.chrome.crumb_explore ?? 'Explore'
   const crumbWalk = i18n?.chrome.on_foot_crumb ?? 'On foot'
@@ -216,7 +216,7 @@ function TourCard({ id }: { id: keyof typeof TOURS }) {
   const i18n = locale && id === 'fushimi-inari' ? getFushimiI18n(locale) : locale && id === 'senso-ji' ? getSensoJiI18n(locale) : null
   const cardTitle = i18n?.tour.walkCardTitle ?? base.cardTitle
   const cardLede = i18n?.tour.walkCardLede ?? base.cardLede
-  const walkKicker = i18n?.tour.walkKicker ?? i18n?.chrome.walk_kicker ?? 'Walk'
+  const walkKicker = i18n?.tour.walkKicker || i18n?.chrome.walk_kicker || 'Walk'
   return (
     <Link
       to={{ name: 'temple-tour', id }}

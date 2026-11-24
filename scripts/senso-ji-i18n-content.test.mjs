@@ -106,13 +106,36 @@ test('locale overview and tour prerender with Walk href, chrome, and no Play/Ski
     assert.doesNotMatch(tour.html, /<button[^>]*>\s*End\s*</)
     assert.doesNotMatch(tour.html, FUSHIMI_LEAK)
     assert.doesNotMatch(overview.html, FUSHIMI_LEAK)
-    const stopPattern = sensoJiTourChromeFor(locale).stopPattern
+    const locked = {
+      ja: { stop_pattern: '第 {n} 番', route_label: 'ルート', walk_kicker: '徒歩' },
+      'zh-hant': { stop_pattern: '第 {n} 站', route_label: '路線', walk_kicker: '步行' },
+      'zh-hans': { stop_pattern: 'Stop {n}', route_label: '路线', walk_kicker: '徒步' },
+      ko: { stop_pattern: '정거장 {n}', route_label: '경로', walk_kicker: '도보' },
+      es: { stop_pattern: 'Parada {n}', route_label: 'Ruta', walk_kicker: 'Paseo' },
+      th: { stop_pattern: 'จุดที่ {n}', route_label: 'เส้นทาง', walk_kicker: 'เดินเท้า' },
+    }[locale]
+    assert.equal(data.chrome.stop_pattern, locked.stop_pattern, locale)
+    assert.equal(data.chrome.route_label, locked.route_label, locale)
+    assert.equal(data.chrome.walk_kicker, locked.walk_kicker, locale)
+    assert.equal(data.tour.routeLabel, locked.route_label, locale)
+    assert.equal(data.tour.walkKicker, locked.walk_kicker, locale)
+    assert.equal(sensoJiTourChromeFor(locale).stopPattern, locked.stop_pattern, locale)
+    assert.equal(sensoJiTourChromeFor(locale).routeLabel, locked.route_label, locale)
+    assert.doesNotMatch(JSON.stringify(data.chrome), /end_kicker_live|Se omite: no se añade|\(ไม่มี\)/)
+    const stopPattern = locked.stop_pattern
     assert.match(stopPattern, /\{n\}/, locale)
-    assert.doesNotMatch(stopPattern, /live 寫作|índice de dos cifras/)
     for (const n of ['01', '02', '03', '04', '05', '06']) {
       const label = stopPattern.replace('{n}', n)
       assert.match(tour.html, new RegExp(label.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')), `${locale} ${label}`)
     }
+    if (locale !== 'zh-hans') {
+      assert.doesNotMatch(tour.html, />Stop 0[1-6]</, locale)
+    }
+    const escape = (s) => s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
+    assert.match(tour.html, new RegExp(escape(locked.route_label)), `${locale} route`)
+    assert.match(tour.html, new RegExp(escape(locked.walk_kicker)), `${locale} walk`)
+    assert.match(overview.html, new RegExp(escape(locked.walk_kicker)), `${locale} overview Walk`)
+
     const skip = data.chrome.skip_to_content
     assert.ok(skip, locale)
     assert.doesNotMatch(skip, /\(|\)|（|）|enlace de accesibilidad/)

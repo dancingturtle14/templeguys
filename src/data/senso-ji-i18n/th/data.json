@@ -118,12 +118,12 @@
     "officialHref": "https://www.senso-ji.jp/",
     "mapsUrl": "https://www.google.com/maps/dir/?api=1&destination=Senso-ji,+2-3-1+Asakusa,+Taito+City,+Tokyo&travelmode=walking",
     "mapsCta": "เปิดเส้นทางเดินใน Google Maps",
-    "routeLabel": "",
+    "routeLabel": "เส้นทาง",
     "endCopy": "ประตูคามินาริมอน ถนนนากามิเสะ ประตูโฮโซมอน ศาลาล้างมือ และวิหาร ถือเป็นการเดินชมที่ครบถ้วนสำหรับคนส่วนใหญ่ ส่วนเจดีย์ห้าชั้นชมจากบริเวณวัด ไม่มีทางเดินขึ้นเล่นแบบทั่วไป",
     "walkCardTitle": "เดินเท้า จุดต่อจุด →",
     "walkCardLede": "หกจุดตามเส้นแกนคามินาริมอน–นากามิเสะ–วิหาร พร้อมจุดสำคัญและวัตถุที่มีชื่อเรียก เจดีย์ชมจากบริเวณวัด",
     "endHeading": "จบทางเดิน",
-    "walkKicker": "",
+    "walkKicker": "เดินเท้า",
     "walkHref": "/th/temple/senso-ji/tour/"
   },
   "stops": [
@@ -607,6 +607,9 @@
     "object": "วัตถุ",
     "traditional_story": "เรื่องราวเล่าขาน",
     "practice": "ข้อปฏิบัติ / วิธีปฏิบัติ",
-    "walk_href": "/th/temple/senso-ji/tour/"
+    "walk_href": "/th/temple/senso-ji/tour/",
+    "stop_pattern": "จุดที่ {n}",
+    "route_label": "เส้นทาง",
+    "walk_kicker": "เดินเท้า"
   }
 }

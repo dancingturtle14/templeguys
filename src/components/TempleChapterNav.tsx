@@ -1,6 +1,6 @@
 import { Link, useRouter } from '../lib/router'
 import { chaptersFor } from '../lib/chapters'
-import { getFushimiI18n } from '../lib/fushimi-i18n'
+import { shellChrome } from '../lib/senso-ji-i18n'
 import type { TempleChapter } from '../types'
 
 export function TempleChapterNav({
@@ -12,8 +12,8 @@ export function TempleChapterNav({
 }) {
   const { route } = useRouter()
   const locale = route.name === 'temple' ? route.locale : undefined
-  const list = chaptersFor(templeId === 'fushimi-inari' ? locale : undefined)
-  const chrome = locale && templeId === 'fushimi-inari' ? getFushimiI18n(locale).chrome : null
+  const list = chaptersFor(templeId === 'fushimi-inari' || templeId === 'senso-ji' ? locale : undefined, templeId)
+  const chrome = locale && (templeId === 'fushimi-inari' || templeId === 'senso-ji') ? shellChrome(locale, templeId) : null
   return (
     <nav aria-label="Temple chapters" className="border border-line bg-paper">
       <p className="border-b border-line px-4 py-3 text-[0.65rem] font-semibold uppercase tracking-wide text-cinnabar">

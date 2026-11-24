@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from 'react'
-import { getFushimiI18n } from '../lib/fushimi-i18n'
+import { shellChrome } from '../lib/senso-ji-i18n'
 import { Link, useRouter } from '../lib/router'
 import { regions, religions } from '../lib/temples'
 import type { Route } from '../types'
@@ -187,7 +187,8 @@ function PrimaryItems({
   const { route } = useRouter()
   const key = routeKey(route)
   const locale = route.name === 'temple' || route.name === 'temple-tour' ? route.locale : undefined
-  const chrome = locale ? getFushimiI18n(locale).chrome : null
+  const templeId = route.name === 'temple' || route.name === 'temple-tour' ? route.id : undefined
+  const chrome = shellChrome(locale, templeId)
   const linkClass =
     layout === 'bar'
       ? 'relative pb-0.5 text-sm font-medium no-underline'

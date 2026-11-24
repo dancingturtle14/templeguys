@@ -58,7 +58,6 @@ test('locale-prefixed non-Fushimi paths 404, including hubs', () => {
     assert.equal(parsePath(`/${locale}/`, '').name, 'notfound')
     assert.equal(parsePath(`/${locale}/explore`, '').name, 'notfound')
     assert.equal(parsePath(`/${locale}/about`, '').name, 'notfound')
-    assert.equal(parsePath(`/${locale}/temple/senso-ji/`, '').name, 'notfound')
     assert.equal(parsePath(`/${locale}/temple/meiji-shrine/tour/`, '').name, 'notfound')
     assert.equal(parsePath(`/${locale}/temple/uluwatu/visit`, '').name, 'notfound')
     assert.equal(parsePath(`/${locale}/temple/istiqlal-mosque/tour/`, '').name, 'notfound')
@@ -103,6 +102,6 @@ test('Walk / chapter links inherit the current Fushimi locale', () => {
   assert.equal(routeToUrl(visit), '/ja/temple/fushimi-inari/visit/')
 
   const senso = inheritLocale(current, { name: 'temple', id: 'senso-ji', chapter: 'overview' })
-  assert.equal(senso.locale, undefined)
-  assert.equal(routeToUrl(senso), '/temple/senso-ji/')
+  assert.equal(senso.locale, 'ja')
+  assert.equal(routeToUrl(senso), '/ja/temple/senso-ji/')
 })

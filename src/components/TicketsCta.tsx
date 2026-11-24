@@ -1,11 +1,12 @@
 import type { TempleVisit } from '../types'
-import { getFushimiI18n } from '../lib/fushimi-i18n'
+import { shellChrome } from '../lib/senso-ji-i18n'
 import { useRouter } from '../lib/router'
 
 export function TicketsCta({ visit }: { visit: TempleVisit }) {
   const { route } = useRouter()
   const locale = (route.name === 'temple' || route.name === 'temple-tour') ? route.locale : undefined
-  const chrome = locale ? getFushimiI18n(locale).chrome : null
+  const templeId = (route.name === 'temple' || route.name === 'temple-tour') ? route.id : undefined
+  const chrome = shellChrome(locale, templeId)
   const { entryType, ticketsUrl, ticketsLabel, ticketsNote } = visit
 
   if (entryType === 'free' && !ticketsUrl) {

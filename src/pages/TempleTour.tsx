@@ -22,6 +22,7 @@ import {
 } from '../data/uluwatuTour'
 import { Link, useRouter } from '../lib/router'
 import { getFushimiI18n, localizeFushimiTemple, tourChromeFor } from '../lib/fushimi-i18n'
+import { getSensoJiI18n, localizeSensoJiTemple, sensoJiTourChromeFor } from '../lib/senso-ji-i18n'
 import { getTemple } from '../lib/temples'
 import { NotFoundPage } from './NotFound'
 import {
@@ -126,8 +127,18 @@ export function TempleTourPage({ id }: { id: string }) {
   if (!base) return <NotFoundPage />
   const found = getTemple(id)
   if (!found) return <NotFoundPage />
-  const i18n = locale && id === 'fushimi-inari' ? getFushimiI18n(locale) : null
-  const temple = i18n ? localizeFushimiTemple(found, locale!) : found
+  const i18n =
+    locale && id === 'fushimi-inari'
+      ? getFushimiI18n(locale)
+      : locale && id === 'senso-ji'
+        ? getSensoJiI18n(locale)
+        : null
+  const temple =
+    locale && id === 'fushimi-inari'
+      ? localizeFushimiTemple(found, locale)
+      : locale && id === 'senso-ji'
+        ? localizeSensoJiTemple(found, locale)
+        : found
   const tour = i18n
     ? {
         ...base,
@@ -141,8 +152,13 @@ export function TempleTourPage({ id }: { id: string }) {
         endCopy: i18n.tour.endCopy,
       }
     : base
-  const chrome = locale && id === 'fushimi-inari' ? tourChromeFor(locale) : undefined
-  const walkKicker = i18n?.tour.walkKicker ?? i18n?.chrome.walk_kicker ?? 'Walk'
+  const chrome =
+    locale && id === 'fushimi-inari'
+      ? tourChromeFor(locale)
+      : locale && id === 'senso-ji'
+        ? sensoJiTourChromeFor(locale)
+        : undefined
+  const walkKicker = i18n?.tour.walkKicker || i18n?.chrome.walk_kicker || 'Walk'
   const crumbHome = i18n?.chrome.crumb_home ?? 'Home'
   const crumbExplore = i18n?.chrome.crumb_explore ?? 'Explore'
   const crumbWalk = i18n?.chrome.on_foot_crumb ?? 'On foot'
@@ -197,10 +213,10 @@ function TourCard({ id }: { id: keyof typeof TOURS }) {
   const { route } = useRouter()
   const locale = (route.name === 'temple' || route.name === 'temple-tour') ? route.locale : undefined
   const base = TOURS[id]
-  const i18n = locale && id === 'fushimi-inari' ? getFushimiI18n(locale) : null
+  const i18n = locale && id === 'fushimi-inari' ? getFushimiI18n(locale) : locale && id === 'senso-ji' ? getSensoJiI18n(locale) : null
   const cardTitle = i18n?.tour.walkCardTitle ?? base.cardTitle
   const cardLede = i18n?.tour.walkCardLede ?? base.cardLede
-  const walkKicker = i18n?.tour.walkKicker ?? i18n?.chrome.walk_kicker ?? 'Walk'
+  const walkKicker = i18n?.tour.walkKicker || i18n?.chrome.walk_kicker || 'Walk'
   return (
     <Link
       to={{ name: 'temple-tour', id }}

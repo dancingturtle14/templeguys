@@ -27,8 +27,8 @@ const SHELL = `<!doctype html>
   </body>
 </html>`
 
-test('all 7 Sensō-ji packs render exact title, description, and keywords', () => {
-  assert.equal(packs.length, 7, 'should have 7 packs')
+test('all 49 Sensō-ji packs render exact title, description, and keywords', () => {
+  assert.equal(packs.length, 49, 'should have 49 packs')
   for (const pack of packs) {
     const rendered = render(pack.path)
     assert.equal(rendered.title, pack.title, `${pack.path} title`)
@@ -37,7 +37,7 @@ test('all 7 Sensō-ji packs render exact title, description, and keywords', () =
   }
 })
 
-test('applyShell emits exact escaped title, description, and keywords for all 7 packs', () => {
+test('applyShell emits exact escaped title, description, and keywords for all 49 packs', () => {
   for (const pack of packs) {
     const rendered = render(pack.path)
     const page = applyShell(SHELL, {
@@ -106,7 +106,7 @@ test('non-Sensō-ji pages do not get Sensō-ji keywords', () => {
 })
 
 test('senso-ji tour has the Sensō-ji pack keywords, not Fushimi', () => {
-  const pack = packs.find((p) => p.page === 'tour')
+  const pack = packs.find((p) => p.locale === 'en' && p.page === 'tour')
   const senso = render('/temple/senso-ji/tour/')
   assert.deepEqual(senso.keywords, pack.keywords)
   assert.ok(!senso.keywords.some((k) => /Fushimi Inari|Senbon Torii|Inariyama/.test(k)))
@@ -138,4 +138,33 @@ test('applyShell with keywords injects and escapes', () => {
     page,
     /<meta name="keywords" content="Sensō-ji, Asakusa &amp; Tokyo" \/>/,
   )
+})
+
+test('English Sensō-ji packs stay exact against the source pack', () => {
+  const source = JSON.parse(
+    readFileSync(new URL('../../sanctaway-seo/i18n-sensoji-20261123/seo.json', import.meta.url), 'utf8'),
+  ).packs.filter((p) => p.locale === 'en')
+  const en = packs.filter((p) => p.locale === 'en')
+  assert.equal(en.length, 7)
+  assert.deepEqual(en, source)
+})
+
+test('locale Walk hrefs use the locked trailing-slash tour path', () => {
+  const locales = ['ja', 'zh-hant', 'zh-hans', 'ko', 'es', 'th']
+  for (const locale of locales) {
+    const href = `/${locale}/temple/senso-ji/tour/`
+    const overview = render(`/${locale}/temple/senso-ji/`).html
+    assert.match(overview, new RegExp(`href="${href}"`))
+    assert.equal(overview.match(new RegExp(`href="${href}"`, 'g')).length, 1)
+    assert.doesNotMatch(overview, new RegExp(`href="/${locale}/temple/senso-ji/tour"`))
+  }
+})
+
+test('Fushimi locale pages keep Fushimi keywords, not Sensō-ji', () => {
+  const jaFushimi = render('/ja/temple/fushimi-inari/')
+  assert.ok(jaFushimi.keywords && jaFushimi.keywords.length > 0)
+  assert.ok(!jaFushimi.keywords.some((k) => /Sensō-ji|浅草寺|Asakusa Kannon/.test(k)))
+  const jaSenso = render('/ja/temple/senso-ji/')
+  const pack = packs.find((p) => p.locale === 'ja' && p.page === 'overview')
+  assert.deepEqual(jaSenso.keywords, pack.keywords)
 })

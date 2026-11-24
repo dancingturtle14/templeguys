@@ -132,7 +132,7 @@
       "id": "kaminarimon",
       "index": "01",
       "nav": "Kaminarimon",
-      "plate": "From the station to the gate",
+      "plate": "아사쿠사역에서 가미나리몬까지",
       "caption": "캡션: 가미나리몬(雷門)은 공식 명칭이 후라이진몬(風雷神門)이며, 센소지의 외문입니다.",
       "sentences": [
         "도부 스카이트리 라인, 도쿄 메트로 긴자 라인, 쓰쿠바 익스프레스, 도에이 아사쿠사 라인(A4 출구)이 모두 아사쿠사역에 정차하며, 역에서 사찰까지는 도보 약 5분입니다.",
@@ -215,7 +215,7 @@
       "id": "nakamise",
       "index": "02",
       "nav": "Nakamise",
-      "plate": "Nakamise as the approach",
+      "plate": "참배길 나카미세",
       "caption": "캡션: 나카미세(仲見世)는 두 문 사이 약 250m의 상점 거리로, 공식적인 참배길입니다.",
       "sentences": [
         "공식 경내 페이지는 나카미세를 센소지의 참배길(表参道)이라고 부릅니다.",
@@ -271,7 +271,7 @@
       "id": "hozomon",
       "index": "03",
       "nav": "Hōzōmon",
-      "plate": "Hōzōmon, the inner gate",
+      "plate": "안쪽 문, 호조몬",
       "caption": "캡션: 호조몬(宝蔵門)은 니오몬(仁王門)이라고도 불리며, 사찰의 안쪽 문이자 경전을 보관하는 창고입니다.",
       "sentences": [
         "나카미세 끝에는 2층 주홍색 문이 서 있습니다. 공식 페이지는 이를 호조몬이라고 부르고, 바깥 칸에 모신 수호상에서 따온 이름으로 니오몬이라고도 부릅니다.",
@@ -336,7 +336,7 @@
       "id": "omizuya",
       "index": "04",
       "nav": "Omizuya",
-      "plate": "The omizuya pavilion",
+      "plate": "오미즈야",
       "caption": "캡션: 오미즈야(お水舎)는 본당 앞 오른쪽에 있으며, 참배 전 손과 입을 씻는 곳입니다.",
       "sentences": [
         "공식 경내 페이지는 오미즈야를 본당 앞 오른쪽에 두고, 참배 전 몸을 정갈하게 하는 곳이라고 설명합니다.",
@@ -411,7 +411,7 @@
       "id": "hondo",
       "index": "05",
       "nav": "Hondo",
-      "plate": "The Hondo",
+      "plate": "본당",
       "caption": "캡션: 본당(本堂)은 관음당(観音堂)이라고도 하며, 공식 개방 시간은 4월~9월 06:00~17:00, 10월~3월은 06:30부터입니다.",
       "sentences": [
         "본당은 남쪽을 향하며, 사찰의 주불인 쇼칸논보살(聖観音菩薩)을 모십니다. 주불은 히부츠(秘仏)로, 공식 페이지는 주지조차 보지 않는다고 밝힙니다.",
@@ -485,7 +485,7 @@
       "id": "pagoda",
       "index": "06",
       "nav": "Pagoda",
-      "plate": "The five-storied pagoda",
+      "plate": "경내에서 바라보는 오중탑",
       "caption": "캡션: 오중탑은 본당 남서쪽에 서 있습니다. 공식 페이지는 외부에서 보는 랜드마크로 설명하지, 가볍게 오르는 곳이 아닙니다.",
       "sentences": [
         "공식 치수로 탑은 지상에서 53.32m, 1973년 강철과 철근콘크리트로 재건되었고 본당 남서쪽에 있습니다.",
@@ -610,7 +610,7 @@
     "step_count_pattern": "{current} / {total}",
     "photo_prefix": "사진:",
     "tap_to_enlarge": "사진을 터치하면 확대됩니다.",
-    "what_to_look_for": "What to look for (라벨은 영문 유지, 본문 문장은 한국어)",
+    "what_to_look_for": "눈여겨볼 점",
     "must_see": "꼭 봐야 할 곳",
     "object": "사물",
     "traditional_story": "전통 이야기",

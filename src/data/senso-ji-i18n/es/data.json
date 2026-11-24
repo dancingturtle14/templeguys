@@ -128,7 +128,7 @@
       "id": "kaminarimon",
       "index": "01",
       "nav": "Kaminarimon",
-      "plate": "From the station to the gate",
+      "plate": "De la estación al Kaminarimon",
       "caption": "Kaminarimon, oficialmente Furaijin-mon, es la puerta exterior de Sensō-ji.",
       "sentences": [
         "Tobu Skytree Line, metro de Tokio Ginza Line, Tsukuba Express y Toei Asakusa Line (salida A4) paran todas en la estación de Asakusa, a unos cinco minutos a pie del templo.",
@@ -163,7 +163,7 @@
         {
           "id": "kaminarimon-station",
           "kind": "must-see",
-          "title": "Asakusa Station to the gate",
+          "title": "De la estación de Asakusa a la puerta",
           "sentences": [
             "El acceso oficial enumera cuatro llegadas en tren, todas a unos cinco minutos a pie: Tobu Skytree Line, metro de Tokio Ginza Line, Tsukuba Express y Toei Asakusa Line desde la salida A4.",
             "También sirven la zona el Toei Bus, el Keisei Town Bus y el Megurin del distrito de Taitō. El templo en sí no tiene aparcamiento."
@@ -177,7 +177,7 @@
         {
           "id": "kaminarimon-gate",
           "kind": "must-see",
-          "title": "Kaminarimon, the outer gate",
+          "title": "Kaminarimon, la puerta exterior",
           "sentences": [
             "Imagen (el pie y el alt en español; el crédito se conserva tal cual):",
             "El nombre oficial es Furaijin-mon, la Puerta de los Dioses del Viento y del Trueno. La FAQ indica que Kaminarimon es la puerta exterior de Sensō-ji y que el camino desde la puerta hasta el Hondo es el eje de la visita.",
@@ -200,7 +200,7 @@
         {
           "id": "kaminarimon-story",
           "kind": "story",
-          "title": "Why this gate was rebuilt in 1960",
+          "title": "Por qué esta puerta se reconstruyó en 1960",
           "sentences": [
             "La historia oficial del recinto cuenta que la puerta ardió en 1865 y quedó sin reconstruir durante 95 años.",
             "Según el relato del templo, Matsushita Kōnosuke, entonces presidente de Matsushita Electric (hoy Panasonic), se recuperó de un dolor articular después de que el abad rezara a la Kannon del templo, y donó la puerta actual en agradecimiento. La página oficial en inglés recoge la misma donación."
@@ -212,7 +212,7 @@
       "id": "nakamise",
       "index": "02",
       "nav": "Nakamise",
-      "plate": "Nakamise as the approach",
+      "plate": "Nakamise, el camino de acceso",
       "caption": "Nakamise es el eje de acceso oficial, unos 250 metros de tiendas entre las dos puertas.",
       "sentences": [
         "Las páginas oficiales del recinto llaman a Nakamise el eje de acceso (omotesandō) de Sensō-ji.",
@@ -234,8 +234,8 @@
       "checkpoints": [
         {
           "id": "nakamise-street",
-          "kind": "must-see",
-          "title": "Nakamise as the approach",
+          "kind": "story",
+          "title": "Nakamise, el camino de acceso",
           "sentences": [
             "Imagen (el pie y el alt en español; el crédito se conserva tal cual):",
             "Esta calle no es un rodeo alrededor del templo. Las páginas oficiales la tratan como el eje que une la puerta exterior con Hōzōmon.",
@@ -257,7 +257,7 @@
         {
           "id": "nakamise-origin",
           "kind": "story",
-          "title": "How the shops were first allowed",
+          "title": "Cómo se autorizaron las tiendas al principio",
           "sentences": [
             "La historia oficial del recinto sitúa el origen de Nakamise hacia 1685 (Jōkyō 2). Se dio permiso a los vecinos para instalar puestos sencillos a lo largo del eje de acceso a cambio de limpiar el recinto.",
             "El mismo relato dice que el nombre Nakamise, «tiendas del medio», viene de los comercios que se levantaban entre los locales del lado de Kaminarimon-dōri y los que estaban frente al salón de Kannon."
@@ -269,7 +269,7 @@
       "id": "hozomon",
       "index": "03",
       "nav": "Hōzōmon",
-      "plate": "Hōzōmon, the inner gate",
+      "plate": "Hōzōmon, la puerta interior",
       "caption": "Hōzōmon, también llamada Niō-mon, es la puerta interior del templo y un almacén de escrituras.",
       "sentences": [
         "Al final de Nakamise se alza una puerta bermellón de dos pisos. Las páginas oficiales la llaman Hōzōmon y también Niō-mon, por las estatuas guardianas de los vanos laterales.",
@@ -291,8 +291,8 @@
       "checkpoints": [
         {
           "id": "hozomon-gate",
-          "kind": "must-see",
-          "title": "Hōzōmon, the inner gate",
+          "kind": "story",
+          "title": "Hōzōmon, la puerta interior",
           "sentences": [
             "Imagen (el pie y el alt en español; el crédito se conserva tal cual):",
             "La historia oficial sitúa aquí un Niō-mon ya en 942 y una reconstrucción en 1649 bajo Tokugawa Iemitsu. Esa puerta ardió en el bombardeo de 1945, junto con el salón de Kannon y la pagoda.",
@@ -314,7 +314,7 @@
         {
           "id": "hozomon-waraji",
           "kind": "object",
-          "title": "The giant straw sandals",
+          "title": "Las sandalias de paja gigantes",
           "sentences": [
             "Unas sandalias de paja gigantes cuelgan de la puerta. Medidas oficiales: 4,5 m de alto, 1,5 m de ancho y 500 kg, con 2.500 kg de paja; la ofrenda más reciente se dedicó en octubre de 2018, de la mano de voluntarios de Murayama (Yamagata), y es la octava desde 1941.",
             "La página oficial dice que las sandalias representan la fuerza de los Niō, y que una tradición sostiene que los demonios se marchan al ver el tamaño del par que llevan los guardianes de este templo."
@@ -323,7 +323,7 @@
         {
           "id": "hozomon-story",
           "kind": "story",
-          "title": "A storehouse, not a viewing deck",
+          "title": "Un almacén, no un mirador",
           "sentences": [
             "La historia oficial cuenta que en el período Edo, unos pocos días de fiesta, los fieles podían subir al piso superior para disfrutar de la vista. La misma página indica que hoy ya no se hace.",
             "El piso superior alberga ahora un almacén, con el canon budista chino de la dinastía Yuan (un Bien Cultural Importante Nacional) que da a la puerta su nombre actual."
@@ -335,7 +335,7 @@
       "id": "omizuya",
       "index": "04",
       "nav": "Omizuya",
-      "plate": "The omizuya pavilion",
+      "plate": "El pabellón omizuya",
       "caption": "La omizuya está a la derecha frente al Hondo, para enjuagarse las manos y la boca antes del culto.",
       "sentences": [
         "Las páginas oficiales del recinto sitúan la omizuya a la derecha frente al Hondo y dicen que sirve para purificar el cuerpo antes del culto.",
@@ -362,8 +362,8 @@
       "checkpoints": [
         {
           "id": "omizuya-basin",
-          "kind": "must-see",
-          "title": "The omizuya pavilion",
+          "kind": "practice",
+          "title": "El pabellón omizuya",
           "sentences": [
             "Imagen (el pie y el alt en español; el crédito se conserva tal cual):",
             "Usa esta pila antes de seguir hacia el Hondo. Las páginas oficiales la describen como el lugar para purificarse antes del culto, a la derecha frente al salón.",
@@ -385,7 +385,7 @@
         {
           "id": "omizuya-practice",
           "kind": "practice",
-          "title": "The official rinse",
+          "title": "La forma oficial de lavarse las manos",
           "sentences": [
             "Orden oficial: sujeta el cucharón con la mano derecha y enjuágate la mano izquierda; pásalo a la mano izquierda y enjuágate la derecha; vuelve a tomarlo con la mano derecha, vierte agua en tu mano izquierda y enjuágate la boca desde esa palma.",
             "No acerques el cucharón a la boca. Por último, ponlo de pie, enjuaga el mango y devuélvelo."
@@ -399,7 +399,7 @@
         {
           "id": "omizuya-story",
           "kind": "story",
-          "title": "The dragon on the basin",
+          "title": "El dragón de la pila",
           "sentences": [
             "Las páginas oficiales identifican la estatua como Shakatsura Ryūō, uno de los reyes dragón que protegen la enseñanza budista, y divinidad del agua.",
             "Es obra de Takamura Kōun, dedicada en agosto de 1903, y se colocó primero en una fuente detrás del Hondo, antes de que se construyera este pabellón."
@@ -411,7 +411,7 @@
       "id": "hondo",
       "index": "05",
       "nav": "Hondo",
-      "plate": "The Hondo",
+      "plate": "El Hondo",
       "caption": "El Hondo, también llamado Kannon-dō, es el salón principal. La apertura oficial es de 06:00 a 17:00, o desde las 06:30 de octubre a marzo.",
       "sentences": [
         "El Hondo mira al sur y alberga la imagen principal del templo, Shō Kanzeon Bosatsu, guardada como hibutsu —un buda oculto—. Las páginas oficiales dicen que ni siquiera el abad la ve.",
@@ -442,7 +442,7 @@
         {
           "id": "hondo-hall",
           "kind": "must-see",
-          "title": "The Hondo",
+          "title": "El Hondo",
           "sentences": [
             "Imagen (el pie y el alt en español; el crédito se conserva tal cual):",
             "El salón actual se reconstruyó en 1958 en hormigón armado, después de que el bombardeo de 1945 destruyera el anterior, que era Tesoro Nacional. Las páginas oficiales también registran un retejado en 2010 con tejas ligeras de titanio.",
@@ -465,7 +465,7 @@
         {
           "id": "hondo-hibutsu",
           "kind": "story",
-          "title": "A principal image that is not shown",
+          "title": "Una imagen principal que no se muestra",
           "sentences": [
             "La historia oficial dice que la imagen apareció en 628, cuando dos hermanos que pescaban en el río Sumida la encontraron en su red, y que en 645 el sacerdote Shōkai la ocultó tras un sueño. La página oficial en inglés dice que nunca se ha mostrado.",
             "La página del gohonzon la llama hibutsu absoluto, guardado en santuarios anidados, y dice que incluso el abad del templo se abstiene de verla. Dentro del santuario también se guarda una imagen sustituta de pie, obra de Ennin. La FAQ indica que esa sustituta se muestra solo una vez al año, a las 14:00 del 13 de diciembre."
@@ -474,7 +474,7 @@
         {
           "id": "hondo-offerings",
           "kind": "practice",
-          "title": "Hours, prayer offerings, and what is not a ticket",
+          "title": "Horarios, ofrendas de oración y lo que no es una entrada",
           "sentences": [
             "Los ritos kito y memorial se celebran en los servicios regulares: 06:00 (06:30 de octubre a marzo), 10:00 y 14:00, con servicios extra en Año Nuevo, en los días del templo y los fines de semana. La recepción en el Hondo va de la apertura hasta las 17:00. Las páginas oficiales no aceptan esas reservas por teléfono.",
             "志納金 publicados: talismán de papel desde ¥5,000; madera pequeña desde ¥10,000; madera grande con mizuhiki rojo desde ¥20,000; madera grande con mizuhiki dorado desde ¥30,000; memorial desde ¥3,000. Son ofrendas por servicios, no una tarifa de entrada. Los «Sensō-ji tickets» de terceros suelen ser visitas guiadas o alquileres, no entrada."
@@ -486,7 +486,7 @@
       "id": "pagoda",
       "index": "06",
       "nav": "Pagoda",
-      "plate": "The five-storied pagoda",
+      "plate": "La pagoda de cinco pisos",
       "caption": "La pagoda se alza al suroeste del Hondo. Las páginas oficiales describen un monumento que se ve desde fuera, no una subida casual.",
       "sentences": [
         "Las medidas oficiales sitúan la pagoda en 53,32 m desde el suelo, reconstruida en 1973 en acero y hormigón armado, al suroeste del Hondo.",
@@ -513,7 +513,7 @@
         {
           "id": "pagoda-exterior",
           "kind": "must-see",
-          "title": "The five-storied pagoda",
+          "title": "La pagoda de cinco pisos",
           "sentences": [
             "Imagen (el pie y el alt en español; el crédito se conserva tal cual):",
             "Párate en el recinto y mira hacia arriba. Las páginas oficiales dan la torre misma en 48,32 m, y 53,32 m desde el suelo incluyendo el edificio base.",
@@ -536,7 +536,7 @@
         {
           "id": "pagoda-yogodo",
           "kind": "practice",
-          "title": "Yōgōdō, the goshuin desk",
+          "title": "Yōgōdō, el mostrador de goshuin",
           "sentences": [
             "Imagen (el pie y el alt en español; el crédito se conserva tal cual):",
             "El horario oficial del goshuin es de 08:00 a 16:30, con horario especial en Año Nuevo y el 9–10 de julio (Shiman-roku-sen-nichi). El mostrador está en Yōgōdō, en el lado oeste del Hondo: el lado izquierdo cuando miras al salón.",
@@ -553,7 +553,7 @@
         {
           "id": "pagoda-relics",
           "kind": "practice",
-          "title": "Relics in the top storey",
+          "title": "Reliquias en el piso más alto",
           "sentences": [
             "Las páginas oficiales dicen que las reliquias budistas se recibieron oficialmente del templo Isurumuniya, en Sri Lanka, el 18 de marzo de 1966, y que se veneran en el quinto piso.",
             "Las mismas páginas enumeran unos pocos días de rito en los que los salones memoriales y las reliquias pueden visitarse como parte de un servicio. Esos días no son una apertura general al público, y el texto oficial sigue limitando, por norma, el acceso a los salones a las familias con una tablilla aquí o a quienes han reservado un servicio memorial."
@@ -562,7 +562,7 @@
         {
           "id": "pagoda-light",
           "kind": "practice",
-          "title": "Lighting, and a shrine next door",
+          "title": "Iluminación y un santuario al lado",
           "sentences": [
             "Un aviso oficial, «ライトアップのお知らせ», indica que el Hondo, la pagoda de cinco pisos, Hōzōmon y Kaminarimon se iluminan todos los días desde el atardecer hasta alrededor de las 23:00. Ese horario está en la página de iluminación, no en la tabla de horas de visita.",
             "El Santuario de Asakusa figura en la misma guía del recinto como vecino, pero es un santuario sintoísta aparte. No mezcles sus ritos en este recorrido."

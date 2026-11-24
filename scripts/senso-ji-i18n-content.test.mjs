@@ -46,10 +46,30 @@ test('each locale dataset matches the English tour shape and keeps the admission
     assert.doesNotMatch(blob, LEAK)
     assert.doesNotMatch(blob, FREE)
     assert.doesNotMatch(blob, FUSHIMI_LEAK)
-    assert.doesNotMatch(blob, /¥300|¥500|storage room で/)
+    assert.doesNotMatch(blob, /¥300|¥500|storage room で|蔵（storage）|라벨은/)
+    const englishPlates = [
+      'From the station to the gate',
+      'From the station to the outer gate',
+      'The front approach',
+      'Nakamise as the approach',
+      'The inner gate',
+      'Hōzōmon, the inner gate',
+      'The omizuya pavilion',
+      'Rinse before the hall',
+      'The Hondo',
+      'The Kannon hall',
+      'The five-storied pagoda',
+      'The five-storied pagoda, from the precinct',
+    ]
+    for (const stop of data.stops) {
+      assert.ok(!englishPlates.includes(stop.plate), `${locale} ${stop.id} plate still English: ${stop.plate}`)
+    }
   }
   const ja = JSON.stringify(getSensoJiI18n('ja'))
-  assert.match(ja, /蔵（storage）として使われており、門/)
+  assert.match(ja, /蔵として使われており、門/)
+  assert.doesNotMatch(ja, /\bstorage\b/)
+  const ko = getSensoJiI18n('ko')
+  assert.equal(ko.chrome.what_to_look_for, '눈여겨볼 점')
 })
 
 test('locale overview and tour prerender with Walk href, chrome, and no Play/Skip/End controls', () => {

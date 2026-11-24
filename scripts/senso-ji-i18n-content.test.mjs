@@ -107,18 +107,26 @@ test('locale overview and tour prerender with Walk href, chrome, and no Play/Ski
     assert.doesNotMatch(tour.html, FUSHIMI_LEAK)
     assert.doesNotMatch(overview.html, FUSHIMI_LEAK)
     const locked = {
-      ja: { stop_pattern: '第 {n} 番', route_label: 'ルート', walk_kicker: '徒歩' },
-      'zh-hant': { stop_pattern: '第 {n} 站', route_label: '路線', walk_kicker: '步行' },
-      'zh-hans': { stop_pattern: 'Stop {n}', route_label: '路线', walk_kicker: '徒步' },
-      ko: { stop_pattern: '정거장 {n}', route_label: '경로', walk_kicker: '도보' },
-      es: { stop_pattern: 'Parada {n}', route_label: 'Ruta', walk_kicker: 'Paseo' },
-      th: { stop_pattern: 'จุดที่ {n}', route_label: 'เส้นทาง', walk_kicker: 'เดินเท้า' },
+      ja: { stop_pattern: '第 {n} 番', route_label: 'ルート', walk_kicker: '徒歩', related_places: '関連する場所', explore_all: 'すべて見る →' },
+      'zh-hant': { stop_pattern: '第 {n} 站', route_label: '路線', walk_kicker: '步行', related_places: '相關景點', explore_all: '探索全部 →' },
+      'zh-hans': { stop_pattern: 'Stop {n}', route_label: '路线', walk_kicker: '徒步', related_places: '相关地点', explore_all: '查看全部 →' },
+      ko: { stop_pattern: '정거장 {n}', route_label: '경로', walk_kicker: '도보', related_places: '관련 장소', explore_all: '모두 둘러보기 →' },
+      es: { stop_pattern: 'Parada {n}', route_label: 'Ruta', walk_kicker: 'Paseo', related_places: 'Lugares relacionados', explore_all: 'Explorar todos →' },
+      th: { stop_pattern: 'จุดที่ {n}', route_label: 'เส้นทาง', walk_kicker: 'เดินเท้า', related_places: 'สถานที่ใกล้เคียง', explore_all: 'สำรวจทั้งหมด →' },
     }[locale]
     assert.equal(data.chrome.stop_pattern, locked.stop_pattern, locale)
     assert.equal(data.chrome.route_label, locked.route_label, locale)
     assert.equal(data.chrome.walk_kicker, locked.walk_kicker, locale)
     assert.equal(data.tour.routeLabel, locked.route_label, locale)
     assert.equal(data.tour.walkKicker, locked.walk_kicker, locale)
+    assert.equal(data.chrome.related_places, locked.related_places, locale)
+    assert.equal(data.chrome.explore_all, locked.explore_all, locale)
+    assert.ok(data.tour.endHeading, locale)
+    assert.notEqual(data.tour.endHeading, data.tour.endCopy, locale)
+    if (locale === 'zh-hant') {
+      assert.equal(data.tour.endHeading, '步行到此')
+    }
+    assert.equal(sensoJiTourChromeFor(locale).endHeading, data.tour.endHeading, locale)
     assert.equal(sensoJiTourChromeFor(locale).stopPattern, locked.stop_pattern, locale)
     assert.equal(sensoJiTourChromeFor(locale).routeLabel, locked.route_label, locale)
     assert.doesNotMatch(JSON.stringify(data.chrome), /end_kicker_live|Se omite: no se añade|\(ไม่มี\)/)
@@ -135,6 +143,24 @@ test('locale overview and tour prerender with Walk href, chrome, and no Play/Ski
     assert.match(tour.html, new RegExp(escape(locked.route_label)), `${locale} route`)
     assert.match(tour.html, new RegExp(escape(locked.walk_kicker)), `${locale} walk`)
     assert.match(overview.html, new RegExp(escape(locked.walk_kicker)), `${locale} overview Walk`)
+    assert.match(overview.html, new RegExp(escape(locked.related_places)), `${locale} related heading`)
+    assert.match(overview.html, new RegExp(escape(locked.explore_all)), `${locale} explore all`)
+    assert.doesNotMatch(overview.html, />Related places</, locale)
+    const endTitle = `<h2 id="tour-end-title" class="mt-2 font-display text-3xl">${data.tour.endHeading}</h2>`
+    assert.match(tour.html, new RegExp(escape(endTitle)), `${locale} end heading`)
+    assert.doesNotMatch(
+      tour.html,
+      new RegExp(`id="tour-end-title"[^>]*>${escape(data.tour.endCopy)}`),
+      `${locale} endCopy must not be the h2`,
+    )
+    const relatedIds = ['fushimi-inari', 'kiyomizu-dera', 'longshan-temple']
+    assert.deepEqual(Object.keys(data.relatedCards), relatedIds, locale)
+    for (const id of relatedIds) {
+      const card = data.relatedCards[id]
+      assert.ok(card?.name && card?.summary, `${locale} ${id}`)
+      assert.match(overview.html, new RegExp(escape(card.name)), `${locale} ${id} name`)
+      assert.match(overview.html, new RegExp(escape(card.summary)), `${locale} ${id} summary`)
+    }
 
     const skip = data.chrome.skip_to_content
     assert.ok(skip, locale)
@@ -158,6 +184,21 @@ test('locale overview and tour prerender with Walk href, chrome, and no Play/Ski
   assert.match(enTour.html, /Sensō-ji on foot/)
   assert.match(enTour.html, />Prev</)
   assert.match(enTour.html, />Next</)
+  const enOverview = render('/temple/senso-ji/')
+  const longshanSummary =
+    'Guanyin temple in Taipei’s Wanhua — founded 1738 and still in active use, with Buddhist, Taoist and Confucian shrines; daily 06:00–22:00, no admission charge. Temple site lungshan.org.tw.'
+  const temples = JSON.parse(readFileSync(new URL('../src/data/temples.json', import.meta.url), 'utf8'))
+  const longshan = temples.find((t) => t.id === 'longshan-temple')
+  assert.equal(longshan.summary, longshanSummary)
+  assert.match(enOverview.html, /Guanyin temple in Taipei/)
+  assert.match(enOverview.html, /lungshan\.org\.tw/)
+  assert.doesNotMatch(enOverview.html, /living temple postcard/)
+  assert.match(enOverview.html, />Related places</)
+  assert.match(enOverview.html, /Explore all →/)
+  const fushimi = temples.find((t) => t.id === 'fushimi-inari')
+  const kiyomizu = temples.find((t) => t.id === 'kiyomizu-dera')
+  assert.match(enOverview.html, new RegExp(fushimi.summary.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')))
+  assert.match(enOverview.html, new RegExp(kiyomizu.summary.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')))
   assert.equal(parsePath('/temple/meiji-shrine/tour/', '').id, 'meiji-shrine')
   assert.equal(parsePath('/ja/temple/meiji-shrine/', '').name, 'notfound')
 })

@@ -610,6 +610,22 @@
     "walk_href": "/zh-hans/temple/senso-ji/tour/",
     "stop_pattern": "Stop {n}",
     "route_label": "路线",
-    "walk_kicker": "徒步"
+    "walk_kicker": "徒步",
+    "related_places": "相关地点",
+    "explore_all": "查看全部 →"
+  },
+  "relatedCards": {
+    "fushimi-inari": {
+      "name": "伏见稻荷大社",
+      "summary": "京都的稻荷神山社——数千座朱红鸟居沿稻荷山（Inariyama）而上，一条适合早起的参拜山路。祈祷时间与参拜规则请以 inari.jp 为准。"
+    },
+    "kiyomizu-dera": {
+      "name": "清水寺",
+      "summary": "京都山腰的观音寺，以俯瞰街市的木造舞台闻名，属联合国教科文组织“古都京都的历史古迹”。当日门票在入口购买，时间请以 kiyomizudera.or.jp 公告为准。"
+    },
+    "longshan-temple": {
+      "name": "艋舺龙山寺",
+      "summary": "台北万华的观音寺，创建于1738年，至今香火不断，寺内并祀佛教、道教与儒教神祇。每日06:00至22:00开放，不收取门票。详情请见 lungshan.org.tw。"
+    }
   }
 }

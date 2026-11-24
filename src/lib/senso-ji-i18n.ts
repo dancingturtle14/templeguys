@@ -33,8 +33,14 @@ export type SensoJiTourFrame = Omit<FushimiTourFrame, 'crossroads'> & {
   walkHref?: string
 }
 
+export type RelatedCardCopy = {
+  name: string
+  summary: string
+}
+
 export type SensoJiI18n = Omit<FushimiI18n, 'tour'> & {
   tour: SensoJiTourFrame
+  relatedCards: Record<string, RelatedCardCopy>
 }
 
 const DATA: Record<Locale, SensoJiI18n> = {
@@ -48,6 +54,12 @@ const DATA: Record<Locale, SensoJiI18n> = {
 
 export function getSensoJiI18n(locale: Locale): SensoJiI18n {
   return DATA[locale]
+}
+
+export function localizeSensoJiRelatedCard(base: Temple, locale: Locale): Temple {
+  const card = DATA[locale].relatedCards?.[base.id]
+  if (!card) return base
+  return { ...base, name: card.name, summary: card.summary }
 }
 
 export function localizeSensoJiTemple(base: Temple, locale: Locale): Temple {
@@ -97,7 +109,10 @@ export function sensoJiTourChromeFor(locale?: Locale): TourChrome {
     kindPractice: chrome.practice || chrome.kind_practice || DEFAULT_TOUR_CHROME.kindPractice,
     whatToLookFor: chrome.what_to_look_for || DEFAULT_TOUR_CHROME.whatToLookFor,
     showEveryReading: chrome.show_every_reading || DEFAULT_TOUR_CHROME.showEveryReading,
-    endHeading: tour.endHeading || chrome.end_heading || chrome.end_of_the_walk || DEFAULT_TOUR_CHROME.endHeading,
+    endHeading:
+      tour.endHeading && tour.endHeading !== tour.endCopy
+        ? tour.endHeading
+        : chrome.end_heading || chrome.end_of_the_walk || DEFAULT_TOUR_CHROME.endHeading,
     overview: chrome.chapter_overview || DEFAULT_TOUR_CHROME.overview,
     etiquette: chrome.chapter_etiquette || DEFAULT_TOUR_CHROME.etiquette,
     gettingThere: chrome.chapter_getting_there || DEFAULT_TOUR_CHROME.gettingThere,

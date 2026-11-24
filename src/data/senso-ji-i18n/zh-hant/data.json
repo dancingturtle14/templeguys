@@ -122,7 +122,7 @@
     "endCopy": "雷門、仲見世、寶藏門、手水舍與本堂，對大多數人來說已經是一趟完整的參拜。五重塔在境內外望，不是順道攀登的路線。",
     "walkCardTitle": "用雙腳，一站一站走 →",
     "walkCardLede": "沿雷門—仲見世—本堂一軸的六站，含必看景點與具名物件。五重塔在境內外望。",
-    "endHeading": "雷門、仲見世、寶藏門、手水舍與本堂，對大多數人來說已經是一趟完整的參拜。五重塔在境內外望，不是順道攀登的路線。",
+    "endHeading": "步行到此",
     "walkKicker": "步行",
     "walkHref": "/zh-hant/temple/senso-ji/tour/"
   },
@@ -617,6 +617,22 @@
     "walk_href": "/zh-hant/temple/senso-ji/tour/",
     "stop_pattern": "第 {n} 站",
     "route_label": "路線",
-    "walk_kicker": "步行"
+    "walk_kicker": "步行",
+    "related_places": "相關景點",
+    "explore_all": "探索全部 →"
+  },
+  "relatedCards": {
+    "fushimi-inari": {
+      "name": "伏見稻荷大社",
+      "summary": "京都的稻荷山神社 — 數千座朱紅鳥居沿稻荷山（Inariyama）而上，一趟值得早起的登山。祈禱時間與訪客規則請在 inari.jp 確認。"
+    },
+    "kiyomizu-dera": {
+      "name": "清水寺",
+      "summary": "京都山腰的觀音寺，以俯瞰市街的木造舞台聞名，屬聯合國教科文組織「古都京都的歷史古蹟」。當日門票在入口購買，時間請以 kiyomizudera.or.jp 公告為準。"
+    },
+    "longshan-temple": {
+      "name": "艋舺龍山寺",
+      "summary": "臺北萬華的觀音寺，建於1738年，至今香火不絕，寺內並祀佛教、道教與儒教神祇。每日06:00至22:00開放，不收取門票。詳情請見 lungshan.org.tw。"
+    }
   }
 }

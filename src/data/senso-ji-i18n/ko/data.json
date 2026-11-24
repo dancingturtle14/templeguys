@@ -618,6 +618,22 @@
     "walk_href": "/ko/temple/senso-ji/tour/",
     "stop_pattern": "정거장 {n}",
     "route_label": "경로",
-    "walk_kicker": "도보"
+    "walk_kicker": "도보",
+    "related_places": "관련 장소",
+    "explore_all": "모두 둘러보기 →"
+  },
+  "relatedCards": {
+    "fushimi-inari": {
+      "name": "후시미 이나리 대사 (伏見稲荷大社)",
+      "summary": "교토의 산속 이나리 신사 — 이나리야마를 타고 오르는 수많은 주홍빛 도리이와, 이른 아침에 보답하는 산책. 기도 시간과 관람 규칙은 inari.jp에서 확인하세요."
+    },
+    "kiyomizu-dera": {
+      "name": "기요미즈데라",
+      "summary": "시내를 내려다보는 목조 무대가 있는 교토 산자락의 관음 사찰로, 유네스코 세계유산 ‘고도 교토의 문화재’에 속합니다. 당일 입장권은 입구에서 구입하며, 시간은 kiyomizudera.or.jp 안내를 확인하세요."
+    },
+    "longshan-temple": {
+      "name": "용산사 (艋舺龍山寺)",
+      "summary": "타이베이 완화의 관음 사찰로, 1738년에 창건되어 지금도 신앙이 이어지며 불교·도교·유교 사당이 함께 있습니다. 매일 06:00–22:00에 열고 입장료는 없습니다. 자세한 내용은 lungshan.org.tw에서 확인하세요."
+    }
   }
 }

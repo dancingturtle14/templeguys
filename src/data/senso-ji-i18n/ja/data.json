@@ -610,6 +610,22 @@
     "walk_href": "/ja/temple/senso-ji/tour/",
     "stop_pattern": "第 {n} 番",
     "route_label": "ルート",
-    "walk_kicker": "徒歩"
+    "walk_kicker": "徒歩",
+    "related_places": "関連する場所",
+    "explore_all": "すべて見る →"
+  },
+  "relatedCards": {
+    "fushimi-inari": {
+      "name": "伏見稲荷大社",
+      "summary": "京都の稲荷山の神社 — 約233 m の稲荷山を覆う無数の朱色の鳥居と、早朝の出発が報われる参道。祈祷の受付時間と参拝ルールは inari.jp でご確認ください。"
+    },
+    "kiyomizu-dera": {
+      "name": "清水寺",
+      "summary": "市街を見下ろす木造の舞台で知られる、京都の山腹にある観音の寺。ユネスコの「古都京都の文化財」の一部で、拝観券は門前で当日求め、時間は kiyomizudera.or.jp の案内をご確認ください。"
+    },
+    "longshan-temple": {
+      "name": "艋舺龍山寺",
+      "summary": "台北・萬華にある観音の寺。1738年の創建で今も信仰が続き、仏教・道教・儒教の堂が併存する。毎日6時から22時まで開き、拝観料はかかりません。詳しくは lungshan.org.tw をご覧ください。"
+    }
   }
 }

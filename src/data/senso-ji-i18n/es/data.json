@@ -621,6 +621,22 @@
     "walk_href": "/es/temple/senso-ji/tour/",
     "stop_pattern": "Parada {n}",
     "route_label": "Ruta",
-    "walk_kicker": "Paseo"
+    "walk_kicker": "Paseo",
+    "related_places": "Lugares relacionados",
+    "explore_all": "Explorar todos →"
+  },
+  "relatedCards": {
+    "fushimi-inari": {
+      "name": "Fushimi Inari Taisha",
+      "summary": "El santuario de montaña de Inari en Kioto — miles de torii bermellón que ascienden por el Inariyama, y una caminata que recompensa madrugar. Confirme los horarios de oración y las normas de visita en inari.jp."
+    },
+    "kiyomizu-dera": {
+      "name": "Kiyomizu-dera",
+      "summary": "El templo de Kannon en la ladera de Kioto, con su escenario de madera sobre la ciudad, forma parte de los Monumentos históricos de la antigua Kioto de la UNESCO. El acceso se abona en taquilla el mismo día; consulte los horarios en kiyomizudera.or.jp."
+    },
+    "longshan-temple": {
+      "name": "Templo Longshan de Mengjia",
+      "summary": "Templo de Guanyin en el barrio de Wanhua, en Taipéi, fundado en 1738 y aún en uso, con santuarios budistas, taoístas y confucianos. Abre a diario de 06:00 a 22:00 y no se cobra entrada. Información en lungshan.org.tw."
+    }
   }
 }

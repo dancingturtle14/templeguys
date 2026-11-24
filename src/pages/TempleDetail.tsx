@@ -8,7 +8,7 @@ import { TicketsCta } from '../components/TicketsCta'
 import { FushimiTourCard, MeijiShrineTourCard, SensoJiTourCard, UluwatuTourCard, IstiqlalMosqueTourCard } from './TempleTour'
 import { chaptersFor } from '../lib/chapters'
 import { localizeFushimiTemple } from '../lib/fushimi-i18n'
-import { localizeSensoJiTemple, shellChrome } from '../lib/senso-ji-i18n'
+import { localizeSensoJiRelatedCard, localizeSensoJiTemple, shellChrome } from '../lib/senso-ji-i18n'
 import { Link, useRouter } from '../lib/router'
 import { getTemple, temples } from '../lib/temples'
 import type { Temple, TempleChapter } from '../types'
@@ -216,7 +216,12 @@ export function TempleDetailPage({
   }
 
   const related = temple.related
-    .map((rid) => getTemple(rid))
+    .map((rid) => {
+      const foundRelated = getTemple(rid)
+      if (!foundRelated) return foundRelated
+      if (locale && id === 'senso-ji') return localizeSensoJiRelatedCard(foundRelated, locale)
+      return foundRelated
+    })
     .filter(Boolean)
     .slice(0, 3)
 

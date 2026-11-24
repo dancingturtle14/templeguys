@@ -1,10 +1,18 @@
 {
-  "generated": "2026-11-20",
+  "generated": "2026-11-24",
   "timezone": "Asia/Hong_Kong",
   "site": "SanctaWay",
   "attraction": "senso-ji",
-  "locale": "en",
-  "note": "Not published. Tour body unchanged. Lighting follows official lightup notice.",
+  "locales": [
+    "en",
+    "ja",
+    "zh-hant",
+    "zh-hans",
+    "ko",
+    "es",
+    "th"
+  ],
+  "note": "Not published. Six-language bodies + unique per-page SEO. Lighting follows official lightup notice. No free-admission wording. Tour body follows the existing English walk; Walk href is /temple/senso-ji/tour/ plus locale prefix and trailing slash. English on current unprefixed paths.",
   "packs": [
     {
       "locale": "en",
@@ -119,6 +127,685 @@
         "lightup notice",
         "Sensō-ji FAQ",
         "prayer 志納金"
+      ]
+    },
+    {
+      "locale": "ja",
+      "page": "overview",
+      "path": "/ja/temple/senso-ji/",
+      "title": "浅草寺（浅草観音）と雷門・仲見世・本堂 — SanctaWay",
+      "meta": "東京都台東区浅草の浅草寺（浅草観音）は、雷門から仲見世、宝蔵門を抜けて本堂へ至る参道が続く古刹です。本堂は6時～17時（10～3月は6時30分開門）。",
+      "keywords": [
+        "浅草寺",
+        "浅草観音",
+        "浅草",
+        "東京",
+        "雷門",
+        "仲見世",
+        "本堂",
+        "五重塔"
+      ]
+    },
+    {
+      "locale": "ja",
+      "page": "visit",
+      "path": "/ja/temple/senso-ji/visit/",
+      "title": "浅草寺の拝観時間・勤行とライトアップ — SanctaWay",
+      "meta": "本堂は6時～17時（10～3月は6時30分開門）。勤行は朝6時（10～3月は6時30分）、10時、14時の一日三回。ライトアップは毎日日没から午後11時頃まで本堂・五重塔・宝蔵門・雷門を照らします。",
+      "keywords": [
+        "浅草寺",
+        "本堂の拝観時間",
+        "勤行",
+        "志納金",
+        "ライトアップ",
+        "影向堂",
+        "御朱印",
+        "浅草"
+      ]
+    },
+    {
+      "locale": "ja",
+      "page": "etiquette",
+      "path": "/ja/temple/senso-ji/etiquette/",
+      "title": "浅草寺の参拝マナー：本堂での作法とお願い — SanctaWay",
+      "meta": "浅草寺では本堂で静かに手を合わせ、南無観世音菩薩と唱えます。おみくじは観音百籤。隣の浅草神社は別の神社で、ルールも異なります。境内では私語を控え、他の参拝者に配慮しましょう。",
+      "keywords": [
+        "浅草寺",
+        "参拝マナー",
+        "南無観世音菩薩",
+        "観音百籤",
+        "おみくじ",
+        "本堂",
+        "浅草神社",
+        "静かに参拝"
+      ]
+    },
+    {
+      "locale": "ja",
+      "page": "getting-there",
+      "path": "/ja/temple/senso-ji/getting-there/",
+      "title": "浅草寺へのアクセス：浅草駅から徒歩約5分 — SanctaWay",
+      "meta": "浅草寺は浅草駅から徒歩約5分。東武スカイツリー線、銀座線、つくばエクスプレス、都営浅草線（A4出口）が便利です。境内に駐車場はなく、台東区の雷門地下駐車場を利用します。",
+      "keywords": [
+        "浅草寺",
+        "浅草駅",
+        "東武スカイツリー線",
+        "銀座線",
+        "つくばエクスプレス",
+        "都営浅草線",
+        "雷門地下駐車場",
+        "徒歩5分"
+      ]
+    },
+    {
+      "locale": "ja",
+      "page": "best-time",
+      "path": "/ja/temple/senso-ji/best-time/",
+      "title": "浅草寺の混雑と時間帯：朝と日没後の光 — SanctaWay",
+      "meta": "浅草寺は6時（10～3月は6時30分）の本堂開門直後が空いています。仲見世は昼過ぎに混雑。日没から午後11時頃までのライトアップで、本堂や五重塔をゆっくり眺められます。",
+      "keywords": [
+        "浅草寺",
+        "浅草寺の混雑",
+        "本堂の開門",
+        "ライトアップ",
+        "仲見世",
+        "日没後",
+        "浅草の朝",
+        "五重塔"
+      ]
+    },
+    {
+      "locale": "ja",
+      "page": "notes",
+      "path": "/ja/temple/senso-ji/notes/",
+      "title": "浅草寺を訪れる前に：公式サイトで確認を — SanctaWay",
+      "meta": "お出かけ前に浅草寺の公式サイト（senso-ji.jp）で拝観時間や祈祷の志納金、アクセス、ライトアップの案内を確認しましょう。料金は現地で確かめてください。",
+      "keywords": [
+        "浅草寺",
+        "浅草寺 公式サイト",
+        "拝観時間",
+        "志納金",
+        "アクセス",
+        "ライトアップ",
+        "senso-ji.jp",
+        "参拝の準備"
+      ]
+    },
+    {
+      "locale": "ja",
+      "page": "tour",
+      "path": "/ja/temple/senso-ji/tour/",
+      "title": "浅草寺を歩く：雷門から本堂までの六つの立ち寄り — SanctaWay",
+      "meta": "浅草寺の境内を歩く六つの立ち寄りコース。雷門から仲見世を抜け、宝蔵門、手水舎、本堂、五重塔へと自分の足で巡り、所要時間は自由に調整できます。",
+      "keywords": [
+        "浅草寺",
+        "浅草寺の参拝",
+        "雷門",
+        "仲見世",
+        "宝蔵門",
+        "本堂",
+        "五重塔",
+        "浅草を歩く"
+      ]
+    },
+    {
+      "locale": "zh-hant",
+      "page": "overview",
+      "path": "/zh-hant/temple/senso-ji/",
+      "title": "淺草寺（淺草觀音）：東京最古老佛教寺院 — SanctaWay",
+      "meta": "淺草寺為東京最古老的佛教寺院，位於雷門、仲見世與本堂的中軸線上。本堂 4–9 月 06:00–17:00 開放，10–3 月改為 06:30 開門。",
+      "keywords": [
+        "淺草寺",
+        "淺草觀音",
+        "東京最古老寺院",
+        "雷門",
+        "仲見世",
+        "本堂",
+        "淺草"
+      ]
+    },
+    {
+      "locale": "zh-hant",
+      "page": "visit",
+      "path": "/zh-hant/temple/senso-ji/visit/",
+      "title": "淺草寺本堂參拜時間、法會與夜間照明 — SanctaWay",
+      "meta": "淺草寺本堂 4–9 月 06:00–17:00、10–3 月 06:30 開門，每日法會在 06:00／06:30、10:00 與 14:00。官方照明由日落至約 23:00。",
+      "keywords": [
+        "淺草寺參拜",
+        "本堂開放時間",
+        "本堂法會",
+        "志納金",
+        "淺草寺照明",
+        "影向堂御朱印",
+        "淺草"
+      ]
+    },
+    {
+      "locale": "zh-hant",
+      "page": "etiquette",
+      "path": "/zh-hant/temple/senso-ji/etiquette/",
+      "title": "淺草寺參拜禮儀：祈禱方式與寺內禁忌 — SanctaWay",
+      "meta": "在淺草寺合掌祈禱並唱誦「南無觀世音菩薩」，本堂內請保持安靜。御籤為觀音百籤；參拜時不宜喧嘩，拍攝請留意其他參拜者。相鄰的淺草神社是另一座神道神社。",
+      "keywords": [
+        "淺草寺禮儀",
+        "南無觀世音菩薩",
+        "御籤",
+        "觀音百籤",
+        "本堂保持安靜",
+        "無障礙",
+        "淺草神社"
+      ]
+    },
+    {
+      "locale": "zh-hant",
+      "page": "getting-there",
+      "path": "/zh-hant/temple/senso-ji/getting-there/",
+      "title": "淺草寺交通：從淺草站步行約五分鐘 — SanctaWay",
+      "meta": "淺草寺位於淺草站步行約五分鐘處（東武晴空塔線、銀座線、筑波快線、都營淺草線 A4 出口）。寺內無停車場，可使用台東區雷門地下停車場。",
+      "keywords": [
+        "淺草寺交通",
+        "淺草站",
+        "東武晴空塔線",
+        "銀座線",
+        "筑波快線",
+        "都營淺草線 A4 出口",
+        "雷門地下停車場"
+      ]
+    },
+    {
+      "locale": "zh-hant",
+      "page": "best-time",
+      "path": "/zh-hant/temple/senso-ji/best-time/",
+      "title": "淺草寺最佳參拜時間：清晨與傍晚光線 — SanctaWay",
+      "meta": "淺草寺在 06:00 開門（10–3 月 06:30）時最清靜，仲見世在中午最擁擠。官方照明每日由日落至約 23:00，適合傍晚再來一趟。",
+      "keywords": [
+        "淺草寺最佳時間",
+        "本堂開門",
+        "仲見世人潮",
+        "淺草寺照明",
+        "酸漿市",
+        "羽子板市",
+        "御朱印時間",
+        "新年淺草"
+      ]
+    },
+    {
+      "locale": "zh-hant",
+      "page": "notes",
+      "path": "/zh-hant/temple/senso-ji/notes/",
+      "title": "淺草寺行前提醒：出發前查官方頁面 — SanctaWay",
+      "meta": "出發前請在官方網站確認淺草寺的參拜時間、祈禱志納金、交通與照明等資訊；御朱印或功德箱的費用請於現場確認，多一分準備，行程就更順利。",
+      "keywords": [
+        "淺草寺官方網站",
+        "行前確認",
+        "淺草寺交通",
+        "照明公告",
+        "淺草寺問答",
+        "志納金"
+      ]
+    },
+    {
+      "locale": "zh-hant",
+      "page": "tour",
+      "path": "/zh-hant/temple/senso-ji/tour/",
+      "title": "淺草寺徒步散策：雷門經仲見世到本堂 — SanctaWay",
+      "meta": "淺草寺的六站徒步路線，由雷門出發，沿仲見世商店街一路前往寶藏門、本堂與五重塔；沿路可細看各處建築的細節，並在境內感受寺院的靜謐氛圍，值得慢慢走一趟。",
+      "keywords": [
+        "淺草寺徒步",
+        "雷門",
+        "仲見世",
+        "寶藏門",
+        "本堂",
+        "五重塔",
+        "淺草散策"
+      ]
+    },
+    {
+      "locale": "zh-hans",
+      "page": "overview",
+      "path": "/zh-hans/temple/senso-ji/",
+      "title": "浅草寺（浅草观音）：东京最古老的寺院 — SanctaWay",
+      "meta": "浅草寺（浅草观音）是东京最古老的佛教寺院，位于雷门、仲见世与本堂一线的浅草。本堂4—9月6:00–17:00开放，10月—次年3月6:30–17:00。",
+      "keywords": [
+        "浅草寺",
+        "浅草观音",
+        "东京浅草",
+        "浅草寺本堂",
+        "雷门",
+        "仲见世",
+        "东京最古老的寺院"
+      ]
+    },
+    {
+      "locale": "zh-hans",
+      "page": "visit",
+      "path": "/zh-hans/temple/senso-ji/visit/",
+      "title": "浅草寺本堂开放时间、每日法会与夜间照明 — SanctaWay",
+      "meta": "浅草寺本堂4–9月6:00–17:00，10月至次年3月6:30–17:00开放，全年17:00闭堂；每日法会6:00或6:30、10:00与14:00；照明自日落至约23:00。",
+      "keywords": [
+        "浅草寺开放时间",
+        "本堂开放时间",
+        "浅草寺法会",
+        "志纳金",
+        "浅草寺照明",
+        "影向堂御朱印"
+      ]
+    },
+    {
+      "locale": "zh-hans",
+      "page": "etiquette",
+      "path": "/zh-hans/temple/senso-ji/etiquette/",
+      "title": "浅草寺参拜礼仪：合掌、诵念与观音百签 — SanctaWay",
+      "meta": "在浅草寺参拜时合掌，诵念「南无观世音菩萨」，本堂内请保持安静，拍照时留意周围参拜者。抽签为观音百签，旁边的浅草神社是独立的神道教神社，礼仪不同。",
+      "keywords": [
+        "浅草寺参拜礼仪",
+        "南无观世音菩萨",
+        "观音百签",
+        "本堂内保持安静",
+        "无障碍通道",
+        "浅草神社"
+      ]
+    },
+    {
+      "locale": "zh-hans",
+      "page": "getting-there",
+      "path": "/zh-hans/temple/senso-ji/getting-there/",
+      "title": "浅草寺交通：浅草站到本堂约五分钟 — SanctaWay",
+      "meta": "从浅草站步行约五分钟即可到达浅草寺；浅草站有东武晴空塔线、银座线、筑波快线与都营浅草线（A4出口）。寺内没有停车场，可停台东区雷门地下停车场。",
+      "keywords": [
+        "浅草寺交通",
+        "浅草站",
+        "东武晴空塔线",
+        "银座线",
+        "筑波快线",
+        "都营浅草线A4出口",
+        "雷门地下停车场"
+      ]
+    },
+    {
+      "locale": "zh-hans",
+      "page": "best-time",
+      "path": "/zh-hans/temple/senso-ji/best-time/",
+      "title": "浅草寺最佳时间：清晨本堂与夜间灯光 — SanctaWay",
+      "meta": "浅草寺在6:00开门（10月至次年3月为6:30）时最安静，仲见世中午前后最拥挤。官方照明每天从日落持续到约23:00，日落后可在寺院内观看点亮的建筑。",
+      "keywords": [
+        "浅草寺最佳时间",
+        "本堂开门时间",
+        "仲见世人流",
+        "浅草寺照明",
+        "酸浆市",
+        "羽子板市",
+        "浅草新年"
+      ]
+    },
+    {
+      "locale": "zh-hans",
+      "page": "notes",
+      "path": "/zh-hans/temple/senso-ji/notes/",
+      "title": "浅草寺行前须知：请核对官网页面信息 — SanctaWay",
+      "meta": "出发前请到浅草寺官网 senso-ji.jp 核对开放时间、法会、交通与照明公告，并确认各服务台收费情况；御朱印请在影向堂领取，开放时间8:00–16:30。",
+      "keywords": [
+        "浅草寺官网",
+        "行前核对",
+        "浅草寺访问信息",
+        "照明公告",
+        "浅草寺常见问答",
+        "志纳金"
+      ]
+    },
+    {
+      "locale": "zh-hans",
+      "page": "tour",
+      "path": "/zh-hans/temple/senso-ji/tour/",
+      "title": "浅草寺徒步六站：从雷门经仲见世到本堂 — SanctaWay",
+      "meta": "浅草寺的六站徒步为自行导览路线：从雷门出发，沿仲见世商店街走向宝藏门，再依次经过手水舍、本堂与五重塔，全程在寺院境内步行观看，可自行安排节奏与停留时间。",
+      "keywords": [
+        "浅草寺徒步",
+        "雷门",
+        "仲见世",
+        "宝藏门",
+        "本堂",
+        "五重塔",
+        "浅草散步路线"
+      ]
+    },
+    {
+      "locale": "ko",
+      "page": "overview",
+      "path": "/ko/temple/senso-ji/",
+      "title": "센소지(浅草寺), 아사쿠사 관음 — SanctaWay",
+      "meta": "아사쿠사의 오래된 사찰 센소지. 본당 4~9월 06:00–17:00, 10~3월 06:30–17:00. 조명은 일몰부터 23시경까지.",
+      "keywords": [
+        "센소지",
+        "아사쿠사 관음",
+        "아사쿠사",
+        "도쿄의 오래된 사찰",
+        "가미나리몬",
+        "나카미세",
+        "본당",
+        "Senso-ji"
+      ]
+    },
+    {
+      "locale": "ko",
+      "page": "visit",
+      "path": "/ko/temple/senso-ji/visit/",
+      "title": "센소지 관람 시간과 예불, 조명 안내 — SanctaWay",
+      "meta": "본당은 4~9월 06:00–17:00, 10~3월 06:30–17:00이며, 예불은 06:00/06:30·10:00·14:00. 조명은 일몰부터 23시경까지.",
+      "keywords": [
+        "센소지 관람 시간",
+        "본당 운영 시간",
+        "센소지 예불",
+        "志納金",
+        "센소지 조명",
+        "影向堂 고슈인",
+        "아사쿠사"
+      ]
+    },
+    {
+      "locale": "ko",
+      "page": "etiquette",
+      "path": "/ko/temple/senso-ji/etiquette/",
+      "title": "센소지 참배 예절과 오미쿠지 안내 — SanctaWay",
+      "meta": "센소지에서는 두 손을 모으고 南無観世音菩薩을 외우며 본당에서는 조용히 합니다. 오미쿠지는 観音百籤이며, 옆의 아사쿠사 신사는 별개 시설입니다.",
+      "keywords": [
+        "센소지 예절",
+        "南無観世音菩薩",
+        "오미쿠지",
+        "観音百籤",
+        "본당 정숙",
+        "아사쿠사 신사",
+        "센소지 참배"
+      ]
+    },
+    {
+      "locale": "ko",
+      "page": "getting-there",
+      "path": "/ko/temple/senso-ji/getting-there/",
+      "title": "아사쿠사역에서 센소지 가는 길 — SanctaWay",
+      "meta": "센소지는 아사쿠사역(도부 스카이트리, 긴자, TX, 도에이 아사쿠사 A4 출구)에서 도보 약 5분. 사찰 주차장은 없고 가미나리몬 지하주차장을 이용하세요.",
+      "keywords": [
+        "센소지 가는 길",
+        "아사쿠사역",
+        "도부 스카이트리",
+        "긴자선",
+        "쓰쿠바 익스프레스",
+        "도에이 아사쿠사 A4 출구",
+        "가미나리몬 지하주차장"
+      ]
+    },
+    {
+      "locale": "ko",
+      "page": "best-time",
+      "path": "/ko/temple/senso-ji/best-time/",
+      "title": "센소지 방문 시기: 새벽과 저녁 조명 — SanctaWay",
+      "meta": "센소지는 본당 개방(06:00, 10~3월 06:30) 시간에 한산하고, 나카미세는 낮에 붐빕니다. 공식 조명은 매일 일몰부터 23시경까지입니다.",
+      "keywords": [
+        "센소지 방문 시기",
+        "본당 개방 시간",
+        "나카미세 혼잡",
+        "센소지 조명",
+        "호즈키 이치",
+        "하고이타 이치",
+        "고슈인 시간",
+        "아사쿠사 설날"
+      ]
+    },
+    {
+      "locale": "ko",
+      "page": "notes",
+      "path": "/ko/temple/senso-ji/notes/",
+      "title": "센소지 방문 전 확인할 공식 안내 — SanctaWay",
+      "meta": "방문 전 센소지 공식 페이지에서 관람 시간, 志納金, 교통, 조명을 확인하세요: visit, jumotsu3, access, faq, lightup. 요금은 현장에서 확인.",
+      "keywords": [
+        "센소지 공식 페이지",
+        "방문 전 확인",
+        "jumotsu3",
+        "센소지 교통",
+        "lightup 조명",
+        "센소지 FAQ",
+        "志納金"
+      ]
+    },
+    {
+      "locale": "ko",
+      "page": "tour",
+      "path": "/ko/temple/senso-ji/tour/",
+      "title": "센소지 도보 코스: 가미나리몬–본당 — SanctaWay",
+      "meta": "도쿄 아사쿠사의 센소지 여섯 정거장 도보 코스는 가미나리몬에서 나카미세를 거쳐 호조몬, 본당, 오중탑까지 경내에서 둘러봅니다.",
+      "keywords": [
+        "센소지 도보 코스",
+        "가미나리몬",
+        "나카미세",
+        "호조몬",
+        "본당",
+        "오중탑",
+        "아사쿠사 산책"
+      ]
+    },
+    {
+      "locale": "es",
+      "page": "overview",
+      "path": "/es/temple/senso-ji/",
+      "title": "Sensō-ji (Asakusa Kannon) en Asakusa, Tokio — SanctaWay",
+      "meta": "Sensō-ji (Asakusa Kannon) es el templo budista más antiguo de Tokio, en el eje Kaminarimon–Nakamise–Hondo de Asakusa. Hondo: 06:00–17:00 (06:30 oct.–mar.).",
+      "keywords": [
+        "Sensō-ji",
+        "Asakusa Kannon",
+        "Asakusa",
+        "templo más antiguo de Tokio",
+        "Kaminarimon",
+        "Nakamise",
+        "Hondo",
+        "templo budista"
+      ]
+    },
+    {
+      "locale": "es",
+      "page": "visit",
+      "path": "/es/temple/senso-ji/visit/",
+      "title": "Horario, servicios e iluminación de Sensō-ji — SanctaWay",
+      "meta": "El Hondo de Sensō-ji abre de 06:00 a 17:00 (06:30 oct.–mar.), con servicios diarios a las 06:00/06:30, 10:00 y 14:00. Iluminación oficial desde el atardecer hasta cerca de las 23:00.",
+      "keywords": [
+        "horario de Sensō-ji",
+        "Hondo 06:00–17:00",
+        "servicios diarios",
+        "志納金",
+        "iluminación de Sensō-ji",
+        "goshuin en el Yōgōdō",
+        "Asakusa"
+      ]
+    },
+    {
+      "locale": "es",
+      "page": "etiquette",
+      "path": "/es/temple/senso-ji/etiquette/",
+      "title": "Normas de visita en Sensō-ji (Asakusa Kannon) — SanctaWay",
+      "meta": "En Sensō-ji, junta las manos y recita Namu Kanzeon Bosatsu; guarda silencio ante el Hondo. El omikuji es 観音百籤 y el Asakusa Shrine contiguo es sintoísta aparte.",
+      "keywords": [
+        "etiqueta en Sensō-ji",
+        "Namu Kanzeon Bosatsu",
+        "omikuji",
+        "観音百籤",
+        "silencio en el Hondo",
+        "accesibilidad",
+        "Asakusa Shrine"
+      ]
+    },
+    {
+      "locale": "es",
+      "page": "getting-there",
+      "path": "/es/temple/senso-ji/getting-there/",
+      "title": "Cómo llegar a Sensō-ji desde la estación Asakusa — SanctaWay",
+      "meta": "Sensō-ji está a unos cinco minutos a pie de la estación de Asakusa (Tobu Skytree, Ginza, TX, Toei Asakusa salida A4). No hay parking; usa el subterráneo Kaminarimon.",
+      "keywords": [
+        "cómo llegar a Sensō-ji",
+        "estación de Asakusa",
+        "línea Tobu Skytree",
+        "línea Ginza",
+        "Tsukuba Express",
+        "salida A4 de Toei Asakusa",
+        "parking Kaminarimon"
+      ]
+    },
+    {
+      "locale": "es",
+      "page": "best-time",
+      "path": "/es/temple/senso-ji/best-time/",
+      "title": "Cuándo visitar Sensō-ji: alba y atardecer — SanctaWay",
+      "meta": "Sensō-ji está más tranquilo al abrir el Hondo a las 06:00 (06:30 oct.–mar.); Nakamise se llena al mediodía. La iluminación oficial va desde el atardecer hasta cerca de las 23:00.",
+      "keywords": [
+        "cuándo visitar Sensō-ji",
+        "hora de apertura del Hondo",
+        "multitudes en Nakamise",
+        "iluminación de Sensō-ji",
+        "Hōzuki-ichi",
+        "Hagoita-ichi",
+        "Año Nuevo en Asakusa"
+      ]
+    },
+    {
+      "locale": "es",
+      "page": "notes",
+      "path": "/es/temple/senso-ji/notes/",
+      "title": "Notas para visitar Sensō-ji: páginas oficiales — SanctaWay",
+      "meta": "Antes de ir, verifica horarios, ofrendas, acceso e iluminación en las páginas oficiales: visit, jumotsu3, access, faq y lightup. Confirma en sitio las tasas de goshuin.",
+      "keywords": [
+        "páginas oficiales de Sensō-ji",
+        "verificar antes de ir",
+        "jumotsu3",
+        "acceso a Sensō-ji",
+        "aviso de lightup",
+        "preguntas frecuentes",
+        "志納金"
+      ]
+    },
+    {
+      "locale": "es",
+      "page": "tour",
+      "path": "/es/temple/senso-ji/tour/",
+      "title": "A pie por Sensō-ji: de Kaminarimon al Hondo — SanctaWay",
+      "meta": "Recorrido autoguiado de seis paradas a pie en Sensō-ji, Asakusa: de Kaminarimon por Nakamise a Hōzōmon, el Hondo y la pagoda de cinco pisos, desde el recinto.",
+      "keywords": [
+        "recorrido a pie por Sensō-ji",
+        "Kaminarimon",
+        "Nakamise",
+        "Hōzōmon",
+        "Hondo",
+        "pagoda de cinco pisos",
+        "paseo por Asakusa"
+      ]
+    },
+    {
+      "locale": "th",
+      "page": "overview",
+      "path": "/th/temple/senso-ji/",
+      "title": "วัดเซ็นโซจิ (Asakusa Kannon) ย่านอาซากุสะ โตเกียว — SanctaWay",
+      "meta": "วัดเซ็นโซจิ (Asakusa Kannon) วัดพุทธที่เก่าแก่ที่สุดในโตเกียว ตั้งอยู่บนแกนกลางคามินาริมอน–นากามิเสะ–โฮนโด ย่านอาซากุสะ โฮนโดเปิด 06:00–17:00 (06:30 ต.ค.–มี.ค.) ไฟประดับทุกวันตั้งแต่พระอาทิตย์ตกถึงราว 23:00",
+      "keywords": [
+        "วัดเซ็นโซจิ",
+        "Asakusa Kannon",
+        "อาซากุสะ",
+        "โตเกียว",
+        "วัดเก่าแก่ที่สุดในโตเกียว",
+        "คามินาริมอน",
+        "นากามิเสะ",
+        "โฮนโด"
+      ]
+    },
+    {
+      "locale": "th",
+      "page": "visit",
+      "path": "/th/temple/senso-ji/visit/",
+      "title": "เวลาเปิดชม พิธีประจำวัน และไฟประดับวัดเซ็นโซจิ — SanctaWay",
+      "meta": "โฮนโดวัดเซ็นโซจิเปิด 06:00–17:00 (06:30 ต.ค.–มี.ค.) ปิดประตู 17:00 ทั้งปี มีพิธีบูชาทุกวัน 06:00/06:30, 10:00 และ 14:00 ไฟประดับโฮนโด เจดีย์ห้าชั้น โฮโซมอน และคามินาริมอนตั้งแต่พระอาทิตย์ตกถึงราว 23:00",
+      "keywords": [
+        "เวลาเปิดวัดเซ็นโซจิ",
+        "พิธีบูชาโฮนโด",
+        "เครื่องบูชา 志納金",
+        "ไฟประดับวัดเซ็นโซจิ",
+        "โต๊ะประทับโยโงโด",
+        "อาซากุสะ"
+      ]
+    },
+    {
+      "locale": "th",
+      "page": "etiquette",
+      "path": "/th/temple/senso-ji/etiquette/",
+      "title": "มารยาทในการเข้าเยี่ยมชมวัดเซ็นโซจิ (Asakusa Kannon) — SanctaWay",
+      "meta": "ที่วัดเซ็นโซจิ พนมมือและสวด 南無観世音菩薩 เบา ๆ หน้าโฮนโด การเสี่ยงทายคือ 観音百籤 ส่วนศาลเจ้าอาซากุสะข้างวัดเป็นศาลเจ้าชินโตที่แยกต่างหาก",
+      "keywords": [
+        "มารยาทวัดเซ็นโซจิ",
+        "南無観世音菩薩",
+        "観音百籤",
+        "สงบหน้าโฮนโด",
+        "ศาลเจ้าอาซากุสะ",
+        "ศาลเจ้าชินโตที่แยกกัน"
+      ]
+    },
+    {
+      "locale": "th",
+      "page": "getting-there",
+      "path": "/th/temple/senso-ji/getting-there/",
+      "title": "เดินทางไปวัดเซ็นโซจิจากสถานีอาซากุสะ — SanctaWay",
+      "meta": "วัดเซ็นโซจิอยู่ห่างจากสถานีอาซากุสะประมาณห้านาทีเดิน (สายโทบุ สกายทรี, สายกินซะ, สายสึคุบะ เอ็กซ์เพรส, สายโทเอ อาซากุสะ ทางออก A4) ไม่มีที่จอดรถในวัด ใช้อาคารจอดใต้ดินคามินาริมอนของเขตไทโต",
+      "keywords": [
+        "วัดเซ็นโซจิ การเดินทาง",
+        "สถานีอาซากุสะ",
+        "สายโทบุ สกายทรี",
+        "สายกินซะ",
+        "สายสึคุบะ เอ็กซ์เพรส",
+        "ทางออก A4 สายโทเอ อาซากุสะ",
+        "อาคารจอดใต้ดินคามินาริมอน"
+      ]
+    },
+    {
+      "locale": "th",
+      "page": "best-time",
+      "path": "/th/temple/senso-ji/best-time/",
+      "title": "ช่วงเวลาที่เหมาะไปเยี่ยมวัดเซ็นโซจิ: แสงเช้าและแสงเย็น — SanctaWay",
+      "meta": "วัดเซ็นโซจิโปร่งเมื่อถึงช่วงเปิดโฮนโดตอน 06:00 (06:30 ต.ค.–มี.ค.) ส่วนนากามิเสะแน่นสุดตอนเที่ยง ไฟประดับทางการสว่างทุกวันตั้งแต่พระอาทิตย์ตกถึงราว 23:00",
+      "keywords": [
+        "ช่วงเวลาที่ดีที่สุดไปวัดเซ็นโซจิ",
+        "เวลาเปิดโฮนโด",
+        "ฝูงชนนากามิเสะ",
+        "ไฟประดับวัดเซ็นโซจิ",
+        "เทศกาลโฮซึกิอิจิ",
+        "เทศกาลฮาโกอิตะอิจิ",
+        "เวลาทำการประทับตรา",
+        "ปีใหม่ในอาซากุสะ"
+      ]
+    },
+    {
+      "locale": "th",
+      "page": "notes",
+      "path": "/th/temple/senso-ji/notes/",
+      "title": "บันทึกก่อนไปวัดเซ็นโซจิ: หน้าทางการที่ควรตรวจสอบ — SanctaWay",
+      "meta": "ก่อนมา ตรวจสอบเวลาเปิดปิด เครื่องบูชา การเดินทาง และแจ้งไฟประดับจากหน้าทางการของวัดเซ็นโซจิ: visit, jumotsu3, access, faq และ lightup หากมีค่าธรรมเนียมที่โต๊ะประทับ ถามยืนยันที่หน้างาน",
+      "keywords": [
+        "หน้าทางการวัดเซ็นโซจิ",
+        "ตรวจสอบก่อนไป",
+        "jumotsu3",
+        "การเดินทางวัดเซ็นโซจิ",
+        "ประกาศไฟประดับ",
+        "คำถามที่พบบ่อย",
+        "เครื่องบูชา 志納金"
+      ]
+    },
+    {
+      "locale": "th",
+      "page": "tour",
+      "path": "/th/temple/senso-ji/tour/",
+      "title": "เส้นทางเดินเท้าที่วัดเซ็นโซจิ: คามินาริมอนถึงโฮนโด — SanctaWay",
+      "meta": "เส้นทางเดินด้วยตัวเองหกจุดที่วัดเซ็นโซจิ เริ่มจากคามินาริมอน ผ่านนากามิเสะ ไปยังโฮโซมอน อาคารล้างมือโอมิซุยะ โฮนโด และเจดีย์ห้าชั้น ชมจากลานวัด",
+      "keywords": [
+        "เส้นทางเดินวัดเซ็นโซจิ",
+        "คามินาริมอน",
+        "นากามิเสะ",
+        "โฮโซมอน",
+        "โฮนโด",
+        "เจดีย์ห้าชั้น",
+        "เดินเที่ยวอาซากุสะ"
       ]
     }
   ]

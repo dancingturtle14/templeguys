@@ -2,6 +2,7 @@ import { useEffect } from 'react'
 import { chapterLabelFor } from './fushimi-i18n'
 import { TEMPLE_CHAPTERS } from './chapters'
 import { getFushimiI18n } from './fushimi-i18n'
+import { getSensoJiI18n, sensoJiChapterLabelFor } from './senso-ji-i18n'
 import { getTemple, regionLabel, religionLabel } from './temples'
 import type { Locale, Route, TempleChapter } from '../types'
 import { fushimiSeoFromRoute } from './fushimi-seo'
@@ -60,8 +61,11 @@ export function useDocumentMeta(title: string, description: string, keywords?: s
   }, [title, description, keywordKey])
 }
 
-function chapterLabel(chapter: TempleChapter, locale?: Locale): string {
-  if (locale) return chapterLabelFor(chapter, locale)
+function chapterLabel(chapter: TempleChapter, locale?: Locale, templeId?: string): string {
+  if (locale) {
+    if (templeId === 'senso-ji') return sensoJiChapterLabelFor(chapter, locale)
+    return chapterLabelFor(chapter, locale)
+  }
   return TEMPLE_CHAPTERS.find((c) => c.id === chapter)?.label ?? chapter
 }
 
@@ -174,6 +178,13 @@ export function metaForRoute(route: Route): { title: string; description: string
         }
       }
       if (route.id === 'senso-ji') {
+        if (route.locale) {
+          const i18n = getSensoJiI18n(route.locale)
+          return {
+            title: i18n.tour.documentTitle,
+            description: clip(i18n.tour.lede),
+          }
+        }
         return {
           title: `On foot · Sensō-ji — ${BRAND}`,
           description: clip(
@@ -218,6 +229,17 @@ export function metaForRoute(route: Route): { title: string; description: string
           return { title: i18n.title, description: clip(i18n.meta || i18n.summary) }
         }
         const label = chapterLabel(chapter, route.locale)
+        return {
+          title: `${label} · ${i18n.h1} — ${BRAND}`,
+          description: clip(`${label}. ${i18n.meta || i18n.summary}`),
+        }
+      }
+      if (route.id === 'senso-ji' && route.locale) {
+        const i18n = getSensoJiI18n(route.locale)
+        if (chapter === 'overview') {
+          return { title: i18n.title, description: clip(i18n.meta || i18n.summary) }
+        }
+        const label = chapterLabel(chapter, route.locale, 'senso-ji')
         return {
           title: `${label} · ${i18n.h1} — ${BRAND}`,
           description: clip(`${label}. ${i18n.meta || i18n.summary}`),

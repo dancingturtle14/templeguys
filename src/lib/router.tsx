@@ -10,7 +10,8 @@ import {
   type AnchorHTMLAttributes,
 } from 'react'
 import type { Route, TempleChapter } from '../types'
-import { isFushimiTemple, parseLocaleFromPath, stripLocaleFromPath } from './fushimi-i18n'
+import { parseLocaleFromPath, stripLocaleFromPath } from './fushimi-i18n'
+import { isLocalizedTemple } from './senso-ji-i18n'
 
 /** Vite BASE_URL, e.g. `/` on apex domain or project Pages path. */
 function getBase(): string {
@@ -70,7 +71,7 @@ export function parsePath(pathname: string, search: string): Route {
   const templeTour = path.match(/^\/temple\/([^/]+)\/tour$/)
   if (templeTour) {
     const id = decodeURIComponent(templeTour[1])
-    if (locale && !isFushimiTemple(id)) return { name: 'notfound' }
+    if (locale && !isLocalizedTemple(id)) return { name: 'notfound' }
     if (locale) return { name: 'temple-tour', id, locale }
     return { name: 'temple-tour', id }
   }
@@ -78,7 +79,7 @@ export function parsePath(pathname: string, search: string): Route {
   const templeChapter = path.match(/^\/temple\/([^/]+)\/([^/]+)$/)
   if (templeChapter && CHAPTERS.has(templeChapter[2])) {
     const id = decodeURIComponent(templeChapter[1])
-    if (locale && !isFushimiTemple(id)) return { name: 'notfound' }
+    if (locale && !isLocalizedTemple(id)) return { name: 'notfound' }
     const chapter = templeChapter[2] as TempleChapter
     if (locale) return { name: 'temple', id, chapter, locale }
     return { name: 'temple', id, chapter }
@@ -87,7 +88,7 @@ export function parsePath(pathname: string, search: string): Route {
   const temple = path.match(/^\/temple\/([^/]+)$/)
   if (temple) {
     const id = decodeURIComponent(temple[1])
-    if (locale && !isFushimiTemple(id)) return { name: 'notfound' }
+    if (locale && !isLocalizedTemple(id)) return { name: 'notfound' }
     if (locale) return { name: 'temple', id, chapter: 'overview', locale }
     return { name: 'temple', id, chapter: 'overview' }
   }
@@ -107,7 +108,7 @@ export function parsePath(pathname: string, search: string): Route {
 
 export function inheritLocale(current: Route, next: Route): Route {
   if (next.name !== 'temple' && next.name !== 'temple-tour') return next
-  if (next.locale || !isFushimiTemple(next.id)) return next
+  if (next.locale || !isLocalizedTemple(next.id)) return next
   if ((current.name === 'temple' || current.name === 'temple-tour') && current.locale) {
     return { ...next, locale: current.locale }
   }
@@ -162,7 +163,7 @@ export function routeToUrl(route: Route): string {
   if (
     (route.name === 'temple' || route.name === 'temple-tour') &&
     route.locale &&
-    isFushimiTemple(route.id)
+    isLocalizedTemple(route.id)
   ) {
     path = `/${route.locale}${path}`
   }

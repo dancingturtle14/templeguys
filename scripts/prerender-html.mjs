@@ -96,3 +96,16 @@ export function fushimiI18nPathnames() {
   }
   return out
 }
+
+/** Sensō-ji locale paths, written into public/sitemap.xml. */
+export function sensoJiI18nPathnames() {
+  const locales = ['ja', 'zh-hant', 'zh-hans', 'ko', 'es', 'th']
+  const chapters = ['visit', 'etiquette', 'getting-there', 'best-time', 'notes']
+  const out = []
+  for (const locale of locales) {
+    out.push(`/${locale}/temple/senso-ji/`)
+    for (const chapter of chapters) out.push(`/${locale}/temple/senso-ji/${chapter}/`)
+    out.push(`/${locale}/temple/senso-ji/tour/`)
+  }
+  return out
+}

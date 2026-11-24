@@ -7,7 +7,8 @@ import { TempleImage } from '../components/TempleImage'
 import { TicketsCta } from '../components/TicketsCta'
 import { FushimiTourCard, MeijiShrineTourCard, SensoJiTourCard, UluwatuTourCard, IstiqlalMosqueTourCard } from './TempleTour'
 import { chaptersFor } from '../lib/chapters'
-import { getFushimiI18n, localizeFushimiTemple } from '../lib/fushimi-i18n'
+import { localizeFushimiTemple } from '../lib/fushimi-i18n'
+import { localizeSensoJiTemple, shellChrome } from '../lib/senso-ji-i18n'
 import { Link, useRouter } from '../lib/router'
 import { getTemple, temples } from '../lib/temples'
 import type { Temple, TempleChapter } from '../types'
@@ -33,15 +34,15 @@ function BulletList({ items, accent = false }: { items: string[]; accent?: boole
   )
 }
 
-function useLocaleChrome() {
+function useLocaleChrome(templeId?: string) {
   const { route } = useRouter()
   const locale = route.name === 'temple' || route.name === 'temple-tour' ? route.locale : undefined
-  return { locale, chrome: locale ? getFushimiI18n(locale).chrome : null }
+  return { locale, chrome: shellChrome(locale, templeId ?? (route.name === 'temple' || route.name === 'temple-tour' ? route.id : undefined)) }
 }
 
 function OverviewChapter({ temple }: { temple: Temple }) {
-  const { locale, chrome } = useLocaleChrome()
-  const chapterList = chaptersFor(temple.id === 'fushimi-inari' ? locale : undefined)
+  const { locale, chrome } = useLocaleChrome(temple.id)
+  const chapterList = chaptersFor(temple.id === 'fushimi-inari' || temple.id === 'senso-ji' ? locale : undefined, temple.id)
   return (
     <div className="space-y-8">
       <ChapterHeading title={chrome?.chapter_overview ?? 'Overview'} lede={temple.summary} />
@@ -80,7 +81,7 @@ function OverviewChapter({ temple }: { temple: Temple }) {
 }
 
 function VisitChapter({ temple }: { temple: Temple }) {
-  const { chrome } = useLocaleChrome()
+  const { chrome } = useLocaleChrome(temple.id)
   const v = temple.visit
   return (
     <div className="space-y-8">
@@ -111,7 +112,7 @@ function VisitChapter({ temple }: { temple: Temple }) {
 }
 
 function EtiquetteChapter({ temple }: { temple: Temple }) {
-  const { chrome } = useLocaleChrome()
+  const { chrome } = useLocaleChrome(temple.id)
   const e = temple.etiquette
   return (
     <div className="space-y-8">
@@ -122,7 +123,7 @@ function EtiquetteChapter({ temple }: { temple: Temple }) {
 }
 
 function GettingThereChapter({ temple }: { temple: Temple }) {
-  const { chrome } = useLocaleChrome()
+  const { chrome } = useLocaleChrome(temple.id)
   const g = temple.gettingThere
   return (
     <div className="space-y-8">
@@ -140,7 +141,7 @@ function GettingThereChapter({ temple }: { temple: Temple }) {
 }
 
 function BestTimeChapter({ temple }: { temple: Temple }) {
-  const { chrome } = useLocaleChrome()
+  const { chrome } = useLocaleChrome(temple.id)
   const b = temple.bestTime
   return (
     <div className="space-y-8">
@@ -158,7 +159,7 @@ function BestTimeChapter({ temple }: { temple: Temple }) {
 }
 
 function NotesChapter({ temple }: { temple: Temple }) {
-  const { chrome } = useLocaleChrome()
+  const { chrome } = useLocaleChrome(temple.id)
   const n = temple.notes
   return (
     <div className="space-y-8">
@@ -194,10 +195,15 @@ export function TempleDetailPage({
   id: string
   chapter?: TempleChapter
 }) {
-  const { locale, chrome } = useLocaleChrome()
+  const { locale, chrome } = useLocaleChrome(id)
   const found = getTemple(id)
-  const temple = found && locale && id === 'fushimi-inari' ? localizeFushimiTemple(found, locale) : found
-  const chapterList = chaptersFor(id === 'fushimi-inari' ? locale : undefined)
+  const temple =
+    found && locale && id === 'fushimi-inari'
+      ? localizeFushimiTemple(found, locale)
+      : found && locale && id === 'senso-ji'
+        ? localizeSensoJiTemple(found, locale)
+        : found
+  const chapterList = chaptersFor(id === 'fushimi-inari' || id === 'senso-ji' ? locale : undefined, id)
   if (!temple) {
     return (
       <div className="mx-auto max-w-3xl px-4 py-20 text-center">

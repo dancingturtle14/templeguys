@@ -6,6 +6,7 @@ import {
   applyShell,
   canonicalUrl,
   fushimiI18nPathnames,
+  sensoJiI18nPathnames,
   pageOutputPath,
   sitemapPathnames,
 } from './prerender-html.mjs'
@@ -113,7 +114,7 @@ test('canonicalUrl uses official trailing-slash URLs', () => {
 test('sitemap lists trailing-slash official URLs including live Fushimi locale pages', () => {
   const xml = readFileSync(new URL('../public/sitemap.xml', import.meta.url), 'utf8')
   const paths = sitemapPathnames(xml)
-  assert.equal(paths.length, 2158)
+  assert.equal(paths.length, 2200)
   assert.equal(paths.length, new Set(paths).size)
   for (const path of paths) {
     assert.ok(path.startsWith('/'), path)
@@ -121,13 +122,17 @@ test('sitemap lists trailing-slash official URLs including live Fushimi locale p
   }
   const localePaths = fushimiI18nPathnames()
   assert.equal(localePaths.length, 42)
+  const sensoPaths = sensoJiI18nPathnames()
+  assert.equal(sensoPaths.length, 42)
   const set = new Set(paths)
-  for (const path of localePaths) {
+  for (const path of [...localePaths, ...sensoPaths]) {
     assert.ok(set.has(path), path)
   }
   const unexpected = paths.filter(
     (path) =>
-      /^\/(ja|zh-hant|zh-hans|ko|es|th)\//.test(path) && !path.includes('/temple/fushimi-inari/'),
+      /^\/(ja|zh-hant|zh-hans|ko|es|th)\//.test(path) &&
+      !path.includes('/temple/fushimi-inari/') &&
+      !path.includes('/temple/senso-ji/'),
   )
   assert.deepEqual(unexpected, [])
 })

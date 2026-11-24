@@ -3,7 +3,7 @@ import { readFileSync } from 'node:fs'
 import { test } from 'node:test'
 import React from 'react'
 import { createJiti } from 'jiti'
-import { applyShell, fushimiI18nPathnames } from './prerender-html.mjs'
+import { applyShell, fushimiI18nPathnames, sensoJiI18nPathnames } from './prerender-html.mjs'
 
 globalThis.React = React
 
@@ -20,7 +20,7 @@ test('live sitemap lists official trailing-slash URLs including Fushimi locale p
   assert.equal(localePaths.length, 42)
   const xml = readFileSync(new URL('../public/sitemap.xml', import.meta.url), 'utf8')
   const locs = [...xml.matchAll(/<loc>\s*([^<\s]+)\s*<\/loc>/g)].map((match) => match[1])
-  assert.equal(locs.length, 2158)
+  assert.equal(locs.length, 2200)
   assert.equal(locs.length, new Set(locs).size)
   for (const loc of locs) {
     assert.ok(loc.startsWith('https://sanctaway.com/'), loc)
@@ -29,9 +29,15 @@ test('live sitemap lists official trailing-slash URLs including Fushimi locale p
   for (const path of localePaths) {
     assert.ok(locs.includes(`https://sanctaway.com${path}`), path)
   }
+  const sensoPaths = sensoJiI18nPathnames()
+  assert.equal(sensoPaths.length, 42)
+  for (const path of sensoPaths) {
+    assert.ok(locs.includes(`https://sanctaway.com${path}`), path)
+  }
   const unexpected = locs.filter((loc) =>
     /https:\/\/sanctaway\.com\/(ja|zh-hant|zh-hans|ko|es|th)\//.test(loc) &&
-    !loc.includes('/temple/fushimi-inari/'),
+    !loc.includes('/temple/fushimi-inari/') &&
+    !loc.includes('/temple/senso-ji/'),
   )
   assert.deepEqual(unexpected, [])
 })

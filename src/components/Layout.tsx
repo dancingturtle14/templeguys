@@ -1,13 +1,15 @@
 import { useEffect, type ReactNode } from 'react'
 import { Footer } from './Footer'
 import { Header } from './Header'
-import { getFushimiI18n, getHtmlLang } from '../lib/fushimi-i18n'
+import { getHtmlLang } from '../lib/fushimi-i18n'
+import { shellChrome } from '../lib/senso-ji-i18n'
 import { useRouter } from '../lib/router'
 
 export function Layout({ children }: { children: ReactNode }) {
   const { route } = useRouter()
   const locale = route.name === 'temple' || route.name === 'temple-tour' ? route.locale : undefined
-  const skip = locale ? getFushimiI18n(locale).chrome.skip_to_content : undefined
+  const templeId = route.name === 'temple' || route.name === 'temple-tour' ? route.id : undefined
+  const skip = shellChrome(locale, templeId)?.skip_to_content
   useEffect(() => {
     document.documentElement.lang = getHtmlLang(locale)
   }, [locale])

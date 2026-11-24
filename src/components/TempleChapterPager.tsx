@@ -1,6 +1,6 @@
 import { Link, useRouter } from '../lib/router'
 import { adjacentChapters } from '../lib/chapters'
-import { getFushimiI18n } from '../lib/fushimi-i18n'
+import { shellChrome } from '../lib/senso-ji-i18n'
 import type { TempleChapter } from '../types'
 
 export function TempleChapterPager({
@@ -12,8 +12,8 @@ export function TempleChapterPager({
 }) {
   const { route } = useRouter()
   const locale = route.name === 'temple' ? route.locale : undefined
-  const { prev, next } = adjacentChapters(chapter, templeId === 'fushimi-inari' ? locale : undefined)
-  const chrome = locale && templeId === 'fushimi-inari' ? getFushimiI18n(locale).chrome : null
+  const { prev, next } = adjacentChapters(chapter, templeId === 'fushimi-inari' || templeId === 'senso-ji' ? locale : undefined, templeId)
+  const chrome = locale && (templeId === 'fushimi-inari' || templeId === 'senso-ji') ? shellChrome(locale, templeId) : null
   return (
     <div className="mt-12 flex flex-col gap-3 border-t border-line pt-6 sm:flex-row sm:justify-between">
       {prev ? (

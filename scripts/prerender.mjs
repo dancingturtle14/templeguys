@@ -1,7 +1,7 @@
 import { existsSync, mkdirSync, readFileSync, readdirSync, writeFileSync } from 'node:fs'
 import { dirname, join } from 'node:path'
 import { pathToFileURL } from 'node:url'
-import { applyShell, canonicalUrl, fushimiI18nPathnames, pageOutputPath, sitemapPathnames } from './prerender-html.mjs'
+import { applyShell, canonicalUrl, fushimiI18nPathnames, sensoJiI18nPathnames, pageOutputPath, sitemapPathnames } from './prerender-html.mjs'
 
 const root = process.cwd()
 const dist = join(root, 'dist')
@@ -24,7 +24,7 @@ if (!template.includes('GTM-TF6HFGXT')) {
 }
 
 const sitemap = readFileSync(join(root, 'public', 'sitemap.xml'), 'utf8')
-const paths = [...new Set([...sitemapPathnames(sitemap), ...fushimiI18nPathnames()])]
+const paths = [...new Set([...sitemapPathnames(sitemap), ...fushimiI18nPathnames(), ...sensoJiI18nPathnames()])]
 
 const entryName = readdirSync(ssrDir).find((name) => /^entry-server\.(js|mjs)$/.test(name))
 if (!entryName) {
